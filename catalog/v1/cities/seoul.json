@@ -1,0 +1,24 @@
+{
+  "id": "seoul",
+  "slug": "seoul",
+  "title": "Сеул",
+  "subtitle": "Seoul · 서울 · 5 маршрутов",
+  "meta": "Республика Корея · дворцы, районы, рынки и река",
+  "practicalNote": "Лучше апрель-май и сентябрь-октябрь. Летом жарко и дождливо, зимой холодно; перед длинной прогулкой проверьте погоду и мелкую пыль.",
+  "guideIds": [
+    "seoul-first-time",
+    "seoul-old-city-walk",
+    "seoul-market-evening",
+    "seoul-calm-day",
+    "seoul-river-views"
+  ],
+  "identity": {
+    "accent": "#205E54",
+    "soft": "#DDE9E4",
+    "deep": "#16463E",
+    "ink": "#143F38",
+    "motif": "palace",
+    "glyph": "漢",
+    "hook": "Ханян стал столицей Чосон · 1394"
+  }
+}
