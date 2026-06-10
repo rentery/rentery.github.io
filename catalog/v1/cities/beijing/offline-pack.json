@@ -21,7 +21,9 @@
       "motif": "axis",
       "glyph": "京",
       "hook": "Город имперской оси · с 1420"
-    }
+    },
+    "timezone": "Asia/Shanghai",
+    "countryId": "china"
   },
   "guides": [
     {
@@ -1008,5 +1010,6 @@
       "guideId": "wall",
       "order": 6
     }
-  ]
+  ],
+  "packHash": "ef3e0bc73356"
 }
