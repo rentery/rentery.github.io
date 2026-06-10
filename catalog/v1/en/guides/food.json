@@ -1,0 +1,127 @@
+{
+  "id": "food",
+  "cityId": "beijing",
+  "category": "Food",
+  "title": "Evening By Qianmen",
+  "subtitle": "Qianmen / Dashilan",
+  "blurb": "Walk Qianmen and Dashilan first, then choose dinner without spending the evening in a random queue.",
+  "mood": "Signs, queues, and warm pre-dinner noise",
+  "accent": "#B65F2A",
+  "soft": "#F4E3D4",
+  "deep": "#8C4A1C",
+  "ink": "#7B3F18",
+  "motif": "steam",
+  "duration": "Evening",
+  "stops": 6,
+  "distance": "3-5 km",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Arrive hungry",
+    "line": "Look at menus and queues first, then sit down for dinner."
+  },
+  "content": {
+    "intro": "Start the evening on Qianmen, turn into Dashilan, and do not sit in the first restaurant just because the sign is bright. Make one loop, look at menus, queues, and seating, then choose duck or another dinner.\n\nAfter eating, keep the plan flexible: if you have energy and the program works, go to Lao She Teahouse; if not, walk to Sanlihe or head straight to the metro. Shops and restaurants here change, so check hours and recent reviews on the day.",
+    "routeLogic": "On Qianmen, look at facades and side entrances into Dashilan.\nIn Dashilan, pass through the crowd without stopping at every window.\nBefore dinner, compare menus and queues in two or three places.\nAdd Lao She Teahouse only after checking the program.\nUse Sanlihe as a short water-side exit after eating.",
+    "bestFor": "an evening after a museum when you do not want a long transfer\na first dinner in the city with time to choose\nold signs, lively streets, and a short walk after food",
+    "notFor": "travelers who want a quiet dinner\ncrowd fatigue\nwhen you need to reach a show without checking the schedule",
+    "beforeYouGo": "Arrive before the dinner peak so the restaurant choice is not made in the densest queue.\nFor old Beijing brands, check the exact address because branches can differ.\nCheck the Lao She program on the day, usually through WeChat or an official channel.",
+    "timing": "Start 1.5-2 hours before dinner. Walk Qianmen and Dashilan first, then sit down to eat; add the teahouse after dinner only if schedule and energy match.",
+    "fallbackPlan": "If queues are too long, move into nearby lanes or switch from duck to noodles, snacks, and tea. If rain starts, keep Qianmen, dinner, and a taxi back."
+  },
+  "stopList": [
+    {
+      "name": "Qianmen Street",
+      "note": "Look around before turning into Dashilan",
+      "time": "30-50 min",
+      "walk": "8 min",
+      "content": {
+        "context": "On Qianmen, walk the broad street south of the square and look at facades, signs, and side entrances into Dashilan. Do not spend all your appetite and time here; it is a good warm-up before denser streets.",
+        "lookFor": "View toward Qianmen Gate\nOld shop signs\nSide entrances into Dashilan",
+        "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not spend your whole appetite on first snacks.",
+        "nextMove": "Turn into Dashilan, where the streets become narrower and denser."
+      },
+      "id": "food-1",
+      "guideId": "food",
+      "order": 1
+    },
+    {
+      "name": "Dashilan",
+      "note": "Notice the signs but skip weak stops",
+      "time": "40-70 min",
+      "walk": "6 min",
+      "content": {
+        "context": "In Dashilan, stay on the main street only while it stays interesting: old lettering, narrow facades, and queues at well-known places. If the windows start to repeat or the crowd stalls, turn into a side street and return to choosing dinner.",
+        "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places",
+        "practical": "A queue does not always mean the best choice.\nCheck recent reviews for the exact address.\nSide streets are easier for a short breather.",
+        "nextMove": "After a loop through Dashilan, choose where to eat: here or just off the main flow."
+      },
+      "id": "food-2",
+      "guideId": "food",
+      "order": 2
+    },
+    {
+      "name": "Old Brands",
+      "note": "Check the exact address, not only the name",
+      "time": "30-60 min",
+      "walk": "5 min",
+      "content": {
+        "context": "At old Beijing brands, first check the address and watch what people ahead of you buy. A famous name cannot rescue poor seating or a tired kitchen, so do not buy a large set before the main dinner.",
+        "lookFor": "Signs with dates\nOpen kitchens\nWhat local visitors are buying",
+        "practical": "Check the address because brands can have different branches.\nDo not order a large set before dinner.\nIf the queue is not moving, change the plan.",
+        "nextMove": "Move on to Peking duck dinner or choose a simpler nearby meal."
+      },
+      "id": "food-3",
+      "guideId": "food",
+      "order": 3
+    },
+    {
+      "entry": "booking helps",
+      "name": "Duck Dinner",
+      "note": "Sit before peak time or keep a backup dinner",
+      "time": "1-1.5 h",
+      "walk": "8 min",
+      "content": {
+        "context": "If you want Peking duck, sit down before the peak or book ahead. At rush time, do not chase the loudest sign. Choose a place where you can be seated properly and will not spend the whole evening waiting.",
+        "lookFor": "Seating queue\nHow the duck is carved\nSauces and pancakes",
+        "practical": "Check the portion size.\nFor two people, half a duck and a couple of dishes can be enough.\nIf booking fails, do not wait at any cost.",
+        "nextMove": "After dinner, choose between a tea performance, a short walk, or going straight to the metro."
+      },
+      "id": "food-4",
+      "guideId": "food",
+      "order": 4
+    },
+    {
+      "entry": "by schedule",
+      "name": "Lao She Teahouse",
+      "note": "Go only if schedule and energy line up",
+      "time": "1-1.5 h",
+      "walk": "10 min",
+      "content": {
+        "context": "Go to Lao She Teahouse only after checking the program and start time. After a heavy dinner, a show can turn into one obligation too many, so keep it as an evening bonus rather than a fixed stop.",
+        "lookFor": "Current program\nProgram length\nAvailable seats after dinner",
+        "practical": "Check the schedule on the day.\nThe WeChat channel is often more useful than old pages.\nDo not place the show tight against a late restaurant booking.",
+        "nextMove": "If the program does not work, walk to Sanlihe or finish the evening at the metro.",
+        "sourceNote": "Show schedules, sales channels, and start times change; check the current program."
+      },
+      "id": "food-5",
+      "guideId": "food",
+      "order": 5
+    },
+    {
+      "name": "Sanlihe Park",
+      "note": "A short water-side exit after dinner",
+      "time": "25-45 min",
+      "walk": "-",
+      "content": {
+        "context": "After dinner, walk to Sanlihe if you want movement without more shop windows. Water, paths, and lighting make a short calm exit from the noise. If rain or fatigue is already too much, replace the park with a taxi.",
+        "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages",
+        "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, choose a taxi instead.",
+        "nextMove": "Head to the nearest metro or call DiDi back to the hotel."
+      },
+      "id": "food-6",
+      "guideId": "food",
+      "order": 6
+    }
+  ]
+}

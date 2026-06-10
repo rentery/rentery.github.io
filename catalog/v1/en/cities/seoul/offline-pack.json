@@ -1,0 +1,900 @@
+{
+  "city": {
+    "id": "seoul",
+    "slug": "seoul",
+    "title": "Seoul",
+    "subtitle": "Seoul - 5 routes",
+    "meta": "South Korea - palaces, neighborhoods, markets, and river",
+    "practicalNote": "April-May and September-October are usually best for long walks. Summer is hot and rainy, winter is cold; check weather and fine dust before a long outdoor route.",
+    "guideIds": [
+      "seoul-first-time",
+      "seoul-old-city-walk",
+      "seoul-market-evening",
+      "seoul-calm-day",
+      "seoul-river-views"
+    ],
+    "identity": {
+      "accent": "#205E54",
+      "soft": "#DDE9E4",
+      "deep": "#16463E",
+      "ink": "#143F38",
+      "motif": "palace",
+      "glyph": "漢",
+      "hook": "Hanyang became Joseon capital - 1394"
+    },
+    "timezone": "Asia/Seoul",
+    "countryId": "south-korea"
+  },
+  "defaultLocale": "ru",
+  "guides": [
+    {
+      "id": "seoul-first-time",
+      "cityId": "seoul",
+      "category": "Classic",
+      "title": "First Seoul",
+      "subtitle": "Gwanghwamun / Jongno",
+      "blurb": "The main palace, hanok streets, and the old-center stream in one day.",
+      "mood": "History, courtyards, and a gentle pace",
+      "accent": "#9C3B2E",
+      "soft": "#F2E4DF",
+      "deep": "#7A2C22",
+      "ink": "#6E2A20",
+      "motif": "axis",
+      "duration": "Day",
+      "stops": 5,
+      "distance": "3.4 km",
+      "pace": "day",
+      "kids": false,
+      "microcopy": {
+        "kicker": "First route",
+        "line": "One central area, without jumps between districts."
+      },
+      "content": {
+        "intro": "This day stays around the old Joseon capital: palace axis, museum by the gates, residential hanok area, temple pause, and Cheonggyecheon stream. The route does not try to show all of Seoul at once, but it gives a clear first map of the city.\n\nYou can walk from Gwanghwamun to Cheonggyecheon. In Bukchon, do not linger at house gates; if the upper streets are packed with groups, drop toward Anguk and add a cafe on the way.",
+        "routeLogic": "Start with Gyeongbokgung while group traffic is lighter.\nAfter the palace, move into the museum so the whole day is not outdoors.\nPass through Bukchon quietly and without long photo sessions.\nAt Jogyesa, slow down before noisy Jongno.\nAt Cheonggyecheon, finish by the nearest metro exit or keep walking along the water if you still have energy.",
+        "bestFor": "a first visit\nold center orientation\npalaces and hanok\none day without distant transfers",
+        "notFor": "a late start\nstrong heat or heavy rain\ntravelers who want only modern Seoul",
+        "beforeYouGo": "Check palace and museum hours and closed days.\nFollow quiet-tourism rules in Bukchon.\nPart of the day is outdoors, so avoid heavy rain.\nA transit card is useful for metro and buses.",
+        "timing": "Start in the morning at Gwanghwamun: the palace and Bukchon are calmer before midday.",
+        "fallbackPlan": "If the palace is closed or weather is poor, keep the museum and Jogyesa, and shorten Bukchon to a brief passage from Anguk."
+      },
+      "stopList": [
+        {
+          "entry": "ticketed",
+          "name": "Gyeongbokgung",
+          "note": "The palace sets the old-center axis",
+          "time": "90 min",
+          "walk": "5 min",
+          "content": {
+            "context": "Gyeongbokgung was the main Joseon palace and stands at the north edge of Gwanghwamun. In this route it sets the scale of the old capital: gates, courts, axial layout, and an easy move to the museum in the palace cluster.",
+            "lookFor": "How gates line up the movement\nOpen courts between pavilions\nMountain view behind the palace\nQuieter side passages if the main court is crowded",
+            "practical": "Hours, closed days, and tickets change; check before leaving.\nMost of the walk is outdoors.\nThe gate ceremony can draw a dense crowd.",
+            "nextMove": "After the palace, move to the Folk Museum near the palace complex without planning a separate transfer.",
+            "sourceNote": "Palace hours, closed days, and ticket rules can change; check current visitor information before leaving."
+          },
+          "id": "seoul-first-time-1",
+          "guideId": "seoul-first-time",
+          "order": 1
+        },
+        {
+          "entry": "often free",
+          "name": "National Folk Museum",
+          "note": "An indoor pause after the palace",
+          "time": "60 min",
+          "walk": "10 min",
+          "content": {
+            "context": "The National Folk Museum of Korea shifts the day from palace architecture to everyday culture. It works well second: after large courts, you get an indoor pause while the route stays tied to the old center.",
+            "lookFor": "Seasonal and everyday stories in the permanent display\nObjects that explain family and city rituals\nCourtyard and exterior details between halls",
+            "practical": "Entry rules and temporary closures should be checked separately.\nThe children museum may require online booking.\nThis is a useful stop for heat, cold, or rain.",
+            "nextMove": "Continue to Bukchon through the Anguk area; the walk is short, but hills can slow the pace.",
+            "sourceNote": "Museum access rules and special areas can change; check current visitor information."
+          },
+          "id": "seoul-first-time-2",
+          "guideId": "seoul-first-time",
+          "order": 2
+        },
+        {
+          "entry": "quiet passage",
+          "name": "Bukchon",
+          "note": "Residential hanok area: keep it quiet",
+          "time": "45 min",
+          "walk": "12 min",
+          "content": {
+            "context": "Bukchon is not an open-air museum but a residential hanok area between palaces. In this route it is not about waiting for the same photo. It shows how the old city scale still lives beside modern streets.",
+            "lookFor": "Tile roof lines on narrow streets\nHeight changes between lanes\nClosed gates as signs of private life\nViews toward palace districts",
+            "practical": "Keep quiet and do not film inside homes.\nSome zones may have visiting restrictions.\nSmall groups work better here.",
+            "nextMove": "From Bukchon, go down toward Insadong and Jogyesa, choosing calmer lanes if the main streets are crowded.",
+            "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+          },
+          "id": "seoul-first-time-3",
+          "guideId": "seoul-first-time",
+          "order": 3
+        },
+        {
+          "entry": "respectfully",
+          "name": "Jogyesa",
+          "note": "A calm temple stop",
+          "time": "30 min",
+          "walk": "8 min",
+          "content": {
+            "context": "Jogyesa stands beside office and tourist Jongno, but the courtyard immediately slows the pace. After Bukchon it is a short, focused pause: the temple shows a Buddhist layer of the city without a long detour.",
+            "lookFor": "Main hall and painted eaves\nLanterns and seasonal decoration in the courtyard\nHow the temple court fits inside the dense center",
+            "practical": "Speak quietly and do not disturb services.\nSome indoor areas may discourage photography.\nIf a ceremony is underway, stay with the courtyard.",
+            "nextMove": "Walk from the temple to Cheonggyecheon: it is a short move from a quiet courtyard to open city water."
+          },
+          "id": "seoul-first-time-4",
+          "guideId": "seoul-first-time",
+          "order": 4
+        },
+        {
+          "entry": "free",
+          "name": "Cheonggyecheon",
+          "note": "Finish with a walk along the water",
+          "time": "45 min",
+          "walk": "-",
+          "content": {
+            "context": "Cheonggyecheon brings the route back from palaces and lanes into the modern center. It works as a finish because you can walk only as far as you have energy, exit to metro at several points, or sit by the water.",
+            "lookFor": "Steps down from street level\nBridges and stone crossings\nThe shift from street noise to the lower level\nEvening light if you finish near dusk",
+            "practical": "After heavy rain, access to the lower level can change.\nFestivals and weekends can make it busier.\nKeep a metro exit as plan B.",
+            "nextMove": "End at the nearest metro station or continue along the stream toward Jongno if you still have energy."
+          },
+          "id": "seoul-first-time-5",
+          "guideId": "seoul-first-time",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "seoul-old-city-walk",
+      "cityId": "seoul",
+      "category": "Old City",
+      "title": "Hanok And Insadong",
+      "subtitle": "Seochon / Bukchon",
+      "blurb": "Residential streets, hanok, and Insadong in a slow walking loop.",
+      "mood": "Local, quiet, on foot",
+      "accent": "#4E6E73",
+      "soft": "#E2EAEA",
+      "deep": "#34504F",
+      "ink": "#33514F",
+      "motif": "lane",
+      "duration": "Half-day",
+      "stops": 4,
+      "distance": "2.8 km",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Neighborhood pace",
+        "line": "Less checklist, more streets and pauses."
+      },
+      "content": {
+        "intro": "This half-day is for old neighborhoods without the scale of a palace. Seochon gives a more everyday start west of Gyeongbokgung, Bukchon keeps the hanok line, Insadong adds shops and galleries, and Jogyesa closes the loop with a quiet stop.\n\nThe route is deliberately short. Here it is better to move slowly and notice the shifts between residential streets and commercial quarters rather than collect the maximum number of sights.",
+        "routeLogic": "Seochon sets a local tone before the tourist core.\nTreat Bukchon as a residential area, not a photo set.\nInsadong is useful for coffee, galleries, and craft windows.\nJogyesa finishes the route near the main Jongno streets.",
+        "bestFor": "a slow walk\nhanok and lanes\na half-day without museums\na repeat visit",
+        "notFor": "large groups\npoor weather\ntravelers who want to enter palaces",
+        "beforeYouGo": "Do not plan loud group photo sessions in Bukchon.\nSome shops and galleries keep their own hours.\nIn rain, trade some street time for cafes or Insadong galleries.",
+        "timing": "Go in the morning or on a quieter weekday: narrow streets read better without heavy crowds.",
+        "fallbackPlan": "If Bukchon is overloaded or restricted, shorten it to a quiet passage and give Insadong more time."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Seochon",
+          "note": "Residential streets introduce the old center",
+          "time": "45 min",
+          "walk": "20 min",
+          "content": {
+            "context": "Seochon lies west of Gyeongbokgung and feels calmer than the main palace approaches. It is a soft start to the route: small streets, low buildings, cafes, and workshops set a neighborhood scale rather than a ceremonial one.",
+            "lookFor": "Low facades beside newer cafes\nNarrow side streets without dense flow\nMountain glimpses between houses\nOld gates and small workshops",
+            "practical": "This is a living district, not one museum object.\nDo not enter courtyards without an invitation.\nCheck cafes and workshops on the spot.",
+            "nextMove": "Walk toward Bukchon through the north side of the palace area, leaving time for hills."
+          },
+          "id": "seoul-old-city-walk-1",
+          "guideId": "seoul-old-city-walk",
+          "order": 1
+        },
+        {
+          "entry": "quiet passage",
+          "name": "Bukchon",
+          "note": "The hanok are homes; keep a quiet pace",
+          "time": "45 min",
+          "walk": "12 min",
+          "content": {
+            "context": "On this route, Bukchon links two old-neighborhood worlds: more local Seochon and the shop-and-gallery side of Insadong. Remember that behind the beautiful roofs are ordinary homes and everyday life.",
+            "lookFor": "Roof tiles and wooden hanok details\nHow streets narrow on the climb\nBehavior-rule signs\nPlaces where it is better to keep walking than stop",
+            "practical": "Keep your voice lower than usual.\nDo not photograph interiors or open doors.\nSome zones may have time restrictions.",
+            "nextMove": "Go down toward Insadong through the Anguk side, where the route naturally shifts from homes to shops and galleries.",
+            "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+          },
+          "id": "seoul-old-city-walk-2",
+          "guideId": "seoul-old-city-walk",
+          "order": 2
+        },
+        {
+          "entry": "as available",
+          "name": "Insadong",
+          "note": "Windows and galleries after Bukchon",
+          "time": "45 min",
+          "walk": "8 min",
+          "content": {
+            "context": "Insadong gathers craft shops, tea rooms, galleries, and souvenir windows near the old center. After Bukchon, it is the more public layer of the neighborhood: a place to pause, buy small things, and stay within the walking logic.",
+            "lookFor": "Side galleries, not only the main street\nSigns and windows with traditional materials\nTea rooms upstairs or in courtyards",
+            "practical": "Shop and gallery hours differ.\nWeekend flow is noticeably denser.\nKeep purchases light; the temple is still ahead.",
+            "nextMove": "The walk from Insadong to Jogyesa is short; use quieter side streets if the main axis is noisy."
+          },
+          "id": "seoul-old-city-walk-3",
+          "guideId": "seoul-old-city-walk",
+          "order": 3
+        },
+        {
+          "entry": "respectfully",
+          "name": "Jogyesa",
+          "note": "A calm finish near Insadong",
+          "time": "30 min",
+          "walk": "-",
+          "content": {
+            "context": "Jogyesa closes the neighborhood route without a long transfer. After Insadong windows, the temple courtyard brings attention back to quiet, roof details, and seasonal decoration, then it is easy to return to metro or Jongno cafes.",
+            "lookFor": "Main hall among city buildings\nColorful lanterns if they are up\nPainted details under the eaves\nPeople who came for worship, not tourism",
+            "practical": "Do not block passages or disturb prayer.\nDuring ceremonies, stay at the edge of the courtyard.\nTreat the temple as a short stop, not a photo set.",
+            "nextMove": "Finish at Jonggak or Anguk station, or return to Insadong for food and tea."
+          },
+          "id": "seoul-old-city-walk-4",
+          "guideId": "seoul-old-city-walk",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "seoul-market-evening",
+      "cityId": "seoul",
+      "category": "Food",
+      "title": "Market And DDP",
+      "subtitle": "Jongno / Dongdaemun",
+      "blurb": "The stream, Gwangjang Market, and evening Dongdaemun without extra detours.",
+      "mood": "Noisy, tasty, evening",
+      "accent": "#C8702F",
+      "soft": "#F6E7D7",
+      "deep": "#8C4A1C",
+      "ink": "#653818",
+      "motif": "steam",
+      "duration": "Evening",
+      "stops": 4,
+      "distance": "2.4 km",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Evening center",
+        "line": "Leave time for the market and pauses by the stream."
+      },
+      "content": {
+        "intro": "The evening route follows a simple line: first the water of Cheonggyecheon, then the food and noise of Gwangjang, then the walk to Dongdaemun Gate and DDP. It is not a dish checklist; it is a clear evening rhythm in the center.\n\nCrowds can tire you quickly here, so do not plan a full dinner at every point. Make one main market pause, leave space for walking, and keep a backup metro exit.",
+        "routeLogic": "The stream gives a calmer entry into evening.\nGwangjang becomes the main food stop.\nDongdaemun links the market to the design district.\nDDP works as the finish with architecture and a possible indoor pause.",
+        "bestFor": "an evening in the center\nmarket and street food\nshort walks\na route after daytime plans",
+        "notFor": "crowd intolerance\nstrict diets\na late start without checking transport",
+        "beforeYouGo": "Do not promise yourself exact dishes: stalls and queues change.\nCarry cash or a card with backup payment options.\nCheck DDP events if you expect to go inside.",
+        "timing": "Start one or two hours before dinner: the market becomes the pause, and DDP stays for evening light.",
+        "fallbackPlan": "If the market is too dense, pass through briefly and move dinner to the DDP or Jongno area."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Cheonggyecheon",
+          "note": "The stream eases you into evening",
+          "time": "45 min",
+          "walk": "12 min",
+          "content": {
+            "context": "Cheonggyecheon is useful before the market: it runs below street level and softens the noise of the center. In the evening, the stream lets you start without jumping straight into the crowd, then leads naturally toward Jongno and Gwangjang.",
+            "lookFor": "Bridges and steps down to the water\nLight on the lower promenade\nPlaces where it is easy to exit to street level\nThe change from office area to market streets",
+            "practical": "After rain, access to the water can change.\nEvents and holidays make the flow denser.\nKeep the route flexible: you can exit earlier.",
+            "nextMove": "Walk from the stream to Gwangjang Market; it is a short transfer, after which the pace becomes much tighter."
+          },
+          "id": "seoul-market-evening-1",
+          "guideId": "seoul-market-evening",
+          "order": 1
+        },
+        {
+          "entry": "as available",
+          "name": "Gwangjang",
+          "note": "The market is the main food stop",
+          "time": "60 min",
+          "walk": "10 min",
+          "content": {
+            "context": "Gwangjang is one of Seoul's best-known traditional markets, but in this route it is not a checkbox. It is the main food block of the evening: noisy rows, fast seating, simple navigation, and the chance to try a few small portions.",
+            "lookFor": "Rows with pancakes, gimbap, and snacks\nSeating right at counters\nFabric and clothing sections outside the food rows\nQueues that move quickly",
+            "practical": "Prices, hours, and dishes depend on the specific stalls.\nAt peak times it is tight, so keep belongings close.\nChoose one or two stops instead of the whole market at once.",
+            "nextMove": "After the market, move toward Dongdaemun: a short walk helps shift from food noise to open city evening.",
+            "sourceNote": "Market hours, stalls, and dish availability vary; check the current situation on site."
+          },
+          "id": "seoul-market-evening-2",
+          "guideId": "seoul-market-evening",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Dongdaemun",
+          "note": "The district adds city evening after the market",
+          "time": "30 min",
+          "walk": "5 min",
+          "content": {
+            "context": "Dongdaemun links the market with DDP and reminds you the area is not only shopping. The historic gate and broad transport hub give a short outdoor block between food and the architectural finish.",
+            "lookFor": "Heunginjimun Gate against moving traffic\nThe shift between old object and modern shopping district\nWide crossings where direction matters",
+            "practical": "The district is lively; cross streets only at clear crossings.\nShops and malls keep different hours.\nIf you are tired, go straight to DDP or the metro.",
+            "nextMove": "DDP is nearby; the walk is short, but leave a few minutes for lights and orientation in the large interchange."
+          },
+          "id": "seoul-market-evening-3",
+          "guideId": "seoul-market-evening",
+          "order": 3
+        },
+        {
+          "entry": "by event",
+          "name": "DDP",
+          "note": "The final point by Dongdaemun",
+          "time": "75 min",
+          "walk": "-",
+          "content": {
+            "context": "Dongdaemun Design Plaza finishes the evening with modern scale: flowing building forms, plazas, and exhibition spaces feel sharply different from the market. Even without an exhibition, it is a useful final point by the metro.",
+            "lookFor": "Curving facade and level changes\nOpen plazas around the building\nCurrent exhibition and event posters\nNight light on metal surfaces",
+            "practical": "Exhibitions, entry, and events change, so check before visiting.\nPart of the route may be outdoors; account for weather.\nLate in the evening, keep the nearest station as your exit point.",
+            "nextMove": "End at Dongdaemun History and Culture Park station, or stay in the area only if you already checked return transport.",
+            "sourceNote": "DDP exhibitions, paid areas, and events change; check the current program before going inside."
+          },
+          "id": "seoul-market-evening-4",
+          "guideId": "seoul-market-evening",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "seoul-calm-day",
+      "cityId": "seoul",
+      "category": "Calm Day",
+      "title": "Museum Day",
+      "subtitle": "Yongsan / Itaewon",
+      "blurb": "Yongsan museums and a short Itaewon finish for bad weather.",
+      "mood": "Calm, indoor, away from heat",
+      "accent": "#5B79B0",
+      "soft": "#E4E9F3",
+      "deep": "#3F5C92",
+      "ink": "#3C5790",
+      "motif": "kids",
+      "duration": "Day",
+      "stops": 4,
+      "distance": "taxi/metro + 1.8 km",
+      "pace": "day",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Quiet mode",
+        "line": "Works when a long outdoor walk is inconvenient."
+      },
+      "content": {
+        "intro": "This day is built for heat, rain, dust, or simple fatigue from street routes. The National Museum of Korea gives a large culture block, the War Memorial adds modern history, Leeum shifts the day toward art, and Itaewon leaves a short neighborhood finish.\n\nTreat transfers between points as part of the plan, not a route mistake. This is not a continuous walk; it is a calm day with long halls and short outdoor moves.",
+        "routeLogic": "Start with the National Museum while you have energy for a large site.\nRide rather than walk the whole way to the War Memorial.\nLeeum adds a compact art block.\nItaewon is kept as a short finish near Yongsan.",
+        "bestFor": "rain or heat\nmuseums\na slow day\na break from long streets",
+        "notFor": "travelers who dislike museums\na full-day walk on foot\nchildren with no interest in halls",
+        "beforeYouGo": "Check closed days and special exhibitions.\nMuseums can have rules for food, photos, and loud conversation.\nMetro or taxi is easier between sites.",
+        "timing": "Start in the morning at the National Museum: the first stop can take more time than it looks.",
+        "fallbackPlan": "If energy is lower, keep only the National Museum and Leeum, and use Itaewon as a short nearby dinner."
+      },
+      "stopList": [
+        {
+          "entry": "often free",
+          "name": "National Museum of Korea",
+          "note": "The main culture stop of the day",
+          "time": "150 min",
+          "walk": "transfer",
+          "content": {
+            "context": "The National Museum of Korea is the main large block of this calm day. It lets you spend several hours indoors without losing the route: the collections give broad context for history and art, and Yongsan works well for the next stops.",
+            "lookFor": "Permanent halls instead of racing through every floor\nStone objects and the garden if weather allows\nQuiet passages between major sections\nMuseum shop as a short pause",
+            "practical": "The permanent collection is often free, while special exhibitions may be paid.\nCheck closed days and hours before visiting.\nKeep quiet in the halls and follow photo rules.",
+            "nextMove": "Ride to the War Memorial by metro, bus, or taxi; walking the full way would make the day too heavy.",
+            "sourceNote": "Museum hours, closed days, and special exhibitions can change; check current visitor information."
+          },
+          "id": "seoul-calm-day-1",
+          "guideId": "seoul-calm-day",
+          "order": 1
+        },
+        {
+          "entry": "check first",
+          "name": "War Memorial",
+          "note": "Continues the Yongsan museum theme",
+          "time": "120 min",
+          "walk": "transfer",
+          "content": {
+            "context": "The War Memorial of Korea adds a complex historical layer to the museum day. It fits logistically with the National Museum in Yongsan, but it is emotionally heavier: move selectively, without trying to cover every hall.",
+            "lookFor": "Outdoor equipment and memorial spaces\nHalls connected to the Korean War\nPlaces to pause between heavy sections",
+            "practical": "Check hours and access to individual areas before going.\nThe subject can be heavy for children and sensitive visitors.\nLeave time to rest after the visit.",
+            "nextMove": "For Leeum, ride toward Hannam-dong and Hangangjin; do not plan a long walking link."
+          },
+          "id": "seoul-calm-day-2",
+          "guideId": "seoul-calm-day",
+          "order": 2
+        },
+        {
+          "entry": "booking/ticket",
+          "name": "Leeum",
+          "note": "An art block after history",
+          "time": "90 min",
+          "walk": "15 min",
+          "content": {
+            "context": "Leeum Museum of Art moves the day from history toward art and architecture. After large state museums it feels more compact, but it still needs attention to booking and current exhibitions.",
+            "lookFor": "Differences between M1 and M2 spaces\nTraditional materials beside contemporary art\nStairs, light, and interior transitions\nThe current exhibition if it fits your timing",
+            "practical": "The museum runs by schedule and often recommends booking.\nSome exhibitions are paid, others may be free.\nAvoid bringing large bags or food into the galleries.",
+            "nextMove": "After Leeum, walk down toward Itaewon or ride briefly if weather or energy makes the street unappealing.",
+            "sourceNote": "Leeum booking, tickets, and exhibition access can change; check current visit information."
+          },
+          "id": "seoul-calm-day-3",
+          "guideId": "seoul-calm-day",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Itaewon",
+          "note": "A final walk near Yongsan",
+          "time": "45 min",
+          "walk": "-",
+          "content": {
+            "context": "Itaewon ends the museum day not with a monument but with a change of urban scene. After halls and memorial spaces, the district gives a short walk, food, and a clear metro exit without another major site.",
+            "lookFor": "Signs and food from many countries\nStreet level changes between Hannam and Itaewon\nCalmer side streets instead of the main crowd",
+            "practical": "In the evening, the district can be noisy and dense.\nChoose food by the current situation, not old lists.\nIf you are tired, finish at the metro right away.",
+            "nextMove": "End at Itaewon or Hangangjin station, whichever is closer to dinner and your return route."
+          },
+          "id": "seoul-calm-day-4",
+          "guideId": "seoul-calm-day",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "seoul-river-views",
+      "cityId": "seoul",
+      "category": "Views",
+      "title": "River And Tower",
+      "subtitle": "Seoul Forest / Hangang",
+      "blurb": "Hangang parks and Namsan tower as a clear-weather finish.",
+      "mood": "Park, river, views",
+      "accent": "#5F7F63",
+      "soft": "#E6EEE5",
+      "deep": "#3F654A",
+      "ink": "#36583F",
+      "motif": "ridge",
+      "duration": "Full day",
+      "stops": 4,
+      "distance": "metro + 3 km",
+      "pace": "full",
+      "kids": true,
+      "microcopy": {
+        "kicker": "Green day",
+        "line": "Leave the tower for a clear final view."
+      },
+      "content": {
+        "intro": "This is the most open Seoul route in the seed: park, several river points, and an observation tower at the end. It does not pretend to be one continuous walk because the Hangang is wide, and the best viewpoints are better linked by metro or taxi.\n\nThe plan depends on weather more than the others. In heat, shorten daytime stretches by the water; in poor visibility, do not cling to the tower; in good weather, leave more time for the finish.",
+        "routeLogic": "Seoul Forest starts the day green and calm.\nYeouido gives a wide riverbank and simple metro access.\nBanpo adds another angle on the Hangang.\nN Seoul Tower works only as a weather-dependent finish.",
+        "bestFor": "clear weather\nparks and river\na family pace\na full day without museums",
+        "notFor": "heavy rain or strong heat\npoor visibility\ntravelers who want to walk all day without transport",
+        "beforeYouGo": "Check forecast, fine dust, and visibility.\nFor river parks, bring water and sun protection.\nFountain, event, and tower schedules change.\nPlan metro or taxi between parks.",
+        "timing": "Start before midday and leave the tower for evening or late day, when sky clarity is easier to judge.",
+        "fallbackPlan": "If visibility is poor, replace the tower with dinner by the river or a short indoor plan near the closest station."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Seoul Forest",
+          "note": "The park starts the day away from city noise",
+          "time": "90 min",
+          "walk": "metro",
+          "content": {
+            "context": "Seoul Forest gives a green start before the larger river spaces. It is useful for an easy opening: walk the alleys, take a child or coffee pause, and avoid entering the day through the dense center.",
+            "lookFor": "Broad paths and shaded stretches\nPlaces where children can move more freely\nTransitions toward Seongsu if you want coffee\nSeasonal flowers or open lawns",
+            "practical": "The park is mostly outdoors, so weather matters.\nWeekends can be denser near popular entrances.\nDo not stretch the stop too long; a transfer to the Hangang is ahead.",
+            "nextMove": "Ride the metro to Yeouido Hangang; the distance across the city is too long for a walking link."
+          },
+          "id": "seoul-river-views-1",
+          "guideId": "seoul-river-views",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Yeouido Hangang",
+          "note": "The Hangang bank moves the route to the river",
+          "time": "75 min",
+          "walk": "metro",
+          "content": {
+            "context": "Yeouido Hangang Park shows the river wide and open, with easy metro access. In the route, this is the main daytime bank: walk, sit on the grass, and watch the city open on both sides of the water.",
+            "lookFor": "Wide Hangang view\nLawns and picnic areas\nBridges and bicycle movement\nSeasonal events if they do not block the walk",
+            "practical": "In summer, sun and heat tire you quickly.\nEvents and festivals can change the flow of people.\nCheck rentals and services on site.",
+            "nextMove": "Ride rather than walk all the way to Banpo; this keeps energy for the finish.",
+            "sourceNote": "Hangang events, rentals, and access can change; check the current situation on site."
+          },
+          "id": "seoul-river-views-2",
+          "guideId": "seoul-river-views",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Banpo Hangang",
+          "note": "A second river point keeps the day by the water",
+          "time": "60 min",
+          "walk": "transfer",
+          "content": {
+            "context": "Banpo gives a different angle on the Hangang and keeps the river day from becoming a single embankment. If fountains or events are running, treat them as a bonus; the route should not depend on them because schedules are seasonal and weather-based.",
+            "lookFor": "View toward the bridge and opposite bank\nEvening light on the water\nPlaces where you can sit calmly\nSigns of current events or closures",
+            "practical": "Fountain schedules and access depend on season and weather.\nIt can be windy by the water.\nKeep time in reserve for the move to Namsan.",
+            "nextMove": "For N Seoul Tower, use metro, bus, taxi, or cable car depending on the day; it is a separate final block.",
+            "sourceNote": "Fountain schedules, river access, and events can change with season and weather."
+          },
+          "id": "seoul-river-views-3",
+          "guideId": "seoul-river-views",
+          "order": 3
+        },
+        {
+          "entry": "ticketed",
+          "name": "N Seoul Tower",
+          "note": "Final view if the weather is clear",
+          "time": "90 min",
+          "walk": "-",
+          "content": {
+            "context": "Leave N Seoul Tower for the end, when visibility is easier to judge. After parks and river, the tower gathers the day from above: you can see how the Hangang, Namsan, and central districts connect.",
+            "lookFor": "Air clarity before buying a ticket\nViews of the Hangang curves\nDusk if the day is clear\nReturn route down before transport closes",
+            "practical": "Check hours, tickets, and the way up in advance.\nIn poor visibility, the view may not be worth the effort.\nSunset can bring queues.",
+            "nextMove": "End the route by descending to the nearest transport; do not plan another distant point after the tower.",
+            "sourceNote": "Tower hours, tickets, visibility, and access can change; check before committing to the final stop."
+          },
+          "id": "seoul-river-views-4",
+          "guideId": "seoul-river-views",
+          "order": 4
+        }
+      ]
+    }
+  ],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [
+    {
+      "entry": "ticketed",
+      "name": "Gyeongbokgung",
+      "note": "The palace sets the old-center axis",
+      "time": "90 min",
+      "walk": "5 min",
+      "content": {
+        "context": "Gyeongbokgung was the main Joseon palace and stands at the north edge of Gwanghwamun. In this route it sets the scale of the old capital: gates, courts, axial layout, and an easy move to the museum in the palace cluster.",
+        "lookFor": "How gates line up the movement\nOpen courts between pavilions\nMountain view behind the palace\nQuieter side passages if the main court is crowded",
+        "practical": "Hours, closed days, and tickets change; check before leaving.\nMost of the walk is outdoors.\nThe gate ceremony can draw a dense crowd.",
+        "nextMove": "After the palace, move to the Folk Museum near the palace complex without planning a separate transfer.",
+        "sourceNote": "Palace hours, closed days, and ticket rules can change; check current visitor information before leaving."
+      },
+      "id": "seoul-first-time-1",
+      "guideId": "seoul-first-time",
+      "order": 1
+    },
+    {
+      "entry": "often free",
+      "name": "National Folk Museum",
+      "note": "An indoor pause after the palace",
+      "time": "60 min",
+      "walk": "10 min",
+      "content": {
+        "context": "The National Folk Museum of Korea shifts the day from palace architecture to everyday culture. It works well second: after large courts, you get an indoor pause while the route stays tied to the old center.",
+        "lookFor": "Seasonal and everyday stories in the permanent display\nObjects that explain family and city rituals\nCourtyard and exterior details between halls",
+        "practical": "Entry rules and temporary closures should be checked separately.\nThe children museum may require online booking.\nThis is a useful stop for heat, cold, or rain.",
+        "nextMove": "Continue to Bukchon through the Anguk area; the walk is short, but hills can slow the pace.",
+        "sourceNote": "Museum access rules and special areas can change; check current visitor information."
+      },
+      "id": "seoul-first-time-2",
+      "guideId": "seoul-first-time",
+      "order": 2
+    },
+    {
+      "entry": "quiet passage",
+      "name": "Bukchon",
+      "note": "Residential hanok area: keep it quiet",
+      "time": "45 min",
+      "walk": "12 min",
+      "content": {
+        "context": "Bukchon is not an open-air museum but a residential hanok area between palaces. In this route it is not about waiting for the same photo. It shows how the old city scale still lives beside modern streets.",
+        "lookFor": "Tile roof lines on narrow streets\nHeight changes between lanes\nClosed gates as signs of private life\nViews toward palace districts",
+        "practical": "Keep quiet and do not film inside homes.\nSome zones may have visiting restrictions.\nSmall groups work better here.",
+        "nextMove": "From Bukchon, go down toward Insadong and Jogyesa, choosing calmer lanes if the main streets are crowded.",
+        "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+      },
+      "id": "seoul-first-time-3",
+      "guideId": "seoul-first-time",
+      "order": 3
+    },
+    {
+      "entry": "respectfully",
+      "name": "Jogyesa",
+      "note": "A calm temple stop",
+      "time": "30 min",
+      "walk": "8 min",
+      "content": {
+        "context": "Jogyesa stands beside office and tourist Jongno, but the courtyard immediately slows the pace. After Bukchon it is a short, focused pause: the temple shows a Buddhist layer of the city without a long detour.",
+        "lookFor": "Main hall and painted eaves\nLanterns and seasonal decoration in the courtyard\nHow the temple court fits inside the dense center",
+        "practical": "Speak quietly and do not disturb services.\nSome indoor areas may discourage photography.\nIf a ceremony is underway, stay with the courtyard.",
+        "nextMove": "Walk from the temple to Cheonggyecheon: it is a short move from a quiet courtyard to open city water."
+      },
+      "id": "seoul-first-time-4",
+      "guideId": "seoul-first-time",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Cheonggyecheon",
+      "note": "Finish with a walk along the water",
+      "time": "45 min",
+      "walk": "-",
+      "content": {
+        "context": "Cheonggyecheon brings the route back from palaces and lanes into the modern center. It works as a finish because you can walk only as far as you have energy, exit to metro at several points, or sit by the water.",
+        "lookFor": "Steps down from street level\nBridges and stone crossings\nThe shift from street noise to the lower level\nEvening light if you finish near dusk",
+        "practical": "After heavy rain, access to the lower level can change.\nFestivals and weekends can make it busier.\nKeep a metro exit as plan B.",
+        "nextMove": "End at the nearest metro station or continue along the stream toward Jongno if you still have energy."
+      },
+      "id": "seoul-first-time-5",
+      "guideId": "seoul-first-time",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Seochon",
+      "note": "Residential streets introduce the old center",
+      "time": "45 min",
+      "walk": "20 min",
+      "content": {
+        "context": "Seochon lies west of Gyeongbokgung and feels calmer than the main palace approaches. It is a soft start to the route: small streets, low buildings, cafes, and workshops set a neighborhood scale rather than a ceremonial one.",
+        "lookFor": "Low facades beside newer cafes\nNarrow side streets without dense flow\nMountain glimpses between houses\nOld gates and small workshops",
+        "practical": "This is a living district, not one museum object.\nDo not enter courtyards without an invitation.\nCheck cafes and workshops on the spot.",
+        "nextMove": "Walk toward Bukchon through the north side of the palace area, leaving time for hills."
+      },
+      "id": "seoul-old-city-walk-1",
+      "guideId": "seoul-old-city-walk",
+      "order": 1
+    },
+    {
+      "entry": "quiet passage",
+      "name": "Bukchon",
+      "note": "The hanok are homes; keep a quiet pace",
+      "time": "45 min",
+      "walk": "12 min",
+      "content": {
+        "context": "On this route, Bukchon links two old-neighborhood worlds: more local Seochon and the shop-and-gallery side of Insadong. Remember that behind the beautiful roofs are ordinary homes and everyday life.",
+        "lookFor": "Roof tiles and wooden hanok details\nHow streets narrow on the climb\nBehavior-rule signs\nPlaces where it is better to keep walking than stop",
+        "practical": "Keep your voice lower than usual.\nDo not photograph interiors or open doors.\nSome zones may have time restrictions.",
+        "nextMove": "Go down toward Insadong through the Anguk side, where the route naturally shifts from homes to shops and galleries.",
+        "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+      },
+      "id": "seoul-old-city-walk-2",
+      "guideId": "seoul-old-city-walk",
+      "order": 2
+    },
+    {
+      "entry": "as available",
+      "name": "Insadong",
+      "note": "Windows and galleries after Bukchon",
+      "time": "45 min",
+      "walk": "8 min",
+      "content": {
+        "context": "Insadong gathers craft shops, tea rooms, galleries, and souvenir windows near the old center. After Bukchon, it is the more public layer of the neighborhood: a place to pause, buy small things, and stay within the walking logic.",
+        "lookFor": "Side galleries, not only the main street\nSigns and windows with traditional materials\nTea rooms upstairs or in courtyards",
+        "practical": "Shop and gallery hours differ.\nWeekend flow is noticeably denser.\nKeep purchases light; the temple is still ahead.",
+        "nextMove": "The walk from Insadong to Jogyesa is short; use quieter side streets if the main axis is noisy."
+      },
+      "id": "seoul-old-city-walk-3",
+      "guideId": "seoul-old-city-walk",
+      "order": 3
+    },
+    {
+      "entry": "respectfully",
+      "name": "Jogyesa",
+      "note": "A calm finish near Insadong",
+      "time": "30 min",
+      "walk": "-",
+      "content": {
+        "context": "Jogyesa closes the neighborhood route without a long transfer. After Insadong windows, the temple courtyard brings attention back to quiet, roof details, and seasonal decoration, then it is easy to return to metro or Jongno cafes.",
+        "lookFor": "Main hall among city buildings\nColorful lanterns if they are up\nPainted details under the eaves\nPeople who came for worship, not tourism",
+        "practical": "Do not block passages or disturb prayer.\nDuring ceremonies, stay at the edge of the courtyard.\nTreat the temple as a short stop, not a photo set.",
+        "nextMove": "Finish at Jonggak or Anguk station, or return to Insadong for food and tea."
+      },
+      "id": "seoul-old-city-walk-4",
+      "guideId": "seoul-old-city-walk",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Cheonggyecheon",
+      "note": "The stream eases you into evening",
+      "time": "45 min",
+      "walk": "12 min",
+      "content": {
+        "context": "Cheonggyecheon is useful before the market: it runs below street level and softens the noise of the center. In the evening, the stream lets you start without jumping straight into the crowd, then leads naturally toward Jongno and Gwangjang.",
+        "lookFor": "Bridges and steps down to the water\nLight on the lower promenade\nPlaces where it is easy to exit to street level\nThe change from office area to market streets",
+        "practical": "After rain, access to the water can change.\nEvents and holidays make the flow denser.\nKeep the route flexible: you can exit earlier.",
+        "nextMove": "Walk from the stream to Gwangjang Market; it is a short transfer, after which the pace becomes much tighter."
+      },
+      "id": "seoul-market-evening-1",
+      "guideId": "seoul-market-evening",
+      "order": 1
+    },
+    {
+      "entry": "as available",
+      "name": "Gwangjang",
+      "note": "The market is the main food stop",
+      "time": "60 min",
+      "walk": "10 min",
+      "content": {
+        "context": "Gwangjang is one of Seoul's best-known traditional markets, but in this route it is not a checkbox. It is the main food block of the evening: noisy rows, fast seating, simple navigation, and the chance to try a few small portions.",
+        "lookFor": "Rows with pancakes, gimbap, and snacks\nSeating right at counters\nFabric and clothing sections outside the food rows\nQueues that move quickly",
+        "practical": "Prices, hours, and dishes depend on the specific stalls.\nAt peak times it is tight, so keep belongings close.\nChoose one or two stops instead of the whole market at once.",
+        "nextMove": "After the market, move toward Dongdaemun: a short walk helps shift from food noise to open city evening.",
+        "sourceNote": "Market hours, stalls, and dish availability vary; check the current situation on site."
+      },
+      "id": "seoul-market-evening-2",
+      "guideId": "seoul-market-evening",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Dongdaemun",
+      "note": "The district adds city evening after the market",
+      "time": "30 min",
+      "walk": "5 min",
+      "content": {
+        "context": "Dongdaemun links the market with DDP and reminds you the area is not only shopping. The historic gate and broad transport hub give a short outdoor block between food and the architectural finish.",
+        "lookFor": "Heunginjimun Gate against moving traffic\nThe shift between old object and modern shopping district\nWide crossings where direction matters",
+        "practical": "The district is lively; cross streets only at clear crossings.\nShops and malls keep different hours.\nIf you are tired, go straight to DDP or the metro.",
+        "nextMove": "DDP is nearby; the walk is short, but leave a few minutes for lights and orientation in the large interchange."
+      },
+      "id": "seoul-market-evening-3",
+      "guideId": "seoul-market-evening",
+      "order": 3
+    },
+    {
+      "entry": "by event",
+      "name": "DDP",
+      "note": "The final point by Dongdaemun",
+      "time": "75 min",
+      "walk": "-",
+      "content": {
+        "context": "Dongdaemun Design Plaza finishes the evening with modern scale: flowing building forms, plazas, and exhibition spaces feel sharply different from the market. Even without an exhibition, it is a useful final point by the metro.",
+        "lookFor": "Curving facade and level changes\nOpen plazas around the building\nCurrent exhibition and event posters\nNight light on metal surfaces",
+        "practical": "Exhibitions, entry, and events change, so check before visiting.\nPart of the route may be outdoors; account for weather.\nLate in the evening, keep the nearest station as your exit point.",
+        "nextMove": "End at Dongdaemun History and Culture Park station, or stay in the area only if you already checked return transport.",
+        "sourceNote": "DDP exhibitions, paid areas, and events change; check the current program before going inside."
+      },
+      "id": "seoul-market-evening-4",
+      "guideId": "seoul-market-evening",
+      "order": 4
+    },
+    {
+      "entry": "often free",
+      "name": "National Museum of Korea",
+      "note": "The main culture stop of the day",
+      "time": "150 min",
+      "walk": "transfer",
+      "content": {
+        "context": "The National Museum of Korea is the main large block of this calm day. It lets you spend several hours indoors without losing the route: the collections give broad context for history and art, and Yongsan works well for the next stops.",
+        "lookFor": "Permanent halls instead of racing through every floor\nStone objects and the garden if weather allows\nQuiet passages between major sections\nMuseum shop as a short pause",
+        "practical": "The permanent collection is often free, while special exhibitions may be paid.\nCheck closed days and hours before visiting.\nKeep quiet in the halls and follow photo rules.",
+        "nextMove": "Ride to the War Memorial by metro, bus, or taxi; walking the full way would make the day too heavy.",
+        "sourceNote": "Museum hours, closed days, and special exhibitions can change; check current visitor information."
+      },
+      "id": "seoul-calm-day-1",
+      "guideId": "seoul-calm-day",
+      "order": 1
+    },
+    {
+      "entry": "check first",
+      "name": "War Memorial",
+      "note": "Continues the Yongsan museum theme",
+      "time": "120 min",
+      "walk": "transfer",
+      "content": {
+        "context": "The War Memorial of Korea adds a complex historical layer to the museum day. It fits logistically with the National Museum in Yongsan, but it is emotionally heavier: move selectively, without trying to cover every hall.",
+        "lookFor": "Outdoor equipment and memorial spaces\nHalls connected to the Korean War\nPlaces to pause between heavy sections",
+        "practical": "Check hours and access to individual areas before going.\nThe subject can be heavy for children and sensitive visitors.\nLeave time to rest after the visit.",
+        "nextMove": "For Leeum, ride toward Hannam-dong and Hangangjin; do not plan a long walking link."
+      },
+      "id": "seoul-calm-day-2",
+      "guideId": "seoul-calm-day",
+      "order": 2
+    },
+    {
+      "entry": "booking/ticket",
+      "name": "Leeum",
+      "note": "An art block after history",
+      "time": "90 min",
+      "walk": "15 min",
+      "content": {
+        "context": "Leeum Museum of Art moves the day from history toward art and architecture. After large state museums it feels more compact, but it still needs attention to booking and current exhibitions.",
+        "lookFor": "Differences between M1 and M2 spaces\nTraditional materials beside contemporary art\nStairs, light, and interior transitions\nThe current exhibition if it fits your timing",
+        "practical": "The museum runs by schedule and often recommends booking.\nSome exhibitions are paid, others may be free.\nAvoid bringing large bags or food into the galleries.",
+        "nextMove": "After Leeum, walk down toward Itaewon or ride briefly if weather or energy makes the street unappealing.",
+        "sourceNote": "Leeum booking, tickets, and exhibition access can change; check current visit information."
+      },
+      "id": "seoul-calm-day-3",
+      "guideId": "seoul-calm-day",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Itaewon",
+      "note": "A final walk near Yongsan",
+      "time": "45 min",
+      "walk": "-",
+      "content": {
+        "context": "Itaewon ends the museum day not with a monument but with a change of urban scene. After halls and memorial spaces, the district gives a short walk, food, and a clear metro exit without another major site.",
+        "lookFor": "Signs and food from many countries\nStreet level changes between Hannam and Itaewon\nCalmer side streets instead of the main crowd",
+        "practical": "In the evening, the district can be noisy and dense.\nChoose food by the current situation, not old lists.\nIf you are tired, finish at the metro right away.",
+        "nextMove": "End at Itaewon or Hangangjin station, whichever is closer to dinner and your return route."
+      },
+      "id": "seoul-calm-day-4",
+      "guideId": "seoul-calm-day",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Seoul Forest",
+      "note": "The park starts the day away from city noise",
+      "time": "90 min",
+      "walk": "metro",
+      "content": {
+        "context": "Seoul Forest gives a green start before the larger river spaces. It is useful for an easy opening: walk the alleys, take a child or coffee pause, and avoid entering the day through the dense center.",
+        "lookFor": "Broad paths and shaded stretches\nPlaces where children can move more freely\nTransitions toward Seongsu if you want coffee\nSeasonal flowers or open lawns",
+        "practical": "The park is mostly outdoors, so weather matters.\nWeekends can be denser near popular entrances.\nDo not stretch the stop too long; a transfer to the Hangang is ahead.",
+        "nextMove": "Ride the metro to Yeouido Hangang; the distance across the city is too long for a walking link."
+      },
+      "id": "seoul-river-views-1",
+      "guideId": "seoul-river-views",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Yeouido Hangang",
+      "note": "The Hangang bank moves the route to the river",
+      "time": "75 min",
+      "walk": "metro",
+      "content": {
+        "context": "Yeouido Hangang Park shows the river wide and open, with easy metro access. In the route, this is the main daytime bank: walk, sit on the grass, and watch the city open on both sides of the water.",
+        "lookFor": "Wide Hangang view\nLawns and picnic areas\nBridges and bicycle movement\nSeasonal events if they do not block the walk",
+        "practical": "In summer, sun and heat tire you quickly.\nEvents and festivals can change the flow of people.\nCheck rentals and services on site.",
+        "nextMove": "Ride rather than walk all the way to Banpo; this keeps energy for the finish.",
+        "sourceNote": "Hangang events, rentals, and access can change; check the current situation on site."
+      },
+      "id": "seoul-river-views-2",
+      "guideId": "seoul-river-views",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Banpo Hangang",
+      "note": "A second river point keeps the day by the water",
+      "time": "60 min",
+      "walk": "transfer",
+      "content": {
+        "context": "Banpo gives a different angle on the Hangang and keeps the river day from becoming a single embankment. If fountains or events are running, treat them as a bonus; the route should not depend on them because schedules are seasonal and weather-based.",
+        "lookFor": "View toward the bridge and opposite bank\nEvening light on the water\nPlaces where you can sit calmly\nSigns of current events or closures",
+        "practical": "Fountain schedules and access depend on season and weather.\nIt can be windy by the water.\nKeep time in reserve for the move to Namsan.",
+        "nextMove": "For N Seoul Tower, use metro, bus, taxi, or cable car depending on the day; it is a separate final block.",
+        "sourceNote": "Fountain schedules, river access, and events can change with season and weather."
+      },
+      "id": "seoul-river-views-3",
+      "guideId": "seoul-river-views",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "N Seoul Tower",
+      "note": "Final view if the weather is clear",
+      "time": "90 min",
+      "walk": "-",
+      "content": {
+        "context": "Leave N Seoul Tower for the end, when visibility is easier to judge. After parks and river, the tower gathers the day from above: you can see how the Hangang, Namsan, and central districts connect.",
+        "lookFor": "Air clarity before buying a ticket\nViews of the Hangang curves\nDusk if the day is clear\nReturn route down before transport closes",
+        "practical": "Check hours, tickets, and the way up in advance.\nIn poor visibility, the view may not be worth the effort.\nSunset can bring queues.",
+        "nextMove": "End the route by descending to the nearest transport; do not plan another distant point after the tower.",
+        "sourceNote": "Tower hours, tickets, visibility, and access can change; check before committing to the final stop."
+      },
+      "id": "seoul-river-views-4",
+      "guideId": "seoul-river-views",
+      "order": 4
+    }
+  ],
+  "packHash": "f780bd7a44e6"
+}

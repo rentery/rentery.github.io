@@ -1,0 +1,126 @@
+{
+  "id": "wall",
+  "cityId": "beijing",
+  "category": "Day Out",
+  "title": "Mutianyu",
+  "subtitle": "Great Wall",
+  "blurb": "Give Mutianyu the whole day: road, entry zone, climb, wall section, and an easy return.",
+  "mood": "Early departure, steps, and turning back by energy",
+  "accent": "#3F5562",
+  "soft": "#E2E4E7",
+  "deep": "#343D46",
+  "ink": "#343D46",
+  "motif": "ridge",
+  "duration": "Full day",
+  "stops": 6,
+  "distance": "2-5 km",
+  "pace": "full",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Do not add a museum",
+    "line": "After the Wall, leave only the ride back and a simple dinner."
+  },
+  "content": {
+    "intro": "Treat Mutianyu as its own day: leaving Beijing, the entry zone, the ascent, a wall section, descent, food, and the road back. Do not add palaces or museums afterward. Traffic and fatigue can easily shift the evening.\n\nOn the Wall, you do not need to go as far as possible. Choose the way up, walk your section between towers, pick a turn-back point in advance, and save legs for the descent. Clear April, May, September, or October days are easier; summer brings heat and rain, and winter brings cold wind.",
+    "routeLogic": "Leave Beijing in the morning without extra stops.\nIn the entry zone, decide how you will go up and where you will come down.\nOn the Wall, walk tower to tower toward a chosen turn-back point.\nAfter descending, eat and head to the shuttle without lingering too long.\nReturn to Beijing without extra central stops.",
+    "bestFor": "a first Great Wall outing\na clear day without a packed city plan\ntravelers who want a clear ascent, walk, and return",
+    "notFor": "travelers with only half a day\npoor visibility or strong wind\nwhen transport is not confirmed",
+    "beforeYouGo": "Check forecast, visibility, and opening hours before paying for transport.\nDecide in advance how you are going: car with driver, organized bus, or another clear option.\nPlan the return before leaving; on site, signal and cars can be unreliable.",
+    "timing": "Leave in the morning. The road and entry process can take a noticeable part of the day; plan 2-3 hours on the Wall itself, more only with good weather and spare energy.",
+    "fallbackPlan": "If the forecast is poor, move the trip: without visibility, the road disappoints. If ascent queues are long, choose a shorter section. If you get tired, descend earlier and return calmly to the city."
+  },
+  "stopList": [
+    {
+      "name": "Leaving Beijing",
+      "note": "Transport decides the quality of the day",
+      "time": "1.5-2.5 h",
+      "walk": "transfer",
+      "content": {
+        "context": "A Mutianyu day starts with the road. A late start, unclear return transport, or an attempt to add central Beijing quickly turns the walk into a race, so leave in the morning and keep the evening open.",
+        "lookFor": "Departure time\nClear pickup point\nReturn-road plan",
+        "practical": "Leave in the morning.\nCheck the forecast before paying for transport.\nDo not place fixed plans in the city after the Wall.",
+        "nextMove": "Go straight to the Mutianyu entry zone without intermediate stops."
+      },
+      "id": "wall-1",
+      "guideId": "wall",
+      "order": 1
+    },
+    {
+      "entry": "check tickets",
+      "name": "Mutianyu Entrance",
+      "note": "Tickets, shuttle, and ascent choice",
+      "time": "45-75 min",
+      "walk": "ascent",
+      "content": {
+        "context": "In the entry zone, do not improvise while walking. Look at ticket windows, shuttle, lift queues, and the tower map. Decide here whether you want more walking or to save energy for the Wall itself.",
+        "lookFor": "Shuttle signs\nQueues for ascent options\nMap of towers and exits",
+        "practical": "Check hours and tickets in advance.\nIn wind, some ascent options may work differently.\nKeep tickets until you fully exit.",
+        "nextMove": "Go up to your chosen section and begin the walk between towers."
+      },
+      "id": "wall-2",
+      "guideId": "wall",
+      "order": 2
+    },
+    {
+      "name": "Wall Section",
+      "note": "Walk by energy, not by maximum distance",
+      "time": "1-2 h",
+      "walk": "30 min",
+      "content": {
+        "context": "On the Wall, distance on the map is misleading: steps, slopes, and wind change the load quickly. Walk from tower to tower and decide in advance where to turn back so you still have energy to return and descend calmly.",
+        "lookFor": "Changes in step height\nRidge turns\nHow visibility changes",
+        "practical": "In heat, shorten climbs.\nAfter rain, be careful on stone.\nDo not go farther than you are ready to walk back.",
+        "nextMove": "Move toward the nearest watchtowers and choose your turn-back point."
+      },
+      "id": "wall-3",
+      "guideId": "wall",
+      "order": 3
+    },
+    {
+      "name": "Watchtowers",
+      "note": "Choose a tower for stopping and turning back",
+      "time": "40-75 min",
+      "walk": "40 min",
+      "content": {
+        "context": "In the towers, stop where there are fewer people and a safe place to stand near an opening. Watch the Wall run along the ridge and around turns, but do not linger in narrow passages.",
+        "lookFor": "The Wall line along the ridge\nOpenings inside towers\nLess crowded sections",
+        "practical": "Do not block narrow passages.\nWind at the top can be stronger than at the entrance.\nIf visibility drops, start the return.",
+        "nextMove": "Turn toward the descent before fatigue becomes the main story of the day."
+      },
+      "id": "wall-4",
+      "guideId": "wall",
+      "order": 4
+    },
+    {
+      "entry": "by chosen ticket",
+      "name": "Descent And Lunch",
+      "note": "Do not leave food too late",
+      "time": "1-1.5 h",
+      "walk": "transfer",
+      "content": {
+        "context": "Descending after steps takes attention, especially after rain or in wind. Once you leave the upper section, find toilets, food, and the shuttle right away; do not leave everything for the road back.",
+        "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with understandable menus",
+        "practical": "Check where your shuttle leaves from.\nDo not throw away tickets before the full exit.\nIf the queue grows, descend earlier.",
+        "nextMove": "After lunch, do not add new sights: prepare to return to Beijing."
+      },
+      "id": "wall-5",
+      "guideId": "wall",
+      "order": 5
+    },
+    {
+      "name": "Return To The City",
+      "note": "Keep the evening without a fixed plan",
+      "time": "1.5-3 h",
+      "walk": "-",
+      "content": {
+        "context": "The return road depends on traffic, weather, and how quickly you left the Mutianyu zone. Do not promise yourself an exact evening plan; count the return as the last part of the route.",
+        "lookFor": "Confirmed car or bus\nTraffic entering the city\nNearest dinner by your hotel",
+        "practical": "Check your connection before leaving.\nKeep the hotel address in Chinese.\nIf you are tired, choose dinner near your stay.",
+        "nextMove": "End the day in the city without a second major walk."
+      },
+      "id": "wall-6",
+      "guideId": "wall",
+      "order": 6
+    }
+  ]
+}

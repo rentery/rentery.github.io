@@ -1,0 +1,54 @@
+[
+  {
+    "id": "beijing",
+    "slug": "beijing",
+    "title": "Beijing",
+    "subtitle": "Beijing - 5 routes",
+    "meta": "China - axis, palaces, hutongs, and long day trips",
+    "practicalNote": "April-May and September-October are gentler for long walks. In summer, start earlier and leave room for rain; in winter, bring a warm layer. Check Palace Museum booking and Tiananmen access before leaving the hotel.",
+    "guideIds": [
+      "axis",
+      "hutong",
+      "food",
+      "kids",
+      "wall"
+    ],
+    "identity": {
+      "accent": "#8F352B",
+      "soft": "#F1E1DC",
+      "deep": "#6F2A22",
+      "ink": "#5D251F",
+      "motif": "axis",
+      "glyph": "京",
+      "hook": "Imperial axis city - since 1420"
+    },
+    "timezone": "Asia/Shanghai",
+    "countryId": "china"
+  },
+  {
+    "id": "seoul",
+    "slug": "seoul",
+    "title": "Seoul",
+    "subtitle": "Seoul - 5 routes",
+    "meta": "South Korea - palaces, neighborhoods, markets, and river",
+    "practicalNote": "April-May and September-October are usually best for long walks. Summer is hot and rainy, winter is cold; check weather and fine dust before a long outdoor route.",
+    "guideIds": [
+      "seoul-first-time",
+      "seoul-old-city-walk",
+      "seoul-market-evening",
+      "seoul-calm-day",
+      "seoul-river-views"
+    ],
+    "identity": {
+      "accent": "#205E54",
+      "soft": "#DDE9E4",
+      "deep": "#16463E",
+      "ink": "#143F38",
+      "motif": "palace",
+      "glyph": "漢",
+      "hook": "Hanyang became Joseon capital - 1394"
+    },
+    "timezone": "Asia/Seoul",
+    "countryId": "south-korea"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "id": "seoul-river-views",
+  "cityId": "seoul",
+  "category": "Views",
+  "title": "River And Tower",
+  "subtitle": "Seoul Forest / Hangang",
+  "blurb": "Hangang parks and Namsan tower as a clear-weather finish.",
+  "mood": "Park, river, views",
+  "accent": "#5F7F63",
+  "soft": "#E6EEE5",
+  "deep": "#3F654A",
+  "ink": "#36583F",
+  "motif": "ridge",
+  "duration": "Full day",
+  "stops": 4,
+  "distance": "metro + 3 km",
+  "pace": "full",
+  "kids": true,
+  "microcopy": {
+    "kicker": "Green day",
+    "line": "Leave the tower for a clear final view."
+  },
+  "content": {
+    "intro": "This is the most open Seoul route in the seed: park, several river points, and an observation tower at the end. It does not pretend to be one continuous walk because the Hangang is wide, and the best viewpoints are better linked by metro or taxi.\n\nThe plan depends on weather more than the others. In heat, shorten daytime stretches by the water; in poor visibility, do not cling to the tower; in good weather, leave more time for the finish.",
+    "routeLogic": "Seoul Forest starts the day green and calm.\nYeouido gives a wide riverbank and simple metro access.\nBanpo adds another angle on the Hangang.\nN Seoul Tower works only as a weather-dependent finish.",
+    "bestFor": "clear weather\nparks and river\na family pace\na full day without museums",
+    "notFor": "heavy rain or strong heat\npoor visibility\ntravelers who want to walk all day without transport",
+    "beforeYouGo": "Check forecast, fine dust, and visibility.\nFor river parks, bring water and sun protection.\nFountain, event, and tower schedules change.\nPlan metro or taxi between parks.",
+    "timing": "Start before midday and leave the tower for evening or late day, when sky clarity is easier to judge.",
+    "fallbackPlan": "If visibility is poor, replace the tower with dinner by the river or a short indoor plan near the closest station."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Seoul Forest",
+      "note": "The park starts the day away from city noise",
+      "time": "90 min",
+      "walk": "metro",
+      "content": {
+        "context": "Seoul Forest gives a green start before the larger river spaces. It is useful for an easy opening: walk the alleys, take a child or coffee pause, and avoid entering the day through the dense center.",
+        "lookFor": "Broad paths and shaded stretches\nPlaces where children can move more freely\nTransitions toward Seongsu if you want coffee\nSeasonal flowers or open lawns",
+        "practical": "The park is mostly outdoors, so weather matters.\nWeekends can be denser near popular entrances.\nDo not stretch the stop too long; a transfer to the Hangang is ahead.",
+        "nextMove": "Ride the metro to Yeouido Hangang; the distance across the city is too long for a walking link."
+      },
+      "id": "seoul-river-views-1",
+      "guideId": "seoul-river-views",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Yeouido Hangang",
+      "note": "The Hangang bank moves the route to the river",
+      "time": "75 min",
+      "walk": "metro",
+      "content": {
+        "context": "Yeouido Hangang Park shows the river wide and open, with easy metro access. In the route, this is the main daytime bank: walk, sit on the grass, and watch the city open on both sides of the water.",
+        "lookFor": "Wide Hangang view\nLawns and picnic areas\nBridges and bicycle movement\nSeasonal events if they do not block the walk",
+        "practical": "In summer, sun and heat tire you quickly.\nEvents and festivals can change the flow of people.\nCheck rentals and services on site.",
+        "nextMove": "Ride rather than walk all the way to Banpo; this keeps energy for the finish.",
+        "sourceNote": "Hangang events, rentals, and access can change; check the current situation on site."
+      },
+      "id": "seoul-river-views-2",
+      "guideId": "seoul-river-views",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Banpo Hangang",
+      "note": "A second river point keeps the day by the water",
+      "time": "60 min",
+      "walk": "transfer",
+      "content": {
+        "context": "Banpo gives a different angle on the Hangang and keeps the river day from becoming a single embankment. If fountains or events are running, treat them as a bonus; the route should not depend on them because schedules are seasonal and weather-based.",
+        "lookFor": "View toward the bridge and opposite bank\nEvening light on the water\nPlaces where you can sit calmly\nSigns of current events or closures",
+        "practical": "Fountain schedules and access depend on season and weather.\nIt can be windy by the water.\nKeep time in reserve for the move to Namsan.",
+        "nextMove": "For N Seoul Tower, use metro, bus, taxi, or cable car depending on the day; it is a separate final block.",
+        "sourceNote": "Fountain schedules, river access, and events can change with season and weather."
+      },
+      "id": "seoul-river-views-3",
+      "guideId": "seoul-river-views",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "N Seoul Tower",
+      "note": "Final view if the weather is clear",
+      "time": "90 min",
+      "walk": "-",
+      "content": {
+        "context": "Leave N Seoul Tower for the end, when visibility is easier to judge. After parks and river, the tower gathers the day from above: you can see how the Hangang, Namsan, and central districts connect.",
+        "lookFor": "Air clarity before buying a ticket\nViews of the Hangang curves\nDusk if the day is clear\nReturn route down before transport closes",
+        "practical": "Check hours, tickets, and the way up in advance.\nIn poor visibility, the view may not be worth the effort.\nSunset can bring queues.",
+        "nextMove": "End the route by descending to the nearest transport; do not plan another distant point after the tower.",
+        "sourceNote": "Tower hours, tickets, visibility, and access can change; check before committing to the final stop."
+      },
+      "id": "seoul-river-views-4",
+      "guideId": "seoul-river-views",
+      "order": 4
+    }
+  ]
+}

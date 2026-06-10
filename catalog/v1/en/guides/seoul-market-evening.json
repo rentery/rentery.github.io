@@ -1,0 +1,100 @@
+{
+  "id": "seoul-market-evening",
+  "cityId": "seoul",
+  "category": "Food",
+  "title": "Market And DDP",
+  "subtitle": "Jongno / Dongdaemun",
+  "blurb": "The stream, Gwangjang Market, and evening Dongdaemun without extra detours.",
+  "mood": "Noisy, tasty, evening",
+  "accent": "#C8702F",
+  "soft": "#F6E7D7",
+  "deep": "#8C4A1C",
+  "ink": "#653818",
+  "motif": "steam",
+  "duration": "Evening",
+  "stops": 4,
+  "distance": "2.4 km",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Evening center",
+    "line": "Leave time for the market and pauses by the stream."
+  },
+  "content": {
+    "intro": "The evening route follows a simple line: first the water of Cheonggyecheon, then the food and noise of Gwangjang, then the walk to Dongdaemun Gate and DDP. It is not a dish checklist; it is a clear evening rhythm in the center.\n\nCrowds can tire you quickly here, so do not plan a full dinner at every point. Make one main market pause, leave space for walking, and keep a backup metro exit.",
+    "routeLogic": "The stream gives a calmer entry into evening.\nGwangjang becomes the main food stop.\nDongdaemun links the market to the design district.\nDDP works as the finish with architecture and a possible indoor pause.",
+    "bestFor": "an evening in the center\nmarket and street food\nshort walks\na route after daytime plans",
+    "notFor": "crowd intolerance\nstrict diets\na late start without checking transport",
+    "beforeYouGo": "Do not promise yourself exact dishes: stalls and queues change.\nCarry cash or a card with backup payment options.\nCheck DDP events if you expect to go inside.",
+    "timing": "Start one or two hours before dinner: the market becomes the pause, and DDP stays for evening light.",
+    "fallbackPlan": "If the market is too dense, pass through briefly and move dinner to the DDP or Jongno area."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Cheonggyecheon",
+      "note": "The stream eases you into evening",
+      "time": "45 min",
+      "walk": "12 min",
+      "content": {
+        "context": "Cheonggyecheon is useful before the market: it runs below street level and softens the noise of the center. In the evening, the stream lets you start without jumping straight into the crowd, then leads naturally toward Jongno and Gwangjang.",
+        "lookFor": "Bridges and steps down to the water\nLight on the lower promenade\nPlaces where it is easy to exit to street level\nThe change from office area to market streets",
+        "practical": "After rain, access to the water can change.\nEvents and holidays make the flow denser.\nKeep the route flexible: you can exit earlier.",
+        "nextMove": "Walk from the stream to Gwangjang Market; it is a short transfer, after which the pace becomes much tighter."
+      },
+      "id": "seoul-market-evening-1",
+      "guideId": "seoul-market-evening",
+      "order": 1
+    },
+    {
+      "entry": "as available",
+      "name": "Gwangjang",
+      "note": "The market is the main food stop",
+      "time": "60 min",
+      "walk": "10 min",
+      "content": {
+        "context": "Gwangjang is one of Seoul's best-known traditional markets, but in this route it is not a checkbox. It is the main food block of the evening: noisy rows, fast seating, simple navigation, and the chance to try a few small portions.",
+        "lookFor": "Rows with pancakes, gimbap, and snacks\nSeating right at counters\nFabric and clothing sections outside the food rows\nQueues that move quickly",
+        "practical": "Prices, hours, and dishes depend on the specific stalls.\nAt peak times it is tight, so keep belongings close.\nChoose one or two stops instead of the whole market at once.",
+        "nextMove": "After the market, move toward Dongdaemun: a short walk helps shift from food noise to open city evening.",
+        "sourceNote": "Market hours, stalls, and dish availability vary; check the current situation on site."
+      },
+      "id": "seoul-market-evening-2",
+      "guideId": "seoul-market-evening",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Dongdaemun",
+      "note": "The district adds city evening after the market",
+      "time": "30 min",
+      "walk": "5 min",
+      "content": {
+        "context": "Dongdaemun links the market with DDP and reminds you the area is not only shopping. The historic gate and broad transport hub give a short outdoor block between food and the architectural finish.",
+        "lookFor": "Heunginjimun Gate against moving traffic\nThe shift between old object and modern shopping district\nWide crossings where direction matters",
+        "practical": "The district is lively; cross streets only at clear crossings.\nShops and malls keep different hours.\nIf you are tired, go straight to DDP or the metro.",
+        "nextMove": "DDP is nearby; the walk is short, but leave a few minutes for lights and orientation in the large interchange."
+      },
+      "id": "seoul-market-evening-3",
+      "guideId": "seoul-market-evening",
+      "order": 3
+    },
+    {
+      "entry": "by event",
+      "name": "DDP",
+      "note": "The final point by Dongdaemun",
+      "time": "75 min",
+      "walk": "-",
+      "content": {
+        "context": "Dongdaemun Design Plaza finishes the evening with modern scale: flowing building forms, plazas, and exhibition spaces feel sharply different from the market. Even without an exhibition, it is a useful final point by the metro.",
+        "lookFor": "Curving facade and level changes\nOpen plazas around the building\nCurrent exhibition and event posters\nNight light on metal surfaces",
+        "practical": "Exhibitions, entry, and events change, so check before visiting.\nPart of the route may be outdoors; account for weather.\nLate in the evening, keep the nearest station as your exit point.",
+        "nextMove": "End at Dongdaemun History and Culture Park station, or stay in the area only if you already checked return transport.",
+        "sourceNote": "DDP exhibitions, paid areas, and events change; check the current program before going inside."
+      },
+      "id": "seoul-market-evening-4",
+      "guideId": "seoul-market-evening",
+      "order": 4
+    }
+  ]
+}

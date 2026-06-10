@@ -1,0 +1,117 @@
+{
+  "id": "seoul-first-time",
+  "cityId": "seoul",
+  "category": "Classic",
+  "title": "First Seoul",
+  "subtitle": "Gwanghwamun / Jongno",
+  "blurb": "The main palace, hanok streets, and the old-center stream in one day.",
+  "mood": "History, courtyards, and a gentle pace",
+  "accent": "#9C3B2E",
+  "soft": "#F2E4DF",
+  "deep": "#7A2C22",
+  "ink": "#6E2A20",
+  "motif": "axis",
+  "duration": "Day",
+  "stops": 5,
+  "distance": "3.4 km",
+  "pace": "day",
+  "kids": false,
+  "microcopy": {
+    "kicker": "First route",
+    "line": "One central area, without jumps between districts."
+  },
+  "content": {
+    "intro": "This day stays around the old Joseon capital: palace axis, museum by the gates, residential hanok area, temple pause, and Cheonggyecheon stream. The route does not try to show all of Seoul at once, but it gives a clear first map of the city.\n\nYou can walk from Gwanghwamun to Cheonggyecheon. In Bukchon, do not linger at house gates; if the upper streets are packed with groups, drop toward Anguk and add a cafe on the way.",
+    "routeLogic": "Start with Gyeongbokgung while group traffic is lighter.\nAfter the palace, move into the museum so the whole day is not outdoors.\nPass through Bukchon quietly and without long photo sessions.\nAt Jogyesa, slow down before noisy Jongno.\nAt Cheonggyecheon, finish by the nearest metro exit or keep walking along the water if you still have energy.",
+    "bestFor": "a first visit\nold center orientation\npalaces and hanok\none day without distant transfers",
+    "notFor": "a late start\nstrong heat or heavy rain\ntravelers who want only modern Seoul",
+    "beforeYouGo": "Check palace and museum hours and closed days.\nFollow quiet-tourism rules in Bukchon.\nPart of the day is outdoors, so avoid heavy rain.\nA transit card is useful for metro and buses.",
+    "timing": "Start in the morning at Gwanghwamun: the palace and Bukchon are calmer before midday.",
+    "fallbackPlan": "If the palace is closed or weather is poor, keep the museum and Jogyesa, and shorten Bukchon to a brief passage from Anguk."
+  },
+  "stopList": [
+    {
+      "entry": "ticketed",
+      "name": "Gyeongbokgung",
+      "note": "The palace sets the old-center axis",
+      "time": "90 min",
+      "walk": "5 min",
+      "content": {
+        "context": "Gyeongbokgung was the main Joseon palace and stands at the north edge of Gwanghwamun. In this route it sets the scale of the old capital: gates, courts, axial layout, and an easy move to the museum in the palace cluster.",
+        "lookFor": "How gates line up the movement\nOpen courts between pavilions\nMountain view behind the palace\nQuieter side passages if the main court is crowded",
+        "practical": "Hours, closed days, and tickets change; check before leaving.\nMost of the walk is outdoors.\nThe gate ceremony can draw a dense crowd.",
+        "nextMove": "After the palace, move to the Folk Museum near the palace complex without planning a separate transfer.",
+        "sourceNote": "Palace hours, closed days, and ticket rules can change; check current visitor information before leaving."
+      },
+      "id": "seoul-first-time-1",
+      "guideId": "seoul-first-time",
+      "order": 1
+    },
+    {
+      "entry": "often free",
+      "name": "National Folk Museum",
+      "note": "An indoor pause after the palace",
+      "time": "60 min",
+      "walk": "10 min",
+      "content": {
+        "context": "The National Folk Museum of Korea shifts the day from palace architecture to everyday culture. It works well second: after large courts, you get an indoor pause while the route stays tied to the old center.",
+        "lookFor": "Seasonal and everyday stories in the permanent display\nObjects that explain family and city rituals\nCourtyard and exterior details between halls",
+        "practical": "Entry rules and temporary closures should be checked separately.\nThe children museum may require online booking.\nThis is a useful stop for heat, cold, or rain.",
+        "nextMove": "Continue to Bukchon through the Anguk area; the walk is short, but hills can slow the pace.",
+        "sourceNote": "Museum access rules and special areas can change; check current visitor information."
+      },
+      "id": "seoul-first-time-2",
+      "guideId": "seoul-first-time",
+      "order": 2
+    },
+    {
+      "entry": "quiet passage",
+      "name": "Bukchon",
+      "note": "Residential hanok area: keep it quiet",
+      "time": "45 min",
+      "walk": "12 min",
+      "content": {
+        "context": "Bukchon is not an open-air museum but a residential hanok area between palaces. In this route it is not about waiting for the same photo. It shows how the old city scale still lives beside modern streets.",
+        "lookFor": "Tile roof lines on narrow streets\nHeight changes between lanes\nClosed gates as signs of private life\nViews toward palace districts",
+        "practical": "Keep quiet and do not film inside homes.\nSome zones may have visiting restrictions.\nSmall groups work better here.",
+        "nextMove": "From Bukchon, go down toward Insadong and Jogyesa, choosing calmer lanes if the main streets are crowded.",
+        "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+      },
+      "id": "seoul-first-time-3",
+      "guideId": "seoul-first-time",
+      "order": 3
+    },
+    {
+      "entry": "respectfully",
+      "name": "Jogyesa",
+      "note": "A calm temple stop",
+      "time": "30 min",
+      "walk": "8 min",
+      "content": {
+        "context": "Jogyesa stands beside office and tourist Jongno, but the courtyard immediately slows the pace. After Bukchon it is a short, focused pause: the temple shows a Buddhist layer of the city without a long detour.",
+        "lookFor": "Main hall and painted eaves\nLanterns and seasonal decoration in the courtyard\nHow the temple court fits inside the dense center",
+        "practical": "Speak quietly and do not disturb services.\nSome indoor areas may discourage photography.\nIf a ceremony is underway, stay with the courtyard.",
+        "nextMove": "Walk from the temple to Cheonggyecheon: it is a short move from a quiet courtyard to open city water."
+      },
+      "id": "seoul-first-time-4",
+      "guideId": "seoul-first-time",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Cheonggyecheon",
+      "note": "Finish with a walk along the water",
+      "time": "45 min",
+      "walk": "-",
+      "content": {
+        "context": "Cheonggyecheon brings the route back from palaces and lanes into the modern center. It works as a finish because you can walk only as far as you have energy, exit to metro at several points, or sit by the water.",
+        "lookFor": "Steps down from street level\nBridges and stone crossings\nThe shift from street noise to the lower level\nEvening light if you finish near dusk",
+        "practical": "After heavy rain, access to the lower level can change.\nFestivals and weekends can make it busier.\nKeep a metro exit as plan B.",
+        "nextMove": "End at the nearest metro station or continue along the stream toward Jongno if you still have energy."
+      },
+      "id": "seoul-first-time-5",
+      "guideId": "seoul-first-time",
+      "order": 5
+    }
+  ]
+}

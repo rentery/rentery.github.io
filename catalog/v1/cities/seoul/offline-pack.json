@@ -25,6 +25,7 @@
     "timezone": "Asia/Seoul",
     "countryId": "south-korea"
   },
+  "defaultLocale": "ru",
   "guides": [
     {
       "id": "seoul-first-time",
@@ -544,6 +545,8 @@
       ]
     }
   ],
+  "locale": "ru",
+  "schemaVersion": 1,
   "stops": [
     {
       "entry": "по билету",
@@ -893,5 +896,5 @@
       "order": 4
     }
   ],
-  "packHash": "17d874a04721"
+  "packHash": "72559da1ec19"
 }

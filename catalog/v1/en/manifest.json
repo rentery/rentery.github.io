@@ -1,16 +1,16 @@
 {
   "cities": {
     "beijing": {
-      "packHash": "4c35fe3ec49d",
+      "packHash": "88ff1cc88b5f",
       "packPath": "cities/beijing/offline-pack.json"
     },
     "seoul": {
-      "packHash": "72559da1ec19",
+      "packHash": "f780bd7a44e6",
       "packPath": "cities/seoul/offline-pack.json"
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-10T15:29:16.281Z",
-  "locale": "ru",
+  "generatedAt": "2026-06-10T15:29:16.292Z",
+  "locale": "en",
   "schemaVersion": 1
 }

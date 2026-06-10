@@ -1,0 +1,100 @@
+{
+  "id": "seoul-calm-day",
+  "cityId": "seoul",
+  "category": "Calm Day",
+  "title": "Museum Day",
+  "subtitle": "Yongsan / Itaewon",
+  "blurb": "Yongsan museums and a short Itaewon finish for bad weather.",
+  "mood": "Calm, indoor, away from heat",
+  "accent": "#5B79B0",
+  "soft": "#E4E9F3",
+  "deep": "#3F5C92",
+  "ink": "#3C5790",
+  "motif": "kids",
+  "duration": "Day",
+  "stops": 4,
+  "distance": "taxi/metro + 1.8 km",
+  "pace": "day",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Quiet mode",
+    "line": "Works when a long outdoor walk is inconvenient."
+  },
+  "content": {
+    "intro": "This day is built for heat, rain, dust, or simple fatigue from street routes. The National Museum of Korea gives a large culture block, the War Memorial adds modern history, Leeum shifts the day toward art, and Itaewon leaves a short neighborhood finish.\n\nTreat transfers between points as part of the plan, not a route mistake. This is not a continuous walk; it is a calm day with long halls and short outdoor moves.",
+    "routeLogic": "Start with the National Museum while you have energy for a large site.\nRide rather than walk the whole way to the War Memorial.\nLeeum adds a compact art block.\nItaewon is kept as a short finish near Yongsan.",
+    "bestFor": "rain or heat\nmuseums\na slow day\na break from long streets",
+    "notFor": "travelers who dislike museums\na full-day walk on foot\nchildren with no interest in halls",
+    "beforeYouGo": "Check closed days and special exhibitions.\nMuseums can have rules for food, photos, and loud conversation.\nMetro or taxi is easier between sites.",
+    "timing": "Start in the morning at the National Museum: the first stop can take more time than it looks.",
+    "fallbackPlan": "If energy is lower, keep only the National Museum and Leeum, and use Itaewon as a short nearby dinner."
+  },
+  "stopList": [
+    {
+      "entry": "often free",
+      "name": "National Museum of Korea",
+      "note": "The main culture stop of the day",
+      "time": "150 min",
+      "walk": "transfer",
+      "content": {
+        "context": "The National Museum of Korea is the main large block of this calm day. It lets you spend several hours indoors without losing the route: the collections give broad context for history and art, and Yongsan works well for the next stops.",
+        "lookFor": "Permanent halls instead of racing through every floor\nStone objects and the garden if weather allows\nQuiet passages between major sections\nMuseum shop as a short pause",
+        "practical": "The permanent collection is often free, while special exhibitions may be paid.\nCheck closed days and hours before visiting.\nKeep quiet in the halls and follow photo rules.",
+        "nextMove": "Ride to the War Memorial by metro, bus, or taxi; walking the full way would make the day too heavy.",
+        "sourceNote": "Museum hours, closed days, and special exhibitions can change; check current visitor information."
+      },
+      "id": "seoul-calm-day-1",
+      "guideId": "seoul-calm-day",
+      "order": 1
+    },
+    {
+      "entry": "check first",
+      "name": "War Memorial",
+      "note": "Continues the Yongsan museum theme",
+      "time": "120 min",
+      "walk": "transfer",
+      "content": {
+        "context": "The War Memorial of Korea adds a complex historical layer to the museum day. It fits logistically with the National Museum in Yongsan, but it is emotionally heavier: move selectively, without trying to cover every hall.",
+        "lookFor": "Outdoor equipment and memorial spaces\nHalls connected to the Korean War\nPlaces to pause between heavy sections",
+        "practical": "Check hours and access to individual areas before going.\nThe subject can be heavy for children and sensitive visitors.\nLeave time to rest after the visit.",
+        "nextMove": "For Leeum, ride toward Hannam-dong and Hangangjin; do not plan a long walking link."
+      },
+      "id": "seoul-calm-day-2",
+      "guideId": "seoul-calm-day",
+      "order": 2
+    },
+    {
+      "entry": "booking/ticket",
+      "name": "Leeum",
+      "note": "An art block after history",
+      "time": "90 min",
+      "walk": "15 min",
+      "content": {
+        "context": "Leeum Museum of Art moves the day from history toward art and architecture. After large state museums it feels more compact, but it still needs attention to booking and current exhibitions.",
+        "lookFor": "Differences between M1 and M2 spaces\nTraditional materials beside contemporary art\nStairs, light, and interior transitions\nThe current exhibition if it fits your timing",
+        "practical": "The museum runs by schedule and often recommends booking.\nSome exhibitions are paid, others may be free.\nAvoid bringing large bags or food into the galleries.",
+        "nextMove": "After Leeum, walk down toward Itaewon or ride briefly if weather or energy makes the street unappealing.",
+        "sourceNote": "Leeum booking, tickets, and exhibition access can change; check current visit information."
+      },
+      "id": "seoul-calm-day-3",
+      "guideId": "seoul-calm-day",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Itaewon",
+      "note": "A final walk near Yongsan",
+      "time": "45 min",
+      "walk": "-",
+      "content": {
+        "context": "Itaewon ends the museum day not with a monument but with a change of urban scene. After halls and memorial spaces, the district gives a short walk, food, and a clear metro exit without another major site.",
+        "lookFor": "Signs and food from many countries\nStreet level changes between Hannam and Itaewon\nCalmer side streets instead of the main crowd",
+        "practical": "In the evening, the district can be noisy and dense.\nChoose food by the current situation, not old lists.\nIf you are tired, finish at the metro right away.",
+        "nextMove": "End at Itaewon or Hangangjin station, whichever is closer to dinner and your return route."
+      },
+      "id": "seoul-calm-day-4",
+      "guideId": "seoul-calm-day",
+      "order": 4
+    }
+  ]
+}

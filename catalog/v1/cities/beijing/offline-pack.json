@@ -25,6 +25,7 @@
     "timezone": "Asia/Shanghai",
     "countryId": "china"
   },
+  "defaultLocale": "ru",
   "guides": [
     {
       "id": "axis",
@@ -603,6 +604,8 @@
       ]
     }
   ],
+  "locale": "ru",
+  "schemaVersion": 1,
   "stops": [
     {
       "entry": "доступ уточнять",
@@ -1011,5 +1014,5 @@
       "order": 6
     }
   ],
-  "packHash": "ef3e0bc73356"
+  "packHash": "4c35fe3ec49d"
 }

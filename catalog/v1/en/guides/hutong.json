@@ -1,0 +1,111 @@
+{
+  "id": "hutong",
+  "cityId": "beijing",
+  "category": "Old City",
+  "title": "Hutongs And Lakes",
+  "subtitle": "Shichahai / towers / Wudaoying",
+  "blurb": "Walk from Prince Kung Mansion to the lakes, towers, and Wudaoying, cutting noisy stretches through side lanes.",
+  "mood": "Alleys, water, and frequent choices on the ground",
+  "accent": "#4E6E73",
+  "soft": "#E2EAEA",
+  "deep": "#34504F",
+  "ink": "#33514F",
+  "motif": "lane",
+  "duration": "Day",
+  "stops": 5,
+  "distance": "6-8 km",
+  "pace": "day",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Turn quieter",
+    "line": "Slow down at doors and corners, and cut ordinary long stretches."
+  },
+  "content": {
+    "intro": "Start at Prince Kung Mansion, then continue to Shichahai, Yandai Xiejie, the Drum and Bell Towers, and Wudaoying. Do not chase kilometers: slow down at doors, old trees, and side passages, and cut long ordinary stretches when needed.\n\nIf heat, rain, or lake crowds break the rhythm, use the metro or DiDi between Shichahai and the towers. Not every hutong street is beautiful; pass noisy stretches without regret and look for quieter parallel lanes.",
+    "routeLogic": "At the mansion, see the courtyards and garden before entering the lanes.\nAt Shichahai, walk the shore only where it is not too tight.\nUse Yandai Xiejie as a short passage, not required shopping.\nAt the towers, decide whether to climb based on energy and visibility.\nFinish in Wudaoying where it is easy to reach metro or taxi.",
+    "bestFor": "the day after palaces and museums\nold lanes, water, and short pauses\nphotos along the way without a heavy museum plan",
+    "notFor": "travelers who need even sidewalks all day\nheavy rain\ncrowds in narrow streets",
+    "beforeYouGo": "For a long walk, choose April-May or September-October when possible.\nIn summer, move long walking stretches to morning or evening.\nOn weekends the lakes and Yandai Xiejie are tighter; keep parallel lanes in mind.",
+    "timing": "Start before lunch at Prince Kung Mansion. Reach the lakes when you want open air, leave the towers for the moment you need orientation, and end in Wudaoying as a calmer pre-dinner finish.",
+    "fallbackPlan": "If the lanes wear you down, take a taxi from Shichahai to the towers. In heavy rain, keep only the mansion, a covered meal, and a short walk by the water."
+  },
+  "stopList": [
+    {
+      "entry": "check ticket",
+      "name": "Prince Kung Mansion",
+      "note": "Start with courtyards and garden",
+      "time": "1.5-2 h",
+      "walk": "12 min",
+      "content": {
+        "context": "Inside the mansion, walk the courtyards first, then the garden and rocks. The neighboring hutongs make more sense after that. If tour groups crowd the narrow passages, do not stand behind them; move through the garden edges.",
+        "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open spaces",
+        "practical": "Morning works best.\nIt is easy to stay longer than planned.\nIf dense groups block the way, use the garden edges.",
+        "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets."
+      },
+      "id": "hutong-1",
+      "guideId": "hutong",
+      "order": 1
+    },
+    {
+      "name": "Shichahai",
+      "note": "Stay by the water until it gets tight",
+      "time": "1-1.5 h",
+      "walk": "10 min",
+      "content": {
+        "context": "At Shichahai, walk along the shore and choose the side by shade and crowd density. If the waterfront gets loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
+        "lookFor": "Bridges and reflections\nCourtyard entrances near the water\nContrast between bars and residential alleys",
+        "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nUse side streets when you need a break from the crowd.",
+        "nextMove": "Continue toward Yandai Xiejie, but do not stop at every shop."
+      },
+      "id": "hutong-2",
+      "guideId": "hutong",
+      "order": 2
+    },
+    {
+      "name": "Yandai Xiejie",
+      "note": "Pass through briefly without shopping pressure",
+      "time": "30-50 min",
+      "walk": "10 min",
+      "content": {
+        "context": "Yandai Xiejie is short and often packed. Treat it as the passage from water to towers: notice the bend of the street, older facades between signs, and side hutongs if the flow stops.",
+        "lookFor": "The curve of the street\nOlder facades among shop signs\nPassages into side hutongs",
+        "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness, not just the sign.\nIf the street is overloaded, use parallel lanes.",
+        "nextMove": "Head toward the Drum and Bell Towers as the next large landmark."
+      },
+      "id": "hutong-3",
+      "guideId": "hutong",
+      "order": 3
+    },
+    {
+      "entry": "check climb",
+      "name": "Drum Tower",
+      "note": "Decide on the spot whether to climb",
+      "time": "45-75 min",
+      "walk": "20 min",
+      "content": {
+        "context": "At the Drum and Bell Towers, stop on the square and check the map: water stays south, hutongs surround you, and Wudaoying is farther east. Climb only if visibility is decent and you have enough energy.",
+        "lookFor": "Silhouettes of the two towers\nThe square between streets\nViews over low roofs",
+        "practical": "The climb can be steep.\nIn poor visibility, the view matters less.\nIf you are tired, keep to the square and move on to food or metro.",
+        "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy."
+      },
+      "id": "hutong-4",
+      "guideId": "hutong",
+      "order": 4
+    },
+    {
+      "name": "Wudaoying Hutong",
+      "note": "A cafe finish with quick transport out",
+      "time": "1-1.5 h",
+      "walk": "-",
+      "content": {
+        "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still matter. If the lane feels too commercial, turn onto a neighboring street and return to the metro from there.",
+        "lookFor": "Old doors\nLow roofs\nMix of cafes and everyday life",
+        "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf the area feels too commercial, move to nearby streets.",
+        "nextMove": "Finish at the metro or take DiDi to dinner in another district."
+      },
+      "id": "hutong-5",
+      "guideId": "hutong",
+      "order": 5
+    }
+  ]
+}

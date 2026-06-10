@@ -1,0 +1,26 @@
+{
+  "id": "beijing",
+  "slug": "beijing",
+  "title": "Beijing",
+  "subtitle": "Beijing - 5 routes",
+  "meta": "China - axis, palaces, hutongs, and long day trips",
+  "practicalNote": "April-May and September-October are gentler for long walks. In summer, start earlier and leave room for rain; in winter, bring a warm layer. Check Palace Museum booking and Tiananmen access before leaving the hotel.",
+  "guideIds": [
+    "axis",
+    "hutong",
+    "food",
+    "kids",
+    "wall"
+  ],
+  "identity": {
+    "accent": "#8F352B",
+    "soft": "#F1E1DC",
+    "deep": "#6F2A22",
+    "ink": "#5D251F",
+    "motif": "axis",
+    "glyph": "京",
+    "hook": "Imperial axis city - since 1420"
+  },
+  "timezone": "Asia/Shanghai",
+  "countryId": "china"
+}
