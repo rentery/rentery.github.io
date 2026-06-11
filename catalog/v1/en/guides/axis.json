@@ -11,6 +11,13 @@
   "deep": "#7A2C22",
   "ink": "#6E2A20",
   "motif": "axis",
+  "cover": {
+    "id": "beijing-axis-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-axis-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/beijing/beijing-axis-cover-square.jpg",
+    "alt": "Красная дворцовая стена и каменная ось утреннего Пекина"
+  },
   "duration": "Day",
   "stops": 5,
   "distance": "5-7 km",

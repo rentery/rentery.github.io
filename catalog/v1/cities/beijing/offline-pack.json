@@ -50,6 +50,13 @@
       "deep": "#7A2C22",
       "ink": "#6E2A20",
       "motif": "axis",
+      "cover": {
+        "id": "beijing-axis-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/beijing/beijing-axis-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/beijing/beijing-axis-cover-square.jpg",
+        "alt": "Красная дворцовая стена и каменная ось утреннего Пекина"
+      },
       "duration": "День",
       "stops": 5,
       "distance": "5-7 км",
@@ -190,6 +197,13 @@
       "deep": "#34504F",
       "ink": "#33514F",
       "motif": "lane",
+      "cover": {
+        "id": "beijing-hutong-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/beijing/beijing-hutong-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/beijing/beijing-hutong-cover-square.jpg",
+        "alt": "Тихий хутун с серыми крышами, деревьями и водой"
+      },
       "duration": "День",
       "stops": 5,
       "distance": "5-7 км",
@@ -328,6 +342,13 @@
       "deep": "#8C4A1C",
       "ink": "#7B3F18",
       "motif": "steam",
+      "cover": {
+        "id": "beijing-food-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/beijing/beijing-food-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/beijing/beijing-food-cover-square.jpg",
+        "alt": "Вечерняя пекинская улица с теплым светом и паром у еды"
+      },
       "duration": "Вечер",
       "stops": 5,
       "distance": "2,5-4 км",
@@ -464,6 +485,13 @@
       "deep": "#3F5C92",
       "ink": "#3C5790",
       "motif": "kids",
+      "cover": {
+        "id": "beijing-kids-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/beijing/beijing-kids-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/beijing/beijing-kids-cover-square.jpg",
+        "alt": "Тенистая дорожка с бамбуком и прохладным голубым светом аквариума"
+      },
       "duration": "Полдня",
       "stops": 4,
       "distance": "2-4 км",
@@ -573,6 +601,13 @@
       "deep": "#343D46",
       "ink": "#343D46",
       "motif": "ridge",
+      "cover": {
+        "id": "beijing-wall-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/beijing/beijing-wall-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/beijing/beijing-wall-cover-square.jpg",
+        "alt": "Каменная стена на горном хребте в ясном утреннем свете"
+      },
       "duration": "Целый день",
       "stops": 4,
       "distance": "2-5 км",
@@ -1150,5 +1185,5 @@
       "order": 4
     }
   ],
-  "packHash": "00d1cb5ba36b"
+  "packHash": "cfed5d707a43"
 }

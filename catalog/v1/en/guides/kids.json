@@ -11,6 +11,13 @@
   "deep": "#3F5C92",
   "ink": "#3C5790",
   "motif": "kids",
+  "cover": {
+    "id": "beijing-kids-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-kids-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/beijing/beijing-kids-cover-square.jpg",
+    "alt": "Тенистая дорожка с бамбуком и прохладным голубым светом аквариума"
+  },
   "duration": "Half-day",
   "stops": 4,
   "distance": "2-4 km",

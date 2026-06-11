@@ -11,6 +11,13 @@
   "deep": "#34504F",
   "ink": "#33514F",
   "motif": "lane",
+  "cover": {
+    "id": "beijing-hutong-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-hutong-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/beijing/beijing-hutong-cover-square.jpg",
+    "alt": "Тихий хутун с серыми крышами, деревьями и водой"
+  },
   "duration": "День",
   "stops": 5,
   "distance": "5-7 км",

@@ -11,6 +11,13 @@
   "deep": "#343D46",
   "ink": "#343D46",
   "motif": "ridge",
+  "cover": {
+    "id": "beijing-wall-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-wall-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/beijing/beijing-wall-cover-square.jpg",
+    "alt": "Каменная стена на горном хребте в ясном утреннем свете"
+  },
   "duration": "Full day",
   "stops": 4,
   "distance": "2-5 km",

@@ -11,6 +11,13 @@
   "deep": "#8C4A1C",
   "ink": "#7B3F18",
   "motif": "steam",
+  "cover": {
+    "id": "beijing-food-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-food-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/beijing/beijing-food-cover-square.jpg",
+    "alt": "Вечерняя пекинская улица с теплым светом и паром у еды"
+  },
   "duration": "Вечер",
   "stops": 5,
   "distance": "2,5-4 км",
