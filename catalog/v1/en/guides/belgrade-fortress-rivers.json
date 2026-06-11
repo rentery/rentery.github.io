@@ -20,6 +20,19 @@
     "kicker": "Main view",
     "line": "Fortress, park, and rivers in one pace."
   },
+  "cover": {
+    "id": "belgrade-belgrade-fortress",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+    "alt": "Стены Верхнего города Белградской крепости",
+    "attribution": {
+      "author": "Алексей Белобородов",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "Kalemegdan works best as both park and fortress. The gates give a historic entrance, the Upper Town holds the overview, and the terraces near the Victor open the main views toward the Sava and Danube. There is no single ticket for the whole outdoor area, but separate interior sites may keep their own schedules.\n\nGo in dry weather and avoid packing too many fortress museums into the walk. The main value is outside: walls, height changes, park shade, and the slow descent toward the water.",
     "routeLogic": "Enter through the fortress gates instead of starting with the panorama.\nTreat the Upper Town as the historic core of the walk.\nUse the Roman Well as a nearby point, not as a guaranteed interior visit.\nLeave time for the Victor viewpoint.\nDescend to the Sava only if you still have energy.",
@@ -61,6 +74,19 @@
       "coordinates": {
         "latitude": 44.8235023,
         "longitude": 20.4497649
+      },
+      "photo": {
+        "id": "belgrade-belgrade-fortress",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+        "alt": "Стены Верхнего города Белградской крепости",
+        "attribution": {
+          "author": "Алексей Белобородов",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Belgrade Fortress stands above the place where the Sava meets the Danube. In this route it is the main historic section: walls, park paths, and viewing terraces combine into a clear map of the city.",
@@ -105,6 +131,19 @@
       "coordinates": {
         "latitude": 44.8230278,
         "longitude": 20.4477064
+      },
+      "photo": {
+        "id": "belgrade-the-victor",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/the-victor-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/the-victor-square.jpg",
+        "alt": "Памятник Победителю в Белградской крепости",
+        "attribution": {
+          "author": "George M. Groutas",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Victor_-_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "The Victor monument stands by the fortress viewpoint and immediately explains why Belgrade holds this hill. From here you can see the river confluence, islands, New Belgrade, and the direction of Zemun.",

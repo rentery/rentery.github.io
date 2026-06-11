@@ -20,6 +20,19 @@
     "kicker": "Первый круг",
     "line": "Понятная ось центра без дальних переездов."
   },
+  "cover": {
+    "id": "belgrade-republic-square",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/republic-square-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/republic-square-square.jpg",
+    "alt": "Площадь Республики в Белграде",
+    "attribution": {
+      "author": "AndrejBGD",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republic_Square_in_Belgrade.jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "Этот маршрут дает Белград без попытки сразу охватить весь город. Он начинается там, где часто назначают встречи, проходит по главной пешеходной улице, оставляет время на Национальный музей и завершает день в Скадарлии.\n\nКруг короткий и удобен после приезда: можно идти пешком, менять темп по погоде и не зависеть от транспорта. Если музей закрыт, оставьте площадь и улицу Кнеза Михаила, а Скадарлию перенесите ближе к вечеру.",
     "routeLogic": "· начните с площади Республики как с простого ориентира\n· по Кнеза Михаила идите в сторону старого города, но не спешите к крепости\n· музей ставьте в середину дня, когда нужен крытый участок\n· Скадарлию оставьте на финал, когда район оживает",
@@ -144,6 +157,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-national-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+        "alt": "Фасад Национального музея Сербии",
+        "attribution": {
+          "author": "Simon Legner (User:simon04)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Национальный музей стоит прямо у площади Республики, поэтому его легко встроить в первый день. Он дает крытый участок между улицами и помогает перейти от общего городского шума к истории Сербии и региона.",
         "lookFor": "· парадную лестницу и залы постоянной экспозиции\n· сербское и европейское искусство рядом\n· виды из окон на площадь\n· временные выставки, если они открыты",
@@ -165,6 +191,19 @@
       "coordinates": {
         "latitude": 44.8180993,
         "longitude": 20.4647579
+      },
+      "photo": {
+        "id": "belgrade-skadarlija",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/skadarlija-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/skadarlija-square.jpg",
+        "alt": "Улица Скадарлия в богемном квартале Белграда",
+        "attribution": {
+          "author": "Remi Jouan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skadarlija,_bohemian_quarter_of_Belgrade,_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Скадарлия известна как богемный квартал с булыжной улицей, ресторанами и музыкальной традицией. После площади, музея и пешеходной оси она добавляет более шумный и вечерний характер старого центра.",

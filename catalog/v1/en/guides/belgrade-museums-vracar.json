@@ -20,6 +20,19 @@
     "kicker": "Indoor day",
     "line": "Museums are balanced by a temple and transfers."
   },
+  "cover": {
+    "id": "belgrade-saint-sava-temple",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-square.jpg",
+    "alt": "Храм Святого Саввы в Белграде",
+    "attribution": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "This day is for more content and less wandering. Start in the center, then transfer to the Nikola Tesla Museum and Saint Sava Temple, with the Museum of Yugoslavia in Dedinje as the finish.\n\nDo not try to walk the whole route. Between Vracar and Dedinje, transport is the better choice. Check every museum in the morning, because Monday closures and special changes can easily break the order.",
     "routeLogic": "The National Museum gives a broad historic start.\nThe Tesla Museum needs current slot and closure checks.\nSaint Sava Temple adds an open stop between indoor visits.\nPut the Museum of Yugoslavia last so you do not need to return to the center.",
@@ -75,6 +88,19 @@
             "closes": "20:00"
           }
         ]
+      },
+      "photo": {
+        "id": "belgrade-national-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+        "alt": "Фасад Национального музея Сербии",
+        "attribution": {
+          "author": "Simon Legner (User:simon04)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "The National Museum works well first because it sits in the center and needs no morning transfer. It sets the historic scale before the narrower stories of Tesla, the temple, and Yugoslav memory.",
@@ -138,6 +164,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-nikola-tesla-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-square.jpg",
+        "alt": "Экспозиция Музея Николы Теслы",
+        "attribution": {
+          "author": "Vislupus",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_Museum_002.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "The Nikola Tesla Museum occupies a small house in Vracar and keeps material connected with the inventor. In this route, the city day becomes more focused here and works best with an entry time checked in advance.",
         "lookFor": "Displays connected with electricity and the archive\nThe small scale of the building\nDemonstration or group timing if available",
@@ -200,6 +239,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-saint-sava-temple",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-square.jpg",
+        "alt": "Храм Святого Саввы в Белграде",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Saint Sava Temple changes the scale sharply after the small Tesla Museum. Standing on the Vracar plateau, it gives an open and luminous stop between museum galleries and the more distant Dedinje area.",
         "lookFor": "Mosaics and the interior volume\nThe broad approach from the plateau\nThe difference between the temple and the smaller church nearby\nLight in the central space",
@@ -256,6 +308,19 @@
             "closes": "18:00"
           }
         ]
+      },
+      "photo": {
+        "id": "belgrade-house-of-flowers",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-square.jpg",
+        "alt": "Дом цветов в комплексе Музея Югославии",
+        "attribution": {
+          "author": "Pudelek",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Flowers,_Belgrade_(by_Pudelek)_01.JPG",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "The Museum of Yugoslavia in Dedinje combines several buildings in one complex, including the House of Flowers. After the center and Vracar, it extends the day into the twentieth century and Yugoslav memory.",

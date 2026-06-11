@@ -20,6 +20,19 @@
     "kicker": "Главный вид",
     "line": "Крепость, парк и реки в одном темпе."
   },
+  "cover": {
+    "id": "belgrade-belgrade-fortress",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+    "alt": "Стены Верхнего города Белградской крепости",
+    "attribution": {
+      "author": "Алексей Белобородов",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "Калемегдан лучше проходить как парк и крепость одновременно: ворота дают исторический вход, Верхний город держит обзор, а площадки у Победителя выводят к главным видам на Саву и Дунай. Маршрут не требует билета в единый объект, но отдельные внутренние места могут работать по своему режиму.\n\nИдите в сухую погоду и не планируйте слишком много музеев внутри крепости. Главная ценность здесь снаружи: стены, перепады высоты, тень парка и медленный спуск к воде.",
     "routeLogic": "· войдите через крепостные ворота, чтобы не начинать сразу с видов\n· Верхний город держите как историческое ядро маршрута\n· Римский колодец оставьте как точку рядом, без обещания входа\n· у Победителя заложите время на виды\n· к Саве спускайтесь только если остались силы",
@@ -61,6 +74,19 @@
       "coordinates": {
         "latitude": 44.8235023,
         "longitude": 20.4497649
+      },
+      "photo": {
+        "id": "belgrade-belgrade-fortress",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+        "alt": "Стены Верхнего города Белградской крепости",
+        "attribution": {
+          "author": "Алексей Белобородов",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Белградская крепость стоит на возвышении над местом, где Сава встречается с Дунаем. Внутри маршрута это главный исторический участок: стены, парковые проходы и видовые площадки складываются в понятную карту города.",
@@ -105,6 +131,19 @@
       "coordinates": {
         "latitude": 44.8230278,
         "longitude": 20.4477064
+      },
+      "photo": {
+        "id": "belgrade-the-victor",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/the-victor-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/the-victor-square.jpg",
+        "alt": "Памятник Победителю в Белградской крепости",
+        "attribution": {
+          "author": "George M. Groutas",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Victor_-_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Памятник Победителю стоит у видовой точки крепости и сразу объясняет, почему Белград держит это место. Отсюда видно слияние рек, острова, Новый Белград и направление к Земуну.",

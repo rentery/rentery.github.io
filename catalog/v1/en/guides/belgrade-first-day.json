@@ -20,6 +20,19 @@
     "kicker": "First loop",
     "line": "A clear central axis without long transfers."
   },
+  "cover": {
+    "id": "belgrade-republic-square",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/republic-square-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/republic-square-square.jpg",
+    "alt": "Площадь Республики в Белграде",
+    "attribution": {
+      "author": "AndrejBGD",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republic_Square_in_Belgrade.jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "This route gives you Belgrade without trying to cover the whole city at once. It starts at the main meeting point, follows the pedestrian street, leaves time for the National Museum, and finishes in Skadarlija.\n\nThe loop is short and useful after arrival: you can walk it, adjust the pace to the weather, and avoid depending on transport. If the museum is closed, keep the square and Knez Mihailova, then move Skadarlija closer to evening.",
     "routeLogic": "Start at Republic Square as the easiest central reference.\nWalk Knez Mihailova toward the old city, but do not rush to the fortress.\nUse the museum in the middle of the day when you want an indoor stretch.\nKeep Skadarlija for the finish, when the area wakes up.",
@@ -144,6 +157,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-national-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+        "alt": "Фасад Национального музея Сербии",
+        "attribution": {
+          "author": "Simon Legner (User:simon04)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "The National Museum stands right on Republic Square, so it fits easily into a first day. It gives an indoor stretch between streets and helps shift from city noise to the history of Serbia and the wider region.",
         "lookFor": "The main stair and permanent galleries\nSerbian and European art shown close together\nViews back to the square\nTemporary exhibitions if they are open",
@@ -165,6 +191,19 @@
       "coordinates": {
         "latitude": 44.8180993,
         "longitude": 20.4647579
+      },
+      "photo": {
+        "id": "belgrade-skadarlija",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/skadarlija-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/skadarlija-square.jpg",
+        "alt": "Улица Скадарлия в богемном квартале Белграда",
+        "attribution": {
+          "author": "Remi Jouan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skadarlija,_bohemian_quarter_of_Belgrade,_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Skadarlija is known as a bohemian quarter with cobblestones, restaurants, and a music tradition. After the square, museum, and pedestrian axis, it adds a louder evening character to the old center.",

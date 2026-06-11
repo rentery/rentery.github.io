@@ -20,6 +20,19 @@
     "kicker": "Левый берег",
     "line": "После старого центра город раскрывается шире."
   },
+  "cover": {
+    "id": "belgrade-msub",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+    "alt": "Здание Музея современного искусства Белграда",
+    "attribution": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "Новый Белград лучше воспринимать как смену масштаба: после крепости и старого центра появляются широкие оси, большие здания, парк у слияния рек и послевоенный модернизм. Маршрут начинается с музея у Ушче, затем переходит к внешним архитектурным ориентирам.\n\nЭто не маршрут для входа во все здания. Дворец Сербия, Сава-центр и Западные ворота Белграда лучше смотреть снаружи, не обещая публичный доступ. Между точками используйте транспорт, чтобы не превращать полдня в длинную ходьбу по магистралям.",
     "routeLogic": "· начните с музея современного искусства как с понятной крытой точки\n· парк Ушче связывает музей с масштабом левого берега\n· Дворец Сербия смотрите как внешний ориентир\n· Сава-центр и Генекс требуют переездов, а не длинной пешей связки",
@@ -76,6 +89,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-msub",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+        "alt": "Здание Музея современного искусства Белграда",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Музей современного искусства стоит у парка Ушче и хорошо открывает левый берег: внутри искусство, снаружи сразу чувствуется простор Нового Белграда. Это удобная точка, где маршрут начинается не с магистрали.",
         "lookFor": "· форму здания среди зелени\n· связь музея с парком и реками\n· постоянные и временные экспозиции\n· спокойный переход к открытому пространству Ушче",
@@ -118,6 +144,19 @@
       "coordinates": {
         "latitude": 44.8201846,
         "longitude": 20.4276135
+      },
+      "photo": {
+        "id": "belgrade-palace-of-serbia",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-square.jpg",
+        "alt": "Фасад Дворца Сербия в Новом Белграде",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Дворец Сербия важен как внешний ориентир Нового Белграда: большое административное здание и широкий участок вокруг него показывают послевоенный масштаб района. Маршрут смотрит его снаружи.",

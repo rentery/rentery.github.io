@@ -90,6 +90,19 @@
       "latitude": 44.80401,
       "longitude": 20.46513
     },
+    "photo": {
+      "id": "belgrade-belgrade-fortress",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+      "alt": "Стены Верхнего города Белградской крепости",
+      "attribution": {
+        "author": "Алексей Белобородов",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+        "retrievedAt": "2026-06-11"
+      }
+    },
     "identity": {
       "accent": "#B4513A",
       "soft": "#F0E2D7",

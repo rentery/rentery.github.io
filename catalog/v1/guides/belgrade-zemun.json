@@ -20,6 +20,19 @@
     "kicker": "Другой берег",
     "line": "Белград становится ниже, тише и речнее."
   },
+  "cover": {
+    "id": "belgrade-gardos-tower",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/gardos-tower-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/gardos-tower-square.jpg",
+    "alt": "Башня Гардош в районе Земун",
+    "attribution": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0_%D0%A1%D0%B8%D0%B1%D0%B8%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD_%D0%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D1%88_%D0%9A%D1%83%D0%BB%D0%B0%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%3B_Gardo%C5%A1_Tower_in_Belgrade).jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "Земун стоит проходить отдельным полуднем, а не добавлять к Калемегдану по остаточному принципу. У Дуная город меняет масштаб: набережная, старые улицы, подъем к Гардошу и башня дают ощущение отдельного города внутри Белграда.\n\nМаршрут короткий, но с подъемом. Сначала идите вдоль воды, затем уходите в старые улицы и поднимайтесь к Гардошу. Башню используйте как ориентир и видовую точку, но режим входа внутрь проверяйте отдельно.",
     "routeLogic": "· начните у Дуная, чтобы сразу почувствовать район\n· Главную улицу используйте как переход от воды к старому центру Земуна\n· подъем к Гардошу оставьте на середину маршрута\n· башню ставьте финалом, чтобы не спускаться и подниматься дважды",
@@ -40,6 +53,19 @@
       "coordinates": {
         "latitude": 44.8328897,
         "longitude": 20.4201607
+      },
+      "photo": {
+        "id": "belgrade-zemun-quay",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/zemun-quay-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/zemun-quay-square.jpg",
+        "alt": "Набережная Земуна у Дуная",
+        "attribution": {
+          "author": "Intermedichbo",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zemun_quay.2016.1.jpeg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Земунская набережная показывает район со стороны Дуная: ниже, шире и спокойнее, чем центральный Белград. Это хороший старт, чтобы не воспринимать Земун просто как набор старых улиц.",
@@ -99,6 +125,19 @@
       "coordinates": {
         "latitude": 44.8483176,
         "longitude": 20.4097307
+      },
+      "photo": {
+        "id": "belgrade-gardos-tower",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/gardos-tower-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/gardos-tower-square.jpg",
+        "alt": "Башня Гардош в районе Земун",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0_%D0%A1%D0%B8%D0%B1%D0%B8%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD_%D0%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D1%88_%D0%9A%D1%83%D0%BB%D0%B0%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%3B_Gardo%C5%A1_Tower_in_Belgrade).jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Башня Гардош, или Миллениумская башня, стоит над старым Земуном и собирает маршрут в одну точку. Даже без входа внутрь район вокруг башни дает понятный финал с видами и ощущением высоты.",

@@ -20,6 +20,19 @@
     "kicker": "Left bank",
     "line": "After the old center, the city opens wider."
   },
+  "cover": {
+    "id": "belgrade-msub",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+    "alt": "Здание Музея современного искусства Белграда",
+    "attribution": {
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+      "retrievedAt": "2026-06-11"
+    }
+  },
   "content": {
     "intro": "New Belgrade is best understood as a change of scale. After the fortress and old center, you get broad axes, large buildings, a park by the river confluence, and postwar modernism. The route begins with the museum near Usce, then moves to exterior architectural landmarks.\n\nThis is not a route for entering every building. The Palace of Serbia, Sava Center, and Western City Gate are best treated as exterior views unless you have a specific reason to go inside. Use transport between points so the half-day does not turn into a long walk along major roads.",
     "routeLogic": "Start with the Museum of Contemporary Art as a clear indoor point.\nUsce Park links the museum with the scale of the left bank.\nTreat the Palace of Serbia as an exterior landmark.\nSava Center and Genex need transfers, not a long walking link.",
@@ -76,6 +89,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-msub",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+        "alt": "Здание Музея современного искусства Белграда",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "The Museum of Contemporary Art stands by Usce Park and opens the left bank well: art inside, and the open space of New Belgrade immediately outside. It starts the route without beginning on a major road.",
         "lookFor": "The building form among the trees\nThe link between museum, park, and rivers\nPermanent and temporary exhibitions\nA calm move toward open Usce space",
@@ -118,6 +144,19 @@
       "coordinates": {
         "latitude": 44.8201846,
         "longitude": 20.4276135
+      },
+      "photo": {
+        "id": "belgrade-palace-of-serbia",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-square.jpg",
+        "alt": "Фасад Дворца Сербия в Новом Белграде",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "The Palace of Serbia matters as an exterior landmark of New Belgrade: a large administrative building and its wide surrounding space show the postwar scale of the district. This route views it from outside.",

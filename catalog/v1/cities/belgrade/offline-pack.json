@@ -17,6 +17,19 @@
       "latitude": 44.80401,
       "longitude": 20.46513
     },
+    "photo": {
+      "id": "belgrade-belgrade-fortress",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+      "alt": "Стены Верхнего города Белградской крепости",
+      "attribution": {
+        "author": "Алексей Белобородов",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+        "retrievedAt": "2026-06-11"
+      }
+    },
     "identity": {
       "accent": "#B4513A",
       "soft": "#F0E2D7",
@@ -52,6 +65,19 @@
       "microcopy": {
         "kicker": "Первый круг",
         "line": "Понятная ось центра без дальних переездов."
+      },
+      "cover": {
+        "id": "belgrade-republic-square",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/republic-square-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/republic-square-square.jpg",
+        "alt": "Площадь Республики в Белграде",
+        "attribution": {
+          "author": "AndrejBGD",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republic_Square_in_Belgrade.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "intro": "Этот маршрут дает Белград без попытки сразу охватить весь город. Он начинается там, где часто назначают встречи, проходит по главной пешеходной улице, оставляет время на Национальный музей и завершает день в Скадарлии.\n\nКруг короткий и удобен после приезда: можно идти пешком, менять темп по погоде и не зависеть от транспорта. Если музей закрыт, оставьте площадь и улицу Кнеза Михаила, а Скадарлию перенесите ближе к вечеру.",
@@ -177,6 +203,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "belgrade-national-museum",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+            "alt": "Фасад Национального музея Сербии",
+            "attribution": {
+              "author": "Simon Legner (User:simon04)",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Национальный музей стоит прямо у площади Республики, поэтому его легко встроить в первый день. Он дает крытый участок между улицами и помогает перейти от общего городского шума к истории Сербии и региона.",
             "lookFor": "· парадную лестницу и залы постоянной экспозиции\n· сербское и европейское искусство рядом\n· виды из окон на площадь\n· временные выставки, если они открыты",
@@ -198,6 +237,19 @@
           "coordinates": {
             "latitude": 44.8180993,
             "longitude": 20.4647579
+          },
+          "photo": {
+            "id": "belgrade-skadarlija",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/skadarlija-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/skadarlija-square.jpg",
+            "alt": "Улица Скадарлия в богемном квартале Белграда",
+            "attribution": {
+              "author": "Remi Jouan",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skadarlija,_bohemian_quarter_of_Belgrade,_Serbia.jpg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Скадарлия известна как богемный квартал с булыжной улицей, ресторанами и музыкальной традицией. После площади, музея и пешеходной оси она добавляет более шумный и вечерний характер старого центра.",
@@ -232,6 +284,19 @@
       "microcopy": {
         "kicker": "Главный вид",
         "line": "Крепость, парк и реки в одном темпе."
+      },
+      "cover": {
+        "id": "belgrade-belgrade-fortress",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+        "alt": "Стены Верхнего города Белградской крепости",
+        "attribution": {
+          "author": "Алексей Белобородов",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "intro": "Калемегдан лучше проходить как парк и крепость одновременно: ворота дают исторический вход, Верхний город держит обзор, а площадки у Победителя выводят к главным видам на Саву и Дунай. Маршрут не требует билета в единый объект, но отдельные внутренние места могут работать по своему режиму.\n\nИдите в сухую погоду и не планируйте слишком много музеев внутри крепости. Главная ценность здесь снаружи: стены, перепады высоты, тень парка и медленный спуск к воде.",
@@ -274,6 +339,19 @@
           "coordinates": {
             "latitude": 44.8235023,
             "longitude": 20.4497649
+          },
+          "photo": {
+            "id": "belgrade-belgrade-fortress",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+            "alt": "Стены Верхнего города Белградской крепости",
+            "attribution": {
+              "author": "Алексей Белобородов",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Белградская крепость стоит на возвышении над местом, где Сава встречается с Дунаем. Внутри маршрута это главный исторический участок: стены, парковые проходы и видовые площадки складываются в понятную карту города.",
@@ -318,6 +396,19 @@
           "coordinates": {
             "latitude": 44.8230278,
             "longitude": 20.4477064
+          },
+          "photo": {
+            "id": "belgrade-the-victor",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/the-victor-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/the-victor-square.jpg",
+            "alt": "Памятник Победителю в Белградской крепости",
+            "attribution": {
+              "author": "George M. Groutas",
+              "license": "CC BY 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Victor_-_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_01.jpg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Памятник Победителю стоит у видовой точки крепости и сразу объясняет, почему Белград держит это место. Отсюда видно слияние рек, острова, Новый Белград и направление к Земуну.",
@@ -374,6 +465,19 @@
         "kicker": "Крытый день",
         "line": "Музеи разбавлены храмом и переездами."
       },
+      "cover": {
+        "id": "belgrade-saint-sava-temple",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-square.jpg",
+        "alt": "Храм Святого Саввы в Белграде",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "intro": "Этот день нужен, когда хочется меньше случайной ходьбы и больше содержания. Начинайте в центре, затем переезжайте к музею Николы Теслы и храму Святого Саввы, а финал оставляйте для Музея Югославии в Дединье.\n\nМаршрут не стоит проходить полностью пешком: между Врачаром и Дединье удобнее ехать. Проверяйте часы каждого музея утром, потому что закрытый понедельник и специальные изменения легко ломают последовательность.",
         "routeLogic": "· Национальный музей дает широкий исторический старт\n· музей Теслы требует проверки слотов и специальных закрытий\n· храм Святого Саввы добавляет открытую остановку между залами\n· Музей Югославии ставьте финалом, чтобы не возвращаться в центр",
@@ -429,6 +533,19 @@
                 "closes": "20:00"
               }
             ]
+          },
+          "photo": {
+            "id": "belgrade-national-museum",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+            "alt": "Фасад Национального музея Сербии",
+            "attribution": {
+              "author": "Simon Legner (User:simon04)",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Национальный музей хорош первым, потому что расположен в самом центре и не требует утреннего переезда. Он задает исторический масштаб перед более узкими темами Теслы, храма и югославского наследия.",
@@ -492,6 +609,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "belgrade-nikola-tesla-museum",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-square.jpg",
+            "alt": "Экспозиция Музея Николы Теслы",
+            "attribution": {
+              "author": "Vislupus",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_Museum_002.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Музей Николы Теслы занимает небольшой дом на Врачаре и хранит материалы, связанные с изобретателем. В маршруте это точка, где городской день становится камерным и лучше работает при заранее проверенном времени входа.",
             "lookFor": "· экспонаты, связанные с электричеством и архивом\n· масштаб здания: музей небольшой\n· расписание демонстраций или групп, если оно доступно",
@@ -554,6 +684,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "belgrade-saint-sava-temple",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-square.jpg",
+            "alt": "Храм Святого Саввы в Белграде",
+            "attribution": {
+              "author": "Petar Milošević",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Храм Святого Саввы резко меняет масштаб дня после небольшого музея Теслы. Он стоит на Врачарском плато и дает открытую, светлую остановку между музейными залами и более удаленным Дединье.",
             "lookFor": "· мозаики и внутренний объем храма\n· широкий подход с плато\n· разницу между храмом и малой церковью рядом\n· свет в центральном пространстве",
@@ -611,6 +754,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "belgrade-house-of-flowers",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-square.jpg",
+            "alt": "Дом цветов в комплексе Музея Югославии",
+            "attribution": {
+              "author": "Pudelek",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Flowers,_Belgrade_(by_Pudelek)_01.JPG",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Музей Югославии в Дединье объединяет несколько зданий комплекса и Дом цветов. После центра и Врачара он расширяет день до XX века и югославской памяти, поэтому лучше не оставлять его на беглый остаток.",
             "lookFor": "· связь залов с Домом цветов\n· предметы политической и повседневной истории\n· территорию комплекса между зданиями\n· смену района после шумного центра",
@@ -646,6 +802,19 @@
         "kicker": "Другой берег",
         "line": "Белград становится ниже, тише и речнее."
       },
+      "cover": {
+        "id": "belgrade-gardos-tower",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/gardos-tower-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/gardos-tower-square.jpg",
+        "alt": "Башня Гардош в районе Земун",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0_%D0%A1%D0%B8%D0%B1%D0%B8%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD_%D0%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D1%88_%D0%9A%D1%83%D0%BB%D0%B0%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%3B_Gardo%C5%A1_Tower_in_Belgrade).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "intro": "Земун стоит проходить отдельным полуднем, а не добавлять к Калемегдану по остаточному принципу. У Дуная город меняет масштаб: набережная, старые улицы, подъем к Гардошу и башня дают ощущение отдельного города внутри Белграда.\n\nМаршрут короткий, но с подъемом. Сначала идите вдоль воды, затем уходите в старые улицы и поднимайтесь к Гардошу. Башню используйте как ориентир и видовую точку, но режим входа внутрь проверяйте отдельно.",
         "routeLogic": "· начните у Дуная, чтобы сразу почувствовать район\n· Главную улицу используйте как переход от воды к старому центру Земуна\n· подъем к Гардошу оставьте на середину маршрута\n· башню ставьте финалом, чтобы не спускаться и подниматься дважды",
@@ -666,6 +835,19 @@
           "coordinates": {
             "latitude": 44.8328897,
             "longitude": 20.4201607
+          },
+          "photo": {
+            "id": "belgrade-zemun-quay",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/zemun-quay-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/zemun-quay-square.jpg",
+            "alt": "Набережная Земуна у Дуная",
+            "attribution": {
+              "author": "Intermedichbo",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zemun_quay.2016.1.jpeg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Земунская набережная показывает район со стороны Дуная: ниже, шире и спокойнее, чем центральный Белград. Это хороший старт, чтобы не воспринимать Земун просто как набор старых улиц.",
@@ -726,6 +908,19 @@
             "latitude": 44.8483176,
             "longitude": 20.4097307
           },
+          "photo": {
+            "id": "belgrade-gardos-tower",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/gardos-tower-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/gardos-tower-square.jpg",
+            "alt": "Башня Гардош в районе Земун",
+            "attribution": {
+              "author": "Petar Milošević",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0_%D0%A1%D0%B8%D0%B1%D0%B8%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD_%D0%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D1%88_%D0%9A%D1%83%D0%BB%D0%B0%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%3B_Gardo%C5%A1_Tower_in_Belgrade).jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Башня Гардош, или Миллениумская башня, стоит над старым Земуном и собирает маршрут в одну точку. Даже без входа внутрь район вокруг башни дает понятный финал с видами и ощущением высоты.",
             "lookFor": "· башню как вертикальный ориентир района\n· виды на Дунай и крыши Земуна\n· каменную фактуру и открытые площадки рядом\n· обратный маршрут вниз к воде",
@@ -760,6 +955,19 @@
       "microcopy": {
         "kicker": "Левый берег",
         "line": "После старого центра город раскрывается шире."
+      },
+      "cover": {
+        "id": "belgrade-msub",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+        "alt": "Здание Музея современного искусства Белграда",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "intro": "Новый Белград лучше воспринимать как смену масштаба: после крепости и старого центра появляются широкие оси, большие здания, парк у слияния рек и послевоенный модернизм. Маршрут начинается с музея у Ушче, затем переходит к внешним архитектурным ориентирам.\n\nЭто не маршрут для входа во все здания. Дворец Сербия, Сава-центр и Западные ворота Белграда лучше смотреть снаружи, не обещая публичный доступ. Между точками используйте транспорт, чтобы не превращать полдня в длинную ходьбу по магистралям.",
@@ -817,6 +1025,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "belgrade-msub",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+            "alt": "Здание Музея современного искусства Белграда",
+            "attribution": {
+              "author": "Petar Milošević",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
           "content": {
             "context": "Музей современного искусства стоит у парка Ушче и хорошо открывает левый берег: внутри искусство, снаружи сразу чувствуется простор Нового Белграда. Это удобная точка, где маршрут начинается не с магистрали.",
             "lookFor": "· форму здания среди зелени\n· связь музея с парком и реками\n· постоянные и временные экспозиции\n· спокойный переход к открытому пространству Ушче",
@@ -859,6 +1080,19 @@
           "coordinates": {
             "latitude": 44.8201846,
             "longitude": 20.4276135
+          },
+          "photo": {
+            "id": "belgrade-palace-of-serbia",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-square.jpg",
+            "alt": "Фасад Дворца Сербия в Новом Белграде",
+            "attribution": {
+              "author": "kallerna",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Serbia.jpg",
+              "retrievedAt": "2026-06-11"
+            }
           },
           "content": {
             "context": "Дворец Сербия важен как внешний ориентир Нового Белграда: большое административное здание и широкий участок вокруг него показывают послевоенный масштаб района. Маршрут смотрит его снаружи.",
@@ -1035,6 +1269,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-national-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+        "alt": "Фасад Национального музея Сербии",
+        "attribution": {
+          "author": "Simon Legner (User:simon04)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Национальный музей стоит прямо у площади Республики, поэтому его легко встроить в первый день. Он дает крытый участок между улицами и помогает перейти от общего городского шума к истории Сербии и региона.",
         "lookFor": "· парадную лестницу и залы постоянной экспозиции\n· сербское и европейское искусство рядом\n· виды из окон на площадь\n· временные выставки, если они открыты",
@@ -1056,6 +1303,19 @@
       "coordinates": {
         "latitude": 44.8180993,
         "longitude": 20.4647579
+      },
+      "photo": {
+        "id": "belgrade-skadarlija",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/skadarlija-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/skadarlija-square.jpg",
+        "alt": "Улица Скадарлия в богемном квартале Белграда",
+        "attribution": {
+          "author": "Remi Jouan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skadarlija,_bohemian_quarter_of_Belgrade,_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Скадарлия известна как богемный квартал с булыжной улицей, ресторанами и музыкальной традицией. После площади, музея и пешеходной оси она добавляет более шумный и вечерний характер старого центра.",
@@ -1098,6 +1358,19 @@
       "coordinates": {
         "latitude": 44.8235023,
         "longitude": 20.4497649
+      },
+      "photo": {
+        "id": "belgrade-belgrade-fortress",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
+        "alt": "Стены Верхнего города Белградской крепости",
+        "attribution": {
+          "author": "Алексей Белобородов",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Белградская крепость стоит на возвышении над местом, где Сава встречается с Дунаем. Внутри маршрута это главный исторический участок: стены, парковые проходы и видовые площадки складываются в понятную карту города.",
@@ -1142,6 +1415,19 @@
       "coordinates": {
         "latitude": 44.8230278,
         "longitude": 20.4477064
+      },
+      "photo": {
+        "id": "belgrade-the-victor",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/the-victor-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/the-victor-square.jpg",
+        "alt": "Памятник Победителю в Белградской крепости",
+        "attribution": {
+          "author": "George M. Groutas",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Victor_-_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Памятник Победителю стоит у видовой точки крепости и сразу объясняет, почему Белград держит это место. Отсюда видно слияние рек, острова, Новый Белград и направление к Земуну.",
@@ -1220,6 +1506,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-national-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/national-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/national-museum-square.jpg",
+        "alt": "Фасад Национального музея Сербии",
+        "attribution": {
+          "author": "Simon Legner (User:simon04)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Национальный музей хорош первым, потому что расположен в самом центре и не требует утреннего переезда. Он задает исторический масштаб перед более узкими темами Теслы, храма и югославского наследия.",
         "lookFor": "· постоянную экспозицию без попытки пройти все залы\n· сербские сюжеты рядом с европейскими работами\n· удобный выход обратно к площади",
@@ -1281,6 +1580,19 @@
             "closes": "20:00"
           }
         ]
+      },
+      "photo": {
+        "id": "belgrade-nikola-tesla-museum",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/nikola-tesla-museum-square.jpg",
+        "alt": "Экспозиция Музея Николы Теслы",
+        "attribution": {
+          "author": "Vislupus",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Tesla_Museum_002.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Музей Николы Теслы занимает небольшой дом на Врачаре и хранит материалы, связанные с изобретателем. В маршруте это точка, где городской день становится камерным и лучше работает при заранее проверенном времени входа.",
@@ -1344,6 +1656,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-saint-sava-temple",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/saint-sava-temple-square.jpg",
+        "alt": "Храм Святого Саввы в Белграде",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Храм Святого Саввы резко меняет масштаб дня после небольшого музея Теслы. Он стоит на Врачарском плато и дает открытую, светлую остановку между музейными залами и более удаленным Дединье.",
         "lookFor": "· мозаики и внутренний объем храма\n· широкий подход с плато\n· разницу между храмом и малой церковью рядом\n· свет в центральном пространстве",
@@ -1401,6 +1726,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-house-of-flowers",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/house-of-flowers-square.jpg",
+        "alt": "Дом цветов в комплексе Музея Югославии",
+        "attribution": {
+          "author": "Pudelek",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Flowers,_Belgrade_(by_Pudelek)_01.JPG",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Музей Югославии в Дединье объединяет несколько зданий комплекса и Дом цветов. После центра и Врачара он расширяет день до XX века и югославской памяти, поэтому лучше не оставлять его на беглый остаток.",
         "lookFor": "· связь залов с Домом цветов\n· предметы политической и повседневной истории\n· территорию комплекса между зданиями\n· смену района после шумного центра",
@@ -1422,6 +1760,19 @@
       "coordinates": {
         "latitude": 44.8328897,
         "longitude": 20.4201607
+      },
+      "photo": {
+        "id": "belgrade-zemun-quay",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/zemun-quay-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/zemun-quay-square.jpg",
+        "alt": "Набережная Земуна у Дуная",
+        "attribution": {
+          "author": "Intermedichbo",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zemun_quay.2016.1.jpeg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Земунская набережная показывает район со стороны Дуная: ниже, шире и спокойнее, чем центральный Белград. Это хороший старт, чтобы не воспринимать Земун просто как набор старых улиц.",
@@ -1482,6 +1833,19 @@
         "latitude": 44.8483176,
         "longitude": 20.4097307
       },
+      "photo": {
+        "id": "belgrade-gardos-tower",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/gardos-tower-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/gardos-tower-square.jpg",
+        "alt": "Башня Гардош в районе Земун",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0_%D0%A1%D0%B8%D0%B1%D0%B8%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD_%D0%88%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D1%88_%D0%9A%D1%83%D0%BB%D0%B0%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%3B_Gardo%C5%A1_Tower_in_Belgrade).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Башня Гардош, или Миллениумская башня, стоит над старым Земуном и собирает маршрут в одну точку. Даже без входа внутрь район вокруг башни дает понятный финал с видами и ощущением высоты.",
         "lookFor": "· башню как вертикальный ориентир района\n· виды на Дунай и крыши Земуна\n· каменную фактуру и открытые площадки рядом\n· обратный маршрут вниз к воде",
@@ -1539,6 +1903,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "belgrade-msub",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/msub-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/msub-square.jpg",
+        "alt": "Здание Музея современного искусства Белграда",
+        "attribution": {
+          "author": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_Belgrade_(%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D1%81%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
       "content": {
         "context": "Музей современного искусства стоит у парка Ушче и хорошо открывает левый берег: внутри искусство, снаружи сразу чувствуется простор Нового Белграда. Это удобная точка, где маршрут начинается не с магистрали.",
         "lookFor": "· форму здания среди зелени\n· связь музея с парком и реками\n· постоянные и временные экспозиции\n· спокойный переход к открытому пространству Ушче",
@@ -1581,6 +1958,19 @@
       "coordinates": {
         "latitude": 44.8201846,
         "longitude": 20.4276135
+      },
+      "photo": {
+        "id": "belgrade-palace-of-serbia",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/palace-of-serbia-square.jpg",
+        "alt": "Фасад Дворца Сербия в Новом Белграде",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Serbia.jpg",
+          "retrievedAt": "2026-06-11"
+        }
       },
       "content": {
         "context": "Дворец Сербия важен как внешний ориентир Нового Белграда: большое административное здание и широкий участок вокруг него показывают послевоенный масштаб района. Маршрут смотрит его снаружи.",
@@ -1638,5 +2028,5 @@
       "order": 5
     }
   ],
-  "packHash": "f8e1276dea9c"
+  "packHash": "52b52d3d4b42"
 }
