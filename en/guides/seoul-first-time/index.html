@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>First Seoul - Seoul</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #FAF8F3;
+      --surface: #FFFFFF;
+      --surface-2: #F2EEE7;
+      --text: #211F1C;
+      --muted: #6E6A62;
+      --line: rgba(33,31,28,0.12);
+      --accent: #2E4A3C;
+      --secondary: #B27C46;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    main {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 24px;
+    }
+    .eyebrow {
+      color: var(--secondary);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      margin: 0 0 10px;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(36px, 8vw, 64px);
+      line-height: 0.98;
+      margin: 0;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 15px;
+      margin: 18px 0 0;
+    }
+    .cta {
+      align-items: center;
+      background: var(--accent);
+      border-radius: 999px;
+      color: #fff;
+      display: inline-flex;
+      font-weight: 800;
+      margin-top: 22px;
+      min-height: 44px;
+      padding: 0 18px;
+      text-decoration: none;
+    }
+    section { margin-top: 32px; }
+    h2 {
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      margin: 0 0 12px;
+      text-transform: uppercase;
+    }
+    p { margin: 0 0 14px; }
+    ol {
+      display: grid;
+      gap: 10px;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px 16px;
+    }
+    .stop-name { font-weight: 800; }
+    .stop-time {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 3px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">Travel Guides</p>
+      <h1>First Seoul</h1>
+      <p class="meta">City: Seoul</p>
+      <a class="cta" href="travelguides:///guides/seoul-first-time">Open in app</a>
+    </header>
+    <section aria-labelledby="intro">
+      <h2 id="intro">Overview</h2>
+      <p>This day keeps the old center together without distant transfers: Gyeongbokgung, the museum by the palace edge, residential Bukchon, Jogyesa, and Cheonggyecheon. Move from large gates to narrow streets, then to the water where it is easy to finish by metro.</p>
+<p>The main risk is arriving late and meeting queues, heat, or crowded lanes all at once. If your start shifts toward midday, shorten the palace or Bukchon instead of dragging the whole route through the crowd.</p>
+    </section>
+    <section aria-labelledby="stops">
+      <h2 id="stops">Stops</h2>
+      <ol>
+        <li>
+          <div class="stop-name">Gyeongbokgung</div>
+          <div class="stop-time">90-120 min</div>
+        </li>
+        <li>
+          <div class="stop-name">National Folk Museum</div>
+          <div class="stop-time">60 min</div>
+        </li>
+        <li>
+          <div class="stop-name">Bukchon</div>
+          <div class="stop-time">40-50 min</div>
+        </li>
+        <li>
+          <div class="stop-name">Jogyesa</div>
+          <div class="stop-time">25-35 min</div>
+        </li>
+        <li>
+          <div class="stop-name">Cheonggyecheon</div>
+          <div class="stop-time">40-50 min</div>
+        </li>
+      </ol>
+    </section>
+  </main>
+</body>
+</html>
