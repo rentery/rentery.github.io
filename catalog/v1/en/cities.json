@@ -4,8 +4,8 @@
     "slug": "beijing",
     "title": "Beijing",
     "subtitle": "Beijing · 北京 · 5 routes",
-    "meta": "China · imperial axis, hutongs, evening streets, and a Great Wall day",
-    "practicalNote": "Spring and autumn are easier for full walking days. Summer heats open squares quickly and brings heavy rain; winter is cold and windy. Before leaving, check Tiananmen booking, the Palace Museum ticket, and the passport used for reservation: in central Beijing, access checks break the day more often than distance.",
+    "meta": "China · red gates, grey roofs, hutong lakes, and the Wall beyond the hills",
+    "practicalNote": "Beijing is easiest to read in large layers: the axis and gates first, then low hutongs by water, evening food streets, and a separate day outside the city on the Wall. Straight lines hide real distance here, so a good day follows one clear route rather than trying to collect every symbol at once. Official bookings and documents matter for the palace and square, but they should support the walk, not replace the city.",
     "guideIds": [
       "axis",
       "hutong",
@@ -30,7 +30,7 @@
       "ink": "#5D251F",
       "motif": "axis",
       "glyph": "京",
-      "hook": "Imperial axis · palaces completed by 1420"
+      "hook": "An axis of gates, roofs, and the northern hill"
     },
     "timezone": "Asia/Shanghai",
     "countryId": "china"

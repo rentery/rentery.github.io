@@ -53,6 +53,12 @@
         "lookFor": "Shuttle signs\nQueues for ascent options\nTower map\nWhere people return after descending",
         "practical": "Check opening hours and last entry before leaving Beijing.\nKeep tickets until you fully exit.\nIn wind, ascent options may operate differently.",
         "nextMove": "Choose the ascent and go up to your wall section.",
+        "deepDive": [
+          {
+            "title": "Why Mutianyu is its own day",
+            "body": "Mutianyu is no longer urban Beijing, but a northern mountain landscape. The entry zone is not dull prelude; it is where the day shifts from city mode into ridge mode. Tickets, shuttle, ascent, and towers become one route. If you rush this part, the Wall itself quickly suffers from tired legs or an unclear plan."
+          }
+        ],
         "sourceNote": "Mutianyu hours, ticketing, and lift operations depend on season and weather."
       },
       "id": "wall-1",
@@ -73,7 +79,13 @@
         "context": "On the ascent, do not compete with the map. If one option has a long queue or the wind picks up, choose the simpler way up and save your strength for walking between towers.",
         "lookFor": "Queues for ascent options\nSigns toward towers\nWeather on the upper section\nPeople already descending",
         "practical": "Check where you will come down later.\nDo not throw away tickets.\nIf weather worsens, shorten the plan before reaching the Wall.",
-        "nextMove": "On the Wall, move toward nearby towers and choose a turn-back point."
+        "nextMove": "On the Wall, move toward nearby towers and choose a turn-back point.",
+        "deepDive": [
+          {
+            "title": "Ascent as route choice",
+            "body": "At Mutianyu, deciding how to go up also means deciding how you will come down. Different ascent options place you near different sections and change the effort: one saves your legs, another gives more stairs and views. This is not a technical detail; it is how you manage the day so the main energy stays for the Wall and towers."
+          }
+        ]
       },
       "id": "wall-2",
       "guideId": "wall",
@@ -93,7 +105,13 @@
         "context": "On the Wall, kilometers explain little: steps are uneven, slopes change, and wind can be stronger than at the entrance. Walk tower to tower and turn back before fatigue becomes the main part of the day.",
         "lookFor": "Changes in step height\nRidge turns\nHow visibility changes\nA tower where it makes sense to turn back",
         "practical": "After rain, be careful on stone.\nIn heat, shorten climbs.\nDo not go farther than you are ready to walk back.",
-        "nextMove": "Turn toward your chosen descent while you still have energy for steps."
+        "nextMove": "Turn toward your chosen descent while you still have energy for steps.",
+        "deepDive": [
+          {
+            "title": "Towers and ridge",
+            "body": "Mutianyu is one of the strong Ming Great Wall sections: towers, changing terrain, and the defensive line along the ridge are easy to read here. The interest is not in a record number of meters, but in the changing perspective from tower to tower. After a few turns, the Wall becomes both architecture and a way to understand the landscape."
+          }
+        ]
       },
       "id": "wall-3",
       "guideId": "wall",
@@ -113,7 +131,13 @@
         "context": "After the Wall, descending takes attention, especially in wind or after rain. Once you are down, find toilets, food, shuttle, and your return transport point right away; do not leave everything for the road.",
         "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with clear menus\nConfirmed return transport",
         "practical": "Check where your shuttle or car leaves from.\nCheck your connection before heading out.\nDo not put a fixed plan in Beijing that evening.",
-        "nextMove": "Return to the city and keep only a simple dinner near your stay."
+        "nextMove": "Return to the city and keep only a simple dinner near your stay.",
+        "deepDive": [
+          {
+            "title": "Finish without a second goal",
+            "body": "After the Wall, it is tempting to add one more Beijing sight because the city looks close on the map. In practice, descent, shuttle, road, and fatigue already make the second half of the route. A good Mutianyu day ends with an easy return: that keeps the ridge and towers as the main memory instead of dissolving them into a transport race."
+          }
+        ]
       },
       "id": "wall-4",
       "guideId": "wall",

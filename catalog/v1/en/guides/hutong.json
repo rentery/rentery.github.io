@@ -49,10 +49,16 @@
         "longitude": 116.3798006
       },
       "content": {
-        "context": "Inside Prince Kung Mansion, walk the courtyards first, then the garden and rocks. After that, the neighboring hutongs feel less random and more like a continuation of the old city. If groups block a narrow passage, use the garden edges.",
+        "context": "Inside Prince Kung Mansion, walk the courtyards first, then the garden and rocks. After that, the neighboring hutongs feel less random and more like a continuation of an old urban courtyard. If groups block a narrow passage, use the garden edges.",
         "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open space\nWhere groups block the way",
         "practical": "The museum closes on Mondays except holidays.\nTickets are sold ahead through official channels.\nDo not stand behind a dense group in a narrow passage.",
         "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets.",
+        "deepDive": [
+          {
+            "title": "A house as a small city",
+            "body": "Prince Kung Mansion shows how a large Beijing residence built status not through one luxurious room, but through a sequence of courtyards. Gates, axes, passages, rocks, and garden scenes keep changing the distance between host, guest, and service. After this, the nearby hutongs are easier to read as a living system of courtyards rather than just narrow streets."
+          }
+        ],
         "sourceNote": "Prince Kung Mansion has hours, a closed day, and advance ticketing; check the official channel before visiting."
       },
       "id": "hutong-1",
@@ -73,7 +79,13 @@
         "context": "At Shichahai, choose your side by shade, wind, and crowd density. If the waterfront is loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
         "lookFor": "Bridges and reflections\nCourtyard entrances near water\nThe shift between bars and residential lanes\nWhere the shore gets too tight",
         "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nThe edge can be slippery after rain.",
-        "nextMove": "Continue toward Yandai Xiejie, but do not turn the street into a long shopping stop."
+        "nextMove": "Continue toward Yandai Xiejie, but do not turn the street into a long shopping stop.",
+        "deepDive": [
+          {
+            "title": "Water among the hutongs",
+            "body": "Shichahai matters because the old city opens through water rather than gates. Lakes, bridges, and narrow streets nearby show a more domestic Beijing: courtyard entrances almost meet the shore, tourist bars quickly give way to residential turns, and reflections make the low roofs easier to notice. The right pace is selective, not circular: walk while the shore helps you look."
+          }
+        ]
       },
       "id": "hutong-2",
       "guideId": "hutong",
@@ -93,7 +105,13 @@
         "context": "Yandai Xiejie is short and often dense. Notice the bend of the street, older facades between signs, and side hutong passages, but move on if the flow stops.",
         "lookFor": "The curve of the street\nOlder facades among shop signs\nSide passages\nWhere you can leave the crowd",
         "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness.\nIf the street is overloaded, use parallel lanes.",
-        "nextMove": "Head toward the Drum and Bell Towers as the next large landmark."
+        "nextMove": "Head toward the Drum and Bell Towers as the next large landmark.",
+        "deepDive": [
+          {
+            "title": "Why the street slants",
+            "body": "Yandai Xiejie is memorable less for its length than for its diagonal line. It cuts between the water and the towers, so inside the old quarter it feels almost accidental, even though that slant makes it a useful passage. Its older image is tied to shops and everyday city life; today you catch that through the curve, older facade lines, and side hutong openings between signs."
+          }
+        ]
       },
       "id": "hutong-3",
       "guideId": "hutong",
@@ -115,6 +133,12 @@
         "lookFor": "Silhouettes of Drum and Bell Towers\nThe square between streets\nLow roofs around you\nThe entrance queue",
         "practical": "Hours and interior access change by season.\nThe climb can be steep.\nIf you are tired, keep to the square and move toward food or metro.",
         "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy.",
+        "deepDive": [
+          {
+            "title": "The city kept time here",
+            "body": "The Drum and Bell Towers were not just high landmarks; they were a timekeeping machine for the city. In old Beijing, drum and bell signals helped set the rhythm of the day, so the towers stand at the northern end of the central axis as signs of order. Even without climbing, their silhouettes explain the district: the surrounding hutongs feel lower because of these two vertical markers."
+          }
+        ],
         "sourceNote": "The towers have seasonal hours and ticket-sale cutoffs before closing."
       },
       "id": "hutong-4",
@@ -135,7 +159,13 @@
         "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still appear between the signs. If the main lane feels too commercial, turn onto a neighboring street and return to metro from there.",
         "lookFor": "Old doors\nLow roofs\nSide passages\nWhere cafes give way to ordinary street life",
         "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf you are tired, finish at the metro instead of adding another district.",
-        "nextMove": "End at the metro or take DiDi to dinner in another district."
+        "nextMove": "End at the metro or take DiDi to dinner in another district.",
+        "deepDive": [
+          {
+            "title": "Homes beneath the shopfronts",
+            "body": "Wudaoying is often treated as a cafe lane, but it is more interesting as a place where commerce has settled onto an older residential form. Between shopfronts you can still see low roofs, gates, side passages, and quiet stretches where the district returns to daily life. Look less for the trendiest address and more for where the old street still shows through."
+          }
+        ]
       },
       "id": "hutong-5",
       "guideId": "hutong",

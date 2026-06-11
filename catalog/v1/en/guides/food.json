@@ -51,7 +51,13 @@
         "context": "Qianmen gives the evening a broad start: the gate behind you, the long street ahead, and side entrances into denser Dashilan. Do not spend your whole appetite on the first snacks.",
         "lookFor": "View toward Zhengyangmen\nOld shop signs\nSide entrances into Dashilan\nWhere the flow gets denser",
         "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not buy too much food before the main meal.",
-        "nextMove": "Turn into Dashilan, where the streets narrow and get louder."
+        "nextMove": "Turn into Dashilan, where the streets narrow and get louder.",
+        "deepDive": [
+          {
+            "title": "Southern gate of the center",
+            "body": "Qianmen grew around Zhengyangmen, the southern gate of the Inner City. The old axis opened here toward the commercial south, so the place is both formal and busy: the tower recalls the city wall, while the street pulls you toward signs, food, and shops. It is a clear shift from the strict northern center into a louder Beijing evening."
+          }
+        ]
       },
       "id": "food-1",
       "guideId": "food",
@@ -71,7 +77,13 @@
         "context": "In Dashilan, stay on the main street only while it gives you new details: old lettering, narrow facades, and queues at known places. If windows repeat or the crowd stops, turn into a side street.",
         "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places\nPassages toward Xianyukou",
         "practical": "A queue does not always mean the best choice.\nCheck the exact address, not only the brand name.\nSide streets are easier for a short breather.",
-        "nextMove": "Move toward Xianyukou and decide what to save for dinner."
+        "nextMove": "Move toward Xianyukou and decide what to save for dinner.",
+        "deepDive": [
+          {
+            "title": "Signs as street memory",
+            "body": "Dashilan lives through old commercial names and a dense street scene. The point is not only which shops survive today, but how to look: narrow facades, large characters, queues, side passages, and food smells build the image of old commercial Beijing. Not every sign deserves a stop, so read the street while moving."
+          }
+        ]
       },
       "id": "food-2",
       "guideId": "food",
@@ -91,7 +103,13 @@
         "context": "Xianyukou works as a short food scout. You can see where food is fresh, what comes out fast, and where the queue keeps moving. Do not turn the street into a full dinner if you still want duck or a show.",
         "lookFor": "Open kitchens\nFast-moving queues\nSmall portions\nExits to quieter streets",
         "practical": "Take small portions.\nWatch what people ahead of you order.\nIf the queue does not move, change places without regret.",
-        "nextMove": "If you want a performance or tea, walk to Lao She; otherwise choose dinner nearby and then move toward water."
+        "nextMove": "If you want a performance or tea, walk to Lao She; otherwise choose dinner nearby and then move toward water.",
+        "deepDive": [
+          {
+            "title": "Food as reconnaissance",
+            "body": "Xianyukou is useful because it shows food as a street process rather than as one mandatory restaurant. Open kitchens, small portions, and moving queues tell you what is fresh and where the flow is not stuck. It is a good counterweight to famous brands: sometimes the best evening starts not with a name, but with how the street is working."
+          }
+        ]
       },
       "id": "food-3",
       "guideId": "food",
@@ -113,6 +131,12 @@
         "lookFor": "Current program\nStart time\nAvailable seats\nHow much energy is left after dinner",
         "practical": "Check the schedule on the day.\nDo not place the show tight against a late restaurant booking.\nIf the program does not fit, skip it calmly.",
         "nextMove": "After the performance, or instead of it, walk to Sanlihe or finish near the metro.",
+        "deepDive": [
+          {
+            "title": "Tea theatre by Qianmen",
+            "body": "Lao She Teahouse is interesting not only as a ticketed evening venue, but as an attempt to gather Beijing tea culture, stage performance, and tourist ritual beside the old commercial center. Its story is tied to the late twentieth century and the image of big-bowl tea, but for this route the choice matters most: add a show deliberately or leave the evening to streets and water."
+          }
+        ],
         "sourceNote": "Programs, sales channels, and show times change; check the current schedule."
       },
       "id": "food-4",
@@ -133,7 +157,13 @@
         "context": "Sanlihe is a softer exit from commercial noise: water, small bridges, and paths let you walk after dinner without more shop windows. If rain or fatigue is already heavy, replace the park with a taxi.",
         "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages\nClear exits toward metro",
         "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, call DiDi back to the hotel.",
-        "nextMove": "Head to the nearest metro or return to the hotel by car."
+        "nextMove": "Head to the nearest metro or return to the hotel by car.",
+        "deepDive": [
+          {
+            "title": "Quiet water after signs",
+            "body": "Sanlihe works as a small pause after the shopping streets. Canal water, little bridges, and paths give the southern center a different scale: reflections, stone, and short turns replace signs and queues. It is not Beijing’s headline sight, but it is the right final gesture for an evening when you want to leave the noise without another transfer."
+          }
+        ]
       },
       "id": "food-5",
       "guideId": "food",

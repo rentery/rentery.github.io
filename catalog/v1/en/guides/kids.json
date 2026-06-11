@@ -52,7 +52,13 @@
         "context": "Beijing Zoo is large, but for a family half-day it is a clear base. At the entrance, find the map, toilets, food, and the way to the aquarium; leave distant enclosures for later only if everyone has energy after pandas.",
         "lookFor": "Entrance map\nNearest toilets\nShaded stretches\nDirection toward the aquarium",
         "practical": "Do not start with distant enclosures.\nIn heat, use short stretches between stops.\nKeep the exit point in mind from the beginning.",
-        "nextMove": "Go to the Panda House while the children are still fresh."
+        "nextMove": "Go to the Panda House while the children are still fresh.",
+        "deepDive": [
+          {
+            "title": "An old park with animals",
+            "body": "Beijing Zoo is better treated not just as a set of enclosures, but as a large city park where a family quickly tests the day’s pace. Older paths, water, bridges, and shade help absorb waiting at popular animals. That is why the first move is practical: understand the map and exits so the animals do not turn the visit into an endless race."
+          }
+        ]
       },
       "id": "kids-1",
       "guideId": "kids",
@@ -69,7 +75,13 @@
         "context": "Go to pandas first, before fatigue and overheating. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight; ten minutes may not change the scene.",
         "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash\nA clear path onward",
         "practical": "Do not use flash.\nDo not stand too long in one place if nothing is visible.\nTell children early that pandas may sleep.",
-        "nextMove": "After pandas, take a short zoo loop to drop the noise by the glass."
+        "nextMove": "After pandas, take a short zoo loop to drop the noise by the glass.",
+        "deepDive": [
+          {
+            "title": "Do not promise a show",
+            "body": "Pandas matter here precisely because they are living animals, not a guaranteed performance. They may eat, sleep, move out of sight, or barely move at all, and that is a normal part of the visit. If children know this in advance, the stop becomes more honest: you are observing behavior rather than waiting for a required scene."
+          }
+        ]
       },
       "id": "kids-2",
       "guideId": "kids",
@@ -84,7 +96,13 @@
         "context": "After pandas, do not wander far. Choose a few nearby sections, have a snack, find a toilet, and honestly decide whether the aquarium is useful now or whether it is better to finish the visit.",
         "lookFor": "Benches in shade\nShort passages without crowds\nSigns toward the aquarium\nPlaces where a child can rest",
         "practical": "Do not add distant enclosures out of stubbornness.\nKeep water and a snack ready.\nIf a child is tired, shorten the route immediately.",
-        "nextMove": "If there is energy, continue to Beijing Aquarium; if not, exit toward a taxi."
+        "nextMove": "If there is energy, continue to Beijing Aquarium; if not, exit toward a taxi.",
+        "deepDive": [
+          {
+            "title": "A pause beats a checklist",
+            "body": "The short loop keeps the zoo from becoming an endurance test. After pandas, children have often had the main emotional stop, while adults may feel tempted to “use the ticket” by adding distant enclosures. In Beijing that can break the half-day quickly. Choose a few nearby sections, find shade, and decide whether the covered aquarium still makes sense."
+          }
+        ]
       },
       "id": "kids-3",
       "guideId": "kids",
@@ -106,6 +124,12 @@
         "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest\nA clear exit after the finish",
         "practical": "Check hours and ticketing separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back without adding another walk.",
         "nextMove": "End the day here and choose the simplest way back to the hotel.",
+        "deepDive": [
+          {
+            "title": "Covered finish",
+            "body": "Beijing Aquarium works as a change of environment. After zoo paths and panda crowds, the family moves into a darker, cooler, more predictable route. Large tanks give children big visual scenes, and adults get a way to wait out heat or rain. Do not try to cover every show: the value is a calm finish, not a full schedule."
+          }
+        ],
         "sourceNote": "Aquarium hours, tickets, and show schedules change; check them separately from the zoo."
       },
       "id": "kids-4",

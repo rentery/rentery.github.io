@@ -5,7 +5,7 @@
   "title": "Beijing Axis",
   "subtitle": "Tiananmen / Palace Museum / Jingshan",
   "blurb": "Walk the main axis from the square to the northern view without chasing every side court.",
-  "mood": "Early start, security checks, and a long palace passage",
+  "mood": "Stone square, red walls, palace roofs, and hill view",
   "accent": "#9C3B2E",
   "soft": "#F2E4DF",
   "deep": "#7A2C22",
@@ -24,12 +24,12 @@
   "pace": "day",
   "kids": false,
   "microcopy": {
-    "kicker": "Book before leaving",
-    "line": "Check passport, square slot, and Palace Museum ticket while still at the hotel."
+    "kicker": "Follow the axis",
+    "line": "Watch the open square tighten into gates, courts, and the northern hill."
   },
   "content": {
-    "intro": "Move through the center from south to north: Tiananmen Square, Meridian Gate, the Palace Museum courts, the northern garden exit, and Jingshan Hill. This is not a day for every side hall. The point is the straight movement along the axis and the view from above at the end.\n\nThe main risk is access. Tiananmen runs on slots and checks, the Palace Museum needs a real-name document, and your legs may tire before the map does. Do not place a fixed evening booking in another district.",
-    "routeLogic": "At the square, first find the permitted entrance and the flow moving north.\nAt Meridian Gate, check ticket and passport before queuing.\nInside the Palace Museum, keep to the central line and add side courts only if you still have energy.\nAt the northern exit, do not backtrack for one last photo.\nClimb Jingshan if you have 45-60 minutes and decent visibility.",
+    "intro": "Move through the center from south to north: the open stone of Tiananmen, the red mass of Meridian Gate, the Palace Museum platforms, the garden by the northern exit, and Jingshan Hill. The route works because it stays on a line: the city first shows power through space, then through gates, then through roofs that finally align from above.\n\nLogistics matter here, but do not let them become the whole story. Check square access and the Palace Museum ticket before leaving, then use your attention for scale, roof details, and the moment when avenue noise disappears behind palace walls.",
+    "routeLogic": "At the square, read the space from the southern edge toward the portrait and red gates.\nAt Meridian Gate, pause before entry and feel how the square turns into a palace corridor.\nInside the Palace Museum, keep to the central line and add side courts only if you still have energy.\nAt the northern garden, slow down among rocks and old trees, but do not backtrack for one last photo.\nClimb Jingshan if you have 45-60 minutes and decent visibility.",
     "bestFor": "a first day with bookings already arranged\nan unhurried morning after breakfast\ntravelers who want to understand the old center on foot",
     "notFor": "the day after a long flight\nheat, heavy rain, or poor visibility\nwhen you do not have Palace Museum booking or clear square access",
     "beforeYouGo": "Check your Tiananmen slot, Palace Museum ticket, and the document used for booking.\nThe Palace Museum closes on Mondays except public holidays and is not a place to solve tickets at the gate.\nIn July-August, start earlier: the square and palace courts heat up quickly.",
@@ -38,10 +38,10 @@
   },
   "stopList": [
     {
-      "entry": "slot and passport",
+      "entry": "reservation access",
       "name": "Tiananmen Square",
       "nameLocal": "天安门广场",
-      "note": "Find the entrance and security queue first",
+      "note": "Watch the square lead toward the red gate",
       "time": "45-75 min",
       "walk": "15 min to Meridian Gate",
       "coordinates": {
@@ -49,10 +49,16 @@
         "longitude": 116.3914649
       },
       "content": {
-        "context": "Do not start by inspecting every monument on the square. First understand where entry is allowed today, how the flow moves, and how long security is taking. That decides whether you reach Meridian Gate without an extra loop.",
-        "lookFor": "Flow toward the north side\nView of Tiananmen Gate\nQueues and barriers at security",
-        "practical": "Keep your passport separate from your bag.\nCheck slot and access rules on the day.\nIn heat, do not stay on the open square longer than needed.",
+        "context": "At Tiananmen, first feel the scale of open stone between the southern edge of the square and the red gate to the north. Beijing shows itself here through distance more than detail: portrait, flags, monuments, and people all seem placed along one huge ruler.",
+        "lookFor": "Axis toward Tiananmen Gate\nPortrait above the red wall\nScale of the stone square\nMonuments along the edges\nWhere the flow moves north",
+        "practical": "Access to the square depends on reservations, checks, and city events, so verify the rules on the day. In heat, do not linger in the middle of the open space: shade is scarce.",
         "nextMove": "Move to the north side of the square and continue toward Meridian Gate without drifting into side streets.",
+        "deepDive": [
+          {
+            "title": "Why the square is so broad",
+            "body": "Tiananmen works as a ceremonial foreground for both the imperial and modern center. The old northern marker is the gate with the portrait, while the enormous open stone shows that before the palace city you cross not a cozy plaza, but a space of power and ceremony. Look for distance, symmetry, and people moving toward the red wall rather than for small decorative details."
+          }
+        ],
         "sourceNote": "Square access depends on slots, checks, and city events; check the official process before leaving."
       },
       "id": "axis-1",
@@ -63,7 +69,7 @@
       "entry": "Palace booking",
       "name": "Meridian Gate",
       "nameLocal": "午门",
-      "note": "Check ticket and document before queuing",
+      "note": "The threshold between square and palace",
       "time": "20-40 min",
       "walk": "10 min to first courts",
       "coordinates": {
@@ -71,10 +77,16 @@
         "longitude": 116.3915912
       },
       "content": {
-        "context": "At Meridian Gate, step out of the flow for a minute and check your ticket, document, and correct entrance. Joining the wrong queue is painful here: the palace has not begun, and the check has already taken energy.",
-        "lookFor": "The high red wall before entry\nSigns for the entry route\nDocument-check queues",
+        "context": "At Meridian Gate, the square sharply turns into wall and gateway. Pause before the red plane, look at the projecting wings of the tower, and only then join the flow: this is the threshold between the city outside and the palace rhythm inside.",
+        "lookFor": "Red wall with five passages\nTower wings above the gate\nShift from square to palace\nSigns for the entry route\nDocument-check queue",
         "practical": "The original document is needed at entry.\nThe ticket must be booked in advance under the real name.\nDo not expect to solve same-day ticketing at the gate.",
         "nextMove": "After entry, keep to the central line toward the main halls and save side courts for later.",
+        "deepDive": [
+          {
+            "title": "The gate as a threshold",
+            "body": "Meridian Gate was the southern gate of the Forbidden City and the palace’s main ceremonial threshold. From outside it reads like a fortress wall, but inside it starts to work like a stage frame: one passage opens to another court, then another platform, then another axis. The entrance matters because it changes the scale of the whole walk."
+          }
+        ],
         "sourceNote": "Palace Museum ticketing and document rules need a current check before visiting."
       },
       "id": "axis-2",
@@ -96,7 +108,13 @@
         "context": "Inside the Palace Museum, movement matters more than a list of halls. Walk from gates to platforms along the main axis, look back often, and add side courts only while you still have time and legs.",
         "lookFor": "Repeating gates and courts\nRaised platforms of the main halls\nRoof ridge beasts\nWhere crowds thin at side passages",
         "practical": "The museum closes on Mondays except holidays.\nHeat and tour groups tire you quickly in open courts.\nDo not plan to cover every side hall in one day.",
-        "nextMove": "Move north through the garden area and exit toward the Gate of Divine Might."
+        "nextMove": "Move north through the garden area and exit toward the Gate of Divine Might.",
+        "deepDive": [
+          {
+            "title": "How to read the palace",
+            "body": "The Palace Museum is easy to reduce to a list of halls, but its force lies in repetition. Gate, empty court, raised platform, and the next hall make you move along the center and feel the distance to power. Roof details and ridge beasts matter against that scale: small elements help the eye survive the enormous palace plan."
+          }
+        ]
       },
       "id": "axis-3",
       "guideId": "axis",
@@ -116,7 +134,13 @@
         "context": "After the large courts, the garden and northern exit compress the scale: rocks, old trees, narrow paths, and a quick way out. If people jam around the famous stones, move to the edges and keep your direction north.",
         "lookFor": "Artificial rocks\nOld cypress trees\nPavilions between narrow paths\nThe way out to Shenwumen",
         "practical": "Take photos at the edges, not in the middle of the flow.\nIf you are tired, go straight to the exit.\nDo not return south for one last shot.",
-        "nextMove": "Exit through the northern gate and cross into Jingshan Park."
+        "nextMove": "Exit through the northern gate and cross into Jingshan Park.",
+        "deepDive": [
+          {
+            "title": "Why the garden is here",
+            "body": "The Imperial Garden at the northern end of the Palace Museum changes the pace after the official courts. Rocks, cypress trees, and pavilions create not a casual public park, but a compressed miniature of nature inside the palace grid. After the straight axis, it gives the route a smaller scale before you leave the palace walls."
+          }
+        ]
       },
       "id": "axis-4",
       "guideId": "axis",
@@ -137,7 +161,13 @@
         "context": "Jingshan sits just behind the Palace Museum north gate. The climb is short, but after the palace it feels steeper than it looks on the map; from the top, the axis and roofs fall into one clear line.",
         "lookFor": "Roofs of the Palace Museum from above\nThe straight axis to the south\nThe summit pavilion\nVisibility over the city",
         "practical": "Sunset brings more people.\nSteps can be slippery after rain.\nIf visibility is poor, climb only if you want a short final push.",
-        "nextMove": "After descending, take metro or taxi. Walking to another district is extra strain."
+        "nextMove": "After descending, take metro or taxi. Walking to another district is extra strain.",
+        "deepDive": [
+          {
+            "title": "The hill after the palace",
+            "body": "Jingshan matters less as a workout and more because of its position. It stands just beyond the northern exit of the Palace Museum and lets you see the palace as a plan: roofs, courts, and gates become the line you just walked. On a clear day, this is the best finish to the axis because one view explains the whole route."
+          }
+        ]
       },
       "id": "axis-5",
       "guideId": "axis",
