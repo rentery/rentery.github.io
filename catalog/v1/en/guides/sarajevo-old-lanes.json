@@ -17,11 +17,17 @@
   "pace": "half",
   "kids": false,
   "cover": {
-    "id": "sarajevo-cover-old-lanes",
-    "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-square.jpg",
-    "alt": "Old Sarajevo trading lanes with copper-toned light"
+    "id": "sarajevo-cathedral",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cathedral-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cathedral-square.jpg",
+    "alt": "Sacred Heart Cathedral facade in Sarajevo",
+    "attribution": {
+      "author": "Bjoertvedt",
+      "license": "CC BY-SA 4.0",
+      "retrievedAt": "2026-06-11",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Sacred_Heart_Cathedral_IMG_1235.jpg"
+    }
   },
   "microcopy": {
     "kicker": "Inside the quarter",

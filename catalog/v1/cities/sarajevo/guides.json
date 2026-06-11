@@ -18,11 +18,17 @@
     "pace": "half",
     "kids": false,
     "cover": {
-      "id": "sarajevo-cover-first-day",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/cover-first-day-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sarajevo/cover-first-day-square.jpg",
-      "alt": "Sarajevo riverfront with old roofs, warm stone, and green slopes"
+      "id": "sarajevo-sebilj",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/sebilj-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/sebilj-square.jpg",
+      "alt": "Sebilj fountain on Bascarsija square in Sarajevo",
+      "attribution": {
+        "author": "Aždaja",
+        "license": "CC BY-SA 4.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija-Sebilj_2017.jpg"
+      }
     },
     "microcopy": {
       "kicker": "Первый круг",
@@ -368,11 +374,17 @@
     "pace": "half",
     "kids": false,
     "cover": {
-      "id": "sarajevo-cover-old-lanes",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-square.jpg",
-      "alt": "Old Sarajevo trading lanes with copper-toned light"
+      "id": "sarajevo-cathedral",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/cathedral-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/cathedral-square.jpg",
+      "alt": "Sacred Heart Cathedral facade in Sarajevo",
+      "attribution": {
+        "author": "Bjoertvedt",
+        "license": "CC BY-SA 4.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Sacred_Heart_Cathedral_IMG_1235.jpg"
+      }
     },
     "microcopy": {
       "kicker": "Внутри квартала",
@@ -617,11 +629,17 @@
     "pace": "day",
     "kids": false,
     "cover": {
-      "id": "sarajevo-cover-river-museums",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-square.jpg",
-      "alt": "Miljacka river and Sarajevo museum district in clear daylight"
+      "id": "sarajevo-eternal-flame",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-square.jpg",
+      "alt": "Eternal Flame memorial in Sarajevo",
+      "attribution": {
+        "author": "Francisco Antunes from London, United Kingdom",
+        "license": "CC BY 2.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eternal_flame_Sarajevo.jpg"
+      }
     },
     "microcopy": {
       "kicker": "Крытый запас",
@@ -853,11 +871,17 @@
     "pace": "half",
     "kids": false,
     "cover": {
-      "id": "sarajevo-cover-trebevic",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-square.jpg",
-      "alt": "Cable car above Sarajevo and the green Trebevic slope"
+      "id": "sarajevo-cable-car",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/cable-car-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/cable-car-square.jpg",
+      "alt": "Trebevic cable car above Sarajevo hills",
+      "attribution": {
+        "author": "Adam Harangozó",
+        "license": "CC BY-SA 4.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trebevi%C4%87_Cable_Car_in_Sarajevo_02.jpg"
+      }
     },
     "microcopy": {
       "kicker": "Сверьте канатку",
@@ -1085,11 +1109,17 @@
     "pace": "day",
     "kids": false,
     "cover": {
-      "id": "sarajevo-cover-ilidza",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-square.jpg",
-      "alt": "Green avenue and water near Vrelo Bosne"
+      "id": "sarajevo-vrelo-bosne",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-square.jpg",
+      "alt": "Clear water and trees in Vrelo Bosne park",
+      "attribution": {
+        "author": "BiHVolim",
+        "license": "CC BY-SA 4.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne,_Sarajevo_park.JPG"
+      }
     },
     "microcopy": {
       "kicker": "Отдельный выезд",

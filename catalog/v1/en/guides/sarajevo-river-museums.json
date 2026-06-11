@@ -17,11 +17,17 @@
   "pace": "day",
   "kids": false,
   "cover": {
-    "id": "sarajevo-cover-river-museums",
-    "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-square.jpg",
-    "alt": "Miljacka river and Sarajevo museum district in clear daylight"
+    "id": "sarajevo-eternal-flame",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-square.jpg",
+    "alt": "Eternal Flame memorial in Sarajevo",
+    "attribution": {
+      "author": "Francisco Antunes from London, United Kingdom",
+      "license": "CC BY 2.0",
+      "retrievedAt": "2026-06-11",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eternal_flame_Sarajevo.jpg"
+    }
   },
   "microcopy": {
     "kicker": "Indoor reserve",

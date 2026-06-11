@@ -17,11 +17,17 @@
   "pace": "day",
   "kids": false,
   "cover": {
-    "id": "sarajevo-cover-ilidza",
-    "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-square.jpg",
-    "alt": "Green avenue and water near Vrelo Bosne"
+    "id": "sarajevo-vrelo-bosne",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-square.jpg",
+    "alt": "Clear water and trees in Vrelo Bosne park",
+    "attribution": {
+      "author": "BiHVolim",
+      "license": "CC BY-SA 4.0",
+      "retrievedAt": "2026-06-11",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne,_Sarajevo_park.JPG"
+    }
   },
   "microcopy": {
     "kicker": "Отдельный выезд",

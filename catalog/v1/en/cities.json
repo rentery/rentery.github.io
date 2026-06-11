@@ -134,10 +134,17 @@
       "longitude": 18.35644
     },
     "photo": {
-      "id": "sarajevo-sarajevo-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
-      "alt": "Sarajevo valley with river, old town, and mountains"
+      "id": "sarajevo-sebilj",
+      "kind": "photo",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/sebilj-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sarajevo/sebilj-square.jpg",
+      "alt": "Sebilj fountain on Bascarsija square in Sarajevo",
+      "attribution": {
+        "author": "Aždaja",
+        "license": "CC BY-SA 4.0",
+        "retrievedAt": "2026-06-11",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija-Sebilj_2017.jpg"
+      }
     },
     "identity": {
       "accent": "#2F6D6C",

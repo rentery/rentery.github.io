@@ -17,11 +17,17 @@
   "pace": "half",
   "kids": false,
   "cover": {
-    "id": "sarajevo-cover-trebevic",
-    "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-square.jpg",
-    "alt": "Cable car above Sarajevo and the green Trebevic slope"
+    "id": "sarajevo-cable-car",
+    "kind": "photo",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cable-car-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cable-car-square.jpg",
+    "alt": "Trebevic cable car above Sarajevo hills",
+    "attribution": {
+      "author": "Adam Harangozó",
+      "license": "CC BY-SA 4.0",
+      "retrievedAt": "2026-06-11",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trebevi%C4%87_Cable_Car_in_Sarajevo_02.jpg"
+    }
   },
   "microcopy": {
     "kicker": "Сверьте канатку",
