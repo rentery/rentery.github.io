@@ -1,0 +1,36 @@
+{
+  "id": "tivat",
+  "slug": "tivat",
+  "title": "Tivat",
+  "subtitle": "Tivat · 5 routes",
+  "meta": "Montenegro - bay, marina, salt flats, and Vrmac slopes",
+  "practicalNote": "In summer, the waterfront and Solila heat up fast: keep exposed routes for morning or evening. Check buses, beach access, and museum hours on the day you go because several places change by season. Keep some euro cash for small payments even though cards usually work around the marina.",
+  "guideIds": [
+    "tivat-first-day-core",
+    "tivat-north-shore",
+    "tivat-solila-prevlaka",
+    "tivat-rainy-core",
+    "tivat-vrmac-lastva"
+  ],
+  "coordinates": {
+    "latitude": 42.43623,
+    "longitude": 18.69361
+  },
+  "identity": {
+    "accent": "#1F6F78",
+    "soft": "#DCEDEC",
+    "deep": "#144C53",
+    "ink": "#123F44",
+    "motif": "axis",
+    "glyph": "П",
+    "hook": "The arsenal reshaped the town - 1889"
+  },
+  "timezone": "Europe/Podgorica",
+  "countryId": "montenegro",
+  "photo": {
+    "id": "tivat-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
+    "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
+  }
+}

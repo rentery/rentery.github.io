@@ -1,99 +1,306 @@
 {
   "id": "seoul-old-city-walk",
   "cityId": "seoul",
-  "category": "Old City",
-  "title": "Hanok And Insadong",
-  "subtitle": "Seochon / Bukchon",
-  "blurb": "Residential streets, hanok, and Insadong in a slow walking loop.",
-  "mood": "Local, quiet, on foot",
+  "category": "West Center",
+  "title": "Deoksugung And Seochon",
+  "subtitle": "Deoksugung / Gyeonghuigung / Insadong",
+  "blurb": "The west side of the old center: palaces, city history, market streets, and Insadong.",
+  "mood": "On foot, nearby museums, less palace crowding",
   "accent": "#4E6E73",
   "soft": "#E2EAEA",
   "deep": "#34504F",
   "ink": "#33514F",
   "motif": "lane",
   "duration": "Half-day",
-  "stops": 4,
-  "distance": "2.8 km",
+  "stops": 5,
+  "distance": "4-5 km",
   "pace": "half",
   "kids": false,
   "microcopy": {
-    "kicker": "Neighborhood pace",
-    "line": "Less checklist, more streets and pauses."
+    "kicker": "Walk west",
+    "line": "Use this route when Bukchon and Gyeongbokgung are already covered."
+  },
+  "cover": {
+    "alt": "Тихий переулок старого Сеула рядом с каменной стеной",
+    "id": "seoul-old-city-walk-cover",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-cover-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-cover-wide.jpg"
   },
   "content": {
-    "intro": "This half-day is for old neighborhoods without the scale of a palace. Seochon gives a more everyday start west of Gyeongbokgung, Bukchon keeps the hanok line, Insadong adds shops and galleries, and Jogyesa closes the loop with a quiet stop.\n\nThe route is deliberately short. Here it is better to move slowly and notice the shifts between residential streets and commercial quarters rather than collect the maximum number of sights.",
-    "routeLogic": "Seochon sets a local tone before the tourist core.\nTreat Bukchon as a residential area, not a photo set.\nInsadong is useful for coffee, galleries, and craft windows.\nJogyesa finishes the route near the main Jongno streets.",
-    "bestFor": "a slow walk\nhanok and lanes\na half-day without museums\na repeat visit",
-    "notFor": "large groups\npoor weather\ntravelers who want to enter palaces",
-    "beforeYouGo": "Do not plan loud group photo sessions in Bukchon.\nSome shops and galleries keep their own hours.\nIn rain, trade some street time for cafes or Insadong galleries.",
-    "timing": "Go in the morning or on a quieter weekday: narrow streets read better without heavy crowds.",
-    "fallbackPlan": "If Bukchon is overloaded or restricted, shorten it to a quiet passage and give Insadong more time."
+    "intro": "This route steps away from the most obvious palace axis: Deoksugung by City Hall, the Seoul Museum of History, quiet Gyeonghuigung, Tongin Market in Seochon, and Insadong for the finish. It has fewer must-see signals and more small decisions along the way.\n\nDo not turn the half-day into a museum marathon. If Deoksugung or the city museum takes longer, keep Gyeonghuigung brief and reach the market before fatigue makes the return east unpleasant.",
+    "routeLogic": "In Deoksugung, take a short palace circuit and do not add every nearby art space without time.\nAt the Seoul Museum of History, choose permanent city-focused galleries.\nUse Gyeonghuigung as a quiet court beside the museum.\nIn Tongin and Seochon, pause without promising yourself one exact stall.\nKeep Insadong for windows, tea, or a quick metro exit.",
+    "bestFor": "a repeat old-center day\na half-day without long transfers\ntravelers who want palaces and city history without Bukchon",
+    "notFor": "travelers who need one headline landmark\nlate evening\nheavy rain across several short street walks",
+    "beforeYouGo": "Check Monday closures for palaces and the museum. Tongin Market and Seochon shops depend on individual vendors, so do not build the route around one dish or purchase. Insadong is much denser on weekends.",
+    "timing": "Start before lunch at City Hall. That keeps palaces and the museum within operating hours, while the market and Insadong stay more flexible.",
+    "fallbackPlan": "If the museum takes extra time, skip Gyeonghuigung or shorten Insadong to one street and exit at Anguk or Jonggak."
   },
   "stopList": [
     {
-      "entry": "free",
-      "name": "Seochon",
-      "note": "Residential streets introduce the old center",
-      "time": "45 min",
-      "walk": "20 min",
+      "entry": "ticketed",
+      "name": "Deoksugung",
+      "nameLocal": "덕수궁",
+      "note": "A palace by City Hall for a compact circuit",
+      "time": "60-80 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 37.5661342,
+        "longitude": 126.9750536
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "21:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "21:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "21:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "21:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "21:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "21:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Дворец Токсугун в дневном свете",
+        "attribution": {
+          "author": "redlegsfan21",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deoksugung_Palace_(36530171615).jpg"
+        },
+        "id": "seoul-old-city-walk-1",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-1-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-1-wide.jpg"
+      },
       "content": {
-        "context": "Seochon lies west of Gyeongbokgung and feels calmer than the main palace approaches. It is a soft start to the route: small streets, low buildings, cafes, and workshops set a neighborhood scale rather than a ceremonial one.",
-        "lookFor": "Low facades beside newer cafes\nNarrow side streets without dense flow\nMountain glimpses between houses\nOld gates and small workshops",
-        "practical": "This is a living district, not one museum object.\nDo not enter courtyards without an invitation.\nCheck cafes and workshops on the spot.",
-        "nextMove": "Walk toward Bukchon through the north side of the palace area, leaving time for hills."
+        "context": "Deoksugung works as a first stop because it stands beside metro and the business center, yet the scale changes immediately inside. See the palace courts and stone wall, but do not stack every adjacent museum onto this route.",
+        "lookFor": "The contrast between palace gates and City Hall\nThe stone wall outside the palace\nKorean and Western details side by side\nThe queue before guard-changing times",
+        "practical": "The palace is closed on Mondays.\nNearby exhibitions can have separate tickets and schedules.\nEvening hours are useful, but this whole route is better with an earlier start.",
+        "nextMove": "Walk toward the Seoul Museum of History through Jeong-dong and avoid dropping south toward markets, or the route will sprawl.",
+        "sourceNote": "Deoksugung has separate schedules for the palace and nearby exhibition spaces; check the entrance you need."
       },
       "id": "seoul-old-city-walk-1",
       "guideId": "seoul-old-city-walk",
       "order": 1
     },
     {
-      "entry": "quiet passage",
-      "name": "Bukchon",
-      "note": "The hanok are homes; keep a quiet pace",
-      "time": "45 min",
-      "walk": "12 min",
+      "entry": "free",
+      "name": "Seoul Museum of History",
+      "nameLocal": "서울역사박물관",
+      "note": "City history between palace stops",
+      "time": "60-75 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 37.5704691,
+        "longitude": 126.9702783
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Фасад Сеульского музея истории",
+        "attribution": {
+          "author": "Seoul Institute",
+          "license": "CC BY 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80.jpg"
+        },
+        "id": "seoul-old-city-walk-2",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-2-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-2-wide.jpg"
+      },
       "content": {
-        "context": "On this route, Bukchon links two old-neighborhood worlds: more local Seochon and the shop-and-gallery side of Insadong. Remember that behind the beautiful roofs are ordinary homes and everyday life.",
-        "lookFor": "Roof tiles and wooden hanok details\nHow streets narrow on the climb\nBehavior-rule signs\nPlaces where it is better to keep walking than stop",
-        "practical": "Keep your voice lower than usual.\nDo not photograph interiors or open doors.\nSome zones may have time restrictions.",
-        "nextMove": "Go down toward Insadong through the Anguk side, where the route naturally shifts from homes to shops and galleries.",
-        "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+        "context": "The Seoul Museum of History helps assemble the city: not only palaces, but neighborhoods, transit, development, and everyday life. It sits beside Gyeonghuigung, so it does not require a separate transfer.",
+        "lookFor": "City models and maps\nSections about changing neighborhoods\nDisplays that show transit growth\nThe exit toward Gyeonghuigung court",
+        "practical": "Mondays and January 1 are usually closed.\nDo not try to cover every temporary exhibition if the market is still ahead.\nIt is useful in rain, but the route still has outdoor walks afterward.",
+        "nextMove": "Move to Gyeonghuigung next to the museum: this is a short outdoor stop, not a new long site.",
+        "sourceNote": "Check museum hours and Friday extensions on the official page before visiting."
       },
       "id": "seoul-old-city-walk-2",
       "guideId": "seoul-old-city-walk",
       "order": 2
     },
     {
-      "entry": "as available",
-      "name": "Insadong",
-      "note": "Windows and galleries after Bukchon",
-      "time": "45 min",
-      "walk": "8 min",
+      "entry": "free",
+      "name": "Gyeonghuigung",
+      "nameLocal": "경희궁",
+      "note": "A quiet palace court beside the museum",
+      "time": "30-40 min",
+      "walk": "18 min",
+      "coordinates": {
+        "latitude": 37.5709052,
+        "longitude": 126.9681239
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Павильон дворца Кёнхигун",
+        "attribution": {
+          "author": "travel oriented",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonghuigung_Palace.jpg"
+        },
+        "id": "seoul-old-city-walk-3",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-3-wide.jpg"
+      },
       "content": {
-        "context": "Insadong gathers craft shops, tea rooms, galleries, and souvenir windows near the old center. After Bukchon, it is the more public layer of the neighborhood: a place to pause, buy small things, and stay within the walking logic.",
-        "lookFor": "Side galleries, not only the main street\nSigns and windows with traditional materials\nTea rooms upstairs or in courtyards",
-        "practical": "Shop and gallery hours differ.\nWeekend flow is noticeably denser.\nKeep purchases light; the temple is still ahead.",
-        "nextMove": "The walk from Insadong to Jogyesa is short; use quieter side streets if the main axis is noisy."
+        "context": "Gyeonghuigung does not need a large plan. Enter the court, look at the pavilions, and move on before the half-day becomes too museum-heavy. Its value is quiet space beside the busy center.",
+        "lookFor": "The shift from museum entrance to palace court\nLow pavilions without a dense queue\nOpen space before the main hall\nThe exit route toward Seochon",
+        "practical": "Check Monday closure and any temporary limits.\nIf an event occupies the court, do not wait; the market and Seochon matter more for the pace.\nIn summer there is little shade.",
+        "nextMove": "Walk toward Tongin through the west side of the old center; the route is manageable, but check the map at forks."
       },
       "id": "seoul-old-city-walk-3",
       "guideId": "seoul-old-city-walk",
       "order": 3
     },
     {
-      "entry": "respectfully",
-      "name": "Jogyesa",
-      "note": "A calm finish near Insadong",
-      "time": "30 min",
-      "walk": "-",
+      "entry": "as available",
+      "name": "Tongin And Seochon",
+      "nameLocal": "통인시장",
+      "note": "Market and residential streets without a single-stall promise",
+      "time": "45-60 min",
+      "walk": "25 min",
+      "coordinates": {
+        "latitude": 37.5807552,
+        "longitude": 126.9699963
+      },
       "content": {
-        "context": "Jogyesa closes the neighborhood route without a long transfer. After Insadong windows, the temple courtyard brings attention back to quiet, roof details, and seasonal decoration, then it is easy to return to metro or Jongno cafes.",
-        "lookFor": "Main hall among city buildings\nColorful lanterns if they are up\nPainted details under the eaves\nPeople who came for worship, not tourism",
-        "practical": "Do not block passages or disturb prayer.\nDuring ceremonies, stay at the edge of the courtyard.\nTreat the temple as a short stop, not a photo set.",
-        "nextMove": "Finish at Jonggak or Anguk station, or return to Insadong for food and tea."
+        "context": "Tongin gives the route a human scale after museums: market lanes, a short food pause, Seochon streets, and low buildings west of Gyeongbokgung. Look at the neighborhood rather than hunting one exact address.",
+        "lookFor": "Market rows and narrow passages\nThe shift into quieter Seochon streets\nLow facades and old gates\nPlaces for a short stop",
+        "practical": "Hours and vendors vary; check Sundays and holidays especially.\nKeep a little cash for small purchases.\nDo not enter courtyards or film through home windows.",
+        "nextMove": "If you have energy, walk to Insadong through Anguk; otherwise finish at the nearest station or take a taxi.",
+        "sourceNote": "Market stalls and Seochon shops depend on the day; check a specific place before planning a meal around it."
       },
       "id": "seoul-old-city-walk-4",
       "guideId": "seoul-old-city-walk",
       "order": 4
+    },
+    {
+      "entry": "as available",
+      "name": "Insadong",
+      "nameLocal": "인사동",
+      "note": "Finish with shop windows, tea, and a metro exit",
+      "time": "40-60 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 37.5735445,
+        "longitude": 126.9855646
+      },
+      "photo": {
+        "alt": "Улица Инсадон с вывесками и витринами",
+        "attribution": {
+          "author": "Vanbasten 23",
+          "license": "CC BY-SA 3.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Insa-dong.jpg"
+        },
+        "id": "seoul-old-city-walk-5",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-5-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-old-city-walk-5-wide.jpg"
+      },
+      "content": {
+        "context": "Insadong closes the western loop with a more public street: galleries, tea rooms, craft windows, and a quick metro exit. After Seochon, it is a useful finish for food or small purchases without another major site.",
+        "lookFor": "Side galleries, not only the main street\nTea rooms upstairs and in courtyards\nWindows with paper, ceramics, and seals\nRoutes toward Anguk or Jonggak",
+        "practical": "Shops and galleries keep different hours.\nWeekend crowds slow the street noticeably.\nDo not buy anything heavy if you still have a transfer ahead.",
+        "nextMove": "Finish at Anguk, Jonggak, or in a tea room if you do not need to rush back."
+      },
+      "id": "seoul-old-city-walk-5",
+      "guideId": "seoul-old-city-walk",
+      "order": 5
     }
   ]
 }

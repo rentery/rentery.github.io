@@ -2,99 +2,270 @@
   "id": "seoul-calm-day",
   "cityId": "seoul",
   "category": "Calm Day",
-  "title": "Museum Day",
-  "subtitle": "Yongsan / Itaewon",
-  "blurb": "Yongsan museums and a short Itaewon finish for bad weather.",
-  "mood": "Calm, indoor, away from heat",
+  "title": "Yongsan Museums",
+  "subtitle": "National Museum / park / Leeum",
+  "blurb": "A day for rain, heat, or fatigue: large galleries, a park, and a short Itaewon finish.",
+  "mood": "Indoors, slower, with short rides",
   "accent": "#5B79B0",
   "soft": "#E4E9F3",
   "deep": "#3F5C92",
   "ink": "#3C5790",
   "motif": "kids",
   "duration": "Day",
-  "stops": 4,
-  "distance": "taxi/metro + 1.8 km",
+  "stops": 5,
+  "distance": "metro/taxi + 2 km",
   "pace": "day",
-  "kids": false,
+  "kids": true,
   "microcopy": {
-    "kicker": "Quiet mode",
-    "line": "Works when a long outdoor walk is inconvenient."
+    "kicker": "Slow down",
+    "line": "Do not cover every gallery in a row; leave energy for transfers."
+  },
+  "cover": {
+    "alt": "Светлый музейный проход с видом на зелень за стеклом",
+    "id": "seoul-calm-day-cover",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-cover-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-cover-wide.jpg"
   },
   "content": {
-    "intro": "This day is built for heat, rain, dust, or simple fatigue from street routes. The National Museum of Korea gives a large culture block, the War Memorial adds modern history, Leeum shifts the day toward art, and Itaewon leaves a short neighborhood finish.\n\nTreat transfers between points as part of the plan, not a route mistake. This is not a continuous walk; it is a calm day with long halls and short outdoor moves.",
-    "routeLogic": "Start with the National Museum while you have energy for a large site.\nRide rather than walk the whole way to the War Memorial.\nLeeum adds a compact art block.\nItaewon is kept as a short finish near Yongsan.",
-    "bestFor": "rain or heat\nmuseums\na slow day\na break from long streets",
-    "notFor": "travelers who dislike museums\na full-day walk on foot\nchildren with no interest in halls",
-    "beforeYouGo": "Check closed days and special exhibitions.\nMuseums can have rules for food, photos, and loud conversation.\nMetro or taxi is easier between sites.",
-    "timing": "Start in the morning at the National Museum: the first stop can take more time than it looks.",
-    "fallbackPlan": "If energy is lower, keep only the National Museum and Leeum, and use Itaewon as a short nearby dinner."
+    "intro": "This day helps when streets are not helping: rain, heat, fine dust, or simple fatigue. Start at the National Museum, step out for brief air in Yongsan Family Park, then choose the War Memorial, Leeum, and a small Itaewon finish.\n\nThe route does not need to be fully walkable. Yongsan distances look tolerable on the map, but after galleries it is better to use metro, bus, or taxi than turn the day into a tiring transfer.",
+    "routeLogic": "At the National Museum, choose permanent halls rather than the whole complex.\nUse Yongsan Family Park for a short outdoor reset if weather allows.\nMove selectively through the War Memorial: the subject is heavy.\nRide toward Hannam and Hangangjin for Leeum.\nKeep Itaewon only for food, metro, and a change of street scene.",
+    "bestFor": "rain, heat, or poor fine-dust conditions\nmuseums without rushing\na family day that can be shortened\ntravelers who already saw the old center",
+    "notFor": "travelers who dislike museums\na full day of walking outdoors\nchildren who struggle with long gallery time",
+    "beforeYouGo": "Check Monday closures, special exhibitions, and Leeum reservations. The War Memorial can be heavy for children. Look up metro, bus, or taxi routes between stops before leaving.",
+    "timing": "Start in the morning at the National Museum. After lunch, decide by energy: the War Memorial and Leeum together need a calm pace, and Itaewon is easy to shorten.",
+    "fallbackPlan": "If energy is lower, keep the National Museum, the park, and Leeum. Move the War Memorial to another day, and use Itaewon only for a nearby dinner or station."
   },
   "stopList": [
     {
-      "entry": "often free",
+      "entry": "usually free",
       "name": "National Museum of Korea",
-      "note": "The main culture stop of the day",
-      "time": "150 min",
-      "walk": "transfer",
+      "nameLocal": "국립중앙박물관",
+      "note": "Choose a few halls, not the whole museum",
+      "time": "2-3 hr",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 37.5239253,
+        "longitude": 126.9803732
+      },
+      "photo": {
+        "alt": "Главный фасад Национального музея Кореи",
+        "attribution": {
+          "author": "Jinah78",
+          "license": "CC BY-SA 3.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_national_museum_of_korea.jpg"
+        },
+        "id": "seoul-calm-day-1",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-1-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-1-wide.jpg"
+      },
       "content": {
-        "context": "The National Museum of Korea is the main large block of this calm day. It lets you spend several hours indoors without losing the route: the collections give broad context for history and art, and Yongsan works well for the next stops.",
-        "lookFor": "Permanent halls instead of racing through every floor\nStone objects and the garden if weather allows\nQuiet passages between major sections\nMuseum shop as a short pause",
-        "practical": "The permanent collection is often free, while special exhibitions may be paid.\nCheck closed days and hours before visiting.\nKeep quiet in the halls and follow photo rules.",
-        "nextMove": "Ride to the War Memorial by metro, bus, or taxi; walking the full way would make the day too heavy.",
-        "sourceNote": "Museum hours, closed days, and special exhibitions can change; check current visitor information."
+        "context": "The National Museum of Korea is the largest stop of the day, so do not save it for leftover energy. Choose permanent halls and remember that a park or transfer still comes afterward.",
+        "lookFor": "Permanent halls instead of every floor\nStone objects and large forms\nThe garden and outdoor passages if weather allows\nQuiet places between sections",
+        "practical": "The permanent collection is usually free, while special exhibitions may be paid.\nCheck current hours and closures before leaving.\nFollow museum rules for food and large bags.",
+        "nextMove": "If you need a reset, step into Yongsan Family Park nearby; if weather is bad, plan the transfer straight to the War Memorial.",
+        "sourceNote": "National Museum hours and special exhibitions have changed before; check the current visitor page before going."
       },
       "id": "seoul-calm-day-1",
       "guideId": "seoul-calm-day",
       "order": 1
     },
     {
-      "entry": "check first",
-      "name": "War Memorial",
-      "note": "Continues the Yongsan museum theme",
-      "time": "120 min",
+      "entry": "free",
+      "name": "Yongsan Family Park",
+      "nameLocal": "용산가족공원",
+      "note": "A short outdoor reset between big galleries",
+      "time": "25-40 min",
       "walk": "transfer",
+      "coordinates": {
+        "latitude": 37.5226926,
+        "longitude": 126.9835274
+      },
+      "photo": {
+        "alt": "Дорожка и деревья в парке Йонсан",
+        "attribution": {
+          "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_01_(13939732142).jpg"
+        },
+        "id": "seoul-calm-day-2",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-2-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-2-wide.jpg"
+      },
       "content": {
-        "context": "The War Memorial of Korea adds a complex historical layer to the museum day. It fits logistically with the National Museum in Yongsan, but it is emotionally heavier: move selectively, without trying to cover every hall.",
-        "lookFor": "Outdoor equipment and memorial spaces\nHalls connected to the Korean War\nPlaces to pause between heavy sections",
-        "practical": "Check hours and access to individual areas before going.\nThe subject can be heavy for children and sensitive visitors.\nLeave time to rest after the visit.",
-        "nextMove": "For Leeum, ride toward Hannam-dong and Hangangjin; do not plan a long walking link."
+        "context": "Yongsan Family Park is not a headline stop here; it is a pause between galleries. After the museum, walk the paths, check your energy, and decide whether the War Memorial still belongs in the same day.",
+        "lookFor": "Broad paths near the museum\nPlaces for a short sit-down\nExits back toward the road\nWeather before the next transfer",
+        "practical": "Skip this stop in rain or strong heat.\nDo not go deep into the park if the memorial is still planned.\nKeep water and the nearest road exit in mind.",
+        "nextMove": "Ride to the War Memorial; walking after the museum and park can feel heavier than it looks."
       },
       "id": "seoul-calm-day-2",
       "guideId": "seoul-calm-day",
       "order": 2
     },
     {
-      "entry": "booking/ticket",
-      "name": "Leeum",
-      "note": "An art block after history",
-      "time": "90 min",
-      "walk": "15 min",
+      "entry": "free",
+      "name": "War Memorial",
+      "nameLocal": "전쟁기념관",
+      "note": "A difficult subject: move selectively",
+      "time": "90-120 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 37.5363041,
+        "longitude": 126.9770498
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:30",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Вход в Военный мемориал Кореи",
+        "attribution": {
+          "author": "Christophe95",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_War_Memorial_of_Korea.jpg"
+        },
+        "id": "seoul-calm-day-3",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-3-wide.jpg"
+      },
       "content": {
-        "context": "Leeum Museum of Art moves the day from history toward art and architecture. After large state museums it feels more compact, but it still needs attention to booking and current exhibitions.",
-        "lookFor": "Differences between M1 and M2 spaces\nTraditional materials beside contemporary art\nStairs, light, and interior transitions\nThe current exhibition if it fits your timing",
-        "practical": "The museum runs by schedule and often recommends booking.\nSome exhibitions are paid, others may be free.\nAvoid bringing large bags or food into the galleries.",
-        "nextMove": "After Leeum, walk down toward Itaewon or ride briefly if weather or energy makes the street unappealing.",
-        "sourceNote": "Leeum booking, tickets, and exhibition access can change; check current visit information."
+        "context": "The War Memorial of Korea fits Yongsan logistically, but it is emotionally heavier than the National Museum. Choose several halls and the outdoor court rather than trying to cover everything after a museum morning.",
+        "lookFor": "Outdoor equipment and memorial spaces\nHalls connected to the Korean War\nPlaces to pause between heavy sections\nYour exit toward transport for the next ride",
+        "practical": "Monday is usually closed, and admission ends before closing.\nThe subject can be heavy for children and sensitive visitors.\nCheck special exhibitions and individual areas separately.",
+        "nextMove": "For Leeum, ride toward Hannam-dong or Hangangjin; do not add a long walking transfer.",
+        "sourceNote": "Check last admission and access to individual areas before going."
       },
       "id": "seoul-calm-day-3",
       "guideId": "seoul-calm-day",
       "order": 3
     },
     {
-      "entry": "free",
-      "name": "Itaewon",
-      "note": "A final walk near Yongsan",
-      "time": "45 min",
-      "walk": "-",
+      "entry": "booking/ticket",
+      "name": "Leeum",
+      "nameLocal": "리움미술관",
+      "note": "Art and architecture after Yongsan",
+      "time": "75-90 min",
+      "walk": "15 min",
+      "coordinates": {
+        "latitude": 37.5383468,
+        "longitude": 126.998989
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:30",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:30",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Здание музея Leeum в Ханнаме",
+        "attribution": {
+          "author": "takato marui",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeum,_Samsung_Museum_of_Art.jpg"
+        },
+        "id": "seoul-calm-day-4",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-4-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-calm-day-4-wide.jpg"
+      },
       "content": {
-        "context": "Itaewon ends the museum day not with a monument but with a change of urban scene. After halls and memorial spaces, the district gives a short walk, food, and a clear metro exit without another major site.",
-        "lookFor": "Signs and food from many countries\nStreet level changes between Hannam and Itaewon\nCalmer side streets instead of the main crowd",
-        "practical": "In the evening, the district can be noisy and dense.\nChoose food by the current situation, not old lists.\nIf you are tired, finish at the metro right away.",
-        "nextMove": "End at Itaewon or Hangangjin station, whichever is closer to dinner and your return route."
+        "context": "Leeum moves the day from large state museums toward art and architecture. It is more compact, but tickets, booking, and current exhibitions matter, especially on weekends.",
+        "lookFor": "Differences between museum spaces\nLight, stairs, and interior transitions\nTraditional materials beside contemporary art\nThe current exhibition if it fits your timing",
+        "practical": "Check booking, paid exhibitions, and Monday closure.\nAvoid bringing large bags or food into the galleries.\nIf the day is already museum-heavy, shorten Leeum to your main interest.",
+        "nextMove": "After Leeum, walk down toward Itaewon only if weather and energy are good; otherwise take a short ride.",
+        "sourceNote": "Leeum booking, tickets, and exhibitions change; check current conditions before heading out."
       },
       "id": "seoul-calm-day-4",
       "guideId": "seoul-calm-day",
       "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Itaewon",
+      "nameLocal": "이태원",
+      "note": "A short finish with food and metro",
+      "time": "40-60 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 37.5345026,
+        "longitude": 126.9943705
+      },
+      "content": {
+        "context": "Itaewon ends the museum day with a change of street scene, not another required sight. After galleries and memorial spaces, choose food, walk one stretch, and exit by metro.",
+        "lookFor": "Signs and food from many countries\nStreet level changes between Hannam and Itaewon\nCalmer side streets\nThe nearest metro entrance",
+        "practical": "In the evening, the district can be loud and dense.\nChoose food by the current situation, not old lists.\nIf you are tired, end at the station without adding another walk.",
+        "nextMove": "Finish at Itaewon or Hangangjin, choosing whichever station is closer to dinner and your return route."
+      },
+      "id": "seoul-calm-day-5",
+      "guideId": "seoul-calm-day",
+      "order": 5
     }
   ]
 }

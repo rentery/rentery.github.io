@@ -1,0 +1,36 @@
+{
+  "id": "tivat",
+  "slug": "tivat",
+  "title": "Тиват",
+  "subtitle": "Tivat · Тиват · 5 маршрутов",
+  "meta": "Черногория · бухта, марина, солончаки и склоны Врмаца",
+  "practicalNote": "Летом берег и Солила быстро перегреваются: ставьте открытые маршруты на утро или вечер. Автобусы, пляжный доступ и музейные часы сверяйте в день прогулки: часть мест живет по сезону. Для коротких оплат держите евро наличными, даже если в марине карты обычно проходят.",
+  "guideIds": [
+    "tivat-first-day-core",
+    "tivat-north-shore",
+    "tivat-solila-prevlaka",
+    "tivat-rainy-core",
+    "tivat-vrmac-lastva"
+  ],
+  "coordinates": {
+    "latitude": 42.43623,
+    "longitude": 18.69361
+  },
+  "identity": {
+    "accent": "#1F6F78",
+    "soft": "#DCEDEC",
+    "deep": "#144C53",
+    "ink": "#123F44",
+    "motif": "axis",
+    "glyph": "П",
+    "hook": "Арсенал изменил город · 1889"
+  },
+  "timezone": "Europe/Podgorica",
+  "countryId": "montenegro",
+  "photo": {
+    "id": "tivat-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
+    "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
+  }
+}

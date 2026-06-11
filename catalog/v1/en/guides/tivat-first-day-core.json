@@ -1,0 +1,210 @@
+{
+  "id": "tivat-first-day-core",
+  "cityId": "tivat",
+  "category": "First Day",
+  "title": "First Tivat",
+  "subtitle": "Buca / Pine / Porto",
+  "blurb": "Town center, park, waterfront, marina, and naval museum without a long transfer.",
+  "mood": "Flat, waterfront, morning",
+  "accent": "#1F6F78",
+  "soft": "#DCEDEC",
+  "deep": "#144C53",
+  "ink": "#123F44",
+  "motif": "axis",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "3.1 km",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Start central",
+    "line": "Walk from the old courtyard to the marina without rushing the day."
+  },
+  "cover": {
+    "id": "tivat-first-day-core-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-first-day-core-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-first-day-core-square.jpg",
+    "alt": "Набережная Тивата у марины в теплом вечернем свете"
+  },
+  "content": {
+    "intro": "This route gives you a clear first map of Tivat: the stone Buca-Lukovic courtyard, shade in the city park, open Pine waterfront, then the sharp shift into Porto Montenegro and the naval legacy of the former arsenal.\n\nThe main decision is simple: do not leave immediately for beaches and islands. Central distances are short, but sun on the waterfront gets tiring, so keep the museum or park as your reset point.",
+    "routeLogic": "Start at Buca-Lukovic before the square gets hot.\nUse the park for shade before the waterfront.\nOn Pine, stay by the water and read the line of piers.\nIn Porto Montenegro, do not lose the day to shop windows if you want the museum.\nMake the naval museum the finish; after it you can return to cafes or call a taxi.",
+    "bestFor": "a first visit\nquick town orientation\nmarina and naval history\na day without hills",
+    "notFor": "midday heat\ntravelers who want an immediate beach day\nanyone uninterested in the modern marina",
+    "beforeYouGo": "Check Museum and Gallery Tivat and Naval Heritage Museum hours. In summer, start before strong heat or closer to sunset.",
+    "timing": "Best from 09:00-12:00 or after 17:00. At midday, give more time to shade and indoor stops.",
+    "fallbackPlan": "If the museum is closed, finish at the north edge of Porto Montenegro and walk back along the waterfront to Pine."
+  },
+  "stopList": [
+    {
+      "entry": "museum hours",
+      "name": "Buca-Lukovic",
+      "nameLocal": "Ljetnikovac Buća Luković",
+      "note": "The stone courtyard shows Tivat before the marina",
+      "time": "35 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "summary": "Вт-вс 10:00-16:00",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "16:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Buca-Lukovic complex stands in the center beside Museum and Gallery Tivat. On this route it is not a long museum visit but a compact beginning: stone residence, courtyard, and cultural square before the yachts appear.",
+        "lookFor": "Stone tower and inner courtyard\nThe shift from square to low town streets\nCultural posters nearby\nShade in the courtyard if the day is already hot",
+        "practical": "The structured hours belong to Museum and Gallery Tivat, not every open space around it. The museum is closed on Mondays; check the institution website before going in.",
+        "nextMove": "Walk to the city park. It is a short flat move and useful before the open waterfront.",
+        "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+      },
+      "id": "tivat-first-day-core-1",
+      "guideId": "tivat-first-day-core",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "City Park",
+      "nameLocal": "Veliki gradski park",
+      "note": "Shade before the open waterfront",
+      "time": "25 min",
+      "walk": "6 min",
+      "photo": {
+        "id": "tivat-city-park-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tivat_-_gradski_park_01.jpg",
+        "alt": "Дорожка в городском парке Тивата",
+        "attribution": {
+          "author": "BuhaM",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_-_gradski_park_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The large city park sits between the center and the water. Early in the route it helps you check the pace: if it already feels hot, shorten the waterfront later instead of spending the whole day in open sun.",
+        "lookFor": "Tall trees and old paths\nGlimpses of water between branches\nPlaces to sit without ordering anything\nThe transition from park to sea line",
+        "practical": "After rain, paths can be slippery. In summer, do not skip this stop; Pine and the marina have less shade.",
+        "nextMove": "Drop down to Pine and keep close to the water; the rest of the route follows the bay line."
+      },
+      "id": "tivat-first-day-core-2",
+      "guideId": "tivat-first-day-core",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Pine Waterfront",
+      "nameLocal": "Pine",
+      "note": "The town line by the water",
+      "time": "35 min",
+      "walk": "10 min",
+      "content": {
+        "context": "Pine links the center with bay views and piers. Walk it slowly: Tivat does not open through one grand square, but through short changes of water, boats, cafes, park shade, and the former arsenal edge.",
+        "lookFor": "The piers and open bay horizon\nWhere town waterfront turns toward the marina\nThe school ship Jadran if it is moored nearby\nBenches in shade when they are free",
+        "practical": "In heat, do not stand long without shade. Wind on the water can change the temperature quickly, especially in the evening.",
+        "nextMove": "Continue along the water to Porto Montenegro without cutting inland; the transition stays easy to follow."
+      },
+      "id": "tivat-first-day-core-3",
+      "guideId": "tivat-first-day-core",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Porto Montenegro",
+      "note": "Modern marina on the old arsenal site",
+      "time": "45 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.433333,
+        "longitude": 18.691667
+      },
+      "photo": {
+        "id": "tivat-porto-montenegro-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+        "alt": "Марина Porto Montenegro с яхтами у причалов",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Porto Montenegro changes the scale of the walk: after the town waterfront come wider promenades, shop windows, yachts, and polished buildings. Read it as one new layer of Tivat, not as the whole city.",
+        "lookFor": "Masts cutting across the water view\nThe line between public promenade and private zones\nThe north edge closer to the museum\nHints of industrial memory near the new district",
+        "practical": "Do not expect every pier to be public. If the day is hot, use the marina as a short passage to the museum rather than an hour of browsing.",
+        "nextMove": "Move toward the north edge of Porto Montenegro; the Naval Heritage Museum sits away from the main promenade line."
+      },
+      "id": "tivat-first-day-core-4",
+      "guideId": "tivat-first-day-core",
+      "order": 4
+    },
+    {
+      "entry": "check hours",
+      "name": "Naval Heritage Museum",
+      "nameLocal": "Naval Heritage Museum",
+      "note": "Submarines and the memory of the arsenal",
+      "time": "50 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Naval Heritage Museum finishes the route where Tivat history becomes physical: machines, artifacts, and submarines recall the former arsenal. After the marina, it brings the walk back from shopping to work and sea engineering.",
+        "lookFor": "Submarines beside the museum\nLarge maritime equipment\nThe north edge of Porto Montenegro\nThe contrast between museum yard and new marina",
+        "practical": "The official page gives museum contact details, but you should confirm current hours before leaving. Some indoor areas and submarines may have access limits.",
+        "nextMove": "After the museum, return to Porto Montenegro for food or call a taxi from the north edge of the marina."
+      },
+      "id": "tivat-first-day-core-5",
+      "guideId": "tivat-first-day-core",
+      "order": 5
+    }
+  ]
+}

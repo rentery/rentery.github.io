@@ -1,0 +1,1713 @@
+{
+  "city": {
+    "id": "tivat",
+    "slug": "tivat",
+    "title": "Tivat",
+    "subtitle": "Tivat · 5 routes",
+    "meta": "Montenegro - bay, marina, salt flats, and Vrmac slopes",
+    "practicalNote": "In summer, the waterfront and Solila heat up fast: keep exposed routes for morning or evening. Check buses, beach access, and museum hours on the day you go because several places change by season. Keep some euro cash for small payments even though cards usually work around the marina.",
+    "guideIds": [
+      "tivat-first-day-core",
+      "tivat-north-shore",
+      "tivat-solila-prevlaka",
+      "tivat-rainy-core",
+      "tivat-vrmac-lastva"
+    ],
+    "coordinates": {
+      "latitude": 42.43623,
+      "longitude": 18.69361
+    },
+    "identity": {
+      "accent": "#1F6F78",
+      "soft": "#DCEDEC",
+      "deep": "#144C53",
+      "ink": "#123F44",
+      "motif": "axis",
+      "glyph": "П",
+      "hook": "The arsenal reshaped the town - 1889"
+    },
+    "timezone": "Europe/Podgorica",
+    "countryId": "montenegro",
+    "photo": {
+      "id": "tivat-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
+      "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [
+    {
+      "id": "tivat-first-day-core",
+      "cityId": "tivat",
+      "category": "First Day",
+      "title": "First Tivat",
+      "subtitle": "Buca / Pine / Porto",
+      "blurb": "Town center, park, waterfront, marina, and naval museum without a long transfer.",
+      "mood": "Flat, waterfront, morning",
+      "accent": "#1F6F78",
+      "soft": "#DCEDEC",
+      "deep": "#144C53",
+      "ink": "#123F44",
+      "motif": "axis",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "3.1 km",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Start central",
+        "line": "Walk from the old courtyard to the marina without rushing the day."
+      },
+      "cover": {
+        "id": "tivat-first-day-core-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/tivat/tivat-first-day-core-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tivat/tivat-first-day-core-square.jpg",
+        "alt": "Набережная Тивата у марины в теплом вечернем свете"
+      },
+      "content": {
+        "intro": "This route gives you a clear first map of Tivat: the stone Buca-Lukovic courtyard, shade in the city park, open Pine waterfront, then the sharp shift into Porto Montenegro and the naval legacy of the former arsenal.\n\nThe main decision is simple: do not leave immediately for beaches and islands. Central distances are short, but sun on the waterfront gets tiring, so keep the museum or park as your reset point.",
+        "routeLogic": "Start at Buca-Lukovic before the square gets hot.\nUse the park for shade before the waterfront.\nOn Pine, stay by the water and read the line of piers.\nIn Porto Montenegro, do not lose the day to shop windows if you want the museum.\nMake the naval museum the finish; after it you can return to cafes or call a taxi.",
+        "bestFor": "a first visit\nquick town orientation\nmarina and naval history\na day without hills",
+        "notFor": "midday heat\ntravelers who want an immediate beach day\nanyone uninterested in the modern marina",
+        "beforeYouGo": "Check Museum and Gallery Tivat and Naval Heritage Museum hours. In summer, start before strong heat or closer to sunset.",
+        "timing": "Best from 09:00-12:00 or after 17:00. At midday, give more time to shade and indoor stops.",
+        "fallbackPlan": "If the museum is closed, finish at the north edge of Porto Montenegro and walk back along the waterfront to Pine."
+      },
+      "stopList": [
+        {
+          "entry": "museum hours",
+          "name": "Buca-Lukovic",
+          "nameLocal": "Ljetnikovac Buća Luković",
+          "note": "The stone courtyard shows Tivat before the marina",
+          "time": "35 min",
+          "walk": "5 min",
+          "coordinates": {
+            "latitude": 42.431439,
+            "longitude": 18.696322
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "summary": "Вт-вс 10:00-16:00",
+            "rules": [
+              {
+                "weekday": 0,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "10:00",
+                "closes": "16:00"
+              }
+            ]
+          },
+          "content": {
+            "context": "The Buca-Lukovic complex stands in the center beside Museum and Gallery Tivat. On this route it is not a long museum visit but a compact beginning: stone residence, courtyard, and cultural square before the yachts appear.",
+            "lookFor": "Stone tower and inner courtyard\nThe shift from square to low town streets\nCultural posters nearby\nShade in the courtyard if the day is already hot",
+            "practical": "The structured hours belong to Museum and Gallery Tivat, not every open space around it. The museum is closed on Mondays; check the institution website before going in.",
+            "nextMove": "Walk to the city park. It is a short flat move and useful before the open waterfront.",
+            "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+          },
+          "id": "tivat-first-day-core-1",
+          "guideId": "tivat-first-day-core",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "City Park",
+          "nameLocal": "Veliki gradski park",
+          "note": "Shade before the open waterfront",
+          "time": "25 min",
+          "walk": "6 min",
+          "photo": {
+            "id": "tivat-city-park-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tivat_-_gradski_park_01.jpg",
+            "alt": "Дорожка в городском парке Тивата",
+            "attribution": {
+              "author": "BuhaM",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_-_gradski_park_01.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The large city park sits between the center and the water. Early in the route it helps you check the pace: if it already feels hot, shorten the waterfront later instead of spending the whole day in open sun.",
+            "lookFor": "Tall trees and old paths\nGlimpses of water between branches\nPlaces to sit without ordering anything\nThe transition from park to sea line",
+            "practical": "After rain, paths can be slippery. In summer, do not skip this stop; Pine and the marina have less shade.",
+            "nextMove": "Drop down to Pine and keep close to the water; the rest of the route follows the bay line."
+          },
+          "id": "tivat-first-day-core-2",
+          "guideId": "tivat-first-day-core",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Pine Waterfront",
+          "nameLocal": "Pine",
+          "note": "The town line by the water",
+          "time": "35 min",
+          "walk": "10 min",
+          "content": {
+            "context": "Pine links the center with bay views and piers. Walk it slowly: Tivat does not open through one grand square, but through short changes of water, boats, cafes, park shade, and the former arsenal edge.",
+            "lookFor": "The piers and open bay horizon\nWhere town waterfront turns toward the marina\nThe school ship Jadran if it is moored nearby\nBenches in shade when they are free",
+            "practical": "In heat, do not stand long without shade. Wind on the water can change the temperature quickly, especially in the evening.",
+            "nextMove": "Continue along the water to Porto Montenegro without cutting inland; the transition stays easy to follow."
+          },
+          "id": "tivat-first-day-core-3",
+          "guideId": "tivat-first-day-core",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Porto Montenegro",
+          "note": "Modern marina on the old arsenal site",
+          "time": "45 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 42.433333,
+            "longitude": 18.691667
+          },
+          "photo": {
+            "id": "tivat-porto-montenegro-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+            "alt": "Марина Porto Montenegro с яхтами у причалов",
+            "attribution": {
+              "author": "Stolbovsky",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Porto Montenegro changes the scale of the walk: after the town waterfront come wider promenades, shop windows, yachts, and polished buildings. Read it as one new layer of Tivat, not as the whole city.",
+            "lookFor": "Masts cutting across the water view\nThe line between public promenade and private zones\nThe north edge closer to the museum\nHints of industrial memory near the new district",
+            "practical": "Do not expect every pier to be public. If the day is hot, use the marina as a short passage to the museum rather than an hour of browsing.",
+            "nextMove": "Move toward the north edge of Porto Montenegro; the Naval Heritage Museum sits away from the main promenade line."
+          },
+          "id": "tivat-first-day-core-4",
+          "guideId": "tivat-first-day-core",
+          "order": 4
+        },
+        {
+          "entry": "check hours",
+          "name": "Naval Heritage Museum",
+          "nameLocal": "Naval Heritage Museum",
+          "note": "Submarines and the memory of the arsenal",
+          "time": "50 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 42.4373384,
+            "longitude": 18.6933701
+          },
+          "photo": {
+            "id": "tivat-naval-heritage-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+            "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+            "attribution": {
+              "author": "Stolbovsky",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The Naval Heritage Museum finishes the route where Tivat history becomes physical: machines, artifacts, and submarines recall the former arsenal. After the marina, it brings the walk back from shopping to work and sea engineering.",
+            "lookFor": "Submarines beside the museum\nLarge maritime equipment\nThe north edge of Porto Montenegro\nThe contrast between museum yard and new marina",
+            "practical": "The official page gives museum contact details, but you should confirm current hours before leaving. Some indoor areas and submarines may have access limits.",
+            "nextMove": "After the museum, return to Porto Montenegro for food or call a taxi from the north edge of the marina."
+          },
+          "id": "tivat-first-day-core-5",
+          "guideId": "tivat-first-day-core",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "tivat-north-shore",
+      "cityId": "tivat",
+      "category": "Waterfront",
+      "title": "Shore To Lastva",
+      "subtitle": "Seljanovo / Donja Lastva",
+      "blurb": "A quieter northern shore after the marina: beaches, village edge, and long evening light.",
+      "mood": "Evening, water, no climb",
+      "accent": "#2F6F9F",
+      "soft": "#DDE9F0",
+      "deep": "#1F4F77",
+      "ink": "#1D4667",
+      "motif": "lane",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "4.2 km",
+      "pace": "half",
+      "kids": true,
+      "microcopy": {
+        "kicker": "After the marina",
+        "line": "Walk north, where the waterfront gets quieter."
+      },
+      "cover": {
+        "id": "tivat-north-shore-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-square.jpg",
+        "alt": "Тихая северная набережная Тивата с лодками и домами у воды"
+      },
+      "content": {
+        "intro": "This route leaves the polish of Porto Montenegro for Tivat northern shore. Start at the museum and marina edge, then continue through Ponta Seljanovo, beach sections, Donja Lastva, and the longer finish at Opatovo.\n\nIt works best in the evening: water stays beside you and there are no hills, but exposed waterfront stretches are tiring in summer. With children, decide your finish early instead of dragging everyone to Opatovo.",
+        "routeLogic": "Start at the Naval Heritage Museum so you do not backtrack through the center.\nAt Ponta Seljanovo, check wind and the feel of the shore.\nTreat beach areas as flexible; access and crowds are seasonal.\nSlow down at Donja Lastva old village edge.\nContinue to Opatovo only if there is light and energy left.",
+        "bestFor": "an evening walk\nfamilies without a hill climb\nwater and village shore\na second day in Tivat",
+        "notFor": "midday sun\nheavy rain or strong wind\ntravelers who want a museum-focused day",
+        "beforeYouGo": "Check weather and seasonal beach access. Do not build the route around one beach club; conditions change.",
+        "timing": "Best after 16:30. If you start late, finish in Donja Lastva rather than forcing the walk to Opatovo.",
+        "fallbackPlan": "Shorten the route to Ponta Seljanovo and Donja Lastva, then return by taxi or bus after checking the timetable."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Porto North Edge",
+          "note": "Start where the marina gets quieter",
+          "time": "20 min",
+          "walk": "12 min",
+          "coordinates": {
+            "latitude": 42.4373384,
+            "longitude": 18.6933701
+          },
+          "photo": {
+            "id": "tivat-naval-heritage-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+            "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+            "attribution": {
+              "author": "Stolbovsky",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The north edge of Porto Montenegro is a useful start: central noise is behind you and the shore toward Seljanovo begins almost immediately. It is easier here to shift from display marina to ordinary waterfront walk.",
+            "lookFor": "Masts against the mountains\nWhere the main marina promenade ends\nThe move toward a more residential shore\nPlaces where you can shorten the day early",
+            "practical": "Do not enter closed pier areas. If wind already feels unpleasant here, do not continue all the way to Opatovo.",
+            "nextMove": "Walk northwest toward Ponta Seljanovo, keeping to the streets closest to the water."
+          },
+          "id": "tivat-north-shore-1",
+          "guideId": "tivat-north-shore",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Ponta Seljanovo",
+          "nameLocal": "Ponta Seljanova",
+          "note": "Cape and beach edge after the marina",
+          "time": "35 min",
+          "walk": "15 min",
+          "coordinates": {
+            "latitude": 42.4392675,
+            "longitude": 18.6848074
+          },
+          "photo": {
+            "id": "tivat-ponta-seljanovo-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tivat_embankment_-_panoramio.jpg",
+            "alt": "Набережная Тивата у воды",
+            "attribution": {
+              "author": "Anton Nossik",
+              "license": "CC BY 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_embankment_-_panoramio.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Ponta Seljanovo shows another Tivat shore: less formal marina, more water, beach edges, and local evening movement. It is a good decision point: continue north or keep the walk short.",
+            "lookFor": "Open bay angle\nBoats and small beach sections\nHow the sound changes after Porto Montenegro\nAny shade before the next stretch",
+            "practical": "Beach access and loungers depend on season and operator. Do not treat swimming here as a guaranteed part of the route.",
+            "nextMove": "Continue along the shore toward Donja Lastva; if sidewalk, heat, or wind is poor, take a short transport hop."
+          },
+          "id": "tivat-north-shore-2",
+          "guideId": "tivat-north-shore",
+          "order": 2
+        },
+        {
+          "entry": "as available",
+          "name": "Seljanovo Beaches",
+          "note": "Flexible water stop without a hard plan",
+          "time": "30 min",
+          "walk": "18 min",
+          "content": {
+            "context": "Beach sections between Seljanovo and Donja Lastva are best treated as flexible. Some days this is a swim and ice cream; other days it is only a waterfront passage if seasonal areas are crowded.",
+            "lookFor": "Where the shore remains public\nLow walls and water steps\nEasy child pauses without a long detour\nTree shade later in the day",
+            "practical": "Beach conditions change by season. Do not assume the same facilities on every section, and keep belongings close.",
+            "nextMove": "Move toward Donja Lastva and decide early whether you really want to continue to Opatovo."
+          },
+          "id": "tivat-north-shore-3",
+          "guideId": "tivat-north-shore",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Donja Lastva",
+          "nameLocal": "Donja Lastva",
+          "note": "Village shore instead of display windows",
+          "time": "40 min",
+          "walk": "20 min",
+          "coordinates": {
+            "latitude": 42.4445725,
+            "longitude": 18.6892569
+          },
+          "photo": {
+            "id": "tivat-donja-lastva-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+            "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+            "attribution": {
+              "author": "ines lukic",
+              "license": "CC BY 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Donja Lastva returns the walk to a residential scale: low houses, shore passages, and less resort staging. After Seljanovo, slow down and decide whether you still have enough energy for the longer finish.",
+            "lookFor": "Old stone houses by the water\nSmall piers and boats\nViews back across Tivat Bay\nEvening light on Vrmac slopes",
+            "practical": "Do not enter private yards or piers. If dusk is close, finish here instead of continuing by momentum.",
+            "nextMove": "Walk to Opatovo only with good light and enough energy; otherwise end by the nearest stop or cafe."
+          },
+          "id": "tivat-north-shore-4",
+          "guideId": "tivat-north-shore",
+          "order": 4
+        },
+        {
+          "entry": "free",
+          "name": "Opatovo",
+          "nameLocal": "Opatovo",
+          "note": "Longer finish on the northern shore",
+          "time": "30 min",
+          "walk": "-",
+          "content": {
+            "context": "Opatovo is the finish if you wanted a real northern-shore walk rather than a short promenade. Do not force it: the value is ending calmly by the water, not checking one more name.",
+            "lookFor": "Quieter shore beyond Donja Lastva\nLong bay views\nPlaces to sit before returning\nTivat lights left behind you",
+            "practical": "Check return transport in advance. In the dark, do not continue along poorly lit sections.",
+            "nextMove": "Return by taxi or bus after checking the schedule; walk back only if you still have real energy."
+          },
+          "id": "tivat-north-shore-5",
+          "guideId": "tivat-north-shore",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "tivat-solila-prevlaka",
+      "cityId": "tivat",
+      "category": "Nature",
+      "title": "Solila And Prevlaka",
+      "subtitle": "Solila / Kalardovo / Ostrvo cvijeca",
+      "blurb": "Birds, salt flats, shallow water, and an island monastery edge in a half-day.",
+      "mood": "Morning, sun, taxi",
+      "accent": "#6C7F3D",
+      "soft": "#E7EBD9",
+      "deep": "#4E5F2B",
+      "ink": "#445426",
+      "motif": "ridge",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "5.0 km",
+      "pace": "half",
+      "kids": true,
+      "microcopy": {
+        "kicker": "Outside center",
+        "line": "Take transport to the south side of the airport."
+      },
+      "cover": {
+        "id": "tivat-solila-prevlaka-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/tivat/tivat-solila-prevlaka-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tivat/tivat-solila-prevlaka-square.jpg",
+        "alt": "Деревянная тропа через солончаки Солила утром"
+      },
+      "content": {
+        "intro": "This is not a walk from the center. It gathers Tivat south side: Solila salt flats, shallow water at Kalardovo, Miholjska Prevlaka, and the monastery edge on the Island of Flowers.\n\nThe main risks are heat and logistics. The open salt flats have little shelter, and the moves work better as short walking sections with taxi or checked bus support rather than a hard roadside march.",
+        "routeLogic": "Start early at Solila before heat breaks the quiet.\nAt the observation area, keep distance and stay on paths.\nUse Kalardovo as a beach pause, not a guaranteed swim.\nAt Miholjska Prevlaka, read the isthmus and island shape.\nKeep the monastery edge as a quiet final stop.",
+        "bestFor": "birds and open landscape\nchildren if you have transport\na morning away from the center\nshort nature near the airport side",
+        "notFor": "heat after midday\npoor weather\ntravelers without transport\nanyone needing a smooth city sidewalk",
+        "beforeYouGo": "Check weather, transport, and Solila visitor rules. For the monastery area, choose modest clothing and keep a quiet manner.",
+        "timing": "Start in the morning. February-April is often better for birdwatching, but the route also works as an early summer escape from the center.",
+        "fallbackPlan": "If Solila is too hot or wet, keep Kalardovo and Miholjska Prevlaka, and move the salt flats to another morning."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Tivatska Solila",
+          "nameLocal": "Tivatska Solila",
+          "note": "Salt flats and birds need an early start",
+          "time": "60 min",
+          "walk": "15 min",
+          "coordinates": {
+            "latitude": 42.393611,
+            "longitude": 18.715278
+          },
+          "photo": {
+            "id": "tivat-solila-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Special_Nature_Reserve_%22Solila%22%2C_Montenegro_22.jpg",
+            "alt": "Солончаки природного резервата Тиватска Солила",
+            "attribution": {
+              "author": "Milica Buha",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Special_Nature_Reserve_%22Solila%22,_Montenegro_22.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Tivatska Solila is a protected wetland on Tivat south side. On this route it is not a picnic park but a quiet observation place: water, salt, reeds, and open sky quickly change the scale of the city.",
+            "lookFor": "Flat salt basins\nReeds and shallow water\nBirds at a distance, without trying to get closer\nMountains beyond the airport side of the bay",
+            "practical": "Go early and stay on permitted paths. In heat there is very little shade; after rain some sections may be wet.",
+            "nextMove": "Continue to the observation area, or take transport toward Kalardovo if the sun is already strong."
+          },
+          "id": "tivat-solila-prevlaka-1",
+          "guideId": "tivat-solila-prevlaka",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Observation Area",
+          "note": "Watch quietly and keep distance",
+          "time": "35 min",
+          "walk": "10 min",
+          "coordinates": {
+            "latitude": 42.3907412,
+            "longitude": 18.7119167
+          },
+          "content": {
+            "context": "The observation area keeps Solila from becoming only a through-walk. Stand for less time but watch better: birds, water, and wind are meant to be read from a distance, not chased for a close photo.",
+            "lookFor": "Lines of water and dry salt sections\nBirds through binoculars or camera zoom\nWind direction in the reeds\nWhere the path clearly asks you not to continue",
+            "practical": "Do not feed birds or make noise. If there is no shade and no water, shorten the stop instead of waiting for the perfect frame.",
+            "nextMove": "Next, move to Kalardovo: a shift from watching to resting by shallow water."
+          },
+          "id": "tivat-solila-prevlaka-2",
+          "guideId": "tivat-solila-prevlaka",
+          "order": 2
+        },
+        {
+          "entry": "seasonal",
+          "name": "Kalardovo",
+          "nameLocal": "Kalardovo",
+          "note": "Beach pause by shallow water",
+          "time": "45 min",
+          "walk": "20 min",
+          "coordinates": {
+            "latitude": 42.4067972,
+            "longitude": 18.7129715
+          },
+          "content": {
+            "context": "Kalardovo works well after Solila: it lets you slow down, give children water and shade if conditions allow, and sit by the shore before Prevlaka. It does not have to be a swim.",
+            "lookFor": "Shallow water and open view\nA comfortable short-pause spot\nShade or shelter if available\nThe isthmus and island edge ahead",
+            "practical": "Beach services and access depend on season. Do not assume full summer facilities outside the main beach period.",
+            "nextMove": "Go or ride toward Miholjska Prevlaka if weather and road conditions are comfortable."
+          },
+          "id": "tivat-solila-prevlaka-3",
+          "guideId": "tivat-solila-prevlaka",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Miholjska Prevlaka",
+          "nameLocal": "Miholjska prevlaka",
+          "note": "The Island of Flowers reads through the causeway",
+          "time": "35 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 42.4060119,
+            "longitude": 18.7038111
+          },
+          "photo": {
+            "id": "tivat-miholjska-prevlaka-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/9/9c/MiholjskaPrevlaka.jpg",
+            "alt": "Остров Михольска Превлака в Тиватской бухте",
+            "attribution": {
+              "author": "Nikostrat",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:MiholjskaPrevlaka.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Miholjska Prevlaka, known as the Island of Flowers, turns the route from nature into a coastal-history stop. The geography matters: a narrow passage, water on both sides, and the bay edge near the airport.",
+            "lookFor": "The causeway and low island line\nWater on both sides of the passage\nViews toward neighboring islands\nPlaces where the shore should not be trampled",
+            "practical": "Open sections heat up quickly in summer. Avoid closed or clearly monastic areas unless you have a reason to enter.",
+            "nextMove": "Walk quietly to the monastery edge; it is the final short stop of the route."
+          },
+          "id": "tivat-solila-prevlaka-4",
+          "guideId": "tivat-solila-prevlaka",
+          "order": 4
+        },
+        {
+          "entry": "respectfully",
+          "name": "Monastery Edge",
+          "nameLocal": "Prevlaka",
+          "note": "Quiet finish by the Archangel ruins",
+          "time": "30 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 42.4058,
+            "longitude": 18.7042
+          },
+          "photo": {
+            "id": "tivat-archangel-monastery-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Manastir_Arh_Mihaila1.jpg",
+            "alt": "Каменные руины монастыря Архангела Михаила на Превлаке",
+            "attribution": {
+              "author": "Фото",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manastir_Arh_Mihaila1.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The monastery side of Prevlaka ends the day more quietly than the beach. Ruins and church grounds remind you that this bay edge is not only nature and swimming but also a long religious place.",
+            "lookFor": "Stone fragments and low walls\nHow the church area separates from the beach mood\nWater views between trees\nEvening light on the islands",
+            "practical": "Keep quiet and dress appropriately for a religious place. If a service is underway or access is limited, stay outside.",
+            "nextMove": "Return to Tivat by preplanned transport; do not plan to walk back to the center."
+          },
+          "id": "tivat-solila-prevlaka-5",
+          "guideId": "tivat-solila-prevlaka",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "tivat-rainy-core",
+      "cityId": "tivat",
+      "category": "Rain",
+      "title": "Rainy Center",
+      "subtitle": "Museum / Pine / Porto",
+      "blurb": "A short center route with museum time, covered pauses, and park only if rain lifts.",
+      "mood": "Short, covered, with kids",
+      "accent": "#8C5A3C",
+      "soft": "#EEE3DA",
+      "deep": "#68422B",
+      "ink": "#5A3A27",
+      "motif": "kids",
+      "duration": "2 hours",
+      "stops": 5,
+      "distance": "2.0 km",
+      "pace": "half",
+      "kids": true,
+      "microcopy": {
+        "kicker": "Rain plan",
+        "line": "Stay central and skip distant shores."
+      },
+      "cover": {
+        "id": "tivat-rainy-core-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/tivat/tivat-rainy-core-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tivat/tivat-rainy-core-square.jpg",
+        "alt": "Крытый каменный дворик в дождливом Тивате"
+      },
+      "content": {
+        "intro": "This route is for weather that makes Solila, Vrmac, or the long shore a bad idea. It keeps you central: Buca-Lukovic museum courtyard, a brief Pine check, covered parts of Porto Montenegro, the naval museum, and the park only if the rain clears.\n\nYou do not need to prove that rain does not matter. The goal is to walk a little, wait out the worst shower indoors, and finish close to food, taxis, or a short return.",
+        "routeLogic": "Check Museum and Gallery Tivat hours before leaving.\nStart at Buca-Lukovic so you are not standing in rain by the water.\nUse Pine only for a quick bay view.\nIn Porto Montenegro, choose covered passages.\nIf the Naval Heritage Museum is closed, trade it for coffee and a short park walk after rain.",
+        "bestFor": "a rainy day\nfamilies with children\na short walk without distant transport\nwaiting for a weather window",
+        "notFor": "a full sunny day\ntravelers who want beaches\nanyone looking for a real hike",
+        "beforeYouGo": "Check Museum and Gallery Tivat hours and Naval Heritage Museum contact details. Have a return plan; wet waterfront sections get old fast.",
+        "timing": "Works in the middle of the day. If rain stops toward evening, add a short passage through the park or Pine.",
+        "fallbackPlan": "Keep only Museum and Gallery Tivat plus Porto Montenegro, and turn open-air stops into quick transitions."
+      },
+      "stopList": [
+        {
+          "entry": "museum hours",
+          "name": "Museum and Gallery",
+          "nameLocal": "JU Muzej i galerija Tivat",
+          "note": "Check hours before leaving",
+          "time": "45 min",
+          "walk": "3 min",
+          "coordinates": {
+            "latitude": 42.431439,
+            "longitude": 18.696322
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "summary": "Вт-вс 10:00-16:00",
+            "rules": [
+              {
+                "weekday": 0,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "10:00",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "10:00",
+                "closes": "16:00"
+              }
+            ]
+          },
+          "content": {
+            "context": "Museum and Gallery Tivat is the most reliable start for a rainy center route. It sits in the Buca-Lukovic complex, so even a short visit gives you indoor time and the old stone setting of the town.",
+            "lookFor": "How the exhibition space connects to the courtyard\nStone walls of the complex\nCurrent event posters\nWhere you can wait out a heavier shower",
+            "practical": "Official hours at the time checked: Tuesday-Sunday 10:00-16:00, Monday closed. For holidays and temporary shows, verify the institution website.",
+            "nextMove": "If rain is light, step into the Buca-Lukovic courtyard; if it is heavy, stay inside and shorten Pine.",
+            "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+          },
+          "id": "tivat-rainy-core-1",
+          "guideId": "tivat-rainy-core",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Buca-Lukovic Courtyard",
+          "nameLocal": "Ljetnikovac Buća Luković",
+          "note": "Short open passage between showers",
+          "time": "20 min",
+          "walk": "6 min",
+          "coordinates": {
+            "latitude": 42.431439,
+            "longitude": 18.696322
+          },
+          "content": {
+            "context": "The Buca-Lukovic courtyard works better as a short passage than a long rainy stop. Look at the stone, tower, and cultural square, then move on if the paving is wet.",
+            "lookFor": "The residence tower\nStone edge of the courtyard\nWet paving after rain\nThe exit toward center and water",
+            "practical": "The paving can be slippery. Keep children close and do not block passages if an event is taking place.",
+            "nextMove": "Drop to Pine only for a short bay view, not for a full rainy promenade."
+          },
+          "id": "tivat-rainy-core-2",
+          "guideId": "tivat-rainy-core",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Pine In Rain",
+          "note": "Reach the water and decide quickly",
+          "time": "20 min",
+          "walk": "8 min",
+          "content": {
+            "context": "In this route Pine is not a long walk, but a weather check by the bay. Sometimes rain passes quickly and the waterfront becomes pleasant; sometimes wind makes it colder than the center.",
+            "lookFor": "How rain changes the bay color\nNearest shelter\nBenches after the shower\nWind direction along the water",
+            "practical": "Do not continue along open water if your shoes are already soaked. Wind can make a short rain feel worse by the bay.",
+            "nextMove": "Move into Porto Montenegro and choose covered passages or cafes over a long waterfront stretch."
+          },
+          "id": "tivat-rainy-core-3",
+          "guideId": "tivat-rainy-core",
+          "order": 3
+        },
+        {
+          "entry": "as available",
+          "name": "Covered Porto",
+          "note": "Shelter instead of open beach",
+          "time": "35 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 42.433333,
+            "longitude": 18.691667
+          },
+          "photo": {
+            "id": "tivat-porto-montenegro-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+            "alt": "Марина Porto Montenegro с яхтами у причалов",
+            "attribution": {
+              "author": "Stolbovsky",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "In rain, Porto Montenegro is useful for infrastructure rather than luxury: even paving, cafes, shops, and short covered sections near the water. It lets you wait out weather without a distant transfer.",
+            "lookFor": "Dry passages between buildings\nMasts through rain\nPlaces to step to the water for two minutes\nThe north direction toward the museum",
+            "practical": "Not every marina zone is public. With children, choose a toilet or food stop early instead of searching in the rain.",
+            "nextMove": "If the museum is open, continue to Naval Heritage Museum; otherwise finish here."
+          },
+          "id": "tivat-rainy-core-4",
+          "guideId": "tivat-rainy-core",
+          "order": 4
+        },
+        {
+          "entry": "check hours",
+          "name": "Naval Heritage Museum",
+          "note": "Indoor finish with maritime artifacts",
+          "time": "45 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 42.4373384,
+            "longitude": 18.6933701
+          },
+          "photo": {
+            "id": "tivat-naval-heritage-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+            "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+            "attribution": {
+              "author": "Stolbovsky",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The Naval Heritage Museum is a good rainy finish when open: maritime equipment and submarines give adults and children something concrete to focus on. It is better than wandering the waterfront without a plan.",
+            "lookFor": "Large machines and maritime details\nSubmarines outside\nHow the museum sits at the north edge of the marina\nOld industrial memory under the new district",
+            "practical": "Confirm current hours and access to individual exhibits in advance. If it is closed, do not wait at the entrance in rain; return to Porto Montenegro.",
+            "nextMove": "End the day in Porto Montenegro or take a taxi from the north edge of the marina."
+          },
+          "id": "tivat-rainy-core-5",
+          "guideId": "tivat-rainy-core",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "tivat-vrmac-lastva",
+      "cityId": "tivat",
+      "category": "Hills",
+      "title": "Climb To Lastva",
+      "subtitle": "Donja Lastva / Gornja Lastva",
+      "blurb": "Vrmac slope, stone village, and bay views without pretending it is an easy stroll.",
+      "mood": "Dry, early, uphill",
+      "accent": "#546B4D",
+      "soft": "#E2E8DE",
+      "deep": "#3E5138",
+      "ink": "#354831",
+      "motif": "ridge",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "6.0 km",
+      "pace": "day",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Bring energy",
+        "line": "Do it only in dry weather and start early."
+      },
+      "cover": {
+        "id": "tivat-vrmac-lastva-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/tivat/tivat-vrmac-lastva-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tivat/tivat-vrmac-lastva-square.jpg",
+        "alt": "Каменная деревня на склоне Врмаца с видом на бухту"
+      },
+      "content": {
+        "intro": "This route is honestly about a climb. It starts at Donja Lastva, rises toward the old road on Vrmac slope, reaches Gornja Lastva, and gives you the bay from above.\n\nDo not use it as an easy alternative to the waterfront. You need dry weather, water, shoes with a real sole, and a willingness to return the same way or arrange transport from the village.",
+        "routeLogic": "Start at Donja Lastva shore to understand the height gain.\nOn the old road, move slowly and respect the heat.\nIn Gornja Lastva, pause at stone houses and the church.\nContinue to the view only if the path is dry and you still have energy.\nDecide the return in the village, not when tired higher up.",
+        "bestFor": "an active half-day\nbay views\nstone villages\ndry weather without rushing",
+        "notFor": "strollers\nheat after midday\nrain or wet paths\ntravelers unused to climbing",
+        "beforeYouGo": "Check weather, phone charge, and return transport. Do not start the climb without water and shoes that hold on stone.",
+        "timing": "Start in the morning. If it is after 10:00 in summer, take a taxi to Gornja Lastva and do only a short village walk.",
+        "fallbackPlan": "Take a taxi to Gornja Lastva, walk the village and view street, and leave the Vrmac path for a dry morning."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Donja Lastva",
+          "nameLocal": "Donja Lastva",
+          "note": "Shore start before the climb",
+          "time": "25 min",
+          "walk": "35 min",
+          "coordinates": {
+            "latitude": 42.4445725,
+            "longitude": 18.6892569
+          },
+          "photo": {
+            "id": "tivat-donja-lastva-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+            "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+            "attribution": {
+              "author": "ines lukic",
+              "license": "CC BY 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Donja Lastva is the lower point of the route: from the water, you immediately understand the height you are about to gain. Check heat, water, and group energy before starting uphill.",
+            "lookFor": "Shore and boats before the hill\nVrmac slope above the village\nWhere the route leaves the water\nA short pause before climbing",
+            "practical": "Get water before leaving the shore. If it is already hot or someone is tired, stay with the Donja Lastva waterfront route.",
+            "nextMove": "Move toward the old road up the slope and keep a slow pace from the start."
+          },
+          "id": "tivat-vrmac-lastva-1",
+          "guideId": "tivat-vrmac-lastva",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Old Road",
+          "note": "The main height gain, without rushing",
+          "time": "45 min",
+          "walk": "20 min",
+          "content": {
+            "context": "The climb from the shore to Gornja Lastva is the most honest part of the route. There is no single major sight here; the value is changing air, angle on the bay, and the way villages sit on the slope.",
+            "lookFor": "Stone underfoot and dry turns\nHow the water drops lower with each stretch\nOlive trees and walls\nWhere to stop before you get tired",
+            "practical": "Do not go after heavy rain. If the path is wet or hard to read, turn back before the village rather than guessing a detour.",
+            "nextMove": "Continue to Gornja Lastva and take a real pause there before thinking about the higher view."
+          },
+          "id": "tivat-vrmac-lastva-2",
+          "guideId": "tivat-vrmac-lastva",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Gornja Lastva",
+          "nameLocal": "Gornja Lastva",
+          "note": "Stone village above the bay",
+          "time": "45 min",
+          "walk": "10 min",
+          "coordinates": {
+            "latitude": 42.4539224,
+            "longitude": 18.7076121
+          },
+          "photo": {
+            "id": "tivat-gornja-lastva-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gornja_Lastva.jpg",
+            "alt": "Горня Ластва на склоне над Тиватской бухтой",
+            "attribution": {
+              "author": "Master Sun Tzu",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gornja_Lastva.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "Gornja Lastva is the reason for the climb. The village shows Tivat without the marina: stone houses, narrow lanes, church, and views that appear between walls rather than on a prepared platform.",
+            "lookFor": "Stone facades and roofs\nLane turns with bay views\nQuiet areas without entering courtyards\nHow the village holds onto the slope",
+            "practical": "This is a lived-in place. Do not enter private yards or make noise near houses, even if streets seem empty.",
+            "nextMove": "Walk toward the church area or view street, but keep energy for the descent."
+          },
+          "id": "tivat-vrmac-lastva-3",
+          "guideId": "tivat-vrmac-lastva",
+          "order": 3
+        },
+        {
+          "entry": "respectfully",
+          "name": "Lastva Church",
+          "nameLocal": "Crkva Rođenja Bogorodice",
+          "note": "Quiet stop before the view",
+          "time": "25 min",
+          "walk": "20 min",
+          "content": {
+            "context": "The church area of Gornja Lastva keeps the route from becoming only physical effort. Slow down, look at the stone and village quiet, then decide whether another uphill stretch still makes sense.",
+            "lookFor": "Stone church boundary\nViews between houses and trees\nOld paths around the village\nWhere to stand without bothering residents",
+            "practical": "Dress and behave appropriately for a religious place. If a service is underway or the area is closed, stay outside.",
+            "nextMove": "Continue toward the Vrmac view only in dry weather; if you are tired, turn around here."
+          },
+          "id": "tivat-vrmac-lastva-4",
+          "guideId": "tivat-vrmac-lastva",
+          "order": 4
+        },
+        {
+          "entry": "weather only",
+          "name": "Vrmac View",
+          "nameLocal": "Vrmac",
+          "note": "Finish only on a dry path",
+          "time": "35 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 42.45,
+            "longitude": 18.72
+          },
+          "photo": {
+            "id": "tivat-sveti-marko-view-photo",
+            "kind": "photo",
+            "wide": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+            "alt": "Вид на острова Свети Марко и Госпа од Милости",
+            "attribution": {
+              "author": "Dreizung",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+              "retrievedAt": "2026-06-11"
+            }
+          },
+          "content": {
+            "context": "The Vrmac view is not a required trophy but a reward for choosing the right morning. If the path is dry and you still have energy, it shows how Tivat Bay is made of shore, marina, islands, and slopes.",
+            "lookFor": "The line of Tivat Bay below\nSveti Marko and Our Lady of Mercy islands\nThe marina as one small part of a larger shore\nLight on the water before the descent",
+            "practical": "Do not continue higher without a map, water, and a clear path. After rain or in heat, treat the village as the finish.",
+            "nextMove": "Return the same way or arrange transport from Gornja Lastva; do not descend on an unknown trail at dusk."
+          },
+          "id": "tivat-vrmac-lastva-5",
+          "guideId": "tivat-vrmac-lastva",
+          "order": 5
+        }
+      ]
+    }
+  ],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [
+    {
+      "entry": "museum hours",
+      "name": "Buca-Lukovic",
+      "nameLocal": "Ljetnikovac Buća Luković",
+      "note": "The stone courtyard shows Tivat before the marina",
+      "time": "35 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "summary": "Вт-вс 10:00-16:00",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "16:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Buca-Lukovic complex stands in the center beside Museum and Gallery Tivat. On this route it is not a long museum visit but a compact beginning: stone residence, courtyard, and cultural square before the yachts appear.",
+        "lookFor": "Stone tower and inner courtyard\nThe shift from square to low town streets\nCultural posters nearby\nShade in the courtyard if the day is already hot",
+        "practical": "The structured hours belong to Museum and Gallery Tivat, not every open space around it. The museum is closed on Mondays; check the institution website before going in.",
+        "nextMove": "Walk to the city park. It is a short flat move and useful before the open waterfront.",
+        "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+      },
+      "id": "tivat-first-day-core-1",
+      "guideId": "tivat-first-day-core",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "City Park",
+      "nameLocal": "Veliki gradski park",
+      "note": "Shade before the open waterfront",
+      "time": "25 min",
+      "walk": "6 min",
+      "photo": {
+        "id": "tivat-city-park-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tivat_-_gradski_park_01.jpg",
+        "alt": "Дорожка в городском парке Тивата",
+        "attribution": {
+          "author": "BuhaM",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_-_gradski_park_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The large city park sits between the center and the water. Early in the route it helps you check the pace: if it already feels hot, shorten the waterfront later instead of spending the whole day in open sun.",
+        "lookFor": "Tall trees and old paths\nGlimpses of water between branches\nPlaces to sit without ordering anything\nThe transition from park to sea line",
+        "practical": "After rain, paths can be slippery. In summer, do not skip this stop; Pine and the marina have less shade.",
+        "nextMove": "Drop down to Pine and keep close to the water; the rest of the route follows the bay line."
+      },
+      "id": "tivat-first-day-core-2",
+      "guideId": "tivat-first-day-core",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Pine Waterfront",
+      "nameLocal": "Pine",
+      "note": "The town line by the water",
+      "time": "35 min",
+      "walk": "10 min",
+      "content": {
+        "context": "Pine links the center with bay views and piers. Walk it slowly: Tivat does not open through one grand square, but through short changes of water, boats, cafes, park shade, and the former arsenal edge.",
+        "lookFor": "The piers and open bay horizon\nWhere town waterfront turns toward the marina\nThe school ship Jadran if it is moored nearby\nBenches in shade when they are free",
+        "practical": "In heat, do not stand long without shade. Wind on the water can change the temperature quickly, especially in the evening.",
+        "nextMove": "Continue along the water to Porto Montenegro without cutting inland; the transition stays easy to follow."
+      },
+      "id": "tivat-first-day-core-3",
+      "guideId": "tivat-first-day-core",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Porto Montenegro",
+      "note": "Modern marina on the old arsenal site",
+      "time": "45 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.433333,
+        "longitude": 18.691667
+      },
+      "photo": {
+        "id": "tivat-porto-montenegro-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+        "alt": "Марина Porto Montenegro с яхтами у причалов",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Porto Montenegro changes the scale of the walk: after the town waterfront come wider promenades, shop windows, yachts, and polished buildings. Read it as one new layer of Tivat, not as the whole city.",
+        "lookFor": "Masts cutting across the water view\nThe line between public promenade and private zones\nThe north edge closer to the museum\nHints of industrial memory near the new district",
+        "practical": "Do not expect every pier to be public. If the day is hot, use the marina as a short passage to the museum rather than an hour of browsing.",
+        "nextMove": "Move toward the north edge of Porto Montenegro; the Naval Heritage Museum sits away from the main promenade line."
+      },
+      "id": "tivat-first-day-core-4",
+      "guideId": "tivat-first-day-core",
+      "order": 4
+    },
+    {
+      "entry": "check hours",
+      "name": "Naval Heritage Museum",
+      "nameLocal": "Naval Heritage Museum",
+      "note": "Submarines and the memory of the arsenal",
+      "time": "50 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Naval Heritage Museum finishes the route where Tivat history becomes physical: machines, artifacts, and submarines recall the former arsenal. After the marina, it brings the walk back from shopping to work and sea engineering.",
+        "lookFor": "Submarines beside the museum\nLarge maritime equipment\nThe north edge of Porto Montenegro\nThe contrast between museum yard and new marina",
+        "practical": "The official page gives museum contact details, but you should confirm current hours before leaving. Some indoor areas and submarines may have access limits.",
+        "nextMove": "After the museum, return to Porto Montenegro for food or call a taxi from the north edge of the marina."
+      },
+      "id": "tivat-first-day-core-5",
+      "guideId": "tivat-first-day-core",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Porto North Edge",
+      "note": "Start where the marina gets quieter",
+      "time": "20 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The north edge of Porto Montenegro is a useful start: central noise is behind you and the shore toward Seljanovo begins almost immediately. It is easier here to shift from display marina to ordinary waterfront walk.",
+        "lookFor": "Masts against the mountains\nWhere the main marina promenade ends\nThe move toward a more residential shore\nPlaces where you can shorten the day early",
+        "practical": "Do not enter closed pier areas. If wind already feels unpleasant here, do not continue all the way to Opatovo.",
+        "nextMove": "Walk northwest toward Ponta Seljanovo, keeping to the streets closest to the water."
+      },
+      "id": "tivat-north-shore-1",
+      "guideId": "tivat-north-shore",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Ponta Seljanovo",
+      "nameLocal": "Ponta Seljanova",
+      "note": "Cape and beach edge after the marina",
+      "time": "35 min",
+      "walk": "15 min",
+      "coordinates": {
+        "latitude": 42.4392675,
+        "longitude": 18.6848074
+      },
+      "photo": {
+        "id": "tivat-ponta-seljanovo-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tivat_embankment_-_panoramio.jpg",
+        "alt": "Набережная Тивата у воды",
+        "attribution": {
+          "author": "Anton Nossik",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_embankment_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Ponta Seljanovo shows another Tivat shore: less formal marina, more water, beach edges, and local evening movement. It is a good decision point: continue north or keep the walk short.",
+        "lookFor": "Open bay angle\nBoats and small beach sections\nHow the sound changes after Porto Montenegro\nAny shade before the next stretch",
+        "practical": "Beach access and loungers depend on season and operator. Do not treat swimming here as a guaranteed part of the route.",
+        "nextMove": "Continue along the shore toward Donja Lastva; if sidewalk, heat, or wind is poor, take a short transport hop."
+      },
+      "id": "tivat-north-shore-2",
+      "guideId": "tivat-north-shore",
+      "order": 2
+    },
+    {
+      "entry": "as available",
+      "name": "Seljanovo Beaches",
+      "note": "Flexible water stop without a hard plan",
+      "time": "30 min",
+      "walk": "18 min",
+      "content": {
+        "context": "Beach sections between Seljanovo and Donja Lastva are best treated as flexible. Some days this is a swim and ice cream; other days it is only a waterfront passage if seasonal areas are crowded.",
+        "lookFor": "Where the shore remains public\nLow walls and water steps\nEasy child pauses without a long detour\nTree shade later in the day",
+        "practical": "Beach conditions change by season. Do not assume the same facilities on every section, and keep belongings close.",
+        "nextMove": "Move toward Donja Lastva and decide early whether you really want to continue to Opatovo."
+      },
+      "id": "tivat-north-shore-3",
+      "guideId": "tivat-north-shore",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Donja Lastva",
+      "nameLocal": "Donja Lastva",
+      "note": "Village shore instead of display windows",
+      "time": "40 min",
+      "walk": "20 min",
+      "coordinates": {
+        "latitude": 42.4445725,
+        "longitude": 18.6892569
+      },
+      "photo": {
+        "id": "tivat-donja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+        "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+        "attribution": {
+          "author": "ines lukic",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Donja Lastva returns the walk to a residential scale: low houses, shore passages, and less resort staging. After Seljanovo, slow down and decide whether you still have enough energy for the longer finish.",
+        "lookFor": "Old stone houses by the water\nSmall piers and boats\nViews back across Tivat Bay\nEvening light on Vrmac slopes",
+        "practical": "Do not enter private yards or piers. If dusk is close, finish here instead of continuing by momentum.",
+        "nextMove": "Walk to Opatovo only with good light and enough energy; otherwise end by the nearest stop or cafe."
+      },
+      "id": "tivat-north-shore-4",
+      "guideId": "tivat-north-shore",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Opatovo",
+      "nameLocal": "Opatovo",
+      "note": "Longer finish on the northern shore",
+      "time": "30 min",
+      "walk": "-",
+      "content": {
+        "context": "Opatovo is the finish if you wanted a real northern-shore walk rather than a short promenade. Do not force it: the value is ending calmly by the water, not checking one more name.",
+        "lookFor": "Quieter shore beyond Donja Lastva\nLong bay views\nPlaces to sit before returning\nTivat lights left behind you",
+        "practical": "Check return transport in advance. In the dark, do not continue along poorly lit sections.",
+        "nextMove": "Return by taxi or bus after checking the schedule; walk back only if you still have real energy."
+      },
+      "id": "tivat-north-shore-5",
+      "guideId": "tivat-north-shore",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Tivatska Solila",
+      "nameLocal": "Tivatska Solila",
+      "note": "Salt flats and birds need an early start",
+      "time": "60 min",
+      "walk": "15 min",
+      "coordinates": {
+        "latitude": 42.393611,
+        "longitude": 18.715278
+      },
+      "photo": {
+        "id": "tivat-solila-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Special_Nature_Reserve_%22Solila%22%2C_Montenegro_22.jpg",
+        "alt": "Солончаки природного резервата Тиватска Солила",
+        "attribution": {
+          "author": "Milica Buha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Special_Nature_Reserve_%22Solila%22,_Montenegro_22.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Tivatska Solila is a protected wetland on Tivat south side. On this route it is not a picnic park but a quiet observation place: water, salt, reeds, and open sky quickly change the scale of the city.",
+        "lookFor": "Flat salt basins\nReeds and shallow water\nBirds at a distance, without trying to get closer\nMountains beyond the airport side of the bay",
+        "practical": "Go early and stay on permitted paths. In heat there is very little shade; after rain some sections may be wet.",
+        "nextMove": "Continue to the observation area, or take transport toward Kalardovo if the sun is already strong."
+      },
+      "id": "tivat-solila-prevlaka-1",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Observation Area",
+      "note": "Watch quietly and keep distance",
+      "time": "35 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 42.3907412,
+        "longitude": 18.7119167
+      },
+      "content": {
+        "context": "The observation area keeps Solila from becoming only a through-walk. Stand for less time but watch better: birds, water, and wind are meant to be read from a distance, not chased for a close photo.",
+        "lookFor": "Lines of water and dry salt sections\nBirds through binoculars or camera zoom\nWind direction in the reeds\nWhere the path clearly asks you not to continue",
+        "practical": "Do not feed birds or make noise. If there is no shade and no water, shorten the stop instead of waiting for the perfect frame.",
+        "nextMove": "Next, move to Kalardovo: a shift from watching to resting by shallow water."
+      },
+      "id": "tivat-solila-prevlaka-2",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 2
+    },
+    {
+      "entry": "seasonal",
+      "name": "Kalardovo",
+      "nameLocal": "Kalardovo",
+      "note": "Beach pause by shallow water",
+      "time": "45 min",
+      "walk": "20 min",
+      "coordinates": {
+        "latitude": 42.4067972,
+        "longitude": 18.7129715
+      },
+      "content": {
+        "context": "Kalardovo works well after Solila: it lets you slow down, give children water and shade if conditions allow, and sit by the shore before Prevlaka. It does not have to be a swim.",
+        "lookFor": "Shallow water and open view\nA comfortable short-pause spot\nShade or shelter if available\nThe isthmus and island edge ahead",
+        "practical": "Beach services and access depend on season. Do not assume full summer facilities outside the main beach period.",
+        "nextMove": "Go or ride toward Miholjska Prevlaka if weather and road conditions are comfortable."
+      },
+      "id": "tivat-solila-prevlaka-3",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Miholjska Prevlaka",
+      "nameLocal": "Miholjska prevlaka",
+      "note": "The Island of Flowers reads through the causeway",
+      "time": "35 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.4060119,
+        "longitude": 18.7038111
+      },
+      "photo": {
+        "id": "tivat-miholjska-prevlaka-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/9/9c/MiholjskaPrevlaka.jpg",
+        "alt": "Остров Михольска Превлака в Тиватской бухте",
+        "attribution": {
+          "author": "Nikostrat",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MiholjskaPrevlaka.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Miholjska Prevlaka, known as the Island of Flowers, turns the route from nature into a coastal-history stop. The geography matters: a narrow passage, water on both sides, and the bay edge near the airport.",
+        "lookFor": "The causeway and low island line\nWater on both sides of the passage\nViews toward neighboring islands\nPlaces where the shore should not be trampled",
+        "practical": "Open sections heat up quickly in summer. Avoid closed or clearly monastic areas unless you have a reason to enter.",
+        "nextMove": "Walk quietly to the monastery edge; it is the final short stop of the route."
+      },
+      "id": "tivat-solila-prevlaka-4",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 4
+    },
+    {
+      "entry": "respectfully",
+      "name": "Monastery Edge",
+      "nameLocal": "Prevlaka",
+      "note": "Quiet finish by the Archangel ruins",
+      "time": "30 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4058,
+        "longitude": 18.7042
+      },
+      "photo": {
+        "id": "tivat-archangel-monastery-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Manastir_Arh_Mihaila1.jpg",
+        "alt": "Каменные руины монастыря Архангела Михаила на Превлаке",
+        "attribution": {
+          "author": "Фото",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manastir_Arh_Mihaila1.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The monastery side of Prevlaka ends the day more quietly than the beach. Ruins and church grounds remind you that this bay edge is not only nature and swimming but also a long religious place.",
+        "lookFor": "Stone fragments and low walls\nHow the church area separates from the beach mood\nWater views between trees\nEvening light on the islands",
+        "practical": "Keep quiet and dress appropriately for a religious place. If a service is underway or access is limited, stay outside.",
+        "nextMove": "Return to Tivat by preplanned transport; do not plan to walk back to the center."
+      },
+      "id": "tivat-solila-prevlaka-5",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 5
+    },
+    {
+      "entry": "museum hours",
+      "name": "Museum and Gallery",
+      "nameLocal": "JU Muzej i galerija Tivat",
+      "note": "Check hours before leaving",
+      "time": "45 min",
+      "walk": "3 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "summary": "Вт-вс 10:00-16:00",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "16:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "Museum and Gallery Tivat is the most reliable start for a rainy center route. It sits in the Buca-Lukovic complex, so even a short visit gives you indoor time and the old stone setting of the town.",
+        "lookFor": "How the exhibition space connects to the courtyard\nStone walls of the complex\nCurrent event posters\nWhere you can wait out a heavier shower",
+        "practical": "Official hours at the time checked: Tuesday-Sunday 10:00-16:00, Monday closed. For holidays and temporary shows, verify the institution website.",
+        "nextMove": "If rain is light, step into the Buca-Lukovic courtyard; if it is heavy, stay inside and shorten Pine.",
+        "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+      },
+      "id": "tivat-rainy-core-1",
+      "guideId": "tivat-rainy-core",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Buca-Lukovic Courtyard",
+      "nameLocal": "Ljetnikovac Buća Luković",
+      "note": "Short open passage between showers",
+      "time": "20 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "content": {
+        "context": "The Buca-Lukovic courtyard works better as a short passage than a long rainy stop. Look at the stone, tower, and cultural square, then move on if the paving is wet.",
+        "lookFor": "The residence tower\nStone edge of the courtyard\nWet paving after rain\nThe exit toward center and water",
+        "practical": "The paving can be slippery. Keep children close and do not block passages if an event is taking place.",
+        "nextMove": "Drop to Pine only for a short bay view, not for a full rainy promenade."
+      },
+      "id": "tivat-rainy-core-2",
+      "guideId": "tivat-rainy-core",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Pine In Rain",
+      "note": "Reach the water and decide quickly",
+      "time": "20 min",
+      "walk": "8 min",
+      "content": {
+        "context": "In this route Pine is not a long walk, but a weather check by the bay. Sometimes rain passes quickly and the waterfront becomes pleasant; sometimes wind makes it colder than the center.",
+        "lookFor": "How rain changes the bay color\nNearest shelter\nBenches after the shower\nWind direction along the water",
+        "practical": "Do not continue along open water if your shoes are already soaked. Wind can make a short rain feel worse by the bay.",
+        "nextMove": "Move into Porto Montenegro and choose covered passages or cafes over a long waterfront stretch."
+      },
+      "id": "tivat-rainy-core-3",
+      "guideId": "tivat-rainy-core",
+      "order": 3
+    },
+    {
+      "entry": "as available",
+      "name": "Covered Porto",
+      "note": "Shelter instead of open beach",
+      "time": "35 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.433333,
+        "longitude": 18.691667
+      },
+      "photo": {
+        "id": "tivat-porto-montenegro-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+        "alt": "Марина Porto Montenegro с яхтами у причалов",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "In rain, Porto Montenegro is useful for infrastructure rather than luxury: even paving, cafes, shops, and short covered sections near the water. It lets you wait out weather without a distant transfer.",
+        "lookFor": "Dry passages between buildings\nMasts through rain\nPlaces to step to the water for two minutes\nThe north direction toward the museum",
+        "practical": "Not every marina zone is public. With children, choose a toilet or food stop early instead of searching in the rain.",
+        "nextMove": "If the museum is open, continue to Naval Heritage Museum; otherwise finish here."
+      },
+      "id": "tivat-rainy-core-4",
+      "guideId": "tivat-rainy-core",
+      "order": 4
+    },
+    {
+      "entry": "check hours",
+      "name": "Naval Heritage Museum",
+      "note": "Indoor finish with maritime artifacts",
+      "time": "45 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Naval Heritage Museum is a good rainy finish when open: maritime equipment and submarines give adults and children something concrete to focus on. It is better than wandering the waterfront without a plan.",
+        "lookFor": "Large machines and maritime details\nSubmarines outside\nHow the museum sits at the north edge of the marina\nOld industrial memory under the new district",
+        "practical": "Confirm current hours and access to individual exhibits in advance. If it is closed, do not wait at the entrance in rain; return to Porto Montenegro.",
+        "nextMove": "End the day in Porto Montenegro or take a taxi from the north edge of the marina."
+      },
+      "id": "tivat-rainy-core-5",
+      "guideId": "tivat-rainy-core",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Donja Lastva",
+      "nameLocal": "Donja Lastva",
+      "note": "Shore start before the climb",
+      "time": "25 min",
+      "walk": "35 min",
+      "coordinates": {
+        "latitude": 42.4445725,
+        "longitude": 18.6892569
+      },
+      "photo": {
+        "id": "tivat-donja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+        "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+        "attribution": {
+          "author": "ines lukic",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Donja Lastva is the lower point of the route: from the water, you immediately understand the height you are about to gain. Check heat, water, and group energy before starting uphill.",
+        "lookFor": "Shore and boats before the hill\nVrmac slope above the village\nWhere the route leaves the water\nA short pause before climbing",
+        "practical": "Get water before leaving the shore. If it is already hot or someone is tired, stay with the Donja Lastva waterfront route.",
+        "nextMove": "Move toward the old road up the slope and keep a slow pace from the start."
+      },
+      "id": "tivat-vrmac-lastva-1",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Old Road",
+      "note": "The main height gain, without rushing",
+      "time": "45 min",
+      "walk": "20 min",
+      "content": {
+        "context": "The climb from the shore to Gornja Lastva is the most honest part of the route. There is no single major sight here; the value is changing air, angle on the bay, and the way villages sit on the slope.",
+        "lookFor": "Stone underfoot and dry turns\nHow the water drops lower with each stretch\nOlive trees and walls\nWhere to stop before you get tired",
+        "practical": "Do not go after heavy rain. If the path is wet or hard to read, turn back before the village rather than guessing a detour.",
+        "nextMove": "Continue to Gornja Lastva and take a real pause there before thinking about the higher view."
+      },
+      "id": "tivat-vrmac-lastva-2",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Gornja Lastva",
+      "nameLocal": "Gornja Lastva",
+      "note": "Stone village above the bay",
+      "time": "45 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 42.4539224,
+        "longitude": 18.7076121
+      },
+      "photo": {
+        "id": "tivat-gornja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gornja_Lastva.jpg",
+        "alt": "Горня Ластва на склоне над Тиватской бухтой",
+        "attribution": {
+          "author": "Master Sun Tzu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gornja_Lastva.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Gornja Lastva is the reason for the climb. The village shows Tivat without the marina: stone houses, narrow lanes, church, and views that appear between walls rather than on a prepared platform.",
+        "lookFor": "Stone facades and roofs\nLane turns with bay views\nQuiet areas without entering courtyards\nHow the village holds onto the slope",
+        "practical": "This is a lived-in place. Do not enter private yards or make noise near houses, even if streets seem empty.",
+        "nextMove": "Walk toward the church area or view street, but keep energy for the descent."
+      },
+      "id": "tivat-vrmac-lastva-3",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 3
+    },
+    {
+      "entry": "respectfully",
+      "name": "Lastva Church",
+      "nameLocal": "Crkva Rođenja Bogorodice",
+      "note": "Quiet stop before the view",
+      "time": "25 min",
+      "walk": "20 min",
+      "content": {
+        "context": "The church area of Gornja Lastva keeps the route from becoming only physical effort. Slow down, look at the stone and village quiet, then decide whether another uphill stretch still makes sense.",
+        "lookFor": "Stone church boundary\nViews between houses and trees\nOld paths around the village\nWhere to stand without bothering residents",
+        "practical": "Dress and behave appropriately for a religious place. If a service is underway or the area is closed, stay outside.",
+        "nextMove": "Continue toward the Vrmac view only in dry weather; if you are tired, turn around here."
+      },
+      "id": "tivat-vrmac-lastva-4",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 4
+    },
+    {
+      "entry": "weather only",
+      "name": "Vrmac View",
+      "nameLocal": "Vrmac",
+      "note": "Finish only on a dry path",
+      "time": "35 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.45,
+        "longitude": 18.72
+      },
+      "photo": {
+        "id": "tivat-sveti-marko-view-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+        "alt": "Вид на острова Свети Марко и Госпа од Милости",
+        "attribution": {
+          "author": "Dreizung",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Vrmac view is not a required trophy but a reward for choosing the right morning. If the path is dry and you still have energy, it shows how Tivat Bay is made of shore, marina, islands, and slopes.",
+        "lookFor": "The line of Tivat Bay below\nSveti Marko and Our Lady of Mercy islands\nThe marina as one small part of a larger shore\nLight on the water before the descent",
+        "practical": "Do not continue higher without a map, water, and a clear path. After rain or in heat, treat the village as the finish.",
+        "nextMove": "Return the same way or arrange transport from Gornja Lastva; do not descend on an unknown trail at dusk."
+      },
+      "id": "tivat-vrmac-lastva-5",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 5
+    }
+  ],
+  "packHash": "62b2e4d6b28c"
+}

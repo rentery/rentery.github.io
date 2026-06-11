@@ -1,0 +1,178 @@
+{
+  "id": "belgrade-new-belgrade",
+  "cityId": "belgrade",
+  "category": "Architecture",
+  "title": "New Belgrade",
+  "subtitle": "Usce / blocks / Genex",
+  "blurb": "Contemporary art, Usce Park, and modernist markers across New Belgrade.",
+  "mood": "Wide, modernist, transfer-based",
+  "accent": "#536E8A",
+  "soft": "#E1E7EF",
+  "deep": "#354B62",
+  "ink": "#2E4155",
+  "motif": "axis",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "4.5 km + transfers",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Left bank",
+    "line": "After the old center, the city opens wider."
+  },
+  "content": {
+    "intro": "New Belgrade is best understood as a change of scale. After the fortress and old center, you get broad axes, large buildings, a park by the river confluence, and postwar modernism. The route begins with the museum near Usce, then moves to exterior architectural landmarks.\n\nThis is not a route for entering every building. The Palace of Serbia, Sava Center, and Western City Gate are best treated as exterior views unless you have a specific reason to go inside. Use transport between points so the half-day does not turn into a long walk along major roads.",
+    "routeLogic": "Start with the Museum of Contemporary Art as a clear indoor point.\nUsce Park links the museum with the scale of the left bank.\nTreat the Palace of Serbia as an exterior landmark.\nSava Center and Genex need transfers, not a long walking link.",
+    "bestFor": "twentieth-century architecture\na repeat visit\nwide-avenue photos\na day with transport",
+    "notFor": "a first and only day\na walking-only plan\ntravelers looking for the old city",
+    "beforeYouGo": "Check Museum of Contemporary Art hours.\nDo not assume access to administrative buildings.\nUse transport between distant landmarks.",
+    "timing": "Morning works for the museum, while late day gives better light on exterior facades and the broad New Belgrade horizon.",
+    "fallbackPlan": "If the museum is closed, keep Usce Park and two exterior landmarks, then give the extra time to the riverside or fortress."
+  },
+  "stopList": [
+    {
+      "entry": "ticketed",
+      "name": "Museum of Contemporary Art",
+      "nameLocal": "Музеј савремене уметности",
+      "note": "Indoor start near Usce Park",
+      "time": "75 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 44.8195936,
+        "longitude": 20.442402
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "11:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "11:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "11:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "11:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "12:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "12:00",
+            "closes": "20:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Museum of Contemporary Art stands by Usce Park and opens the left bank well: art inside, and the open space of New Belgrade immediately outside. It starts the route without beginning on a major road.",
+        "lookFor": "The building form among the trees\nThe link between museum, park, and rivers\nPermanent and temporary exhibitions\nA calm move toward open Usce space",
+        "practical": "Closed on Tuesdays.\nThursday and Saturday hours differ.\nCheck exhibitions and tickets before going.",
+        "nextMove": "After the museum, step into Usce Park: it is a short move from galleries to the open scale of the district.",
+        "sourceNote": "Official museum hours checked on 2026-06-11."
+      },
+      "id": "belgrade-new-belgrade-1",
+      "guideId": "belgrade-new-belgrade",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Usce Park",
+      "nameLocal": "Парк Ушће",
+      "note": "Open bank between museum and city",
+      "time": "35 min",
+      "walk": "14 min",
+      "coordinates": {
+        "latitude": 44.8217387,
+        "longitude": 20.4327983
+      },
+      "content": {
+        "context": "Usce Park lies near the confluence of the Sava and Danube and gives New Belgrade air after the galleries. Here the route shifts to distances, views, and broad paths that separate the left bank from the old center.",
+        "lookFor": "Open lawns and long paths\nViews toward the fortress across the water\nThe broad riverside line\nContrast between park and large buildings nearby",
+        "practical": "Shade may be limited in heat.\nAfter rain, choose firm paths.\nLarge events can change movement through the park.",
+        "nextMove": "Continue toward the Palace of Serbia or use transport if you do not want to walk beside broad roads."
+      },
+      "id": "belgrade-new-belgrade-2",
+      "guideId": "belgrade-new-belgrade",
+      "order": 2
+    },
+    {
+      "entry": "exterior",
+      "name": "Palace of Serbia",
+      "nameLocal": "Палата „Србија”",
+      "note": "Administrative scale of New Belgrade",
+      "time": "20 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 44.8201846,
+        "longitude": 20.4276135
+      },
+      "content": {
+        "context": "The Palace of Serbia matters as an exterior landmark of New Belgrade: a large administrative building and its wide surrounding space show the postwar scale of the district. This route views it from outside.",
+        "lookFor": "The length of the facade and setback from the street\nAxes and open space around the building\nThe contrast with the dense old center\nPerspectives along broad roads nearby",
+        "practical": "Do not plan to enter without a separate invitation.\nPhotograph from public areas.\nCrossings around the building can take longer than they look.",
+        "nextMove": "It is better to travel to Sava Center, or walk only with good weather and spare time.",
+        "sourceNote": "This is used as an exterior architecture landmark; public entry is not stated here."
+      },
+      "id": "belgrade-new-belgrade-3",
+      "guideId": "belgrade-new-belgrade",
+      "order": 3
+    },
+    {
+      "entry": "exterior",
+      "name": "Sava Center",
+      "nameLocal": "Сава центар",
+      "note": "Congress icon after reconstruction",
+      "time": "20 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 44.8085,
+        "longitude": 20.4303
+      },
+      "content": {
+        "context": "Sava Center shows the business and congress layer of New Belgrade. After reconstruction, the building remains an important modernist landmark, but the route does not depend on entering it.",
+        "lookFor": "The large volume beside broad roads\nUpdated facade sections\nThe link with the business district\nScale that reads better from a distance",
+        "practical": "Go inside only if there is an event or open area.\nUse crossings rather than cutting across major roads.\nThere is little shade around the building in hot weather.",
+        "nextMove": "The final landmark is farther inside the blocks: travel to the Western City Gate.",
+        "sourceNote": "Sava Center is treated as an exterior landmark; check event schedules separately."
+      },
+      "id": "belgrade-new-belgrade-4",
+      "guideId": "belgrade-new-belgrade",
+      "order": 4
+    },
+    {
+      "entry": "exterior",
+      "name": "Western City Gate",
+      "nameLocal": "Западна капија Београда",
+      "note": "Genex towers as the final silhouette",
+      "time": "25 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 44.820277777,
+        "longitude": 20.404722222
+      },
+      "content": {
+        "context": "The Western City Gate, known as the Genex towers, gives the route a strong final silhouette. It is an exterior viewing point: the form, bridge between towers, and position among residential blocks are the point.",
+        "lookFor": "The two towers and top connecting volume\nConcrete facade texture\nNeighboring New Belgrade residential blocks\nHow the building works as a city sign on approach",
+        "practical": "View from public sidewalks.\nDo not assume a tourist interior visit.\nCheck transport or taxi options for the return.",
+        "nextMove": "End by the towers and return by transport; walking back to Usce is too long for this route.",
+        "sourceNote": "Coordinates checked with an open data source; public interior access is not stated."
+      },
+      "id": "belgrade-new-belgrade-5",
+      "guideId": "belgrade-new-belgrade",
+      "order": 5
+    }
+  ]
+}

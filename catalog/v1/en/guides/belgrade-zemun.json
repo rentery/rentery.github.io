@@ -1,0 +1,115 @@
+{
+  "id": "belgrade-zemun",
+  "cityId": "belgrade",
+  "category": "Zemun",
+  "title": "Zemun By Danube",
+  "subtitle": "Promenade / Gardos",
+  "blurb": "Danube promenade, old streets, and Gardos Tower in a separate half-day.",
+  "mood": "Riverside, slow, neighborhood-led",
+  "accent": "#547B6F",
+  "soft": "#E0EBE5",
+  "deep": "#37564E",
+  "ink": "#304B45",
+  "motif": "lane",
+  "duration": "Half-day",
+  "stops": 4,
+  "distance": "3 km",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "Other bank",
+    "line": "Belgrade becomes lower, quieter, and more river-bound."
+  },
+  "content": {
+    "intro": "Zemun deserves its own half-day rather than being added to Kalemegdan as an afterthought. By the Danube, the city changes scale: promenade, old streets, the climb to Gardos, and the tower make it feel like a city inside Belgrade.\n\nThe route is short but includes a climb. Start by the water, then move into the old streets and climb toward Gardos. Use the tower as a landmark and viewpoint, but check interior access separately.",
+    "routeLogic": "Begin by the Danube to feel the district immediately.\nUse Glavna Street as the shift from water to old Zemun.\nKeep the Gardos climb for the middle of the route.\nFinish at the tower so you do not climb twice.",
+    "bestFor": "a half-day away from the center\nriver and old streets\na walk with children\na slower pace",
+    "notFor": "heat without shade\na no-climb route\nstrong wind by the water",
+    "beforeYouGo": "Treat Zemun as a separate outing.\nLeave energy for the climb to Gardos.\nCheck the tower and cafe hours locally.",
+    "timing": "Go closer to evening: the promenade has softer light and the old streets are calmer after daytime heat.",
+    "fallbackPlan": "If the climb is not a good fit, keep the promenade and Glavna Street, and replace Gardos with lower-street views."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Zemun Promenade",
+      "nameLocal": "Кеј ослобођења",
+      "note": "The Danube sets the district pace",
+      "time": "45 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 44.8328897,
+        "longitude": 20.4201607
+      },
+      "content": {
+        "context": "Zemun Promenade shows the district from the Danube side: lower, wider, and calmer than central Belgrade. It is a strong start because Zemun should not feel like just a set of old streets.",
+        "lookFor": "The broad Danube line\nBoats and riverside cafes\nThe Gardos silhouette deeper in the district\nEvening light on the water",
+        "practical": "Wind by the water can be stronger than in the center.\nCafes keep their own hours.\nKeep children away from the promenade edge.",
+        "nextMove": "Leave the water for Glavna Street; the short move gently introduces old Zemun."
+      },
+      "id": "belgrade-zemun-1",
+      "guideId": "belgrade-zemun",
+      "order": 1
+    },
+    {
+      "entry": "as available",
+      "name": "Glavna Street",
+      "nameLocal": "Главна улица",
+      "note": "Old district between river and hill",
+      "time": "35 min",
+      "walk": "18 min",
+      "content": {
+        "context": "Glavna Street helps the route shift from the river to residential and commercial Zemun. The walk becomes neighborhood-led: windows, old facades, and side streets prepare you for the climb to Gardos.",
+        "lookFor": "Older facades and signs\nSide lanes leading toward the hill\nA cafe for a short stop\nA calmer rhythm than central Belgrade",
+        "practical": "Shops and cafes keep their own hours.\nThe street surface can be uneven.\nTake water before the Gardos climb.",
+        "nextMove": "Turn toward Gardos and gain height gradually, choosing streets without an unnecessary detour."
+      },
+      "id": "belgrade-zemun-2",
+      "guideId": "belgrade-zemun",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Gardos Hill",
+      "nameLocal": "Гардош",
+      "note": "The climb opens Zemun from above",
+      "time": "30 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 44.845833333,
+        "longitude": 20.405277777
+      },
+      "content": {
+        "context": "Gardos matters beyond the tower itself: the climb shows old Zemun in a denser and quieter way than the promenade. From here, the district reads as its own urban story by the Danube.",
+        "lookFor": "Height change above the river\nTile roofs and narrow streets\nQuiet stretches between cafes and homes\nFirst views toward the Danube",
+        "practical": "The climb can be tiring in heat.\nDo not enter private courtyards.\nAfter rain, steps and stones need attention.",
+        "nextMove": "Save the last few minutes of climbing for Gardos Tower and the viewpoint nearby."
+      },
+      "id": "belgrade-zemun-3",
+      "guideId": "belgrade-zemun",
+      "order": 3
+    },
+    {
+      "entry": "check access",
+      "name": "Gardos Tower",
+      "nameLocal": "Кула Гардош",
+      "note": "Final landmark above Zemun",
+      "time": "35 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 44.8483176,
+        "longitude": 20.4097307
+      },
+      "content": {
+        "context": "Gardos Tower, also known as the Millennium Tower, gathers the route into one landmark above old Zemun. Even without entering, the area around the tower gives a clear finish with views and height.",
+        "lookFor": "The tower as the district landmark\nViews over the Danube and Zemun roofs\nStone texture and open areas nearby\nThe route back down toward the water",
+        "practical": "Check current tower access separately.\nViewpoints can be windy.\nAfter dark, descend on lit streets.",
+        "nextMove": "Walk back down to the promenade or call transport closer to the old Zemun streets.",
+        "sourceNote": "Coordinates checked with an open map base; official tower hours are not confirmed."
+      },
+      "id": "belgrade-zemun-4",
+      "guideId": "belgrade-zemun",
+      "order": 4
+    }
+  ]
+}

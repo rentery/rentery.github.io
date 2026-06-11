@@ -1,0 +1,173 @@
+{
+  "id": "tivat-vrmac-lastva",
+  "cityId": "tivat",
+  "category": "Hills",
+  "title": "Climb To Lastva",
+  "subtitle": "Donja Lastva / Gornja Lastva",
+  "blurb": "Vrmac slope, stone village, and bay views without pretending it is an easy stroll.",
+  "mood": "Dry, early, uphill",
+  "accent": "#546B4D",
+  "soft": "#E2E8DE",
+  "deep": "#3E5138",
+  "ink": "#354831",
+  "motif": "ridge",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "6.0 km",
+  "pace": "day",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Bring energy",
+    "line": "Do it only in dry weather and start early."
+  },
+  "cover": {
+    "id": "tivat-vrmac-lastva-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-vrmac-lastva-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-vrmac-lastva-square.jpg",
+    "alt": "Каменная деревня на склоне Врмаца с видом на бухту"
+  },
+  "content": {
+    "intro": "This route is honestly about a climb. It starts at Donja Lastva, rises toward the old road on Vrmac slope, reaches Gornja Lastva, and gives you the bay from above.\n\nDo not use it as an easy alternative to the waterfront. You need dry weather, water, shoes with a real sole, and a willingness to return the same way or arrange transport from the village.",
+    "routeLogic": "Start at Donja Lastva shore to understand the height gain.\nOn the old road, move slowly and respect the heat.\nIn Gornja Lastva, pause at stone houses and the church.\nContinue to the view only if the path is dry and you still have energy.\nDecide the return in the village, not when tired higher up.",
+    "bestFor": "an active half-day\nbay views\nstone villages\ndry weather without rushing",
+    "notFor": "strollers\nheat after midday\nrain or wet paths\ntravelers unused to climbing",
+    "beforeYouGo": "Check weather, phone charge, and return transport. Do not start the climb without water and shoes that hold on stone.",
+    "timing": "Start in the morning. If it is after 10:00 in summer, take a taxi to Gornja Lastva and do only a short village walk.",
+    "fallbackPlan": "Take a taxi to Gornja Lastva, walk the village and view street, and leave the Vrmac path for a dry morning."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Donja Lastva",
+      "nameLocal": "Donja Lastva",
+      "note": "Shore start before the climb",
+      "time": "25 min",
+      "walk": "35 min",
+      "coordinates": {
+        "latitude": 42.4445725,
+        "longitude": 18.6892569
+      },
+      "photo": {
+        "id": "tivat-donja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+        "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+        "attribution": {
+          "author": "ines lukic",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Donja Lastva is the lower point of the route: from the water, you immediately understand the height you are about to gain. Check heat, water, and group energy before starting uphill.",
+        "lookFor": "Shore and boats before the hill\nVrmac slope above the village\nWhere the route leaves the water\nA short pause before climbing",
+        "practical": "Get water before leaving the shore. If it is already hot or someone is tired, stay with the Donja Lastva waterfront route.",
+        "nextMove": "Move toward the old road up the slope and keep a slow pace from the start."
+      },
+      "id": "tivat-vrmac-lastva-1",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Old Road",
+      "note": "The main height gain, without rushing",
+      "time": "45 min",
+      "walk": "20 min",
+      "content": {
+        "context": "The climb from the shore to Gornja Lastva is the most honest part of the route. There is no single major sight here; the value is changing air, angle on the bay, and the way villages sit on the slope.",
+        "lookFor": "Stone underfoot and dry turns\nHow the water drops lower with each stretch\nOlive trees and walls\nWhere to stop before you get tired",
+        "practical": "Do not go after heavy rain. If the path is wet or hard to read, turn back before the village rather than guessing a detour.",
+        "nextMove": "Continue to Gornja Lastva and take a real pause there before thinking about the higher view."
+      },
+      "id": "tivat-vrmac-lastva-2",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Gornja Lastva",
+      "nameLocal": "Gornja Lastva",
+      "note": "Stone village above the bay",
+      "time": "45 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 42.4539224,
+        "longitude": 18.7076121
+      },
+      "photo": {
+        "id": "tivat-gornja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gornja_Lastva.jpg",
+        "alt": "Горня Ластва на склоне над Тиватской бухтой",
+        "attribution": {
+          "author": "Master Sun Tzu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gornja_Lastva.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Gornja Lastva is the reason for the climb. The village shows Tivat without the marina: stone houses, narrow lanes, church, and views that appear between walls rather than on a prepared platform.",
+        "lookFor": "Stone facades and roofs\nLane turns with bay views\nQuiet areas without entering courtyards\nHow the village holds onto the slope",
+        "practical": "This is a lived-in place. Do not enter private yards or make noise near houses, even if streets seem empty.",
+        "nextMove": "Walk toward the church area or view street, but keep energy for the descent."
+      },
+      "id": "tivat-vrmac-lastva-3",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 3
+    },
+    {
+      "entry": "respectfully",
+      "name": "Lastva Church",
+      "nameLocal": "Crkva Rođenja Bogorodice",
+      "note": "Quiet stop before the view",
+      "time": "25 min",
+      "walk": "20 min",
+      "content": {
+        "context": "The church area of Gornja Lastva keeps the route from becoming only physical effort. Slow down, look at the stone and village quiet, then decide whether another uphill stretch still makes sense.",
+        "lookFor": "Stone church boundary\nViews between houses and trees\nOld paths around the village\nWhere to stand without bothering residents",
+        "practical": "Dress and behave appropriately for a religious place. If a service is underway or the area is closed, stay outside.",
+        "nextMove": "Continue toward the Vrmac view only in dry weather; if you are tired, turn around here."
+      },
+      "id": "tivat-vrmac-lastva-4",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 4
+    },
+    {
+      "entry": "weather only",
+      "name": "Vrmac View",
+      "nameLocal": "Vrmac",
+      "note": "Finish only on a dry path",
+      "time": "35 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.45,
+        "longitude": 18.72
+      },
+      "photo": {
+        "id": "tivat-sveti-marko-view-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+        "alt": "Вид на острова Свети Марко и Госпа од Милости",
+        "attribution": {
+          "author": "Dreizung",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Vrmac view is not a required trophy but a reward for choosing the right morning. If the path is dry and you still have energy, it shows how Tivat Bay is made of shore, marina, islands, and slopes.",
+        "lookFor": "The line of Tivat Bay below\nSveti Marko and Our Lady of Mercy islands\nThe marina as one small part of a larger shore\nLight on the water before the descent",
+        "practical": "Do not continue higher without a map, water, and a clear path. After rain or in heat, treat the village as the finish.",
+        "nextMove": "Return the same way or arrange transport from Gornja Lastva; do not descend on an unknown trail at dusk."
+      },
+      "id": "tivat-vrmac-lastva-5",
+      "guideId": "tivat-vrmac-lastva",
+      "order": 5
+    }
+  ]
+}

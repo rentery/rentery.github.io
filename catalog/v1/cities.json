@@ -4,8 +4,8 @@
     "slug": "beijing",
     "title": "Пекин",
     "subtitle": "Beijing · 北京 · 5 маршрутов",
-    "meta": "Китай · ось, дворцы, хутуны и длинные выезды",
-    "practicalNote": "Для длинных прогулок мягче всего апрель-май и сентябрь-октябрь. Летом выходите раньше и держите запас на дождь, зимой берите теплый слой; бронь Гугуна и проход на Тяньаньмэнь проверяйте до выхода из отеля.",
+    "meta": "Китай · имперская ось, хутуны, вечерние улицы и выезд к стене",
+    "practicalNote": "Весной и осенью легче ходить целый день; летом открытые площади быстро перегреваются и чаще идут сильные дожди, зимой холодно и ветрено. Перед выходом проверьте бронь Тяньаньмэнь, билет Гугуна и паспорт: в центре Пекина день чаще ломают не километры, а контроль и слоты.",
     "guideIds": [
       "axis",
       "hutong",
@@ -13,6 +13,16 @@
       "kids",
       "wall"
     ],
+    "coordinates": {
+      "latitude": 39.9075,
+      "longitude": 116.39723
+    },
+    "photo": {
+      "id": "beijing-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/beijing/beijing-hero-wide.jpg",
+      "alt": "Пекинская ось на рассвете: серые крыши, красная стена и дальние горы"
+    },
     "identity": {
       "accent": "#8F352B",
       "soft": "#F1E1DC",
@@ -20,7 +30,7 @@
       "ink": "#5D251F",
       "motif": "axis",
       "glyph": "京",
-      "hook": "Город имперской оси · с 1420"
+      "hook": "Имперская ось · дворцы завершены к 1420"
     },
     "timezone": "Asia/Shanghai",
     "countryId": "china"
@@ -30,8 +40,8 @@
     "slug": "seoul",
     "title": "Сеул",
     "subtitle": "Seoul · 서울 · 5 маршрутов",
-    "meta": "Республика Корея · дворцы, районы, рынки и река",
-    "practicalNote": "Лучше апрель-май и сентябрь-октябрь. Летом жарко и дождливо, зимой холодно; перед длинной прогулкой проверьте погоду и мелкую пыль.",
+    "meta": "Республика Корея · дворцы, холмы, рынки, музеи и Ханган",
+    "practicalNote": "Лучше планировать длинные прогулки на апрель-май или сентябрь-октябрь. Летом закладывайте жару, ливни и сезон тайфунов, зимой - холод; для уличных маршрутов утром сверяйте прогноз и мелкую пыль. Между Ханганом, Йонсаном, Намсаном и старым центром используйте метро или такси: пешие расстояния быстро становятся длиннее, чем выглядят на карте.",
     "guideIds": [
       "seoul-first-time",
       "seoul-old-city-walk",
@@ -39,16 +49,129 @@
       "seoul-calm-day",
       "seoul-river-views"
     ],
+    "coordinates": {
+      "latitude": 37.566,
+      "longitude": 126.9784
+    },
     "identity": {
       "accent": "#205E54",
       "soft": "#DDE9E4",
       "deep": "#16463E",
       "ink": "#143F38",
       "motif": "palace",
-      "glyph": "漢",
+      "glyph": "한",
       "hook": "Ханян стал столицей Чосон · 1394"
     },
     "timezone": "Asia/Seoul",
-    "countryId": "south-korea"
+    "countryId": "south-korea",
+    "photo": {
+      "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
+      "id": "seoul-hero",
+      "kind": "generated",
+      "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
+      "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+    }
+  },
+  {
+    "id": "belgrade",
+    "slug": "belgrade",
+    "title": "Белград",
+    "subtitle": "Belgrade · Београд · 5 маршрутов",
+    "meta": "Сербия · крепость, реки, Земун и модернизм",
+    "practicalNote": "В городских автобусах, трамваях, троллейбусах и BG Train проезд бесплатный с 2025 года. Для мелких покупок и рынков держите динары; вывески встречаются и кириллицей, и латиницей.",
+    "guideIds": [
+      "belgrade-first-day",
+      "belgrade-fortress-rivers",
+      "belgrade-museums-vracar",
+      "belgrade-zemun",
+      "belgrade-new-belgrade"
+    ],
+    "coordinates": {
+      "latitude": 44.80401,
+      "longitude": 20.46513
+    },
+    "identity": {
+      "accent": "#B4513A",
+      "soft": "#F0E2D7",
+      "deep": "#6C332D",
+      "ink": "#4C2C2A",
+      "motif": "axis",
+      "glyph": "БГ",
+      "hook": "Крепость на месте римского Сингидунума · I век н. э."
+    },
+    "timezone": "Europe/Belgrade",
+    "countryId": "serbia"
+  },
+  {
+    "id": "sarajevo",
+    "slug": "sarajevo",
+    "title": "Сараево",
+    "subtitle": "Sarajevo · 5 маршрутов",
+    "meta": "Босния и Герцеговина · старый базар, река, музеи и горы",
+    "practicalNote": "В центре переходы короткие, но брусчатка и подъемы быстро утомляют после дождя. Для Ilidža, Trebević и Tunnel of Hope проверяйте транспорт, канатку и часы в день поездки; держите немного наличных KM. За городом не сходите с асфальтированных или размеченных маршрутов из-за риска мин и неразорвавшихся боеприпасов.",
+    "guideIds": [
+      "sarajevo-first-day",
+      "sarajevo-old-lanes",
+      "sarajevo-river-museums",
+      "sarajevo-trebevic",
+      "sarajevo-ilidza"
+    ],
+    "coordinates": {
+      "latitude": 43.84864,
+      "longitude": 18.35644
+    },
+    "photo": {
+      "id": "sarajevo-sarajevo-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
+      "alt": "Sarajevo valley with river, old town, and mountains"
+    },
+    "identity": {
+      "accent": "#2F6D6C",
+      "soft": "#DDEAE6",
+      "deep": "#194B4D",
+      "ink": "#173F3F",
+      "motif": "axis",
+      "glyph": "SA",
+      "hook": "Османский центр у Миляцки · 1462"
+    },
+    "timezone": "Europe/Sarajevo",
+    "countryId": "bosnia-and-herzegovina"
+  },
+  {
+    "id": "tivat",
+    "slug": "tivat",
+    "title": "Тиват",
+    "subtitle": "Tivat · Тиват · 5 маршрутов",
+    "meta": "Черногория · бухта, марина, солончаки и склоны Врмаца",
+    "practicalNote": "Летом берег и Солила быстро перегреваются: ставьте открытые маршруты на утро или вечер. Автобусы, пляжный доступ и музейные часы сверяйте в день прогулки: часть мест живет по сезону. Для коротких оплат держите евро наличными, даже если в марине карты обычно проходят.",
+    "guideIds": [
+      "tivat-first-day-core",
+      "tivat-north-shore",
+      "tivat-solila-prevlaka",
+      "tivat-rainy-core",
+      "tivat-vrmac-lastva"
+    ],
+    "coordinates": {
+      "latitude": 42.43623,
+      "longitude": 18.69361
+    },
+    "identity": {
+      "accent": "#1F6F78",
+      "soft": "#DCEDEC",
+      "deep": "#144C53",
+      "ink": "#123F44",
+      "motif": "axis",
+      "glyph": "П",
+      "hook": "Арсенал изменил город · 1889"
+    },
+    "timezone": "Europe/Podgorica",
+    "countryId": "montenegro",
+    "photo": {
+      "id": "tivat-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
+      "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
+    }
   }
 ]

@@ -1,0 +1,141 @@
+{
+  "id": "belgrade-fortress-rivers",
+  "cityId": "belgrade",
+  "category": "Fortress",
+  "title": "Kalemegdan Rivers",
+  "subtitle": "Upper Town / Sava",
+  "blurb": "Fortress gates, river-confluence views, and a descent toward the Sava.",
+  "mood": "Scenic, historic, on foot",
+  "accent": "#7A5C3D",
+  "soft": "#EAE2D3",
+  "deep": "#54402D",
+  "ink": "#463728",
+  "motif": "ridge",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "3.4 km",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "Main view",
+    "line": "Fortress, park, and rivers in one pace."
+  },
+  "content": {
+    "intro": "Kalemegdan works best as both park and fortress. The gates give a historic entrance, the Upper Town holds the overview, and the terraces near the Victor open the main views toward the Sava and Danube. There is no single ticket for the whole outdoor area, but separate interior sites may keep their own schedules.\n\nGo in dry weather and avoid packing too many fortress museums into the walk. The main value is outside: walls, height changes, park shade, and the slow descent toward the water.",
+    "routeLogic": "Enter through the fortress gates instead of starting with the panorama.\nTreat the Upper Town as the historic core of the walk.\nUse the Roman Well as a nearby point, not as a guaranteed interior visit.\nLeave time for the Victor viewpoint.\nDescend to the Sava only if you still have energy.",
+    "bestFor": "river views\na walk with children\nhistory without a long museum\nlate-day light",
+    "notFor": "heavy rain or ice\na fully step-free route\ntravelers who dislike climbs",
+    "beforeYouGo": "Wear shoes for stone and packed ground.\nCheck separate interior sites before relying on them.\nBring water before entering the park in hot weather.",
+    "timing": "Late day gives the best light over the rivers, but with children it is easier to start earlier and keep the route shorter.",
+    "fallbackPlan": "If the weather turns, shorten the route to the gates, Upper Town, and the nearest viewpoint, then skip the descent to the Sava."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Stambol Gate",
+      "nameLocal": "Спољна Стамбол капија",
+      "note": "Fortress entry before the Upper Town",
+      "time": "20 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 44.8224088,
+        "longitude": 20.4521231
+      },
+      "content": {
+        "context": "The Outer Stambol Gate lets you begin the fortress with its defensive logic rather than the viewpoint. From here, walls, passages, and the gradual move from park into the Upper Town are easy to read.",
+        "lookFor": "Wall thickness around the gate\nPassage directions into the fortress\nStone and brick in different sections\nHow city noise fades near the entrance",
+        "practical": "The surface can be uneven.\nStones may be slippery after rain.\nGather groups away from the passage.",
+        "nextMove": "Continue into the Upper Town, following the main line toward the fortress terraces."
+      },
+      "id": "belgrade-fortress-rivers-1",
+      "guideId": "belgrade-fortress-rivers",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Belgrade Fortress",
+      "nameLocal": "Београдска тврђава",
+      "note": "Upper Town holds the main scale",
+      "time": "45 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 44.8235023,
+        "longitude": 20.4497649
+      },
+      "content": {
+        "context": "Belgrade Fortress stands above the place where the Sava meets the Danube. In this route it is the main historic section: walls, park paths, and viewing terraces combine into a clear map of the city.",
+        "lookFor": "Transitions between Upper and Lower Town\nWall lines above the rivers\nShade in Kalemegdan Park\nViews toward New Belgrade and Zemun",
+        "practical": "The outdoor area is open, but individual museums and towers have their own hours.\nIn winter or after rain, leave more time.\nKeep children close near wall edges.",
+        "nextMove": "Move toward the Roman Well area as a short nearby stop before the main viewpoint.",
+        "sourceNote": "Fortress description checked with Belgrade tourism material on 2026-06-11."
+      },
+      "id": "belgrade-fortress-rivers-2",
+      "guideId": "belgrade-fortress-rivers",
+      "order": 2
+    },
+    {
+      "entry": "check access",
+      "name": "Roman Well",
+      "nameLocal": "Римски бунар",
+      "note": "A point beside the fortress passages",
+      "time": "15 min",
+      "walk": "4 min",
+      "coordinates": {
+        "latitude": 44.8230824,
+        "longitude": 20.4481821
+      },
+      "content": {
+        "context": "The Roman Well sits inside the fortress circuit and works as a brief marker on the way to the views. Here it matters less as a guaranteed interior visit and more as a reminder of the fortress engineering story.",
+        "lookFor": "The entrance area and nearby stone passages\nHow the site is tucked inside the fortress\nThe move from enclosed spaces to open viewpoints",
+        "practical": "Check current access before planning to enter.\nDo not build the route around guaranteed interior access.\nIf it is closed, keep walking to the Victor.",
+        "nextMove": "From the well, continue to the Victor for the most recognizable fortress viewpoint.",
+        "sourceNote": "Map hours are treated as a candidate; check official interior access separately."
+      },
+      "id": "belgrade-fortress-rivers-3",
+      "guideId": "belgrade-fortress-rivers",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "The Victor",
+      "nameLocal": "Победник",
+      "note": "Main panorama over Sava and Danube",
+      "time": "25 min",
+      "walk": "18 min",
+      "coordinates": {
+        "latitude": 44.8230278,
+        "longitude": 20.4477064
+      },
+      "content": {
+        "context": "The Victor monument stands by the fortress viewpoint and immediately explains why Belgrade holds this hill. From here you can see the river confluence, islands, New Belgrade, and the direction of Zemun.",
+        "lookFor": "The Sava before it meets the Danube\nThe broad New Belgrade horizon\nIslands and riverbanks\nChanging light near sunset",
+        "practical": "Sunset can be crowded.\nKeep a safe distance near parapets.\nWind is stronger here than in the center.",
+        "nextMove": "If you have energy, descend toward the Sava and Beton Hala; otherwise return through the park toward Knez Mihailova."
+      },
+      "id": "belgrade-fortress-rivers-4",
+      "guideId": "belgrade-fortress-rivers",
+      "order": 4
+    },
+    {
+      "entry": "as available",
+      "name": "Beton Hala",
+      "nameLocal": "Бетон хала",
+      "note": "Riverside food after the fortress",
+      "time": "45 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 44.8198646,
+        "longitude": 20.4484311
+      },
+      "content": {
+        "context": "Beton Hala by the Sava gives the route an easy waterside finish. After walls and viewpoints, this is a convenient place for food or a drink before returning to the center or staying by the river.",
+        "lookFor": "The Sava after the descent\nA long row of restaurants in a former warehouse volume\nEvening movement along the promenade\nA backward view toward the fortress slope",
+        "practical": "Venues keep their own hours.\nCheck prices and menus before ordering.\nThe descent from the fortress can feel tiring in heat.",
+        "nextMove": "End the route by the river or climb back toward the center if you need transport and more light."
+      },
+      "id": "belgrade-fortress-rivers-5",
+      "guideId": "belgrade-fortress-rivers",
+      "order": 5
+    }
+  ]
+}

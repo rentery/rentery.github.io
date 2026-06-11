@@ -2,9 +2,9 @@
   "id": "beijing",
   "slug": "beijing",
   "title": "Beijing",
-  "subtitle": "Beijing - 5 routes",
-  "meta": "China - axis, palaces, hutongs, and long day trips",
-  "practicalNote": "April-May and September-October are gentler for long walks. In summer, start earlier and leave room for rain; in winter, bring a warm layer. Check Palace Museum booking and Tiananmen access before leaving the hotel.",
+  "subtitle": "Beijing · 北京 · 5 routes",
+  "meta": "China · imperial axis, hutongs, evening streets, and a Great Wall day",
+  "practicalNote": "Spring and autumn are easier for full walking days. Summer heats open squares quickly and brings heavy rain; winter is cold and windy. Before leaving, check Tiananmen booking, the Palace Museum ticket, and the passport used for reservation: in central Beijing, access checks break the day more often than distance.",
   "guideIds": [
     "axis",
     "hutong",
@@ -12,6 +12,16 @@
     "kids",
     "wall"
   ],
+  "coordinates": {
+    "latitude": 39.9075,
+    "longitude": 116.39723
+  },
+  "photo": {
+    "id": "beijing-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/beijing/beijing-hero-wide.jpg",
+    "alt": "Пекинская ось на рассвете: серые крыши, красная стена и дальние горы"
+  },
   "identity": {
     "accent": "#8F352B",
     "soft": "#F1E1DC",
@@ -19,7 +29,7 @@
     "ink": "#5D251F",
     "motif": "axis",
     "glyph": "京",
-    "hook": "Imperial axis city - since 1420"
+    "hook": "Imperial axis · palaces completed by 1420"
   },
   "timezone": "Asia/Shanghai",
   "countryId": "china"

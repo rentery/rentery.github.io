@@ -3,9 +3,9 @@
     "id": "beijing",
     "slug": "beijing",
     "title": "Beijing",
-    "subtitle": "Beijing - 5 routes",
-    "meta": "China - axis, palaces, hutongs, and long day trips",
-    "practicalNote": "April-May and September-October are gentler for long walks. In summer, start earlier and leave room for rain; in winter, bring a warm layer. Check Palace Museum booking and Tiananmen access before leaving the hotel.",
+    "subtitle": "Beijing · 北京 · 5 routes",
+    "meta": "China · imperial axis, hutongs, evening streets, and a Great Wall day",
+    "practicalNote": "Spring and autumn are easier for full walking days. Summer heats open squares quickly and brings heavy rain; winter is cold and windy. Before leaving, check Tiananmen booking, the Palace Museum ticket, and the passport used for reservation: in central Beijing, access checks break the day more often than distance.",
     "guideIds": [
       "axis",
       "hutong",
@@ -13,6 +13,16 @@
       "kids",
       "wall"
     ],
+    "coordinates": {
+      "latitude": 39.9075,
+      "longitude": 116.39723
+    },
+    "photo": {
+      "id": "beijing-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/beijing/beijing-hero-wide.jpg",
+      "alt": "Пекинская ось на рассвете: серые крыши, красная стена и дальние горы"
+    },
     "identity": {
       "accent": "#8F352B",
       "soft": "#F1E1DC",
@@ -20,7 +30,7 @@
       "ink": "#5D251F",
       "motif": "axis",
       "glyph": "京",
-      "hook": "Imperial axis city - since 1420"
+      "hook": "Imperial axis · palaces completed by 1420"
     },
     "timezone": "Asia/Shanghai",
     "countryId": "china"
@@ -33,8 +43,8 @@
       "category": "Classic",
       "title": "Beijing Axis",
       "subtitle": "Tiananmen / Palace Museum / Jingshan",
-      "blurb": "Walk from Tiananmen through the Palace Museum to Jingshan, and save energy for the climb to the view.",
-      "mood": "Early start, entry checks, and a long palace walk",
+      "blurb": "Walk the main axis from the square to the northern view without chasing every side court.",
+      "mood": "Early start, security checks, and a long palace passage",
       "accent": "#9C3B2E",
       "soft": "#F2E4DF",
       "deep": "#7A2C22",
@@ -46,79 +56,99 @@
       "pace": "day",
       "kids": false,
       "microcopy": {
-        "kicker": "Start in the morning",
-        "line": "Before you leave, check the square slot, Palace Museum ticket, and passport."
+        "kicker": "Book before leaving",
+        "line": "Check passport, square slot, and Palace Museum ticket while still at the hotel."
       },
       "content": {
-        "intro": "Start early at Tiananmen and move north: the square, Meridian Gate, the main Palace Museum line, the garden, and Jingshan Hill. Inside the palace, do not try to cover every side court. Keep to the central line and add detours only if you still have energy.\n\nThe hard part here is access and control points. Keep your passport separate from your bag, check the Palace Museum booking in advance, and avoid tight plans after Jingshan: checks and crowds can take an extra hour.",
-        "routeLogic": "At the square, watch where the flow moves north.\nAt Meridian Gate, check documents before joining a queue.\nInside the Palace Museum, follow the central line and take side courts only if you have energy.\nIn the garden, move toward the north exit without extra loops.\nClimb Jingshan if you still have 45-60 minutes and visibility is not poor.",
-        "bestFor": "a first day with bookings already arranged\nmornings without fixed meetings after the route\ntravelers who want to cross the center on foot and finish above the roofs",
-        "notFor": "the day after a long flight\nheat, heavy rain, or dense smog\nwhen you do not have Palace Museum booking or clear Tiananmen access",
-        "beforeYouGo": "For long walking days, choose April-May or September-October when possible.\nIn July-August, start earlier: open squares heat up quickly.\nThe Forbidden City is closed on Mondays except holidays; book under your real name and bring the original passport.\nCheck Tiananmen access in the morning before leaving the hotel.",
-        "timing": "Start in the morning. Leave time for the square and security checks, cross the Palace Museum before late day, and keep at least 45-60 minutes for Jingshan.",
-        "fallbackPlan": "If the square is closed for passage, start from an allowed approach to Meridian Gate. If you cannot enter the Palace Museum, do not spend the day at ticket windows: move the palace to another day, go to Jingshan, and walk around the north gates."
+        "intro": "Move through the center from south to north: Tiananmen Square, Meridian Gate, the Palace Museum courts, the northern garden exit, and Jingshan Hill. This is not a day for every side hall. The point is the straight movement along the axis and the view from above at the end.\n\nThe main risk is access. Tiananmen runs on slots and checks, the Palace Museum needs a real-name document, and your legs may tire before the map does. Do not place a fixed evening booking in another district.",
+        "routeLogic": "At the square, first find the permitted entrance and the flow moving north.\nAt Meridian Gate, check ticket and passport before queuing.\nInside the Palace Museum, keep to the central line and add side courts only if you still have energy.\nAt the northern exit, do not backtrack for one last photo.\nClimb Jingshan if you have 45-60 minutes and decent visibility.",
+        "bestFor": "a first day with bookings already arranged\nan unhurried morning after breakfast\ntravelers who want to understand the old center on foot",
+        "notFor": "the day after a long flight\nheat, heavy rain, or poor visibility\nwhen you do not have Palace Museum booking or clear square access",
+        "beforeYouGo": "Check your Tiananmen slot, Palace Museum ticket, and the document used for booking.\nThe Palace Museum closes on Mondays except public holidays and is not a place to solve tickets at the gate.\nIn July-August, start earlier: the square and palace courts heat up quickly.",
+        "timing": "Start in the morning. Leave spare time for the square and security checks, cross the Palace Museum before late day, and keep Jingshan as a short finish rather than a second full park.",
+        "fallbackPlan": "If the square is closed for passage, use an allowed approach toward Meridian Gate. If you cannot enter the Palace Museum, do not wait at the ticket area: move the palace to another day, climb Jingshan, and walk around the north gates."
       },
       "stopList": [
         {
-          "entry": "check access",
+          "entry": "slot and passport",
           "name": "Tiananmen Square",
-          "note": "Check slot and passport before leaving",
+          "nameLocal": "天安门广场",
+          "note": "Find the entrance and security queue first",
           "time": "45-75 min",
-          "walk": "15 min",
+          "walk": "15 min to Meridian Gate",
+          "coordinates": {
+            "latitude": 39.9023598,
+            "longitude": 116.3914649
+          },
           "content": {
-            "context": "Do not linger on the square for every detail. First find the entrance, see how the flow moves north, and judge the security queue. A quick move toward the Palace Museum can fall apart here, so keep time in reserve.",
-            "lookFor": "Flow moving north\nView toward Tiananmen Gate\nSecurity queues",
-            "practical": "Keep your passport separate from your bag.\nCheck access rules on the morning of the visit.\nIn heat, do not stay on the open square longer than needed.",
-            "nextMove": "Move to the north side and continue toward Meridian Gate without drifting into side streets.",
-            "sourceNote": "Access rules and square reservation slots can change; check the official process before leaving."
+            "context": "Do not start by inspecting every monument on the square. First understand where entry is allowed today, how the flow moves, and how long security is taking. That decides whether you reach Meridian Gate without an extra loop.",
+            "lookFor": "Flow toward the north side\nView of Tiananmen Gate\nQueues and barriers at security",
+            "practical": "Keep your passport separate from your bag.\nCheck slot and access rules on the day.\nIn heat, do not stay on the open square longer than needed.",
+            "nextMove": "Move to the north side of the square and continue toward Meridian Gate without drifting into side streets.",
+            "sourceNote": "Square access depends on slots, checks, and city events; check the official process before leaving."
           },
           "id": "axis-1",
           "guideId": "axis",
           "order": 1
         },
         {
-          "entry": "reservation only",
+          "entry": "Palace booking",
           "name": "Meridian Gate",
-          "note": "Check your ticket before queuing",
+          "nameLocal": "午门",
+          "note": "Check ticket and document before queuing",
           "time": "20-40 min",
-          "walk": "10 min",
+          "walk": "10 min to first courts",
+          "coordinates": {
+            "latitude": 39.9121168,
+            "longitude": 116.3915912
+          },
           "content": {
-            "context": "At Meridian Gate, step aside from the flow and check your ticket, passport, and correct entrance. Joining the wrong queue can drain energy before you even reach the palace courts.",
-            "lookFor": "High wall before the entrance\nQueues for checks\nSigns for the entry route",
-            "practical": "The original passport is needed at entry.\nBooking must be arranged in advance.\nDo not count on buying a same-day ticket on site.",
-            "nextMove": "After entry, keep to the central line toward the main halls and leave side courts for spare time only.",
-            "sourceNote": "Palace Museum booking rules need a current check before the visit."
+            "context": "At Meridian Gate, step out of the flow for a minute and check your ticket, document, and correct entrance. Joining the wrong queue is painful here: the palace has not begun, and the check has already taken energy.",
+            "lookFor": "The high red wall before entry\nSigns for the entry route\nDocument-check queues",
+            "practical": "The original document is needed at entry.\nThe ticket must be booked in advance under the real name.\nDo not expect to solve same-day ticketing at the gate.",
+            "nextMove": "After entry, keep to the central line toward the main halls and save side courts for later.",
+            "sourceNote": "Palace Museum ticketing and document rules need a current check before visiting."
           },
           "id": "axis-2",
           "guideId": "axis",
           "order": 2
         },
         {
-          "entry": "book ahead",
-          "name": "Forbidden City",
-          "note": "Follow the main line and save energy",
+          "entry": "booking only",
+          "name": "Palace Museum",
+          "nameLocal": "故宫博物院",
+          "note": "Follow the central line and save your legs",
           "time": "2.5-4 h",
-          "walk": "20 min",
+          "walk": "20 min to north exit",
+          "coordinates": {
+            "latitude": 39.9174311,
+            "longitude": 116.3907817
+          },
           "content": {
-            "context": "Inside the Forbidden City, move from gates to halls along the main line and look back often: the repeating courts read best while you are walking. Choose side areas only while you still have time and legs.",
-            "lookFor": "Sequence of gates\nRaised hall platforms\nRoof details and ridge beasts",
-            "practical": "The museum is closed on Mondays except holidays.\nShorten the route if it is hot or crowds are dense.\nDo not try to enter every side courtyard.",
-            "nextMove": "Move toward the north of the complex and exit through the garden so you do not backtrack."
+            "context": "Inside the Palace Museum, movement matters more than a list of halls. Walk from gates to platforms along the main axis, look back often, and add side courts only while you still have time and legs.",
+            "lookFor": "Repeating gates and courts\nRaised platforms of the main halls\nRoof ridge beasts\nWhere crowds thin at side passages",
+            "practical": "The museum closes on Mondays except holidays.\nHeat and tour groups tire you quickly in open courts.\nDo not plan to cover every side hall in one day.",
+            "nextMove": "Move north through the garden area and exit toward the Gate of Divine Might."
           },
           "id": "axis-3",
           "guideId": "axis",
           "order": 3
         },
         {
-          "name": "Imperial Garden",
-          "note": "A north-exit passage without extra loops",
+          "name": "Northern Garden Exit",
+          "nameLocal": "御花园",
+          "note": "Do not add a loop before leaving",
           "time": "25-45 min",
-          "walk": "10 min",
+          "walk": "10 min to Jingshan",
+          "coordinates": {
+            "latitude": 39.9200394,
+            "longitude": 116.3901814
+          },
           "content": {
-            "context": "After the large courts, the garden brings rocks, old trees, and narrow passages. If it is crowded, do not stop at the most famous stones. Move to the edges, look at the pavilions, and keep your direction toward the north exit.",
-            "lookFor": "Artificial rocks\nOld cypress trees\nPavilions among narrow paths",
-            "practical": "In crowds, avoid stopping at the most popular rocks.\nIf you are tired, head to the north exit without side loops.\nTake photos at the edges, not in the middle of the flow.",
-            "nextMove": "Exit through the north gate and cross into Jingshan Park."
+            "context": "After the large courts, the garden and northern exit compress the scale: rocks, old trees, narrow paths, and a quick way out. If people jam around the famous stones, move to the edges and keep your direction north.",
+            "lookFor": "Artificial rocks\nOld cypress trees\nPavilions between narrow paths\nThe way out to Shenwumen",
+            "practical": "Take photos at the edges, not in the middle of the flow.\nIf you are tired, go straight to the exit.\nDo not return south for one last shot.",
+            "nextMove": "Exit through the northern gate and cross into Jingshan Park."
           },
           "id": "axis-4",
           "guideId": "axis",
@@ -127,14 +157,19 @@
         {
           "entry": "park ticket",
           "name": "Jingshan Park",
-          "note": "Climb only if you have energy and visibility",
+          "nameLocal": "景山公园",
+          "note": "Climb only with energy and visibility",
           "time": "45-75 min",
           "walk": "-",
+          "coordinates": {
+            "latitude": 39.9244135,
+            "longitude": 116.3903832
+          },
           "content": {
-            "context": "Jingshan stands just behind the Palace Museum north gates. The climb is short, but after the palace it feels heavier than it looks on the map. Go slowly and pause on platforms if your legs are already tired.",
-            "lookFor": "View over the Forbidden City roofs\nThe straight axis to the south\nThe pavilion at the top",
-            "practical": "Sunset brings more people.\nSteps can be slippery after rain.\nIf visibility is poor, climb only if you still want a short final push.",
-            "nextMove": "After descending, take the metro or a taxi; walking to another district would be an extra haul."
+            "context": "Jingshan sits just behind the Palace Museum north gate. The climb is short, but after the palace it feels steeper than it looks on the map; from the top, the axis and roofs fall into one clear line.",
+            "lookFor": "Roofs of the Palace Museum from above\nThe straight axis to the south\nThe summit pavilion\nVisibility over the city",
+            "practical": "Sunset brings more people.\nSteps can be slippery after rain.\nIf visibility is poor, climb only if you want a short final push.",
+            "nextMove": "After descending, take metro or taxi. Walking to another district is extra strain."
           },
           "id": "axis-5",
           "guideId": "axis",
@@ -147,9 +182,9 @@
       "cityId": "beijing",
       "category": "Old City",
       "title": "Hutongs And Lakes",
-      "subtitle": "Shichahai / towers / Wudaoying",
-      "blurb": "Walk from Prince Kung Mansion to the lakes, towers, and Wudaoying, cutting noisy stretches through side lanes.",
-      "mood": "Alleys, water, and frequent choices on the ground",
+      "subtitle": "Prince Kung / Shichahai / towers",
+      "blurb": "Start with princely courtyards, then move to water, towers, and quieter turns.",
+      "mood": "Courtyards, lakes, narrow streets, and weather choices",
       "accent": "#4E6E73",
       "soft": "#E2EAEA",
       "deep": "#34504F",
@@ -157,34 +192,40 @@
       "motif": "lane",
       "duration": "Day",
       "stops": 5,
-      "distance": "6-8 km",
+      "distance": "5-7 km",
       "pace": "day",
       "kids": false,
       "microcopy": {
-        "kicker": "Turn quieter",
-        "line": "Slow down at doors and corners, and cut ordinary long stretches."
+        "kicker": "Cut the noise",
+        "line": "If the lake or lanes are packed, use a parallel street or a short ride."
       },
       "content": {
-        "intro": "Start at Prince Kung Mansion, then continue to Shichahai, Yandai Xiejie, the Drum and Bell Towers, and Wudaoying. Do not chase kilometers: slow down at doors, old trees, and side passages, and cut long ordinary stretches when needed.\n\nIf heat, rain, or lake crowds break the rhythm, use the metro or DiDi between Shichahai and the towers. Not every hutong street is beautiful; pass noisy stretches without regret and look for quieter parallel lanes.",
-        "routeLogic": "At the mansion, see the courtyards and garden before entering the lanes.\nAt Shichahai, walk the shore only where it is not too tight.\nUse Yandai Xiejie as a short passage, not required shopping.\nAt the towers, decide whether to climb based on energy and visibility.\nFinish in Wudaoying where it is easy to reach metro or taxi.",
-        "bestFor": "the day after palaces and museums\nold lanes, water, and short pauses\nphotos along the way without a heavy museum plan",
-        "notFor": "travelers who need even sidewalks all day\nheavy rain\ncrowds in narrow streets",
-        "beforeYouGo": "For a long walk, choose April-May or September-October when possible.\nIn summer, move long walking stretches to morning or evening.\nOn weekends the lakes and Yandai Xiejie are tighter; keep parallel lanes in mind.",
-        "timing": "Start before lunch at Prince Kung Mansion. Reach the lakes when you want open air, leave the towers for the moment you need orientation, and end in Wudaoying as a calmer pre-dinner finish.",
-        "fallbackPlan": "If the lanes wear you down, take a taxi from Shichahai to the towers. In heavy rain, keep only the mansion, a covered meal, and a short walk by the water."
+        "intro": "This day shows the northern old center without the weight of a palace day: Prince Kung Mansion, the Shichahai edge, Yandai Xiejie, the Drum Tower, and Wudaoying. Slow down where there are doors, old trees, and water, but do not make every lane mandatory.\n\nCrowds by the lakes, heat, and rain can break the rhythm. If the stretch from Shichahai to Wudaoying becomes tiring, do not push through; metro or DiDi will protect the evening better than two more ordinary kilometers.",
+        "routeLogic": "At Prince Kung Mansion, walk courtyards and garden before entering the lanes.\nAt Shichahai, choose the shore by shade and crowd density.\nUse Yandai Xiejie as a short passage toward the towers.\nAt the Drum Tower, decide whether the climb is worth it.\nFinish in Wudaoying where metro or taxi is easy.",
+        "bestFor": "the day after palaces\nold streets, water, and short stops\nphotos along the way without a heavy museum plan",
+        "notFor": "travelers who need even sidewalks all day\nheavy rain\nwhen narrow-street crowds irritate you quickly",
+        "beforeYouGo": "Check Prince Kung Mansion hours and closed day.\nWeekends are tighter around the lakes and Yandai Xiejie.\nIn summer, move long walking stretches to morning or evening; in rain, keep a cafe or metro option nearby.",
+        "timing": "Start before lunch at Prince Kung Mansion. Reach the lakes when you want open air, leave the tower for orientation, and keep Wudaoying as a calmer finish before dinner.",
+        "fallbackPlan": "If the lanes wear you down, take metro or taxi from Shichahai toward Wudaoying. In heavy rain, keep Prince Kung Mansion, a short lake edge, and a covered meal nearby."
       },
       "stopList": [
         {
-          "entry": "check ticket",
+          "entry": "book ahead",
           "name": "Prince Kung Mansion",
+          "nameLocal": "恭王府",
           "note": "Start with courtyards and garden",
           "time": "1.5-2 h",
-          "walk": "12 min",
+          "walk": "12 min to water",
+          "coordinates": {
+            "latitude": 39.9358282,
+            "longitude": 116.3798006
+          },
           "content": {
-            "context": "Inside the mansion, walk the courtyards first, then the garden and rocks. The neighboring hutongs make more sense after that. If tour groups crowd the narrow passages, do not stand behind them; move through the garden edges.",
-            "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open spaces",
-            "practical": "Morning works best.\nIt is easy to stay longer than planned.\nIf dense groups block the way, use the garden edges.",
-            "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets."
+            "context": "Inside Prince Kung Mansion, walk the courtyards first, then the garden and rocks. After that, the neighboring hutongs feel less random and more like a continuation of the old city. If groups block a narrow passage, use the garden edges.",
+            "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open space\nWhere groups block the way",
+            "practical": "The museum closes on Mondays except holidays.\nTickets are sold ahead through official channels.\nDo not stand behind a dense group in a narrow passage.",
+            "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets.",
+            "sourceNote": "Prince Kung Mansion has hours, a closed day, and advance ticketing; check the official channel before visiting."
           },
           "id": "hutong-1",
           "guideId": "hutong",
@@ -192,14 +233,19 @@
         },
         {
           "name": "Shichahai",
-          "note": "Stay by the water until it gets tight",
-          "time": "1-1.5 h",
-          "walk": "10 min",
+          "nameLocal": "什刹海",
+          "note": "Stay by the shore only while it is not tight",
+          "time": "45-75 min",
+          "walk": "10 min to Yandai",
+          "coordinates": {
+            "latitude": 39.9359528,
+            "longitude": 116.3900647
+          },
           "content": {
-            "context": "At Shichahai, walk along the shore and choose the side by shade and crowd density. If the waterfront gets loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
-            "lookFor": "Bridges and reflections\nCourtyard entrances near the water\nContrast between bars and residential alleys",
-            "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nUse side streets when you need a break from the crowd.",
-            "nextMove": "Continue toward Yandai Xiejie, but do not stop at every shop."
+            "context": "At Shichahai, choose your side by shade, wind, and crowd density. If the waterfront is loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
+            "lookFor": "Bridges and reflections\nCourtyard entrances near water\nThe shift between bars and residential lanes\nWhere the shore gets too tight",
+            "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nThe edge can be slippery after rain.",
+            "nextMove": "Continue toward Yandai Xiejie, but do not turn the street into a long shopping stop."
           },
           "id": "hutong-2",
           "guideId": "hutong",
@@ -207,13 +253,18 @@
         },
         {
           "name": "Yandai Xiejie",
+          "nameLocal": "烟袋斜街",
           "note": "Pass through briefly without shopping pressure",
           "time": "30-50 min",
-          "walk": "10 min",
+          "walk": "10 min to towers",
+          "coordinates": {
+            "latitude": 39.9376501,
+            "longitude": 116.3886058
+          },
           "content": {
-            "context": "Yandai Xiejie is short and often packed. Treat it as the passage from water to towers: notice the bend of the street, older facades between signs, and side hutongs if the flow stops.",
-            "lookFor": "The curve of the street\nOlder facades among shop signs\nPassages into side hutongs",
-            "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness, not just the sign.\nIf the street is overloaded, use parallel lanes.",
+            "context": "Yandai Xiejie is short and often dense. Notice the bend of the street, older facades between signs, and side hutong passages, but move on if the flow stops.",
+            "lookFor": "The curve of the street\nOlder facades among shop signs\nSide passages\nWhere you can leave the crowd",
+            "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness.\nIf the street is overloaded, use parallel lanes.",
             "nextMove": "Head toward the Drum and Bell Towers as the next large landmark."
           },
           "id": "hutong-3",
@@ -223,14 +274,20 @@
         {
           "entry": "check climb",
           "name": "Drum Tower",
+          "nameLocal": "鼓楼",
           "note": "Decide on the spot whether to climb",
           "time": "45-75 min",
-          "walk": "20 min",
+          "walk": "20 min to Wudaoying",
+          "coordinates": {
+            "latitude": 39.9393176,
+            "longitude": 116.3897454
+          },
           "content": {
-            "context": "At the Drum and Bell Towers, stop on the square and check the map: water stays south, hutongs surround you, and Wudaoying is farther east. Climb only if visibility is decent and you have enough energy.",
-            "lookFor": "Silhouettes of the two towers\nThe square between streets\nViews over low roofs",
-            "practical": "The climb can be steep.\nIn poor visibility, the view matters less.\nIf you are tired, keep to the square and move on to food or metro.",
-            "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy."
+            "context": "At the towers, stop on the square and check the map: water stays south, hutongs surround you, and Wudaoying is farther east. Climb only if visibility is decent and you still have energy.",
+            "lookFor": "Silhouettes of Drum and Bell Towers\nThe square between streets\nLow roofs around you\nThe entrance queue",
+            "practical": "Hours and interior access change by season.\nThe climb can be steep.\nIf you are tired, keep to the square and move toward food or metro.",
+            "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy.",
+            "sourceNote": "The towers have seasonal hours and ticket-sale cutoffs before closing."
           },
           "id": "hutong-4",
           "guideId": "hutong",
@@ -238,14 +295,19 @@
         },
         {
           "name": "Wudaoying Hutong",
+          "nameLocal": "五道营胡同",
           "note": "A cafe finish with quick transport out",
           "time": "1-1.5 h",
           "walk": "-",
+          "coordinates": {
+            "latitude": 39.9469886,
+            "longitude": 116.4063623
+          },
           "content": {
-            "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still matter. If the lane feels too commercial, turn onto a neighboring street and return to the metro from there.",
-            "lookFor": "Old doors\nLow roofs\nMix of cafes and everyday life",
-            "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf the area feels too commercial, move to nearby streets.",
-            "nextMove": "Finish at the metro or take DiDi to dinner in another district."
+            "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still appear between the signs. If the main lane feels too commercial, turn onto a neighboring street and return to metro from there.",
+            "lookFor": "Old doors\nLow roofs\nSide passages\nWhere cafes give way to ordinary street life",
+            "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf you are tired, finish at the metro instead of adding another district.",
+            "nextMove": "End at the metro or take DiDi to dinner in another district."
           },
           "id": "hutong-5",
           "guideId": "hutong",
@@ -258,43 +320,48 @@
       "cityId": "beijing",
       "category": "Food",
       "title": "Evening By Qianmen",
-      "subtitle": "Qianmen / Dashilan",
-      "blurb": "Walk Qianmen and Dashilan first, then choose dinner without spending the evening in a random queue.",
-      "mood": "Signs, queues, and warm pre-dinner noise",
+      "subtitle": "Qianmen / Dashilan / Sanlihe",
+      "blurb": "Walk the southern old center, choose dinner by the queue, and finish by the water.",
+      "mood": "Signs, dense streets, and a flexible dinner",
       "accent": "#B65F2A",
       "soft": "#F4E3D4",
       "deep": "#8C4A1C",
       "ink": "#7B3F18",
       "motif": "steam",
       "duration": "Evening",
-      "stops": 6,
-      "distance": "3-5 km",
+      "stops": 5,
+      "distance": "2.5-4 km",
       "pace": "half",
       "kids": false,
       "microcopy": {
-        "kicker": "Arrive hungry",
-        "line": "Look at menus and queues first, then sit down for dinner."
+        "kicker": "Do not sit first",
+        "line": "Walk the streets and compare queues before choosing dinner."
       },
       "content": {
-        "intro": "Start the evening on Qianmen, turn into Dashilan, and do not sit in the first restaurant just because the sign is bright. Make one loop, look at menus, queues, and seating, then choose duck or another dinner.\n\nAfter eating, keep the plan flexible: if you have energy and the program works, go to Lao She Teahouse; if not, walk to Sanlihe or head straight to the metro. Shops and restaurants here change, so check hours and recent reviews on the day.",
-        "routeLogic": "On Qianmen, look at facades and side entrances into Dashilan.\nIn Dashilan, pass through the crowd without stopping at every window.\nBefore dinner, compare menus and queues in two or three places.\nAdd Lao She Teahouse only after checking the program.\nUse Sanlihe as a short water-side exit after eating.",
-        "bestFor": "an evening after a museum when you do not want a long transfer\na first dinner in the city with time to choose\nold signs, lively streets, and a short walk after food",
-        "notFor": "travelers who want a quiet dinner\ncrowd fatigue\nwhen you need to reach a show without checking the schedule",
-        "beforeYouGo": "Arrive before the dinner peak so the restaurant choice is not made in the densest queue.\nFor old Beijing brands, check the exact address because branches can differ.\nCheck the Lao She program on the day, usually through WeChat or an official channel.",
-        "timing": "Start 1.5-2 hours before dinner. Walk Qianmen and Dashilan first, then sit down to eat; add the teahouse after dinner only if schedule and energy match.",
-        "fallbackPlan": "If queues are too long, move into nearby lanes or switch from duck to noodles, snacks, and tea. If rain starts, keep Qianmen, dinner, and a taxi back."
+        "intro": "Start at Qianmen, walk Dashilan and Xianyukou, and choose dinner only after one loop. It is easy to lose the evening in a random queue here: a famous sign does not guarantee good seating today.\n\nKeep Lao She and Sanlihe as choices after food. If program and energy line up, go for a tea performance; if not, move toward water or straight to the metro.",
+        "routeLogic": "At Qianmen, look at the gate, broad street, and side entrances.\nIn Dashilan, pass dense spots without stopping at every window.\nOn Xianyukou, read smell, queue movement, and seating, but do not eat too much before dinner.\nAdd Lao She only after checking the program.\nUse Sanlihe as a short water-side exit before metro.",
+        "bestFor": "an evening after a light day or museum\na first dinner without a long transfer\ntravelers who want old signs, streets, and choices on the ground",
+        "notFor": "travelers who want a quiet restaurant without crowds\na full axis day without a rest\nwhen you need to reach a show without checking the schedule",
+        "beforeYouGo": "Arrive before peak dinner so you are not choosing in the densest queue.\nFor old brands, check the exact address and current seating.\nCheck the Lao She program on the day through an official channel.",
+        "timing": "Start 1.5-2 hours before dinner. Walk first, then sit down; add the teahouse or Sanlihe only after food.",
+        "fallbackPlan": "If queues are not moving, turn into nearby streets or switch from duck to noodles, snacks, and tea. If rain starts, keep Qianmen, dinner, and a taxi back."
       },
       "stopList": [
         {
-          "name": "Qianmen Street",
+          "name": "Qianmen",
+          "nameLocal": "前门大街",
           "note": "Look around before turning into Dashilan",
-          "time": "30-50 min",
-          "walk": "8 min",
+          "time": "30-45 min",
+          "walk": "6 min to Dashilan",
+          "coordinates": {
+            "latitude": 39.8937104,
+            "longitude": 116.3919465
+          },
           "content": {
-            "context": "On Qianmen, walk the broad street south of the square and look at facades, signs, and side entrances into Dashilan. Do not spend all your appetite and time here; it is a good warm-up before denser streets.",
-            "lookFor": "View toward Qianmen Gate\nOld shop signs\nSide entrances into Dashilan",
-            "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not spend your whole appetite on first snacks.",
-            "nextMove": "Turn into Dashilan, where the streets become narrower and denser."
+            "context": "Qianmen gives the evening a broad start: the gate behind you, the long street ahead, and side entrances into denser Dashilan. Do not spend your whole appetite on the first snacks.",
+            "lookFor": "View toward Zhengyangmen\nOld shop signs\nSide entrances into Dashilan\nWhere the flow gets denser",
+            "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not buy too much food before the main meal.",
+            "nextMove": "Turn into Dashilan, where the streets narrow and get louder."
           },
           "id": "food-1",
           "guideId": "food",
@@ -302,81 +369,85 @@
         },
         {
           "name": "Dashilan",
+          "nameLocal": "大栅栏街",
           "note": "Notice the signs but skip weak stops",
-          "time": "40-70 min",
-          "walk": "6 min",
+          "time": "35-60 min",
+          "walk": "5 min to Xianyukou",
+          "coordinates": {
+            "latitude": 39.8945303,
+            "longitude": 116.3901828
+          },
           "content": {
-            "context": "In Dashilan, stay on the main street only while it stays interesting: old lettering, narrow facades, and queues at well-known places. If the windows start to repeat or the crowd stalls, turn into a side street and return to choosing dinner.",
-            "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places",
-            "practical": "A queue does not always mean the best choice.\nCheck recent reviews for the exact address.\nSide streets are easier for a short breather.",
-            "nextMove": "After a loop through Dashilan, choose where to eat: here or just off the main flow."
+            "context": "In Dashilan, stay on the main street only while it gives you new details: old lettering, narrow facades, and queues at known places. If windows repeat or the crowd stops, turn into a side street.",
+            "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places\nPassages toward Xianyukou",
+            "practical": "A queue does not always mean the best choice.\nCheck the exact address, not only the brand name.\nSide streets are easier for a short breather.",
+            "nextMove": "Move toward Xianyukou and decide what to save for dinner."
           },
           "id": "food-2",
           "guideId": "food",
           "order": 2
         },
         {
-          "name": "Old Brands",
-          "note": "Check the exact address, not only the name",
-          "time": "30-60 min",
-          "walk": "5 min",
+          "name": "Xianyukou",
+          "nameLocal": "鲜鱼口",
+          "note": "Taste lightly and watch queue movement",
+          "time": "30-50 min",
+          "walk": "10 min to Lao She",
+          "coordinates": {
+            "latitude": 39.8946856,
+            "longitude": 116.3916961
+          },
           "content": {
-            "context": "At old Beijing brands, first check the address and watch what people ahead of you buy. A famous name cannot rescue poor seating or a tired kitchen, so do not buy a large set before the main dinner.",
-            "lookFor": "Signs with dates\nOpen kitchens\nWhat local visitors are buying",
-            "practical": "Check the address because brands can have different branches.\nDo not order a large set before dinner.\nIf the queue is not moving, change the plan.",
-            "nextMove": "Move on to Peking duck dinner or choose a simpler nearby meal."
+            "context": "Xianyukou works as a short food scout. You can see where food is fresh, what comes out fast, and where the queue keeps moving. Do not turn the street into a full dinner if you still want duck or a show.",
+            "lookFor": "Open kitchens\nFast-moving queues\nSmall portions\nExits to quieter streets",
+            "practical": "Take small portions.\nWatch what people ahead of you order.\nIf the queue does not move, change places without regret.",
+            "nextMove": "If you want a performance or tea, walk to Lao She; otherwise choose dinner nearby and then move toward water."
           },
           "id": "food-3",
           "guideId": "food",
           "order": 3
         },
         {
-          "entry": "booking helps",
-          "name": "Duck Dinner",
-          "note": "Sit before peak time or keep a backup dinner",
+          "entry": "by program",
+          "name": "Lao She Teahouse",
+          "nameLocal": "老舍茶馆",
+          "note": "Go only if program and energy line up",
           "time": "1-1.5 h",
-          "walk": "8 min",
+          "walk": "12 min to Sanlihe",
+          "coordinates": {
+            "latitude": 39.8982866,
+            "longitude": 116.3872584
+          },
           "content": {
-            "context": "If you want Peking duck, sit down before the peak or book ahead. At rush time, do not chase the loudest sign. Choose a place where you can be seated properly and will not spend the whole evening waiting.",
-            "lookFor": "Seating queue\nHow the duck is carved\nSauces and pancakes",
-            "practical": "Check the portion size.\nFor two people, half a duck and a couple of dishes can be enough.\nIf booking fails, do not wait at any cost.",
-            "nextMove": "After dinner, choose between a tea performance, a short walk, or going straight to the metro."
+            "context": "Treat Lao She as a deliberate evening choice, not an automatic stop after food. After a heavy dinner, a show can become one obligation too many, so first check start time, seats, and length.",
+            "lookFor": "Current program\nStart time\nAvailable seats\nHow much energy is left after dinner",
+            "practical": "Check the schedule on the day.\nDo not place the show tight against a late restaurant booking.\nIf the program does not fit, skip it calmly.",
+            "nextMove": "After the performance, or instead of it, walk to Sanlihe or finish near the metro.",
+            "sourceNote": "Programs, sales channels, and show times change; check the current schedule."
           },
           "id": "food-4",
           "guideId": "food",
           "order": 4
         },
         {
-          "entry": "by schedule",
-          "name": "Lao She Teahouse",
-          "note": "Go only if schedule and energy line up",
-          "time": "1-1.5 h",
-          "walk": "10 min",
+          "name": "Sanlihe Park",
+          "nameLocal": "三里河公园",
+          "note": "A short water-side exit after food",
+          "time": "25-45 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 39.893787,
+            "longitude": 116.3963114
+          },
           "content": {
-            "context": "Go to Lao She Teahouse only after checking the program and start time. After a heavy dinner, a show can turn into one obligation too many, so keep it as an evening bonus rather than a fixed stop.",
-            "lookFor": "Current program\nProgram length\nAvailable seats after dinner",
-            "practical": "Check the schedule on the day.\nThe WeChat channel is often more useful than old pages.\nDo not place the show tight against a late restaurant booking.",
-            "nextMove": "If the program does not work, walk to Sanlihe or finish the evening at the metro.",
-            "sourceNote": "Show schedules, sales channels, and start times change; check the current program."
+            "context": "Sanlihe is a softer exit from commercial noise: water, small bridges, and paths let you walk after dinner without more shop windows. If rain or fatigue is already heavy, replace the park with a taxi.",
+            "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages\nClear exits toward metro",
+            "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, call DiDi back to the hotel.",
+            "nextMove": "Head to the nearest metro or return to the hotel by car."
           },
           "id": "food-5",
           "guideId": "food",
           "order": 5
-        },
-        {
-          "name": "Sanlihe Park",
-          "note": "A short water-side exit after dinner",
-          "time": "25-45 min",
-          "walk": "-",
-          "content": {
-            "context": "After dinner, walk to Sanlihe if you want movement without more shop windows. Water, paths, and lighting make a short calm exit from the noise. If rain or fatigue is already too much, replace the park with a taxi.",
-            "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages",
-            "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, choose a taxi instead.",
-            "nextMove": "Head to the nearest metro or call DiDi back to the hotel."
-          },
-          "id": "food-6",
-          "guideId": "food",
-          "order": 6
         }
       ]
     },
@@ -385,9 +456,9 @@
       "cityId": "beijing",
       "category": "With Kids",
       "title": "Pandas And Aquarium",
-      "subtitle": "Zoo / Aquarium",
-      "blurb": "Start with pandas, stay near shade, and move indoors if heat, rain, or fatigue takes over.",
-      "mood": "Short moves, pauses, and an indoor finish",
+      "subtitle": "Zoo / Panda House / Aquarium",
+      "blurb": "Keep one compact cluster: pandas first, then a short loop and an indoor finish.",
+      "mood": "Short walks, toilets, shade, and an indoor backup",
       "accent": "#4F6FA8",
       "soft": "#E4E9F3",
       "deep": "#3F5C92",
@@ -399,30 +470,35 @@
       "pace": "half",
       "kids": true,
       "microcopy": {
-        "kicker": "Start with pandas",
-        "line": "Pandas do not have to be active; keep a backup plan from the start."
+        "kicker": "Pandas first",
+        "line": "Pandas may sleep or hide, so keep a backup plan from the start."
       },
       "content": {
-        "intro": "This route stays in one zone: zoo entrance, Panda House, shade, toilets, food, and Beijing Aquarium. Do not start by heading to distant enclosures. First cover the reason you came, then decide by energy.\n\nBe honest with children about pandas: they may sleep, hide, or turn away. If nothing is visible at the enclosures, do not stand too long. Move to shaded paths or the aquarium before the day falls apart.",
-        "routeLogic": "At the entrance, mark toilets, food, and the aquarium exit.\nGo to pandas first while children are fresh.\nIn the zoo, take a short loop rather than distant enclosures.\nOn shaded paths, decide whether the aquarium is needed.\nMove to the aquarium for heat, rain, or crowd fatigue.",
+        "intro": "This route does not try to cover the whole zoo. Enter, mark toilets and food, go to pandas, then take a short loop by energy and move to Beijing Aquarium if heat, rain, or crowds start pressing.\n\nTell children the honest version in advance: pandas do not have to be active. If nothing is visible at the glass, do not stand still for twenty minutes; shade, water, toilets, and a clear exit save the day.",
+        "routeLogic": "At the entrance, find the map, toilets, and direction to the aquarium.\nGo to pandas first while children are fresh.\nAfter pandas, take a short loop rather than distant enclosures.\nBefore the aquarium, check energy, food, and queues.\nAfter the aquarium, end the day without a new district.",
         "bestFor": "families who need short walks\nhot or rainy days with an indoor backup\nmornings when you want simple logistics",
-        "notFor": "travelers expecting active animals all day\nchildren who struggle with crowds at enclosures\nwhen you want to see several districts in one day",
-        "beforeYouGo": "Check zoo, Panda House, and aquarium hours separately.\nIn summer, come in the morning: July-August can be hot and humid.\nFor a family, keep a taxi or DiDi pickup point in mind, especially after the aquarium.",
-        "timing": "Arrive in the morning and start with the Panda House. Give the zoo 1.5-2 hours without distant loops, then move to the aquarium if the children still have energy.",
-        "fallbackPlan": "If animals are not visible or children are tired, shorten the zoo to pandas and a shaded loop. In rain, move to the aquarium sooner. If queues are large, choose a shorter visit and an early lunch."
+        "notFor": "travelers expecting active animals all day\nchildren who struggle with crowds at glass\nwhen you want to see several districts in one day",
+        "beforeYouGo": "Check zoo, Panda House, and aquarium hours separately.\nIn summer, arrive in the morning: July-August can be hot and humid.\nFor a family, keep a taxi or DiDi pickup point in mind, especially after the aquarium.",
+        "timing": "Arrive in the morning. Give the zoo 1.5-2 hours without distant loops, then continue to the aquarium only if the children still have energy.",
+        "fallbackPlan": "If pandas are not visible or children are tired, shorten the zoo to a small loop and early lunch. In rain, move to the aquarium sooner. If queues are large, take a taxi and end the day earlier."
       },
       "stopList": [
         {
           "entry": "check ticket",
           "name": "Beijing Zoo",
+          "nameLocal": "北京动物园",
           "note": "Mark toilets, food, and exit right away",
-          "time": "45-75 min",
-          "walk": "10 min",
+          "time": "35-60 min",
+          "walk": "10 min to pandas",
+          "coordinates": {
+            "latitude": 39.9410543,
+            "longitude": 116.32954
+          },
           "content": {
-            "context": "Beijing Zoo is large, but a half-day route does not need the whole place. At the entrance, find the map, mark toilets, food, and the aquarium exit, and leave distant enclosures for later only if everyone still has energy after pandas.",
-            "lookFor": "Entrance map\nShaded stretches\nNearest toilets and cafes",
-            "practical": "Mark the aquarium exit right away.\nDo not start with distant enclosures.\nIn heat, use short stretches between stops.",
-            "nextMove": "Go to the Panda House while children are still fresh."
+            "context": "Beijing Zoo is large, but for a family half-day it is a clear base. At the entrance, find the map, toilets, food, and the way to the aquarium; leave distant enclosures for later only if everyone has energy after pandas.",
+            "lookFor": "Entrance map\nNearest toilets\nShaded stretches\nDirection toward the aquarium",
+            "practical": "Do not start with distant enclosures.\nIn heat, use short stretches between stops.\nKeep the exit point in mind from the beginning.",
+            "nextMove": "Go to the Panda House while the children are still fresh."
           },
           "id": "kids-1",
           "guideId": "kids",
@@ -431,28 +507,29 @@
         {
           "entry": "check hours",
           "name": "Panda House",
-          "note": "Pandas may sleep or hide",
+          "nameLocal": "熊猫馆",
+          "note": "Do not promise active animals",
           "time": "30-60 min",
-          "walk": "12 min",
+          "walk": "15 min on a short loop",
           "content": {
-            "context": "Go to the Panda House first, before children are tired. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight: ten minutes may not change the scene.",
-            "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash",
-            "practical": "Do not stand too long in one place if nothing is visible.\nDo not use flash.\nTell children in advance that pandas do not have to be active.",
-            "nextMove": "After pandas, move to shaded paths to drop the noise and crowd."
+            "context": "Go to pandas first, before fatigue and overheating. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight; ten minutes may not change the scene.",
+            "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash\nA clear path onward",
+            "practical": "Do not use flash.\nDo not stand too long in one place if nothing is visible.\nTell children early that pandas may sleep.",
+            "nextMove": "After pandas, take a short zoo loop to drop the noise by the glass."
           },
           "id": "kids-2",
           "guideId": "kids",
           "order": 2
         },
         {
-          "name": "Shaded Paths",
-          "note": "A pause before deciding on the aquarium",
-          "time": "25-45 min",
-          "walk": "10 min",
+          "name": "Short Zoo Loop",
+          "note": "Check energy before the aquarium",
+          "time": "35-60 min",
+          "walk": "10 min to aquarium",
           "content": {
-            "context": "On the shaded paths, slow down, have a snack, find the nearest toilet, and check energy honestly. If children are overheated or tired of people, do not add distant enclosures.",
-            "lookFor": "Benches in shade\nShort passages toward water\nSigns toward the aquarium",
-            "practical": "Do not wander far from the main direction.\nKeep track of the nearest toilet.\nIf a child is tired, shorten the zoo right away.",
+            "context": "After pandas, do not wander far. Choose a few nearby sections, have a snack, find a toilet, and honestly decide whether the aquarium is useful now or whether it is better to finish the visit.",
+            "lookFor": "Benches in shade\nShort passages without crowds\nSigns toward the aquarium\nPlaces where a child can rest",
+            "practical": "Do not add distant enclosures out of stubbornness.\nKeep water and a snack ready.\nIf a child is tired, shorten the route immediately.",
             "nextMove": "If there is energy, continue to Beijing Aquarium; if not, exit toward a taxi."
           },
           "id": "kids-3",
@@ -462,14 +539,20 @@
         {
           "entry": "separate ticket",
           "name": "Beijing Aquarium",
+          "nameLocal": "北京海洋馆",
           "note": "An indoor finish for heat or rain",
           "time": "1.5-2.5 h",
           "walk": "-",
+          "coordinates": {
+            "latitude": 39.9433083,
+            "longitude": 116.3347572
+          },
           "content": {
             "context": "Move to the aquarium when the zoo has already provided enough noise and walking. Indoors it is easier to wait out rain or heat, but do not turn the visit into a race through every show. Choose tanks and short pauses.",
-            "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest",
-            "practical": "Check hours separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back by taxi or metro without adding new walks.",
-            "nextMove": "End the day here and choose the simplest way back to the hotel."
+            "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest\nA clear exit after the finish",
+            "practical": "Check hours and ticketing separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back without adding another walk.",
+            "nextMove": "End the day here and choose the simplest way back to the hotel.",
+            "sourceNote": "Aquarium hours, tickets, and show schedules change; check them separately from the zoo."
           },
           "id": "kids-4",
           "guideId": "kids",
@@ -482,59 +565,70 @@
       "cityId": "beijing",
       "category": "Day Out",
       "title": "Mutianyu",
-      "subtitle": "Great Wall",
-      "blurb": "Give Mutianyu the whole day: road, entry zone, climb, wall section, and an easy return.",
-      "mood": "Early departure, steps, and turning back by energy",
+      "subtitle": "Great Wall without a second goal",
+      "blurb": "Give the day to the road, ascent, wall section, and an easy return to the city.",
+      "mood": "Early departure, steps, wind, and turning back by energy",
       "accent": "#3F5562",
       "soft": "#E2E4E7",
       "deep": "#343D46",
       "ink": "#343D46",
       "motif": "ridge",
       "duration": "Full day",
-      "stops": 6,
+      "stops": 4,
       "distance": "2-5 km",
       "pace": "full",
       "kids": false,
       "microcopy": {
-        "kicker": "Do not add a museum",
-        "line": "After the Wall, leave only the ride back and a simple dinner."
+        "kicker": "Wall only",
+        "line": "After Mutianyu, do not add a palace, museum, or evening show."
       },
       "content": {
-        "intro": "Treat Mutianyu as its own day: leaving Beijing, the entry zone, the ascent, a wall section, descent, food, and the road back. Do not add palaces or museums afterward. Traffic and fatigue can easily shift the evening.\n\nOn the Wall, you do not need to go as far as possible. Choose the way up, walk your section between towers, pick a turn-back point in advance, and save legs for the descent. Clear April, May, September, or October days are easier; summer brings heat and rain, and winter brings cold wind.",
-        "routeLogic": "Leave Beijing in the morning without extra stops.\nIn the entry zone, decide how you will go up and where you will come down.\nOn the Wall, walk tower to tower toward a chosen turn-back point.\nAfter descending, eat and head to the shuttle without lingering too long.\nReturn to Beijing without extra central stops.",
+        "intro": "Treat Mutianyu as its own day: the road from Beijing, the entry zone, choosing how to go up, a wall section, descent, and the return. The most common mistake is attaching another major city district after the Wall.\n\nOn the Wall, distance is misleading. Steps, slopes, wind, and visibility change the effort quickly, so choose a turn-back point early and save strength for the descent.",
+        "routeLogic": "Leave in the morning without intermediate stops.\nIn the entry zone, decide how you will go up and where you will come down.\nOn the Wall, walk tower to tower toward your chosen turn-back point.\nStart the descent before serious fatigue.\nReturn to the city without a second major walk.",
         "bestFor": "a first Great Wall outing\na clear day without a packed city plan\ntravelers who want a clear ascent, walk, and return",
-        "notFor": "travelers with only half a day\npoor visibility or strong wind\nwhen transport is not confirmed",
-        "beforeYouGo": "Check forecast, visibility, and opening hours before paying for transport.\nDecide in advance how you are going: car with driver, organized bus, or another clear option.\nPlan the return before leaving; on site, signal and cars can be unreliable.",
-        "timing": "Leave in the morning. The road and entry process can take a noticeable part of the day; plan 2-3 hours on the Wall itself, more only with good weather and spare energy.",
-        "fallbackPlan": "If the forecast is poor, move the trip: without visibility, the road disappoints. If ascent queues are long, choose a shorter section. If you get tired, descend earlier and return calmly to the city."
+        "notFor": "travelers with only half a day\npoor visibility, strong wind, or heavy rain\nwhen transport there and back is not confirmed",
+        "beforeYouGo": "Check forecast, visibility, ticket-sale hours, and last entry.\nDecide transport in advance: car with driver, organized bus, or official bus route.\nKeep your hotel address in Chinese and leave the evening after the Wall open.",
+        "timing": "Leave in the morning. The road and entry zone take a noticeable part of the day; plan 2-3 hours on the Wall itself, more only with good weather and spare energy.",
+        "fallbackPlan": "If the forecast is poor, move the trip: without visibility, the road disappoints. If ascent queues are long, choose a shorter section. If you get tired, descend earlier and return calmly."
       },
       "stopList": [
         {
-          "name": "Leaving Beijing",
-          "note": "Transport decides the quality of the day",
-          "time": "1.5-2.5 h",
-          "walk": "transfer",
+          "entry": "tickets and shuttle",
+          "name": "Mutianyu Entrance",
+          "nameLocal": "慕田峪长城旅游区",
+          "note": "Sort tickets and shuttle first",
+          "time": "45-75 min",
+          "walk": "ascent to the Wall",
+          "coordinates": {
+            "latitude": 40.4308245,
+            "longitude": 116.5642935
+          },
           "content": {
-            "context": "A Mutianyu day starts with the road. A late start, unclear return transport, or an attempt to add central Beijing quickly turns the walk into a race, so leave in the morning and keep the evening open.",
-            "lookFor": "Departure time\nClear pickup point\nReturn-road plan",
-            "practical": "Leave in the morning.\nCheck the forecast before paying for transport.\nDo not place fixed plans in the city after the Wall.",
-            "nextMove": "Go straight to the Mutianyu entry zone without intermediate stops."
+            "context": "The entry zone sets up the whole day. Look for ticketing, shuttle, queues for ascent options, and the tower map; decide here whether you want more walking or to save energy for the Wall.",
+            "lookFor": "Shuttle signs\nQueues for ascent options\nTower map\nWhere people return after descending",
+            "practical": "Check opening hours and last entry before leaving Beijing.\nKeep tickets until you fully exit.\nIn wind, ascent options may operate differently.",
+            "nextMove": "Choose the ascent and go up to your wall section.",
+            "sourceNote": "Mutianyu hours, ticketing, and lift operations depend on season and weather."
           },
           "id": "wall-1",
           "guideId": "wall",
           "order": 1
         },
         {
-          "entry": "check tickets",
-          "name": "Mutianyu Entrance",
-          "note": "Tickets, shuttle, and ascent choice",
-          "time": "45-75 min",
-          "walk": "ascent",
+          "entry": "ascent choice",
+          "name": "Ascent To The Wall",
+          "note": "Save your legs for the Wall itself",
+          "time": "30-60 min",
+          "walk": "20 min to towers",
+          "coordinates": {
+            "latitude": 40.4309368,
+            "longitude": 116.5642868
+          },
           "content": {
-            "context": "In the entry zone, do not improvise while walking. Look at ticket windows, shuttle, lift queues, and the tower map. Decide here whether you want more walking or to save energy for the Wall itself.",
-            "lookFor": "Shuttle signs\nQueues for ascent options\nMap of towers and exits",
-            "practical": "Check hours and tickets in advance.\nIn wind, some ascent options may work differently.\nKeep tickets until you fully exit.",
-            "nextMove": "Go up to your chosen section and begin the walk between towers."
+            "context": "On the ascent, do not compete with the map. If one option has a long queue or the wind picks up, choose the simpler way up and save your strength for walking between towers.",
+            "lookFor": "Queues for ascent options\nSigns toward towers\nWeather on the upper section\nPeople already descending",
+            "practical": "Check where you will come down later.\nDo not throw away tickets.\nIf weather worsens, shorten the plan before reaching the Wall.",
+            "nextMove": "On the Wall, move toward nearby towers and choose a turn-back point."
           },
           "id": "wall-2",
           "guideId": "wall",
@@ -542,64 +636,43 @@
         },
         {
           "name": "Wall Section",
-          "note": "Walk by energy, not by maximum distance",
-          "time": "1-2 h",
-          "walk": "30 min",
+          "nameLocal": "慕田峪长城",
+          "note": "Walk tower to tower, not to the maximum",
+          "time": "1.5-2.5 h",
+          "walk": "40 min to descent",
+          "coordinates": {
+            "latitude": 40.4345154,
+            "longitude": 116.5605754
+          },
           "content": {
-            "context": "On the Wall, distance on the map is misleading: steps, slopes, and wind change the load quickly. Walk from tower to tower and decide in advance where to turn back so you still have energy to return and descend calmly.",
-            "lookFor": "Changes in step height\nRidge turns\nHow visibility changes",
-            "practical": "In heat, shorten climbs.\nAfter rain, be careful on stone.\nDo not go farther than you are ready to walk back.",
-            "nextMove": "Move toward the nearest watchtowers and choose your turn-back point."
+            "context": "On the Wall, kilometers explain little: steps are uneven, slopes change, and wind can be stronger than at the entrance. Walk tower to tower and turn back before fatigue becomes the main part of the day.",
+            "lookFor": "Changes in step height\nRidge turns\nHow visibility changes\nA tower where it makes sense to turn back",
+            "practical": "After rain, be careful on stone.\nIn heat, shorten climbs.\nDo not go farther than you are ready to walk back.",
+            "nextMove": "Turn toward your chosen descent while you still have energy for steps."
           },
           "id": "wall-3",
           "guideId": "wall",
           "order": 3
         },
         {
-          "name": "Watchtowers",
-          "note": "Choose a tower for stopping and turning back",
-          "time": "40-75 min",
-          "walk": "40 min",
+          "entry": "by chosen ticket",
+          "name": "Descent And Exit",
+          "note": "Do not leave food and return transport too late",
+          "time": "1-1.5 h",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 40.4308245,
+            "longitude": 116.5642935
+          },
           "content": {
-            "context": "In the towers, stop where there are fewer people and a safe place to stand near an opening. Watch the Wall run along the ridge and around turns, but do not linger in narrow passages.",
-            "lookFor": "The Wall line along the ridge\nOpenings inside towers\nLess crowded sections",
-            "practical": "Do not block narrow passages.\nWind at the top can be stronger than at the entrance.\nIf visibility drops, start the return.",
-            "nextMove": "Turn toward the descent before fatigue becomes the main story of the day."
+            "context": "After the Wall, descending takes attention, especially in wind or after rain. Once you are down, find toilets, food, shuttle, and your return transport point right away; do not leave everything for the road.",
+            "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with clear menus\nConfirmed return transport",
+            "practical": "Check where your shuttle or car leaves from.\nCheck your connection before heading out.\nDo not put a fixed plan in Beijing that evening.",
+            "nextMove": "Return to the city and keep only a simple dinner near your stay."
           },
           "id": "wall-4",
           "guideId": "wall",
           "order": 4
-        },
-        {
-          "entry": "by chosen ticket",
-          "name": "Descent And Lunch",
-          "note": "Do not leave food too late",
-          "time": "1-1.5 h",
-          "walk": "transfer",
-          "content": {
-            "context": "Descending after steps takes attention, especially after rain or in wind. Once you leave the upper section, find toilets, food, and the shuttle right away; do not leave everything for the road back.",
-            "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with understandable menus",
-            "practical": "Check where your shuttle leaves from.\nDo not throw away tickets before the full exit.\nIf the queue grows, descend earlier.",
-            "nextMove": "After lunch, do not add new sights: prepare to return to Beijing."
-          },
-          "id": "wall-5",
-          "guideId": "wall",
-          "order": 5
-        },
-        {
-          "name": "Return To The City",
-          "note": "Keep the evening without a fixed plan",
-          "time": "1.5-3 h",
-          "walk": "-",
-          "content": {
-            "context": "The return road depends on traffic, weather, and how quickly you left the Mutianyu zone. Do not promise yourself an exact evening plan; count the return as the last part of the route.",
-            "lookFor": "Confirmed car or bus\nTraffic entering the city\nNearest dinner by your hotel",
-            "practical": "Check your connection before leaving.\nKeep the hotel address in Chinese.\nIf you are tired, choose dinner near your stay.",
-            "nextMove": "End the day in the city without a second major walk."
-          },
-          "id": "wall-6",
-          "guideId": "wall",
-          "order": 6
         }
       ]
     }
@@ -608,65 +681,85 @@
   "schemaVersion": 1,
   "stops": [
     {
-      "entry": "check access",
+      "entry": "slot and passport",
       "name": "Tiananmen Square",
-      "note": "Check slot and passport before leaving",
+      "nameLocal": "天安门广场",
+      "note": "Find the entrance and security queue first",
       "time": "45-75 min",
-      "walk": "15 min",
+      "walk": "15 min to Meridian Gate",
+      "coordinates": {
+        "latitude": 39.9023598,
+        "longitude": 116.3914649
+      },
       "content": {
-        "context": "Do not linger on the square for every detail. First find the entrance, see how the flow moves north, and judge the security queue. A quick move toward the Palace Museum can fall apart here, so keep time in reserve.",
-        "lookFor": "Flow moving north\nView toward Tiananmen Gate\nSecurity queues",
-        "practical": "Keep your passport separate from your bag.\nCheck access rules on the morning of the visit.\nIn heat, do not stay on the open square longer than needed.",
-        "nextMove": "Move to the north side and continue toward Meridian Gate without drifting into side streets.",
-        "sourceNote": "Access rules and square reservation slots can change; check the official process before leaving."
+        "context": "Do not start by inspecting every monument on the square. First understand where entry is allowed today, how the flow moves, and how long security is taking. That decides whether you reach Meridian Gate without an extra loop.",
+        "lookFor": "Flow toward the north side\nView of Tiananmen Gate\nQueues and barriers at security",
+        "practical": "Keep your passport separate from your bag.\nCheck slot and access rules on the day.\nIn heat, do not stay on the open square longer than needed.",
+        "nextMove": "Move to the north side of the square and continue toward Meridian Gate without drifting into side streets.",
+        "sourceNote": "Square access depends on slots, checks, and city events; check the official process before leaving."
       },
       "id": "axis-1",
       "guideId": "axis",
       "order": 1
     },
     {
-      "entry": "reservation only",
+      "entry": "Palace booking",
       "name": "Meridian Gate",
-      "note": "Check your ticket before queuing",
+      "nameLocal": "午门",
+      "note": "Check ticket and document before queuing",
       "time": "20-40 min",
-      "walk": "10 min",
+      "walk": "10 min to first courts",
+      "coordinates": {
+        "latitude": 39.9121168,
+        "longitude": 116.3915912
+      },
       "content": {
-        "context": "At Meridian Gate, step aside from the flow and check your ticket, passport, and correct entrance. Joining the wrong queue can drain energy before you even reach the palace courts.",
-        "lookFor": "High wall before the entrance\nQueues for checks\nSigns for the entry route",
-        "practical": "The original passport is needed at entry.\nBooking must be arranged in advance.\nDo not count on buying a same-day ticket on site.",
-        "nextMove": "After entry, keep to the central line toward the main halls and leave side courts for spare time only.",
-        "sourceNote": "Palace Museum booking rules need a current check before the visit."
+        "context": "At Meridian Gate, step out of the flow for a minute and check your ticket, document, and correct entrance. Joining the wrong queue is painful here: the palace has not begun, and the check has already taken energy.",
+        "lookFor": "The high red wall before entry\nSigns for the entry route\nDocument-check queues",
+        "practical": "The original document is needed at entry.\nThe ticket must be booked in advance under the real name.\nDo not expect to solve same-day ticketing at the gate.",
+        "nextMove": "After entry, keep to the central line toward the main halls and save side courts for later.",
+        "sourceNote": "Palace Museum ticketing and document rules need a current check before visiting."
       },
       "id": "axis-2",
       "guideId": "axis",
       "order": 2
     },
     {
-      "entry": "book ahead",
-      "name": "Forbidden City",
-      "note": "Follow the main line and save energy",
+      "entry": "booking only",
+      "name": "Palace Museum",
+      "nameLocal": "故宫博物院",
+      "note": "Follow the central line and save your legs",
       "time": "2.5-4 h",
-      "walk": "20 min",
+      "walk": "20 min to north exit",
+      "coordinates": {
+        "latitude": 39.9174311,
+        "longitude": 116.3907817
+      },
       "content": {
-        "context": "Inside the Forbidden City, move from gates to halls along the main line and look back often: the repeating courts read best while you are walking. Choose side areas only while you still have time and legs.",
-        "lookFor": "Sequence of gates\nRaised hall platforms\nRoof details and ridge beasts",
-        "practical": "The museum is closed on Mondays except holidays.\nShorten the route if it is hot or crowds are dense.\nDo not try to enter every side courtyard.",
-        "nextMove": "Move toward the north of the complex and exit through the garden so you do not backtrack."
+        "context": "Inside the Palace Museum, movement matters more than a list of halls. Walk from gates to platforms along the main axis, look back often, and add side courts only while you still have time and legs.",
+        "lookFor": "Repeating gates and courts\nRaised platforms of the main halls\nRoof ridge beasts\nWhere crowds thin at side passages",
+        "practical": "The museum closes on Mondays except holidays.\nHeat and tour groups tire you quickly in open courts.\nDo not plan to cover every side hall in one day.",
+        "nextMove": "Move north through the garden area and exit toward the Gate of Divine Might."
       },
       "id": "axis-3",
       "guideId": "axis",
       "order": 3
     },
     {
-      "name": "Imperial Garden",
-      "note": "A north-exit passage without extra loops",
+      "name": "Northern Garden Exit",
+      "nameLocal": "御花园",
+      "note": "Do not add a loop before leaving",
       "time": "25-45 min",
-      "walk": "10 min",
+      "walk": "10 min to Jingshan",
+      "coordinates": {
+        "latitude": 39.9200394,
+        "longitude": 116.3901814
+      },
       "content": {
-        "context": "After the large courts, the garden brings rocks, old trees, and narrow passages. If it is crowded, do not stop at the most famous stones. Move to the edges, look at the pavilions, and keep your direction toward the north exit.",
-        "lookFor": "Artificial rocks\nOld cypress trees\nPavilions among narrow paths",
-        "practical": "In crowds, avoid stopping at the most popular rocks.\nIf you are tired, head to the north exit without side loops.\nTake photos at the edges, not in the middle of the flow.",
-        "nextMove": "Exit through the north gate and cross into Jingshan Park."
+        "context": "After the large courts, the garden and northern exit compress the scale: rocks, old trees, narrow paths, and a quick way out. If people jam around the famous stones, move to the edges and keep your direction north.",
+        "lookFor": "Artificial rocks\nOld cypress trees\nPavilions between narrow paths\nThe way out to Shenwumen",
+        "practical": "Take photos at the edges, not in the middle of the flow.\nIf you are tired, go straight to the exit.\nDo not return south for one last shot.",
+        "nextMove": "Exit through the northern gate and cross into Jingshan Park."
       },
       "id": "axis-4",
       "guideId": "axis",
@@ -675,30 +768,41 @@
     {
       "entry": "park ticket",
       "name": "Jingshan Park",
-      "note": "Climb only if you have energy and visibility",
+      "nameLocal": "景山公园",
+      "note": "Climb only with energy and visibility",
       "time": "45-75 min",
       "walk": "-",
+      "coordinates": {
+        "latitude": 39.9244135,
+        "longitude": 116.3903832
+      },
       "content": {
-        "context": "Jingshan stands just behind the Palace Museum north gates. The climb is short, but after the palace it feels heavier than it looks on the map. Go slowly and pause on platforms if your legs are already tired.",
-        "lookFor": "View over the Forbidden City roofs\nThe straight axis to the south\nThe pavilion at the top",
-        "practical": "Sunset brings more people.\nSteps can be slippery after rain.\nIf visibility is poor, climb only if you still want a short final push.",
-        "nextMove": "After descending, take the metro or a taxi; walking to another district would be an extra haul."
+        "context": "Jingshan sits just behind the Palace Museum north gate. The climb is short, but after the palace it feels steeper than it looks on the map; from the top, the axis and roofs fall into one clear line.",
+        "lookFor": "Roofs of the Palace Museum from above\nThe straight axis to the south\nThe summit pavilion\nVisibility over the city",
+        "practical": "Sunset brings more people.\nSteps can be slippery after rain.\nIf visibility is poor, climb only if you want a short final push.",
+        "nextMove": "After descending, take metro or taxi. Walking to another district is extra strain."
       },
       "id": "axis-5",
       "guideId": "axis",
       "order": 5
     },
     {
-      "entry": "check ticket",
+      "entry": "book ahead",
       "name": "Prince Kung Mansion",
+      "nameLocal": "恭王府",
       "note": "Start with courtyards and garden",
       "time": "1.5-2 h",
-      "walk": "12 min",
+      "walk": "12 min to water",
+      "coordinates": {
+        "latitude": 39.9358282,
+        "longitude": 116.3798006
+      },
       "content": {
-        "context": "Inside the mansion, walk the courtyards first, then the garden and rocks. The neighboring hutongs make more sense after that. If tour groups crowd the narrow passages, do not stand behind them; move through the garden edges.",
-        "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open spaces",
-        "practical": "Morning works best.\nIt is easy to stay longer than planned.\nIf dense groups block the way, use the garden edges.",
-        "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets."
+        "context": "Inside Prince Kung Mansion, walk the courtyards first, then the garden and rocks. After that, the neighboring hutongs feel less random and more like a continuation of the old city. If groups block a narrow passage, use the garden edges.",
+        "lookFor": "Sequence of courtyards\nGarden rocks\nChanges between enclosed and open space\nWhere groups block the way",
+        "practical": "The museum closes on Mondays except holidays.\nTickets are sold ahead through official channels.\nDo not stand behind a dense group in a narrow passage.",
+        "nextMove": "Walk toward Shichahai, choosing quieter lanes between the larger streets.",
+        "sourceNote": "Prince Kung Mansion has hours, a closed day, and advance ticketing; check the official channel before visiting."
       },
       "id": "hutong-1",
       "guideId": "hutong",
@@ -706,14 +810,19 @@
     },
     {
       "name": "Shichahai",
-      "note": "Stay by the water until it gets tight",
-      "time": "1-1.5 h",
-      "walk": "10 min",
+      "nameLocal": "什刹海",
+      "note": "Stay by the shore only while it is not tight",
+      "time": "45-75 min",
+      "walk": "10 min to Yandai",
+      "coordinates": {
+        "latitude": 39.9359528,
+        "longitude": 116.3900647
+      },
       "content": {
-        "context": "At Shichahai, walk along the shore and choose the side by shade and crowd density. If the waterfront gets loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
-        "lookFor": "Bridges and reflections\nCourtyard entrances near the water\nContrast between bars and residential alleys",
-        "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nUse side streets when you need a break from the crowd.",
-        "nextMove": "Continue toward Yandai Xiejie, but do not stop at every shop."
+        "context": "At Shichahai, choose your side by shade, wind, and crowd density. If the waterfront is loud or rickshaws crowd the lane, step into a nearby alley and return to the lake after a few turns.",
+        "lookFor": "Bridges and reflections\nCourtyard entrances near water\nThe shift between bars and residential lanes\nWhere the shore gets too tight",
+        "practical": "In heat, stay on the shaded side.\nSkip a full loop if the shore is packed.\nThe edge can be slippery after rain.",
+        "nextMove": "Continue toward Yandai Xiejie, but do not turn the street into a long shopping stop."
       },
       "id": "hutong-2",
       "guideId": "hutong",
@@ -721,13 +830,18 @@
     },
     {
       "name": "Yandai Xiejie",
+      "nameLocal": "烟袋斜街",
       "note": "Pass through briefly without shopping pressure",
       "time": "30-50 min",
-      "walk": "10 min",
+      "walk": "10 min to towers",
+      "coordinates": {
+        "latitude": 39.9376501,
+        "longitude": 116.3886058
+      },
       "content": {
-        "context": "Yandai Xiejie is short and often packed. Treat it as the passage from water to towers: notice the bend of the street, older facades between signs, and side hutongs if the flow stops.",
-        "lookFor": "The curve of the street\nOlder facades among shop signs\nPassages into side hutongs",
-        "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness, not just the sign.\nIf the street is overloaded, use parallel lanes.",
+        "context": "Yandai Xiejie is short and often dense. Notice the bend of the street, older facades between signs, and side hutong passages, but move on if the flow stops.",
+        "lookFor": "The curve of the street\nOlder facades among shop signs\nSide passages\nWhere you can leave the crowd",
+        "practical": "Keep your bag close in dense flow.\nChoose food by queue movement and freshness.\nIf the street is overloaded, use parallel lanes.",
         "nextMove": "Head toward the Drum and Bell Towers as the next large landmark."
       },
       "id": "hutong-3",
@@ -737,14 +851,20 @@
     {
       "entry": "check climb",
       "name": "Drum Tower",
+      "nameLocal": "鼓楼",
       "note": "Decide on the spot whether to climb",
       "time": "45-75 min",
-      "walk": "20 min",
+      "walk": "20 min to Wudaoying",
+      "coordinates": {
+        "latitude": 39.9393176,
+        "longitude": 116.3897454
+      },
       "content": {
-        "context": "At the Drum and Bell Towers, stop on the square and check the map: water stays south, hutongs surround you, and Wudaoying is farther east. Climb only if visibility is decent and you have enough energy.",
-        "lookFor": "Silhouettes of the two towers\nThe square between streets\nViews over low roofs",
-        "practical": "The climb can be steep.\nIn poor visibility, the view matters less.\nIf you are tired, keep to the square and move on to food or metro.",
-        "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy."
+        "context": "At the towers, stop on the square and check the map: water stays south, hutongs surround you, and Wudaoying is farther east. Climb only if visibility is decent and you still have energy.",
+        "lookFor": "Silhouettes of Drum and Bell Towers\nThe square between streets\nLow roofs around you\nThe entrance queue",
+        "practical": "Hours and interior access change by season.\nThe climb can be steep.\nIf you are tired, keep to the square and move toward food or metro.",
+        "nextMove": "From the towers, walk or ride toward Wudaoying depending on weather and energy.",
+        "sourceNote": "The towers have seasonal hours and ticket-sale cutoffs before closing."
       },
       "id": "hutong-4",
       "guideId": "hutong",
@@ -752,29 +872,39 @@
     },
     {
       "name": "Wudaoying Hutong",
+      "nameLocal": "五道营胡同",
       "note": "A cafe finish with quick transport out",
       "time": "1-1.5 h",
       "walk": "-",
+      "coordinates": {
+        "latitude": 39.9469886,
+        "longitude": 116.4063623
+      },
       "content": {
-        "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still matter. If the lane feels too commercial, turn onto a neighboring street and return to the metro from there.",
-        "lookFor": "Old doors\nLow roofs\nMix of cafes and everyday life",
-        "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf the area feels too commercial, move to nearby streets.",
-        "nextMove": "Finish at the metro or take DiDi to dinner in another district."
+        "context": "In Wudaoying, slow down and look beyond cafes: side passages, old doors, and low roofs still appear between the signs. If the main lane feels too commercial, turn onto a neighboring street and return to metro from there.",
+        "lookFor": "Old doors\nLow roofs\nSide passages\nWhere cafes give way to ordinary street life",
+        "practical": "Evenings can be tight.\nDo not enter private courtyards without a clear invitation.\nIf you are tired, finish at the metro instead of adding another district.",
+        "nextMove": "End at the metro or take DiDi to dinner in another district."
       },
       "id": "hutong-5",
       "guideId": "hutong",
       "order": 5
     },
     {
-      "name": "Qianmen Street",
+      "name": "Qianmen",
+      "nameLocal": "前门大街",
       "note": "Look around before turning into Dashilan",
-      "time": "30-50 min",
-      "walk": "8 min",
+      "time": "30-45 min",
+      "walk": "6 min to Dashilan",
+      "coordinates": {
+        "latitude": 39.8937104,
+        "longitude": 116.3919465
+      },
       "content": {
-        "context": "On Qianmen, walk the broad street south of the square and look at facades, signs, and side entrances into Dashilan. Do not spend all your appetite and time here; it is a good warm-up before denser streets.",
-        "lookFor": "View toward Qianmen Gate\nOld shop signs\nSide entrances into Dashilan",
-        "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not spend your whole appetite on first snacks.",
-        "nextMove": "Turn into Dashilan, where the streets become narrower and denser."
+        "context": "Qianmen gives the evening a broad start: the gate behind you, the long street ahead, and side entrances into denser Dashilan. Do not spend your whole appetite on the first snacks.",
+        "lookFor": "View toward Zhengyangmen\nOld shop signs\nSide entrances into Dashilan\nWhere the flow gets denser",
+        "practical": "Evenings are busier.\nCompare menus before sitting down.\nDo not buy too much food before the main meal.",
+        "nextMove": "Turn into Dashilan, where the streets narrow and get louder."
       },
       "id": "food-1",
       "guideId": "food",
@@ -782,93 +912,102 @@
     },
     {
       "name": "Dashilan",
+      "nameLocal": "大栅栏街",
       "note": "Notice the signs but skip weak stops",
-      "time": "40-70 min",
-      "walk": "6 min",
+      "time": "35-60 min",
+      "walk": "5 min to Xianyukou",
+      "coordinates": {
+        "latitude": 39.8945303,
+        "longitude": 116.3901828
+      },
       "content": {
-        "context": "In Dashilan, stay on the main street only while it stays interesting: old lettering, narrow facades, and queues at well-known places. If the windows start to repeat or the crowd stalls, turn into a side street and return to choosing dinner.",
-        "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places",
-        "practical": "A queue does not always mean the best choice.\nCheck recent reviews for the exact address.\nSide streets are easier for a short breather.",
-        "nextMove": "After a loop through Dashilan, choose where to eat: here or just off the main flow."
+        "context": "In Dashilan, stay on the main street only while it gives you new details: old lettering, narrow facades, and queues at known places. If windows repeat or the crowd stops, turn into a side street.",
+        "lookFor": "Old lettering on signs\nNarrow facades\nQueues at popular places\nPassages toward Xianyukou",
+        "practical": "A queue does not always mean the best choice.\nCheck the exact address, not only the brand name.\nSide streets are easier for a short breather.",
+        "nextMove": "Move toward Xianyukou and decide what to save for dinner."
       },
       "id": "food-2",
       "guideId": "food",
       "order": 2
     },
     {
-      "name": "Old Brands",
-      "note": "Check the exact address, not only the name",
-      "time": "30-60 min",
-      "walk": "5 min",
+      "name": "Xianyukou",
+      "nameLocal": "鲜鱼口",
+      "note": "Taste lightly and watch queue movement",
+      "time": "30-50 min",
+      "walk": "10 min to Lao She",
+      "coordinates": {
+        "latitude": 39.8946856,
+        "longitude": 116.3916961
+      },
       "content": {
-        "context": "At old Beijing brands, first check the address and watch what people ahead of you buy. A famous name cannot rescue poor seating or a tired kitchen, so do not buy a large set before the main dinner.",
-        "lookFor": "Signs with dates\nOpen kitchens\nWhat local visitors are buying",
-        "practical": "Check the address because brands can have different branches.\nDo not order a large set before dinner.\nIf the queue is not moving, change the plan.",
-        "nextMove": "Move on to Peking duck dinner or choose a simpler nearby meal."
+        "context": "Xianyukou works as a short food scout. You can see where food is fresh, what comes out fast, and where the queue keeps moving. Do not turn the street into a full dinner if you still want duck or a show.",
+        "lookFor": "Open kitchens\nFast-moving queues\nSmall portions\nExits to quieter streets",
+        "practical": "Take small portions.\nWatch what people ahead of you order.\nIf the queue does not move, change places without regret.",
+        "nextMove": "If you want a performance or tea, walk to Lao She; otherwise choose dinner nearby and then move toward water."
       },
       "id": "food-3",
       "guideId": "food",
       "order": 3
     },
     {
-      "entry": "booking helps",
-      "name": "Duck Dinner",
-      "note": "Sit before peak time or keep a backup dinner",
+      "entry": "by program",
+      "name": "Lao She Teahouse",
+      "nameLocal": "老舍茶馆",
+      "note": "Go only if program and energy line up",
       "time": "1-1.5 h",
-      "walk": "8 min",
+      "walk": "12 min to Sanlihe",
+      "coordinates": {
+        "latitude": 39.8982866,
+        "longitude": 116.3872584
+      },
       "content": {
-        "context": "If you want Peking duck, sit down before the peak or book ahead. At rush time, do not chase the loudest sign. Choose a place where you can be seated properly and will not spend the whole evening waiting.",
-        "lookFor": "Seating queue\nHow the duck is carved\nSauces and pancakes",
-        "practical": "Check the portion size.\nFor two people, half a duck and a couple of dishes can be enough.\nIf booking fails, do not wait at any cost.",
-        "nextMove": "After dinner, choose between a tea performance, a short walk, or going straight to the metro."
+        "context": "Treat Lao She as a deliberate evening choice, not an automatic stop after food. After a heavy dinner, a show can become one obligation too many, so first check start time, seats, and length.",
+        "lookFor": "Current program\nStart time\nAvailable seats\nHow much energy is left after dinner",
+        "practical": "Check the schedule on the day.\nDo not place the show tight against a late restaurant booking.\nIf the program does not fit, skip it calmly.",
+        "nextMove": "After the performance, or instead of it, walk to Sanlihe or finish near the metro.",
+        "sourceNote": "Programs, sales channels, and show times change; check the current schedule."
       },
       "id": "food-4",
       "guideId": "food",
       "order": 4
     },
     {
-      "entry": "by schedule",
-      "name": "Lao She Teahouse",
-      "note": "Go only if schedule and energy line up",
-      "time": "1-1.5 h",
-      "walk": "10 min",
+      "name": "Sanlihe Park",
+      "nameLocal": "三里河公园",
+      "note": "A short water-side exit after food",
+      "time": "25-45 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 39.893787,
+        "longitude": 116.3963114
+      },
       "content": {
-        "context": "Go to Lao She Teahouse only after checking the program and start time. After a heavy dinner, a show can turn into one obligation too many, so keep it as an evening bonus rather than a fixed stop.",
-        "lookFor": "Current program\nProgram length\nAvailable seats after dinner",
-        "practical": "Check the schedule on the day.\nThe WeChat channel is often more useful than old pages.\nDo not place the show tight against a late restaurant booking.",
-        "nextMove": "If the program does not work, walk to Sanlihe or finish the evening at the metro.",
-        "sourceNote": "Show schedules, sales channels, and start times change; check the current program."
+        "context": "Sanlihe is a softer exit from commercial noise: water, small bridges, and paths let you walk after dinner without more shop windows. If rain or fatigue is already heavy, replace the park with a taxi.",
+        "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages\nClear exits toward metro",
+        "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, call DiDi back to the hotel.",
+        "nextMove": "Head to the nearest metro or return to the hotel by car."
       },
       "id": "food-5",
       "guideId": "food",
       "order": 5
     },
     {
-      "name": "Sanlihe Park",
-      "note": "A short water-side exit after dinner",
-      "time": "25-45 min",
-      "walk": "-",
-      "content": {
-        "context": "After dinner, walk to Sanlihe if you want movement without more shop windows. Water, paths, and lighting make a short calm exit from the noise. If rain or fatigue is already too much, replace the park with a taxi.",
-        "lookFor": "Canals and small bridges\nEvening lighting\nQuieter passages",
-        "practical": "Paths can be slippery after rain.\nLate in the evening, stay near a clear exit.\nIf you are tired, choose a taxi instead.",
-        "nextMove": "Head to the nearest metro or call DiDi back to the hotel."
-      },
-      "id": "food-6",
-      "guideId": "food",
-      "order": 6
-    },
-    {
       "entry": "check ticket",
       "name": "Beijing Zoo",
+      "nameLocal": "北京动物园",
       "note": "Mark toilets, food, and exit right away",
-      "time": "45-75 min",
-      "walk": "10 min",
+      "time": "35-60 min",
+      "walk": "10 min to pandas",
+      "coordinates": {
+        "latitude": 39.9410543,
+        "longitude": 116.32954
+      },
       "content": {
-        "context": "Beijing Zoo is large, but a half-day route does not need the whole place. At the entrance, find the map, mark toilets, food, and the aquarium exit, and leave distant enclosures for later only if everyone still has energy after pandas.",
-        "lookFor": "Entrance map\nShaded stretches\nNearest toilets and cafes",
-        "practical": "Mark the aquarium exit right away.\nDo not start with distant enclosures.\nIn heat, use short stretches between stops.",
-        "nextMove": "Go to the Panda House while children are still fresh."
+        "context": "Beijing Zoo is large, but for a family half-day it is a clear base. At the entrance, find the map, toilets, food, and the way to the aquarium; leave distant enclosures for later only if everyone has energy after pandas.",
+        "lookFor": "Entrance map\nNearest toilets\nShaded stretches\nDirection toward the aquarium",
+        "practical": "Do not start with distant enclosures.\nIn heat, use short stretches between stops.\nKeep the exit point in mind from the beginning.",
+        "nextMove": "Go to the Panda House while the children are still fresh."
       },
       "id": "kids-1",
       "guideId": "kids",
@@ -877,28 +1016,29 @@
     {
       "entry": "check hours",
       "name": "Panda House",
-      "note": "Pandas may sleep or hide",
+      "nameLocal": "熊猫馆",
+      "note": "Do not promise active animals",
       "time": "30-60 min",
-      "walk": "12 min",
+      "walk": "15 min on a short loop",
       "content": {
-        "context": "Go to the Panda House first, before children are tired. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight: ten minutes may not change the scene.",
-        "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash",
-        "practical": "Do not stand too long in one place if nothing is visible.\nDo not use flash.\nTell children in advance that pandas do not have to be active.",
-        "nextMove": "After pandas, move to shaded paths to drop the noise and crowd."
+        "context": "Go to pandas first, before fatigue and overheating. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight; ten minutes may not change the scene.",
+        "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash\nA clear path onward",
+        "practical": "Do not use flash.\nDo not stand too long in one place if nothing is visible.\nTell children early that pandas may sleep.",
+        "nextMove": "After pandas, take a short zoo loop to drop the noise by the glass."
       },
       "id": "kids-2",
       "guideId": "kids",
       "order": 2
     },
     {
-      "name": "Shaded Paths",
-      "note": "A pause before deciding on the aquarium",
-      "time": "25-45 min",
-      "walk": "10 min",
+      "name": "Short Zoo Loop",
+      "note": "Check energy before the aquarium",
+      "time": "35-60 min",
+      "walk": "10 min to aquarium",
       "content": {
-        "context": "On the shaded paths, slow down, have a snack, find the nearest toilet, and check energy honestly. If children are overheated or tired of people, do not add distant enclosures.",
-        "lookFor": "Benches in shade\nShort passages toward water\nSigns toward the aquarium",
-        "practical": "Do not wander far from the main direction.\nKeep track of the nearest toilet.\nIf a child is tired, shorten the zoo right away.",
+        "context": "After pandas, do not wander far. Choose a few nearby sections, have a snack, find a toilet, and honestly decide whether the aquarium is useful now or whether it is better to finish the visit.",
+        "lookFor": "Benches in shade\nShort passages without crowds\nSigns toward the aquarium\nPlaces where a child can rest",
+        "practical": "Do not add distant enclosures out of stubbornness.\nKeep water and a snack ready.\nIf a child is tired, shorten the route immediately.",
         "nextMove": "If there is energy, continue to Beijing Aquarium; if not, exit toward a taxi."
       },
       "id": "kids-3",
@@ -908,45 +1048,62 @@
     {
       "entry": "separate ticket",
       "name": "Beijing Aquarium",
+      "nameLocal": "北京海洋馆",
       "note": "An indoor finish for heat or rain",
       "time": "1.5-2.5 h",
       "walk": "-",
+      "coordinates": {
+        "latitude": 39.9433083,
+        "longitude": 116.3347572
+      },
       "content": {
         "context": "Move to the aquarium when the zoo has already provided enough noise and walking. Indoors it is easier to wait out rain or heat, but do not turn the visit into a race through every show. Choose tanks and short pauses.",
-        "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest",
-        "practical": "Check hours separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back by taxi or metro without adding new walks.",
-        "nextMove": "End the day here and choose the simplest way back to the hotel."
+        "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest\nA clear exit after the finish",
+        "practical": "Check hours and ticketing separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back without adding another walk.",
+        "nextMove": "End the day here and choose the simplest way back to the hotel.",
+        "sourceNote": "Aquarium hours, tickets, and show schedules change; check them separately from the zoo."
       },
       "id": "kids-4",
       "guideId": "kids",
       "order": 4
     },
     {
-      "name": "Leaving Beijing",
-      "note": "Transport decides the quality of the day",
-      "time": "1.5-2.5 h",
-      "walk": "transfer",
+      "entry": "tickets and shuttle",
+      "name": "Mutianyu Entrance",
+      "nameLocal": "慕田峪长城旅游区",
+      "note": "Sort tickets and shuttle first",
+      "time": "45-75 min",
+      "walk": "ascent to the Wall",
+      "coordinates": {
+        "latitude": 40.4308245,
+        "longitude": 116.5642935
+      },
       "content": {
-        "context": "A Mutianyu day starts with the road. A late start, unclear return transport, or an attempt to add central Beijing quickly turns the walk into a race, so leave in the morning and keep the evening open.",
-        "lookFor": "Departure time\nClear pickup point\nReturn-road plan",
-        "practical": "Leave in the morning.\nCheck the forecast before paying for transport.\nDo not place fixed plans in the city after the Wall.",
-        "nextMove": "Go straight to the Mutianyu entry zone without intermediate stops."
+        "context": "The entry zone sets up the whole day. Look for ticketing, shuttle, queues for ascent options, and the tower map; decide here whether you want more walking or to save energy for the Wall.",
+        "lookFor": "Shuttle signs\nQueues for ascent options\nTower map\nWhere people return after descending",
+        "practical": "Check opening hours and last entry before leaving Beijing.\nKeep tickets until you fully exit.\nIn wind, ascent options may operate differently.",
+        "nextMove": "Choose the ascent and go up to your wall section.",
+        "sourceNote": "Mutianyu hours, ticketing, and lift operations depend on season and weather."
       },
       "id": "wall-1",
       "guideId": "wall",
       "order": 1
     },
     {
-      "entry": "check tickets",
-      "name": "Mutianyu Entrance",
-      "note": "Tickets, shuttle, and ascent choice",
-      "time": "45-75 min",
-      "walk": "ascent",
+      "entry": "ascent choice",
+      "name": "Ascent To The Wall",
+      "note": "Save your legs for the Wall itself",
+      "time": "30-60 min",
+      "walk": "20 min to towers",
+      "coordinates": {
+        "latitude": 40.4309368,
+        "longitude": 116.5642868
+      },
       "content": {
-        "context": "In the entry zone, do not improvise while walking. Look at ticket windows, shuttle, lift queues, and the tower map. Decide here whether you want more walking or to save energy for the Wall itself.",
-        "lookFor": "Shuttle signs\nQueues for ascent options\nMap of towers and exits",
-        "practical": "Check hours and tickets in advance.\nIn wind, some ascent options may work differently.\nKeep tickets until you fully exit.",
-        "nextMove": "Go up to your chosen section and begin the walk between towers."
+        "context": "On the ascent, do not compete with the map. If one option has a long queue or the wind picks up, choose the simpler way up and save your strength for walking between towers.",
+        "lookFor": "Queues for ascent options\nSigns toward towers\nWeather on the upper section\nPeople already descending",
+        "practical": "Check where you will come down later.\nDo not throw away tickets.\nIf weather worsens, shorten the plan before reaching the Wall.",
+        "nextMove": "On the Wall, move toward nearby towers and choose a turn-back point."
       },
       "id": "wall-2",
       "guideId": "wall",
@@ -954,65 +1111,44 @@
     },
     {
       "name": "Wall Section",
-      "note": "Walk by energy, not by maximum distance",
-      "time": "1-2 h",
-      "walk": "30 min",
+      "nameLocal": "慕田峪长城",
+      "note": "Walk tower to tower, not to the maximum",
+      "time": "1.5-2.5 h",
+      "walk": "40 min to descent",
+      "coordinates": {
+        "latitude": 40.4345154,
+        "longitude": 116.5605754
+      },
       "content": {
-        "context": "On the Wall, distance on the map is misleading: steps, slopes, and wind change the load quickly. Walk from tower to tower and decide in advance where to turn back so you still have energy to return and descend calmly.",
-        "lookFor": "Changes in step height\nRidge turns\nHow visibility changes",
-        "practical": "In heat, shorten climbs.\nAfter rain, be careful on stone.\nDo not go farther than you are ready to walk back.",
-        "nextMove": "Move toward the nearest watchtowers and choose your turn-back point."
+        "context": "On the Wall, kilometers explain little: steps are uneven, slopes change, and wind can be stronger than at the entrance. Walk tower to tower and turn back before fatigue becomes the main part of the day.",
+        "lookFor": "Changes in step height\nRidge turns\nHow visibility changes\nA tower where it makes sense to turn back",
+        "practical": "After rain, be careful on stone.\nIn heat, shorten climbs.\nDo not go farther than you are ready to walk back.",
+        "nextMove": "Turn toward your chosen descent while you still have energy for steps."
       },
       "id": "wall-3",
       "guideId": "wall",
       "order": 3
     },
     {
-      "name": "Watchtowers",
-      "note": "Choose a tower for stopping and turning back",
-      "time": "40-75 min",
-      "walk": "40 min",
+      "entry": "by chosen ticket",
+      "name": "Descent And Exit",
+      "note": "Do not leave food and return transport too late",
+      "time": "1-1.5 h",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 40.4308245,
+        "longitude": 116.5642935
+      },
       "content": {
-        "context": "In the towers, stop where there are fewer people and a safe place to stand near an opening. Watch the Wall run along the ridge and around turns, but do not linger in narrow passages.",
-        "lookFor": "The Wall line along the ridge\nOpenings inside towers\nLess crowded sections",
-        "practical": "Do not block narrow passages.\nWind at the top can be stronger than at the entrance.\nIf visibility drops, start the return.",
-        "nextMove": "Turn toward the descent before fatigue becomes the main story of the day."
+        "context": "After the Wall, descending takes attention, especially in wind or after rain. Once you are down, find toilets, food, shuttle, and your return transport point right away; do not leave everything for the road.",
+        "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with clear menus\nConfirmed return transport",
+        "practical": "Check where your shuttle or car leaves from.\nCheck your connection before heading out.\nDo not put a fixed plan in Beijing that evening.",
+        "nextMove": "Return to the city and keep only a simple dinner near your stay."
       },
       "id": "wall-4",
       "guideId": "wall",
       "order": 4
-    },
-    {
-      "entry": "by chosen ticket",
-      "name": "Descent And Lunch",
-      "note": "Do not leave food too late",
-      "time": "1-1.5 h",
-      "walk": "transfer",
-      "content": {
-        "context": "Descending after steps takes attention, especially after rain or in wind. Once you leave the upper section, find toilets, food, and the shuttle right away; do not leave everything for the road back.",
-        "lookFor": "Descent queue\nSigns toward the shuttle\nPlaces with understandable menus",
-        "practical": "Check where your shuttle leaves from.\nDo not throw away tickets before the full exit.\nIf the queue grows, descend earlier.",
-        "nextMove": "After lunch, do not add new sights: prepare to return to Beijing."
-      },
-      "id": "wall-5",
-      "guideId": "wall",
-      "order": 5
-    },
-    {
-      "name": "Return To The City",
-      "note": "Keep the evening without a fixed plan",
-      "time": "1.5-3 h",
-      "walk": "-",
-      "content": {
-        "context": "The return road depends on traffic, weather, and how quickly you left the Mutianyu zone. Do not promise yourself an exact evening plan; count the return as the last part of the route.",
-        "lookFor": "Confirmed car or bus\nTraffic entering the city\nNearest dinner by your hotel",
-        "practical": "Check your connection before leaving.\nKeep the hotel address in Chinese.\nIf you are tired, choose dinner near your stay.",
-        "nextMove": "End the day in the city without a second major walk."
-      },
-      "id": "wall-6",
-      "guideId": "wall",
-      "order": 6
     }
   ],
-  "packHash": "88ff1cc88b5f"
+  "packHash": "f6bcb590eb47"
 }

@@ -3,9 +3,9 @@
   "cityId": "seoul",
   "category": "Classic",
   "title": "First Seoul",
-  "subtitle": "Gwanghwamun / Jongno",
-  "blurb": "The main palace, hanok streets, and the old-center stream in one day.",
-  "mood": "History, courtyards, and a gentle pace",
+  "subtitle": "Gyeongbokgung / Bukchon / Jongno",
+  "blurb": "Walk from the main palace to hanok streets, a temple, and the old-center stream.",
+  "mood": "Morning start, palaces, quiet Bukchon",
   "accent": "#9C3B2E",
   "soft": "#F2E4DF",
   "deep": "#7A2C22",
@@ -13,52 +13,170 @@
   "motif": "axis",
   "duration": "Day",
   "stops": 5,
-  "distance": "3.4 km",
+  "distance": "4-5 km",
   "pace": "day",
   "kids": false,
   "microcopy": {
-    "kicker": "First route",
-    "line": "One central area, without jumps between districts."
+    "kicker": "Start in the morning",
+    "line": "The palace and Bukchon are easier before the dense daytime flow."
+  },
+  "cover": {
+    "alt": "Дворцовые крыши и горный склон в утреннем свете",
+    "id": "seoul-first-time-cover",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-cover-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-cover-wide.jpg"
   },
   "content": {
-    "intro": "This day stays around the old Joseon capital: palace axis, museum by the gates, residential hanok area, temple pause, and Cheonggyecheon stream. The route does not try to show all of Seoul at once, but it gives a clear first map of the city.\n\nYou can walk from Gwanghwamun to Cheonggyecheon. In Bukchon, do not linger at house gates; if the upper streets are packed with groups, drop toward Anguk and add a cafe on the way.",
-    "routeLogic": "Start with Gyeongbokgung while group traffic is lighter.\nAfter the palace, move into the museum so the whole day is not outdoors.\nPass through Bukchon quietly and without long photo sessions.\nAt Jogyesa, slow down before noisy Jongno.\nAt Cheonggyecheon, finish by the nearest metro exit or keep walking along the water if you still have energy.",
-    "bestFor": "a first visit\nold center orientation\npalaces and hanok\none day without distant transfers",
-    "notFor": "a late start\nstrong heat or heavy rain\ntravelers who want only modern Seoul",
-    "beforeYouGo": "Check palace and museum hours and closed days.\nFollow quiet-tourism rules in Bukchon.\nPart of the day is outdoors, so avoid heavy rain.\nA transit card is useful for metro and buses.",
-    "timing": "Start in the morning at Gwanghwamun: the palace and Bukchon are calmer before midday.",
-    "fallbackPlan": "If the palace is closed or weather is poor, keep the museum and Jogyesa, and shorten Bukchon to a brief passage from Anguk."
+    "intro": "This day keeps the old center together without distant transfers: Gyeongbokgung, the museum by the palace edge, residential Bukchon, Jogyesa, and Cheonggyecheon. Move from large gates to narrow streets, then to the water where it is easy to finish by metro.\n\nThe main risk is arriving late and meeting queues, heat, or crowded lanes all at once. If your start shifts toward midday, shorten the palace or Bukchon instead of dragging the whole route through the crowd.",
+    "routeLogic": "Start at Gyeongbokgung and keep to the main entrance without side detours.\nAfter the palace, use the Folk Museum so part of the day is indoors.\nIn Bukchon, do not linger at house gates and drop downhill if the lanes are packed.\nAt Jogyesa, lower your voice and stay near the courtyard edge during services.\nAt Cheonggyecheon, choose the nearest metro exit or keep walking along the water if you still have energy.",
+    "bestFor": "a first day in Seoul\nold-center orientation without long transfers\npalace gates, hanok lanes, and a short temple stop",
+    "notFor": "a late start\nheavy rain, strong heat, or poor fine-dust conditions\ntravelers who want only modern Seoul",
+    "beforeYouGo": "Check Gyeongbokgung and Folk Museum hours: the palace has seasonal hours and closes on Tuesdays. For Bukchon, check the current quiet-visit rules and do not plan an evening passage. Carry a transit card; even a walking day can end in another part of Jongno.",
+    "timing": "Start in the morning at Gwanghwamun. The palace and museum take the first half of the day, Bukchon is better before evening restrictions, and Cheonggyecheon stays flexible for the finish.",
+    "fallbackPlan": "If the palace is closed or the queue is too dense, keep the museum, Jogyesa, and Cheonggyecheon, and move the palace to another morning slot."
   },
   "stopList": [
     {
       "entry": "ticketed",
       "name": "Gyeongbokgung",
-      "note": "The palace sets the old-center axis",
-      "time": "90 min",
+      "nameLocal": "경복궁",
+      "note": "Check seasonal hours and the Tuesday closure",
+      "time": "90-120 min",
       "walk": "5 min",
+      "coordinates": {
+        "latitude": 37.5797662,
+        "longitude": 126.9769021
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "18:30"
+          },
+          {
+            "weekday": 1,
+            "opens": "09:00",
+            "closes": "18:30"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "18:30"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "18:30"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "18:30"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "18:30"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Двор Кёнбоккуна с дворцовыми крышами",
+        "attribution": {
+          "author": "Honza Soukup",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongbok_Palace_%EA%B2%BD%EB%B3%B5%EA%B6%81_(3119193250).jpg"
+        },
+        "id": "seoul-first-time-1",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-1-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-1-wide.jpg"
+      },
       "content": {
-        "context": "Gyeongbokgung was the main Joseon palace and stands at the north edge of Gwanghwamun. In this route it sets the scale of the old capital: gates, courts, axial layout, and an easy move to the museum in the palace cluster.",
-        "lookFor": "How gates line up the movement\nOpen courts between pavilions\nMountain view behind the palace\nQuieter side passages if the main court is crowded",
-        "practical": "Hours, closed days, and tickets change; check before leaving.\nMost of the walk is outdoors.\nThe gate ceremony can draw a dense crowd.",
-        "nextMove": "After the palace, move to the Folk Museum near the palace complex without planning a separate transfer.",
-        "sourceNote": "Palace hours, closed days, and ticket rules can change; check current visitor information before leaving."
+        "context": "Gyeongbokgung sets the scale of old Seoul: broad courts, gates, an axial walk, and mountain views behind palace roofs. Do not let the first stop consume the whole day; see the main line and save energy for Bukchon.",
+        "lookFor": "The shift from urban Gwanghwamun into the palace court\nMountains behind the north side of the complex\nSide passages where the flow is lighter\nQueues near the gates before ceremonies",
+        "practical": "In June, hours differ from winter hours; check the current season before visiting.\nThe palace is closed on Tuesdays except for some holiday periods.\nMost of this stop is outdoors, so heat and rain change the pace quickly.",
+        "nextMove": "After the palace, walk to the National Folk Museum in the same palace area without planning a separate transfer.",
+        "sourceNote": "Palace hours are seasonal; check the current month on the official visitor page before buying a ticket."
       },
       "id": "seoul-first-time-1",
       "guideId": "seoul-first-time",
       "order": 1
     },
     {
-      "entry": "often free",
+      "entry": "usually free",
       "name": "National Folk Museum",
-      "note": "An indoor pause after the palace",
+      "nameLocal": "국립민속박물관",
+      "note": "An indoor shift from palace space to daily culture",
       "time": "60 min",
       "walk": "10 min",
+      "coordinates": {
+        "latitude": 37.5808343,
+        "longitude": 126.9790431
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Здание Национального фольклорного музея Кореи",
+        "attribution": {
+          "author": "Julian Fong",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Folk_Museum_of_Korea.jpg"
+        },
+        "id": "seoul-first-time-2",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-2-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-2-wide.jpg"
+      },
       "content": {
-        "context": "The National Folk Museum of Korea shifts the day from palace architecture to everyday culture. It works well second: after large courts, you get an indoor pause while the route stays tied to the old center.",
-        "lookFor": "Seasonal and everyday stories in the permanent display\nObjects that explain family and city rituals\nCourtyard and exterior details between halls",
-        "practical": "Entry rules and temporary closures should be checked separately.\nThe children museum may require online booking.\nThis is a useful stop for heat, cold, or rain.",
-        "nextMove": "Continue to Bukchon through the Anguk area; the walk is short, but hills can slow the pace.",
-        "sourceNote": "Museum access rules and special areas can change; check current visitor information."
+        "context": "The National Folk Museum works well right after the palace: it moves the day from architecture into clothing, homes, calendars, and rituals. It also gives you a break from open palace courts if the weather is tiring.",
+        "lookFor": "Permanent galleries instead of racing through every case\nObjects about home life and seasonal rituals\nThe courtyard between museum buildings\nSigns toward the Samcheong-dong side",
+        "practical": "The children museum has separate rules and may require booking.\nHoliday closures and temporary exhibitions can change access.\nIf you are already tired of galleries, keep this to one permanent section.",
+        "nextMove": "Leave toward Bukchon through Samcheong-dong and Anguk; the climbs are short but noticeable.",
+        "sourceNote": "Check holiday closures and children museum rules separately before a family visit."
       },
       "id": "seoul-first-time-2",
       "guideId": "seoul-first-time",
@@ -67,15 +185,33 @@
     {
       "entry": "quiet passage",
       "name": "Bukchon",
-      "note": "Residential hanok area: keep it quiet",
-      "time": "45 min",
+      "nameLocal": "북촌한옥마을",
+      "note": "Residential hanok streets: do not linger at gates",
+      "time": "40-50 min",
       "walk": "12 min",
+      "coordinates": {
+        "latitude": 37.5823919,
+        "longitude": 126.9858648
+      },
+      "photo": {
+        "alt": "Улица Букчона с домами ханок",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Village_Seoul.jpg"
+        },
+        "id": "seoul-first-time-3",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-3-wide.jpg"
+      },
       "content": {
-        "context": "Bukchon is not an open-air museum but a residential hanok area between palaces. In this route it is not about waiting for the same photo. It shows how the old city scale still lives beside modern streets.",
-        "lookFor": "Tile roof lines on narrow streets\nHeight changes between lanes\nClosed gates as signs of private life\nViews toward palace districts",
-        "practical": "Keep quiet and do not film inside homes.\nSome zones may have visiting restrictions.\nSmall groups work better here.",
-        "nextMove": "From Bukchon, go down toward Insadong and Jogyesa, choosing calmer lanes if the main streets are crowded.",
-        "sourceNote": "Residential access and quiet-tourism rules can change; check current guidance before going."
+        "context": "Bukchon is powerful because it is not an open-air museum but a lived-in neighborhood between palaces. Use it for street scale and hanok roof lines, but keep the passage short and respectful.",
+        "lookFor": "Tile roof lines on the climb\nBehavior-rule signs\nClosed gates as boundaries of private life\nDownhill routes toward Anguk if the upper lanes are packed",
+        "practical": "The red zone has time restrictions and fines; do not plan this stretch for evening.\nSpeak more quietly than usual and do not film through doors.\nOn Sundays, some lanes are better left to residents because of rest-day guidance.",
+        "nextMove": "Go down toward Jogyesa through the Anguk and Insadong side, choosing wider streets if the lanes are crowded.",
+        "sourceNote": "Bukchon rules changed from 2024 onward; check visiting windows and fines before walking there."
       },
       "id": "seoul-first-time-3",
       "guideId": "seoul-first-time",
@@ -84,14 +220,32 @@
     {
       "entry": "respectfully",
       "name": "Jogyesa",
-      "note": "A calm temple stop",
-      "time": "30 min",
+      "nameLocal": "조계사",
+      "note": "A short temple stop beside Jongno",
+      "time": "25-35 min",
       "walk": "8 min",
+      "coordinates": {
+        "latitude": 37.5741432,
+        "longitude": 126.981912
+      },
+      "photo": {
+        "alt": "Двор храма Чогеса в центре Сеула",
+        "attribution": {
+          "author": "Francisco Anzola",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogyesa_Temple_(1509839597).jpg"
+        },
+        "id": "seoul-first-time-4",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-4-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-4-wide.jpg"
+      },
       "content": {
-        "context": "Jogyesa stands beside office and tourist Jongno, but the courtyard immediately slows the pace. After Bukchon it is a short, focused pause: the temple shows a Buddhist layer of the city without a long detour.",
-        "lookFor": "Main hall and painted eaves\nLanterns and seasonal decoration in the courtyard\nHow the temple court fits inside the dense center",
-        "practical": "Speak quietly and do not disturb services.\nSome indoor areas may discourage photography.\nIf a ceremony is underway, stay with the courtyard.",
-        "nextMove": "Walk from the temple to Cheonggyecheon: it is a short move from a quiet courtyard to open city water."
+        "context": "Jogyesa sits among Jongno office streets and slows the day quickly after Bukchon. This is not a long photo stop: enter the courtyard, look at the main hall, and move on if a service is underway.",
+        "lookFor": "The main hall among dense city buildings\nPainted eaves\nLanterns and seasonal decoration in the courtyard\nPeople who came to pray, not sightsee",
+        "practical": "Speak quietly and do not block paths.\nDuring services, stay near the courtyard edge.\nIf the hall is busy, keep to the outside circuit.",
+        "nextMove": "Walk from Jogyesa to Cheonggyecheon; within a few blocks the street noise drops to the lower level by the water."
       },
       "id": "seoul-first-time-4",
       "guideId": "seoul-first-time",
@@ -100,14 +254,33 @@
     {
       "entry": "free",
       "name": "Cheonggyecheon",
-      "note": "Finish with a walk along the water",
-      "time": "45 min",
+      "nameLocal": "청계천",
+      "note": "Finish by the water with quick exits to metro",
+      "time": "40-50 min",
       "walk": "-",
+      "coordinates": {
+        "latitude": 37.5689476,
+        "longitude": 126.9933765
+      },
+      "photo": {
+        "alt": "Ручей Чхонгечхон у моста и цветов",
+        "attribution": {
+          "author": "Basile Morin",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_with_flowers_and_bridge_at_sunrise_near_Cheonggye_Plaza_in_Seoul.jpg"
+        },
+        "id": "seoul-first-time-5",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-first-time-5-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-first-time-5-wide.jpg"
+      },
       "content": {
-        "context": "Cheonggyecheon brings the route back from palaces and lanes into the modern center. It works as a finish because you can walk only as far as you have energy, exit to metro at several points, or sit by the water.",
-        "lookFor": "Steps down from street level\nBridges and stone crossings\nThe shift from street noise to the lower level\nEvening light if you finish near dusk",
-        "practical": "After heavy rain, access to the lower level can change.\nFestivals and weekends can make it busier.\nKeep a metro exit as plan B.",
-        "nextMove": "End at the nearest metro station or continue along the stream toward Jongno if you still have energy."
+        "context": "Cheonggyecheon brings the day from palaces and lanes back into the modern center. You can finish at almost any point: stairs lead up to streets and metro, while the lower level softens city noise.",
+        "lookFor": "Steps from traffic level down to water\nBridges and stone crossings\nSections where traffic sounds fade\nExits before the next station",
+        "practical": "After heavy rain, access to the lower level can change.\nFestivals and weekends make it denser.\nDo not wander too far along the stream if dusk is falling and you need a clear exit.",
+        "nextMove": "End at the nearest metro station or continue along the stream only until the next convenient return point.",
+        "sourceNote": "Check stream access and events on the same day after heavy rain."
       },
       "id": "seoul-first-time-5",
       "guideId": "seoul-first-time",

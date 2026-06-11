@@ -1,0 +1,172 @@
+{
+  "id": "tivat-north-shore",
+  "cityId": "tivat",
+  "category": "Waterfront",
+  "title": "Shore To Lastva",
+  "subtitle": "Seljanovo / Donja Lastva",
+  "blurb": "A quieter northern shore after the marina: beaches, village edge, and long evening light.",
+  "mood": "Evening, water, no climb",
+  "accent": "#2F6F9F",
+  "soft": "#DDE9F0",
+  "deep": "#1F4F77",
+  "ink": "#1D4667",
+  "motif": "lane",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "4.2 km",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "After the marina",
+    "line": "Walk north, where the waterfront gets quieter."
+  },
+  "cover": {
+    "id": "tivat-north-shore-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-square.jpg",
+    "alt": "Тихая северная набережная Тивата с лодками и домами у воды"
+  },
+  "content": {
+    "intro": "This route leaves the polish of Porto Montenegro for Tivat northern shore. Start at the museum and marina edge, then continue through Ponta Seljanovo, beach sections, Donja Lastva, and the longer finish at Opatovo.\n\nIt works best in the evening: water stays beside you and there are no hills, but exposed waterfront stretches are tiring in summer. With children, decide your finish early instead of dragging everyone to Opatovo.",
+    "routeLogic": "Start at the Naval Heritage Museum so you do not backtrack through the center.\nAt Ponta Seljanovo, check wind and the feel of the shore.\nTreat beach areas as flexible; access and crowds are seasonal.\nSlow down at Donja Lastva old village edge.\nContinue to Opatovo only if there is light and energy left.",
+    "bestFor": "an evening walk\nfamilies without a hill climb\nwater and village shore\na second day in Tivat",
+    "notFor": "midday sun\nheavy rain or strong wind\ntravelers who want a museum-focused day",
+    "beforeYouGo": "Check weather and seasonal beach access. Do not build the route around one beach club; conditions change.",
+    "timing": "Best after 16:30. If you start late, finish in Donja Lastva rather than forcing the walk to Opatovo.",
+    "fallbackPlan": "Shorten the route to Ponta Seljanovo and Donja Lastva, then return by taxi or bus after checking the timetable."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Porto North Edge",
+      "note": "Start where the marina gets quieter",
+      "time": "20 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The north edge of Porto Montenegro is a useful start: central noise is behind you and the shore toward Seljanovo begins almost immediately. It is easier here to shift from display marina to ordinary waterfront walk.",
+        "lookFor": "Masts against the mountains\nWhere the main marina promenade ends\nThe move toward a more residential shore\nPlaces where you can shorten the day early",
+        "practical": "Do not enter closed pier areas. If wind already feels unpleasant here, do not continue all the way to Opatovo.",
+        "nextMove": "Walk northwest toward Ponta Seljanovo, keeping to the streets closest to the water."
+      },
+      "id": "tivat-north-shore-1",
+      "guideId": "tivat-north-shore",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Ponta Seljanovo",
+      "nameLocal": "Ponta Seljanova",
+      "note": "Cape and beach edge after the marina",
+      "time": "35 min",
+      "walk": "15 min",
+      "coordinates": {
+        "latitude": 42.4392675,
+        "longitude": 18.6848074
+      },
+      "photo": {
+        "id": "tivat-ponta-seljanovo-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tivat_embankment_-_panoramio.jpg",
+        "alt": "Набережная Тивата у воды",
+        "attribution": {
+          "author": "Anton Nossik",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_embankment_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Ponta Seljanovo shows another Tivat shore: less formal marina, more water, beach edges, and local evening movement. It is a good decision point: continue north or keep the walk short.",
+        "lookFor": "Open bay angle\nBoats and small beach sections\nHow the sound changes after Porto Montenegro\nAny shade before the next stretch",
+        "practical": "Beach access and loungers depend on season and operator. Do not treat swimming here as a guaranteed part of the route.",
+        "nextMove": "Continue along the shore toward Donja Lastva; if sidewalk, heat, or wind is poor, take a short transport hop."
+      },
+      "id": "tivat-north-shore-2",
+      "guideId": "tivat-north-shore",
+      "order": 2
+    },
+    {
+      "entry": "as available",
+      "name": "Seljanovo Beaches",
+      "note": "Flexible water stop without a hard plan",
+      "time": "30 min",
+      "walk": "18 min",
+      "content": {
+        "context": "Beach sections between Seljanovo and Donja Lastva are best treated as flexible. Some days this is a swim and ice cream; other days it is only a waterfront passage if seasonal areas are crowded.",
+        "lookFor": "Where the shore remains public\nLow walls and water steps\nEasy child pauses without a long detour\nTree shade later in the day",
+        "practical": "Beach conditions change by season. Do not assume the same facilities on every section, and keep belongings close.",
+        "nextMove": "Move toward Donja Lastva and decide early whether you really want to continue to Opatovo."
+      },
+      "id": "tivat-north-shore-3",
+      "guideId": "tivat-north-shore",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Donja Lastva",
+      "nameLocal": "Donja Lastva",
+      "note": "Village shore instead of display windows",
+      "time": "40 min",
+      "walk": "20 min",
+      "coordinates": {
+        "latitude": 42.4445725,
+        "longitude": 18.6892569
+      },
+      "photo": {
+        "id": "tivat-donja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+        "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+        "attribution": {
+          "author": "ines lukic",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Donja Lastva returns the walk to a residential scale: low houses, shore passages, and less resort staging. After Seljanovo, slow down and decide whether you still have enough energy for the longer finish.",
+        "lookFor": "Old stone houses by the water\nSmall piers and boats\nViews back across Tivat Bay\nEvening light on Vrmac slopes",
+        "practical": "Do not enter private yards or piers. If dusk is close, finish here instead of continuing by momentum.",
+        "nextMove": "Walk to Opatovo only with good light and enough energy; otherwise end by the nearest stop or cafe."
+      },
+      "id": "tivat-north-shore-4",
+      "guideId": "tivat-north-shore",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Opatovo",
+      "nameLocal": "Opatovo",
+      "note": "Longer finish on the northern shore",
+      "time": "30 min",
+      "walk": "-",
+      "content": {
+        "context": "Opatovo is the finish if you wanted a real northern-shore walk rather than a short promenade. Do not force it: the value is ending calmly by the water, not checking one more name.",
+        "lookFor": "Quieter shore beyond Donja Lastva\nLong bay views\nPlaces to sit before returning\nTivat lights left behind you",
+        "practical": "Check return transport in advance. In the dark, do not continue along poorly lit sections.",
+        "nextMove": "Return by taxi or bus after checking the schedule; walk back only if you still have real energy."
+      },
+      "id": "tivat-north-shore-5",
+      "guideId": "tivat-north-shore",
+      "order": 5
+    }
+  ]
+}

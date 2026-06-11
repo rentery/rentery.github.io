@@ -3,8 +3,8 @@
   "slug": "seoul",
   "title": "Сеул",
   "subtitle": "Seoul · 서울 · 5 маршрутов",
-  "meta": "Республика Корея · дворцы, районы, рынки и река",
-  "practicalNote": "Лучше апрель-май и сентябрь-октябрь. Летом жарко и дождливо, зимой холодно; перед длинной прогулкой проверьте погоду и мелкую пыль.",
+  "meta": "Республика Корея · дворцы, холмы, рынки, музеи и Ханган",
+  "practicalNote": "Лучше планировать длинные прогулки на апрель-май или сентябрь-октябрь. Летом закладывайте жару, ливни и сезон тайфунов, зимой - холод; для уличных маршрутов утром сверяйте прогноз и мелкую пыль. Между Ханганом, Йонсаном, Намсаном и старым центром используйте метро или такси: пешие расстояния быстро становятся длиннее, чем выглядят на карте.",
   "guideIds": [
     "seoul-first-time",
     "seoul-old-city-walk",
@@ -12,15 +12,26 @@
     "seoul-calm-day",
     "seoul-river-views"
   ],
+  "coordinates": {
+    "latitude": 37.566,
+    "longitude": 126.9784
+  },
   "identity": {
     "accent": "#205E54",
     "soft": "#DDE9E4",
     "deep": "#16463E",
     "ink": "#143F38",
     "motif": "palace",
-    "glyph": "漢",
+    "glyph": "한",
     "hook": "Ханян стал столицей Чосон · 1394"
   },
   "timezone": "Asia/Seoul",
-  "countryId": "south-korea"
+  "countryId": "south-korea",
+  "photo": {
+    "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
+    "id": "seoul-hero",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "id": "sarajevo",
+  "slug": "sarajevo",
+  "title": "Sarajevo",
+  "subtitle": "Sarajevo · 5 routes",
+  "meta": "Bosnia and Herzegovina - old bazaar, river, museums, and mountains",
+  "practicalNote": "Central walks are short, but cobblestones and slopes get tiring after rain. For Ilidza, Trebevic, and Tunnel of Hope, check transport, cable-car operation, and hours on the day; keep some KM cash. Outside the city, stay on paved or marked routes because of landmine and unexploded-ordnance risk.",
+  "guideIds": [
+    "sarajevo-first-day",
+    "sarajevo-old-lanes",
+    "sarajevo-river-museums",
+    "sarajevo-trebevic",
+    "sarajevo-ilidza"
+  ],
+  "coordinates": {
+    "latitude": 43.84864,
+    "longitude": 18.35644
+  },
+  "photo": {
+    "id": "sarajevo-sarajevo-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
+    "alt": "Sarajevo valley with river, old town, and mountains"
+  },
+  "identity": {
+    "accent": "#2F6D6C",
+    "soft": "#DDEAE6",
+    "deep": "#194B4D",
+    "ink": "#173F3F",
+    "motif": "axis",
+    "glyph": "SA",
+    "hook": "Ottoman center by the Miljacka - 1462"
+  },
+  "timezone": "Europe/Sarajevo",
+  "countryId": "bosnia-and-herzegovina"
+}

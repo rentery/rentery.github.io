@@ -1,0 +1,888 @@
+[
+  {
+    "id": "belgrade-first-day",
+    "cityId": "belgrade",
+    "category": "First Day",
+    "title": "Central Belgrade",
+    "subtitle": "Square / Knez Mihailova",
+    "blurb": "Main square, pedestrian street, museum, and Skadarlija in one short loop.",
+    "mood": "Urban, facade-rich, evening-friendly",
+    "accent": "#B4513A",
+    "soft": "#F0E2D7",
+    "deep": "#6C332D",
+    "ink": "#4C2C2A",
+    "motif": "lane",
+    "duration": "Half-day",
+    "stops": 4,
+    "distance": "2.8 km",
+    "pace": "half",
+    "kids": false,
+    "microcopy": {
+      "kicker": "First loop",
+      "line": "A clear central axis without long transfers."
+    },
+    "content": {
+      "intro": "This route gives you Belgrade without trying to cover the whole city at once. It starts at the main meeting point, follows the pedestrian street, leaves time for the National Museum, and finishes in Skadarlija.\n\nThe loop is short and useful after arrival: you can walk it, adjust the pace to the weather, and avoid depending on transport. If the museum is closed, keep the square and Knez Mihailova, then move Skadarlija closer to evening.",
+      "routeLogic": "Start at Republic Square as the easiest central reference.\nWalk Knez Mihailova toward the old city, but do not rush to the fortress.\nUse the museum in the middle of the day when you want an indoor stretch.\nKeep Skadarlija for the finish, when the area wakes up.",
+      "bestFor": "a first visit\na short central walk\na museum in the center\nan evening without transfers",
+      "notFor": "travelers who want the rivers first\nvery early morning\na day that needs quiet streets",
+      "beforeYouGo": "Check National Museum hours.\nIn heat, keep the museum as an indoor break.\nSkadarlija can be loud and busy in the evening.",
+      "timing": "Start after breakfast or around midday, so the museum and evening Skadarlija fit naturally.",
+      "fallbackPlan": "If the museum is closed, slow down in the center and add Kalemegdan only as a brief viewpoint, not the full fortress route."
+    },
+    "stopList": [
+      {
+        "entry": "free",
+        "name": "Republic Square",
+        "nameLocal": "Трг републике",
+        "note": "The simplest first central marker",
+        "time": "20 min",
+        "walk": "8 min",
+        "coordinates": {
+          "latitude": 44.8162216,
+          "longitude": 20.4602953
+        },
+        "photo": {
+          "id": "belgrade-republic-square",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/republic-square-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/republic-square-square.jpg",
+          "alt": "Площадь Республики в Белграде",
+          "attribution": {
+            "author": "AndrejBGD",
+            "license": "CC BY-SA 4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republic_Square_in_Belgrade.jpg",
+            "retrievedAt": "2026-06-11"
+          }
+        },
+        "content": {
+          "context": "Republic Square is an easy starting point: the National Theatre, National Museum, and Prince Mihailo monument are all close by. It is a practical place to gather, check direction, and see how the center turns into the pedestrian street.",
+          "lookFor": "Prince Mihailo monument as the meeting point\nMuseum and theatre facades around the square\nPeople moving toward Knez Mihailova\nTrams and buses around the edges",
+          "practical": "The square is open at all hours.\nKeep belongings close in crowds.\nFor taxis or scooters, move to a nearby side street.",
+          "nextMove": "Step onto Knez Mihailova and take it slowly; the main pedestrian stretch begins almost at the square."
+        },
+        "id": "belgrade-first-day-1",
+        "guideId": "belgrade-first-day",
+        "order": 1
+      },
+      {
+        "entry": "free",
+        "name": "Knez Mihailova",
+        "nameLocal": "Кнеза Михаила",
+        "note": "The pedestrian street points to the old city",
+        "time": "35 min",
+        "walk": "4 min",
+        "coordinates": {
+          "latitude": 44.8178911,
+          "longitude": 20.4567721
+        },
+        "photo": {
+          "id": "belgrade-knez-mihailova",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/knez-mihailova-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/knez-mihailova-square.jpg",
+          "alt": "Улица Кнеза Михаила в центре Белграда",
+          "attribution": {
+            "author": "Jaimrsilva",
+            "license": "CC BY-SA 4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knez_Mihailova_Street_(Belgrade).jpg",
+            "retrievedAt": "2026-06-11"
+          }
+        },
+        "content": {
+          "context": "Knez Mihailova links Republic Square with the direction of Kalemegdan and shows Belgrade from its more formal urban side. On a first route it is not only about shopping, but about orientation.",
+          "lookFor": "Balconies and corner facades\nSide passages to cafes and galleries\nThe flow getting denser near the fortress side\nStreet musicians when they do not block movement",
+          "practical": "Evenings and weekends are much busier.\nCafes keep their own hours.\nIn heat, choose the shaded side of the street.",
+          "nextMove": "Return to the National Museum by the square, or visit the museum first if you want the galleries before the walk."
+        },
+        "id": "belgrade-first-day-2",
+        "guideId": "belgrade-first-day",
+        "order": 2
+      },
+      {
+        "entry": "ticketed",
+        "name": "National Museum",
+        "nameLocal": "Народни музеј Србије",
+        "note": "Indoor history and art in the center",
+        "time": "75 min",
+        "walk": "10 min",
+        "coordinates": {
+          "latitude": 44.816789,
+          "longitude": 20.4596465
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 0,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 2,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "12:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "12:00",
+              "closes": "20:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "The National Museum stands right on Republic Square, so it fits easily into a first day. It gives an indoor stretch between streets and helps shift from city noise to the history of Serbia and the wider region.",
+          "lookFor": "The main stair and permanent galleries\nSerbian and European art shown close together\nViews back to the square\nTemporary exhibitions if they are open",
+          "practical": "Closed on Mondays.\nOn Thursdays and Saturdays the museum opens later.\nCheck tickets and temporary exhibitions before going.",
+          "nextMove": "After the museum, walk to Skadarlija through a short central passage, leaving time for the evening area.",
+          "sourceNote": "Official museum hours checked on 2026-06-11."
+        },
+        "id": "belgrade-first-day-3",
+        "guideId": "belgrade-first-day",
+        "order": 3
+      },
+      {
+        "entry": "as available",
+        "name": "Skadarlija",
+        "nameLocal": "Скадарска",
+        "note": "Cobblestones for an evening finish",
+        "time": "60 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.8180993,
+          "longitude": 20.4647579
+        },
+        "content": {
+          "context": "Skadarlija is known as a bohemian quarter with cobblestones, restaurants, and a music tradition. After the square, museum, and pedestrian axis, it adds a louder evening character to the old center.",
+          "lookFor": "Cobblestone paving and older facades\nRestaurant terraces along the street\nSigns and details tied to bohemian history\nLight changing toward evening",
+          "practical": "Reserve ahead for popular restaurants.\nMusic can be loud.\nCheck prices and menus on the spot.",
+          "nextMove": "End with dinner in the area or walk back to Republic Square if you want the simplest central reference."
+        },
+        "id": "belgrade-first-day-4",
+        "guideId": "belgrade-first-day",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "belgrade-fortress-rivers",
+    "cityId": "belgrade",
+    "category": "Fortress",
+    "title": "Kalemegdan Rivers",
+    "subtitle": "Upper Town / Sava",
+    "blurb": "Fortress gates, river-confluence views, and a descent toward the Sava.",
+    "mood": "Scenic, historic, on foot",
+    "accent": "#7A5C3D",
+    "soft": "#EAE2D3",
+    "deep": "#54402D",
+    "ink": "#463728",
+    "motif": "ridge",
+    "duration": "Half-day",
+    "stops": 5,
+    "distance": "3.4 km",
+    "pace": "half",
+    "kids": true,
+    "microcopy": {
+      "kicker": "Main view",
+      "line": "Fortress, park, and rivers in one pace."
+    },
+    "content": {
+      "intro": "Kalemegdan works best as both park and fortress. The gates give a historic entrance, the Upper Town holds the overview, and the terraces near the Victor open the main views toward the Sava and Danube. There is no single ticket for the whole outdoor area, but separate interior sites may keep their own schedules.\n\nGo in dry weather and avoid packing too many fortress museums into the walk. The main value is outside: walls, height changes, park shade, and the slow descent toward the water.",
+      "routeLogic": "Enter through the fortress gates instead of starting with the panorama.\nTreat the Upper Town as the historic core of the walk.\nUse the Roman Well as a nearby point, not as a guaranteed interior visit.\nLeave time for the Victor viewpoint.\nDescend to the Sava only if you still have energy.",
+      "bestFor": "river views\na walk with children\nhistory without a long museum\nlate-day light",
+      "notFor": "heavy rain or ice\na fully step-free route\ntravelers who dislike climbs",
+      "beforeYouGo": "Wear shoes for stone and packed ground.\nCheck separate interior sites before relying on them.\nBring water before entering the park in hot weather.",
+      "timing": "Late day gives the best light over the rivers, but with children it is easier to start earlier and keep the route shorter.",
+      "fallbackPlan": "If the weather turns, shorten the route to the gates, Upper Town, and the nearest viewpoint, then skip the descent to the Sava."
+    },
+    "stopList": [
+      {
+        "entry": "free",
+        "name": "Stambol Gate",
+        "nameLocal": "Спољна Стамбол капија",
+        "note": "Fortress entry before the Upper Town",
+        "time": "20 min",
+        "walk": "8 min",
+        "coordinates": {
+          "latitude": 44.8224088,
+          "longitude": 20.4521231
+        },
+        "content": {
+          "context": "The Outer Stambol Gate lets you begin the fortress with its defensive logic rather than the viewpoint. From here, walls, passages, and the gradual move from park into the Upper Town are easy to read.",
+          "lookFor": "Wall thickness around the gate\nPassage directions into the fortress\nStone and brick in different sections\nHow city noise fades near the entrance",
+          "practical": "The surface can be uneven.\nStones may be slippery after rain.\nGather groups away from the passage.",
+          "nextMove": "Continue into the Upper Town, following the main line toward the fortress terraces."
+        },
+        "id": "belgrade-fortress-rivers-1",
+        "guideId": "belgrade-fortress-rivers",
+        "order": 1
+      },
+      {
+        "entry": "free",
+        "name": "Belgrade Fortress",
+        "nameLocal": "Београдска тврђава",
+        "note": "Upper Town holds the main scale",
+        "time": "45 min",
+        "walk": "5 min",
+        "coordinates": {
+          "latitude": 44.8235023,
+          "longitude": 20.4497649
+        },
+        "content": {
+          "context": "Belgrade Fortress stands above the place where the Sava meets the Danube. In this route it is the main historic section: walls, park paths, and viewing terraces combine into a clear map of the city.",
+          "lookFor": "Transitions between Upper and Lower Town\nWall lines above the rivers\nShade in Kalemegdan Park\nViews toward New Belgrade and Zemun",
+          "practical": "The outdoor area is open, but individual museums and towers have their own hours.\nIn winter or after rain, leave more time.\nKeep children close near wall edges.",
+          "nextMove": "Move toward the Roman Well area as a short nearby stop before the main viewpoint.",
+          "sourceNote": "Fortress description checked with Belgrade tourism material on 2026-06-11."
+        },
+        "id": "belgrade-fortress-rivers-2",
+        "guideId": "belgrade-fortress-rivers",
+        "order": 2
+      },
+      {
+        "entry": "check access",
+        "name": "Roman Well",
+        "nameLocal": "Римски бунар",
+        "note": "A point beside the fortress passages",
+        "time": "15 min",
+        "walk": "4 min",
+        "coordinates": {
+          "latitude": 44.8230824,
+          "longitude": 20.4481821
+        },
+        "content": {
+          "context": "The Roman Well sits inside the fortress circuit and works as a brief marker on the way to the views. Here it matters less as a guaranteed interior visit and more as a reminder of the fortress engineering story.",
+          "lookFor": "The entrance area and nearby stone passages\nHow the site is tucked inside the fortress\nThe move from enclosed spaces to open viewpoints",
+          "practical": "Check current access before planning to enter.\nDo not build the route around guaranteed interior access.\nIf it is closed, keep walking to the Victor.",
+          "nextMove": "From the well, continue to the Victor for the most recognizable fortress viewpoint.",
+          "sourceNote": "Map hours are treated as a candidate; check official interior access separately."
+        },
+        "id": "belgrade-fortress-rivers-3",
+        "guideId": "belgrade-fortress-rivers",
+        "order": 3
+      },
+      {
+        "entry": "free",
+        "name": "The Victor",
+        "nameLocal": "Победник",
+        "note": "Main panorama over Sava and Danube",
+        "time": "25 min",
+        "walk": "18 min",
+        "coordinates": {
+          "latitude": 44.8230278,
+          "longitude": 20.4477064
+        },
+        "content": {
+          "context": "The Victor monument stands by the fortress viewpoint and immediately explains why Belgrade holds this hill. From here you can see the river confluence, islands, New Belgrade, and the direction of Zemun.",
+          "lookFor": "The Sava before it meets the Danube\nThe broad New Belgrade horizon\nIslands and riverbanks\nChanging light near sunset",
+          "practical": "Sunset can be crowded.\nKeep a safe distance near parapets.\nWind is stronger here than in the center.",
+          "nextMove": "If you have energy, descend toward the Sava and Beton Hala; otherwise return through the park toward Knez Mihailova."
+        },
+        "id": "belgrade-fortress-rivers-4",
+        "guideId": "belgrade-fortress-rivers",
+        "order": 4
+      },
+      {
+        "entry": "as available",
+        "name": "Beton Hala",
+        "nameLocal": "Бетон хала",
+        "note": "Riverside food after the fortress",
+        "time": "45 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.8198646,
+          "longitude": 20.4484311
+        },
+        "content": {
+          "context": "Beton Hala by the Sava gives the route an easy waterside finish. After walls and viewpoints, this is a convenient place for food or a drink before returning to the center or staying by the river.",
+          "lookFor": "The Sava after the descent\nA long row of restaurants in a former warehouse volume\nEvening movement along the promenade\nA backward view toward the fortress slope",
+          "practical": "Venues keep their own hours.\nCheck prices and menus before ordering.\nThe descent from the fortress can feel tiring in heat.",
+          "nextMove": "End the route by the river or climb back toward the center if you need transport and more light."
+        },
+        "id": "belgrade-fortress-rivers-5",
+        "guideId": "belgrade-fortress-rivers",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "belgrade-museums-vracar",
+    "cityId": "belgrade",
+    "category": "Museums",
+    "title": "Museums And Vracar",
+    "subtitle": "Center / temple / Dedinje",
+    "blurb": "National Museum, Tesla, Saint Sava, and Yugoslav history with transfers.",
+    "mood": "Indoor, thoughtful, paced",
+    "accent": "#3E6D72",
+    "soft": "#DDE9E8",
+    "deep": "#2E5155",
+    "ink": "#27474B",
+    "motif": "axis",
+    "duration": "Day",
+    "stops": 4,
+    "distance": "5 km + transfers",
+    "pace": "day",
+    "kids": false,
+    "microcopy": {
+      "kicker": "Indoor day",
+      "line": "Museums are balanced by a temple and transfers."
+    },
+    "content": {
+      "intro": "This day is for more content and less wandering. Start in the center, then transfer to the Nikola Tesla Museum and Saint Sava Temple, with the Museum of Yugoslavia in Dedinje as the finish.\n\nDo not try to walk the whole route. Between Vracar and Dedinje, transport is the better choice. Check every museum in the morning, because Monday closures and special changes can easily break the order.",
+      "routeLogic": "The National Museum gives a broad historic start.\nThe Tesla Museum needs current slot and closure checks.\nSaint Sava Temple adds an open stop between indoor visits.\nPut the Museum of Yugoslavia last so you do not need to return to the center.",
+      "bestFor": "poor weather\nmuseum-focused travelers\nSerbian and Yugoslav history\na day with taxi or transit",
+      "notFor": "a very late start\nMondays\na walking-only plan",
+      "beforeYouGo": "Check all museum hours in the morning.\nLeave time for the transfer between Vracar and Dedinje.\nAt the temple, respect services and keep your voice low.",
+      "timing": "Start in the morning in the center: it makes it easier to catch Tesla and avoid reaching Dedinje near closing time.",
+      "fallbackPlan": "If one museum is closed, do not replace it with a random stop: keep the temple and two open museums, then use the extra time in the center."
+    },
+    "stopList": [
+      {
+        "entry": "ticketed",
+        "name": "National Museum",
+        "nameLocal": "Народни музеј Србије",
+        "note": "A broad start before Vracar",
+        "time": "80 min",
+        "walk": "transfer",
+        "coordinates": {
+          "latitude": 44.816789,
+          "longitude": 20.4596465
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 0,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 2,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "12:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "12:00",
+              "closes": "20:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "The National Museum works well first because it sits in the center and needs no morning transfer. It sets the historic scale before the narrower stories of Tesla, the temple, and Yugoslav memory.",
+          "lookFor": "The permanent display without trying to see every room\nSerbian themes near European works\nAn easy exit back to the square",
+          "practical": "Closed on Mondays.\nOn Thursdays and Saturdays it opens later than usual.\nTemporary exhibitions can change the visit plan.",
+          "nextMove": "After the museum, transfer to the Nikola Tesla Museum; walking would stretch the day too much.",
+          "sourceNote": "Official museum hours checked on 2026-06-11."
+        },
+        "id": "belgrade-museums-vracar-1",
+        "guideId": "belgrade-museums-vracar",
+        "order": 1
+      },
+      {
+        "entry": "ticketed",
+        "name": "Nikola Tesla Museum",
+        "nameLocal": "Музеј Николе Тесле",
+        "note": "A compact stop around Tesla archives",
+        "time": "60 min",
+        "walk": "12 min",
+        "coordinates": {
+          "latitude": 44.805105,
+          "longitude": 20.4706999
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 1,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 0,
+              "opens": "10:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 2,
+              "opens": "10:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "10:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "10:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "10:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "10:00",
+              "closes": "20:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "The Nikola Tesla Museum occupies a small house in Vracar and keeps material connected with the inventor. In this route, the city day becomes more focused here and works best with an entry time checked in advance.",
+          "lookFor": "Displays connected with electricity and the archive\nThe small scale of the building\nDemonstration or group timing if available",
+          "practical": "Check current hours and special closures.\nSpaces for sessions may be limited.\nArrive early if you want a specific slot.",
+          "nextMove": "Walk from the museum to Saint Sava Temple through Vracar if the weather is comfortable.",
+          "sourceNote": "Official hours and temporary closure notes checked on 2026-06-11."
+        },
+        "id": "belgrade-museums-vracar-2",
+        "guideId": "belgrade-museums-vracar",
+        "order": 2
+      },
+      {
+        "entry": "respectfully",
+        "name": "Saint Sava Temple",
+        "nameLocal": "Храм Светог Саве",
+        "note": "A large sacred volume after the museum",
+        "time": "45 min",
+        "walk": "transfer",
+        "coordinates": {
+          "latitude": 44.798046,
+          "longitude": 20.469199
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 0,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 1,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 2,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "08:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "08:00",
+              "closes": "20:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "Saint Sava Temple changes the scale sharply after the small Tesla Museum. Standing on the Vracar plateau, it gives an open and luminous stop between museum galleries and the more distant Dedinje area.",
+          "lookFor": "Mosaics and the interior volume\nThe broad approach from the plateau\nThe difference between the temple and the smaller church nearby\nLight in the central space",
+          "practical": "The temple is open for visits, but services can affect quiet access.\nSpeak softly inside and follow photography rules.\nThe smaller church has a separate schedule.",
+          "nextMove": "Continue to Dedinje by transport for the Museum of Yugoslavia; walking would take too much energy.",
+          "sourceNote": "Official temple hours checked on 2026-06-11."
+        },
+        "id": "belgrade-museums-vracar-3",
+        "guideId": "belgrade-museums-vracar",
+        "order": 3
+      },
+      {
+        "entry": "ticketed",
+        "name": "Museum of Yugoslavia",
+        "nameLocal": "Музеј Југославије",
+        "note": "Dedinje finish and House of Flowers",
+        "time": "90 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.7880106,
+          "longitude": 20.4527047
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 0,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 2,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "10:00",
+              "closes": "18:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "10:00",
+              "closes": "18:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "The Museum of Yugoslavia in Dedinje combines several buildings in one complex, including the House of Flowers. After the center and Vracar, it extends the day into the twentieth century and Yugoslav memory.",
+          "lookFor": "The link between exhibition buildings and the House of Flowers\nObjects from political and everyday history\nThe grounds between buildings\nA different neighborhood after the busy center",
+          "practical": "Closed on Mondays.\nThe complex needs more time than one small gallery.\nDo not arrive close to closing time.",
+          "nextMove": "End the day in Dedinje and return by transport or taxi instead of planning another museum afterward.",
+          "sourceNote": "Official museum hours checked on 2026-06-11."
+        },
+        "id": "belgrade-museums-vracar-4",
+        "guideId": "belgrade-museums-vracar",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "belgrade-zemun",
+    "cityId": "belgrade",
+    "category": "Zemun",
+    "title": "Zemun By Danube",
+    "subtitle": "Promenade / Gardos",
+    "blurb": "Danube promenade, old streets, and Gardos Tower in a separate half-day.",
+    "mood": "Riverside, slow, neighborhood-led",
+    "accent": "#547B6F",
+    "soft": "#E0EBE5",
+    "deep": "#37564E",
+    "ink": "#304B45",
+    "motif": "lane",
+    "duration": "Half-day",
+    "stops": 4,
+    "distance": "3 km",
+    "pace": "half",
+    "kids": true,
+    "microcopy": {
+      "kicker": "Other bank",
+      "line": "Belgrade becomes lower, quieter, and more river-bound."
+    },
+    "content": {
+      "intro": "Zemun deserves its own half-day rather than being added to Kalemegdan as an afterthought. By the Danube, the city changes scale: promenade, old streets, the climb to Gardos, and the tower make it feel like a city inside Belgrade.\n\nThe route is short but includes a climb. Start by the water, then move into the old streets and climb toward Gardos. Use the tower as a landmark and viewpoint, but check interior access separately.",
+      "routeLogic": "Begin by the Danube to feel the district immediately.\nUse Glavna Street as the shift from water to old Zemun.\nKeep the Gardos climb for the middle of the route.\nFinish at the tower so you do not climb twice.",
+      "bestFor": "a half-day away from the center\nriver and old streets\na walk with children\na slower pace",
+      "notFor": "heat without shade\na no-climb route\nstrong wind by the water",
+      "beforeYouGo": "Treat Zemun as a separate outing.\nLeave energy for the climb to Gardos.\nCheck the tower and cafe hours locally.",
+      "timing": "Go closer to evening: the promenade has softer light and the old streets are calmer after daytime heat.",
+      "fallbackPlan": "If the climb is not a good fit, keep the promenade and Glavna Street, and replace Gardos with lower-street views."
+    },
+    "stopList": [
+      {
+        "entry": "free",
+        "name": "Zemun Promenade",
+        "nameLocal": "Кеј ослобођења",
+        "note": "The Danube sets the district pace",
+        "time": "45 min",
+        "walk": "12 min",
+        "coordinates": {
+          "latitude": 44.8328897,
+          "longitude": 20.4201607
+        },
+        "content": {
+          "context": "Zemun Promenade shows the district from the Danube side: lower, wider, and calmer than central Belgrade. It is a strong start because Zemun should not feel like just a set of old streets.",
+          "lookFor": "The broad Danube line\nBoats and riverside cafes\nThe Gardos silhouette deeper in the district\nEvening light on the water",
+          "practical": "Wind by the water can be stronger than in the center.\nCafes keep their own hours.\nKeep children away from the promenade edge.",
+          "nextMove": "Leave the water for Glavna Street; the short move gently introduces old Zemun."
+        },
+        "id": "belgrade-zemun-1",
+        "guideId": "belgrade-zemun",
+        "order": 1
+      },
+      {
+        "entry": "as available",
+        "name": "Glavna Street",
+        "nameLocal": "Главна улица",
+        "note": "Old district between river and hill",
+        "time": "35 min",
+        "walk": "18 min",
+        "content": {
+          "context": "Glavna Street helps the route shift from the river to residential and commercial Zemun. The walk becomes neighborhood-led: windows, old facades, and side streets prepare you for the climb to Gardos.",
+          "lookFor": "Older facades and signs\nSide lanes leading toward the hill\nA cafe for a short stop\nA calmer rhythm than central Belgrade",
+          "practical": "Shops and cafes keep their own hours.\nThe street surface can be uneven.\nTake water before the Gardos climb.",
+          "nextMove": "Turn toward Gardos and gain height gradually, choosing streets without an unnecessary detour."
+        },
+        "id": "belgrade-zemun-2",
+        "guideId": "belgrade-zemun",
+        "order": 2
+      },
+      {
+        "entry": "free",
+        "name": "Gardos Hill",
+        "nameLocal": "Гардош",
+        "note": "The climb opens Zemun from above",
+        "time": "30 min",
+        "walk": "6 min",
+        "coordinates": {
+          "latitude": 44.845833333,
+          "longitude": 20.405277777
+        },
+        "content": {
+          "context": "Gardos matters beyond the tower itself: the climb shows old Zemun in a denser and quieter way than the promenade. From here, the district reads as its own urban story by the Danube.",
+          "lookFor": "Height change above the river\nTile roofs and narrow streets\nQuiet stretches between cafes and homes\nFirst views toward the Danube",
+          "practical": "The climb can be tiring in heat.\nDo not enter private courtyards.\nAfter rain, steps and stones need attention.",
+          "nextMove": "Save the last few minutes of climbing for Gardos Tower and the viewpoint nearby."
+        },
+        "id": "belgrade-zemun-3",
+        "guideId": "belgrade-zemun",
+        "order": 3
+      },
+      {
+        "entry": "check access",
+        "name": "Gardos Tower",
+        "nameLocal": "Кула Гардош",
+        "note": "Final landmark above Zemun",
+        "time": "35 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.8483176,
+          "longitude": 20.4097307
+        },
+        "content": {
+          "context": "Gardos Tower, also known as the Millennium Tower, gathers the route into one landmark above old Zemun. Even without entering, the area around the tower gives a clear finish with views and height.",
+          "lookFor": "The tower as the district landmark\nViews over the Danube and Zemun roofs\nStone texture and open areas nearby\nThe route back down toward the water",
+          "practical": "Check current tower access separately.\nViewpoints can be windy.\nAfter dark, descend on lit streets.",
+          "nextMove": "Walk back down to the promenade or call transport closer to the old Zemun streets.",
+          "sourceNote": "Coordinates checked with an open map base; official tower hours are not confirmed."
+        },
+        "id": "belgrade-zemun-4",
+        "guideId": "belgrade-zemun",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "belgrade-new-belgrade",
+    "cityId": "belgrade",
+    "category": "Architecture",
+    "title": "New Belgrade",
+    "subtitle": "Usce / blocks / Genex",
+    "blurb": "Contemporary art, Usce Park, and modernist markers across New Belgrade.",
+    "mood": "Wide, modernist, transfer-based",
+    "accent": "#536E8A",
+    "soft": "#E1E7EF",
+    "deep": "#354B62",
+    "ink": "#2E4155",
+    "motif": "axis",
+    "duration": "Half-day",
+    "stops": 5,
+    "distance": "4.5 km + transfers",
+    "pace": "half",
+    "kids": false,
+    "microcopy": {
+      "kicker": "Left bank",
+      "line": "After the old center, the city opens wider."
+    },
+    "content": {
+      "intro": "New Belgrade is best understood as a change of scale. After the fortress and old center, you get broad axes, large buildings, a park by the river confluence, and postwar modernism. The route begins with the museum near Usce, then moves to exterior architectural landmarks.\n\nThis is not a route for entering every building. The Palace of Serbia, Sava Center, and Western City Gate are best treated as exterior views unless you have a specific reason to go inside. Use transport between points so the half-day does not turn into a long walk along major roads.",
+      "routeLogic": "Start with the Museum of Contemporary Art as a clear indoor point.\nUsce Park links the museum with the scale of the left bank.\nTreat the Palace of Serbia as an exterior landmark.\nSava Center and Genex need transfers, not a long walking link.",
+      "bestFor": "twentieth-century architecture\na repeat visit\nwide-avenue photos\na day with transport",
+      "notFor": "a first and only day\na walking-only plan\ntravelers looking for the old city",
+      "beforeYouGo": "Check Museum of Contemporary Art hours.\nDo not assume access to administrative buildings.\nUse transport between distant landmarks.",
+      "timing": "Morning works for the museum, while late day gives better light on exterior facades and the broad New Belgrade horizon.",
+      "fallbackPlan": "If the museum is closed, keep Usce Park and two exterior landmarks, then give the extra time to the riverside or fortress."
+    },
+    "stopList": [
+      {
+        "entry": "ticketed",
+        "name": "Museum of Contemporary Art",
+        "nameLocal": "Музеј савремене уметности",
+        "note": "Indoor start near Usce Park",
+        "time": "75 min",
+        "walk": "10 min",
+        "coordinates": {
+          "latitude": 44.8195936,
+          "longitude": 20.442402
+        },
+        "hours": {
+          "checkedAt": "2026-06-11",
+          "rules": [
+            {
+              "weekday": 0,
+              "opens": "11:00",
+              "closes": "19:00"
+            },
+            {
+              "weekday": 1,
+              "opens": "11:00",
+              "closes": "19:00"
+            },
+            {
+              "weekday": 3,
+              "opens": "11:00",
+              "closes": "19:00"
+            },
+            {
+              "weekday": 5,
+              "opens": "11:00",
+              "closes": "19:00"
+            },
+            {
+              "weekday": 4,
+              "opens": "12:00",
+              "closes": "20:00"
+            },
+            {
+              "weekday": 6,
+              "opens": "12:00",
+              "closes": "20:00"
+            }
+          ]
+        },
+        "content": {
+          "context": "The Museum of Contemporary Art stands by Usce Park and opens the left bank well: art inside, and the open space of New Belgrade immediately outside. It starts the route without beginning on a major road.",
+          "lookFor": "The building form among the trees\nThe link between museum, park, and rivers\nPermanent and temporary exhibitions\nA calm move toward open Usce space",
+          "practical": "Closed on Tuesdays.\nThursday and Saturday hours differ.\nCheck exhibitions and tickets before going.",
+          "nextMove": "After the museum, step into Usce Park: it is a short move from galleries to the open scale of the district.",
+          "sourceNote": "Official museum hours checked on 2026-06-11."
+        },
+        "id": "belgrade-new-belgrade-1",
+        "guideId": "belgrade-new-belgrade",
+        "order": 1
+      },
+      {
+        "entry": "free",
+        "name": "Usce Park",
+        "nameLocal": "Парк Ушће",
+        "note": "Open bank between museum and city",
+        "time": "35 min",
+        "walk": "14 min",
+        "coordinates": {
+          "latitude": 44.8217387,
+          "longitude": 20.4327983
+        },
+        "content": {
+          "context": "Usce Park lies near the confluence of the Sava and Danube and gives New Belgrade air after the galleries. Here the route shifts to distances, views, and broad paths that separate the left bank from the old center.",
+          "lookFor": "Open lawns and long paths\nViews toward the fortress across the water\nThe broad riverside line\nContrast between park and large buildings nearby",
+          "practical": "Shade may be limited in heat.\nAfter rain, choose firm paths.\nLarge events can change movement through the park.",
+          "nextMove": "Continue toward the Palace of Serbia or use transport if you do not want to walk beside broad roads."
+        },
+        "id": "belgrade-new-belgrade-2",
+        "guideId": "belgrade-new-belgrade",
+        "order": 2
+      },
+      {
+        "entry": "exterior",
+        "name": "Palace of Serbia",
+        "nameLocal": "Палата „Србија”",
+        "note": "Administrative scale of New Belgrade",
+        "time": "20 min",
+        "walk": "transfer",
+        "coordinates": {
+          "latitude": 44.8201846,
+          "longitude": 20.4276135
+        },
+        "content": {
+          "context": "The Palace of Serbia matters as an exterior landmark of New Belgrade: a large administrative building and its wide surrounding space show the postwar scale of the district. This route views it from outside.",
+          "lookFor": "The length of the facade and setback from the street\nAxes and open space around the building\nThe contrast with the dense old center\nPerspectives along broad roads nearby",
+          "practical": "Do not plan to enter without a separate invitation.\nPhotograph from public areas.\nCrossings around the building can take longer than they look.",
+          "nextMove": "It is better to travel to Sava Center, or walk only with good weather and spare time.",
+          "sourceNote": "This is used as an exterior architecture landmark; public entry is not stated here."
+        },
+        "id": "belgrade-new-belgrade-3",
+        "guideId": "belgrade-new-belgrade",
+        "order": 3
+      },
+      {
+        "entry": "exterior",
+        "name": "Sava Center",
+        "nameLocal": "Сава центар",
+        "note": "Congress icon after reconstruction",
+        "time": "20 min",
+        "walk": "transfer",
+        "coordinates": {
+          "latitude": 44.8085,
+          "longitude": 20.4303
+        },
+        "content": {
+          "context": "Sava Center shows the business and congress layer of New Belgrade. After reconstruction, the building remains an important modernist landmark, but the route does not depend on entering it.",
+          "lookFor": "The large volume beside broad roads\nUpdated facade sections\nThe link with the business district\nScale that reads better from a distance",
+          "practical": "Go inside only if there is an event or open area.\nUse crossings rather than cutting across major roads.\nThere is little shade around the building in hot weather.",
+          "nextMove": "The final landmark is farther inside the blocks: travel to the Western City Gate.",
+          "sourceNote": "Sava Center is treated as an exterior landmark; check event schedules separately."
+        },
+        "id": "belgrade-new-belgrade-4",
+        "guideId": "belgrade-new-belgrade",
+        "order": 4
+      },
+      {
+        "entry": "exterior",
+        "name": "Western City Gate",
+        "nameLocal": "Западна капија Београда",
+        "note": "Genex towers as the final silhouette",
+        "time": "25 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.820277777,
+          "longitude": 20.404722222
+        },
+        "content": {
+          "context": "The Western City Gate, known as the Genex towers, gives the route a strong final silhouette. It is an exterior viewing point: the form, bridge between towers, and position among residential blocks are the point.",
+          "lookFor": "The two towers and top connecting volume\nConcrete facade texture\nNeighboring New Belgrade residential blocks\nHow the building works as a city sign on approach",
+          "practical": "View from public sidewalks.\nDo not assume a tourist interior visit.\nCheck transport or taxi options for the return.",
+          "nextMove": "End by the towers and return by transport; walking back to Usce is too long for this route.",
+          "sourceNote": "Coordinates checked with an open data source; public interior access is not stated."
+        },
+        "id": "belgrade-new-belgrade-5",
+        "guideId": "belgrade-new-belgrade",
+        "order": 5
+      }
+    ]
+  }
+]

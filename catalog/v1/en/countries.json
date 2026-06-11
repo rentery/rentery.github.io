@@ -2,11 +2,35 @@
   {
     "flag": "🇨🇳",
     "id": "china",
-    "title": "China"
+    "title": "China",
+    "meta": "Chinese · yuan (CNY)"
   },
   {
     "flag": "🇰🇷",
     "id": "south-korea",
-    "title": "South Korea"
+    "title": "South Korea",
+    "meta": "Korean · won (KRW)",
+    "practicalNote": "Cards are convenient in most big-city places, but keep some KRW cash for markets, small purchases, and transit-card top-ups. For metro and buses, use Tmoney, EZL, WOWPASS, or Climate Card; on buses, tap when boarding and leaving if you need transfer handling. Outside tourist areas, keep the Korean name of your address or station handy."
+  },
+  {
+    "flag": "🇧🇦",
+    "id": "bosnia-and-herzegovina",
+    "title": "Bosnia and Herzegovina",
+    "meta": "Bosnian/Croatian/Serbian · convertible mark (BAM)",
+    "practicalNote": "Bosnia and Herzegovina uses the convertible mark (KM/BAM); euros are not a dependable day-to-day payment plan. In Sarajevo you will mostly see Latin script, while Bosnian, Croatian, and Serbian are officially used."
+  },
+  {
+    "flag": "🇷🇸",
+    "id": "serbia",
+    "title": "Serbia",
+    "meta": "Serbian · dinar (RSD)",
+    "practicalNote": "Serbia uses dinars; cards are convenient in many larger places, but keep some cash for markets, small purchases, and taxis. In Belgrade you will see both Cyrillic and Latin scripts."
+  },
+  {
+    "flag": "🇲🇪",
+    "id": "montenegro",
+    "title": "Montenegro",
+    "meta": "Montenegrin · euro (EUR)",
+    "practicalNote": "Cards are common in tourist areas, but keep euro cash for small services and beach stops. Montenegrin is the official language; Serbian, Bosnian, Albanian, and Croatian are also in official use. Check buses and beach-area trips close to the day you travel."
   }
 ]

@@ -1,11 +1,11 @@
 {
   "id": "seoul-market-evening",
   "cityId": "seoul",
-  "category": "Food",
+  "category": "Evening Food",
   "title": "Market And DDP",
-  "subtitle": "Jongno / Dongdaemun",
-  "blurb": "The stream, Gwangjang Market, and evening Dongdaemun without extra detours.",
-  "mood": "Noisy, tasty, evening",
+  "subtitle": "Cheonggyecheon / Gwangjang / Dongdaemun",
+  "blurb": "An evening line from the stream to Gwangjang Market, Heunginjimun Gate, and DDP.",
+  "mood": "Crowded, tasty, short walks",
   "accent": "#C8702F",
   "soft": "#F6E7D7",
   "deep": "#8C4A1C",
@@ -13,34 +13,60 @@
   "motif": "steam",
   "duration": "Evening",
   "stops": 4,
-  "distance": "2.4 km",
+  "distance": "2-3 km",
   "pace": "half",
   "kids": false,
   "microcopy": {
-    "kicker": "Evening center",
-    "line": "Leave time for the market and pauses by the stream."
+    "kicker": "Leave appetite",
+    "line": "Do not plan exact dishes: the market changes faster than the route."
+  },
+  "cover": {
+    "alt": "Вечерный рыночный проход с теплым светом и паром",
+    "id": "seoul-market-evening-cover",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-cover-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-cover-wide.jpg"
   },
   "content": {
-    "intro": "The evening route follows a simple line: first the water of Cheonggyecheon, then the food and noise of Gwangjang, then the walk to Dongdaemun Gate and DDP. It is not a dish checklist; it is a clear evening rhythm in the center.\n\nCrowds can tire you quickly here, so do not plan a full dinner at every point. Make one main market pause, leave space for walking, and keep a backup metro exit.",
-    "routeLogic": "The stream gives a calmer entry into evening.\nGwangjang becomes the main food stop.\nDongdaemun links the market to the design district.\nDDP works as the finish with architecture and a possible indoor pause.",
-    "bestFor": "an evening in the center\nmarket and street food\nshort walks\na route after daytime plans",
-    "notFor": "crowd intolerance\nstrict diets\na late start without checking transport",
-    "beforeYouGo": "Do not promise yourself exact dishes: stalls and queues change.\nCarry cash or a card with backup payment options.\nCheck DDP events if you expect to go inside.",
-    "timing": "Start one or two hours before dinner: the market becomes the pause, and DDP stays for evening light.",
-    "fallbackPlan": "If the market is too dense, pass through briefly and move dinner to the DDP or Jongno area."
+    "intro": "The evening follows a short line: Cheonggyecheon lowers the center noise, Gwangjang supplies the market meal, Heunginjimun gives a historic marker, and DDP finishes the walk by a modern plaza and metro.\n\nCrowds can tire you fast here. Pick one market seat, keep your bag close, and do not add another distant district after DDP; evening transport and fatigue eat into the buffer quickly.",
+    "routeLogic": "Start at Cheonggyecheon and move toward the market before the late dense flow.\nAt Gwangjang, choose one row and one or two seats instead of circling the whole market.\nAt Heunginjimun, make an outside stop without crossing random wide roads.\nAt DDP, check posters only if you want to enter; the outside finish is enough.",
+    "bestFor": "an evening after daytime plans\nmarket food and street snacks\nshort walks without taxi\ntravelers who want to finish by metro",
+    "notFor": "crowd intolerance\nstrict diets\na late start with no return transport plan",
+    "beforeYouGo": "Market stalls, dishes, and queues change; do not promise yourself one exact plate. Keep cash alongside a card for small purchases. If you expect a DDP exhibition, check the program before leaving.",
+    "timing": "Start one or two hours before dinner. The market becomes the main break, and DDP stays for blue hour or evening light.",
+    "fallbackPlan": "If Gwangjang is too packed, pass through briefly and move food toward DDP or Jongno instead of waiting for every row."
   },
   "stopList": [
     {
       "entry": "free",
       "name": "Cheonggyecheon",
-      "note": "The stream eases you into evening",
-      "time": "45 min",
+      "nameLocal": "청계천",
+      "note": "Start below street level before the market crowd",
+      "time": "30-40 min",
       "walk": "12 min",
+      "coordinates": {
+        "latitude": 37.5689476,
+        "longitude": 126.9933765
+      },
+      "photo": {
+        "alt": "Вечерний Чхонгечхон с подсветкой у воды",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon_evening_2.jpg"
+        },
+        "id": "seoul-market-evening-1",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-1-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-1-wide.jpg"
+      },
       "content": {
-        "context": "Cheonggyecheon is useful before the market: it runs below street level and softens the noise of the center. In the evening, the stream lets you start without jumping straight into the crowd, then leads naturally toward Jongno and Gwangjang.",
-        "lookFor": "Bridges and steps down to the water\nLight on the lower promenade\nPlaces where it is easy to exit to street level\nThe change from office area to market streets",
-        "practical": "After rain, access to the water can change.\nEvents and holidays make the flow denser.\nKeep the route flexible: you can exit earlier.",
-        "nextMove": "Walk from the stream to Gwangjang Market; it is a short transfer, after which the pace becomes much tighter."
+        "context": "Before the market, Cheonggyecheon lets you enter evening more gently: the water runs below street level, and exits back up are frequent. Do not walk it for too long; use the stream as a calm start toward Gwangjang.",
+        "lookFor": "Steps from street level to the water\nBridges and lower-level lighting\nPlaces where it is easy to exit\nThe direction toward Jongno market blocks",
+        "practical": "After rain, the lower level can close or become slippery.\nEvents and holidays make the flow denser.\nDo not stretch the walk if you want to reach the market before the late peak.",
+        "nextMove": "Walk to Gwangjang Market; after the water, the streets become tighter and noisier.",
+        "sourceNote": "Check stream access and events on the same day after heavy rain."
       },
       "id": "seoul-market-evening-1",
       "guideId": "seoul-market-evening",
@@ -49,15 +75,33 @@
     {
       "entry": "as available",
       "name": "Gwangjang",
-      "note": "The market is the main food stop",
-      "time": "60 min",
+      "nameLocal": "광장시장",
+      "note": "The main food stop, without promises about exact stalls",
+      "time": "60-75 min",
       "walk": "10 min",
+      "coordinates": {
+        "latitude": 37.5697826,
+        "longitude": 127.0006548
+      },
+      "photo": {
+        "alt": "Проход рынка Кванчжан с прилавками",
+        "attribution": {
+          "author": "Bgag",
+          "license": "CC0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_01.jpg"
+        },
+        "id": "seoul-market-evening-2",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-2-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-2-wide.jpg"
+      },
       "content": {
-        "context": "Gwangjang is one of Seoul's best-known traditional markets, but in this route it is not a checkbox. It is the main food block of the evening: noisy rows, fast seating, simple navigation, and the chance to try a few small portions.",
-        "lookFor": "Rows with pancakes, gimbap, and snacks\nSeating right at counters\nFabric and clothing sections outside the food rows\nQueues that move quickly",
-        "practical": "Prices, hours, and dishes depend on the specific stalls.\nAt peak times it is tight, so keep belongings close.\nChoose one or two stops instead of the whole market at once.",
-        "nextMove": "After the market, move toward Dongdaemun: a short walk helps shift from food noise to open city evening.",
-        "sourceNote": "Market hours, stalls, and dish availability vary; check the current situation on site."
+        "context": "Gwangjang is the route meal, not a dish checklist. Sit where the queue moves clearly, try one or two things, and leave space for the walk toward Dongdaemun.",
+        "lookFor": "Rows with pancakes, gimbap, and snacks\nCounter seating right by the stalls\nFabric sections outside the food rows\nQueues that turn over quickly",
+        "practical": "Stalls, hours, and prices differ; check on site.\nAt peak times it is tight, so keep your bag in front.\nIf the noise wears you out, do not force more market time.",
+        "nextMove": "After the market, walk toward Heunginjimun: the short move helps you leave the dense aisles for open street space.",
+        "sourceNote": "Individual stall schedules and Sunday operation can change; do not build the route around one vendor."
       },
       "id": "seoul-market-evening-2",
       "guideId": "seoul-market-evening",
@@ -65,15 +109,33 @@
     },
     {
       "entry": "free",
-      "name": "Dongdaemun",
-      "note": "The district adds city evening after the market",
-      "time": "30 min",
-      "walk": "5 min",
+      "name": "Heunginjimun",
+      "nameLocal": "흥인지문",
+      "note": "A historic gate between the market and DDP",
+      "time": "20-30 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 37.5711123,
+        "longitude": 127.0096063
+      },
+      "photo": {
+        "alt": "Ворота Хынинчжимун у движения Тондэмуна",
+        "attribution": {
+          "author": "Karl Baron",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Dongdaemun_gate.jpg"
+        },
+        "id": "seoul-market-evening-3",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-3-wide.jpg"
+      },
       "content": {
-        "context": "Dongdaemun links the market with DDP and reminds you the area is not only shopping. The historic gate and broad transport hub give a short outdoor block between food and the architectural finish.",
-        "lookFor": "Heunginjimun Gate against moving traffic\nThe shift between old object and modern shopping district\nWide crossings where direction matters",
-        "practical": "The district is lively; cross streets only at clear crossings.\nShops and malls keep different hours.\nIf you are tired, go straight to DDP or the metro.",
-        "nextMove": "DDP is nearby; the walk is short, but leave a few minutes for lights and orientation in the large interchange."
+        "context": "Heunginjimun keeps the route from becoming only a market and a shopping district. The gate stands among Dongdaemun traffic, so view it from a clear crossing and do not dart across wide roads.",
+        "lookFor": "The stone base of the gate\nThe old object set inside moving traffic\nThe direction toward DDP and the station\nSafe crossings rather than the shortest line",
+        "practical": "The district is busy; cross only at lights.\nFor photos, avoid stopping in the middle of pedestrian flow.\nIf you are tired, go straight to DDP or the metro.",
+        "nextMove": "DDP is close, but leave a few minutes for crossings and orientation around the large station."
       },
       "id": "seoul-market-evening-3",
       "guideId": "seoul-market-evening",
@@ -82,15 +144,33 @@
     {
       "entry": "by event",
       "name": "DDP",
-      "note": "The final point by Dongdaemun",
-      "time": "75 min",
+      "nameLocal": "동대문디자인플라자",
+      "note": "Finish by the plaza, exhibitions, and metro",
+      "time": "60-75 min",
       "walk": "-",
+      "coordinates": {
+        "latitude": 37.5670686,
+        "longitude": 127.009899
+      },
+      "photo": {
+        "alt": "Фасад Dongdaemun Design Plaza",
+        "attribution": {
+          "author": "Dwxn",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240601_144028_Dongdaemun_Design_Plaza,_Seoul_08.jpg"
+        },
+        "id": "seoul-market-evening-4",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-4-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-market-evening-4-wide.jpg"
+      },
       "content": {
-        "context": "Dongdaemun Design Plaza finishes the evening with modern scale: flowing building forms, plazas, and exhibition spaces feel sharply different from the market. Even without an exhibition, it is a useful final point by the metro.",
-        "lookFor": "Curving facade and level changes\nOpen plazas around the building\nCurrent exhibition and event posters\nNight light on metal surfaces",
-        "practical": "Exhibitions, entry, and events change, so check before visiting.\nPart of the route may be outdoors; account for weather.\nLate in the evening, keep the nearest station as your exit point.",
-        "nextMove": "End at Dongdaemun History and Culture Park station, or stay in the area only if you already checked return transport.",
-        "sourceNote": "DDP exhibitions, paid areas, and events change; check the current program before going inside."
+        "context": "Dongdaemun Design Plaza finishes the evening at a different scale: flowing building forms, open plazas, and exhibition entrances feel sharply different from the market. Even without a ticket, it is a useful endpoint by Dongdaemun History and Culture Park.",
+        "lookFor": "Curving facade and level changes\nPlazas around the building\nPosters for current exhibitions\nThe nearest station entrance",
+        "practical": "Exhibitions, paid areas, and events change by date.\nLate in the evening, keep your return route clear.\nIf you expect to go inside, check the program before dinner.",
+        "nextMove": "End at Dongdaemun History and Culture Park station, or stay in the area only with a clear return plan.",
+        "sourceNote": "Check the DDP program and paid areas before visiting: events change by date."
       },
       "id": "seoul-market-evening-4",
       "guideId": "seoul-market-evening",

@@ -1,0 +1,200 @@
+{
+  "id": "tivat-rainy-core",
+  "cityId": "tivat",
+  "category": "Rain",
+  "title": "Rainy Center",
+  "subtitle": "Museum / Pine / Porto",
+  "blurb": "A short center route with museum time, covered pauses, and park only if rain lifts.",
+  "mood": "Short, covered, with kids",
+  "accent": "#8C5A3C",
+  "soft": "#EEE3DA",
+  "deep": "#68422B",
+  "ink": "#5A3A27",
+  "motif": "kids",
+  "duration": "2 hours",
+  "stops": 5,
+  "distance": "2.0 km",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "Rain plan",
+    "line": "Stay central and skip distant shores."
+  },
+  "cover": {
+    "id": "tivat-rainy-core-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-rainy-core-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-rainy-core-square.jpg",
+    "alt": "Крытый каменный дворик в дождливом Тивате"
+  },
+  "content": {
+    "intro": "This route is for weather that makes Solila, Vrmac, or the long shore a bad idea. It keeps you central: Buca-Lukovic museum courtyard, a brief Pine check, covered parts of Porto Montenegro, the naval museum, and the park only if the rain clears.\n\nYou do not need to prove that rain does not matter. The goal is to walk a little, wait out the worst shower indoors, and finish close to food, taxis, or a short return.",
+    "routeLogic": "Check Museum and Gallery Tivat hours before leaving.\nStart at Buca-Lukovic so you are not standing in rain by the water.\nUse Pine only for a quick bay view.\nIn Porto Montenegro, choose covered passages.\nIf the Naval Heritage Museum is closed, trade it for coffee and a short park walk after rain.",
+    "bestFor": "a rainy day\nfamilies with children\na short walk without distant transport\nwaiting for a weather window",
+    "notFor": "a full sunny day\ntravelers who want beaches\nanyone looking for a real hike",
+    "beforeYouGo": "Check Museum and Gallery Tivat hours and Naval Heritage Museum contact details. Have a return plan; wet waterfront sections get old fast.",
+    "timing": "Works in the middle of the day. If rain stops toward evening, add a short passage through the park or Pine.",
+    "fallbackPlan": "Keep only Museum and Gallery Tivat plus Porto Montenegro, and turn open-air stops into quick transitions."
+  },
+  "stopList": [
+    {
+      "entry": "museum hours",
+      "name": "Museum and Gallery",
+      "nameLocal": "JU Muzej i galerija Tivat",
+      "note": "Check hours before leaving",
+      "time": "45 min",
+      "walk": "3 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "summary": "Вт-вс 10:00-16:00",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "16:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "Museum and Gallery Tivat is the most reliable start for a rainy center route. It sits in the Buca-Lukovic complex, so even a short visit gives you indoor time and the old stone setting of the town.",
+        "lookFor": "How the exhibition space connects to the courtyard\nStone walls of the complex\nCurrent event posters\nWhere you can wait out a heavier shower",
+        "practical": "Official hours at the time checked: Tuesday-Sunday 10:00-16:00, Monday closed. For holidays and temporary shows, verify the institution website.",
+        "nextMove": "If rain is light, step into the Buca-Lukovic courtyard; if it is heavy, stay inside and shorten Pine.",
+        "sourceNote": "Museum and Gallery Tivat hours were checked on 2026-06-11; verify the institution website before visiting."
+      },
+      "id": "tivat-rainy-core-1",
+      "guideId": "tivat-rainy-core",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Buca-Lukovic Courtyard",
+      "nameLocal": "Ljetnikovac Buća Luković",
+      "note": "Short open passage between showers",
+      "time": "20 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 42.431439,
+        "longitude": 18.696322
+      },
+      "content": {
+        "context": "The Buca-Lukovic courtyard works better as a short passage than a long rainy stop. Look at the stone, tower, and cultural square, then move on if the paving is wet.",
+        "lookFor": "The residence tower\nStone edge of the courtyard\nWet paving after rain\nThe exit toward center and water",
+        "practical": "The paving can be slippery. Keep children close and do not block passages if an event is taking place.",
+        "nextMove": "Drop to Pine only for a short bay view, not for a full rainy promenade."
+      },
+      "id": "tivat-rainy-core-2",
+      "guideId": "tivat-rainy-core",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Pine In Rain",
+      "note": "Reach the water and decide quickly",
+      "time": "20 min",
+      "walk": "8 min",
+      "content": {
+        "context": "In this route Pine is not a long walk, but a weather check by the bay. Sometimes rain passes quickly and the waterfront becomes pleasant; sometimes wind makes it colder than the center.",
+        "lookFor": "How rain changes the bay color\nNearest shelter\nBenches after the shower\nWind direction along the water",
+        "practical": "Do not continue along open water if your shoes are already soaked. Wind can make a short rain feel worse by the bay.",
+        "nextMove": "Move into Porto Montenegro and choose covered passages or cafes over a long waterfront stretch."
+      },
+      "id": "tivat-rainy-core-3",
+      "guideId": "tivat-rainy-core",
+      "order": 3
+    },
+    {
+      "entry": "as available",
+      "name": "Covered Porto",
+      "note": "Shelter instead of open beach",
+      "time": "35 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.433333,
+        "longitude": 18.691667
+      },
+      "photo": {
+        "id": "tivat-porto-montenegro-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porto_Montenegro_04.JPG",
+        "alt": "Марина Porto Montenegro с яхтами у причалов",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Montenegro_04.JPG",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "In rain, Porto Montenegro is useful for infrastructure rather than luxury: even paving, cafes, shops, and short covered sections near the water. It lets you wait out weather without a distant transfer.",
+        "lookFor": "Dry passages between buildings\nMasts through rain\nPlaces to step to the water for two minutes\nThe north direction toward the museum",
+        "practical": "Not every marina zone is public. With children, choose a toilet or food stop early instead of searching in the rain.",
+        "nextMove": "If the museum is open, continue to Naval Heritage Museum; otherwise finish here."
+      },
+      "id": "tivat-rainy-core-4",
+      "guideId": "tivat-rainy-core",
+      "order": 4
+    },
+    {
+      "entry": "check hours",
+      "name": "Naval Heritage Museum",
+      "note": "Indoor finish with maritime artifacts",
+      "time": "45 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The Naval Heritage Museum is a good rainy finish when open: maritime equipment and submarines give adults and children something concrete to focus on. It is better than wandering the waterfront without a plan.",
+        "lookFor": "Large machines and maritime details\nSubmarines outside\nHow the museum sits at the north edge of the marina\nOld industrial memory under the new district",
+        "practical": "Confirm current hours and access to individual exhibits in advance. If it is closed, do not wait at the entrance in rain; return to Porto Montenegro.",
+        "nextMove": "End the day in Porto Montenegro or take a taxi from the north edge of the marina."
+      },
+      "id": "tivat-rainy-core-5",
+      "guideId": "tivat-rainy-core",
+      "order": 5
+    }
+  ]
+}

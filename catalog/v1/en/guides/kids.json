@@ -3,9 +3,9 @@
   "cityId": "beijing",
   "category": "With Kids",
   "title": "Pandas And Aquarium",
-  "subtitle": "Zoo / Aquarium",
-  "blurb": "Start with pandas, stay near shade, and move indoors if heat, rain, or fatigue takes over.",
-  "mood": "Short moves, pauses, and an indoor finish",
+  "subtitle": "Zoo / Panda House / Aquarium",
+  "blurb": "Keep one compact cluster: pandas first, then a short loop and an indoor finish.",
+  "mood": "Short walks, toilets, shade, and an indoor backup",
   "accent": "#4F6FA8",
   "soft": "#E4E9F3",
   "deep": "#3F5C92",
@@ -17,30 +17,35 @@
   "pace": "half",
   "kids": true,
   "microcopy": {
-    "kicker": "Start with pandas",
-    "line": "Pandas do not have to be active; keep a backup plan from the start."
+    "kicker": "Pandas first",
+    "line": "Pandas may sleep or hide, so keep a backup plan from the start."
   },
   "content": {
-    "intro": "This route stays in one zone: zoo entrance, Panda House, shade, toilets, food, and Beijing Aquarium. Do not start by heading to distant enclosures. First cover the reason you came, then decide by energy.\n\nBe honest with children about pandas: they may sleep, hide, or turn away. If nothing is visible at the enclosures, do not stand too long. Move to shaded paths or the aquarium before the day falls apart.",
-    "routeLogic": "At the entrance, mark toilets, food, and the aquarium exit.\nGo to pandas first while children are fresh.\nIn the zoo, take a short loop rather than distant enclosures.\nOn shaded paths, decide whether the aquarium is needed.\nMove to the aquarium for heat, rain, or crowd fatigue.",
+    "intro": "This route does not try to cover the whole zoo. Enter, mark toilets and food, go to pandas, then take a short loop by energy and move to Beijing Aquarium if heat, rain, or crowds start pressing.\n\nTell children the honest version in advance: pandas do not have to be active. If nothing is visible at the glass, do not stand still for twenty minutes; shade, water, toilets, and a clear exit save the day.",
+    "routeLogic": "At the entrance, find the map, toilets, and direction to the aquarium.\nGo to pandas first while children are fresh.\nAfter pandas, take a short loop rather than distant enclosures.\nBefore the aquarium, check energy, food, and queues.\nAfter the aquarium, end the day without a new district.",
     "bestFor": "families who need short walks\nhot or rainy days with an indoor backup\nmornings when you want simple logistics",
-    "notFor": "travelers expecting active animals all day\nchildren who struggle with crowds at enclosures\nwhen you want to see several districts in one day",
-    "beforeYouGo": "Check zoo, Panda House, and aquarium hours separately.\nIn summer, come in the morning: July-August can be hot and humid.\nFor a family, keep a taxi or DiDi pickup point in mind, especially after the aquarium.",
-    "timing": "Arrive in the morning and start with the Panda House. Give the zoo 1.5-2 hours without distant loops, then move to the aquarium if the children still have energy.",
-    "fallbackPlan": "If animals are not visible or children are tired, shorten the zoo to pandas and a shaded loop. In rain, move to the aquarium sooner. If queues are large, choose a shorter visit and an early lunch."
+    "notFor": "travelers expecting active animals all day\nchildren who struggle with crowds at glass\nwhen you want to see several districts in one day",
+    "beforeYouGo": "Check zoo, Panda House, and aquarium hours separately.\nIn summer, arrive in the morning: July-August can be hot and humid.\nFor a family, keep a taxi or DiDi pickup point in mind, especially after the aquarium.",
+    "timing": "Arrive in the morning. Give the zoo 1.5-2 hours without distant loops, then continue to the aquarium only if the children still have energy.",
+    "fallbackPlan": "If pandas are not visible or children are tired, shorten the zoo to a small loop and early lunch. In rain, move to the aquarium sooner. If queues are large, take a taxi and end the day earlier."
   },
   "stopList": [
     {
       "entry": "check ticket",
       "name": "Beijing Zoo",
+      "nameLocal": "北京动物园",
       "note": "Mark toilets, food, and exit right away",
-      "time": "45-75 min",
-      "walk": "10 min",
+      "time": "35-60 min",
+      "walk": "10 min to pandas",
+      "coordinates": {
+        "latitude": 39.9410543,
+        "longitude": 116.32954
+      },
       "content": {
-        "context": "Beijing Zoo is large, but a half-day route does not need the whole place. At the entrance, find the map, mark toilets, food, and the aquarium exit, and leave distant enclosures for later only if everyone still has energy after pandas.",
-        "lookFor": "Entrance map\nShaded stretches\nNearest toilets and cafes",
-        "practical": "Mark the aquarium exit right away.\nDo not start with distant enclosures.\nIn heat, use short stretches between stops.",
-        "nextMove": "Go to the Panda House while children are still fresh."
+        "context": "Beijing Zoo is large, but for a family half-day it is a clear base. At the entrance, find the map, toilets, food, and the way to the aquarium; leave distant enclosures for later only if everyone has energy after pandas.",
+        "lookFor": "Entrance map\nNearest toilets\nShaded stretches\nDirection toward the aquarium",
+        "practical": "Do not start with distant enclosures.\nIn heat, use short stretches between stops.\nKeep the exit point in mind from the beginning.",
+        "nextMove": "Go to the Panda House while the children are still fresh."
       },
       "id": "kids-1",
       "guideId": "kids",
@@ -49,28 +54,29 @@
     {
       "entry": "check hours",
       "name": "Panda House",
-      "note": "Pandas may sleep or hide",
+      "nameLocal": "熊猫馆",
+      "note": "Do not promise active animals",
       "time": "30-60 min",
-      "walk": "12 min",
+      "walk": "15 min on a short loop",
       "content": {
-        "context": "Go to the Panda House first, before children are tired. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight: ten minutes may not change the scene.",
-        "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash",
-        "practical": "Do not stand too long in one place if nothing is visible.\nDo not use flash.\nTell children in advance that pandas do not have to be active.",
-        "nextMove": "After pandas, move to shaded paths to drop the noise and crowd."
+        "context": "Go to pandas first, before fatigue and overheating. Look at several enclosures and do not hold the family at one window if the animal is sleeping or out of sight; ten minutes may not change the scene.",
+        "lookFor": "Where the crowd is thinner\nOutdoor and indoor zones\nAnimal behavior without flash\nA clear path onward",
+        "practical": "Do not use flash.\nDo not stand too long in one place if nothing is visible.\nTell children early that pandas may sleep.",
+        "nextMove": "After pandas, take a short zoo loop to drop the noise by the glass."
       },
       "id": "kids-2",
       "guideId": "kids",
       "order": 2
     },
     {
-      "name": "Shaded Paths",
-      "note": "A pause before deciding on the aquarium",
-      "time": "25-45 min",
-      "walk": "10 min",
+      "name": "Short Zoo Loop",
+      "note": "Check energy before the aquarium",
+      "time": "35-60 min",
+      "walk": "10 min to aquarium",
       "content": {
-        "context": "On the shaded paths, slow down, have a snack, find the nearest toilet, and check energy honestly. If children are overheated or tired of people, do not add distant enclosures.",
-        "lookFor": "Benches in shade\nShort passages toward water\nSigns toward the aquarium",
-        "practical": "Do not wander far from the main direction.\nKeep track of the nearest toilet.\nIf a child is tired, shorten the zoo right away.",
+        "context": "After pandas, do not wander far. Choose a few nearby sections, have a snack, find a toilet, and honestly decide whether the aquarium is useful now or whether it is better to finish the visit.",
+        "lookFor": "Benches in shade\nShort passages without crowds\nSigns toward the aquarium\nPlaces where a child can rest",
+        "practical": "Do not add distant enclosures out of stubbornness.\nKeep water and a snack ready.\nIf a child is tired, shorten the route immediately.",
         "nextMove": "If there is energy, continue to Beijing Aquarium; if not, exit toward a taxi."
       },
       "id": "kids-3",
@@ -80,14 +86,20 @@
     {
       "entry": "separate ticket",
       "name": "Beijing Aquarium",
+      "nameLocal": "北京海洋馆",
       "note": "An indoor finish for heat or rain",
       "time": "1.5-2.5 h",
       "walk": "-",
+      "coordinates": {
+        "latitude": 39.9433083,
+        "longitude": 116.3347572
+      },
       "content": {
         "context": "Move to the aquarium when the zoo has already provided enough noise and walking. Indoors it is easier to wait out rain or heat, but do not turn the visit into a race through every show. Choose tanks and short pauses.",
-        "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest",
-        "practical": "Check hours separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back by taxi or metro without adding new walks.",
-        "nextMove": "End the day here and choose the simplest way back to the hotel."
+        "lookFor": "Large tanks\nShow schedule if it is current\nPlaces for a short rest\nA clear exit after the finish",
+        "practical": "Check hours and ticketing separately from the zoo.\nDo not make every show mandatory.\nAfter the aquarium, go back without adding another walk.",
+        "nextMove": "End the day here and choose the simplest way back to the hotel.",
+        "sourceNote": "Aquarium hours, tickets, and show schedules change; check them separately from the zoo."
       },
       "id": "kids-4",
       "guideId": "kids",

@@ -1,0 +1,223 @@
+{
+  "id": "sarajevo-old-lanes",
+  "cityId": "sarajevo",
+  "category": "Old City",
+  "title": "Shops And Courtyards",
+  "subtitle": "Kazandziluk / Svrzo",
+  "blurb": "Copper lane, covered bazaar, house museum, war childhood, and cathedral in one loop.",
+  "mood": "Narrow lanes, courtyards, museum",
+  "accent": "#6B7F45",
+  "soft": "#E6ECD8",
+  "deep": "#4A5F30",
+  "ink": "#344523",
+  "motif": "lane",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "2.5 km",
+  "pace": "half",
+  "kids": false,
+  "cover": {
+    "id": "sarajevo-cover-old-lanes",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-square.jpg",
+    "alt": "Old Sarajevo trading lanes with copper-toned light"
+  },
+  "microcopy": {
+    "kicker": "Inside the quarter",
+    "line": "More courtyards and meaning, less main-square momentum."
+  },
+  "content": {
+    "intro": "This route stays in the old city but leaves the most obvious line. Kazandziluk shows a craft street, the bezistan turns into a covered trade passage, Svrzo House shifts the walk into domestic urban architecture, and War Childhood Museum needs time for personal stories.\n\nThe cathedral finish is not a box to tick; it shows how several city layers stand within minutes of each other. If the museum block feels heavy, shorten the route and do not add another memorial museum the same day.",
+    "routeLogic": "Begin at Kazandziluk before the lane becomes too tight.\nUse the bezistan as a change of scale, not a shopping obligation.\nPlace Svrzo House inside its opening hours and do not leave it for evening.\nGive War Childhood Museum enough time for reading.\nFinish by the cathedral on an open square.",
+    "bestFor": "a second old-city walk\ncraft lanes\na short museum day\nweather without heavy rain",
+    "notFor": "quick photo hopping\nsmall children in a tired group\na day that needs only light strolling",
+    "beforeYouGo": "Check Svrzo House and War Childhood Museum hours.\nKeep KM cash for smaller museums and shops.\nDecide in advance whether the group is ready for an emotional museum block.",
+    "timing": "Start before lunch. That keeps Svrzo House from falling out of the schedule and keeps War Childhood Museum away from closing time.",
+    "fallbackPlan": "If Svrzo House is closed, keep Kazandziluk, the bezistan, and War Childhood Museum, then give the extra time to the cathedral and nearby streets."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Kazandziluk",
+      "nameLocal": "Kazandžiluk",
+      "note": "The copper lane shows the craft rhythm",
+      "time": "25 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 43.8593,
+        "longitude": 18.4313
+      },
+      "content": {
+        "context": "Kazandziluk is a short street where copperware and shopfronts immediately change the bazaar mood. There is no need to buy by plan; watch the forms, signs, workshop sounds, and density of the passage.",
+        "lookFor": "Copper trays and coffee sets\nWorkshops among souvenir windows\nThe narrow street perspective\nDetails repeating from shop to shop",
+        "practical": "Photograph displays only where it feels appropriate.\nDo not stop in the middle of the passage.\nAsk sellers about payment and packing.",
+        "nextMove": "Turn toward the covered bezistan and compare an open lane with a trade passage."
+      },
+      "id": "sarajevo-old-lanes-1",
+      "guideId": "sarajevo-old-lanes",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Gazi Bezistan",
+      "nameLocal": "Gazi Husrev-begov bezistan",
+      "note": "The covered passage changes the bazaar scale",
+      "time": "20 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 43.858629,
+        "longitude": 18.427918
+      },
+      "content": {
+        "context": "The bezistan is useful as a short spatial shift: vaults, a trade corridor, and more controlled light replace open streets. It helps Bascarsija read as a system of passages, not just a set of shops.",
+        "lookFor": "The rhythm of arches and shopfronts\nMuted light inside\nExits back to the street\nHow people pass through quickly",
+        "practical": "It may be tight inside.\nDo not count on every shop keeping one shared schedule.\nIf the passage is closed, walk around it and continue to Svrzo House.",
+        "nextMove": "Climb toward Svrzo House through the streets of the old residential quarter."
+      },
+      "id": "sarajevo-old-lanes-2",
+      "guideId": "sarajevo-old-lanes",
+      "order": 2
+    },
+    {
+      "entry": "ticketed",
+      "name": "Svrzo House",
+      "nameLocal": "Svrzina kuća",
+      "note": "The house museum turns bazaar into residential city",
+      "time": "45 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 43.8624444,
+        "longitude": 18.4293194
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 1,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "15:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "Svrzo House shows Ottoman urban domestic architecture in Sarajevo. After the shops, it is an important change of scale: courtyards, rooms, and transitions show that the old city was not only a market, but also a place of family life.",
+        "lookFor": "Inner courtyards and wooden details\nThe division of rooms and passages\nViews from windows into the old quarter\nHow the house closes itself from the street",
+        "practical": "Hours change after mid-October.\nSaturday is shorter and Sunday is not modeled.\nProtect your schedule: this museum is easy to miss because of early closing.",
+        "nextMove": "Walk down toward War Childhood Museum without adding a climb to the fortresses.",
+        "sourceNote": "Hours come from the city tourist directory; check the seasonal change before visiting."
+      },
+      "id": "sarajevo-old-lanes-3",
+      "guideId": "sarajevo-old-lanes",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "War Childhood",
+      "nameLocal": "Muzej ratnog djetinjstva",
+      "note": "The museum needs time for personal stories",
+      "time": "60 min",
+      "walk": "9 min",
+      "coordinates": {
+        "latitude": 43.861991,
+        "longitude": 18.428524
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 1
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "War Childhood Museum is built around objects and testimonies from childhood during war. It is small in footprint but emotionally dense, so treat it as its own block rather than a quick stop between shop windows.",
+        "lookFor": "Objects with personal stories\nShort labels instead of spectacle\nHow ordinary things change meaning\nYour own state after the galleries",
+        "practical": "Last entry is before closing.\nThe museum site warned that the elevator was temporarily out of service.\nIf accessibility matters, contact the museum in advance.",
+        "nextMove": "After the museum, walk toward the cathedral through central streets for a more open finish.",
+        "sourceNote": "The official museum visitor page was checked on 2026-06-11; separate holiday closures should be verified."
+      },
+      "id": "sarajevo-old-lanes-4",
+      "guideId": "sarajevo-old-lanes",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Sacred Heart Cathedral",
+      "nameLocal": "Katedrala Srca Isusova",
+      "note": "An open square closes the dense museum block",
+      "time": "20 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8592918,
+        "longitude": 18.4253936
+      },
+      "content": {
+        "context": "Sacred Heart Cathedral finishes the route on a more open city square. After narrow lanes and the museum, it is easier here to gather impressions and see Catholic, Ottoman, and trading layers standing close together.",
+        "lookFor": "The two facade towers\nThe square before the entrance\nNearby streets toward Ferhadija\nThe shift from museum quiet to city flow",
+        "practical": "During services, do not block entry or film intrusively.\nEntry hours are best checked on the spot.\nThe square works well as a short pause before dinner.",
+        "nextMove": "End the route on Ferhadija or walk back toward Bascarsija."
+      },
+      "id": "sarajevo-old-lanes-5",
+      "guideId": "sarajevo-old-lanes",
+      "order": 5
+    }
+  ]
+}

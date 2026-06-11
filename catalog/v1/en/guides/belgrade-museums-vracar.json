@@ -1,0 +1,272 @@
+{
+  "id": "belgrade-museums-vracar",
+  "cityId": "belgrade",
+  "category": "Museums",
+  "title": "Museums And Vracar",
+  "subtitle": "Center / temple / Dedinje",
+  "blurb": "National Museum, Tesla, Saint Sava, and Yugoslav history with transfers.",
+  "mood": "Indoor, thoughtful, paced",
+  "accent": "#3E6D72",
+  "soft": "#DDE9E8",
+  "deep": "#2E5155",
+  "ink": "#27474B",
+  "motif": "axis",
+  "duration": "Day",
+  "stops": 4,
+  "distance": "5 km + transfers",
+  "pace": "day",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Indoor day",
+    "line": "Museums are balanced by a temple and transfers."
+  },
+  "content": {
+    "intro": "This day is for more content and less wandering. Start in the center, then transfer to the Nikola Tesla Museum and Saint Sava Temple, with the Museum of Yugoslavia in Dedinje as the finish.\n\nDo not try to walk the whole route. Between Vracar and Dedinje, transport is the better choice. Check every museum in the morning, because Monday closures and special changes can easily break the order.",
+    "routeLogic": "The National Museum gives a broad historic start.\nThe Tesla Museum needs current slot and closure checks.\nSaint Sava Temple adds an open stop between indoor visits.\nPut the Museum of Yugoslavia last so you do not need to return to the center.",
+    "bestFor": "poor weather\nmuseum-focused travelers\nSerbian and Yugoslav history\na day with taxi or transit",
+    "notFor": "a very late start\nMondays\na walking-only plan",
+    "beforeYouGo": "Check all museum hours in the morning.\nLeave time for the transfer between Vracar and Dedinje.\nAt the temple, respect services and keep your voice low.",
+    "timing": "Start in the morning in the center: it makes it easier to catch Tesla and avoid reaching Dedinje near closing time.",
+    "fallbackPlan": "If one museum is closed, do not replace it with a random stop: keep the temple and two open museums, then use the extra time in the center."
+  },
+  "stopList": [
+    {
+      "entry": "ticketed",
+      "name": "National Museum",
+      "nameLocal": "Народни музеј Србије",
+      "note": "A broad start before Vracar",
+      "time": "80 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 44.816789,
+        "longitude": 20.4596465
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "12:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "12:00",
+            "closes": "20:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The National Museum works well first because it sits in the center and needs no morning transfer. It sets the historic scale before the narrower stories of Tesla, the temple, and Yugoslav memory.",
+        "lookFor": "The permanent display without trying to see every room\nSerbian themes near European works\nAn easy exit back to the square",
+        "practical": "Closed on Mondays.\nOn Thursdays and Saturdays it opens later than usual.\nTemporary exhibitions can change the visit plan.",
+        "nextMove": "After the museum, transfer to the Nikola Tesla Museum; walking would stretch the day too much.",
+        "sourceNote": "Official museum hours checked on 2026-06-11."
+      },
+      "id": "belgrade-museums-vracar-1",
+      "guideId": "belgrade-museums-vracar",
+      "order": 1
+    },
+    {
+      "entry": "ticketed",
+      "name": "Nikola Tesla Museum",
+      "nameLocal": "Музеј Николе Тесле",
+      "note": "A compact stop around Tesla archives",
+      "time": "60 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 44.805105,
+        "longitude": 20.4706999
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 1,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "20:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Nikola Tesla Museum occupies a small house in Vracar and keeps material connected with the inventor. In this route, the city day becomes more focused here and works best with an entry time checked in advance.",
+        "lookFor": "Displays connected with electricity and the archive\nThe small scale of the building\nDemonstration or group timing if available",
+        "practical": "Check current hours and special closures.\nSpaces for sessions may be limited.\nArrive early if you want a specific slot.",
+        "nextMove": "Walk from the museum to Saint Sava Temple through Vracar if the weather is comfortable.",
+        "sourceNote": "Official hours and temporary closure notes checked on 2026-06-11."
+      },
+      "id": "belgrade-museums-vracar-2",
+      "guideId": "belgrade-museums-vracar",
+      "order": 2
+    },
+    {
+      "entry": "respectfully",
+      "name": "Saint Sava Temple",
+      "nameLocal": "Храм Светог Саве",
+      "note": "A large sacred volume after the museum",
+      "time": "45 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 44.798046,
+        "longitude": 20.469199
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "08:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "08:00",
+            "closes": "20:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "Saint Sava Temple changes the scale sharply after the small Tesla Museum. Standing on the Vracar plateau, it gives an open and luminous stop between museum galleries and the more distant Dedinje area.",
+        "lookFor": "Mosaics and the interior volume\nThe broad approach from the plateau\nThe difference between the temple and the smaller church nearby\nLight in the central space",
+        "practical": "The temple is open for visits, but services can affect quiet access.\nSpeak softly inside and follow photography rules.\nThe smaller church has a separate schedule.",
+        "nextMove": "Continue to Dedinje by transport for the Museum of Yugoslavia; walking would take too much energy.",
+        "sourceNote": "Official temple hours checked on 2026-06-11."
+      },
+      "id": "belgrade-museums-vracar-3",
+      "guideId": "belgrade-museums-vracar",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "Museum of Yugoslavia",
+      "nameLocal": "Музеј Југославије",
+      "note": "Dedinje finish and House of Flowers",
+      "time": "90 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 44.7880106,
+        "longitude": 20.4527047
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Museum of Yugoslavia in Dedinje combines several buildings in one complex, including the House of Flowers. After the center and Vracar, it extends the day into the twentieth century and Yugoslav memory.",
+        "lookFor": "The link between exhibition buildings and the House of Flowers\nObjects from political and everyday history\nThe grounds between buildings\nA different neighborhood after the busy center",
+        "practical": "Closed on Mondays.\nThe complex needs more time than one small gallery.\nDo not arrive close to closing time.",
+        "nextMove": "End the day in Dedinje and return by transport or taxi instead of planning another museum afterward.",
+        "sourceNote": "Official museum hours checked on 2026-06-11."
+      },
+      "id": "belgrade-museums-vracar-4",
+      "guideId": "belgrade-museums-vracar",
+      "order": 4
+    }
+  ]
+}

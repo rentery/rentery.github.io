@@ -3,9 +3,9 @@
     "id": "beijing",
     "slug": "beijing",
     "title": "Beijing",
-    "subtitle": "Beijing - 5 routes",
-    "meta": "China - axis, palaces, hutongs, and long day trips",
-    "practicalNote": "April-May and September-October are gentler for long walks. In summer, start earlier and leave room for rain; in winter, bring a warm layer. Check Palace Museum booking and Tiananmen access before leaving the hotel.",
+    "subtitle": "Beijing · 北京 · 5 routes",
+    "meta": "China · imperial axis, hutongs, evening streets, and a Great Wall day",
+    "practicalNote": "Spring and autumn are easier for full walking days. Summer heats open squares quickly and brings heavy rain; winter is cold and windy. Before leaving, check Tiananmen booking, the Palace Museum ticket, and the passport used for reservation: in central Beijing, access checks break the day more often than distance.",
     "guideIds": [
       "axis",
       "hutong",
@@ -13,6 +13,16 @@
       "kids",
       "wall"
     ],
+    "coordinates": {
+      "latitude": 39.9075,
+      "longitude": 116.39723
+    },
+    "photo": {
+      "id": "beijing-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/beijing/beijing-hero-wide.jpg",
+      "alt": "Пекинская ось на рассвете: серые крыши, красная стена и дальние горы"
+    },
     "identity": {
       "accent": "#8F352B",
       "soft": "#F1E1DC",
@@ -20,7 +30,7 @@
       "ink": "#5D251F",
       "motif": "axis",
       "glyph": "京",
-      "hook": "Imperial axis city - since 1420"
+      "hook": "Imperial axis · palaces completed by 1420"
     },
     "timezone": "Asia/Shanghai",
     "countryId": "china"
@@ -29,9 +39,9 @@
     "id": "seoul",
     "slug": "seoul",
     "title": "Seoul",
-    "subtitle": "Seoul - 5 routes",
-    "meta": "South Korea - palaces, neighborhoods, markets, and river",
-    "practicalNote": "April-May and September-October are usually best for long walks. Summer is hot and rainy, winter is cold; check weather and fine dust before a long outdoor route.",
+    "subtitle": "Seoul · 서울 · 5 routes",
+    "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
+    "practicalNote": "April-May and September-October are usually easier for long walks. In summer, plan around heat, heavy rain, and typhoon season; in winter, expect cold, and check forecast plus fine dust before outdoor routes. Use metro or taxi between the Hangang, Yongsan, Namsan, and the old center: walking distances stretch quickly on the map.",
     "guideIds": [
       "seoul-first-time",
       "seoul-old-city-walk",
@@ -39,16 +49,129 @@
       "seoul-calm-day",
       "seoul-river-views"
     ],
+    "coordinates": {
+      "latitude": 37.566,
+      "longitude": 126.9784
+    },
     "identity": {
       "accent": "#205E54",
       "soft": "#DDE9E4",
       "deep": "#16463E",
       "ink": "#143F38",
       "motif": "palace",
-      "glyph": "漢",
+      "glyph": "한",
       "hook": "Hanyang became Joseon capital - 1394"
     },
     "timezone": "Asia/Seoul",
-    "countryId": "south-korea"
+    "countryId": "south-korea",
+    "photo": {
+      "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
+      "id": "seoul-hero",
+      "kind": "generated",
+      "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
+      "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+    }
+  },
+  {
+    "id": "belgrade",
+    "slug": "belgrade",
+    "title": "Belgrade",
+    "subtitle": "Belgrade · Beograd · 5 routes",
+    "meta": "Serbia - fortress, rivers, Zemun, and modernism",
+    "practicalNote": "City buses, trams, trolleybuses, and BG Train have been free since 2025. Keep dinars for small purchases and markets; in Belgrade you will see both Cyrillic and Latin scripts.",
+    "guideIds": [
+      "belgrade-first-day",
+      "belgrade-fortress-rivers",
+      "belgrade-museums-vracar",
+      "belgrade-zemun",
+      "belgrade-new-belgrade"
+    ],
+    "coordinates": {
+      "latitude": 44.80401,
+      "longitude": 20.46513
+    },
+    "identity": {
+      "accent": "#B4513A",
+      "soft": "#F0E2D7",
+      "deep": "#6C332D",
+      "ink": "#4C2C2A",
+      "motif": "axis",
+      "glyph": "БГ",
+      "hook": "Fortress above Roman Singidunum - 1st c. CE"
+    },
+    "timezone": "Europe/Belgrade",
+    "countryId": "serbia"
+  },
+  {
+    "id": "sarajevo",
+    "slug": "sarajevo",
+    "title": "Sarajevo",
+    "subtitle": "Sarajevo · 5 routes",
+    "meta": "Bosnia and Herzegovina - old bazaar, river, museums, and mountains",
+    "practicalNote": "Central walks are short, but cobblestones and slopes get tiring after rain. For Ilidza, Trebevic, and Tunnel of Hope, check transport, cable-car operation, and hours on the day; keep some KM cash. Outside the city, stay on paved or marked routes because of landmine and unexploded-ordnance risk.",
+    "guideIds": [
+      "sarajevo-first-day",
+      "sarajevo-old-lanes",
+      "sarajevo-river-museums",
+      "sarajevo-trebevic",
+      "sarajevo-ilidza"
+    ],
+    "coordinates": {
+      "latitude": 43.84864,
+      "longitude": 18.35644
+    },
+    "photo": {
+      "id": "sarajevo-sarajevo-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
+      "alt": "Sarajevo valley with river, old town, and mountains"
+    },
+    "identity": {
+      "accent": "#2F6D6C",
+      "soft": "#DDEAE6",
+      "deep": "#194B4D",
+      "ink": "#173F3F",
+      "motif": "axis",
+      "glyph": "SA",
+      "hook": "Ottoman center by the Miljacka - 1462"
+    },
+    "timezone": "Europe/Sarajevo",
+    "countryId": "bosnia-and-herzegovina"
+  },
+  {
+    "id": "tivat",
+    "slug": "tivat",
+    "title": "Tivat",
+    "subtitle": "Tivat · 5 routes",
+    "meta": "Montenegro - bay, marina, salt flats, and Vrmac slopes",
+    "practicalNote": "In summer, the waterfront and Solila heat up fast: keep exposed routes for morning or evening. Check buses, beach access, and museum hours on the day you go because several places change by season. Keep some euro cash for small payments even though cards usually work around the marina.",
+    "guideIds": [
+      "tivat-first-day-core",
+      "tivat-north-shore",
+      "tivat-solila-prevlaka",
+      "tivat-rainy-core",
+      "tivat-vrmac-lastva"
+    ],
+    "coordinates": {
+      "latitude": 42.43623,
+      "longitude": 18.69361
+    },
+    "identity": {
+      "accent": "#1F6F78",
+      "soft": "#DCEDEC",
+      "deep": "#144C53",
+      "ink": "#123F44",
+      "motif": "axis",
+      "glyph": "П",
+      "hook": "The arsenal reshaped the town - 1889"
+    },
+    "timezone": "Europe/Podgorica",
+    "countryId": "montenegro",
+    "photo": {
+      "id": "tivat-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
+      "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
+    }
   }
 ]

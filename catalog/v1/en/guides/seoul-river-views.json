@@ -1,46 +1,71 @@
 {
   "id": "seoul-river-views",
   "cityId": "seoul",
-  "category": "Views",
-  "title": "River And Tower",
-  "subtitle": "Seoul Forest / Hangang",
-  "blurb": "Hangang parks and Namsan tower as a clear-weather finish.",
-  "mood": "Park, river, views",
+  "category": "River Views",
+  "title": "Hangang And Namsan",
+  "subtitle": "Seoul Forest / Hangang / Namsan",
+  "blurb": "Hangang parks and Namsan tower for a clear day with rides between riverbanks.",
+  "mood": "Park, river wind, visibility matters",
   "accent": "#5F7F63",
   "soft": "#E6EEE5",
   "deep": "#3F654A",
   "ink": "#36583F",
   "motif": "ridge",
   "duration": "Full day",
-  "stops": 4,
-  "distance": "metro + 3 km",
+  "stops": 5,
+  "distance": "metro/taxi + 4 km",
   "pace": "full",
   "kids": true,
   "microcopy": {
-    "kicker": "Green day",
-    "line": "Leave the tower for a clear final view."
+    "kicker": "Check the air",
+    "line": "Keep the tower only for a day with decent visibility."
+  },
+  "cover": {
+    "alt": "Дорожка у Хангана с башней Намсан вдали",
+    "id": "seoul-river-views-cover",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-cover-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-cover-wide.jpg"
   },
   "content": {
-    "intro": "This is the most open Seoul route in the seed: park, several river points, and an observation tower at the end. It does not pretend to be one continuous walk because the Hangang is wide, and the best viewpoints are better linked by metro or taxi.\n\nThe plan depends on weather more than the others. In heat, shorten daytime stretches by the water; in poor visibility, do not cling to the tower; in good weather, leave more time for the finish.",
-    "routeLogic": "Seoul Forest starts the day green and calm.\nYeouido gives a wide riverbank and simple metro access.\nBanpo adds another angle on the Hangang.\nN Seoul Tower works only as a weather-dependent finish.",
-    "bestFor": "clear weather\nparks and river\na family pace\na full day without museums",
-    "notFor": "heavy rain or strong heat\npoor visibility\ntravelers who want to walk all day without transport",
-    "beforeYouGo": "Check forecast, fine dust, and visibility.\nFor river parks, bring water and sun protection.\nFountain, event, and tower schedules change.\nPlan metro or taxi between parks.",
-    "timing": "Start before midday and leave the tower for evening or late day, when sky clarity is easier to judge.",
-    "fallbackPlan": "If visibility is poor, replace the tower with dinner by the river or a short indoor plan near the closest station."
+    "intro": "This is an open-air day: Seoul Forest, Ttukseom Hangang Park, broad Yeouido riverbank, Banpo, and a final view from Namsan. Do not try to connect it all on foot; the best river spots are scattered, so metro or taxi is part of the plan.\n\nWeather matters more than the schedule. In heat, shorten daytime stretches by the water; in bad fine dust, drop the tower; after rain, check embankment and fountain access.",
+    "routeLogic": "Start at Seoul Forest before it gets hot.\nUse Ttukseom for a short first river stretch, not a race.\nYeouido gives a broad bank and easy metro access.\nKeep Banpo for late day and do not depend on the fountain.\nGo up N Seoul Tower only with good visibility and a clear way down.",
+    "bestFor": "clear weather\nparks, river, and kids\na day without museums\ntravelers who are fine with transfers",
+    "notFor": "heavy rain, strong heat, or bad fine dust\na day you want to walk entirely on foot\nan evening with no checked return transport",
+    "beforeYouGo": "In the morning, check forecast, fine dust, and visibility. Banpo fountain schedules depend on season and weather, and the tower is not worth much in hazy air. Look up metro or taxi routes between parks.",
+    "timing": "Start before midday. Keep the river for day and late day, and leave Namsan for the finish when visibility is easier to judge.",
+    "fallbackPlan": "If the air is poor, drop the tower and end at Banpo or Yeouido. If it is hot, keep one river park and move the rest to evening."
   },
   "stopList": [
     {
       "entry": "free",
       "name": "Seoul Forest",
-      "note": "The park starts the day away from city noise",
-      "time": "90 min",
+      "nameLocal": "서울숲",
+      "note": "A green start before the river transfers",
+      "time": "75-90 min",
       "walk": "metro",
+      "coordinates": {
+        "latitude": 37.5433862,
+        "longitude": 127.0332668
+      },
+      "photo": {
+        "alt": "Деревья и дорожки Сеульского леса",
+        "attribution": {
+          "author": "Christian Bolz",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Forest_%EC%84%9C%EC%9A%B8%EC%88%B2.jpg"
+        },
+        "id": "seoul-river-views-1",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-1-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-1-wide.jpg"
+      },
       "content": {
-        "context": "Seoul Forest gives a green start before the larger river spaces. It is useful for an easy opening: walk the alleys, take a child or coffee pause, and avoid entering the day through the dense center.",
-        "lookFor": "Broad paths and shaded stretches\nPlaces where children can move more freely\nTransitions toward Seongsu if you want coffee\nSeasonal flowers or open lawns",
-        "practical": "The park is mostly outdoors, so weather matters.\nWeekends can be denser near popular entrances.\nDo not stretch the stop too long; a transfer to the Hangang is ahead.",
-        "nextMove": "Ride the metro to Yeouido Hangang; the distance across the city is too long for a walking link."
+        "context": "Seoul Forest gives the day an easy start before the larger river spaces. Walk the main paths, take a child or coffee pause, and avoid stretching the park until you are tired.",
+        "lookFor": "Broad paths and shade\nOpen lawns\nRoutes toward Seongsu if you want coffee\nPlaces where kids can move more freely",
+        "practical": "The park is mostly outdoors, so heat and rain change the plan quickly.\nWeekends are denser near popular entrances.\nStay near an exit if the next park is already planned.",
+        "nextMove": "Ride to Ttukseom Hangang Park by metro or taxi; walking there adds an unnecessary leg before the river."
       },
       "id": "seoul-river-views-1",
       "guideId": "seoul-river-views",
@@ -48,16 +73,34 @@
     },
     {
       "entry": "free",
-      "name": "Yeouido Hangang",
-      "note": "The Hangang bank moves the route to the river",
-      "time": "75 min",
+      "name": "Ttukseom Hangang Park",
+      "nameLocal": "뚝섬한강공원",
+      "note": "The first river stop on the east side",
+      "time": "45-60 min",
       "walk": "metro",
+      "coordinates": {
+        "latitude": 37.5298288,
+        "longitude": 127.0681098
+      },
+      "photo": {
+        "alt": "Парк Ттуксом у Хангана весной",
+        "attribution": {
+          "author": "Motoko C. K.",
+          "license": "CC BY 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_1.jpg"
+        },
+        "id": "seoul-river-views-2",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-2-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-2-wide.jpg"
+      },
       "content": {
-        "context": "Yeouido Hangang Park shows the river wide and open, with easy metro access. In the route, this is the main daytime bank: walk, sit on the grass, and watch the city open on both sides of the water.",
-        "lookFor": "Wide Hangang view\nLawns and picnic areas\nBridges and bicycle movement\nSeasonal events if they do not block the walk",
-        "practical": "In summer, sun and heat tire you quickly.\nEvents and festivals can change the flow of people.\nCheck rentals and services on site.",
-        "nextMove": "Ride rather than walk all the way to Banpo; this keeps energy for the finish.",
-        "sourceNote": "Hangang events, rentals, and access can change; check the current situation on site."
+        "context": "Ttukseom moves the route from city park to water. You do not need the whole embankment: choose a short river stretch, look at the bridges, and decide how much energy to save for the western banks.",
+        "lookFor": "The wide Hangang line\nBike paths and bridges\nPlaces with shade or seating\nThe nearest station exit",
+        "practical": "By the water, summer can feel hot and windy at the same time.\nSeasonal services and zones should be checked on site.\nDo not plan swimming or rentals without a separate check.",
+        "nextMove": "Ride the metro to Yeouido; crossing the city on foot would take too much out of the day.",
+        "sourceNote": "Seasonal services in Ttukseom change; check them separately if they matter to your plan."
       },
       "id": "seoul-river-views-2",
       "guideId": "seoul-river-views",
@@ -65,37 +108,148 @@
     },
     {
       "entry": "free",
-      "name": "Banpo Hangang",
-      "note": "A second river point keeps the day by the water",
-      "time": "60 min",
+      "name": "Yeouido Hangang Park",
+      "nameLocal": "여의도한강공원",
+      "note": "A broad bank with easy metro access",
+      "time": "60-75 min",
       "walk": "transfer",
+      "coordinates": {
+        "latitude": 37.5256731,
+        "longitude": 126.9360586
+      },
+      "photo": {
+        "alt": "Парк Ёыйдо Ханган с видом с моста",
+        "attribution": {
+          "author": "kallerna",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yeouido_Hangang_Park_from_Mapo_Bridge_1.jpg"
+        },
+        "id": "seoul-river-views-3",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-3-wide.jpg"
+      },
       "content": {
-        "context": "Banpo gives a different angle on the Hangang and keeps the river day from becoming a single embankment. If fountains or events are running, treat them as a bonus; the route should not depend on them because schedules are seasonal and weather-based.",
-        "lookFor": "View toward the bridge and opposite bank\nEvening light on the water\nPlaces where you can sit calmly\nSigns of current events or closures",
-        "practical": "Fountain schedules and access depend on season and weather.\nIt can be windy by the water.\nKeep time in reserve for the move to Namsan.",
-        "nextMove": "For N Seoul Tower, use metro, bus, taxi, or cable car depending on the day; it is a separate final block.",
-        "sourceNote": "Fountain schedules, river access, and events can change with season and weather."
+        "context": "Yeouido shows the Hangang wide: lawns, bridges, bicycle movement, and the city on both sides of the water. It is a strong daytime bank, but the sun can drain you quickly when shade is limited.",
+        "lookFor": "Wide river views\nLawns and places to sit\nBridges and movement along the water\nSigns toward station exits",
+        "practical": "Events and festivals can redirect crowds.\nIn heat, treat water and shade as part of the route.\nCheck rentals and services on site rather than old lists.",
+        "nextMove": "Ride rather than walk all the way to Banpo; this keeps energy for the evening view.",
+        "sourceNote": "Hangang events, rentals, and access to specific areas change by date and weather."
       },
       "id": "seoul-river-views-3",
       "guideId": "seoul-river-views",
       "order": 3
     },
     {
-      "entry": "ticketed",
-      "name": "N Seoul Tower",
-      "note": "Final view if the weather is clear",
-      "time": "90 min",
-      "walk": "-",
+      "entry": "free",
+      "name": "Banpo Hangang Park",
+      "nameLocal": "반포한강공원",
+      "note": "A second river angle, fountain only as a bonus",
+      "time": "60-75 min",
+      "walk": "transfer",
+      "coordinates": {
+        "latitude": 37.508873,
+        "longitude": 126.9939435
+      },
+      "photo": {
+        "alt": "Мост Банпо и река Ханган",
+        "attribution": {
+          "author": "Bryan Dorrough",
+          "license": "Public domain",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Han_River,_Banpo_Bridge_(36).jpg"
+        },
+        "id": "seoul-river-views-4",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-4-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-4-wide.jpg"
+      },
       "content": {
-        "context": "Leave N Seoul Tower for the end, when visibility is easier to judge. After parks and river, the tower gathers the day from above: you can see how the Hangang, Namsan, and central districts connect.",
-        "lookFor": "Air clarity before buying a ticket\nViews of the Hangang curves\nDusk if the day is clear\nReturn route down before transport closes",
-        "practical": "Check hours, tickets, and the way up in advance.\nIn poor visibility, the view may not be worth the effort.\nSunset can bring queues.",
-        "nextMove": "End the route by descending to the nearest transport; do not plan another distant point after the tower.",
-        "sourceNote": "Tower hours, tickets, visibility, and access can change; check before committing to the final stop."
+        "context": "Banpo gives the river another angle and bridge view, so the day is not just one embankment. The fountain can be a nice extra, but the route should not depend on it.",
+        "lookFor": "The bridge and opposite bank\nEvening light on the water\nPlaces to sit without heavy crowding\nCurrent notices about events or closures",
+        "practical": "The fountain is seasonal and can be canceled in bad weather.\nIt can be windy by the water.\nLeave time for the move to Namsan if the air is clear enough.",
+        "nextMove": "Treat N Seoul Tower as a separate transfer by metro, bus, taxi, or cable car depending on the day.",
+        "sourceNote": "Check Banpo fountain times on the same day: they depend on season and weather."
       },
       "id": "seoul-river-views-4",
       "guideId": "seoul-river-views",
       "order": 4
+    },
+    {
+      "entry": "ticketed",
+      "name": "N Seoul Tower",
+      "nameLocal": "남산서울타워",
+      "note": "Go up only with decent visibility",
+      "time": "75-90 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 37.5512605,
+        "longitude": 126.98822
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:30",
+            "closes": "22:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:30",
+            "closes": "22:00"
+          }
+        ]
+      },
+      "photo": {
+        "alt": "Башня N Seoul Tower среди деревьев Намсана",
+        "attribution": {
+          "author": "travel oriented",
+          "license": "CC BY-SA 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Tower_from_Namsan_Park_(9595146693).jpg"
+        },
+        "id": "seoul-river-views-5",
+        "kind": "photo",
+        "square": "https://rentery.github.io/images/v1/seoul/seoul-river-views-5-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/seoul/seoul-river-views-5-wide.jpg"
+      },
+      "content": {
+        "context": "Leave N Seoul Tower for the end, when visibility is easier to judge. After parks and the Hangang, the tower gathers the day from above: river, Namsan, and central districts make more sense together.",
+        "lookFor": "Air clarity before buying a ticket\nCurves of the Hangang from above\nDusk if the day is clear\nThe route down and transport after closing",
+        "practical": "Check tickets, hours, and the way up in advance.\nIn poor fine dust, the view may not be worth the time.\nSunset can bring queues, so leave a buffer for the way down.",
+        "nextMove": "After the tower, end at the nearest transport and do not add another distant district.",
+        "sourceNote": "Before going up, check hours, tickets, and visibility: the tower depends heavily on weather and fine dust."
+      },
+      "id": "seoul-river-views-5",
+      "guideId": "seoul-river-views",
+      "order": 5
     }
   ]
 }

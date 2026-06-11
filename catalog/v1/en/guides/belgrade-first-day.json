@@ -1,0 +1,180 @@
+{
+  "id": "belgrade-first-day",
+  "cityId": "belgrade",
+  "category": "First Day",
+  "title": "Central Belgrade",
+  "subtitle": "Square / Knez Mihailova",
+  "blurb": "Main square, pedestrian street, museum, and Skadarlija in one short loop.",
+  "mood": "Urban, facade-rich, evening-friendly",
+  "accent": "#B4513A",
+  "soft": "#F0E2D7",
+  "deep": "#6C332D",
+  "ink": "#4C2C2A",
+  "motif": "lane",
+  "duration": "Half-day",
+  "stops": 4,
+  "distance": "2.8 km",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "First loop",
+    "line": "A clear central axis without long transfers."
+  },
+  "content": {
+    "intro": "This route gives you Belgrade without trying to cover the whole city at once. It starts at the main meeting point, follows the pedestrian street, leaves time for the National Museum, and finishes in Skadarlija.\n\nThe loop is short and useful after arrival: you can walk it, adjust the pace to the weather, and avoid depending on transport. If the museum is closed, keep the square and Knez Mihailova, then move Skadarlija closer to evening.",
+    "routeLogic": "Start at Republic Square as the easiest central reference.\nWalk Knez Mihailova toward the old city, but do not rush to the fortress.\nUse the museum in the middle of the day when you want an indoor stretch.\nKeep Skadarlija for the finish, when the area wakes up.",
+    "bestFor": "a first visit\na short central walk\na museum in the center\nan evening without transfers",
+    "notFor": "travelers who want the rivers first\nvery early morning\na day that needs quiet streets",
+    "beforeYouGo": "Check National Museum hours.\nIn heat, keep the museum as an indoor break.\nSkadarlija can be loud and busy in the evening.",
+    "timing": "Start after breakfast or around midday, so the museum and evening Skadarlija fit naturally.",
+    "fallbackPlan": "If the museum is closed, slow down in the center and add Kalemegdan only as a brief viewpoint, not the full fortress route."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Republic Square",
+      "nameLocal": "Трг републике",
+      "note": "The simplest first central marker",
+      "time": "20 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 44.8162216,
+        "longitude": 20.4602953
+      },
+      "photo": {
+        "id": "belgrade-republic-square",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/republic-square-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/republic-square-square.jpg",
+        "alt": "Площадь Республики в Белграде",
+        "attribution": {
+          "author": "AndrejBGD",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Republic_Square_in_Belgrade.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Republic Square is an easy starting point: the National Theatre, National Museum, and Prince Mihailo monument are all close by. It is a practical place to gather, check direction, and see how the center turns into the pedestrian street.",
+        "lookFor": "Prince Mihailo monument as the meeting point\nMuseum and theatre facades around the square\nPeople moving toward Knez Mihailova\nTrams and buses around the edges",
+        "practical": "The square is open at all hours.\nKeep belongings close in crowds.\nFor taxis or scooters, move to a nearby side street.",
+        "nextMove": "Step onto Knez Mihailova and take it slowly; the main pedestrian stretch begins almost at the square."
+      },
+      "id": "belgrade-first-day-1",
+      "guideId": "belgrade-first-day",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Knez Mihailova",
+      "nameLocal": "Кнеза Михаила",
+      "note": "The pedestrian street points to the old city",
+      "time": "35 min",
+      "walk": "4 min",
+      "coordinates": {
+        "latitude": 44.8178911,
+        "longitude": 20.4567721
+      },
+      "photo": {
+        "id": "belgrade-knez-mihailova",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/belgrade/knez-mihailova-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/belgrade/knez-mihailova-square.jpg",
+        "alt": "Улица Кнеза Михаила в центре Белграда",
+        "attribution": {
+          "author": "Jaimrsilva",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knez_Mihailova_Street_(Belgrade).jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Knez Mihailova links Republic Square with the direction of Kalemegdan and shows Belgrade from its more formal urban side. On a first route it is not only about shopping, but about orientation.",
+        "lookFor": "Balconies and corner facades\nSide passages to cafes and galleries\nThe flow getting denser near the fortress side\nStreet musicians when they do not block movement",
+        "practical": "Evenings and weekends are much busier.\nCafes keep their own hours.\nIn heat, choose the shaded side of the street.",
+        "nextMove": "Return to the National Museum by the square, or visit the museum first if you want the galleries before the walk."
+      },
+      "id": "belgrade-first-day-2",
+      "guideId": "belgrade-first-day",
+      "order": 2
+    },
+    {
+      "entry": "ticketed",
+      "name": "National Museum",
+      "nameLocal": "Народни музеј Србије",
+      "note": "Indoor history and art in the center",
+      "time": "75 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 44.816789,
+        "longitude": 20.4596465
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "12:00",
+            "closes": "20:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "12:00",
+            "closes": "20:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The National Museum stands right on Republic Square, so it fits easily into a first day. It gives an indoor stretch between streets and helps shift from city noise to the history of Serbia and the wider region.",
+        "lookFor": "The main stair and permanent galleries\nSerbian and European art shown close together\nViews back to the square\nTemporary exhibitions if they are open",
+        "practical": "Closed on Mondays.\nOn Thursdays and Saturdays the museum opens later.\nCheck tickets and temporary exhibitions before going.",
+        "nextMove": "After the museum, walk to Skadarlija through a short central passage, leaving time for the evening area.",
+        "sourceNote": "Official museum hours checked on 2026-06-11."
+      },
+      "id": "belgrade-first-day-3",
+      "guideId": "belgrade-first-day",
+      "order": 3
+    },
+    {
+      "entry": "as available",
+      "name": "Skadarlija",
+      "nameLocal": "Скадарска",
+      "note": "Cobblestones for an evening finish",
+      "time": "60 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 44.8180993,
+        "longitude": 20.4647579
+      },
+      "content": {
+        "context": "Skadarlija is known as a bohemian quarter with cobblestones, restaurants, and a music tradition. After the square, museum, and pedestrian axis, it adds a louder evening character to the old center.",
+        "lookFor": "Cobblestone paving and older facades\nRestaurant terraces along the street\nSigns and details tied to bohemian history\nLight changing toward evening",
+        "practical": "Reserve ahead for popular restaurants.\nMusic can be loud.\nCheck prices and menus on the spot.",
+        "nextMove": "End with dinner in the area or walk back to Republic Square if you want the simplest central reference."
+      },
+      "id": "belgrade-first-day-4",
+      "guideId": "belgrade-first-day",
+      "order": 4
+    }
+  ]
+}

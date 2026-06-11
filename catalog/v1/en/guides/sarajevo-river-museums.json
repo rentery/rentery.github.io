@@ -1,0 +1,223 @@
+{
+  "id": "sarajevo-river-museums",
+  "cityId": "sarajevo",
+  "category": "Museums",
+  "title": "River And Museums",
+  "subtitle": "Vjecna vatra / Muzeji",
+  "blurb": "City memory along the Miljacka: Eternal Flame, bridges, and two major museums.",
+  "mood": "Riverfront, memory, galleries",
+  "accent": "#4F6F86",
+  "soft": "#DEE8EE",
+  "deep": "#345268",
+  "ink": "#263E51",
+  "motif": "axis",
+  "duration": "Day",
+  "stops": 5,
+  "distance": "3.4 km",
+  "pace": "day",
+  "kids": false,
+  "cover": {
+    "id": "sarajevo-cover-river-museums",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-square.jpg",
+    "alt": "Miljacka river and Sarajevo museum district in clear daylight"
+  },
+  "microcopy": {
+    "kicker": "Indoor reserve",
+    "line": "The river leads to museums, not to rushing."
+  },
+  "content": {
+    "intro": "This route leaves the old bazaar for the broader city center. Eternal Flame opens the theme of memory, Festina Lente and the Academy of Fine Arts give a calmer river transition, and the National and Historical museums stand close enough to hold the main part of the day indoors.\n\nDo not add another heavy museum afterward. It is better to leave time for texts, exhibitions, and a short finish at Suada and Olga Bridge than to collect every Sarajevo war story in one attempt.",
+    "routeLogic": "Start at Eternal Flame as a clear city marker.\nMove along the Miljacka through Festina Lente toward the museum district.\nPlace the National Museum first among the two large museums.\nKeep the Historical Museum second, if attention remains.\nFinish at Suada and Olga Bridge without adding a long transfer.",
+    "bestFor": "a cool or rainy day\nmuseums and city memory\na slow river transition\ntravelers without small children",
+    "notFor": "a group already tired by a heavy morning\na day focused only on the old bazaar\nMondays, if the National Museum is essential",
+    "beforeYouGo": "Check both museum schedules.\nThe National Museum is closed on Mondays.\nBudget attention for reading, not just for walking between buildings.",
+    "timing": "Start in the morning or around midday. If the National Museum is open, give it more time and keep the Historical Museum for the energy that remains.",
+    "fallbackPlan": "If one museum is closed, do not replace it with a random far stop: slow down on the river stretch and make the open museum the main block."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Eternal Flame",
+      "nameLocal": "Vječna vatra",
+      "note": "The memorial opens the city-memory theme",
+      "time": "15 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8588115,
+        "longitude": 18.4218717
+      },
+      "content": {
+        "context": "Eternal Flame stands on a busy street and commemorates the liberation of Sarajevo in World War II. It is a useful short beginning: city memory is built directly into the everyday flow of the center.",
+        "lookFor": "The flame in the facade niche\nThe inscription on the wall\nPeople moving past the memorial\nThe contrast between memory and ordinary street life",
+        "practical": "Do not linger in the passage or block movement.\nPhotograph without staged scenes.\nDecide where you will drop toward the river next.",
+        "nextMove": "Walk down to the Miljacka and continue toward Festina Lente by the Academy of Fine Arts."
+      },
+      "id": "sarajevo-river-museums-1",
+      "guideId": "sarajevo-river-museums",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Festina Lente",
+      "nameLocal": "Festina Lente",
+      "note": "The pedestrian bridge sets up the museum walk",
+      "time": "20 min",
+      "walk": "25 min",
+      "coordinates": {
+        "latitude": 43.856292,
+        "longitude": 18.417614
+      },
+      "content": {
+        "context": "Festina Lente connects the Miljacka embankments near the Academy of Fine Arts. After Eternal Flame, it is a light but useful transition: the route moves from a dense street to the river and points toward the museum district.",
+        "lookFor": "The modern pedestrian-bridge form\nThe academy building behind it\nEmbankments on both sides\nViews downstream toward the western center",
+        "practical": "Wind can be stronger by the river than in the streets.\nAfter rain, slow down on the approaches.\nDo not expect shade along the whole river section.",
+        "nextMove": "Walk west toward the National Museum, allowing more time than for a short central hop."
+      },
+      "id": "sarajevo-river-museums-2",
+      "guideId": "sarajevo-river-museums",
+      "order": 2
+    },
+    {
+      "entry": "ticketed",
+      "name": "National Museum",
+      "nameLocal": "Zemaljski muzej Bosne i Hercegovine",
+      "note": "The main museum block needs extra time",
+      "time": "90 min",
+      "walk": "4 min",
+      "coordinates": {
+        "latitude": 43.85499,
+        "longitude": 18.402641
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "The National Museum of Bosnia and Herzegovina occupies a large complex in the museum district. On this route it is the main indoor block: natural, archaeological, and cultural collections need time rather than a quick pass.",
+        "lookFor": "The courtyard and museum buildings\nPermanent galleries by section\nCurrent-exhibition notices\nThe display status of the Sarajevo Haggadah",
+        "practical": "The museum is closed on Mondays.\nCheck current exhibitions and any separate restrictions.\nDo not schedule another large museum immediately after it without a break.",
+        "nextMove": "Move to the Historical Museum next door, but decide by energy whether you want a second full block.",
+        "sourceNote": "Official National Museum hours checked on 2026-06-11."
+      },
+      "id": "sarajevo-river-museums-3",
+      "guideId": "sarajevo-river-museums",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "History Museum",
+      "nameLocal": "Historijski muzej Bosne i Hercegovine",
+      "note": "Keep the second museum optional by energy",
+      "time": "60 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8550333,
+        "longitude": 18.4008194
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "The Historical Museum stands near the National Museum, but the mood is different. It helps shift from broad collections into twentieth-century history and city memory, so enter deliberately rather than automatically.",
+        "lookFor": "The museum building architecture\nPermanent and temporary exhibitions\nMaterial on twentieth-century city life\nYour attention level after the first museum",
+        "practical": "The official site lists daily hours.\nCheck exhibitions and any closed rooms in the morning.\nIf you are tired, move this museum to another day.",
+        "nextMove": "Walk to Suada and Olga Bridge for a short river finish.",
+        "sourceNote": "The official Historical Museum page was checked on 2026-06-11."
+      },
+      "id": "sarajevo-river-museums-4",
+      "guideId": "sarajevo-river-museums",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Suada and Olga Bridge",
+      "nameLocal": "Most Suade i Olge",
+      "note": "A river finish after the museum block",
+      "time": "20 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8533056,
+        "longitude": 18.4065
+      },
+      "content": {
+        "context": "Suada and Olga Bridge connects Marijin Dvor with the left bank of the Miljacka and is tied to early victims of the 1992 war. After the museums, it is a short finish that asks for quiet attention rather than extra drama.",
+        "lookFor": "The view along the river\nThe bridge link with Marijin Dvor\nPlaques and memorial details\nOrdinary city movement around the site",
+        "practical": "Stay out of vehicle traffic.\nDo not turn the stop into staged photography.\nGive the group a few quiet minutes after the museums.",
+        "nextMove": "End by the river or head for transport in Marijin Dvor."
+      },
+      "id": "sarajevo-river-museums-5",
+      "guideId": "sarajevo-river-museums",
+      "order": 5
+    }
+  ]
+}

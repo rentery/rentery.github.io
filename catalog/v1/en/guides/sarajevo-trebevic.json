@@ -1,0 +1,206 @@
+{
+  "id": "sarajevo-trebevic",
+  "cityId": "sarajevo",
+  "category": "Mountains",
+  "title": "Trebevic",
+  "subtitle": "Zicara / Vidikovac",
+  "blurb": "Cable car, city view, and Olympic track without adding the old-town fortresses.",
+  "mood": "Views, forest, cable car",
+  "accent": "#3F7464",
+  "soft": "#DDEBE4",
+  "deep": "#2A574B",
+  "ink": "#214239",
+  "motif": "ridge",
+  "duration": "Half-day",
+  "stops": 4,
+  "distance": "2 km + cable car",
+  "pace": "half",
+  "kids": false,
+  "cover": {
+    "id": "sarajevo-cover-trebevic",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-square.jpg",
+    "alt": "Cable car above Sarajevo and the green Trebevic slope"
+  },
+  "microcopy": {
+    "kicker": "Check the cable car",
+    "line": "The mountain is best when weather and schedule agree."
+  },
+  "content": {
+    "intro": "Trebevic is better as its own half-day. The cable car lifts you quickly from Bistrik to the wooded slope, the viewpoint shows Sarajevo in its valley, and the Olympic bobsleigh track adds an important but not casual historical layer.\n\nDo not combine this route with the fortresses above the old city or with distant museums. Weather, maintenance, and path conditions matter more than the number of stops; if visibility is poor, rebuild the day around the center.",
+    "routeLogic": "Begin at Vijecnica as a clear marker near Bistrik.\nReach the lower station only after checking operation.\nAt the top, assess weather and return timing first.\nWalk to the bobsleigh track only by a clear road or marked path.",
+    "bestFor": "a clear day\na view over the valley\na half-day without museums\na second outing after the old center",
+    "notFor": "fog, strong wind, or cable-car maintenance\na stroller route\ntravelers tempted by unmarked forest shortcuts",
+    "beforeYouGo": "Check cable-car hours and wind forecast.\nBring a warmer layer for the top.\nOutside the city, stay on roads and marked paths; do not enter forest shortcuts.",
+    "timing": "Go in the first half of the day or after lunch with a return buffer. Do not arrive at the top close to cable-car closing time.",
+    "fallbackPlan": "If the cable car is closed or the summit is in fog, switch to Vijecnica, the river, and the old center, then move Trebevic to a clear day."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Vijecnica",
+      "nameLocal": "Gradska vijećnica",
+      "note": "A marker before the climb toward Bistrik",
+      "time": "15 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 43.859123,
+        "longitude": 18.4332254
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Vijecnica works well as the Trebevic starting point: the river, old city, and climb toward Bistrik are all nearby, and the lower cable-car station sits above it. Use the stop to check the schedule and decide whether to enter or move straight on.",
+        "lookFor": "The riverfront city-hall facade\nThe direction toward Bistrik\nBridges near Vijecnica\nThe slope above the city",
+        "practical": "Do not spend your whole museum buffer here if the mountain is the main goal.\nCheck the cable car before climbing.\nIn heat, buy water while still below.",
+        "nextMove": "Walk up to the Sarajevo Cable Car lower station through the Bistrik streets."
+      },
+      "id": "sarajevo-trebevic-1",
+      "guideId": "sarajevo-trebevic",
+      "order": 1
+    },
+    {
+      "entry": "ticketed",
+      "name": "Lower Station",
+      "nameLocal": "Sarajevska žičara",
+      "note": "The cable car depends on schedule and weather",
+      "time": "20 min",
+      "walk": "8 min in cabin",
+      "coordinates": {
+        "latitude": 43.8554111,
+        "longitude": 18.4348472
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 1,
+            "opens": "12:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "19:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The lower cable-car station is the practical decision point of the route. If the schedule, line, or weather is wrong, it is better to change plans here than at the top; the ride is short, but it shapes the whole half-day.",
+        "lookFor": "The queue and ticket area\nOperation boards or notices\nCabins rising above the city\nThe last return time",
+        "practical": "The official schedule starts later on Mondays and earlier on other days.\nWeather and maintenance can change operation.\nKeep a return buffer.",
+        "nextMove": "Ride to the upper station and assess visibility and slope conditions first.",
+        "sourceNote": "Official Sarajevo Cable Car hours checked on 2026-06-11."
+      },
+      "id": "sarajevo-trebevic-2",
+      "guideId": "sarajevo-trebevic",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Trebevic Top",
+      "nameLocal": "Trebević",
+      "note": "Look at the valley before taking paths",
+      "time": "35 min",
+      "walk": "20-30 min",
+      "coordinates": {
+        "latitude": 43.8233333,
+        "longitude": 18.4488889
+      },
+      "content": {
+        "context": "At the upper station, Trebevic changes Sarajevo scale immediately: the old center becomes part of a valley, and the wooded slope sets the pace. Do not walk far until you understand weather, return time, and the route to the next stop.",
+        "lookFor": "The city in the valley\nForest around the station\nCloud and wind on the slope\nSigns toward paths and viewpoints",
+        "practical": "The top can be cooler and windier than the center.\nStay on the road or marked path.\nDo not enter abandoned or overgrown areas off route.",
+        "nextMove": "Walk to the Olympic bobsleigh track only by a clear approach."
+      },
+      "id": "sarajevo-trebevic-3",
+      "guideId": "sarajevo-trebevic",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Bobsleigh Track",
+      "nameLocal": "Olimpijska staza za bob i sankanje",
+      "note": "The Olympic site needs a careful tone",
+      "time": "35 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8411111,
+        "longitude": 18.4422222
+      },
+      "content": {
+        "context": "The Olympic bobsleigh track on Trebevic connects the memory of the 1984 Winter Games with the city later history. Today it is an outdoor site best seen calmly, without climbing onto unsafe sections.",
+        "lookFor": "Curves in the concrete track\nGraffiti and traces of time\nForest around the Olympic structure\nHow the structure sits on the slope",
+        "practical": "Do not walk on doubtful edges or overgrown shortcuts.\nConcrete may be slippery after rain.\nReturn toward the cable car with time before closing.",
+        "nextMove": "Return to the upper station or call a verified taxi from a clear pickup point."
+      },
+      "id": "sarajevo-trebevic-4",
+      "guideId": "sarajevo-trebevic",
+      "order": 4
+    }
+  ]
+}

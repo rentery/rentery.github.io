@@ -1,0 +1,181 @@
+{
+  "id": "tivat-solila-prevlaka",
+  "cityId": "tivat",
+  "category": "Nature",
+  "title": "Solila And Prevlaka",
+  "subtitle": "Solila / Kalardovo / Ostrvo cvijeca",
+  "blurb": "Birds, salt flats, shallow water, and an island monastery edge in a half-day.",
+  "mood": "Morning, sun, taxi",
+  "accent": "#6C7F3D",
+  "soft": "#E7EBD9",
+  "deep": "#4E5F2B",
+  "ink": "#445426",
+  "motif": "ridge",
+  "duration": "Half-day",
+  "stops": 5,
+  "distance": "5.0 km",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "Outside center",
+    "line": "Take transport to the south side of the airport."
+  },
+  "cover": {
+    "id": "tivat-solila-prevlaka-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-solila-prevlaka-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-solila-prevlaka-square.jpg",
+    "alt": "Деревянная тропа через солончаки Солила утром"
+  },
+  "content": {
+    "intro": "This is not a walk from the center. It gathers Tivat south side: Solila salt flats, shallow water at Kalardovo, Miholjska Prevlaka, and the monastery edge on the Island of Flowers.\n\nThe main risks are heat and logistics. The open salt flats have little shelter, and the moves work better as short walking sections with taxi or checked bus support rather than a hard roadside march.",
+    "routeLogic": "Start early at Solila before heat breaks the quiet.\nAt the observation area, keep distance and stay on paths.\nUse Kalardovo as a beach pause, not a guaranteed swim.\nAt Miholjska Prevlaka, read the isthmus and island shape.\nKeep the monastery edge as a quiet final stop.",
+    "bestFor": "birds and open landscape\nchildren if you have transport\na morning away from the center\nshort nature near the airport side",
+    "notFor": "heat after midday\npoor weather\ntravelers without transport\nanyone needing a smooth city sidewalk",
+    "beforeYouGo": "Check weather, transport, and Solila visitor rules. For the monastery area, choose modest clothing and keep a quiet manner.",
+    "timing": "Start in the morning. February-April is often better for birdwatching, but the route also works as an early summer escape from the center.",
+    "fallbackPlan": "If Solila is too hot or wet, keep Kalardovo and Miholjska Prevlaka, and move the salt flats to another morning."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Tivatska Solila",
+      "nameLocal": "Tivatska Solila",
+      "note": "Salt flats and birds need an early start",
+      "time": "60 min",
+      "walk": "15 min",
+      "coordinates": {
+        "latitude": 42.393611,
+        "longitude": 18.715278
+      },
+      "photo": {
+        "id": "tivat-solila-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Special_Nature_Reserve_%22Solila%22%2C_Montenegro_22.jpg",
+        "alt": "Солончаки природного резервата Тиватска Солила",
+        "attribution": {
+          "author": "Milica Buha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Special_Nature_Reserve_%22Solila%22,_Montenegro_22.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Tivatska Solila is a protected wetland on Tivat south side. On this route it is not a picnic park but a quiet observation place: water, salt, reeds, and open sky quickly change the scale of the city.",
+        "lookFor": "Flat salt basins\nReeds and shallow water\nBirds at a distance, without trying to get closer\nMountains beyond the airport side of the bay",
+        "practical": "Go early and stay on permitted paths. In heat there is very little shade; after rain some sections may be wet.",
+        "nextMove": "Continue to the observation area, or take transport toward Kalardovo if the sun is already strong."
+      },
+      "id": "tivat-solila-prevlaka-1",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Observation Area",
+      "note": "Watch quietly and keep distance",
+      "time": "35 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 42.3907412,
+        "longitude": 18.7119167
+      },
+      "content": {
+        "context": "The observation area keeps Solila from becoming only a through-walk. Stand for less time but watch better: birds, water, and wind are meant to be read from a distance, not chased for a close photo.",
+        "lookFor": "Lines of water and dry salt sections\nBirds through binoculars or camera zoom\nWind direction in the reeds\nWhere the path clearly asks you not to continue",
+        "practical": "Do not feed birds or make noise. If there is no shade and no water, shorten the stop instead of waiting for the perfect frame.",
+        "nextMove": "Next, move to Kalardovo: a shift from watching to resting by shallow water."
+      },
+      "id": "tivat-solila-prevlaka-2",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 2
+    },
+    {
+      "entry": "seasonal",
+      "name": "Kalardovo",
+      "nameLocal": "Kalardovo",
+      "note": "Beach pause by shallow water",
+      "time": "45 min",
+      "walk": "20 min",
+      "coordinates": {
+        "latitude": 42.4067972,
+        "longitude": 18.7129715
+      },
+      "content": {
+        "context": "Kalardovo works well after Solila: it lets you slow down, give children water and shade if conditions allow, and sit by the shore before Prevlaka. It does not have to be a swim.",
+        "lookFor": "Shallow water and open view\nA comfortable short-pause spot\nShade or shelter if available\nThe isthmus and island edge ahead",
+        "practical": "Beach services and access depend on season. Do not assume full summer facilities outside the main beach period.",
+        "nextMove": "Go or ride toward Miholjska Prevlaka if weather and road conditions are comfortable."
+      },
+      "id": "tivat-solila-prevlaka-3",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Miholjska Prevlaka",
+      "nameLocal": "Miholjska prevlaka",
+      "note": "The Island of Flowers reads through the causeway",
+      "time": "35 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 42.4060119,
+        "longitude": 18.7038111
+      },
+      "photo": {
+        "id": "tivat-miholjska-prevlaka-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/9/9c/MiholjskaPrevlaka.jpg",
+        "alt": "Остров Михольска Превлака в Тиватской бухте",
+        "attribution": {
+          "author": "Nikostrat",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MiholjskaPrevlaka.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Miholjska Prevlaka, known as the Island of Flowers, turns the route from nature into a coastal-history stop. The geography matters: a narrow passage, water on both sides, and the bay edge near the airport.",
+        "lookFor": "The causeway and low island line\nWater on both sides of the passage\nViews toward neighboring islands\nPlaces where the shore should not be trampled",
+        "practical": "Open sections heat up quickly in summer. Avoid closed or clearly monastic areas unless you have a reason to enter.",
+        "nextMove": "Walk quietly to the monastery edge; it is the final short stop of the route."
+      },
+      "id": "tivat-solila-prevlaka-4",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 4
+    },
+    {
+      "entry": "respectfully",
+      "name": "Monastery Edge",
+      "nameLocal": "Prevlaka",
+      "note": "Quiet finish by the Archangel ruins",
+      "time": "30 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 42.4058,
+        "longitude": 18.7042
+      },
+      "photo": {
+        "id": "tivat-archangel-monastery-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Manastir_Arh_Mihaila1.jpg",
+        "alt": "Каменные руины монастыря Архангела Михаила на Превлаке",
+        "attribution": {
+          "author": "Фото",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manastir_Arh_Mihaila1.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "The monastery side of Prevlaka ends the day more quietly than the beach. Ruins and church grounds remind you that this bay edge is not only nature and swimming but also a long religious place.",
+        "lookFor": "Stone fragments and low walls\nHow the church area separates from the beach mood\nWater views between trees\nEvening light on the islands",
+        "practical": "Keep quiet and dress appropriately for a religious place. If a service is underway or access is limited, stay outside.",
+        "nextMove": "Return to Tivat by preplanned transport; do not plan to walk back to the center."
+      },
+      "id": "tivat-solila-prevlaka-5",
+      "guideId": "tivat-solila-prevlaka",
+      "order": 5
+    }
+  ]
+}

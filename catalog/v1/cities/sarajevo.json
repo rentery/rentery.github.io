@@ -1,0 +1,36 @@
+{
+  "id": "sarajevo",
+  "slug": "sarajevo",
+  "title": "Сараево",
+  "subtitle": "Sarajevo · 5 маршрутов",
+  "meta": "Босния и Герцеговина · старый базар, река, музеи и горы",
+  "practicalNote": "В центре переходы короткие, но брусчатка и подъемы быстро утомляют после дождя. Для Ilidža, Trebević и Tunnel of Hope проверяйте транспорт, канатку и часы в день поездки; держите немного наличных KM. За городом не сходите с асфальтированных или размеченных маршрутов из-за риска мин и неразорвавшихся боеприпасов.",
+  "guideIds": [
+    "sarajevo-first-day",
+    "sarajevo-old-lanes",
+    "sarajevo-river-museums",
+    "sarajevo-trebevic",
+    "sarajevo-ilidza"
+  ],
+  "coordinates": {
+    "latitude": 43.84864,
+    "longitude": 18.35644
+  },
+  "photo": {
+    "id": "sarajevo-sarajevo-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
+    "alt": "Sarajevo valley with river, old town, and mountains"
+  },
+  "identity": {
+    "accent": "#2F6D6C",
+    "soft": "#DDEAE6",
+    "deep": "#194B4D",
+    "ink": "#173F3F",
+    "motif": "axis",
+    "glyph": "SA",
+    "hook": "Османский центр у Миляцки · 1462"
+  },
+  "timezone": "Europe/Sarajevo",
+  "countryId": "bosnia-and-herzegovina"
+}

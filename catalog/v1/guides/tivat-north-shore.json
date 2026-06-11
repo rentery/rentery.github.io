@@ -1,0 +1,172 @@
+{
+  "id": "tivat-north-shore",
+  "cityId": "tivat",
+  "category": "Берег",
+  "title": "Берег до Ластвы",
+  "subtitle": "Seljanovo / Donja Lastva",
+  "blurb": "Тихий северный берег после марины: пляжи, поселок и длинный вечерний свет.",
+  "mood": "Вечер, вода, без подъема",
+  "accent": "#2F6F9F",
+  "soft": "#DDE9F0",
+  "deep": "#1F4F77",
+  "ink": "#1D4667",
+  "motif": "lane",
+  "duration": "Полдня",
+  "stops": 5,
+  "distance": "4,2 км",
+  "pace": "half",
+  "kids": true,
+  "microcopy": {
+    "kicker": "После марины",
+    "line": "Идите к северу, где берег становится тише."
+  },
+  "cover": {
+    "id": "tivat-north-shore-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tivat/tivat-north-shore-square.jpg",
+    "alt": "Тихая северная набережная Тивата с лодками и домами у воды"
+  },
+  "content": {
+    "intro": "Этот маршрут уводит от глянца Porto Montenegro к северному берегу Тивата. Сначала музей и край марины, затем Ponta Seljanovo, пляжные участки, Donja Lastva и более длинный финал у Opatovo.\n\nДень лучше делать вечером: вода рядом, подъемов нет, но летом открытые куски берега утомляют. Если идете с детьми, заранее решите, где закончить, чтобы не тянуть всех до Opatovo любой ценой.",
+    "routeLogic": "Стартуйте у Naval Heritage Museum, чтобы не возвращаться через центр.\nНа Ponta Seljanovo проверьте ветер и настроение берега.\nУ пляжных участков не обещайте себе купание: доступ и толпа сезонные.\nВ Donja Lastva замедлитесь у старого поселкового края.\nДо Opatovo идите только если остались силы и свет.",
+    "bestFor": "вечерняя прогулка\nсемьи без колясочного подъема\nвода и поселковый берег\nповторный день в Тивате",
+    "notFor": "полуденное солнце\nливень или сильный ветер\nтем, кто хочет музейный день",
+    "beforeYouGo": "Проверьте погоду и сезонный доступ к пляжам. Не стройте маршрут вокруг конкретного beach club: условия меняются.",
+    "timing": "Лучше после 16:30. Если старт поздний, завершайте в Donja Lastva и не тяните маршрут до Opatovo.",
+    "fallbackPlan": "Сократите прогулку до Ponta Seljanovo и Donja Lastva, а обратно вернитесь такси или автобусом после проверки расписания."
+  },
+  "stopList": [
+    {
+      "entry": "свободно",
+      "name": "Край Porto Montenegro",
+      "note": "Стартуйте там, где марина уже тише",
+      "time": "20 мин",
+      "walk": "12 мин",
+      "coordinates": {
+        "latitude": 42.4373384,
+        "longitude": 18.6933701
+      },
+      "photo": {
+        "id": "tivat-naval-heritage-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Naval_Heritage_Collection_01.jpg",
+        "alt": "Подводные лодки у Naval Heritage Collection в Тивате",
+        "attribution": {
+          "author": "Stolbovsky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Heritage_Collection_01.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Северный край Porto Montenegro удобен как старт: центральный шум уже позади, а берег к Seljanovo начинается почти сразу. Здесь проще переключиться с витрин на обычную прогулку вдоль воды.",
+        "lookFor": "Мачты на фоне гор\nКак заканчивается прогулочная часть марины\nПереход к более жилому берегу\nМеста, где можно сразу сократить день",
+        "practical": "Не заходите в закрытые зоны причалов. Если ветер неприятный уже здесь, не продолжайте до Opatovo.",
+        "nextMove": "Идите на северо-запад к Ponta Seljanovo, держась ближайших к воде улиц."
+      },
+      "id": "tivat-north-shore-1",
+      "guideId": "tivat-north-shore",
+      "order": 1
+    },
+    {
+      "entry": "свободно",
+      "name": "Ponta Seljanovo",
+      "nameLocal": "Ponta Seljanova",
+      "note": "Мыс и пляжный край после марины",
+      "time": "35 мин",
+      "walk": "15 мин",
+      "coordinates": {
+        "latitude": 42.4392675,
+        "longitude": 18.6848074
+      },
+      "photo": {
+        "id": "tivat-ponta-seljanovo-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tivat_embankment_-_panoramio.jpg",
+        "alt": "Набережная Тивата у воды",
+        "attribution": {
+          "author": "Anton Nossik",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tivat_embankment_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Ponta Seljanovo показывает другой берег Тивата: меньше парадной марины, больше воды, пляжных участков и местных вечерних маршрутов. Это хорошая точка решения: продолжать дальше или оставить прогулку короткой.",
+        "lookFor": "Открытый угол бухты\nЛодки и небольшие пляжные участки\nКак меняется шум после Porto Montenegro\nГде есть тень перед следующим отрезком",
+        "practical": "Пляжный доступ и лежаки зависят от сезона и оператора. Не обещайте себе купание здесь как обязательную часть маршрута.",
+        "nextMove": "Продолжайте вдоль берега к Donja Lastva; если тротуар или жара мешают, берите короткий транспортный отрезок."
+      },
+      "id": "tivat-north-shore-2",
+      "guideId": "tivat-north-shore",
+      "order": 2
+    },
+    {
+      "entry": "по месту",
+      "name": "Пляжи Seljanovo",
+      "note": "Пауза у воды без жесткого плана",
+      "time": "30 мин",
+      "walk": "18 мин",
+      "content": {
+        "context": "Пляжные участки между Seljanovo и Donja Lastva лучше воспринимать как гибкую остановку. В одни дни это купание и мороженое, в другие - просто проход вдоль воды, если сезонные зоны заняты.",
+        "lookFor": "Где берег остается общественным\nНизкие стены и спуски к воде\nДетские паузы без большого крюка\nТень от деревьев ближе к вечеру",
+        "practical": "Условия на пляжах меняются по сезону. Не оставляйте вещи без присмотра и не рассчитывайте на одинаковые удобства на всех участках.",
+        "nextMove": "Двигайтесь к Donja Lastva и заранее решите, хотите ли идти дальше до Opatovo."
+      },
+      "id": "tivat-north-shore-3",
+      "guideId": "tivat-north-shore",
+      "order": 3
+    },
+    {
+      "entry": "свободно",
+      "name": "Donja Lastva",
+      "nameLocal": "Donja Lastva",
+      "note": "Поселковый берег вместо витрин",
+      "time": "40 мин",
+      "walk": "20 мин",
+      "coordinates": {
+        "latitude": 42.4445725,
+        "longitude": 18.6892569
+      },
+      "photo": {
+        "id": "tivat-donja-lastva-photo",
+        "kind": "photo",
+        "wide": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Donja_Lastva%2C_Montenegro_-_panoramio.jpg",
+        "alt": "Берег Дони Ластвы у Бока-Которской бухты",
+        "attribution": {
+          "author": "ines lukic",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donja_Lastva,_Montenegro_-_panoramio.jpg",
+          "retrievedAt": "2026-06-11"
+        }
+      },
+      "content": {
+        "context": "Donja Lastva возвращает прогулке жилой масштаб: низкие дома, береговые проходы и меньше ощущения курортной сцены. После Seljanovo это место, где стоит сбавить шаг и решить, хватит ли сил на длинный финал.",
+        "lookFor": "Старые каменные дома у воды\nНебольшие причалы и лодки\nВид обратно на Тиватскую бухту\nСвет на склонах Врмаца вечером",
+        "practical": "Не заходите во дворы и на частные пирсы. Если сумерки близко, заканчивайте здесь, а не продолжайте по инерции.",
+        "nextMove": "До Opatovo идите только при хорошем свете и нормальном самочувствии; иначе завершайте у ближайшей остановки или кафе."
+      },
+      "id": "tivat-north-shore-4",
+      "guideId": "tivat-north-shore",
+      "order": 4
+    },
+    {
+      "entry": "свободно",
+      "name": "Opatovo",
+      "nameLocal": "Opatovo",
+      "note": "Длинный финал северного берега",
+      "time": "30 мин",
+      "walk": "-",
+      "content": {
+        "context": "Opatovo подходит как финал, если вы хотели не короткий променад, а настоящий вечерний проход по северному берегу. Сюда не нужно дотягивать любой ценой: ценность остановки именно в спокойном завершении у воды.",
+        "lookFor": "Более тихий берег за Donja Lastva\nДлинный вид по бухте\nМеста, где можно сесть перед обратной дорогой\nКак огни Тивата остаются позади",
+        "practical": "Обратный транспорт проверьте заранее. В темноте не продолжайте прогулку по плохо освещенным участкам.",
+        "nextMove": "Возвращайтесь на такси или автобусом после проверки расписания; пешком обратно идите только если осталось достаточно сил."
+      },
+      "id": "tivat-north-shore-5",
+      "guideId": "tivat-north-shore",
+      "order": 5
+    }
+  ]
+}

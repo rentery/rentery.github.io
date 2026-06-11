@@ -1,0 +1,207 @@
+{
+  "id": "sarajevo-ilidza",
+  "cityId": "sarajevo",
+  "category": "Park",
+  "title": "Ilidza And Water",
+  "subtitle": "Vrelo Bosne / Tunnel",
+  "blurb": "From the avenue and Bosna springs to Tunnel of Hope, if time and energy allow.",
+  "mood": "Greenery, water, outing",
+  "accent": "#5D7A3B",
+  "soft": "#E5ECD8",
+  "deep": "#3E5928",
+  "ink": "#31451F",
+  "motif": "ridge",
+  "duration": "Day",
+  "stops": 4,
+  "distance": "6 km + taxi",
+  "pace": "day",
+  "kids": false,
+  "cover": {
+    "id": "sarajevo-cover-ilidza",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-square.jpg",
+    "alt": "Green avenue and water near Vrelo Bosne"
+  },
+  "microcopy": {
+    "kicker": "Separate outing",
+    "line": "Do not mix Ilidza with the old center."
+  },
+  "content": {
+    "intro": "Ilidza and Vrelo Bosne work best as a separate outing from the old center. Tram or taxi brings you to the start of Velika Aleja, then a long green axis leads to the Bosna springs, and Roman Bridge adds a short historical turn nearby.\n\nAdd Tunnel of Hope only if time and emotional energy remain. It is not a natural walking continuation of the park, but a separate historical block near the airport, so transport is needed between it and Ilidza.",
+    "routeLogic": "Start at Velika Aleja, not in the old city.\nReach Vrelo Bosne on foot, by bike, or by a permitted local option.\nUse Roman Bridge as a short turn after the springs.\nAdd Tunnel of Hope only with checked hours and transport.",
+    "bestFor": "a green day outside the center\nspring or early autumn\na long avenue walk\ntravelers ready for a taxi between blocks",
+    "notFor": "a late start\na walking-only plan for the whole route\na group not ready for a war museum",
+    "beforeYouGo": "Check Vrelo Bosne and Tunnel of Hope hours.\nAllow a long straight walk for Velika Aleja.\nDo not count on a quick return to the old center without transport.",
+    "timing": "Start in the morning. The park needs travel time, and Tunnel of Hope closes earlier than many central museums.",
+    "fallbackPlan": "If Tunnel of Hope does not fit the hours, keep Ilidza, Velika Aleja, Vrelo Bosne, and Roman Bridge, then move the museum to another day."
+  },
+  "stopList": [
+    {
+      "entry": "free",
+      "name": "Velika Aleja",
+      "nameLocal": "Velika aleja",
+      "note": "The long green axis leads to the springs",
+      "time": "45-60 min",
+      "walk": "45-60 min",
+      "coordinates": {
+        "latitude": 43.822122,
+        "longitude": 18.292514
+      },
+      "content": {
+        "context": "Velika Aleja begins after you arrive in Ilidza and leads toward Vrelo Bosne in one long straight line. Here the route stops feeling urban: trees, nearby water, and the repeated rhythm of walking set the pace.",
+        "lookFor": "The straight avenue under trees\nBicycles and horse carriages\nHow district noise gradually falls away\nEarly signs toward the springs",
+        "practical": "The official park page gives the avenue as about 3.5 km.\nMotor traffic on the avenue is restricted.\nBring water before the long walk.",
+        "nextMove": "Continue toward Vrelo Bosne without trying to cut through unclear areas."
+      },
+      "id": "sarajevo-ilidza-1",
+      "guideId": "sarajevo-ilidza",
+      "order": 1
+    },
+    {
+      "entry": "ticketed",
+      "name": "Vrelo Bosne",
+      "nameLocal": "Vrelo Bosne",
+      "note": "The Bosna springs need an unhurried loop",
+      "time": "60 min",
+      "walk": "35-45 min",
+      "coordinates": {
+        "latitude": 43.8185,
+        "longitude": 18.269972
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Vrelo Bosne is the green area around the sources of the Bosna River. After the long avenue, do not rush it: water, small bridges, and trees show a Sarajevo that is neither bazaar-focused nor museum-focused.",
+        "lookFor": "Streams and wooden bridges\nDense greenery around the water\nPath turns near the springs\nPlaces where it is better just to pause",
+        "practical": "The park lists daily hours.\nWeekends can be much busier.\nProtect time for the walk back along the avenue or onward transport.",
+        "nextMove": "Return toward Ilidza and make a short turn to Roman Bridge if energy remains.",
+        "sourceNote": "The protected-natural-areas official page was checked on 2026-06-11."
+      },
+      "id": "sarajevo-ilidza-2",
+      "guideId": "sarajevo-ilidza",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Roman Bridge",
+      "nameLocal": "Rimski most",
+      "note": "A short historic turn after the park",
+      "time": "25 min",
+      "walk": "taxi 15-25 min",
+      "coordinates": {
+        "latitude": 43.831586,
+        "longitude": 18.286067
+      },
+      "content": {
+        "context": "Roman Bridge gives the route a short stone accent after water and the avenue. It is not a long separate walk, but a careful turn near Ilidza that keeps the park outing from returning immediately to transport noise.",
+        "lookFor": "Stone arches and a low bridge profile\nThe river line around it\nThe contrast between park and old road\nQuiet angles without stepping into traffic",
+        "practical": "Check the safe approach to the bridge on site.\nDo not step into the road for a photo.\nSkip this stop if light is fading.",
+        "nextMove": "For Tunnel of Hope, take a taxi or checked transport; do not plan this transition on foot."
+      },
+      "id": "sarajevo-ilidza-3",
+      "guideId": "sarajevo-ilidza",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "Tunnel of Hope",
+      "nameLocal": "Tunel spasa",
+      "note": "Plan the airport-area finish separately",
+      "time": "60 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8197222,
+        "longitude": 18.3372222
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Tunnel of Hope is connected with the siege of Sarajevo and sits separately from the Ilidza park section, near the airport. Make it the finish only with transport and attention left: this is a museum block, not a continuation of the water walk.",
+        "lookFor": "The preserved section of tunnel\nExhibits on the city link during the siege\nThe museum courtyard and entrance area\nYour readiness to read the material carefully",
+        "practical": "Check hours and payment before leaving.\nDo not arrive close to closing.\nAfter the museum, return to the center by taxi or preselected transport.",
+        "nextMove": "End the day and return to the city; do not add another heavy memorial block afterward.",
+        "sourceNote": "Hours come from the city tourist directory; seasonal changes should be verified separately."
+      },
+      "id": "sarajevo-ilidza-4",
+      "guideId": "sarajevo-ilidza",
+      "order": 4
+    }
+  ]
+}

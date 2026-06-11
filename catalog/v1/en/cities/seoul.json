@@ -2,9 +2,9 @@
   "id": "seoul",
   "slug": "seoul",
   "title": "Seoul",
-  "subtitle": "Seoul - 5 routes",
-  "meta": "South Korea - palaces, neighborhoods, markets, and river",
-  "practicalNote": "April-May and September-October are usually best for long walks. Summer is hot and rainy, winter is cold; check weather and fine dust before a long outdoor route.",
+  "subtitle": "Seoul · 서울 · 5 routes",
+  "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
+  "practicalNote": "April-May and September-October are usually easier for long walks. In summer, plan around heat, heavy rain, and typhoon season; in winter, expect cold, and check forecast plus fine dust before outdoor routes. Use metro or taxi between the Hangang, Yongsan, Namsan, and the old center: walking distances stretch quickly on the map.",
   "guideIds": [
     "seoul-first-time",
     "seoul-old-city-walk",
@@ -12,15 +12,26 @@
     "seoul-calm-day",
     "seoul-river-views"
   ],
+  "coordinates": {
+    "latitude": 37.566,
+    "longitude": 126.9784
+  },
   "identity": {
     "accent": "#205E54",
     "soft": "#DDE9E4",
     "deep": "#16463E",
     "ink": "#143F38",
     "motif": "palace",
-    "glyph": "漢",
+    "glyph": "한",
     "hook": "Hanyang became Joseon capital - 1394"
   },
   "timezone": "Asia/Seoul",
-  "countryId": "south-korea"
+  "countryId": "south-korea",
+  "photo": {
+    "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
+    "id": "seoul-hero",
+    "kind": "generated",
+    "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
+    "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+  }
 }

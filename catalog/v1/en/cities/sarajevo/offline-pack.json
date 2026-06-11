@@ -1,0 +1,2155 @@
+{
+  "city": {
+    "id": "sarajevo",
+    "slug": "sarajevo",
+    "title": "Sarajevo",
+    "subtitle": "Sarajevo · 5 routes",
+    "meta": "Bosnia and Herzegovina - old bazaar, river, museums, and mountains",
+    "practicalNote": "Central walks are short, but cobblestones and slopes get tiring after rain. For Ilidza, Trebevic, and Tunnel of Hope, check transport, cable-car operation, and hours on the day; keep some KM cash. Outside the city, stay on paved or marked routes because of landmine and unexploded-ordnance risk.",
+    "guideIds": [
+      "sarajevo-first-day",
+      "sarajevo-old-lanes",
+      "sarajevo-river-museums",
+      "sarajevo-trebevic",
+      "sarajevo-ilidza"
+    ],
+    "coordinates": {
+      "latitude": 43.84864,
+      "longitude": 18.35644
+    },
+    "photo": {
+      "id": "sarajevo-sarajevo-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/sarajevo/sarajevo-hero-wide.jpg",
+      "alt": "Sarajevo valley with river, old town, and mountains"
+    },
+    "identity": {
+      "accent": "#2F6D6C",
+      "soft": "#DDEAE6",
+      "deep": "#194B4D",
+      "ink": "#173F3F",
+      "motif": "axis",
+      "glyph": "SA",
+      "hook": "Ottoman center by the Miljacka - 1462"
+    },
+    "timezone": "Europe/Sarajevo",
+    "countryId": "bosnia-and-herzegovina"
+  },
+  "defaultLocale": "ru",
+  "guides": [
+    {
+      "id": "sarajevo-first-day",
+      "cityId": "sarajevo",
+      "category": "First Day",
+      "title": "First Sarajevo",
+      "subtitle": "Sebilj / Bascarsija",
+      "blurb": "Old bazaar, mosque, Latin Bridge, and Vijecnica in a compact first walk.",
+      "mood": "Dense center, bazaar, river",
+      "accent": "#A64F3C",
+      "soft": "#F0E1D8",
+      "deep": "#743328",
+      "ink": "#512D27",
+      "motif": "axis",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "2 km",
+      "pace": "half",
+      "kids": false,
+      "cover": {
+        "id": "sarajevo-cover-first-day",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cover-first-day-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cover-first-day-square.jpg",
+        "alt": "Sarajevo riverfront with old roofs, warm stone, and green slopes"
+      },
+      "microcopy": {
+        "kicker": "First loop",
+        "line": "Read the old center before the farther outings."
+      },
+      "content": {
+        "intro": "This first route stays in Sarajevo old core: Sebilj fountain, the trading lanes of Bascarsija, the courtyard of Gazi Husrev-beg Mosque, Latin Bridge, and Vijecnica by the river. The walks are short, but the meaning shifts quickly from market to religious complex, European history, and a restored city hall.\n\nDo not turn the day into a race through every museum. Use it to understand the center before lunch, add interiors only where they are open, and avoid pulling this walk out toward remote memorials or Ilidza.",
+        "routeLogic": "Start at Sebilj, where meeting up and reading the bazaar direction are easy.\nMove through Bascarsija slowly while the lanes are still manageable.\nPlace Gazi Husrev-beg Mosque inside visitor hours.\nKeep the Latin Bridge context brief and precise.\nFinish at Vijecnica by the river, after checking the day hours.",
+        "bestFor": "a first city walk\nshort transitions\nold bazaar and river\na day without far transport",
+        "notFor": "a late start with ambitions for every interior\nrain on cobblestones\ntravelers who want a park or mountain viewpoint first",
+        "beforeYouGo": "Check Vijecnica hours and mosque visitor windows.\nWear shoes that handle stone and short slopes.\nKeep KM cash as a backup for mosque and museum entries.",
+        "timing": "Morning or early midday works best: the bazaar is active, but movement and photos are still easier at the main stops.",
+        "fallbackPlan": "If the mosque or Vijecnica is closed for entry, keep them as courtyard or exterior stops and give the extra time to Bascarsija and the river."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Sebilj",
+          "nameLocal": "Sebilj",
+          "note": "The fountain gives the old bazaar a simple start",
+          "time": "15 min",
+          "walk": "3 min",
+          "coordinates": {
+            "latitude": 43.8597205,
+            "longitude": 18.4312587
+          },
+          "content": {
+            "context": "Sebilj is the easiest first marker: a small wooden fountain on a square where visitors, local meetings, and entries into Bascarsija overlap. From here it is simple to see how the old market spreads into short lanes.",
+            "lookFor": "The wooden fountain form\nPeople moving toward the trading lanes\nThe square as a meeting place\nOld-bazaar rooflines around you",
+            "practical": "Make this a short stop, not a long photo session.\nMorning is easier for meeting here.\nKeep your bag close in crowds.",
+            "nextMove": "Enter Bascarsija through the nearest trading lane rather than heading straight to the river."
+          },
+          "id": "sarajevo-first-day-1",
+          "guideId": "sarajevo-first-day",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Bascarsija",
+          "nameLocal": "Baščaršija",
+          "note": "Read the old trading district through its lanes",
+          "time": "40 min",
+          "walk": "6 min",
+          "coordinates": {
+            "latitude": 43.859724,
+            "longitude": 18.431115
+          },
+          "content": {
+            "context": "Bascarsija is less one square than a mesh of short trading streets. Walk slowly: shops, passages, coffee smells, and changing materials show how the Ottoman bazaar still sits inside the modern center.",
+            "lookFor": "Low roofs and shopfronts\nNarrow turns between stalls\nThe shift from souvenirs toward craftwork\nLanes leading toward courtyards and the mosque",
+            "practical": "Do not block shop entrances.\nCheck prices and payment on the spot.\nIf it gets too crowded, step into a side lane and return to the route.",
+            "nextMove": "Move from the trading lanes toward the Gazi Husrev-beg complex and the mosque courtyard."
+          },
+          "id": "sarajevo-first-day-2",
+          "guideId": "sarajevo-first-day",
+          "order": 2
+        },
+        {
+          "entry": "visitor hours",
+          "name": "Gazi Husrev-beg",
+          "nameLocal": "Gazi Husrev-begova džamija",
+          "note": "Courtyard and mosque add the religious layer",
+          "time": "35 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 43.8591667,
+            "longitude": 18.4290278
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "weekday": 0,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 0,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 0,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 1,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 1,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 1,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "17:30",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "09:00",
+                "closes": "12:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "14:30",
+                "closes": "16:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "17:30",
+                "closes": "19:00"
+              }
+            ]
+          },
+          "content": {
+            "context": "The Gazi Husrev-beg complex stands in the heart of the old city. Even a short visit to the courtyard shows that central Sarajevo rests not only on trade, but also on the mosque, madrasa, library, and daily habits around them.",
+            "lookFor": "The mosque proportions inside the courtyard\nThe ablution fountain\nThe clock tower nearby\nA quieter mood after the bazaar lanes",
+            "practical": "Visitor windows change by season and during Ramadan.\nDress for a religious site.\nIf prayer is underway, keep to the courtyard and exterior.",
+            "nextMove": "Walk toward Latin Bridge through the short streets of the old center.",
+            "sourceNote": "The mosque official site publishes seasonal visitor windows; check the current mode before entry."
+          },
+          "id": "sarajevo-first-day-3",
+          "guideId": "sarajevo-first-day",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Latin Bridge",
+          "nameLocal": "Latinska ćuprija",
+          "note": "The bridge connects river and European context",
+          "time": "20 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 43.8576525,
+            "longitude": 18.42901
+          },
+          "content": {
+            "context": "Latin Bridge is best handled briefly and carefully. It is not a place for a long lecture in the flow of pedestrians: the river, stone bridge, and nearby museum link the compact center with early twentieth-century events.",
+            "lookFor": "Stone arches over the Miljacka\nThe corner by the 1878-1918 museum\nPeople moving along the riverfront\nA backward view toward the old city",
+            "practical": "Stay on the sidewalk and do not block passage.\nThe nearby museum keeps its own schedule.\nStone and curbs may be slippery after rain.",
+            "nextMove": "Follow the Miljacka toward Vijecnica, choosing either bank as the route feels comfortable."
+          },
+          "id": "sarajevo-first-day-4",
+          "guideId": "sarajevo-first-day",
+          "order": 4
+        },
+        {
+          "entry": "ticketed",
+          "name": "Vijecnica",
+          "nameLocal": "Gradska vijećnica",
+          "note": "The city hall finishes the walk by the river",
+          "time": "45-75 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 43.859123,
+            "longitude": 18.4332254
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 0
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 1
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 2
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 3
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 4
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 5
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "Vijecnica gives a bright finish by the Miljacka: the former city hall and library returned to Sarajevo city routes after a long restoration. Outside, scale and color matter; inside, the stairs, hall, and exhibition mode define the visit.",
+            "lookFor": "The striped river facade\nThe corner tower and arcades\nInterior stair lines if entry is open\nViews toward the nearby bridges",
+            "practical": "The official site and tourist directory may differ on hours.\nCheck the day mode before visiting.\nConfirm tickets and exhibitions before entering.",
+            "nextMove": "End by the river or return to Bascarsija over the nearest bridge.",
+            "sourceNote": "Hours use the official Vijecnica site, checked on 2026-06-11."
+          },
+          "id": "sarajevo-first-day-5",
+          "guideId": "sarajevo-first-day",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sarajevo-old-lanes",
+      "cityId": "sarajevo",
+      "category": "Old City",
+      "title": "Shops And Courtyards",
+      "subtitle": "Kazandziluk / Svrzo",
+      "blurb": "Copper lane, covered bazaar, house museum, war childhood, and cathedral in one loop.",
+      "mood": "Narrow lanes, courtyards, museum",
+      "accent": "#6B7F45",
+      "soft": "#E6ECD8",
+      "deep": "#4A5F30",
+      "ink": "#344523",
+      "motif": "lane",
+      "duration": "Half-day",
+      "stops": 5,
+      "distance": "2.5 km",
+      "pace": "half",
+      "kids": false,
+      "cover": {
+        "id": "sarajevo-cover-old-lanes",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cover-old-lanes-square.jpg",
+        "alt": "Old Sarajevo trading lanes with copper-toned light"
+      },
+      "microcopy": {
+        "kicker": "Inside the quarter",
+        "line": "More courtyards and meaning, less main-square momentum."
+      },
+      "content": {
+        "intro": "This route stays in the old city but leaves the most obvious line. Kazandziluk shows a craft street, the bezistan turns into a covered trade passage, Svrzo House shifts the walk into domestic urban architecture, and War Childhood Museum needs time for personal stories.\n\nThe cathedral finish is not a box to tick; it shows how several city layers stand within minutes of each other. If the museum block feels heavy, shorten the route and do not add another memorial museum the same day.",
+        "routeLogic": "Begin at Kazandziluk before the lane becomes too tight.\nUse the bezistan as a change of scale, not a shopping obligation.\nPlace Svrzo House inside its opening hours and do not leave it for evening.\nGive War Childhood Museum enough time for reading.\nFinish by the cathedral on an open square.",
+        "bestFor": "a second old-city walk\ncraft lanes\na short museum day\nweather without heavy rain",
+        "notFor": "quick photo hopping\nsmall children in a tired group\na day that needs only light strolling",
+        "beforeYouGo": "Check Svrzo House and War Childhood Museum hours.\nKeep KM cash for smaller museums and shops.\nDecide in advance whether the group is ready for an emotional museum block.",
+        "timing": "Start before lunch. That keeps Svrzo House from falling out of the schedule and keeps War Childhood Museum away from closing time.",
+        "fallbackPlan": "If Svrzo House is closed, keep Kazandziluk, the bezistan, and War Childhood Museum, then give the extra time to the cathedral and nearby streets."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Kazandziluk",
+          "nameLocal": "Kazandžiluk",
+          "note": "The copper lane shows the craft rhythm",
+          "time": "25 min",
+          "walk": "5 min",
+          "coordinates": {
+            "latitude": 43.8593,
+            "longitude": 18.4313
+          },
+          "content": {
+            "context": "Kazandziluk is a short street where copperware and shopfronts immediately change the bazaar mood. There is no need to buy by plan; watch the forms, signs, workshop sounds, and density of the passage.",
+            "lookFor": "Copper trays and coffee sets\nWorkshops among souvenir windows\nThe narrow street perspective\nDetails repeating from shop to shop",
+            "practical": "Photograph displays only where it feels appropriate.\nDo not stop in the middle of the passage.\nAsk sellers about payment and packing.",
+            "nextMove": "Turn toward the covered bezistan and compare an open lane with a trade passage."
+          },
+          "id": "sarajevo-old-lanes-1",
+          "guideId": "sarajevo-old-lanes",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Gazi Bezistan",
+          "nameLocal": "Gazi Husrev-begov bezistan",
+          "note": "The covered passage changes the bazaar scale",
+          "time": "20 min",
+          "walk": "12 min",
+          "coordinates": {
+            "latitude": 43.858629,
+            "longitude": 18.427918
+          },
+          "content": {
+            "context": "The bezistan is useful as a short spatial shift: vaults, a trade corridor, and more controlled light replace open streets. It helps Bascarsija read as a system of passages, not just a set of shops.",
+            "lookFor": "The rhythm of arches and shopfronts\nMuted light inside\nExits back to the street\nHow people pass through quickly",
+            "practical": "It may be tight inside.\nDo not count on every shop keeping one shared schedule.\nIf the passage is closed, walk around it and continue to Svrzo House.",
+            "nextMove": "Climb toward Svrzo House through the streets of the old residential quarter."
+          },
+          "id": "sarajevo-old-lanes-2",
+          "guideId": "sarajevo-old-lanes",
+          "order": 2
+        },
+        {
+          "entry": "ticketed",
+          "name": "Svrzo House",
+          "nameLocal": "Svrzina kuća",
+          "note": "The house museum turns bazaar into residential city",
+          "time": "45 min",
+          "walk": "6 min",
+          "coordinates": {
+            "latitude": 43.8624444,
+            "longitude": 18.4293194
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "weekday": 1,
+                "opens": "10:00",
+                "closes": "18:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "10:00",
+                "closes": "18:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "10:00",
+                "closes": "18:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "10:00",
+                "closes": "18:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "10:00",
+                "closes": "18:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "10:00",
+                "closes": "15:00"
+              }
+            ]
+          },
+          "content": {
+            "context": "Svrzo House shows Ottoman urban domestic architecture in Sarajevo. After the shops, it is an important change of scale: courtyards, rooms, and transitions show that the old city was not only a market, but also a place of family life.",
+            "lookFor": "Inner courtyards and wooden details\nThe division of rooms and passages\nViews from windows into the old quarter\nHow the house closes itself from the street",
+            "practical": "Hours change after mid-October.\nSaturday is shorter and Sunday is not modeled.\nProtect your schedule: this museum is easy to miss because of early closing.",
+            "nextMove": "Walk down toward War Childhood Museum without adding a climb to the fortresses.",
+            "sourceNote": "Hours come from the city tourist directory; check the seasonal change before visiting."
+          },
+          "id": "sarajevo-old-lanes-3",
+          "guideId": "sarajevo-old-lanes",
+          "order": 3
+        },
+        {
+          "entry": "ticketed",
+          "name": "War Childhood",
+          "nameLocal": "Muzej ratnog djetinjstva",
+          "note": "The museum needs time for personal stories",
+          "time": "60 min",
+          "walk": "9 min",
+          "coordinates": {
+            "latitude": 43.861991,
+            "longitude": 18.428524
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 0
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 1
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 2
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 3
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 4
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 5
+              },
+              {
+                "closes": "19:00",
+                "opens": "11:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "War Childhood Museum is built around objects and testimonies from childhood during war. It is small in footprint but emotionally dense, so treat it as its own block rather than a quick stop between shop windows.",
+            "lookFor": "Objects with personal stories\nShort labels instead of spectacle\nHow ordinary things change meaning\nYour own state after the galleries",
+            "practical": "Last entry is before closing.\nThe museum site warned that the elevator was temporarily out of service.\nIf accessibility matters, contact the museum in advance.",
+            "nextMove": "After the museum, walk toward the cathedral through central streets for a more open finish.",
+            "sourceNote": "The official museum visitor page was checked on 2026-06-11; separate holiday closures should be verified."
+          },
+          "id": "sarajevo-old-lanes-4",
+          "guideId": "sarajevo-old-lanes",
+          "order": 4
+        },
+        {
+          "entry": "free",
+          "name": "Sacred Heart Cathedral",
+          "nameLocal": "Katedrala Srca Isusova",
+          "note": "An open square closes the dense museum block",
+          "time": "20 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 43.8592918,
+            "longitude": 18.4253936
+          },
+          "content": {
+            "context": "Sacred Heart Cathedral finishes the route on a more open city square. After narrow lanes and the museum, it is easier here to gather impressions and see Catholic, Ottoman, and trading layers standing close together.",
+            "lookFor": "The two facade towers\nThe square before the entrance\nNearby streets toward Ferhadija\nThe shift from museum quiet to city flow",
+            "practical": "During services, do not block entry or film intrusively.\nEntry hours are best checked on the spot.\nThe square works well as a short pause before dinner.",
+            "nextMove": "End the route on Ferhadija or walk back toward Bascarsija."
+          },
+          "id": "sarajevo-old-lanes-5",
+          "guideId": "sarajevo-old-lanes",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sarajevo-river-museums",
+      "cityId": "sarajevo",
+      "category": "Museums",
+      "title": "River And Museums",
+      "subtitle": "Vjecna vatra / Muzeji",
+      "blurb": "City memory along the Miljacka: Eternal Flame, bridges, and two major museums.",
+      "mood": "Riverfront, memory, galleries",
+      "accent": "#4F6F86",
+      "soft": "#DEE8EE",
+      "deep": "#345268",
+      "ink": "#263E51",
+      "motif": "axis",
+      "duration": "Day",
+      "stops": 5,
+      "distance": "3.4 km",
+      "pace": "day",
+      "kids": false,
+      "cover": {
+        "id": "sarajevo-cover-river-museums",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cover-river-museums-square.jpg",
+        "alt": "Miljacka river and Sarajevo museum district in clear daylight"
+      },
+      "microcopy": {
+        "kicker": "Indoor reserve",
+        "line": "The river leads to museums, not to rushing."
+      },
+      "content": {
+        "intro": "This route leaves the old bazaar for the broader city center. Eternal Flame opens the theme of memory, Festina Lente and the Academy of Fine Arts give a calmer river transition, and the National and Historical museums stand close enough to hold the main part of the day indoors.\n\nDo not add another heavy museum afterward. It is better to leave time for texts, exhibitions, and a short finish at Suada and Olga Bridge than to collect every Sarajevo war story in one attempt.",
+        "routeLogic": "Start at Eternal Flame as a clear city marker.\nMove along the Miljacka through Festina Lente toward the museum district.\nPlace the National Museum first among the two large museums.\nKeep the Historical Museum second, if attention remains.\nFinish at Suada and Olga Bridge without adding a long transfer.",
+        "bestFor": "a cool or rainy day\nmuseums and city memory\na slow river transition\ntravelers without small children",
+        "notFor": "a group already tired by a heavy morning\na day focused only on the old bazaar\nMondays, if the National Museum is essential",
+        "beforeYouGo": "Check both museum schedules.\nThe National Museum is closed on Mondays.\nBudget attention for reading, not just for walking between buildings.",
+        "timing": "Start in the morning or around midday. If the National Museum is open, give it more time and keep the Historical Museum for the energy that remains.",
+        "fallbackPlan": "If one museum is closed, do not replace it with a random far stop: slow down on the river stretch and make the open museum the main block."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Eternal Flame",
+          "nameLocal": "Vječna vatra",
+          "note": "The memorial opens the city-memory theme",
+          "time": "15 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 43.8588115,
+            "longitude": 18.4218717
+          },
+          "content": {
+            "context": "Eternal Flame stands on a busy street and commemorates the liberation of Sarajevo in World War II. It is a useful short beginning: city memory is built directly into the everyday flow of the center.",
+            "lookFor": "The flame in the facade niche\nThe inscription on the wall\nPeople moving past the memorial\nThe contrast between memory and ordinary street life",
+            "practical": "Do not linger in the passage or block movement.\nPhotograph without staged scenes.\nDecide where you will drop toward the river next.",
+            "nextMove": "Walk down to the Miljacka and continue toward Festina Lente by the Academy of Fine Arts."
+          },
+          "id": "sarajevo-river-museums-1",
+          "guideId": "sarajevo-river-museums",
+          "order": 1
+        },
+        {
+          "entry": "free",
+          "name": "Festina Lente",
+          "nameLocal": "Festina Lente",
+          "note": "The pedestrian bridge sets up the museum walk",
+          "time": "20 min",
+          "walk": "25 min",
+          "coordinates": {
+            "latitude": 43.856292,
+            "longitude": 18.417614
+          },
+          "content": {
+            "context": "Festina Lente connects the Miljacka embankments near the Academy of Fine Arts. After Eternal Flame, it is a light but useful transition: the route moves from a dense street to the river and points toward the museum district.",
+            "lookFor": "The modern pedestrian-bridge form\nThe academy building behind it\nEmbankments on both sides\nViews downstream toward the western center",
+            "practical": "Wind can be stronger by the river than in the streets.\nAfter rain, slow down on the approaches.\nDo not expect shade along the whole river section.",
+            "nextMove": "Walk west toward the National Museum, allowing more time than for a short central hop."
+          },
+          "id": "sarajevo-river-museums-2",
+          "guideId": "sarajevo-river-museums",
+          "order": 2
+        },
+        {
+          "entry": "ticketed",
+          "name": "National Museum",
+          "nameLocal": "Zemaljski muzej Bosne i Hercegovine",
+          "note": "The main museum block needs extra time",
+          "time": "90 min",
+          "walk": "4 min",
+          "coordinates": {
+            "latitude": 43.85499,
+            "longitude": 18.402641
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 0
+              },
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 2
+              },
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 3
+              },
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 4
+              },
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 5
+              },
+              {
+                "closes": "19:00",
+                "opens": "10:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "The National Museum of Bosnia and Herzegovina occupies a large complex in the museum district. On this route it is the main indoor block: natural, archaeological, and cultural collections need time rather than a quick pass.",
+            "lookFor": "The courtyard and museum buildings\nPermanent galleries by section\nCurrent-exhibition notices\nThe display status of the Sarajevo Haggadah",
+            "practical": "The museum is closed on Mondays.\nCheck current exhibitions and any separate restrictions.\nDo not schedule another large museum immediately after it without a break.",
+            "nextMove": "Move to the Historical Museum next door, but decide by energy whether you want a second full block.",
+            "sourceNote": "Official National Museum hours checked on 2026-06-11."
+          },
+          "id": "sarajevo-river-museums-3",
+          "guideId": "sarajevo-river-museums",
+          "order": 3
+        },
+        {
+          "entry": "ticketed",
+          "name": "History Museum",
+          "nameLocal": "Historijski muzej Bosne i Hercegovine",
+          "note": "Keep the second museum optional by energy",
+          "time": "60 min",
+          "walk": "8 min",
+          "coordinates": {
+            "latitude": 43.8550333,
+            "longitude": 18.4008194
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 0
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 1
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 2
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 3
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 4
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 5
+              },
+              {
+                "closes": "19:00",
+                "opens": "09:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "The Historical Museum stands near the National Museum, but the mood is different. It helps shift from broad collections into twentieth-century history and city memory, so enter deliberately rather than automatically.",
+            "lookFor": "The museum building architecture\nPermanent and temporary exhibitions\nMaterial on twentieth-century city life\nYour attention level after the first museum",
+            "practical": "The official site lists daily hours.\nCheck exhibitions and any closed rooms in the morning.\nIf you are tired, move this museum to another day.",
+            "nextMove": "Walk to Suada and Olga Bridge for a short river finish.",
+            "sourceNote": "The official Historical Museum page was checked on 2026-06-11."
+          },
+          "id": "sarajevo-river-museums-4",
+          "guideId": "sarajevo-river-museums",
+          "order": 4
+        },
+        {
+          "entry": "free",
+          "name": "Suada and Olga Bridge",
+          "nameLocal": "Most Suade i Olge",
+          "note": "A river finish after the museum block",
+          "time": "20 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 43.8533056,
+            "longitude": 18.4065
+          },
+          "content": {
+            "context": "Suada and Olga Bridge connects Marijin Dvor with the left bank of the Miljacka and is tied to early victims of the 1992 war. After the museums, it is a short finish that asks for quiet attention rather than extra drama.",
+            "lookFor": "The view along the river\nThe bridge link with Marijin Dvor\nPlaques and memorial details\nOrdinary city movement around the site",
+            "practical": "Stay out of vehicle traffic.\nDo not turn the stop into staged photography.\nGive the group a few quiet minutes after the museums.",
+            "nextMove": "End by the river or head for transport in Marijin Dvor."
+          },
+          "id": "sarajevo-river-museums-5",
+          "guideId": "sarajevo-river-museums",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "sarajevo-trebevic",
+      "cityId": "sarajevo",
+      "category": "Mountains",
+      "title": "Trebevic",
+      "subtitle": "Zicara / Vidikovac",
+      "blurb": "Cable car, city view, and Olympic track without adding the old-town fortresses.",
+      "mood": "Views, forest, cable car",
+      "accent": "#3F7464",
+      "soft": "#DDEBE4",
+      "deep": "#2A574B",
+      "ink": "#214239",
+      "motif": "ridge",
+      "duration": "Half-day",
+      "stops": 4,
+      "distance": "2 km + cable car",
+      "pace": "half",
+      "kids": false,
+      "cover": {
+        "id": "sarajevo-cover-trebevic",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cover-trebevic-square.jpg",
+        "alt": "Cable car above Sarajevo and the green Trebevic slope"
+      },
+      "microcopy": {
+        "kicker": "Check the cable car",
+        "line": "The mountain is best when weather and schedule agree."
+      },
+      "content": {
+        "intro": "Trebevic is better as its own half-day. The cable car lifts you quickly from Bistrik to the wooded slope, the viewpoint shows Sarajevo in its valley, and the Olympic bobsleigh track adds an important but not casual historical layer.\n\nDo not combine this route with the fortresses above the old city or with distant museums. Weather, maintenance, and path conditions matter more than the number of stops; if visibility is poor, rebuild the day around the center.",
+        "routeLogic": "Begin at Vijecnica as a clear marker near Bistrik.\nReach the lower station only after checking operation.\nAt the top, assess weather and return timing first.\nWalk to the bobsleigh track only by a clear road or marked path.",
+        "bestFor": "a clear day\na view over the valley\na half-day without museums\na second outing after the old center",
+        "notFor": "fog, strong wind, or cable-car maintenance\na stroller route\ntravelers tempted by unmarked forest shortcuts",
+        "beforeYouGo": "Check cable-car hours and wind forecast.\nBring a warmer layer for the top.\nOutside the city, stay on roads and marked paths; do not enter forest shortcuts.",
+        "timing": "Go in the first half of the day or after lunch with a return buffer. Do not arrive at the top close to cable-car closing time.",
+        "fallbackPlan": "If the cable car is closed or the summit is in fog, switch to Vijecnica, the river, and the old center, then move Trebevic to a clear day."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Vijecnica",
+          "nameLocal": "Gradska vijećnica",
+          "note": "A marker before the climb toward Bistrik",
+          "time": "15 min",
+          "walk": "10 min",
+          "coordinates": {
+            "latitude": 43.859123,
+            "longitude": 18.4332254
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 0
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 1
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 2
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 3
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 4
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 5
+              },
+              {
+                "closes": "17:00",
+                "opens": "09:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "Vijecnica works well as the Trebevic starting point: the river, old city, and climb toward Bistrik are all nearby, and the lower cable-car station sits above it. Use the stop to check the schedule and decide whether to enter or move straight on.",
+            "lookFor": "The riverfront city-hall facade\nThe direction toward Bistrik\nBridges near Vijecnica\nThe slope above the city",
+            "practical": "Do not spend your whole museum buffer here if the mountain is the main goal.\nCheck the cable car before climbing.\nIn heat, buy water while still below.",
+            "nextMove": "Walk up to the Sarajevo Cable Car lower station through the Bistrik streets."
+          },
+          "id": "sarajevo-trebevic-1",
+          "guideId": "sarajevo-trebevic",
+          "order": 1
+        },
+        {
+          "entry": "ticketed",
+          "name": "Lower Station",
+          "nameLocal": "Sarajevska žičara",
+          "note": "The cable car depends on schedule and weather",
+          "time": "20 min",
+          "walk": "8 min in cabin",
+          "coordinates": {
+            "latitude": 43.8554111,
+            "longitude": 18.4348472
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "weekday": 1,
+                "opens": "12:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 0,
+                "opens": "09:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 2,
+                "opens": "09:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 3,
+                "opens": "09:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 4,
+                "opens": "09:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 5,
+                "opens": "09:00",
+                "closes": "19:00"
+              },
+              {
+                "weekday": 6,
+                "opens": "09:00",
+                "closes": "19:00"
+              }
+            ]
+          },
+          "content": {
+            "context": "The lower cable-car station is the practical decision point of the route. If the schedule, line, or weather is wrong, it is better to change plans here than at the top; the ride is short, but it shapes the whole half-day.",
+            "lookFor": "The queue and ticket area\nOperation boards or notices\nCabins rising above the city\nThe last return time",
+            "practical": "The official schedule starts later on Mondays and earlier on other days.\nWeather and maintenance can change operation.\nKeep a return buffer.",
+            "nextMove": "Ride to the upper station and assess visibility and slope conditions first.",
+            "sourceNote": "Official Sarajevo Cable Car hours checked on 2026-06-11."
+          },
+          "id": "sarajevo-trebevic-2",
+          "guideId": "sarajevo-trebevic",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Trebevic Top",
+          "nameLocal": "Trebević",
+          "note": "Look at the valley before taking paths",
+          "time": "35 min",
+          "walk": "20-30 min",
+          "coordinates": {
+            "latitude": 43.8233333,
+            "longitude": 18.4488889
+          },
+          "content": {
+            "context": "At the upper station, Trebevic changes Sarajevo scale immediately: the old center becomes part of a valley, and the wooded slope sets the pace. Do not walk far until you understand weather, return time, and the route to the next stop.",
+            "lookFor": "The city in the valley\nForest around the station\nCloud and wind on the slope\nSigns toward paths and viewpoints",
+            "practical": "The top can be cooler and windier than the center.\nStay on the road or marked path.\nDo not enter abandoned or overgrown areas off route.",
+            "nextMove": "Walk to the Olympic bobsleigh track only by a clear approach."
+          },
+          "id": "sarajevo-trebevic-3",
+          "guideId": "sarajevo-trebevic",
+          "order": 3
+        },
+        {
+          "entry": "free",
+          "name": "Bobsleigh Track",
+          "nameLocal": "Olimpijska staza za bob i sankanje",
+          "note": "The Olympic site needs a careful tone",
+          "time": "35 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 43.8411111,
+            "longitude": 18.4422222
+          },
+          "content": {
+            "context": "The Olympic bobsleigh track on Trebevic connects the memory of the 1984 Winter Games with the city later history. Today it is an outdoor site best seen calmly, without climbing onto unsafe sections.",
+            "lookFor": "Curves in the concrete track\nGraffiti and traces of time\nForest around the Olympic structure\nHow the structure sits on the slope",
+            "practical": "Do not walk on doubtful edges or overgrown shortcuts.\nConcrete may be slippery after rain.\nReturn toward the cable car with time before closing.",
+            "nextMove": "Return to the upper station or call a verified taxi from a clear pickup point."
+          },
+          "id": "sarajevo-trebevic-4",
+          "guideId": "sarajevo-trebevic",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "sarajevo-ilidza",
+      "cityId": "sarajevo",
+      "category": "Park",
+      "title": "Ilidza And Water",
+      "subtitle": "Vrelo Bosne / Tunnel",
+      "blurb": "From the avenue and Bosna springs to Tunnel of Hope, if time and energy allow.",
+      "mood": "Greenery, water, outing",
+      "accent": "#5D7A3B",
+      "soft": "#E5ECD8",
+      "deep": "#3E5928",
+      "ink": "#31451F",
+      "motif": "ridge",
+      "duration": "Day",
+      "stops": 4,
+      "distance": "6 km + taxi",
+      "pace": "day",
+      "kids": false,
+      "cover": {
+        "id": "sarajevo-cover-ilidza",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cover-ilidza-square.jpg",
+        "alt": "Green avenue and water near Vrelo Bosne"
+      },
+      "microcopy": {
+        "kicker": "Separate outing",
+        "line": "Do not mix Ilidza with the old center."
+      },
+      "content": {
+        "intro": "Ilidza and Vrelo Bosne work best as a separate outing from the old center. Tram or taxi brings you to the start of Velika Aleja, then a long green axis leads to the Bosna springs, and Roman Bridge adds a short historical turn nearby.\n\nAdd Tunnel of Hope only if time and emotional energy remain. It is not a natural walking continuation of the park, but a separate historical block near the airport, so transport is needed between it and Ilidza.",
+        "routeLogic": "Start at Velika Aleja, not in the old city.\nReach Vrelo Bosne on foot, by bike, or by a permitted local option.\nUse Roman Bridge as a short turn after the springs.\nAdd Tunnel of Hope only with checked hours and transport.",
+        "bestFor": "a green day outside the center\nspring or early autumn\na long avenue walk\ntravelers ready for a taxi between blocks",
+        "notFor": "a late start\na walking-only plan for the whole route\na group not ready for a war museum",
+        "beforeYouGo": "Check Vrelo Bosne and Tunnel of Hope hours.\nAllow a long straight walk for Velika Aleja.\nDo not count on a quick return to the old center without transport.",
+        "timing": "Start in the morning. The park needs travel time, and Tunnel of Hope closes earlier than many central museums.",
+        "fallbackPlan": "If Tunnel of Hope does not fit the hours, keep Ilidza, Velika Aleja, Vrelo Bosne, and Roman Bridge, then move the museum to another day."
+      },
+      "stopList": [
+        {
+          "entry": "free",
+          "name": "Velika Aleja",
+          "nameLocal": "Velika aleja",
+          "note": "The long green axis leads to the springs",
+          "time": "45-60 min",
+          "walk": "45-60 min",
+          "coordinates": {
+            "latitude": 43.822122,
+            "longitude": 18.292514
+          },
+          "content": {
+            "context": "Velika Aleja begins after you arrive in Ilidza and leads toward Vrelo Bosne in one long straight line. Here the route stops feeling urban: trees, nearby water, and the repeated rhythm of walking set the pace.",
+            "lookFor": "The straight avenue under trees\nBicycles and horse carriages\nHow district noise gradually falls away\nEarly signs toward the springs",
+            "practical": "The official park page gives the avenue as about 3.5 km.\nMotor traffic on the avenue is restricted.\nBring water before the long walk.",
+            "nextMove": "Continue toward Vrelo Bosne without trying to cut through unclear areas."
+          },
+          "id": "sarajevo-ilidza-1",
+          "guideId": "sarajevo-ilidza",
+          "order": 1
+        },
+        {
+          "entry": "ticketed",
+          "name": "Vrelo Bosne",
+          "nameLocal": "Vrelo Bosne",
+          "note": "The Bosna springs need an unhurried loop",
+          "time": "60 min",
+          "walk": "35-45 min",
+          "coordinates": {
+            "latitude": 43.8185,
+            "longitude": 18.269972
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 0
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 1
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 2
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 3
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 4
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 5
+              },
+              {
+                "closes": "21:00",
+                "opens": "09:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "Vrelo Bosne is the green area around the sources of the Bosna River. After the long avenue, do not rush it: water, small bridges, and trees show a Sarajevo that is neither bazaar-focused nor museum-focused.",
+            "lookFor": "Streams and wooden bridges\nDense greenery around the water\nPath turns near the springs\nPlaces where it is better just to pause",
+            "practical": "The park lists daily hours.\nWeekends can be much busier.\nProtect time for the walk back along the avenue or onward transport.",
+            "nextMove": "Return toward Ilidza and make a short turn to Roman Bridge if energy remains.",
+            "sourceNote": "The protected-natural-areas official page was checked on 2026-06-11."
+          },
+          "id": "sarajevo-ilidza-2",
+          "guideId": "sarajevo-ilidza",
+          "order": 2
+        },
+        {
+          "entry": "free",
+          "name": "Roman Bridge",
+          "nameLocal": "Rimski most",
+          "note": "A short historic turn after the park",
+          "time": "25 min",
+          "walk": "taxi 15-25 min",
+          "coordinates": {
+            "latitude": 43.831586,
+            "longitude": 18.286067
+          },
+          "content": {
+            "context": "Roman Bridge gives the route a short stone accent after water and the avenue. It is not a long separate walk, but a careful turn near Ilidza that keeps the park outing from returning immediately to transport noise.",
+            "lookFor": "Stone arches and a low bridge profile\nThe river line around it\nThe contrast between park and old road\nQuiet angles without stepping into traffic",
+            "practical": "Check the safe approach to the bridge on site.\nDo not step into the road for a photo.\nSkip this stop if light is fading.",
+            "nextMove": "For Tunnel of Hope, take a taxi or checked transport; do not plan this transition on foot."
+          },
+          "id": "sarajevo-ilidza-3",
+          "guideId": "sarajevo-ilidza",
+          "order": 3
+        },
+        {
+          "entry": "ticketed",
+          "name": "Tunnel of Hope",
+          "nameLocal": "Tunel spasa",
+          "note": "Plan the airport-area finish separately",
+          "time": "60 min",
+          "walk": "-",
+          "coordinates": {
+            "latitude": 43.8197222,
+            "longitude": 18.3372222
+          },
+          "hours": {
+            "checkedAt": "2026-06-11",
+            "rules": [
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 0
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 1
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 2
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 3
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 4
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 5
+              },
+              {
+                "closes": "15:30",
+                "opens": "09:00",
+                "weekday": 6
+              }
+            ]
+          },
+          "content": {
+            "context": "Tunnel of Hope is connected with the siege of Sarajevo and sits separately from the Ilidza park section, near the airport. Make it the finish only with transport and attention left: this is a museum block, not a continuation of the water walk.",
+            "lookFor": "The preserved section of tunnel\nExhibits on the city link during the siege\nThe museum courtyard and entrance area\nYour readiness to read the material carefully",
+            "practical": "Check hours and payment before leaving.\nDo not arrive close to closing.\nAfter the museum, return to the center by taxi or preselected transport.",
+            "nextMove": "End the day and return to the city; do not add another heavy memorial block afterward.",
+            "sourceNote": "Hours come from the city tourist directory; seasonal changes should be verified separately."
+          },
+          "id": "sarajevo-ilidza-4",
+          "guideId": "sarajevo-ilidza",
+          "order": 4
+        }
+      ]
+    }
+  ],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [
+    {
+      "entry": "free",
+      "name": "Sebilj",
+      "nameLocal": "Sebilj",
+      "note": "The fountain gives the old bazaar a simple start",
+      "time": "15 min",
+      "walk": "3 min",
+      "coordinates": {
+        "latitude": 43.8597205,
+        "longitude": 18.4312587
+      },
+      "content": {
+        "context": "Sebilj is the easiest first marker: a small wooden fountain on a square where visitors, local meetings, and entries into Bascarsija overlap. From here it is simple to see how the old market spreads into short lanes.",
+        "lookFor": "The wooden fountain form\nPeople moving toward the trading lanes\nThe square as a meeting place\nOld-bazaar rooflines around you",
+        "practical": "Make this a short stop, not a long photo session.\nMorning is easier for meeting here.\nKeep your bag close in crowds.",
+        "nextMove": "Enter Bascarsija through the nearest trading lane rather than heading straight to the river."
+      },
+      "id": "sarajevo-first-day-1",
+      "guideId": "sarajevo-first-day",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Bascarsija",
+      "nameLocal": "Baščaršija",
+      "note": "Read the old trading district through its lanes",
+      "time": "40 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 43.859724,
+        "longitude": 18.431115
+      },
+      "content": {
+        "context": "Bascarsija is less one square than a mesh of short trading streets. Walk slowly: shops, passages, coffee smells, and changing materials show how the Ottoman bazaar still sits inside the modern center.",
+        "lookFor": "Low roofs and shopfronts\nNarrow turns between stalls\nThe shift from souvenirs toward craftwork\nLanes leading toward courtyards and the mosque",
+        "practical": "Do not block shop entrances.\nCheck prices and payment on the spot.\nIf it gets too crowded, step into a side lane and return to the route.",
+        "nextMove": "Move from the trading lanes toward the Gazi Husrev-beg complex and the mosque courtyard."
+      },
+      "id": "sarajevo-first-day-2",
+      "guideId": "sarajevo-first-day",
+      "order": 2
+    },
+    {
+      "entry": "visitor hours",
+      "name": "Gazi Husrev-beg",
+      "nameLocal": "Gazi Husrev-begova džamija",
+      "note": "Courtyard and mosque add the religious layer",
+      "time": "35 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8591667,
+        "longitude": 18.4290278
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 0,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 0,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 1,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "17:30",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "12:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "14:30",
+            "closes": "16:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "17:30",
+            "closes": "19:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The Gazi Husrev-beg complex stands in the heart of the old city. Even a short visit to the courtyard shows that central Sarajevo rests not only on trade, but also on the mosque, madrasa, library, and daily habits around them.",
+        "lookFor": "The mosque proportions inside the courtyard\nThe ablution fountain\nThe clock tower nearby\nA quieter mood after the bazaar lanes",
+        "practical": "Visitor windows change by season and during Ramadan.\nDress for a religious site.\nIf prayer is underway, keep to the courtyard and exterior.",
+        "nextMove": "Walk toward Latin Bridge through the short streets of the old center.",
+        "sourceNote": "The mosque official site publishes seasonal visitor windows; check the current mode before entry."
+      },
+      "id": "sarajevo-first-day-3",
+      "guideId": "sarajevo-first-day",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Latin Bridge",
+      "nameLocal": "Latinska ćuprija",
+      "note": "The bridge connects river and European context",
+      "time": "20 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8576525,
+        "longitude": 18.42901
+      },
+      "content": {
+        "context": "Latin Bridge is best handled briefly and carefully. It is not a place for a long lecture in the flow of pedestrians: the river, stone bridge, and nearby museum link the compact center with early twentieth-century events.",
+        "lookFor": "Stone arches over the Miljacka\nThe corner by the 1878-1918 museum\nPeople moving along the riverfront\nA backward view toward the old city",
+        "practical": "Stay on the sidewalk and do not block passage.\nThe nearby museum keeps its own schedule.\nStone and curbs may be slippery after rain.",
+        "nextMove": "Follow the Miljacka toward Vijecnica, choosing either bank as the route feels comfortable."
+      },
+      "id": "sarajevo-first-day-4",
+      "guideId": "sarajevo-first-day",
+      "order": 4
+    },
+    {
+      "entry": "ticketed",
+      "name": "Vijecnica",
+      "nameLocal": "Gradska vijećnica",
+      "note": "The city hall finishes the walk by the river",
+      "time": "45-75 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.859123,
+        "longitude": 18.4332254
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Vijecnica gives a bright finish by the Miljacka: the former city hall and library returned to Sarajevo city routes after a long restoration. Outside, scale and color matter; inside, the stairs, hall, and exhibition mode define the visit.",
+        "lookFor": "The striped river facade\nThe corner tower and arcades\nInterior stair lines if entry is open\nViews toward the nearby bridges",
+        "practical": "The official site and tourist directory may differ on hours.\nCheck the day mode before visiting.\nConfirm tickets and exhibitions before entering.",
+        "nextMove": "End by the river or return to Bascarsija over the nearest bridge.",
+        "sourceNote": "Hours use the official Vijecnica site, checked on 2026-06-11."
+      },
+      "id": "sarajevo-first-day-5",
+      "guideId": "sarajevo-first-day",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Kazandziluk",
+      "nameLocal": "Kazandžiluk",
+      "note": "The copper lane shows the craft rhythm",
+      "time": "25 min",
+      "walk": "5 min",
+      "coordinates": {
+        "latitude": 43.8593,
+        "longitude": 18.4313
+      },
+      "content": {
+        "context": "Kazandziluk is a short street where copperware and shopfronts immediately change the bazaar mood. There is no need to buy by plan; watch the forms, signs, workshop sounds, and density of the passage.",
+        "lookFor": "Copper trays and coffee sets\nWorkshops among souvenir windows\nThe narrow street perspective\nDetails repeating from shop to shop",
+        "practical": "Photograph displays only where it feels appropriate.\nDo not stop in the middle of the passage.\nAsk sellers about payment and packing.",
+        "nextMove": "Turn toward the covered bezistan and compare an open lane with a trade passage."
+      },
+      "id": "sarajevo-old-lanes-1",
+      "guideId": "sarajevo-old-lanes",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Gazi Bezistan",
+      "nameLocal": "Gazi Husrev-begov bezistan",
+      "note": "The covered passage changes the bazaar scale",
+      "time": "20 min",
+      "walk": "12 min",
+      "coordinates": {
+        "latitude": 43.858629,
+        "longitude": 18.427918
+      },
+      "content": {
+        "context": "The bezistan is useful as a short spatial shift: vaults, a trade corridor, and more controlled light replace open streets. It helps Bascarsija read as a system of passages, not just a set of shops.",
+        "lookFor": "The rhythm of arches and shopfronts\nMuted light inside\nExits back to the street\nHow people pass through quickly",
+        "practical": "It may be tight inside.\nDo not count on every shop keeping one shared schedule.\nIf the passage is closed, walk around it and continue to Svrzo House.",
+        "nextMove": "Climb toward Svrzo House through the streets of the old residential quarter."
+      },
+      "id": "sarajevo-old-lanes-2",
+      "guideId": "sarajevo-old-lanes",
+      "order": 2
+    },
+    {
+      "entry": "ticketed",
+      "name": "Svrzo House",
+      "nameLocal": "Svrzina kuća",
+      "note": "The house museum turns bazaar into residential city",
+      "time": "45 min",
+      "walk": "6 min",
+      "coordinates": {
+        "latitude": 43.8624444,
+        "longitude": 18.4293194
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 1,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "10:00",
+            "closes": "15:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "Svrzo House shows Ottoman urban domestic architecture in Sarajevo. After the shops, it is an important change of scale: courtyards, rooms, and transitions show that the old city was not only a market, but also a place of family life.",
+        "lookFor": "Inner courtyards and wooden details\nThe division of rooms and passages\nViews from windows into the old quarter\nHow the house closes itself from the street",
+        "practical": "Hours change after mid-October.\nSaturday is shorter and Sunday is not modeled.\nProtect your schedule: this museum is easy to miss because of early closing.",
+        "nextMove": "Walk down toward War Childhood Museum without adding a climb to the fortresses.",
+        "sourceNote": "Hours come from the city tourist directory; check the seasonal change before visiting."
+      },
+      "id": "sarajevo-old-lanes-3",
+      "guideId": "sarajevo-old-lanes",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "War Childhood",
+      "nameLocal": "Muzej ratnog djetinjstva",
+      "note": "The museum needs time for personal stories",
+      "time": "60 min",
+      "walk": "9 min",
+      "coordinates": {
+        "latitude": 43.861991,
+        "longitude": 18.428524
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 1
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "11:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "War Childhood Museum is built around objects and testimonies from childhood during war. It is small in footprint but emotionally dense, so treat it as its own block rather than a quick stop between shop windows.",
+        "lookFor": "Objects with personal stories\nShort labels instead of spectacle\nHow ordinary things change meaning\nYour own state after the galleries",
+        "practical": "Last entry is before closing.\nThe museum site warned that the elevator was temporarily out of service.\nIf accessibility matters, contact the museum in advance.",
+        "nextMove": "After the museum, walk toward the cathedral through central streets for a more open finish.",
+        "sourceNote": "The official museum visitor page was checked on 2026-06-11; separate holiday closures should be verified."
+      },
+      "id": "sarajevo-old-lanes-4",
+      "guideId": "sarajevo-old-lanes",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Sacred Heart Cathedral",
+      "nameLocal": "Katedrala Srca Isusova",
+      "note": "An open square closes the dense museum block",
+      "time": "20 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8592918,
+        "longitude": 18.4253936
+      },
+      "content": {
+        "context": "Sacred Heart Cathedral finishes the route on a more open city square. After narrow lanes and the museum, it is easier here to gather impressions and see Catholic, Ottoman, and trading layers standing close together.",
+        "lookFor": "The two facade towers\nThe square before the entrance\nNearby streets toward Ferhadija\nThe shift from museum quiet to city flow",
+        "practical": "During services, do not block entry or film intrusively.\nEntry hours are best checked on the spot.\nThe square works well as a short pause before dinner.",
+        "nextMove": "End the route on Ferhadija or walk back toward Bascarsija."
+      },
+      "id": "sarajevo-old-lanes-5",
+      "guideId": "sarajevo-old-lanes",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Eternal Flame",
+      "nameLocal": "Vječna vatra",
+      "note": "The memorial opens the city-memory theme",
+      "time": "15 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8588115,
+        "longitude": 18.4218717
+      },
+      "content": {
+        "context": "Eternal Flame stands on a busy street and commemorates the liberation of Sarajevo in World War II. It is a useful short beginning: city memory is built directly into the everyday flow of the center.",
+        "lookFor": "The flame in the facade niche\nThe inscription on the wall\nPeople moving past the memorial\nThe contrast between memory and ordinary street life",
+        "practical": "Do not linger in the passage or block movement.\nPhotograph without staged scenes.\nDecide where you will drop toward the river next.",
+        "nextMove": "Walk down to the Miljacka and continue toward Festina Lente by the Academy of Fine Arts."
+      },
+      "id": "sarajevo-river-museums-1",
+      "guideId": "sarajevo-river-museums",
+      "order": 1
+    },
+    {
+      "entry": "free",
+      "name": "Festina Lente",
+      "nameLocal": "Festina Lente",
+      "note": "The pedestrian bridge sets up the museum walk",
+      "time": "20 min",
+      "walk": "25 min",
+      "coordinates": {
+        "latitude": 43.856292,
+        "longitude": 18.417614
+      },
+      "content": {
+        "context": "Festina Lente connects the Miljacka embankments near the Academy of Fine Arts. After Eternal Flame, it is a light but useful transition: the route moves from a dense street to the river and points toward the museum district.",
+        "lookFor": "The modern pedestrian-bridge form\nThe academy building behind it\nEmbankments on both sides\nViews downstream toward the western center",
+        "practical": "Wind can be stronger by the river than in the streets.\nAfter rain, slow down on the approaches.\nDo not expect shade along the whole river section.",
+        "nextMove": "Walk west toward the National Museum, allowing more time than for a short central hop."
+      },
+      "id": "sarajevo-river-museums-2",
+      "guideId": "sarajevo-river-museums",
+      "order": 2
+    },
+    {
+      "entry": "ticketed",
+      "name": "National Museum",
+      "nameLocal": "Zemaljski muzej Bosne i Hercegovine",
+      "note": "The main museum block needs extra time",
+      "time": "90 min",
+      "walk": "4 min",
+      "coordinates": {
+        "latitude": 43.85499,
+        "longitude": 18.402641
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "10:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "The National Museum of Bosnia and Herzegovina occupies a large complex in the museum district. On this route it is the main indoor block: natural, archaeological, and cultural collections need time rather than a quick pass.",
+        "lookFor": "The courtyard and museum buildings\nPermanent galleries by section\nCurrent-exhibition notices\nThe display status of the Sarajevo Haggadah",
+        "practical": "The museum is closed on Mondays.\nCheck current exhibitions and any separate restrictions.\nDo not schedule another large museum immediately after it without a break.",
+        "nextMove": "Move to the Historical Museum next door, but decide by energy whether you want a second full block.",
+        "sourceNote": "Official National Museum hours checked on 2026-06-11."
+      },
+      "id": "sarajevo-river-museums-3",
+      "guideId": "sarajevo-river-museums",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "History Museum",
+      "nameLocal": "Historijski muzej Bosne i Hercegovine",
+      "note": "Keep the second museum optional by energy",
+      "time": "60 min",
+      "walk": "8 min",
+      "coordinates": {
+        "latitude": 43.8550333,
+        "longitude": 18.4008194
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "19:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "The Historical Museum stands near the National Museum, but the mood is different. It helps shift from broad collections into twentieth-century history and city memory, so enter deliberately rather than automatically.",
+        "lookFor": "The museum building architecture\nPermanent and temporary exhibitions\nMaterial on twentieth-century city life\nYour attention level after the first museum",
+        "practical": "The official site lists daily hours.\nCheck exhibitions and any closed rooms in the morning.\nIf you are tired, move this museum to another day.",
+        "nextMove": "Walk to Suada and Olga Bridge for a short river finish.",
+        "sourceNote": "The official Historical Museum page was checked on 2026-06-11."
+      },
+      "id": "sarajevo-river-museums-4",
+      "guideId": "sarajevo-river-museums",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Suada and Olga Bridge",
+      "nameLocal": "Most Suade i Olge",
+      "note": "A river finish after the museum block",
+      "time": "20 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8533056,
+        "longitude": 18.4065
+      },
+      "content": {
+        "context": "Suada and Olga Bridge connects Marijin Dvor with the left bank of the Miljacka and is tied to early victims of the 1992 war. After the museums, it is a short finish that asks for quiet attention rather than extra drama.",
+        "lookFor": "The view along the river\nThe bridge link with Marijin Dvor\nPlaques and memorial details\nOrdinary city movement around the site",
+        "practical": "Stay out of vehicle traffic.\nDo not turn the stop into staged photography.\nGive the group a few quiet minutes after the museums.",
+        "nextMove": "End by the river or head for transport in Marijin Dvor."
+      },
+      "id": "sarajevo-river-museums-5",
+      "guideId": "sarajevo-river-museums",
+      "order": 5
+    },
+    {
+      "entry": "free",
+      "name": "Vijecnica",
+      "nameLocal": "Gradska vijećnica",
+      "note": "A marker before the climb toward Bistrik",
+      "time": "15 min",
+      "walk": "10 min",
+      "coordinates": {
+        "latitude": 43.859123,
+        "longitude": 18.4332254
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "17:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Vijecnica works well as the Trebevic starting point: the river, old city, and climb toward Bistrik are all nearby, and the lower cable-car station sits above it. Use the stop to check the schedule and decide whether to enter or move straight on.",
+        "lookFor": "The riverfront city-hall facade\nThe direction toward Bistrik\nBridges near Vijecnica\nThe slope above the city",
+        "practical": "Do not spend your whole museum buffer here if the mountain is the main goal.\nCheck the cable car before climbing.\nIn heat, buy water while still below.",
+        "nextMove": "Walk up to the Sarajevo Cable Car lower station through the Bistrik streets."
+      },
+      "id": "sarajevo-trebevic-1",
+      "guideId": "sarajevo-trebevic",
+      "order": 1
+    },
+    {
+      "entry": "ticketed",
+      "name": "Lower Station",
+      "nameLocal": "Sarajevska žičara",
+      "note": "The cable car depends on schedule and weather",
+      "time": "20 min",
+      "walk": "8 min in cabin",
+      "coordinates": {
+        "latitude": 43.8554111,
+        "longitude": 18.4348472
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "weekday": 1,
+            "opens": "12:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 0,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 2,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 3,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 4,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 5,
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "weekday": 6,
+            "opens": "09:00",
+            "closes": "19:00"
+          }
+        ]
+      },
+      "content": {
+        "context": "The lower cable-car station is the practical decision point of the route. If the schedule, line, or weather is wrong, it is better to change plans here than at the top; the ride is short, but it shapes the whole half-day.",
+        "lookFor": "The queue and ticket area\nOperation boards or notices\nCabins rising above the city\nThe last return time",
+        "practical": "The official schedule starts later on Mondays and earlier on other days.\nWeather and maintenance can change operation.\nKeep a return buffer.",
+        "nextMove": "Ride to the upper station and assess visibility and slope conditions first.",
+        "sourceNote": "Official Sarajevo Cable Car hours checked on 2026-06-11."
+      },
+      "id": "sarajevo-trebevic-2",
+      "guideId": "sarajevo-trebevic",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Trebevic Top",
+      "nameLocal": "Trebević",
+      "note": "Look at the valley before taking paths",
+      "time": "35 min",
+      "walk": "20-30 min",
+      "coordinates": {
+        "latitude": 43.8233333,
+        "longitude": 18.4488889
+      },
+      "content": {
+        "context": "At the upper station, Trebevic changes Sarajevo scale immediately: the old center becomes part of a valley, and the wooded slope sets the pace. Do not walk far until you understand weather, return time, and the route to the next stop.",
+        "lookFor": "The city in the valley\nForest around the station\nCloud and wind on the slope\nSigns toward paths and viewpoints",
+        "practical": "The top can be cooler and windier than the center.\nStay on the road or marked path.\nDo not enter abandoned or overgrown areas off route.",
+        "nextMove": "Walk to the Olympic bobsleigh track only by a clear approach."
+      },
+      "id": "sarajevo-trebevic-3",
+      "guideId": "sarajevo-trebevic",
+      "order": 3
+    },
+    {
+      "entry": "free",
+      "name": "Bobsleigh Track",
+      "nameLocal": "Olimpijska staza za bob i sankanje",
+      "note": "The Olympic site needs a careful tone",
+      "time": "35 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8411111,
+        "longitude": 18.4422222
+      },
+      "content": {
+        "context": "The Olympic bobsleigh track on Trebevic connects the memory of the 1984 Winter Games with the city later history. Today it is an outdoor site best seen calmly, without climbing onto unsafe sections.",
+        "lookFor": "Curves in the concrete track\nGraffiti and traces of time\nForest around the Olympic structure\nHow the structure sits on the slope",
+        "practical": "Do not walk on doubtful edges or overgrown shortcuts.\nConcrete may be slippery after rain.\nReturn toward the cable car with time before closing.",
+        "nextMove": "Return to the upper station or call a verified taxi from a clear pickup point."
+      },
+      "id": "sarajevo-trebevic-4",
+      "guideId": "sarajevo-trebevic",
+      "order": 4
+    },
+    {
+      "entry": "free",
+      "name": "Velika Aleja",
+      "nameLocal": "Velika aleja",
+      "note": "The long green axis leads to the springs",
+      "time": "45-60 min",
+      "walk": "45-60 min",
+      "coordinates": {
+        "latitude": 43.822122,
+        "longitude": 18.292514
+      },
+      "content": {
+        "context": "Velika Aleja begins after you arrive in Ilidza and leads toward Vrelo Bosne in one long straight line. Here the route stops feeling urban: trees, nearby water, and the repeated rhythm of walking set the pace.",
+        "lookFor": "The straight avenue under trees\nBicycles and horse carriages\nHow district noise gradually falls away\nEarly signs toward the springs",
+        "practical": "The official park page gives the avenue as about 3.5 km.\nMotor traffic on the avenue is restricted.\nBring water before the long walk.",
+        "nextMove": "Continue toward Vrelo Bosne without trying to cut through unclear areas."
+      },
+      "id": "sarajevo-ilidza-1",
+      "guideId": "sarajevo-ilidza",
+      "order": 1
+    },
+    {
+      "entry": "ticketed",
+      "name": "Vrelo Bosne",
+      "nameLocal": "Vrelo Bosne",
+      "note": "The Bosna springs need an unhurried loop",
+      "time": "60 min",
+      "walk": "35-45 min",
+      "coordinates": {
+        "latitude": 43.8185,
+        "longitude": 18.269972
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "21:00",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Vrelo Bosne is the green area around the sources of the Bosna River. After the long avenue, do not rush it: water, small bridges, and trees show a Sarajevo that is neither bazaar-focused nor museum-focused.",
+        "lookFor": "Streams and wooden bridges\nDense greenery around the water\nPath turns near the springs\nPlaces where it is better just to pause",
+        "practical": "The park lists daily hours.\nWeekends can be much busier.\nProtect time for the walk back along the avenue or onward transport.",
+        "nextMove": "Return toward Ilidza and make a short turn to Roman Bridge if energy remains.",
+        "sourceNote": "The protected-natural-areas official page was checked on 2026-06-11."
+      },
+      "id": "sarajevo-ilidza-2",
+      "guideId": "sarajevo-ilidza",
+      "order": 2
+    },
+    {
+      "entry": "free",
+      "name": "Roman Bridge",
+      "nameLocal": "Rimski most",
+      "note": "A short historic turn after the park",
+      "time": "25 min",
+      "walk": "taxi 15-25 min",
+      "coordinates": {
+        "latitude": 43.831586,
+        "longitude": 18.286067
+      },
+      "content": {
+        "context": "Roman Bridge gives the route a short stone accent after water and the avenue. It is not a long separate walk, but a careful turn near Ilidza that keeps the park outing from returning immediately to transport noise.",
+        "lookFor": "Stone arches and a low bridge profile\nThe river line around it\nThe contrast between park and old road\nQuiet angles without stepping into traffic",
+        "practical": "Check the safe approach to the bridge on site.\nDo not step into the road for a photo.\nSkip this stop if light is fading.",
+        "nextMove": "For Tunnel of Hope, take a taxi or checked transport; do not plan this transition on foot."
+      },
+      "id": "sarajevo-ilidza-3",
+      "guideId": "sarajevo-ilidza",
+      "order": 3
+    },
+    {
+      "entry": "ticketed",
+      "name": "Tunnel of Hope",
+      "nameLocal": "Tunel spasa",
+      "note": "Plan the airport-area finish separately",
+      "time": "60 min",
+      "walk": "-",
+      "coordinates": {
+        "latitude": 43.8197222,
+        "longitude": 18.3372222
+      },
+      "hours": {
+        "checkedAt": "2026-06-11",
+        "rules": [
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 0
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 1
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 2
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 3
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 4
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 5
+          },
+          {
+            "closes": "15:30",
+            "opens": "09:00",
+            "weekday": 6
+          }
+        ]
+      },
+      "content": {
+        "context": "Tunnel of Hope is connected with the siege of Sarajevo and sits separately from the Ilidza park section, near the airport. Make it the finish only with transport and attention left: this is a museum block, not a continuation of the water walk.",
+        "lookFor": "The preserved section of tunnel\nExhibits on the city link during the siege\nThe museum courtyard and entrance area\nYour readiness to read the material carefully",
+        "practical": "Check hours and payment before leaving.\nDo not arrive close to closing.\nAfter the museum, return to the center by taxi or preselected transport.",
+        "nextMove": "End the day and return to the city; do not add another heavy memorial block afterward.",
+        "sourceNote": "Hours come from the city tourist directory; seasonal changes should be verified separately."
+      },
+      "id": "sarajevo-ilidza-4",
+      "guideId": "sarajevo-ilidza",
+      "order": 4
+    }
+  ],
+  "packHash": "a7ea3bae0345"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "belgrade",
+  "slug": "belgrade",
+  "title": "Белград",
+  "subtitle": "Belgrade · Београд · 5 маршрутов",
+  "meta": "Сербия · крепость, реки, Земун и модернизм",
+  "practicalNote": "В городских автобусах, трамваях, троллейбусах и BG Train проезд бесплатный с 2025 года. Для мелких покупок и рынков держите динары; вывески встречаются и кириллицей, и латиницей.",
+  "guideIds": [
+    "belgrade-first-day",
+    "belgrade-fortress-rivers",
+    "belgrade-museums-vracar",
+    "belgrade-zemun",
+    "belgrade-new-belgrade"
+  ],
+  "coordinates": {
+    "latitude": 44.80401,
+    "longitude": 20.46513
+  },
+  "identity": {
+    "accent": "#B4513A",
+    "soft": "#F0E2D7",
+    "deep": "#6C332D",
+    "ink": "#4C2C2A",
+    "motif": "axis",
+    "glyph": "БГ",
+    "hook": "Крепость на месте римского Сингидунума · I век н. э."
+  },
+  "timezone": "Europe/Belgrade",
+  "countryId": "serbia"
+}
