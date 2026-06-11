@@ -48,6 +48,19 @@
         "latitude": 43.8588115,
         "longitude": 18.4218717
       },
+      "photo": {
+        "id": "sarajevo-eternal-flame",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-square.jpg",
+        "alt": "Eternal Flame memorial in Sarajevo",
+        "attribution": {
+          "author": "Francisco Antunes from London, United Kingdom",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eternal_flame_Sarajevo.jpg"
+        }
+      },
       "content": {
         "context": "Вечный огонь стоит на оживленной улице и посвящен освобождению Сараево во Второй мировой войне. Он удобен как короткое начало: городская память здесь встроена прямо в ежедневный поток центра.",
         "lookFor": "пламя в нише фасада\nнадпись на стене\nдвижение людей мимо мемориала\nконтраст между памятью и обычной улицей",

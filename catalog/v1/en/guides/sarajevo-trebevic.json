@@ -88,6 +88,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-vijecnica",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/vijecnica-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/vijecnica-square.jpg",
+        "alt": "Sarajevo City Hall Vijecnica facade",
+        "attribution": {
+          "author": "Alen Djuderija Photography from Sarajevo, Bosnia and Herzegovina",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Hall_Vijecnica_(23242695334).jpg"
+        }
+      },
       "content": {
         "context": "Vijecnica works well as the Trebevic starting point: the river, old city, and climb toward Bistrik are all nearby, and the lower cable-car station sits above it. Use the stop to check the schedule and decide whether to enter or move straight on.",
         "lookFor": "The riverfront city-hall facade\nThe direction toward Bistrik\nBridges near Vijecnica\nThe slope above the city",
@@ -148,6 +161,19 @@
             "closes": "19:00"
           }
         ]
+      },
+      "photo": {
+        "id": "sarajevo-cable-car",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cable-car-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cable-car-square.jpg",
+        "alt": "Trebevic cable car above Sarajevo hills",
+        "attribution": {
+          "author": "Adam Harangozó",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trebevi%C4%87_Cable_Car_in_Sarajevo_02.jpg"
+        }
       },
       "content": {
         "context": "The lower cable-car station is the practical decision point of the route. If the schedule, line, or weather is wrong, it is better to change plans here than at the top; the ride is short, but it shapes the whole half-day.",

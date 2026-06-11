@@ -13,7 +13,7 @@
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
-      "packHash": "a7ea3bae0345",
+      "packHash": "56acad34bb4b",
       "packPath": "cities/sarajevo/offline-pack.json"
     },
     "tivat": {
@@ -22,7 +22,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-11T16:53:03.149Z",
+  "generatedAt": "2026-06-11T17:00:56.327Z",
   "locale": "en",
   "schemaVersion": 1
 }

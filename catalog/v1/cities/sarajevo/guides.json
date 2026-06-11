@@ -49,6 +49,19 @@
           "latitude": 43.8597205,
           "longitude": 18.4312587
         },
+        "photo": {
+          "id": "sarajevo-sebilj",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/sebilj-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/sebilj-square.jpg",
+          "alt": "Sebilj fountain on Bascarsija square in Sarajevo",
+          "attribution": {
+            "author": "Aždaja",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija-Sebilj_2017.jpg"
+          }
+        },
         "content": {
           "context": "Sebilj - удобный первый ориентир: маленький деревянный фонтан стоит на площади, где сходятся туристы, местные встречи и входы в Baščaršija. Отсюда проще увидеть, как старый рынок расходится короткими улицами.",
           "lookFor": "деревянную форму фонтана\nпотоки к торговым улицам\nплощадь как место встреч\nвид на крыши старого базара",
@@ -201,6 +214,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "sarajevo-gazi-mosque",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/gazi-mosque-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/gazi-mosque-square.jpg",
+          "alt": "Gazi Husrev-beg Mosque courtyard in Sarajevo",
+          "attribution": {
+            "author": "Adam Harangozó",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-beg_Mosque_in_Sarajevo.jpg"
+          }
+        },
         "content": {
           "context": "Комплекс Гази Хусрев-бега стоит в самом сердце старого города. Даже короткий вход во двор помогает увидеть, что центр Сараево держится не только на торговле, но и на мечети, медресе, библиотеке и городских привычках вокруг них.",
           "lookFor": "пропорции мечети во дворе\nфонтан для омовения\nчасовую башню рядом\nтишину внутри комплекса после улиц базара",
@@ -222,6 +248,19 @@
         "coordinates": {
           "latitude": 43.8576525,
           "longitude": 18.42901
+        },
+        "photo": {
+          "id": "sarajevo-latin-bridge",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/latin-bridge-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/latin-bridge-square.jpg",
+          "alt": "Latin Bridge over the Miljacka in Sarajevo",
+          "attribution": {
+            "author": "Dudva",
+            "license": "CC0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latin_Bridge_in_Sarajevo_(06.2025).jpg"
+          }
         },
         "content": {
           "context": "Латинский мост лучше воспринимать коротко и внимательно. Это не место для длинной лекции посреди прохода: река, каменный мост и соседний музей помогают связать компактный центр с событиями начала XX века.",
@@ -283,6 +322,19 @@
               "weekday": 6
             }
           ]
+        },
+        "photo": {
+          "id": "sarajevo-vijecnica",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/vijecnica-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/vijecnica-square.jpg",
+          "alt": "Sarajevo City Hall Vijecnica facade",
+          "attribution": {
+            "author": "Alen Djuderija Photography from Sarajevo, Bosnia and Herzegovina",
+            "license": "CC BY 2.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Hall_Vijecnica_(23242695334).jpg"
+          }
         },
         "content": {
           "context": "Vijećnica дает яркий финал у Миляцки: здание бывшей ратуши и библиотеки вернулось в городской маршрут после долгого восстановления. Снаружи важны масштаб и цвет, внутри - лестницы, зал и выставочный режим дня.",
@@ -486,6 +538,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "sarajevo-war-childhood",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/war-childhood-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/war-childhood-square.jpg",
+          "alt": "War Childhood Museum exterior in Sarajevo",
+          "attribution": {
+            "author": "Hibasi",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:War_Childhood_Museum_Sarajevo.jpg"
+          }
+        },
         "content": {
           "context": "War Childhood Museum строится вокруг предметов и свидетельств детства во время войны. Это небольшой по размеру, но эмоционально плотный музей; ставьте его отдельным блоком, а не быстрым заходом между витринами.",
           "lookFor": "предметы с личными историями\nкороткие подписи вместо большого шума\nкак обычные вещи меняют смысл\nсобственное состояние после залов",
@@ -507,6 +572,19 @@
         "coordinates": {
           "latitude": 43.8592918,
           "longitude": 18.4253936
+        },
+        "photo": {
+          "id": "sarajevo-cathedral",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/cathedral-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/cathedral-square.jpg",
+          "alt": "Sacred Heart Cathedral facade in Sarajevo",
+          "attribution": {
+            "author": "Bjoertvedt",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Sacred_Heart_Cathedral_IMG_1235.jpg"
+          }
         },
         "content": {
           "context": "Собор Сердца Иисуса завершает маршрут на более открытой городской площади. После узких улиц и музея здесь легче собрать впечатления и увидеть, как католический, османский и торговый слои центра стоят рядом.",
@@ -569,6 +647,19 @@
         "coordinates": {
           "latitude": 43.8588115,
           "longitude": 18.4218717
+        },
+        "photo": {
+          "id": "sarajevo-eternal-flame",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-square.jpg",
+          "alt": "Eternal Flame memorial in Sarajevo",
+          "attribution": {
+            "author": "Francisco Antunes from London, United Kingdom",
+            "license": "CC BY 2.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eternal_flame_Sarajevo.jpg"
+          }
         },
         "content": {
           "context": "Вечный огонь стоит на оживленной улице и посвящен освобождению Сараево во Второй мировой войне. Он удобен как короткое начало: городская память здесь встроена прямо в ежедневный поток центра.",
@@ -833,6 +924,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "sarajevo-vijecnica",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/vijecnica-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/vijecnica-square.jpg",
+          "alt": "Sarajevo City Hall Vijecnica facade",
+          "attribution": {
+            "author": "Alen Djuderija Photography from Sarajevo, Bosnia and Herzegovina",
+            "license": "CC BY 2.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Hall_Vijecnica_(23242695334).jpg"
+          }
+        },
         "content": {
           "context": "Vijećnica удобна как старт Требевича: рядом река, старый город и подъем к Bistrik, где находится нижняя станция канатки. Здесь лучше сверить график и решить, идете ли внутрь или сразу к подъему.",
           "lookFor": "фасад ратуши у реки\nнаправление к Bistrik\nмосты рядом с Vijećnica\nвид на склон над городом",
@@ -893,6 +997,19 @@
               "closes": "19:00"
             }
           ]
+        },
+        "photo": {
+          "id": "sarajevo-cable-car",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/cable-car-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/cable-car-square.jpg",
+          "alt": "Trebevic cable car above Sarajevo hills",
+          "attribution": {
+            "author": "Adam Harangozó",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trebevi%C4%87_Cable_Car_in_Sarajevo_02.jpg"
+          }
         },
         "content": {
           "context": "Нижняя станция канатки - практическая развилка маршрута. Если график, очередь или погода не подходят, лучше решить это здесь, а не наверху; поездка короткая, но она задает весь полудневный план.",
@@ -1060,6 +1177,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "sarajevo-vrelo-bosne",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-square.jpg",
+          "alt": "Clear water and trees in Vrelo Bosne park",
+          "attribution": {
+            "author": "BiHVolim",
+            "license": "CC BY-SA 4.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne,_Sarajevo_park.JPG"
+          }
+        },
         "content": {
           "context": "Vrelo Bosne - зеленый участок у источников реки Босны. После длинной аллеи здесь важно не торопиться: вода, мостики и деревья дают другой образ Сараево, уже не базарный и не музейный.",
           "lookFor": "ручьи и деревянные мостики\nплотную зелень вокруг воды\nповороты дорожек у источников\nместа, где лучше просто остановиться",
@@ -1142,6 +1272,19 @@
               "weekday": 6
             }
           ]
+        },
+        "photo": {
+          "id": "sarajevo-tunnel",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/sarajevo/tunnel-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/sarajevo/tunnel-square.jpg",
+          "alt": "Tunnel entrance exhibit at Sarajevo Tunnel Museum",
+          "attribution": {
+            "author": "Fanny Schertzer",
+            "license": "CC BY-SA 3.0",
+            "retrievedAt": "2026-06-11",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunnel_entry_-_Sarajevo_Tunnel_Museum_(3).jpg"
+          }
         },
         "content": {
           "context": "Tunnel of Hope связан с осадой Сараево и расположен отдельно от парковой части Ilidža, рядом с аэропортом. Ставьте его финалом только с транспортом и запасом внимания: это музейный блок, а не продолжение прогулки у воды.",

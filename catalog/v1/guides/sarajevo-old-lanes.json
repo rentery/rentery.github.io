@@ -187,6 +187,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-war-childhood",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/war-childhood-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/war-childhood-square.jpg",
+        "alt": "War Childhood Museum exterior in Sarajevo",
+        "attribution": {
+          "author": "Hibasi",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:War_Childhood_Museum_Sarajevo.jpg"
+        }
+      },
       "content": {
         "context": "War Childhood Museum строится вокруг предметов и свидетельств детства во время войны. Это небольшой по размеру, но эмоционально плотный музей; ставьте его отдельным блоком, а не быстрым заходом между витринами.",
         "lookFor": "предметы с личными историями\nкороткие подписи вместо большого шума\nкак обычные вещи меняют смысл\nсобственное состояние после залов",
@@ -208,6 +221,19 @@
       "coordinates": {
         "latitude": 43.8592918,
         "longitude": 18.4253936
+      },
+      "photo": {
+        "id": "sarajevo-cathedral",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cathedral-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cathedral-square.jpg",
+        "alt": "Sacred Heart Cathedral facade in Sarajevo",
+        "attribution": {
+          "author": "Bjoertvedt",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Sacred_Heart_Cathedral_IMG_1235.jpg"
+        }
       },
       "content": {
         "context": "Собор Сердца Иисуса завершает маршрут на более открытой городской площади. После узких улиц и музея здесь легче собрать впечатления и увидеть, как католический, османский и торговый слои центра стоят рядом.",

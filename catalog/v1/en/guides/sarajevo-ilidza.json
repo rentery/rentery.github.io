@@ -109,6 +109,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-vrelo-bosne",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-square.jpg",
+        "alt": "Clear water and trees in Vrelo Bosne park",
+        "attribution": {
+          "author": "BiHVolim",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne,_Sarajevo_park.JPG"
+        }
+      },
       "content": {
         "context": "Vrelo Bosne is the green area around the sources of the Bosna River. After the long avenue, do not rush it: water, small bridges, and trees show a Sarajevo that is neither bazaar-focused nor museum-focused.",
         "lookFor": "Streams and wooden bridges\nDense greenery around the water\nPath turns near the springs\nPlaces where it is better just to pause",
@@ -191,6 +204,19 @@
             "weekday": 6
           }
         ]
+      },
+      "photo": {
+        "id": "sarajevo-tunnel",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/tunnel-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/tunnel-square.jpg",
+        "alt": "Tunnel entrance exhibit at Sarajevo Tunnel Museum",
+        "attribution": {
+          "author": "Fanny Schertzer",
+          "license": "CC BY-SA 3.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunnel_entry_-_Sarajevo_Tunnel_Museum_(3).jpg"
+        }
       },
       "content": {
         "context": "Tunnel of Hope is connected with the siege of Sarajevo and sits separately from the Ilidza park section, near the airport. Make it the finish only with transport and attention left: this is a museum block, not a continuation of the water walk.",

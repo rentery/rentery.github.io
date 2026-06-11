@@ -48,6 +48,19 @@
         "latitude": 43.8588115,
         "longitude": 18.4218717
       },
+      "photo": {
+        "id": "sarajevo-eternal-flame",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/eternal-flame-square.jpg",
+        "alt": "Eternal Flame memorial in Sarajevo",
+        "attribution": {
+          "author": "Francisco Antunes from London, United Kingdom",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eternal_flame_Sarajevo.jpg"
+        }
+      },
       "content": {
         "context": "Eternal Flame stands on a busy street and commemorates the liberation of Sarajevo in World War II. It is a useful short beginning: city memory is built directly into the everyday flow of the center.",
         "lookFor": "The flame in the facade niche\nThe inscription on the wall\nPeople moving past the memorial\nThe contrast between memory and ordinary street life",

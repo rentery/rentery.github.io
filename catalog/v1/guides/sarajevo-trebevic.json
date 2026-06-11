@@ -88,6 +88,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-vijecnica",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/vijecnica-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/vijecnica-square.jpg",
+        "alt": "Sarajevo City Hall Vijecnica facade",
+        "attribution": {
+          "author": "Alen Djuderija Photography from Sarajevo, Bosnia and Herzegovina",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Hall_Vijecnica_(23242695334).jpg"
+        }
+      },
       "content": {
         "context": "Vijećnica удобна как старт Требевича: рядом река, старый город и подъем к Bistrik, где находится нижняя станция канатки. Здесь лучше сверить график и решить, идете ли внутрь или сразу к подъему.",
         "lookFor": "фасад ратуши у реки\nнаправление к Bistrik\nмосты рядом с Vijećnica\nвид на склон над городом",
@@ -148,6 +161,19 @@
             "closes": "19:00"
           }
         ]
+      },
+      "photo": {
+        "id": "sarajevo-cable-car",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cable-car-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cable-car-square.jpg",
+        "alt": "Trebevic cable car above Sarajevo hills",
+        "attribution": {
+          "author": "Adam Harangozó",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trebevi%C4%87_Cable_Car_in_Sarajevo_02.jpg"
+        }
       },
       "content": {
         "context": "Нижняя станция канатки - практическая развилка маршрута. Если график, очередь или погода не подходят, лучше решить это здесь, а не наверху; поездка короткая, но она задает весь полудневный план.",

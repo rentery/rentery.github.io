@@ -187,6 +187,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-war-childhood",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/war-childhood-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/war-childhood-square.jpg",
+        "alt": "War Childhood Museum exterior in Sarajevo",
+        "attribution": {
+          "author": "Hibasi",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:War_Childhood_Museum_Sarajevo.jpg"
+        }
+      },
       "content": {
         "context": "War Childhood Museum is built around objects and testimonies from childhood during war. It is small in footprint but emotionally dense, so treat it as its own block rather than a quick stop between shop windows.",
         "lookFor": "Objects with personal stories\nShort labels instead of spectacle\nHow ordinary things change meaning\nYour own state after the galleries",
@@ -208,6 +221,19 @@
       "coordinates": {
         "latitude": 43.8592918,
         "longitude": 18.4253936
+      },
+      "photo": {
+        "id": "sarajevo-cathedral",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/cathedral-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/cathedral-square.jpg",
+        "alt": "Sacred Heart Cathedral facade in Sarajevo",
+        "attribution": {
+          "author": "Bjoertvedt",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_Sacred_Heart_Cathedral_IMG_1235.jpg"
+        }
       },
       "content": {
         "context": "Sacred Heart Cathedral finishes the route on a more open city square. After narrow lanes and the museum, it is easier here to gather impressions and see Catholic, Ottoman, and trading layers standing close together.",

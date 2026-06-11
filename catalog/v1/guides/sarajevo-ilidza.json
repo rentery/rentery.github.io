@@ -109,6 +109,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-vrelo-bosne",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/vrelo-bosne-square.jpg",
+        "alt": "Clear water and trees in Vrelo Bosne park",
+        "attribution": {
+          "author": "BiHVolim",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrelo_Bosne,_Sarajevo_park.JPG"
+        }
+      },
       "content": {
         "context": "Vrelo Bosne - зеленый участок у источников реки Босны. После длинной аллеи здесь важно не торопиться: вода, мостики и деревья дают другой образ Сараево, уже не базарный и не музейный.",
         "lookFor": "ручьи и деревянные мостики\nплотную зелень вокруг воды\nповороты дорожек у источников\nместа, где лучше просто остановиться",
@@ -191,6 +204,19 @@
             "weekday": 6
           }
         ]
+      },
+      "photo": {
+        "id": "sarajevo-tunnel",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/tunnel-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/tunnel-square.jpg",
+        "alt": "Tunnel entrance exhibit at Sarajevo Tunnel Museum",
+        "attribution": {
+          "author": "Fanny Schertzer",
+          "license": "CC BY-SA 3.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunnel_entry_-_Sarajevo_Tunnel_Museum_(3).jpg"
+        }
       },
       "content": {
         "context": "Tunnel of Hope связан с осадой Сараево и расположен отдельно от парковой части Ilidža, рядом с аэропортом. Ставьте его финалом только с транспортом и запасом внимания: это музейный блок, а не продолжение прогулки у воды.",

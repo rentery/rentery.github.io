@@ -48,6 +48,19 @@
         "latitude": 43.8597205,
         "longitude": 18.4312587
       },
+      "photo": {
+        "id": "sarajevo-sebilj",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/sebilj-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/sebilj-square.jpg",
+        "alt": "Sebilj fountain on Bascarsija square in Sarajevo",
+        "attribution": {
+          "author": "Aždaja",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba%C5%A1%C4%8Dar%C5%A1ija-Sebilj_2017.jpg"
+        }
+      },
       "content": {
         "context": "Sebilj is the easiest first marker: a small wooden fountain on a square where visitors, local meetings, and entries into Bascarsija overlap. From here it is simple to see how the old market spreads into short lanes.",
         "lookFor": "The wooden fountain form\nPeople moving toward the trading lanes\nThe square as a meeting place\nOld-bazaar rooflines around you",
@@ -200,6 +213,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "sarajevo-gazi-mosque",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/gazi-mosque-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/gazi-mosque-square.jpg",
+        "alt": "Gazi Husrev-beg Mosque courtyard in Sarajevo",
+        "attribution": {
+          "author": "Adam Harangozó",
+          "license": "CC BY-SA 4.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gazi_Husrev-beg_Mosque_in_Sarajevo.jpg"
+        }
+      },
       "content": {
         "context": "The Gazi Husrev-beg complex stands in the heart of the old city. Even a short visit to the courtyard shows that central Sarajevo rests not only on trade, but also on the mosque, madrasa, library, and daily habits around them.",
         "lookFor": "The mosque proportions inside the courtyard\nThe ablution fountain\nThe clock tower nearby\nA quieter mood after the bazaar lanes",
@@ -221,6 +247,19 @@
       "coordinates": {
         "latitude": 43.8576525,
         "longitude": 18.42901
+      },
+      "photo": {
+        "id": "sarajevo-latin-bridge",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/latin-bridge-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/latin-bridge-square.jpg",
+        "alt": "Latin Bridge over the Miljacka in Sarajevo",
+        "attribution": {
+          "author": "Dudva",
+          "license": "CC0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latin_Bridge_in_Sarajevo_(06.2025).jpg"
+        }
       },
       "content": {
         "context": "Latin Bridge is best handled briefly and carefully. It is not a place for a long lecture in the flow of pedestrians: the river, stone bridge, and nearby museum link the compact center with early twentieth-century events.",
@@ -282,6 +321,19 @@
             "weekday": 6
           }
         ]
+      },
+      "photo": {
+        "id": "sarajevo-vijecnica",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sarajevo/vijecnica-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sarajevo/vijecnica-square.jpg",
+        "alt": "Sarajevo City Hall Vijecnica facade",
+        "attribution": {
+          "author": "Alen Djuderija Photography from Sarajevo, Bosnia and Herzegovina",
+          "license": "CC BY 2.0",
+          "retrievedAt": "2026-06-11",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Hall_Vijecnica_(23242695334).jpg"
+        }
       },
       "content": {
         "context": "Vijecnica gives a bright finish by the Miljacka: the former city hall and library returned to Sarajevo city routes after a long restoration. Outside, scale and color matter; inside, the stairs, hall, and exhibition mode define the visit.",
