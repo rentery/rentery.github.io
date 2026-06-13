@@ -270,8 +270,8 @@
       "category": "Neighborhood",
       "title": "Skadarlija And Dorcol",
       "subtitle": "Bajloni / Cetinjska / Danube",
-      "blurb": "An evening move from market and cobbles into Dorcol courtyards and the Danube edge.",
-      "mood": "Market, courtyard, old street, river",
+      "blurb": "From evening Bajloni Market through Skadarlija and a former brewery yard to quieter Dorcol and the Danube.",
+      "mood": "Evening market, cobbles, courtyards, river",
       "accent": "#8E5A46",
       "soft": "#EFE0D8",
       "deep": "#5A382F",
@@ -284,7 +284,7 @@
       "kids": false,
       "microcopy": {
         "kicker": "Neighborhood evening",
-        "line": "From market and kafanas to quiet streets and the Danube."
+        "line": "Do not hunt for the best kafana. Watch the neighborhood change rhythm."
       },
       "cover": {
         "id": "belgrade-skadarlija",
@@ -300,8 +300,8 @@
         }
       },
       "content": {
-        "intro": "This walk shows Belgrade through a shift in neighborhood rhythm, not through a restaurant ranking. Bajloni Market and cobbled Skadarlija give you the familiar old-center scene, then a former brewery yard and Dorcol streets move the route into a more everyday layer.\n\nStart in early evening: the market still reads as a trading place, Skadarlija is preparing for dinner, and you can reach the Danube without rushing. Courtyards, the mosque, and the old house on Dusanova are exterior stops; the planned interior is the Museum of Vuk and Dositej, if it is open.",
-        "routeLogic": "Start at Bajloni Market before it fully closes.\nRead Skadarska as a short urban scene, not a restaurant choice.\nTurn into Cetinjska 15 for the former industrial courtyard.\nUse Gospodar Jevremova and the museum to move into Dorcol history.\nFinish at Dorcol Quay, where the neighborhood opens to the Danube.",
+        "intro": "Belgrade is often explained through the fortress, formal streets, and restaurant lists. This walk uses a different entrance: start at the market as the day is being packed away, pass through cobbled Skadarlija, and move into Dorcol, where the tourist scene slowly becomes a lived-in neighborhood.\n\nThe route does not choose a kafana for you or promise a perfect evening postcard. It follows a change in rhythm: covered stalls, signs, the brick yard of a former brewery, a museum house, a minaret, an old facade on Dusanova, and finally the open Danube. Start in early evening, while the market still reads as a market and the river finish can stay unhurried.",
+        "routeLogic": "First let the neighborhood show its working side: Bajloni Market matters more than dinner because it explains what Skadarlija was before the evening postcard.\n\nThen keep Skadarska short, without turning it into a restaurant quest, and step into Cetinjska 15. Within minutes, cobbles give way to brick, former industrial space, and a courtyard where the city changes register.\n\nAfter that, Gospodar Jevremova leads into quieter Dorcol: the museum, mosque, old house, and quay make the area feel less like a checklist and more like a slow movement toward the river.",
         "bestFor": "an evening without long transfers\na neighborhood walk\nmarket and old streets\nDorcol after a first day",
         "notFor": "bar hopping\na food-only route\nrain on cobbles\na fully step-free route",
         "beforeYouGo": "Reach the market before 18:30 if you want open stalls.\nCheck the Museum of Vuk and Dositej hours.\nTreat the mosque and private buildings as respectful exterior stops.\nKeep a weather layer for the river.",
@@ -313,7 +313,7 @@
           "entry": "free",
           "name": "Bajloni Market",
           "nameLocal": "Пијаца Скадарлија",
-          "note": "Start between market and old Skadarlija",
+          "note": "A covered market as daytime Belgrade packs away its stalls",
           "time": "15 min",
           "walk": "2 min",
           "coordinates": {
@@ -361,7 +361,7 @@
             ]
           },
           "content": {
-            "context": "Begin by the market on Dzordza Vasingtona: the covered rows and Skadarlija sign show that this neighborhood is not only about evening kafanas. The old Bajloni name remains in use, while the official market name is Skadarlija.",
+            "context": "Stand by the entrance from Dzordza Vasingtona. This is not restaurant Skadarlija yet, but its working side: covered aisles, metal gates, the market sign, and rows that gradually empty toward evening.\n\nThe old Bajloni name still feels more natural than the official Skadarlija name. For the walk, that makes a useful beginning: the city first shows a place of trade, then lets you enter its bohemian postcard.",
             "lookFor": "Covered aisles and metal gates\nThe Skadarlija market sign\nThe turn toward the cobbled street\nMarket rows beside restaurant Skadarlija",
             "practical": "The market usually runs from 06:00 to 19:00.\nHoliday schedules can differ.\nKeep dinars for small purchases.\nBy evening, some stalls will already be closed.",
             "nextMove": "Step toward Skadarska Street; within a couple of minutes the market gives way to cobbles, signs, and a more theatrical light.",
@@ -380,7 +380,7 @@
           "entry": "free",
           "name": "Skadarska Street",
           "nameLocal": "Скадарска",
-          "note": "The cobbled scene of the bohemian quarter",
+          "note": "Cobbles, signs, and residential doors behind the bohemian story",
           "time": "20 min",
           "walk": "3 min",
           "coordinates": {
@@ -401,7 +401,7 @@
             }
           },
           "content": {
-            "context": "On Skadarska it is easy to get stuck choosing a restaurant, but the walk is about the street itself: cobbles, low facades, signs, and residential doors between venues. This is where the bohemian story still sits on ordinary urban fabric.",
+            "context": "Skadarska turns on the stage immediately: cobbles, low facades, kafana signs, and the evening setup for dinner. But do not give the street all your attention as a restaurant corridor.\n\nLook at it sideways: older windows, short passages, and residential doors between venues. The bohemian story here rests not only on music and menus, but on ordinary urban fabric still showing through the set dressing.",
             "lookFor": "The cobbles underfoot\nSmall facades and older windows\nKafana signs along the street\nThe house and monument of Djura Jaksic",
             "practical": "Cobbles are rough on thin soles.\nEvenings are busier and louder.\nBook restaurants separately; this walk does not choose one for you.",
             "nextMove": "Turn toward Cetinjska 15; the tourist street quickly changes into the courtyard of a former brewery.",
@@ -420,7 +420,7 @@
           "entry": "local",
           "name": "Cetinjska 15",
           "nameLocal": "Цетињска 15",
-          "note": "A former brewery as cultural courtyard",
+          "note": "A brick former brewery yard two minutes from the tourist scene",
           "time": "20 min",
           "walk": "5 min",
           "coordinates": {
@@ -428,7 +428,7 @@
             "longitude": 20.4653978
           },
           "content": {
-            "context": "In the courtyard of Cetinjska 15, the change of eras is visible without much explanation: brick, an archway, traces of industrial scale, and newer signs share the same space. It is not a museum, but a working urban courtyard where a brewery site became a place for bars, galleries, and events.",
+            "context": "Pass under the arch and Skadarlija almost lets go at once. Instead of the cobbled stage, you get brick, a courtyard between buildings, traces of industrial scale, and newer signs that do not pretend to be older than they are.\n\nCetinjska 15 is not a museum; it is a city courtyard after a change of use. The former brewery area now holds bars, galleries, and events, but the main interest is the spatial turn itself.",
             "lookFor": "The brick entrance arch\nThe courtyard between buildings\nIndustrial scale in the old structures\nThe tower and cultural-space signs",
             "practical": "You can pass through the courtyard freely.\nVenues and exhibitions keep their own schedules.\nDo not enter closed parts of the complex.\nIt can get busier in the evening.",
             "nextMove": "Return to the street and continue toward Gospodar Jevremova; the walk now becomes quieter and more residential.",
@@ -447,7 +447,7 @@
           "entry": "free",
           "name": "Gospodar Jevremova",
           "nameLocal": "Господар Јевремова",
-          "note": "A quiet street between Dorcol layers",
+          "note": "A street where Dorcol gathers museum, mosque, and homes",
           "time": "10 min",
           "walk": "2 min",
           "coordinates": {
@@ -455,7 +455,7 @@
             "longitude": 20.4587632
           },
           "content": {
-            "context": "On Gospodar Jevremova, the route drops the restaurant noise. Residential facades, a museum, a mosque, and old Dorcol street lines sit close together. Walk slowly: the stop is not about one building, but about how several eras fit into a short stretch.",
+            "context": "On Gospodar Jevremova, the route finally drops the restaurant noise. Do not look for one headline facade: the point is that residential entrances, a museum address, the direction of the mosque, and old Dorcol street lines sit close together.\n\nWalk slowly. After Skadarlija, this street can feel like a pause, but this is where the neighborhood stops being evening entertainment and becomes a place where several eras live tightly side by side.",
             "lookFor": "Changing facades in a short distance\nNarrow sidewalks and residential entrances\nThe Museum of Vuk and Dositej sign ahead\nThe direction toward Bajrakli Mosque",
             "practical": "Sidewalks are narrow in places.\nCross only where visibility is clear.\nDo not linger in private entrances.",
             "nextMove": "In a couple of houses you reach the low building of the Museum of Vuk and Dositej, where the street story gains a precise museum address.",
@@ -474,7 +474,7 @@
           "entry": "ticket",
           "name": "Museum of Vuk and Dositej",
           "nameLocal": "Музеј Вука и Доситеја",
-          "note": "The Great School house and museum pause",
+          "note": "A low house where the city remembers its first great school",
           "time": "35 min",
           "walk": "2 min",
           "coordinates": {
@@ -517,7 +517,7 @@
             ]
           },
           "content": {
-            "context": "Stand where you can see the low facade and wooden bay. This building matters less for size than for use: the Great School opened here in 1808, and the museum now tells the story of Dositej Obradovic and Vuk Karadzic.",
+            "context": "Stand where you can see the low facade and wooden bay. The house does not impress by size, and that is part of its force: after the market, kafanas, and brewery yard, Dorcol suddenly speaks through school, books, and language.\n\nThe Great School opened here in 1808. Today the museum tells the story of Dositej Obradovic and Vuk Karadzic, but even from outside the building works as a pause: an old house holding the memory of a city learning to become modern.",
             "lookFor": "The wooden bay above the entrance\nThe small courtyard in front\nThe museum sign and hours\nThe small scale beside later facades",
             "practical": "Closed on Mondays.\nTuesday, Wednesday, Friday, and Sunday 10:00-18:00.\nThursday and Saturday 12:00-20:00.\nThe museum lists an individual ticket at 200 RSD.",
             "nextMove": "After the museum, turn toward Bajrakli Mosque; the minaret is very close, but the space asks for a calmer pace.",
@@ -536,7 +536,7 @@
           "entry": "respectful",
           "name": "Bajrakli Mosque",
           "nameLocal": "Бајракли џамија",
-          "note": "The citys only active mosque",
+          "note": "A minaret and small courtyard inside present-day Dorcol",
           "time": "10 min",
           "walk": "5 min",
           "coordinates": {
@@ -544,7 +544,7 @@
             "longitude": 20.4573495
           },
           "content": {
-            "context": "Stop outside Bajrakli Mosque and look at the simple shape: rectangular volume, arched windows, and the minaret. The modest scale matters because this is one of the rare surviving Islamic layers in Belgrade.",
+            "context": "Outside Bajrakli Mosque, do not rush the stop into a map tick. Look from the street at the simple form: rectangular volume, arched windows, fence, and minaret.\n\nThe scale is modest, and that is why the place reads clearly. Inside residential Dorcol, an Islamic layer of Belgrade remains not as a museum set, but as an active religious site that needs space and respect.",
             "lookFor": "The minaret from the street\nArched windows and stone fence\nThe small courtyard in front\nThe mosque beside residential Dorcol",
             "practical": "This is an active religious site.\nEntry is not always possible and depends on prayer times.\nDress modestly and do not photograph inside without permission.",
             "nextMove": "Continue toward Cara Dusana Street; the next stop reads Dorcol through the scale of an old residential house.",
@@ -563,7 +563,7 @@
           "entry": "exterior",
           "name": "House On Dusanova",
           "nameLocal": "Цара Душана 10",
-          "note": "A small 18th-century facade among newer homes",
+          "note": "A small 18th-century facade among the later city",
           "time": "10 min",
           "walk": "8 min",
           "coordinates": {
@@ -571,7 +571,7 @@
             "longitude": 20.4568846
           },
           "content": {
-            "context": "At 10 Cara Dusana, the main thing is scale. The small facade looks almost fragile beside later buildings, and that contrast explains Dorcol better than a legend: the old city layer did not vanish, but it became point-like.",
+            "context": "At 10 Cara Dusana, do not expect a large effect. Read it through scale: a low volume, stone window frames, the roof, and neighboring later facades.\n\nThat contrast explains Dorcol better than any legend. The old city layer did not fully disappear, but it became point-like: the small house no longer governs the street, yet it reminds you how different the measure once was.",
             "lookFor": "The low volume of the house\nStone window frames\nThe pitched roof\nIts neighbors with taller facades",
             "practical": "View only from the street.\nDo not enter private doorways.\nThis is a short stop, useful before the move toward the river.",
             "nextMove": "Continue down toward the sports center; the street gradually moves the route out of old Dorcol and toward the open riverbank.",
@@ -590,7 +590,7 @@
           "entry": "local",
           "name": "Sports Center And Quay",
           "nameLocal": "СРПЦ „25. мај” / Дорћолски кеј",
-          "note": "A Danube finish in open air",
+          "note": "Open water after the dense streets of the neighborhood",
           "time": "30 min",
           "walk": "-",
           "coordinates": {
@@ -598,7 +598,7 @@
             "longitude": 20.4540393
           },
           "content": {
-            "context": "The route finishes at the Danube through the Milan Gale Muskatirovic sports center and Dorcol Quay. After narrow streets, the scale changes: a concrete complex, riverside path, and open horizon give the neighborhood another side.",
+            "context": "The route reaches the Danube almost matter-of-factly: through the sports center, paths, and the open edge of the neighborhood. After narrow streets and short facades, the scale changes sharply.\n\nDo not look only at the water. The transition itself matters: Dorcol stops being a sequence of houses and courtyards and opens as a riverbank. The sports-center volume, quay path, and horizon toward the island give the walk its wider finish.",
             "lookFor": "The sports-center volume by the water\nThe path along the quay\nThe direction toward Great War Island\nHow dense Dorcol opens to the river",
             "practical": "The quay is public open space.\nPools and sports facilities follow their own seasonal rules.\nIt may feel cooler by the water than inside the neighborhood.",
             "nextMove": "End the walk on the quay. From here you can continue along the Danube or climb back toward transport into the center.",
@@ -1683,7 +1683,7 @@
       "entry": "free",
       "name": "Bajloni Market",
       "nameLocal": "Пијаца Скадарлија",
-      "note": "Start between market and old Skadarlija",
+      "note": "A covered market as daytime Belgrade packs away its stalls",
       "time": "15 min",
       "walk": "2 min",
       "coordinates": {
@@ -1731,7 +1731,7 @@
         ]
       },
       "content": {
-        "context": "Begin by the market on Dzordza Vasingtona: the covered rows and Skadarlija sign show that this neighborhood is not only about evening kafanas. The old Bajloni name remains in use, while the official market name is Skadarlija.",
+        "context": "Stand by the entrance from Dzordza Vasingtona. This is not restaurant Skadarlija yet, but its working side: covered aisles, metal gates, the market sign, and rows that gradually empty toward evening.\n\nThe old Bajloni name still feels more natural than the official Skadarlija name. For the walk, that makes a useful beginning: the city first shows a place of trade, then lets you enter its bohemian postcard.",
         "lookFor": "Covered aisles and metal gates\nThe Skadarlija market sign\nThe turn toward the cobbled street\nMarket rows beside restaurant Skadarlija",
         "practical": "The market usually runs from 06:00 to 19:00.\nHoliday schedules can differ.\nKeep dinars for small purchases.\nBy evening, some stalls will already be closed.",
         "nextMove": "Step toward Skadarska Street; within a couple of minutes the market gives way to cobbles, signs, and a more theatrical light.",
@@ -1750,7 +1750,7 @@
       "entry": "free",
       "name": "Skadarska Street",
       "nameLocal": "Скадарска",
-      "note": "The cobbled scene of the bohemian quarter",
+      "note": "Cobbles, signs, and residential doors behind the bohemian story",
       "time": "20 min",
       "walk": "3 min",
       "coordinates": {
@@ -1771,7 +1771,7 @@
         }
       },
       "content": {
-        "context": "On Skadarska it is easy to get stuck choosing a restaurant, but the walk is about the street itself: cobbles, low facades, signs, and residential doors between venues. This is where the bohemian story still sits on ordinary urban fabric.",
+        "context": "Skadarska turns on the stage immediately: cobbles, low facades, kafana signs, and the evening setup for dinner. But do not give the street all your attention as a restaurant corridor.\n\nLook at it sideways: older windows, short passages, and residential doors between venues. The bohemian story here rests not only on music and menus, but on ordinary urban fabric still showing through the set dressing.",
         "lookFor": "The cobbles underfoot\nSmall facades and older windows\nKafana signs along the street\nThe house and monument of Djura Jaksic",
         "practical": "Cobbles are rough on thin soles.\nEvenings are busier and louder.\nBook restaurants separately; this walk does not choose one for you.",
         "nextMove": "Turn toward Cetinjska 15; the tourist street quickly changes into the courtyard of a former brewery.",
@@ -1790,7 +1790,7 @@
       "entry": "local",
       "name": "Cetinjska 15",
       "nameLocal": "Цетињска 15",
-      "note": "A former brewery as cultural courtyard",
+      "note": "A brick former brewery yard two minutes from the tourist scene",
       "time": "20 min",
       "walk": "5 min",
       "coordinates": {
@@ -1798,7 +1798,7 @@
         "longitude": 20.4653978
       },
       "content": {
-        "context": "In the courtyard of Cetinjska 15, the change of eras is visible without much explanation: brick, an archway, traces of industrial scale, and newer signs share the same space. It is not a museum, but a working urban courtyard where a brewery site became a place for bars, galleries, and events.",
+        "context": "Pass under the arch and Skadarlija almost lets go at once. Instead of the cobbled stage, you get brick, a courtyard between buildings, traces of industrial scale, and newer signs that do not pretend to be older than they are.\n\nCetinjska 15 is not a museum; it is a city courtyard after a change of use. The former brewery area now holds bars, galleries, and events, but the main interest is the spatial turn itself.",
         "lookFor": "The brick entrance arch\nThe courtyard between buildings\nIndustrial scale in the old structures\nThe tower and cultural-space signs",
         "practical": "You can pass through the courtyard freely.\nVenues and exhibitions keep their own schedules.\nDo not enter closed parts of the complex.\nIt can get busier in the evening.",
         "nextMove": "Return to the street and continue toward Gospodar Jevremova; the walk now becomes quieter and more residential.",
@@ -1817,7 +1817,7 @@
       "entry": "free",
       "name": "Gospodar Jevremova",
       "nameLocal": "Господар Јевремова",
-      "note": "A quiet street between Dorcol layers",
+      "note": "A street where Dorcol gathers museum, mosque, and homes",
       "time": "10 min",
       "walk": "2 min",
       "coordinates": {
@@ -1825,7 +1825,7 @@
         "longitude": 20.4587632
       },
       "content": {
-        "context": "On Gospodar Jevremova, the route drops the restaurant noise. Residential facades, a museum, a mosque, and old Dorcol street lines sit close together. Walk slowly: the stop is not about one building, but about how several eras fit into a short stretch.",
+        "context": "On Gospodar Jevremova, the route finally drops the restaurant noise. Do not look for one headline facade: the point is that residential entrances, a museum address, the direction of the mosque, and old Dorcol street lines sit close together.\n\nWalk slowly. After Skadarlija, this street can feel like a pause, but this is where the neighborhood stops being evening entertainment and becomes a place where several eras live tightly side by side.",
         "lookFor": "Changing facades in a short distance\nNarrow sidewalks and residential entrances\nThe Museum of Vuk and Dositej sign ahead\nThe direction toward Bajrakli Mosque",
         "practical": "Sidewalks are narrow in places.\nCross only where visibility is clear.\nDo not linger in private entrances.",
         "nextMove": "In a couple of houses you reach the low building of the Museum of Vuk and Dositej, where the street story gains a precise museum address.",
@@ -1844,7 +1844,7 @@
       "entry": "ticket",
       "name": "Museum of Vuk and Dositej",
       "nameLocal": "Музеј Вука и Доситеја",
-      "note": "The Great School house and museum pause",
+      "note": "A low house where the city remembers its first great school",
       "time": "35 min",
       "walk": "2 min",
       "coordinates": {
@@ -1887,7 +1887,7 @@
         ]
       },
       "content": {
-        "context": "Stand where you can see the low facade and wooden bay. This building matters less for size than for use: the Great School opened here in 1808, and the museum now tells the story of Dositej Obradovic and Vuk Karadzic.",
+        "context": "Stand where you can see the low facade and wooden bay. The house does not impress by size, and that is part of its force: after the market, kafanas, and brewery yard, Dorcol suddenly speaks through school, books, and language.\n\nThe Great School opened here in 1808. Today the museum tells the story of Dositej Obradovic and Vuk Karadzic, but even from outside the building works as a pause: an old house holding the memory of a city learning to become modern.",
         "lookFor": "The wooden bay above the entrance\nThe small courtyard in front\nThe museum sign and hours\nThe small scale beside later facades",
         "practical": "Closed on Mondays.\nTuesday, Wednesday, Friday, and Sunday 10:00-18:00.\nThursday and Saturday 12:00-20:00.\nThe museum lists an individual ticket at 200 RSD.",
         "nextMove": "After the museum, turn toward Bajrakli Mosque; the minaret is very close, but the space asks for a calmer pace.",
@@ -1906,7 +1906,7 @@
       "entry": "respectful",
       "name": "Bajrakli Mosque",
       "nameLocal": "Бајракли џамија",
-      "note": "The citys only active mosque",
+      "note": "A minaret and small courtyard inside present-day Dorcol",
       "time": "10 min",
       "walk": "5 min",
       "coordinates": {
@@ -1914,7 +1914,7 @@
         "longitude": 20.4573495
       },
       "content": {
-        "context": "Stop outside Bajrakli Mosque and look at the simple shape: rectangular volume, arched windows, and the minaret. The modest scale matters because this is one of the rare surviving Islamic layers in Belgrade.",
+        "context": "Outside Bajrakli Mosque, do not rush the stop into a map tick. Look from the street at the simple form: rectangular volume, arched windows, fence, and minaret.\n\nThe scale is modest, and that is why the place reads clearly. Inside residential Dorcol, an Islamic layer of Belgrade remains not as a museum set, but as an active religious site that needs space and respect.",
         "lookFor": "The minaret from the street\nArched windows and stone fence\nThe small courtyard in front\nThe mosque beside residential Dorcol",
         "practical": "This is an active religious site.\nEntry is not always possible and depends on prayer times.\nDress modestly and do not photograph inside without permission.",
         "nextMove": "Continue toward Cara Dusana Street; the next stop reads Dorcol through the scale of an old residential house.",
@@ -1933,7 +1933,7 @@
       "entry": "exterior",
       "name": "House On Dusanova",
       "nameLocal": "Цара Душана 10",
-      "note": "A small 18th-century facade among newer homes",
+      "note": "A small 18th-century facade among the later city",
       "time": "10 min",
       "walk": "8 min",
       "coordinates": {
@@ -1941,7 +1941,7 @@
         "longitude": 20.4568846
       },
       "content": {
-        "context": "At 10 Cara Dusana, the main thing is scale. The small facade looks almost fragile beside later buildings, and that contrast explains Dorcol better than a legend: the old city layer did not vanish, but it became point-like.",
+        "context": "At 10 Cara Dusana, do not expect a large effect. Read it through scale: a low volume, stone window frames, the roof, and neighboring later facades.\n\nThat contrast explains Dorcol better than any legend. The old city layer did not fully disappear, but it became point-like: the small house no longer governs the street, yet it reminds you how different the measure once was.",
         "lookFor": "The low volume of the house\nStone window frames\nThe pitched roof\nIts neighbors with taller facades",
         "practical": "View only from the street.\nDo not enter private doorways.\nThis is a short stop, useful before the move toward the river.",
         "nextMove": "Continue down toward the sports center; the street gradually moves the route out of old Dorcol and toward the open riverbank.",
@@ -1960,7 +1960,7 @@
       "entry": "local",
       "name": "Sports Center And Quay",
       "nameLocal": "СРПЦ „25. мај” / Дорћолски кеј",
-      "note": "A Danube finish in open air",
+      "note": "Open water after the dense streets of the neighborhood",
       "time": "30 min",
       "walk": "-",
       "coordinates": {
@@ -1968,7 +1968,7 @@
         "longitude": 20.4540393
       },
       "content": {
-        "context": "The route finishes at the Danube through the Milan Gale Muskatirovic sports center and Dorcol Quay. After narrow streets, the scale changes: a concrete complex, riverside path, and open horizon give the neighborhood another side.",
+        "context": "The route reaches the Danube almost matter-of-factly: through the sports center, paths, and the open edge of the neighborhood. After narrow streets and short facades, the scale changes sharply.\n\nDo not look only at the water. The transition itself matters: Dorcol stops being a sequence of houses and courtyards and opens as a riverbank. The sports-center volume, quay path, and horizon toward the island give the walk its wider finish.",
         "lookFor": "The sports-center volume by the water\nThe path along the quay\nThe direction toward Great War Island\nHow dense Dorcol opens to the river",
         "practical": "The quay is public open space.\nPools and sports facilities follow their own seasonal rules.\nIt may feel cooler by the water than inside the neighborhood.",
         "nextMove": "End the walk on the quay. From here you can continue along the Danube or climb back toward transport into the center.",
@@ -2684,5 +2684,5 @@
       "order": 5
     }
   ],
-  "packHash": "979b5efb0a0f"
+  "packHash": "be3bce6a2d57"
 }
