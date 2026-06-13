@@ -42,20 +42,6 @@
     "walkType": "modern_city"
   },
   {
-    "blurb": "Food, market, and evening streets as a way to see where the center turns local.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-skadarlija-dorcol-evening",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Skadarlija, Bajloni, Upper and Lower Dorcol",
-    "roughDuration": "2-3 hours",
-    "status": "coming_soon",
-    "subtitle": "Market, kafanas, quiet streets, and the move from tourist scene to local life.",
-    "title": "Skadarlija And Dorcol: Evening Without A Restaurant Ranking",
-    "walkType": "food_evening"
-  },
-  {
     "blurb": "A strong day trip from Belgrade: Novi Sad center, the Danube, and a fortress across the water.",
     "cityId": "belgrade",
     "dayTrip": true,

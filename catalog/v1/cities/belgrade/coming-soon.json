@@ -42,20 +42,6 @@
     "walkType": "modern_city"
   },
   {
-    "blurb": "Еда, рынок и вечерние улицы как способ увидеть, где центр становится местным.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-skadarlija-dorcol-evening",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Скадарлия, Байлони, Верхний и Нижний Дорчол",
-    "roughDuration": "2–3 часа",
-    "status": "coming_soon",
-    "subtitle": "Рынок, кафаны, тихие улицы и переход от туристической сцены к местной жизни.",
-    "title": "Скадарлия и Дорчол: вечер без ресторанного рейтинга",
-    "walkType": "food_evening"
-  },
-  {
     "blurb": "Сильный выезд из Белграда: мягкий центр Нови-Сада, Дунай и крепость на другом берегу.",
     "cityId": "belgrade",
     "dayTrip": true,
