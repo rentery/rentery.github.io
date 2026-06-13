@@ -570,182 +570,329 @@
     ]
   },
   {
-    "id": "belgrade-fortress-rivers",
+    "id": "belgrade-fortress-rivers-first-city",
     "cityId": "belgrade",
-    "category": "Fortress",
-    "title": "Kalemegdan Rivers",
-    "subtitle": "Upper Town / Sava",
-    "blurb": "Fortress gates, river-confluence views, and a descent toward the Sava.",
-    "mood": "Scenic, historic, on foot",
+    "category": "History",
+    "title": "Fortress, Rivers, First Belgrade",
+    "subtitle": "From the center to Kalemegdan and the Sava-Danube confluence.",
+    "blurb": "This walk reads Belgrade as one line: a civic square, a pedestrian ridge, the fortress edge, and the two rivers that explain why the city grew here.",
+    "mood": "wind on the ramparts, warm stone, a city above water",
     "accent": "#7A5C3D",
     "soft": "#EAE2D3",
     "deep": "#54402D",
     "ink": "#463728",
     "motif": "ridge",
-    "duration": "Half-day",
-    "stops": 5,
-    "distance": "3.4 km",
+    "duration": "2 hr 30 min",
+    "stops": 7,
+    "distance": "3.8 km",
     "pace": "half",
-    "kids": true,
+    "kids": false,
     "microcopy": {
-      "kicker": "Main view",
-      "line": "Fortress, park, and rivers in one pace."
+      "kicker": "First Belgrade walk",
+      "line": "First the square, then the ridge, then the edge above two rivers."
     },
     "cover": {
-      "id": "belgrade-belgrade-fortress",
+      "id": "belgrade-fortress-rivers-first-city-stop-5",
       "kind": "photo",
-      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
-      "alt": "Стены Верхнего города Белградской крепости",
+      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-square.jpg",
+      "alt": "Силуэт Победника на вершине крепости.",
       "attribution": {
-        "author": "Алексей Белобородов",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
-        "retrievedAt": "2026-06-11"
+        "author": "Sasa Micic",
+        "license": "CC BY-SA 3.0; cropped/resized for app",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pobednik_Beograda.JPG",
+        "retrievedAt": "2026-06-13"
       }
     },
     "content": {
-      "intro": "Kalemegdan works best as both park and fortress. The gates give a historic entrance, the Upper Town holds the overview, and the terraces near the Victor open the main views toward the Sava and Danube. There is no single ticket for the whole outdoor area, but separate interior sites may keep their own schedules.\n\nGo in dry weather and avoid packing too many fortress museums into the walk. The main value is outside: walls, height changes, park shade, and the slow descent toward the water.",
-      "routeLogic": "Enter through the fortress gates instead of starting with the panorama.\nTreat the Upper Town as the historic core of the walk.\nUse the Roman Well as a nearby point, not as a guaranteed interior visit.\nLeave time for the Victor viewpoint.\nDescend to the Sava only if you still have energy.",
-      "bestFor": "river views\na walk with children\nhistory without a long museum\nlate-day light",
-      "notFor": "heavy rain or ice\na fully step-free route\ntravelers who dislike climbs",
-      "beforeYouGo": "Wear shoes for stone and packed ground.\nCheck separate interior sites before relying on them.\nBring water before entering the park in hot weather.",
-      "timing": "Late day gives the best light over the rivers, but with children it is easier to start earlier and keep the route shorter.",
-      "fallbackPlan": "If the weather turns, shorten the route to the gates, Upper Town, and the nearest viewpoint, then skip the descent to the Sava."
+      "intro": "Belgrade is easy to misread. If you begin only with the central square, it looks like an ordinary old center: monument, museum, pedestrian street, cafes. But the city did not begin as a square. It grew on a ridge above water, where the high edge of the plateau could watch two rivers at once.\n\nSo this walk is not ordered as a checklist. It asks how the place itself made Belgrade possible. First you see the present-day center, then the axis that pulls it toward the fortress, and finally the edge where relief, walls, and water become one city.",
+      "routeLogic": "The order matters. Republic Square shows modern Belgrade as a civic stage. Knez Mihailova turns that stage into a direction. Kosancicev venac reveals the drop toward the Sava. Sahat Gate moves the walk from street logic into fortress logic. The Victor gives the main geographic answer, the Lower Town returns the weight of stone and descent, and Nebojsa Tower finishes the route where the city met the river from below.",
+      "bestFor": "a first day in Belgrade\ntravelers who want to understand the city by terrain, not by a must-see list\nwalks where street, walls, and water make one story",
+      "notFor": "a nearly flat route\nheavy rain or strong heat without water\ntravelers who want a museum-only day without a long outdoor walk",
+      "beforeYouGo": "Go in dry weather: cobbles, ramparts, and descents can be slippery.\nOn the open fortress edges, wind and sun feel stronger than in the center; water and a light layer help even in summer.\nThe open spaces of Kalemegdan and the fortress do not have one general ticket, but small interior sites follow their own rules.\nIf you do not want the descent into the Lower Town, you can finish at the Victor and still keep the main idea.",
+      "timing": "The best rhythm is a clear early morning or the last 2.5-3 hours before sunset: the square is cooler, the walls read better, and the confluence holds the light.",
+      "fallbackPlan": "Short version without the Lower Town: Republic Square -> Knez Mihailova -> Kosancicev venac -> Sahat Gate -> The Victor. If Nebojsa Tower is closed, still go to it from outside: the route needs its position by the water more than an interior visit."
     },
     "stopList": [
       {
         "entry": "free",
-        "name": "Stambol Gate",
-        "nameLocal": "Спољна Стамбол капија",
-        "note": "Fortress entry before the Upper Town",
-        "time": "20 min",
-        "walk": "8 min",
+        "name": "Republic Square",
+        "nameLocal": "Трг Републике",
+        "note": "Belgrade meets here, but it was not born here",
+        "time": "15 min",
+        "walk": "6 min",
         "coordinates": {
-          "latitude": 44.8224088,
-          "longitude": 20.4521231
+          "latitude": 44.8164,
+          "longitude": 20.46005
         },
         "content": {
-          "context": "The Outer Stambol Gate lets you begin the fortress with its defensive logic rather than the viewpoint. From here, walls, passages, and the gradual move from park into the Upper Town are easy to read.",
-          "lookFor": "Wall thickness around the gate\nPassage directions into the fortress\nStone and brick in different sections\nHow city noise fades near the entrance",
-          "practical": "The surface can be uneven.\nStones may be slippery after rain.\nGather groups away from the passage.",
-          "nextMove": "Continue into the Upper Town, following the main line toward the fortress terraces."
+          "context": "Begin with a question, not a facade. Stand where you can see Prince Mihailo, the theater, the museum, and the stream of people using the square as an obvious center. Belgrade looks civic and gathered here.\n\nThat is the trap. The square explains modern Belgrade, but not why the city arose here. You cannot yet feel the plateau edge or the closeness of the two rivers. Treat the monument as a meeting point before the real conversation starts.",
+          "lookFor": "How flat the square feels\nThe monument axis between museum and theater\nThe flow of people that makes the place civic, not frontier-like",
+          "practical": "Stand slightly away from the pedestal rather than right under it.\nThis is a useful starting point, but do not stay too long: the route opens farther west.",
+          "nextMove": "Walk west along Knez Mihailova toward Kalemegdan. Notice how the square becomes a long urban axis.",
+          "deepDive": [
+            {
+              "title": "Why People Meet At The Horse",
+              "body": "The square became a common meeting address because today the city center gathers here. But it stands on the way to the fortress, not at the oldest geographic reason for Belgrade. That difference between the present center and the older terrain is the point of beginning here."
+            }
+          ]
         },
-        "id": "belgrade-fortress-rivers-1",
-        "guideId": "belgrade-fortress-rivers",
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-1-square.jpg",
+          "alt": "Трг Републике с памятником князю Михаилу и Национальным музеем.",
+          "attribution": {
+            "author": "Imeao",
+            "license": "CC0 1.0 Universal Public Domain Dedication",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_at_the_Republic_Square,_Belgrade_2022.jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-1",
+        "guideId": "belgrade-fortress-rivers-first-city",
         "order": 1
       },
       {
         "entry": "free",
-        "name": "Belgrade Fortress",
-        "nameLocal": "Београдска тврђава",
-        "note": "Upper Town holds the main scale",
-        "time": "45 min",
-        "walk": "5 min",
+        "name": "Knez Mihailova",
+        "nameLocal": "Кнез Михаилова",
+        "note": "Not just shopfronts, but the ridge pulling the city west",
+        "time": "15 min",
+        "walk": "12 min",
         "coordinates": {
-          "latitude": 44.8235023,
-          "longitude": 20.4497649
-        },
-        "photo": {
-          "id": "belgrade-belgrade-fortress",
-          "kind": "photo",
-          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-wide.jpg",
-          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-square.jpg",
-          "alt": "Стены Верхнего города Белградской крепости",
-          "attribution": {
-            "author": "Алексей Белобородов",
-            "license": "CC BY-SA 4.0",
-            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade._Forts_of_Upper_Town_in_Kalemegdan_fortress.jpg",
-            "retrievedAt": "2026-06-11"
-          }
+          "latitude": 44.819,
+          "longitude": 20.45504
         },
         "content": {
-          "context": "Belgrade Fortress stands above the place where the Sava meets the Danube. In this route it is the main historic section: walls, park paths, and viewing terraces combine into a clear map of the city.",
-          "lookFor": "Transitions between Upper and Lower Town\nWall lines above the rivers\nShade in Kalemegdan Park\nViews toward New Belgrade and Zemun",
-          "practical": "The outdoor area is open, but individual museums and towers have their own hours.\nIn winter or after rain, leave more time.\nKeep children close near wall edges.",
-          "nextMove": "Move toward the Roman Well area as a short nearby stop before the main viewpoint.",
-          "sourceNote": "Fortress description checked with Belgrade tourism material on 2026-06-11."
+          "context": "Read Knez Mihailova less as a shopping street and more as a line. Stand in the middle and look ahead: the street seems to pull you toward Kalemegdan. Under the easy surface is an older logic, the stable upper shelf of the center.\n\nThe facades, windows, musicians, and cafe noise make Belgrade feel almost calm here. That calm matters. It shows how a border city learned to live not only through war and height, but through civic everyday life. The river is still hidden; the street is the breath before the edge.",
+          "lookFor": "How the street draws the eye toward Kalemegdan\nThe shift from center to direction\nFacades that make a frontier city feel composed",
+          "practical": "Look along the street axis more than into the windows.\nIf the crowd is thick, pause on a wider stretch and look west.",
+          "nextMove": "Continue west, then turn toward Kosancicev venac and the viewpoint edge above the Sava.",
+          "deepDive": [
+            {
+              "title": "The Urban Ridge",
+              "body": "The strongest thing about Knez Mihailova is not one building. It is the way the street holds the old center on high ground and leads the body toward the fortress. Here a walk can explain topography better than a map."
+            }
+          ]
         },
-        "id": "belgrade-fortress-rivers-2",
-        "guideId": "belgrade-fortress-rivers",
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-2-square.jpg",
+          "alt": "Кнез-Михайлова с историческими фасадами и открытой пешеходной осью.",
+          "attribution": {
+            "author": "Krumb77",
+            "license": "CC BY-SA 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BD%D0%B5%D0%B7_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0_%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C_%D0%BE%D0%B4_%D0%9A%D0%B0%D0%BB%D0%B5%D0%BC%D0%B5%D0%B3%D0%B4%D0%B0%D0%BD%D0%B0_%D0%B4%D0%BE_%D0%9E%D0%B1%D0%B8%D0%BB%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE%D0%B3_%D0%B2%D0%B5%D0%BD%D1%86%D0%B0%2C_%D0%BF%D1%80%D0%BE%D0%BB%D0%B5%D1%9B%D0%B5.jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-2",
+        "guideId": "belgrade-fortress-rivers-first-city",
         "order": 2
       },
       {
-        "entry": "check access",
-        "name": "Roman Well",
-        "nameLocal": "Римски бунар",
-        "note": "A point beside the fortress passages",
+        "entry": "free",
+        "name": "Kosancicev Venac",
+        "nameLocal": "Косанчићев венац",
+        "note": "Belgrade first becomes a city on an edge above water",
         "time": "15 min",
-        "walk": "4 min",
+        "walk": "10 min",
         "coordinates": {
-          "latitude": 44.8230824,
-          "longitude": 20.4481821
+          "latitude": 44.81749,
+          "longitude": 20.44905
         },
         "content": {
-          "context": "The Roman Well sits inside the fortress circuit and works as a brief marker on the way to the views. Here it matters less as a guaranteed interior visit and more as a reminder of the fortress engineering story.",
-          "lookFor": "The entrance area and nearby stone passages\nHow the site is tucked inside the fortress\nThe move from enclosed spaces to open viewpoints",
-          "practical": "Check current access before planning to enter.\nDo not build the route around guaranteed interior access.\nIf it is closed, keep walking to the Victor.",
-          "nextMove": "From the well, continue to the Victor for the most recognizable fortress viewpoint.",
-          "sourceNote": "Map hours are treated as a candidate; check official interior access separately."
+          "context": "Come to the edge and first look down, not out for famous objects. The city changes shape here. What was just an old center becomes the rim of a high plateau. The Sava is not beside you; it is below you.\n\nKosancicev venac is still urban, with cobbles, houses, and quiet courtyards, but it works like a balcony over the river. Here it becomes easier to understand old Belgrade as a city held above the water, protected by height yet always pulled downward to docks, cargo, and river work.",
+          "lookFor": "The sharp drop between street and river\nThe Sava below rather than beside you\nOld houses almost on the plateau edge",
+          "practical": "Choose a spot where you can see both slope and river, not only the far horizon.\nThis is a good short pause before the fortress.",
+          "nextMove": "Walk toward Kalemegdan and Sahat Gate. After the open edge, you enter the place where terrain became defense.",
+          "deepDive": [
+            {
+              "title": "Why This Drop Matters",
+              "body": "Belgrade does not read like a waterfront facade. It reads as an upper city with controlled access to water. Kosancicev venac matters because for a moment you understand that physically: center above, river below, and the descent between them doing real work."
+            }
+          ]
         },
-        "id": "belgrade-fortress-rivers-3",
-        "guideId": "belgrade-fortress-rivers",
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-3-square.jpg",
+          "alt": "Историческая улица Косанчићев венац с мощением и старой застройкой.",
+          "attribution": {
+            "author": "Pavle Marjanović",
+            "license": "CC BY-SA 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kosan%C4%8Di%C4%87ev_venac_u_Beogradu.jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-3",
+        "guideId": "belgrade-fortress-rivers-first-city",
         "order": 3
       },
       {
         "entry": "free",
-        "name": "The Victor",
-        "nameLocal": "Победник",
-        "note": "Main panorama over Sava and Danube",
-        "time": "25 min",
-        "walk": "18 min",
+        "name": "Sahat Gate",
+        "nameLocal": "Сахат капија",
+        "note": "A fortress passage built to slow the entrance",
+        "time": "18 min",
+        "walk": "6 min",
         "coordinates": {
-          "latitude": 44.8230278,
-          "longitude": 20.4477064
-        },
-        "photo": {
-          "id": "belgrade-the-victor",
-          "kind": "photo",
-          "wide": "https://rentery.github.io/images/v1/belgrade/the-victor-wide.jpg",
-          "square": "https://rentery.github.io/images/v1/belgrade/the-victor-square.jpg",
-          "alt": "Памятник Победителю в Белградской крепости",
-          "attribution": {
-            "author": "George M. Groutas",
-            "license": "CC BY 4.0",
-            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Victor_-_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_01.jpg",
-            "retrievedAt": "2026-06-11"
-          }
+          "latitude": 44.82459,
+          "longitude": 20.44948
         },
         "content": {
-          "context": "The Victor monument stands by the fortress viewpoint and immediately explains why Belgrade holds this hill. From here you can see the river confluence, islands, New Belgrade, and the direction of Zemun.",
-          "lookFor": "The Sava before it meets the Danube\nThe broad New Belgrade horizon\nIslands and riverbanks\nChanging light near sunset",
-          "practical": "Sunset can be crowded.\nKeep a safe distance near parapets.\nWind is stronger here than in the center.",
-          "nextMove": "If you have energy, descend toward the Sava and Beton Hala; otherwise return through the park toward Knez Mihailova."
+          "context": "Stop before the bridge and gate so you can see both the opening and the clock tower above the wall. Until now Belgrade has invited you along streets and views. Here it begins to filter you. Bridge, ditch, wall thickness, and the angled passage are not designed for ease; they are designed to delay.\n\nThe contrast is beautiful: the clock tower speaks the language of urban time, but it stands over a system of control. Everyday rhythm and military defense sit directly on top of each other.",
+          "lookFor": "The bridge and ditch before the wall\nThe entrance not being too direct\nThe clock above the military shell of the gate",
+          "practical": "Step back enough to see the gate and tower together.\nDo not rush through at once: this stop is about the feeling of being slowed.",
+          "nextMove": "Pass into the Upper Town and head toward the Victor, where the view opens without restraint.",
+          "deepDive": [
+            {
+              "title": "Why Good Fortress Gates Are Rarely Simple",
+              "body": "Offset passages, ditches, bridges, and gate sequences broke the rhythm of approach and gave defenders time. Even today, entering through this zone feels like moving through a system rather than through an open park gate."
+            }
+          ]
         },
-        "id": "belgrade-fortress-rivers-4",
-        "guideId": "belgrade-fortress-rivers",
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-4-square.jpg",
+          "alt": "Сахат-капија и белая часовая башня Белградской крепости.",
+          "attribution": {
+            "author": "Jorge Láscar",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belgrade_Fortress_(13808277505).jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-4",
+        "guideId": "belgrade-fortress-rivers-first-city",
         "order": 4
       },
       {
-        "entry": "as available",
-        "name": "Beton Hala",
-        "nameLocal": "Бетон хала",
-        "note": "Riverside food after the fortress",
-        "time": "45 min",
-        "walk": "-",
+        "entry": "free",
+        "name": "The Victor And The Confluence Edge",
+        "nameLocal": "Победник",
+        "note": "The point that explains why Belgrade stands here",
+        "time": "20 min",
+        "walk": "8 min",
         "coordinates": {
-          "latitude": 44.8198646,
-          "longitude": 20.4484311
+          "latitude": 44.82304,
+          "longitude": 20.4477
         },
         "content": {
-          "context": "Beton Hala by the Sava gives the route an easy waterside finish. After walls and viewpoints, this is a convenient place for food or a drink before returning to the center or staying by the river.",
-          "lookFor": "The Sava after the descent\nA long row of restaurants in a former warehouse volume\nEvening movement along the promenade\nA backward view toward the fortress slope",
-          "practical": "Venues keep their own hours.\nCheck prices and menus before ordering.\nThe descent from the fortress can feel tiring in heat.",
-          "nextMove": "End the route by the river or climb back toward the center if you need transport and more light."
+          "context": "Do not stand only under the column. Step back so the Victor, the open platform edge, and the far banks sit in one field of view. Here the route answers its main question without a map: Belgrade grew here because this edge could watch and control movement on water.\n\nThe monument was once imagined for Terazije in the city center, but it became stronger on the fortress ridge. Instead of a civic decoration, it became a sign of Belgrade geography.",
+          "lookFor": "The Sava and Danube as two different directions\nThe open platform edge, not only the statue\nModern city across the water and older walls underfoot",
+          "practical": "Do not cling to the pedestal: the geography matters more than a close-up of the statue.\nIn clear weather this stop almost always takes more time than expected.",
+          "nextMove": "Start descending toward the Lower Town and Ruzica. After the main overview, it helps to see the fortress from below.",
+          "deepDive": [
+            {
+              "title": "Why The Move Made The Monument Stronger",
+              "body": "Once the sculpture left the idea of a central fountain and landed on the highest fortress edge, it stopped being only a monument. It began to work with the place. Here the city explains the statue as much as the statue explains the city."
+            }
+          ]
         },
-        "id": "belgrade-fortress-rivers-5",
-        "guideId": "belgrade-fortress-rivers",
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-square.jpg",
+          "alt": "Силуэт Победника на вершине крепости.",
+          "attribution": {
+            "author": "Sasa Micic",
+            "license": "CC BY-SA 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pobednik_Beograda.JPG",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-5",
+        "guideId": "belgrade-fortress-rivers-first-city",
         "order": 5
+      },
+      {
+        "entry": "outside",
+        "name": "Lower Town At Ruzica",
+        "nameLocal": "Доњи град код цркве Ружице",
+        "note": "From below, the fortress becomes heavy again by the water",
+        "time": "18 min",
+        "walk": "10 min",
+        "coordinates": {
+          "latitude": 44.8247,
+          "longitude": 20.4539
+        },
+        "content": {
+          "context": "In the Lower Town, turn around and look up. The same fortress that felt broad and almost walkable from above regains weight. Walls become higher, stone feels heavier, and the beautiful view turns back into mass, height, and descent.\n\nAt Ruzica the contrast is especially sharp. The quiet church sits inside military stone, with a story tied to an eighteenth-century powder magazine later turned into a church. This corner keeps two memories together: defense and the human need for shelter, silence, and ritual.",
+          "lookFor": "How high the upper walls now feel\nMilitary stone beside a quiet church corner\nThe difference between panoramic fortress above and life below",
+          "practical": "This is a good place for a short rest on a quieter part of the route.\nAfter rain, the paths and descent feel heavier than they did above.",
+          "nextMove": "Continue east toward Nebojsa Tower, where the Lower Town reaches its most river-bound point.",
+          "deepDive": [
+            {
+              "title": "Why Looking Up Matters",
+              "body": "Fortresses are often seen only from viewpoints, which hides their true scale. The Lower Town restores the vertical relationship: the upper edge controls space, while the lower city lives with river, cargo, risk, and damp ground."
+            }
+          ]
+        },
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-6-square.jpg",
+          "alt": "Церковь Ружица в Нижнем городе Белградской крепости.",
+          "attribution": {
+            "author": "White Writer",
+            "license": "CC BY-SA 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ru%C5%BEica_church,_Belgrade,_Serbia.jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-6",
+        "guideId": "belgrade-fortress-rivers-first-city",
+        "order": 6
+      },
+      {
+        "entry": "outside",
+        "name": "Nebojsa Tower",
+        "nameLocal": "Кула Небојша",
+        "note": "The waterside finish where the city meets the river hit",
+        "time": "18 min",
+        "walk": "-",
+        "coordinates": {
+          "latitude": 44.8262,
+          "longitude": 20.45935
+        },
+        "content": {
+          "context": "Approach so the tower reads against the water, then look back toward the plateau. This is a precise finish for a first Belgrade walk. The high center is behind you; here begins another truth of the city: port, approach, weak point, and the last line of tension by the river.\n\nThe official history of the tower keeps the place from becoming romantic. Built around 1460 to defend the entrance to the Lower Town port, it later became known as a prison and execution site. At the river edge, geography quickly becomes power and human fate.",
+          "lookFor": "How low the tower stands compared with the plateau\nWater as approach, not background\nThe difference between the viewpoint fortress above and port defense here",
+          "practical": "If you are tired, this is the right final pause: the route has already gathered its meaning.\nIf you walk back to the center, add time for the climb.",
+          "nextMove": "Finish here. Stay by the water for one more minute and look back at the height; that is how the walk closes best.",
+          "deepDive": [
+            {
+              "title": "From Port Tower To Prison",
+              "body": "Nebojsa matters because it does not fit neatly into a postcard. It reminds you that Belgrade river edge was not a pretty margin, but a point where defense, trade, authority, and fear met."
+            }
+          ]
+        },
+        "photo": {
+          "id": "belgrade-fortress-rivers-first-city-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-7-square.jpg",
+          "alt": "Кула Небойша у нижнего речного края Белградской крепости.",
+          "attribution": {
+            "author": "Dungodung",
+            "license": "Public domain release by author",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neboj%C5%A1a_Tower,_Jun._2005.jpg",
+            "retrievedAt": "2026-06-13"
+          }
+        },
+        "id": "belgrade-fortress-rivers-first-city-7",
+        "guideId": "belgrade-fortress-rivers-first-city",
+        "order": 7
       }
     ]
   },
