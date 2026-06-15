@@ -2,16 +2,11 @@
   "id": "belgrade",
   "slug": "belgrade",
   "title": "Belgrade",
-  "subtitle": "Belgrade · Beograd · 6 routes",
+  "subtitle": "Belgrade · Beograd · 1 route · 5 coming soon",
   "meta": "Serbia - fortress, rivers, Zemun, and modernism",
-  "practicalNote": "City buses, trams, trolleybuses, and BG Train have been free since 2025. Keep dinars for small purchases and markets; in Belgrade you will see both Cyrillic and Latin scripts.",
+  "practicalNote": "Belgrade currently has one current published route; the remaining walks are being refreshed and will be added gradually.",
   "guideIds": [
-    "belgrade-first-day",
-    "belgrade-skadarlija-dorcol-evening",
-    "belgrade-fortress-rivers-first-city",
-    "belgrade-museums-vracar",
-    "belgrade-zemun",
-    "belgrade-new-belgrade"
+    "belgrade-fortress-rivers-first-city"
   ],
   "coordinates": {
     "latitude": 44.80401,

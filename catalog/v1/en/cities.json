@@ -3,16 +3,10 @@
     "id": "beijing",
     "slug": "beijing",
     "title": "Beijing",
-    "subtitle": "Beijing · 北京 · 5 routes",
+    "subtitle": "Beijing · 北京 · 5 walks coming soon",
     "meta": "China · red gates, grey roofs, hutong lakes, and the Wall beyond the hills",
-    "practicalNote": "Beijing is easiest to read in large layers: the axis and gates first, then low hutongs by water, evening food streets, and a separate day outside the city on the Wall. Straight lines hide real distance here, so a good day follows one clear route rather than trying to collect every symbol at once. Official bookings and documents matter for the palace and square, but they should support the walk, not replace the city.",
-    "guideIds": [
-      "axis",
-      "hutong",
-      "food",
-      "kids",
-      "wall"
-    ],
+    "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
     "coordinates": {
       "latitude": 39.9075,
       "longitude": 116.39723
@@ -39,16 +33,10 @@
     "id": "seoul",
     "slug": "seoul",
     "title": "Seoul",
-    "subtitle": "Seoul · 서울 · 5 routes",
+    "subtitle": "Seoul · 서울 · 5 walks coming soon",
     "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
-    "practicalNote": "April-May and September-October are usually easier for long walks. In summer, plan around heat, heavy rain, and typhoon season; in winter, expect cold, and check forecast plus fine dust before outdoor routes. Use metro or taxi between the Hangang, Yongsan, Namsan, and the old center: walking distances stretch quickly on the map.",
-    "guideIds": [
-      "seoul-first-time",
-      "seoul-old-city-walk",
-      "seoul-market-evening",
-      "seoul-calm-day",
-      "seoul-river-views"
-    ],
+    "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
     "coordinates": {
       "latitude": 37.566,
       "longitude": 126.9784
@@ -76,16 +64,11 @@
     "id": "belgrade",
     "slug": "belgrade",
     "title": "Belgrade",
-    "subtitle": "Belgrade · Beograd · 6 routes",
+    "subtitle": "Belgrade · Beograd · 1 route · 5 coming soon",
     "meta": "Serbia - fortress, rivers, Zemun, and modernism",
-    "practicalNote": "City buses, trams, trolleybuses, and BG Train have been free since 2025. Keep dinars for small purchases and markets; in Belgrade you will see both Cyrillic and Latin scripts.",
+    "practicalNote": "Belgrade currently has one current published route; the remaining walks are being refreshed and will be added gradually.",
     "guideIds": [
-      "belgrade-first-day",
-      "belgrade-skadarlija-dorcol-evening",
-      "belgrade-fortress-rivers-first-city",
-      "belgrade-museums-vracar",
-      "belgrade-zemun",
-      "belgrade-new-belgrade"
+      "belgrade-fortress-rivers-first-city"
     ],
     "coordinates": {
       "latitude": 44.80401,
@@ -120,16 +103,10 @@
     "id": "sarajevo",
     "slug": "sarajevo",
     "title": "Sarajevo",
-    "subtitle": "Sarajevo · 5 routes",
+    "subtitle": "Sarajevo · routes in progress",
     "meta": "Bosnia and Herzegovina - old bazaar, river, museums, and mountains",
-    "practicalNote": "Central walks are short, but cobblestones and slopes get tiring after rain. For Ilidza, Trebevic, and Tunnel of Hope, check transport, cable-car operation, and hours on the day; keep some KM cash. Outside the city, stay on paved or marked routes because of landmine and unexploded-ordnance risk.",
-    "guideIds": [
-      "sarajevo-first-day",
-      "sarajevo-old-lanes",
-      "sarajevo-river-museums",
-      "sarajevo-trebevic",
-      "sarajevo-ilidza"
-    ],
+    "practicalNote": "This city guide is being refreshed; full routes will be added gradually.",
+    "guideIds": [],
     "coordinates": {
       "latitude": 43.84864,
       "longitude": 18.35644
@@ -163,16 +140,10 @@
     "id": "tivat",
     "slug": "tivat",
     "title": "Tivat",
-    "subtitle": "Tivat · 5 routes",
+    "subtitle": "Tivat · routes in progress",
     "meta": "Montenegro - bay, marina, salt flats, and Vrmac slopes",
-    "practicalNote": "In summer, the waterfront and Solila heat up fast: keep exposed routes for morning or evening. Check buses, beach access, and museum hours on the day you go because several places change by season. Keep some euro cash for small payments even though cards usually work around the marina.",
-    "guideIds": [
-      "tivat-first-day-core",
-      "tivat-north-shore",
-      "tivat-solila-prevlaka",
-      "tivat-rainy-core",
-      "tivat-vrmac-lastva"
-    ],
+    "practicalNote": "This city guide is being refreshed; full routes will be added gradually.",
+    "guideIds": [],
     "coordinates": {
       "latitude": 42.43623,
       "longitude": 18.69361

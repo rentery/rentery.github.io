@@ -2,16 +2,10 @@
   "id": "beijing",
   "slug": "beijing",
   "title": "Beijing",
-  "subtitle": "Beijing · 北京 · 5 routes",
+  "subtitle": "Beijing · 北京 · 5 walks coming soon",
   "meta": "China · red gates, grey roofs, hutong lakes, and the Wall beyond the hills",
-  "practicalNote": "Beijing is easiest to read in large layers: the axis and gates first, then low hutongs by water, evening food streets, and a separate day outside the city on the Wall. Straight lines hide real distance here, so a good day follows one clear route rather than trying to collect every symbol at once. Official bookings and documents matter for the palace and square, but they should support the walk, not replace the city.",
-  "guideIds": [
-    "axis",
-    "hutong",
-    "food",
-    "kids",
-    "wall"
-  ],
+  "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
   "coordinates": {
     "latitude": 39.9075,
     "longitude": 116.39723

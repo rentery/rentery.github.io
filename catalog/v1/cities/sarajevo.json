@@ -2,16 +2,10 @@
   "id": "sarajevo",
   "slug": "sarajevo",
   "title": "Сараево",
-  "subtitle": "Sarajevo · 5 маршрутов",
+  "subtitle": "Sarajevo · маршруты в подготовке",
   "meta": "Босния и Герцеговина · старый базар, река, музеи и горы",
-  "practicalNote": "В центре переходы короткие, но брусчатка и подъемы быстро утомляют после дождя. Для Ilidža, Trebević и Tunnel of Hope проверяйте транспорт, канатку и часы в день поездки; держите немного наличных KM. За городом не сходите с асфальтированных или размеченных маршрутов из-за риска мин и неразорвавшихся боеприпасов.",
-  "guideIds": [
-    "sarajevo-first-day",
-    "sarajevo-old-lanes",
-    "sarajevo-river-museums",
-    "sarajevo-trebevic",
-    "sarajevo-ilidza"
-  ],
+  "practicalNote": "Гид по городу обновляется: полноценные маршруты будут добавляться постепенно.",
+  "guideIds": [],
   "coordinates": {
     "latitude": 43.84864,
     "longitude": 18.35644

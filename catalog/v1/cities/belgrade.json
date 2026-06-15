@@ -2,16 +2,11 @@
   "id": "belgrade",
   "slug": "belgrade",
   "title": "Белград",
-  "subtitle": "Belgrade · Београд · 6 маршрутов",
+  "subtitle": "Belgrade · Београд · 1 маршрут · 5 скоро",
   "meta": "Сербия · крепость, реки, Земун и модернизм",
-  "practicalNote": "В городских автобусах, трамваях, троллейбусах и BG Train проезд бесплатный с 2025 года. Для мелких покупок и рынков держите динары; вывески встречаются и кириллицей, и латиницей.",
+  "practicalNote": "В Белграде сейчас опубликован один актуальный маршрут; остальные прогулки проходят обновление и будут добавляться постепенно.",
   "guideIds": [
-    "belgrade-first-day",
-    "belgrade-skadarlija-dorcol-evening",
-    "belgrade-fortress-rivers-first-city",
-    "belgrade-museums-vracar",
-    "belgrade-zemun",
-    "belgrade-new-belgrade"
+    "belgrade-fortress-rivers-first-city"
   ],
   "coordinates": {
     "latitude": 44.80401,
