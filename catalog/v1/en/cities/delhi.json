@@ -1,11 +1,13 @@
 {
   "id": "delhi",
   "slug": "delhi",
-  "title": "Delhi",
-  "subtitle": "Delhi · 5 walks coming soon",
-  "meta": "India · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Дели",
+  "subtitle": "Дели · 1 маршрут · 4 скоро",
+  "meta": "Индия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "delhi-shahjahanabad-red-fort-bazaars"
+  ],
   "countryId": "india",
   "photo": {
     "id": "delhi-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Дели"
+  },
+  "identity": {
+    "accent": "#8C4734",
+    "soft": "#EAD6C9",
+    "deep": "#5B3028",
+    "ink": "#3A2520",
+    "glyph": "DEL",
+    "hook": "Красный форт, Чандни-Чоук и святыни Старого Дели",
+    "motif": "axis"
   }
 }

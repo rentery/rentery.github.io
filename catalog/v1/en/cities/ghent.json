@@ -1,11 +1,13 @@
 {
   "id": "ghent",
   "slug": "ghent",
-  "title": "Ghent",
-  "subtitle": "Ghent · 5 walks coming soon",
-  "meta": "Belgium · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Гент",
+  "subtitle": "Гент · 1 маршрут · 4 скоро",
+  "meta": "Бельгия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "ghent-three-towers-river-power"
+  ],
   "countryId": "belgium",
   "photo": {
     "id": "ghent-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Гент"
+  },
+  "identity": {
+    "accent": "#7A5940",
+    "soft": "#E8DACB",
+    "deep": "#503B2C",
+    "ink": "#352920",
+    "glyph": "GNT",
+    "hook": "Три башни, Лис и городская власть",
+    "motif": "axis"
   }
 }

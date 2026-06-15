@@ -2,10 +2,12 @@
   "id": "edinburgh",
   "slug": "edinburgh",
   "title": "Эдинбург",
-  "subtitle": "Edinburgh · 5 прогулок скоро",
+  "subtitle": "Эдинбург · 1 маршрут · 4 скоро",
   "meta": "Великобритания · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "edinburgh-royal-mile-power-and-closes"
+  ],
   "countryId": "united-kingdom",
   "photo": {
     "id": "edinburgh-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Эдинбург"
+  },
+  "identity": {
+    "accent": "#6F4F46",
+    "soft": "#E2D9D1",
+    "deep": "#493632",
+    "ink": "#302725",
+    "glyph": "EDI",
+    "hook": "Королевская Миля как каменный хребет власти",
+    "motif": "axis"
   }
 }

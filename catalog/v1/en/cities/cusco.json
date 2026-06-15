@@ -1,11 +1,13 @@
 {
   "id": "cusco",
   "slug": "cusco",
-  "title": "Cusco",
-  "subtitle": "Cusco · 5 walks coming soon",
-  "meta": "Peru · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Куско",
+  "subtitle": "Куско · 1 маршрут · 4 скоро",
+  "meta": "Перу · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "cusco-plaza-qorikancha-layers"
+  ],
   "countryId": "peru",
   "photo": {
     "id": "cusco-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Куско"
+  },
+  "identity": {
+    "accent": "#8A5631",
+    "soft": "#EAD9C3",
+    "deep": "#5B351F",
+    "ink": "#39271E",
+    "glyph": "CUZ",
+    "hook": "Пласа-де-Армас и Кориканча как городской шов",
+    "motif": "axis"
   }
 }

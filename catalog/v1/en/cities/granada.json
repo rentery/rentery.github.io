@@ -1,11 +1,13 @@
 {
   "id": "granada",
   "slug": "granada",
-  "title": "Granada",
-  "subtitle": "Granada · 5 walks coming soon",
-  "meta": "Spain · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Гранада",
+  "subtitle": "Гранада · 1 маршрут · 4 скоро",
+  "meta": "Испания · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "granada-alhambra-generalife-power-water"
+  ],
   "countryId": "spain",
   "photo": {
     "id": "granada-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/granada/granada-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/granada/granada-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Гранада"
+  },
+  "identity": {
+    "accent": "#8B5A3C",
+    "soft": "#EADBCB",
+    "deep": "#5A3A2B",
+    "ink": "#382921",
+    "glyph": "GRA",
+    "hook": "Альгамбра, Хенералифе и вода власти",
+    "motif": "axis"
   }
 }

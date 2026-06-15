@@ -370,6 +370,286 @@
     }
   },
   {
+    "id": "granada",
+    "slug": "granada",
+    "title": "Гранада",
+    "subtitle": "Гранада · 1 маршрут · 4 скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "granada-alhambra-generalife-power-water"
+    ],
+    "countryId": "spain",
+    "photo": {
+      "id": "granada-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/granada/granada-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/granada/granada-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гранада"
+    },
+    "identity": {
+      "accent": "#8B5A3C",
+      "soft": "#EADBCB",
+      "deep": "#5A3A2B",
+      "ink": "#382921",
+      "glyph": "GRA",
+      "hook": "Альгамбра, Хенералифе и вода власти",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "ghent",
+    "slug": "ghent",
+    "title": "Гент",
+    "subtitle": "Гент · 1 маршрут · 4 скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "ghent-three-towers-river-power"
+    ],
+    "countryId": "belgium",
+    "photo": {
+      "id": "ghent-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гент"
+    },
+    "identity": {
+      "accent": "#7A5940",
+      "soft": "#E8DACB",
+      "deep": "#503B2C",
+      "ink": "#352920",
+      "glyph": "GNT",
+      "hook": "Три башни, Лис и городская власть",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "florence",
+    "slug": "florence",
+    "title": "Флоренция",
+    "subtitle": "Флоренция · 1 маршрут · 4 скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "florence-duomo-signoria-renaissance-engine"
+    ],
+    "countryId": "italy",
+    "photo": {
+      "id": "florence-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/florence/florence-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/florence/florence-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Флоренция"
+    },
+    "identity": {
+      "accent": "#8A5A38",
+      "soft": "#EFE3D4",
+      "deep": "#5B382B",
+      "ink": "#3D2924",
+      "glyph": "FLR",
+      "hook": "Дуомо, Синьория и Арно как ось первого маршрута",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "edinburgh",
+    "slug": "edinburgh",
+    "title": "Эдинбург",
+    "subtitle": "Эдинбург · 1 маршрут · 4 скоро",
+    "meta": "Великобритания · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "edinburgh-royal-mile-power-and-closes"
+    ],
+    "countryId": "united-kingdom",
+    "photo": {
+      "id": "edinburgh-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Эдинбург"
+    },
+    "identity": {
+      "accent": "#6F4F46",
+      "soft": "#E2D9D1",
+      "deep": "#493632",
+      "ink": "#302725",
+      "glyph": "EDI",
+      "hook": "Королевская Миля как каменный хребет власти",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "dubai",
+    "slug": "dubai",
+    "title": "Дубай",
+    "subtitle": "Дубай · 1 маршрут · 4 скоро",
+    "meta": "Объединённые Арабские Эмираты · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "dubai-creek-al-fahidi-deira-souks"
+    ],
+    "countryId": "united-arab-emirates",
+    "photo": {
+      "id": "dubai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дубай"
+    },
+    "identity": {
+      "accent": "#7B5A38",
+      "soft": "#E9DDCB",
+      "deep": "#513D27",
+      "ink": "#342A20",
+      "glyph": "DXB",
+      "hook": "Ручей, Аль-Фахиди и базары Дейры",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "delhi",
+    "slug": "delhi",
+    "title": "Дели",
+    "subtitle": "Дели · 1 маршрут · 4 скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "delhi-shahjahanabad-red-fort-bazaars"
+    ],
+    "countryId": "india",
+    "photo": {
+      "id": "delhi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дели"
+    },
+    "identity": {
+      "accent": "#8C4734",
+      "soft": "#EAD6C9",
+      "deep": "#5B3028",
+      "ink": "#3A2520",
+      "glyph": "DEL",
+      "hook": "Красный форт, Чандни-Чоук и святыни Старого Дели",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "cusco",
+    "slug": "cusco",
+    "title": "Куско",
+    "subtitle": "Куско · 1 маршрут · 4 скоро",
+    "meta": "Перу · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "cusco-plaza-qorikancha-layers"
+    ],
+    "countryId": "peru",
+    "photo": {
+      "id": "cusco-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Куско"
+    },
+    "identity": {
+      "accent": "#8A5631",
+      "soft": "#EAD9C3",
+      "deep": "#5B351F",
+      "ink": "#39271E",
+      "glyph": "CUZ",
+      "hook": "Пласа-де-Армас и Кориканча как городской шов",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "bruges",
+    "slug": "bruges",
+    "title": "Брюгге",
+    "subtitle": "Брюгге · 1 маршрут · 4 скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "bruges-markt-burg-civic-power"
+    ],
+    "countryId": "belgium",
+    "photo": {
+      "id": "bruges-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Брюгге"
+    },
+    "identity": {
+      "accent": "#7F5332",
+      "soft": "#EADCC9",
+      "deep": "#54371F",
+      "ink": "#35271D",
+      "glyph": "BRG",
+      "hook": "Маркт, Бург и торговая власть",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "boston",
+    "slug": "boston",
+    "title": "Бостон",
+    "subtitle": "Бостон · 1 маршрут · 4 скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "boston-freedom-trail-revolution-city"
+    ],
+    "countryId": "united-states",
+    "photo": {
+      "id": "boston-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/boston/boston-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/boston/boston-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Бостон"
+    },
+    "identity": {
+      "accent": "#8B3E34",
+      "soft": "#E6D7CC",
+      "deep": "#5A2C29",
+      "ink": "#382321",
+      "glyph": "BOS",
+      "hook": "Красная линия революционного города",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "bogota",
+    "slug": "bogota",
+    "title": "Богота",
+    "subtitle": "Богота · 1 маршрут · 4 скоро",
+    "meta": "Колумбия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "bogota-candelaria-gold-power"
+    ],
+    "countryId": "colombia",
+    "photo": {
+      "id": "bogota-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Богота"
+    },
+    "identity": {
+      "accent": "#7A5A2E",
+      "soft": "#E8DDC6",
+      "deep": "#4D3A22",
+      "ink": "#33291E",
+      "glyph": "BOG",
+      "hook": "Ла-Канделария, золото и площадь власти",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "fes",
     "slug": "fes",
     "title": "Фес",
@@ -511,57 +791,6 @@
     }
   },
   {
-    "id": "bogota",
-    "slug": "bogota",
-    "title": "Bogotá",
-    "subtitle": "Bogotá · 5 walks coming soon",
-    "meta": "Colombia · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "colombia",
-    "photo": {
-      "id": "bogota-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Богота"
-    }
-  },
-  {
-    "id": "boston",
-    "slug": "boston",
-    "title": "Boston",
-    "subtitle": "Boston · 5 walks coming soon",
-    "meta": "United States · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "united-states",
-    "photo": {
-      "id": "boston-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/boston/boston-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/boston/boston-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Бостон"
-    }
-  },
-  {
-    "id": "bruges",
-    "slug": "bruges",
-    "title": "Bruges",
-    "subtitle": "Bruges · 5 walks coming soon",
-    "meta": "Belgium · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "belgium",
-    "photo": {
-      "id": "bruges-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Брюгге"
-    }
-  },
-  {
     "id": "brussels",
     "slug": "brussels",
     "title": "Brussels",
@@ -681,57 +910,6 @@
     }
   },
   {
-    "id": "cusco",
-    "slug": "cusco",
-    "title": "Cusco",
-    "subtitle": "Cusco · 5 walks coming soon",
-    "meta": "Peru · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "peru",
-    "photo": {
-      "id": "cusco-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Куско"
-    }
-  },
-  {
-    "id": "delhi",
-    "slug": "delhi",
-    "title": "Delhi",
-    "subtitle": "Delhi · 5 walks coming soon",
-    "meta": "India · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "india",
-    "photo": {
-      "id": "delhi-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Дели"
-    }
-  },
-  {
-    "id": "dubai",
-    "slug": "dubai",
-    "title": "Dubai",
-    "subtitle": "Dubai · 5 walks coming soon",
-    "meta": "United Arab Emirates · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "united-arab-emirates",
-    "photo": {
-      "id": "dubai-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Дубай"
-    }
-  },
-  {
     "id": "dublin",
     "slug": "dublin",
     "title": "Dublin",
@@ -763,74 +941,6 @@
       "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Дубровник"
-    }
-  },
-  {
-    "id": "edinburgh",
-    "slug": "edinburgh",
-    "title": "Edinburgh",
-    "subtitle": "Edinburgh · 5 walks coming soon",
-    "meta": "United Kingdom · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "united-kingdom",
-    "photo": {
-      "id": "edinburgh-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Эдинбург"
-    }
-  },
-  {
-    "id": "florence",
-    "slug": "florence",
-    "title": "Florence",
-    "subtitle": "Florence · 5 walks coming soon",
-    "meta": "Italy · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "italy",
-    "photo": {
-      "id": "florence-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/florence/florence-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/florence/florence-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Флоренция"
-    }
-  },
-  {
-    "id": "ghent",
-    "slug": "ghent",
-    "title": "Ghent",
-    "subtitle": "Ghent · 5 walks coming soon",
-    "meta": "Belgium · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "belgium",
-    "photo": {
-      "id": "ghent-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Гент"
-    }
-  },
-  {
-    "id": "granada",
-    "slug": "granada",
-    "title": "Granada",
-    "subtitle": "Granada · 5 walks coming soon",
-    "meta": "Spain · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "spain",
-    "photo": {
-      "id": "granada-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/granada/granada-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/granada/granada-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Гранада"
     }
   },
   {

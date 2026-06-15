@@ -1,11 +1,13 @@
 {
   "id": "florence",
   "slug": "florence",
-  "title": "Florence",
-  "subtitle": "Florence · 5 walks coming soon",
-  "meta": "Italy · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Флоренция",
+  "subtitle": "Флоренция · 1 маршрут · 4 скоро",
+  "meta": "Италия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "florence-duomo-signoria-renaissance-engine"
+  ],
   "countryId": "italy",
   "photo": {
     "id": "florence-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/florence/florence-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/florence/florence-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Флоренция"
+  },
+  "identity": {
+    "accent": "#8A5A38",
+    "soft": "#EFE3D4",
+    "deep": "#5B382B",
+    "ink": "#3D2924",
+    "glyph": "FLR",
+    "hook": "Дуомо, Синьория и Арно как ось первого маршрута",
+    "motif": "axis"
   }
 }

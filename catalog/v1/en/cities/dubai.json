@@ -1,11 +1,13 @@
 {
   "id": "dubai",
   "slug": "dubai",
-  "title": "Dubai",
-  "subtitle": "Dubai · 5 walks coming soon",
-  "meta": "United Arab Emirates · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Дубай",
+  "subtitle": "Дубай · 1 маршрут · 4 скоро",
+  "meta": "Объединённые Арабские Эмираты · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "dubai-creek-al-fahidi-deira-souks"
+  ],
   "countryId": "united-arab-emirates",
   "photo": {
     "id": "dubai-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Дубай"
+  },
+  "identity": {
+    "accent": "#7B5A38",
+    "soft": "#E9DDCB",
+    "deep": "#513D27",
+    "ink": "#342A20",
+    "glyph": "DXB",
+    "hook": "Ручей, Аль-Фахиди и базары Дейры",
+    "motif": "axis"
   }
 }
