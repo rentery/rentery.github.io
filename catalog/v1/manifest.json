@@ -24,9 +24,29 @@
       "packHash": "1b3ab8b3e903",
       "packPath": "cities/amsterdam/offline-pack.json"
     },
+    "bologna": {
+      "packHash": "e168a8d526dc",
+      "packPath": "cities/bologna/offline-pack.json"
+    },
     "bordeaux": {
       "packHash": "3ddeb9995663",
       "packPath": "cities/bordeaux/offline-pack.json"
+    },
+    "budapest": {
+      "packHash": "f0cb4133e8ee",
+      "packPath": "cities/budapest/offline-pack.json"
+    },
+    "cape-town": {
+      "packHash": "5586c534b627",
+      "packPath": "cities/cape-town/offline-pack.json"
+    },
+    "charleston-sc": {
+      "packHash": "203abdb13861",
+      "packPath": "cities/charleston-sc/offline-pack.json"
+    },
+    "chicago": {
+      "packHash": "f0e384e7456d",
+      "packPath": "cities/chicago/offline-pack.json"
     },
     "fes": {
       "packHash": "6d585884bd42",
@@ -60,10 +80,6 @@
       "packHash": "8dfb06ee66ae",
       "packPath": "cities/bogota/offline-pack.json"
     },
-    "bologna": {
-      "packHash": "ab37a332421d",
-      "packPath": "cities/bologna/offline-pack.json"
-    },
     "boston": {
       "packHash": "e549375a2c06",
       "packPath": "cities/boston/offline-pack.json"
@@ -75,10 +91,6 @@
     "brussels": {
       "packHash": "13e8010d17c9",
       "packPath": "cities/brussels/offline-pack.json"
-    },
-    "budapest": {
-      "packHash": "ded0ca597174",
-      "packPath": "cities/budapest/offline-pack.json"
     },
     "buenos-aires": {
       "packHash": "7450f38f55fd",
@@ -92,25 +104,13 @@
       "packHash": "8e1191c7ea5c",
       "packPath": "cities/cairo/offline-pack.json"
     },
-    "cape-town": {
-      "packHash": "a5a1aa9dcb85",
-      "packPath": "cities/cape-town/offline-pack.json"
-    },
     "cartagena-colombia": {
       "packHash": "a36af318b0df",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
-    "charleston-sc": {
-      "packHash": "b3abf67733b3",
-      "packPath": "cities/charleston-sc/offline-pack.json"
-    },
     "chiang-mai": {
       "packHash": "55173430240f",
       "packPath": "cities/chiang-mai/offline-pack.json"
-    },
-    "chicago": {
-      "packHash": "bd74625644f6",
-      "packPath": "cities/chicago/offline-pack.json"
     },
     "copenhagen": {
       "packHash": "3c92f09d6959",
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-15T17:40:40.863Z",
+  "generatedAt": "2026-06-15T18:47:43.901Z",
   "locale": "ru",
   "schemaVersion": 1
 }

@@ -1,11 +1,13 @@
 {
   "id": "charleston-sc",
   "slug": "charleston-sc",
-  "title": "Charleston",
-  "subtitle": "Charleston · 5 walks coming soon",
-  "meta": "United States · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Чарлстон",
+  "subtitle": "Charleston · 1 маршрут · 4 скоро",
+  "meta": "США · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "charleston-sc-port-battery-waterfront"
+  ],
   "countryId": "united-states",
   "photo": {
     "id": "charleston-sc-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Чарлстон"
+  },
+  "identity": {
+    "accent": "#5E8C82",
+    "soft": "#DDE8DF",
+    "deep": "#2F5A55",
+    "ink": "#283B37",
+    "glyph": "CHS",
+    "hook": "Рынок, гавань и Battery у воды",
+    "motif": "axis"
   }
 }

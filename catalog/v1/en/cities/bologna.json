@@ -1,11 +1,13 @@
 {
   "id": "bologna",
   "slug": "bologna",
-  "title": "Bologna",
-  "subtitle": "Bologna · 5 walks coming soon",
-  "meta": "Italy · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Болонья",
+  "subtitle": "Bologna · 1 маршрут · 4 скоро",
+  "meta": "Италия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "bologna-piazza-maggiore-towers-santo-stefano"
+  ],
   "countryId": "italy",
   "photo": {
     "id": "bologna-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/bologna/bologna-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bologna/bologna-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Болонья"
+  },
+  "identity": {
+    "accent": "#A64B38",
+    "soft": "#EFD9C9",
+    "deep": "#6B2F27",
+    "ink": "#3E2722",
+    "glyph": "BOL",
+    "hook": "Площадь, портики и башни старого центра",
+    "motif": "axis"
   }
 }

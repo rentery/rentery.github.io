@@ -2,10 +2,12 @@
   "id": "cape-town",
   "slug": "cape-town",
   "title": "Кейптаун",
-  "subtitle": "Cape Town · 5 прогулок скоро",
+  "subtitle": "Cape Town · 1 маршрут · 4 скоро",
   "meta": "ЮАР · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "cape-town-district-six-castle-garden"
+  ],
   "countryId": "south-africa",
   "photo": {
     "id": "cape-town-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/cape-town/cape-town-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Кейптаун"
+  },
+  "identity": {
+    "accent": "#2F7F8F",
+    "soft": "#D9E8E0",
+    "deep": "#244E5D",
+    "ink": "#253A3B",
+    "glyph": "CPT",
+    "hook": "District Six, крепость и Company’s Garden",
+    "motif": "axis"
   }
 }
