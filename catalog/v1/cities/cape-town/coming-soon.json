@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр связывает крепость, сад и память о районе, который стерли с карты.",
+    "cityId": "cape-town",
+    "dayTrip": false,
+    "id": "cape-town-district-six-castle-garden",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "District Six Museum, Castle of Good Hope, Grand Parade, City Hall, Slave Lodge и Company’s Garden.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная прогулка по власти, рабству, памяти и зеленому центру Кейптауна.",
+    "title": "District Six, крепость и Сад: город на месте следов",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Bo-Kaap показывает город над центром: цветные фасады, мечети и долгую историю соседства.",
+    "cityId": "cape-town",
+    "dayTrip": false,
+    "id": "cape-town-bo-kaap-colour-faith",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Склон Signal Hill над CBD: Wale Street, Dorp Street, Chiappini Street и Rose Street.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная прогулка по району, где фасады не должны заслонять людей.",
+    "title": "Bo-Kaap: цвет, вера и улицы над центром",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Склон Столовой горы ведет вдоль финбоса, камня и видов, ради которых город смотрит вверх.",
+    "cityId": "cape-town",
+    "dayTrip": false,
+    "id": "cape-town-table-mountain-pipe-track",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Kloof Nek и западный склон Table Mountain над Camps Bay по линии Pipe Track.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Горная прогулка без гонки на вершину: финбос, трубы, обрыв и Атлантика.",
+    "title": "Столовая гора снизу: Pipe Track и город под скалой",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Гавань читается как палимпсест: доки, башни, склады и музей в бывшем зерновом силосе.",
+    "cityId": "cape-town",
+    "dayTrip": false,
+    "id": "cape-town-waterfront-silo-harbour",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "V&A Waterfront, Clock Tower Precinct, Silo District, Battery Park и гаванные кромки.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От старых доков и башен к современному искусству, дизайну и туристическому фасаду.",
+    "title": "Waterfront и Silo District: порт, который стал городом",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Атлантический край города собирает променад, парк, стадион и жизнь между морем и склоном.",
+    "cityId": "cape-town",
+    "dayTrip": false,
+    "id": "cape-town-sea-point-green-point",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Sea Point Promenade, Three Anchor Bay, Mouille Point, Green Point Urban Park и край Cape Town Stadium.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Самая простая линия запуска: променад, парк, стадион, маяк и жизнь у моря.",
+    "title": "Sea Point и Green Point: город у Атлантики",
+    "walkType": "viewpoints"
+  }
+]

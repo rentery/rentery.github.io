@@ -1,0 +1,17 @@
+{
+  "id": "florence",
+  "slug": "florence",
+  "title": "Florence",
+  "subtitle": "Florence · 5 walks coming soon",
+  "meta": "Italy · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "italy",
+  "photo": {
+    "id": "florence-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/florence/florence-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/florence/florence-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Флоренция"
+  }
+}

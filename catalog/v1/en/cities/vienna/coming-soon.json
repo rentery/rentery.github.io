@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр показывает Вену как город двора: собор, узкие улицы, площади и ворота Хофбурга.",
+    "cityId": "vienna",
+    "dayTrip": false,
+    "id": "vienna-stephansdom-hofburg-power-core",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Внутренний город: Стефансплац, Грабен, Кольмаркт, Михаэлерплац и Хофбург.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная прогулка от готического центра к двору Хабсбургов.",
+    "title": "Стефансдом и Хофбург: власть внутри старых стен",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Ринг раскрывает Вену XIX века: ратуша, парламент, театры, музеи и большие парки на месте стен.",
+    "cityId": "vienna",
+    "dayTrip": false,
+    "id": "vienna-ringstrasse-boulevard-empire",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Северо-западная и южная часть Рингштрассе от Шоттентор до Оперы и Карлсплац.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Парадный круг XIX века как проект власти, культуры и города.",
+    "title": "Рингштрассе: бульвар, который строил империю заново",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Сёнбрунн читается как сцена: дворец, партеры, фонтаны и высокий взгляд на летнюю империю.",
+    "cityId": "vienna",
+    "dayTrip": false,
+    "id": "vienna-schonbrunn-summer-empire-garden",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Дворец и сады Сёнбрунна в Хитцинге, без выезда за пределы комплекса.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Дворец, партеры и виды, где власть разыгрывала себя на открытом воздухе.",
+    "title": "Сёнбрунн: летняя империя и сад как театр",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Вена 1900 года видна на короткой линии: павильоны Отто Вагнера, Сецессион, кофе и рынок.",
+    "cityId": "vienna",
+    "dayTrip": false,
+    "id": "vienna-karlsplatz-secession-naschmarkt-1900",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Карлсплац, Фридрихштрассе, Сецессион, Нашмаркт и Линке Винцайле.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Модерн, городская железная дорога, кофейни и рынок на короткой линии.",
+    "title": "Карлсплац, Сецессион и Нашмаркт: Вена около 1900",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Бельведер собирает Вену в одном склоне: ворота, каскады, дворцы, сад и город на горизонте.",
+    "cityId": "vienna",
+    "dayTrip": false,
+    "id": "vienna-belvedere-baroque-garden-modernism",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Шварценбергплац, Нижний и Верхний Бельведер, дворцовый сад и зона Белведер 21.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Дворцовый склон, садовая перспектива и искусство от принца Евгения до Климта.",
+    "title": "Бельведер: барокко, вид и золотой модерн",
+    "walkType": "museum_walk"
+  }
+]

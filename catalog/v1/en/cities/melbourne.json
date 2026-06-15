@@ -1,0 +1,17 @@
+{
+  "id": "melbourne",
+  "slug": "melbourne",
+  "title": "Melbourne",
+  "subtitle": "Melbourne · 5 walks coming soon",
+  "meta": "Australia · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "australia",
+  "photo": {
+    "id": "melbourne-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Мельбурн"
+  }
+}

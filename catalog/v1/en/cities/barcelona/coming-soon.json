@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Прогуляйтесь по Пасео‑де‑Грасиа и Мансана де ла Дискордия, чтобы увидеть дома Батльо, Мила и другие чудеса модернизма.",
+    "cityId": "barcelona",
+    "dayTrip": false,
+    "id": "barcelona-modernist-eixample",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Эшампле, Пасео‑де‑Грасиа, Золотой квадрат",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От витрин буржуазии к шедеврам Гауди и его коллег",
+    "title": "Модернистская Барселона: Золотой квадрат Эшампле",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Нырните в лабиринт узких улиц, найдите храм Августа, загляните в собор и почувствуйте рождение Барселоны.",
+    "cityId": "barcelona",
+    "dayTrip": false,
+    "id": "barcelona-gothic-roman-core",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Готический квартал и Рибера",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От римских стен до средневековых площадей",
+    "title": "Готический квартал и Барсино: слои истории",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Встретьте морской ветер на Рамбла‑дель‑Мар, узнайте историю Ла Льотжа и почувствуйте Барселонету и Олимпийский порт.",
+    "cityId": "barcelona",
+    "dayTrip": false,
+    "id": "barcelona-maritime-waterfront",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Порт‑Вель, Барселонета, Олимпийский порт",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка вдоль воды, историй портов и рыбаков",
+    "title": "Морская Барселона: от Порт‑Вель до Олимпийской деревни",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Поднимитесь на Монжуик, чтобы посетить музеи, Палау Националь, Олимпийское кольцо и волшебный фонтан, наслаждаясь видами города.",
+    "cityId": "barcelona",
+    "dayTrip": false,
+    "id": "barcelona-montjuic-hill",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Холм Монжуик",
+    "roughDuration": "3-5 часа",
+    "status": "coming_soon",
+    "subtitle": "Национальный дворец, сады и наследие 1929 и 1992 годов",
+    "title": "Монжуик: холм музеев, садов и Олимпиады",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Отдохните в парке Цитадели, заблудитесь в лабиринте, поднимитесь к Парку Гуэль и почувствуйте зелёные склоны Коллсеролы.",
+    "cityId": "barcelona",
+    "dayTrip": false,
+    "id": "barcelona-parks-green-hills",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Парк Цитадели, Грасиа и холмы Коллсеролы",
+    "roughDuration": "4-5 часа",
+    "status": "coming_soon",
+    "subtitle": "От Парка Цитадели до Гуэля и лесистых склонов",
+    "title": "Парки и холмы: зелёные легкие Барселоны",
+    "walkType": "nature"
+  }
+]

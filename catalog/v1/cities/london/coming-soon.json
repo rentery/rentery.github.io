@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Вестминстер показывает Лондон как машину власти: река, аббатство, парламент и улица министерств.",
+    "cityId": "london",
+    "dayTrip": false,
+    "id": "london-westminster-whitehall-power",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Вестминстер, Парламентская площадь, Уайтхолл и Сент-Джеймс-парк.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Парламент, аббатство и государственная сцена вдоль Темзы.",
+    "title": "Вестминстер и Уайтхолл: как город говорит властью",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Сити раскрывается как сжатая история Лондона: стены, рынки, пожар, банки и купол над холмом.",
+    "cityId": "london",
+    "dayTrip": false,
+    "id": "london-city-tower-st-pauls-layers",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Тауэр-Хилл, исторические улицы Сити, Bank, Ludgate Hill и St Paul's.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Крепость, римские следы, пожар и финансовый город в одной линии.",
+    "title": "Сити: от Тауэра к куполу Святого Павла",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Южный берег собирает город у воды: мосты, залы, бывшую индустрию, театр и современное искусство.",
+    "cityId": "london",
+    "dayTrip": false,
+    "id": "london-south-bank-bankside-river-stage",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "South Bank и Bankside от Вестминстерского моста до London Bridge.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От колеса и концертных залов к театру, модернизму и рынку.",
+    "title": "Южный берег: Лондон как речная сцена",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Гринвич показывает другой центр Лондона: корабли, барокко, парк и линию, от которой считают время.",
+    "cityId": "london",
+    "dayTrip": false,
+    "id": "london-greenwich-maritime-time",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Исторический центр Гринвича, Old Royal Naval College, музейный квартал, парк и холм обсерватории.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная прогулка по морскому Лондону от клипера до обсерватории.",
+    "title": "Гринвич: море, короли и нулевая долгота",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Южный Кенсингтон ведёт от музейных фасадов к парку: наука, дизайн, имперская витрина и вода.",
+    "cityId": "london",
+    "dayTrip": false,
+    "id": "london-south-kensington-museums-park",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Южный Кенсингтон, Exhibition Road, Royal Albert Hall, Kensington Gardens и Hyde Park.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Exhibition Road, большие музеи, Альберт-холл и зелёная пауза у Серпентина.",
+    "title": "Южный Кенсингтон: музеи и викторианский парк",
+    "walkType": "museum_walk"
+  }
+]

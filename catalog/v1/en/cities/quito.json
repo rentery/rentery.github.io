@@ -1,0 +1,17 @@
+{
+  "id": "quito",
+  "slug": "quito",
+  "title": "Quito",
+  "subtitle": "Quito · 5 walks coming soon",
+  "meta": "Ecuador · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "ecuador",
+  "photo": {
+    "id": "quito-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/quito/quito-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/quito/quito-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Кито"
+  }
+}

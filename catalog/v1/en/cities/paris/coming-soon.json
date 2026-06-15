@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Остров Сите собирает начало Парижа: собор, королевский дворец, мосты и медленную Сену.",
+    "cityId": "paris",
+    "dayTrip": false,
+    "id": "paris-ile-de-la-cite-seine-origin",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Остров Сите, берега Сены, западная оконечность острова.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Средневековое ядро, королевская власть и мосты в одной короткой линии.",
+    "title": "Остров Сите и Сена: где Париж стал городом",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "От Трокадеро до Инвалидов виден Париж больших жестов: башня, мосты, купол и открытые перспективы.",
+    "cityId": "paris",
+    "dayTrip": false,
+    "id": "paris-trocadero-eiffel-invalides-perspectives",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Трокадеро, Champ de Mars, École Militaire, Инвалиды, Pont Alexandre III.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут о масштабе, выставках, военной памяти и видах через Сену.",
+    "title": "Трокадеро, Эйфелева башня и Инвалиды: Париж больших перспектив",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Лувр и Тюильри показывают, как дворец, сад и площадь превратились в главную ось города.",
+    "cityId": "paris",
+    "dayTrip": false,
+    "id": "paris-louvre-tuileries-royal-axis",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Лувр, Carrousel, сад Тюильри, площадь Согласия.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Как королевский двор превратился в публичное пространство центра.",
+    "title": "Лувр и Тюильри: дворец, сад и ось власти",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Маре держит несколько Парижей сразу: старые особняки, еврейские улицы, площади и новая городская жизнь.",
+    "cityId": "paris",
+    "dayTrip": false,
+    "id": "paris-marais-hotel-particuliers-identities",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "От Hôtel de Ville и Saint-Paul к Place des Vosges, Rue des Rosiers и Archives.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Плотный квартал, где аристократический Париж стал живым смешанным районом.",
+    "title": "Маре: особняки, площади и городские идентичности",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Монмартр поднимает город на холм: лестницы, мастерские, белая базилика и Париж у ног.",
+    "cityId": "paris",
+    "dayTrip": false,
+    "id": "paris-montmartre-hill-village-views",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Abbesses, Rue Lepic, верхний Монмартр, Sacré-Cœur, Square Louise-Michel.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Лестницы, мастерские, базилика и видовой миф северного Парижа.",
+    "title": "Монмартр: деревня на холме и город снизу",
+    "walkType": "neighborhood"
+  }
+]

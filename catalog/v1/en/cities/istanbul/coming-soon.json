@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Исторический холм показывает Стамбул как спор империй: камень, вода, купола и дворцовые ворота.",
+    "cityId": "istanbul",
+    "dayTrip": false,
+    "id": "istanbul-sultanahmet-imperial-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Султанахмет и мыс Сарайбурну, исторический полуостров.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От ипподрома и цистерн к Айя-Софии, дворцу и парку у моря.",
+    "title": "Султанахмет: империи на одном холме",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "От воды к площади поднимается другой Стамбул: банки, башня, пассажи, трамвай и городская сцена.",
+    "cityId": "istanbul",
+    "dayTrip": false,
+    "id": "istanbul-galata-beyoglu-pera-stage",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Каракёй, Галата, Тюнель, Истикляль и Таксим.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Порт, лестницы, башня и прямая Перы до площади Таксим.",
+    "title": "Галата и Бейоглу: город выходит на сцену",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Северные склоны старого города ведут от мечети Синана к школам, церквям и цветным улицам у залива.",
+    "cityId": "istanbul",
+    "dayTrip": false,
+    "id": "istanbul-golden-horn-suleymaniye-zeyrek-balat",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Сулеймание, Зейрек, Джибали, Фенер и Балат вдоль Золотого Рога.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От Сулеймание через Зейрек к Фенеру и Балату.",
+    "title": "Золотой Рог: холмы Синана и улицы общин",
+    "walkType": "history"
+  },
+  {
+    "blurb": "От пристаней к Большому базару тянется город обмена: запахи, дворы, уклоны, лавки и купола.",
+    "cityId": "istanbul",
+    "dayTrip": false,
+    "id": "istanbul-eminonu-grand-bazaar-trade-spine",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Эминёню, Египетский базар, Узунчаршы, Махмутпаша и Большой базар.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Специи, дворы, подъёмные улицы и крытый город ремёсел.",
+    "title": "Эминёню и базары: торговая ось старого города",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Азиатский берег раскрывает город через воду, чайные ступени, мечети Синана и тихие улицы Кузгунджука.",
+    "cityId": "istanbul",
+    "dayTrip": false,
+    "id": "istanbul-uskudar-kuzguncuk-bosphorus-bank",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Саладжак, причал Ускюдар, набережная, парк Фетхи-паши и Кузгунджук.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Азиатский берег, мечети у воды и тихий район за парком.",
+    "title": "Ускюдар и Кузгунджук: Босфор в профиль",
+    "walkType": "viewpoints"
+  }
+]

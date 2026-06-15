@@ -1,0 +1,17 @@
+{
+  "id": "bogota",
+  "slug": "bogota",
+  "title": "Богота",
+  "subtitle": "Bogotá · 5 прогулок скоро",
+  "meta": "Колумбия · маршруты в подготовке",
+  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+  "guideIds": [],
+  "countryId": "colombia",
+  "photo": {
+    "id": "bogota-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Богота"
+  }
+}

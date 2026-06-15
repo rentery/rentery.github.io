@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр раскрывает город у воды: дворец, площади, каналы и путь к Нюхавну.",
+    "cityId": "copenhagen",
+    "dayTrip": false,
+    "id": "copenhagen-slotsholmen-old-harbour",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Rådhuspladsen, Слотсхольмен, Gammel Strand, Kongens Nytorv, Nyhavn.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От площади власти к Нюхавну через остров, площади и каналы.",
+    "title": "Слотсхольмен и старая гавань: как город стал столицей",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Королевская линия ведет через сад, дворцовую площадь и бастионы к маленькому символу города.",
+    "cityId": "copenhagen",
+    "dayTrip": false,
+    "id": "copenhagen-rosenborg-amalienborg-kastellet",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Kongens Have, Rosenborg, Frederiksstaden, Amalienborg, Kastellet, Langelinie.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Ренессансный сад, дворцовая площадь и крепость у воды.",
+    "title": "Королевский север: сады, дворцы и бастионы",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Каналы Кристиансхавна показывают строгий план, морскую работу и свободную городскую окраину.",
+    "cityId": "copenhagen",
+    "dayTrip": false,
+    "id": "copenhagen-christianshavn-christiania-canals",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Knippelsbro, Christianshavns Torv, каналы Кристиансхавна, Vor Frelsers Kirke, Christiania.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Плановый квартал на воде, где рядом живут церковь, валы и Christiania.",
+    "title": "Кристиансхавн: каналы и свободный город",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Гавань здесь стала городской гостиной: мосты, купальни и новая архитектура идут вдоль воды.",
+    "cityId": "copenhagen",
+    "dayTrip": false,
+    "id": "copenhagen-harbour-architecture-bridges",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "От Black Diamond и BLOX через Lille Langebro к Islands Brygge, Bryggebroen и Cykelslangen.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Как внутренняя гавань стала витриной новой городской жизни.",
+    "title": "Гавань будущего: мосты, купальни и стекло",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Нёрребро начинается на мосту и ведет к улицам, кладбищу-парку и площади мировых предметов.",
+    "cityId": "copenhagen",
+    "dayTrip": false,
+    "id": "copenhagen-norrebro-bridge-superkilen",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Dronning Louises Bro, озёра, Assistens Kirkegård, Jægersborggade, Nørrebrogade, Superkilen.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От озёр к кладбищу-парку, улицам еды и Superkilen.",
+    "title": "Нёрребро через мост: повседневный город культур",
+    "walkType": "neighborhood"
+  }
+]

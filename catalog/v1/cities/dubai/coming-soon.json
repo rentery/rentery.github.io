@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Ручей собирает старый Дубай: дворы Аль-Фахиди, лодки абра и шумные базары Дейры.",
+    "cityId": "dubai",
+    "dayTrip": false,
+    "id": "dubai-creek-al-fahidi-deira-souks",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Dubai Creek: Аль-Фахиди, Al Seef, Bur Dubai, переправа абра и базары Дейры.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От домов с ветряными башнями к торговому берегу старого города.",
+    "title": "Ручей Дубая: Аль-Фахиди, абра и базары Дейры",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Даунтаун показывает Дубай как сцену: башня, озеро, опера и вечерние променады у воды.",
+    "cityId": "dubai",
+    "dayTrip": false,
+    "id": "dubai-downtown-burj-lake-opera",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Downtown Dubai: Burj Khalifa, Burj Lake, Dubai Opera, Souk Al Bahar и набережные Dubai Mall.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Бурдж-Халифа, озеро, опера и спектакль публичных пространств.",
+    "title": "Даунтаун: город вокруг башни",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Джумейра ведёт от открытой мечети к месту рождения ОАЭ и спокойной прибрежной ткани города.",
+    "cityId": "dubai",
+    "dayTrip": false,
+    "id": "dubai-jumeirah-mosque-etihad-museum",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Jumeirah 1: Jumeirah Mosque, Jumeirah Beach Road, Etihad Museum и Union House.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Низкий прибрежный район между религиозной открытостью и историей федерации.",
+    "title": "Джумейра: мечеть, Союз и дорога к морю",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Марина раскрывает прибрежный Дубай: стеклянные башни, яхты, пляжный бульвар и остров в море.",
+    "cityId": "dubai",
+    "dayTrip": false,
+    "id": "dubai-marina-jbr-bluewaters-waterfront",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Dubai Marina, JBR, The Beach и пешеходная связь с Bluewaters Island.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Вечерняя линия яхт, высоток, пляжного бульвара и острова Bluewaters.",
+    "title": "Марина и JBR: город на воде и стекле",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Аль-Куз показывает другой Дубай: склады, галереи, кофе, бетон и современная культурная жизнь.",
+    "cityId": "dubai",
+    "dayTrip": false,
+    "id": "dubai-alserkal-al-quoz-warehouses",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Al Quoz: Alserkal Avenue, складские ряды, галереи, дворики и индустриальная кромка района.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Индустриальный квартал, ставший одной из главных культурных сцен Дубая.",
+    "title": "Альсеркаль: искусство среди складов Аль-Куза",
+    "walkType": "museum_walk"
+  }
+]

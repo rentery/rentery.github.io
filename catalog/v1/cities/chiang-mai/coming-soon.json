@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый город раскрывает Ланну через ров, ворота, царские храмы и площадь Трёх королей.",
+    "cityId": "chiang-mai",
+    "dayTrip": false,
+    "id": "chiang-mai-old-city-lanna-moat",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый город внутри рва: от Тха Пхае к центральным храмам и западной части.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Ворота, площадь королей и храмы, где читается устройство столицы.",
+    "title": "Старый город: Ланна внутри рва",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Дойсутхеп связывает город с горой: лестница нагов, золото ступы и вид на равнину.",
+    "cityId": "chiang-mai",
+    "dayTrip": false,
+    "id": "chiang-mai-doi-suthep-sacred-mountain",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Гора Дойсутхеп и храмовый комплекс Ват Пхра Тхат Дойсутхеп.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Паломнический подъём, золотая чеди и вид на равнину Чиангмая.",
+    "title": "Дойсутхеп: гора, которая держит город",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "У реки Пинг торговый Чиангмай читается в рынках, мостах, старых домах и храме Ват Кет.",
+    "cityId": "chiang-mai",
+    "dayTrip": false,
+    "id": "chiang-mai-mae-ping-wat-ket-trade",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Рынок Варорот, цветочный рынок, набережная Мэй Пинг и община Ват Кет.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Рынки, мосты и восточный берег, где Чиангмай смотрит к реке.",
+    "title": "Мэй Пинг и Ват Кет: торговый город у воды",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Вуа Лай показывает ремесленный юг города: серебро, храмовые дворы и вечернюю еду у ворот.",
+    "cityId": "chiang-mai",
+    "dayTrip": false,
+    "id": "chiang-mai-wua-lai-silver-south-gate",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Южная сторона Старого города: Chiang Mai Gate, Wua Lai Road и квартал Ват Си Супхан.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Ремесленные переулки, серебряный храм и еда вокруг Чиангмайских ворот.",
+    "title": "Вуа Лай: серебро у южных ворот",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Нимман соединяет кампусный Чиангмай, дизайн-улицы и тихую память Ват Суан Док.",
+    "cityId": "chiang-mai",
+    "dayTrip": false,
+    "id": "chiang-mai-nimman-suan-dok-modern-edge",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Район Нимманхаемин, боковые улицы у университета, Suthep Road и Ват Суан Док.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Дизайн-улицы, студенческий запад и тихая монастырская память.",
+    "title": "Нимман и Ват Суан Док: новый край Ланна",
+    "walkType": "modern_city"
+  }
+]

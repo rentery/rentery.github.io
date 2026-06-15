@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "ghent",
+    "slug": "ghent",
+    "title": "Гент",
+    "subtitle": "Ghent · 5 прогулок скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "ghent-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гент"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "ru",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "5da670a70c86"
+}

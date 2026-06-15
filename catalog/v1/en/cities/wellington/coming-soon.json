@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Гавань собирает город в одну линию: пляж, wharf, музей, слова писателей и старая кромка берега.",
+    "cityId": "wellington",
+    "dayTrip": false,
+    "id": "wellington-waterfront-te-papa-harbour-city",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Oriental Bay, Clyde Quay, Te Papa, Whairepo Lagoon, Queens Wharf и Te Ngākau.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия Wellington между водой, музеями и следами старой береговой кромки.",
+    "title": "Набережная и Te Papa: город у гавани",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Красный Cable Car выводит над городом, а садовый спуск показывает Wellington как систему склонов.",
+    "cityId": "wellington",
+    "dayTrip": false,
+    "id": "wellington-cable-car-botanic-garden-descent",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Lambton Quay, Kelburn, Wellington Botanic Garden ki Paekākā и Bolton Street Cemetery.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткий подъём к Kelburn и медленный спуск через сады, виды и старое кладбище.",
+    "title": "Cable Car и ботанический спуск: город на склоне",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Торндон держит столицу рядом с домами: парламент, деревянные здания и память о раннем городе.",
+    "cityId": "wellington",
+    "dayTrip": false,
+    "id": "wellington-thorndon-parliament-wooden-capital",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Pipitea, Parliament precinct, Lambton Quay north, Hill Street и Tinakori Road.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Парламентский квартал, старые учреждения и тихие улицы раннего Wellington.",
+    "title": "Торндон: деревянная столица и коридоры власти",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Cuba Street показывает другой Wellington: старые фасады, музыка, laneways и городская еда без парада.",
+    "cityId": "wellington",
+    "dayTrip": false,
+    "id": "wellington-cuba-street-te-aro-laneways",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Upper Cuba Street, Cuba Mall, Ghuznee Street, Eva Street, Leeds Street и Courtenay Place.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Неформальная ось кофе, музыки, переулков, старых фасадов и вечерней жизни.",
+    "title": "Cuba Street и Те-Аро: улица, которая не выпрямилась",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Склон над центром раскрывает Wellington сверху: виллы, сосны, самолёты, паромы и бухта внизу.",
+    "cityId": "wellington",
+    "dayTrip": false,
+    "id": "wellington-mount-victoria-oriental-bay-loop",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Courtenay Place, Majoribanks Street, Mount Victoria / Matairangi и Oriental Bay.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Городской подъём от Courtenay Place к лесу, панораме и спуску к Oriental Bay.",
+    "title": "Mount Victoria: над ветром, виллами и бухтой",
+    "walkType": "viewpoints"
+  }
+]

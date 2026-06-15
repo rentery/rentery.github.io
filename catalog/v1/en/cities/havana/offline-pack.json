@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "havana",
+    "slug": "havana",
+    "title": "Havana",
+    "subtitle": "Havana · 5 walks coming soon",
+    "meta": "Cuba · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "cuba",
+    "photo": {
+      "id": "havana-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гавана"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "20f66835a3a9"
+}

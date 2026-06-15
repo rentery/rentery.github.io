@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Средневековые стены, замок и колледж складываются в историю власти у южного берега Лиффи.",
+    "cityId": "dublin",
+    "dayTrip": false,
+    "id": "dublin-castle-walls-trinity-power",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Южный исторический центр: St Audoen’s, Christ Church, Dublin Castle, Temple Bar и Trinity.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От средневековых ворот к колледжу, где город учился говорить от своего имени.",
+    "title": "Дублин у власти: замок, стены и Тринити",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Южный квартал показывает Дублин как город дверей, парков, музеев и писателей на соседних улицах.",
+    "cityId": "dublin",
+    "dayTrip": false,
+    "id": "dublin-georgian-south-literary",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "St Stephen’s Green, Kildare Street, Merrion Square и соседние георгианские улицы.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Красный кирпич, национальные институты и литературная память вокруг двух площадей.",
+    "title": "Георгианский юг: двери, парки и писатели",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "The Liberties ведёт от кафедральных стен к рынкам, мастерским и большому пивоваренному городу.",
+    "cityId": "dublin",
+    "dayTrip": false,
+    "id": "dublin-liberties-cathedral-brewery",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Dublin 8: St Patrick’s, Patrick Street, Francis Street, Thomas Street и St James’s Gate.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старый вольный район между церковью, ремеслом и запахом солода.",
+    "title": "The Liberties: собор, пивоварня и рабочий запад",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Килмейнхем собирает тюрьму, старый госпиталь и тихие сады в одну тяжёлую линию памяти.",
+    "cityId": "dublin",
+    "dayTrip": false,
+    "id": "dublin-kilmainham-gaol-hospital-memory",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Dublin 8 west: Kilmainham Gaol, Royal Hospital Kilmainham, IMMA и прилегающие сады.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Западный маршрут о восстании, государстве, искусстве и трудной памяти.",
+    "title": "Килмейнхем: тюрьма, госпиталь и память республики",
+    "walkType": "history"
+  },
+  {
+    "blurb": "У восточной Лиффи портовая память встречает мосты, эмиграцию и стеклянный Дублин XXI века.",
+    "cityId": "dublin",
+    "dayTrip": false,
+    "id": "dublin-docklands-liffey-modern-city",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Восточная Лиффи: Custom House, North Wall Quay, Samuel Beckett Bridge и Grand Canal Dock.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Восточная река между портовой памятью, мостами и новым деловым Дублином.",
+    "title": "Доклендс: Лиффи, эмиграция и город из стекла",
+    "walkType": "modern_city"
+  }
+]

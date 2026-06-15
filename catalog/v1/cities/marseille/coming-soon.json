@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "У Старого порта город собирает греческий след, крепости, квартал Панье и новую линию моря.",
+    "cityId": "marseille",
+    "dayTrip": false,
+    "id": "marseille-vieux-port-panier-mucem",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый порт, северная набережная, форт Сен-Жан, J4, Панье.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Порт, крепости и старые улицы читаются как один городской слой.",
+    "title": "Старый порт и Панье: Марсель от Массалии до Mucem",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "С высоты базилики Марсель раскрывается вниз: крыши, бухты, лодки и дорога вдоль моря.",
+    "cityId": "marseille",
+    "dayTrip": false,
+    "id": "marseille-bonne-mere-vallon-des-auffes",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Нотр-Дам-де-ла-Гард, Вобан, Рукас-Блан, Корниш, Валлон-де-Оф.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Спуск от главного силуэта Марселя к рыбацкой бухте и Корниш.",
+    "title": "От Доброй Матери к Валлон-де-Оф: город над морем",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Рынок Ноай и стены Кур-Жюльен показывают Марсель как город запахов, языков и быстрых перемен.",
+    "cityId": "marseille",
+    "dayTrip": false,
+    "id": "marseille-noailles-cours-julien",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Ла-Канебьер, Ноай, рю д’Обань, Нотр-Дам-дю-Мон, Кур-Жюльен.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Центральный Марсель через рынки, миграции, граффити и вечерние площади.",
+    "title": "Ноай и Кур-Жюльен: рынок, стены и голос улицы",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Один дом на бульваре Мишле показывает мечту о городе внутри здания и жизнь после модернизма.",
+    "cityId": "marseille",
+    "dayTrip": false,
+    "id": "marseille-cite-radieuse-prado",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Ронд-Пуан-дю-Прадо, бульвар Мишле, Сите-Радьёз и ближайший парк здания.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Модернистский эксперимент Ле Корбюзье на южной оси Марселя.",
+    "title": "Сите-Радьёз и Прадо: дом как маленький город",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "У последних домов Марселя город обрывается в белый камень, малые бухты и большое море.",
+    "cityId": "marseille",
+    "dayTrip": false,
+    "id": "marseille-callelongue-marseilleveyre",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Каллонг, прибрежная тропа массива Марсельвейр, каланка Марсельвейр.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Сухая тропа от последнего порта к известняку, бухтам и открытому морю.",
+    "title": "Каллонг и Марсельвейр: каланки у края города",
+    "walkType": "nature"
+  }
+]

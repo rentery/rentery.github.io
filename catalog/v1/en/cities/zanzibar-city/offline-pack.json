@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "zanzibar-city",
+    "slug": "zanzibar-city",
+    "title": "Zanzibar City",
+    "subtitle": "Zanzibar City · 5 walks coming soon",
+    "meta": "Tanzania · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "tanzania",
+    "photo": {
+      "id": "zanzibar-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Занзибар-Сити"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "6642aee90701"
+}

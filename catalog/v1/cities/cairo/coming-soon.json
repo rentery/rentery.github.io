@@ -1,0 +1,73 @@
+[
+  {
+    "blurb": "Улица аль-Муизз ведёт через ворота, рынки и камень, где Каир веками показывал власть.",
+    "cityId": "cairo",
+    "dayTrip": false,
+    "id": "cairo-muizz-fatimid-mamluk-spine",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Улица аль-Муизз: от северных ворот Фатимидского Каира к Баб Зувейла.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Фатимидские ворота, мамлюкская каменная сцена и рынок как городской театр.",
+    "title": "Аль-Муизз: позвоночник средневекового Каира",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Плато Гизы собирает пирамиды, Сфинкса и пустынный горизонт в один ясный маршрут.",
+    "cityId": "cairo",
+    "dayTrip": true,
+    "id": "cairo-giza-plateau-pyramids",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Плато Гизы: зона пирамид, Сфинкса и обзорных точек на западной окраине Большого Каира.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Один открытый маршрут по краю пустыни, где форма, масштаб и горизонт работают вместе.",
+    "title": "Плато Гизы: пирамиды как ландшафт власти",
+    "walkType": "day_trip",
+    "nearbyPlace": "Гиза"
+  },
+  {
+    "blurb": "Старый Каир держит рядом церкви, синагогу, первую мечеть и память о Фустате.",
+    "cityId": "cairo",
+    "dayTrip": false,
+    "id": "cairo-coptic-fustat-faiths",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Старый Каир вокруг Мар Гиргис, крепости Вавилон и южной кромки Фустата.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная прогулка по месту, где римские стены, церкви, синагога и ранний ислам стоят рядом.",
+    "title": "Коптский Каир и Фустат: вера у старой крепости",
+    "walkType": "history"
+  },
+  {
+    "blurb": "От цитадели к мечетям у площади видно, как власть спускалась с холма в город.",
+    "cityId": "cairo",
+    "dayTrip": false,
+    "id": "cairo-citadel-sultan-hassan-power",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Цитадель Салах ад-Дина, площадь Салах ад-Дина и улицы у подножия Мукаттама.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Холм, крепость, вид на город и монументальные мечети у подножия.",
+    "title": "От цитадели к султану Хасану: власть на склоне",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Центр вокруг Тахрира показывает Каир витрин, кафе, площадей и европейских фасадов.",
+    "cityId": "cairo",
+    "dayTrip": false,
+    "id": "cairo-khedivial-downtown-tahrir",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Downtown Cairo: Тахрир, улицы Каср ан-Нил и Талаат Харб, пассажи и Абдин.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Площади, кафе, пассажи и фасады, где город примерял европейскую столичность.",
+    "title": "Центр у Тахрира: витрины модерного Каира",
+    "walkType": "architecture"
+  }
+]

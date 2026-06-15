@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старая сетка города складывает греческие улицы, монастыри, дворы и шум Спакканаполи.",
+    "cityId": "naples",
+    "dayTrip": false,
+    "id": "naples-spaccanapoli-decumani-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Исторический центр: от Piazza del Gesù Nuovo через Spaccanapoli и Decumani к Duomo.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная ось старого Неаполя: греческая сетка, монастыри, дворы и ремесленные улицы.",
+    "title": "Спакканаполи и Декуманы: город слоями",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Виа Толедо показывает Неаполь на контрасте: парадные фасады, рынки и плотные лестницы кварталов.",
+    "cityId": "naples",
+    "dayTrip": false,
+    "id": "naples-via-toledo-quartieri-spagnoli",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Via Toledo, Pignasecca, Quartieri Spagnoli, Galleria Umberto I и Piazza del Plebiscito.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Контрастная прогулка между прямой парадной улицей, рынком, театром и плотной сеткой квартала.",
+    "title": "Виа Толедо и Кварталы Испанцев: фасад и переулки",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Берег ведёт от мифа Парфенопы к вечернему заливу: крепость, рыбацкий борго и длинная линия моря.",
+    "cityId": "naples",
+    "dayTrip": false,
+    "id": "naples-megaride-chiaia-seafront",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Santa Lucia, Isolotto di Megaride, Borgo Marinari, Lungomare Caracciolo и Chiaia.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Морская линия от легенды о Парфенопе к буржуазной набережной и виду на Везувий.",
+    "title": "Мегариде и Чиайя: Неаполь лицом к заливу",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Санита раскрывает город снизу вверх: катакомбы, барочные лестницы, дворы и новая энергия района.",
+    "cityId": "naples",
+    "dayTrip": false,
+    "id": "naples-rione-sanita-catacombs",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Rione Sanità: от склона Capodimonte через катакомбы и районные улицы к Porta San Gennaro.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Линия от раннехристианских катакомб к барочным дворам и современной энергии района.",
+    "title": "Рионе Санита: город под городом и над ним",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Сан-Мартино собирает Неаполь в одну картину: крепость, монастырь, лестницы и вид на весь залив.",
+    "cityId": "naples",
+    "dayTrip": false,
+    "id": "naples-san-martino-vomero-viewpoints",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Vomero, Largo San Martino, Castel Sant'Elmo, Certosa di San Martino и спуск по Pedamentina.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Панорамная прогулка от холма и крепости к лестницам, которые спускают город к центру.",
+    "title": "Сан-Мартино и Вомеро: Неаполь сверху",
+    "walkType": "viewpoints"
+  }
+]

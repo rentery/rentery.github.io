@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "fes",
+    "slug": "fes",
+    "title": "Fez",
+    "subtitle": "Fez · 5 walks coming soon",
+    "meta": "Morocco · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "morocco",
+    "photo": {
+      "id": "fes-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/fes/fes-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/fes/fes-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Фес"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "252edab71689"
+}

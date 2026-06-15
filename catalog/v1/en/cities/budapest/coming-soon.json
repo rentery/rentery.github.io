@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Крепостной холм показывает Будапешт сверху: власть, войны, восстановление и вид на два берега.",
+    "cityId": "budapest",
+    "dayTrip": false,
+    "id": "budapest-buda-castle-hill-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Крепостной холм Буды: от Варкерт-Базара и дворца к площади Святой Троицы и Рыбацкому бастиону.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Королевский холм, церковные фасады и панорама двух берегов.",
+    "title": "Будайская крепость: город над Дунаем",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Пешт раскрывается вдоль воды: парламент, мосты, мемориалы и фасады, смотрящие на Буду.",
+    "cityId": "budapest",
+    "dayTrip": false,
+    "id": "budapest-pest-danube-civic-stage",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Пештский берег Дуная от площади Кошута через Цепной мост к Вигадо и Вёрёшмарти.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Парадный берег, где столица собрала политику, память и витрины.",
+    "title": "Пешт у Дуная: парламент, мосты и городская сцена",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Один бульвар ведёт от театрального центра к национальному пантеону, виллам и зелени Варошлигета.",
+    "cityId": "budapest",
+    "dayTrip": false,
+    "id": "budapest-andrassy-city-park-millennium",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Проспект Андрашши от Оперы через Октогон и Кодай-кёрёнд к площади Героев и Варошлигету.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От оперного Пешта к площади Героев и городскому парку.",
+    "title": "Андрашши: бульвар тысячелетия",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "В старом квартале рядом стоят синагоги, дворы, стены памяти и вечерняя жизнь Пешта.",
+    "cityId": "budapest",
+    "dayTrip": false,
+    "id": "budapest-jewish-quarter-courtyards-memory",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Эржебетварош: от Дохань и Румбах через Гожду-удвар к Казинци и площади Клаузаль.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Память квартала между большими храмами, проходными дворами и новой культурой.",
+    "title": "Еврейский квартал Пешта: дворы, синагоги, ночной город",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Южный Дунай складывает рынок, зелёный мост, купальни и резкий подъём к видам над городом.",
+    "cityId": "budapest",
+    "dayTrip": false,
+    "id": "budapest-great-market-liberty-bridge-gellert",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Фёвам, мост Свободы, площадь Святого Геллерта и нижние тропы горы Геллерт.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Южный край центра, где еда, модерн, термальные воды и скала сходятся у Дуная.",
+    "title": "От рынка к Геллерту: вода, мост и гора",
+    "walkType": "viewpoints"
+  }
+]

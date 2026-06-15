@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Озеро и 36 улиц собирают Ханой в один узор: легенда, торговые ряды и жизнь на тротуаре.",
+    "cityId": "hanoi",
+    "dayTrip": false,
+    "id": "hanoi-old-quarter-hoan-kiem-guilds",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Озеро Хоанкьем и север Старого квартала.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная прогулка по легенде озера, торговым улицам и живому тротуару.",
+    "title": "Хоанкьем и 36 улиц: Ханой у воды и лавок",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Цитадель и Бадинь показывают, как древняя столица стала современным политическим центром.",
+    "cityId": "hanoi",
+    "dayTrip": false,
+    "id": "hanoi-thang-long-ba-dinh-power",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Императорская цитадель Тханглонг, 18 Хоанг Зиеу и площадь Бадинь.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От императорских ворот к площади, где государство говорит языком ритуала.",
+    "title": "Тханглонг и Бадинь: столица как место власти",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Французские фасады ведут к тюрьме Хоало и театру, где колониальный город спорит с новой страной.",
+    "cityId": "hanoi",
+    "dayTrip": false,
+    "id": "hanoi-french-quarter-hoa-lo-revolution",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "От собора Святого Иосифа и Хоало к Чанг Тьен, Оперному театру и музею истории.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Архитектура колониального города, тюрьма и сцены новой политической истории.",
+    "title": "Французский квартал и Хоало: фасады и перелом",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Дворы Ванмиеу раскрывают Ханой как город экзаменов, каллиграфии и уважения к учёности.",
+    "cityId": "hanoi",
+    "dayTrip": false,
+    "id": "hanoi-van-mieu-scholar-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Ванмиеу — Куок Ты Зям, озеро Ван, музейная зона у Нгуен Тхай Хок.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка о конфуцианской учёности, стелах, садах и культурной памяти.",
+    "title": "Ванмиеу: город экзаменов и тихих дворов",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Западное озеро даёт другой ритм: вода, пагоды, храмы и вечерний свет над Тэйхо.",
+    "cityId": "hanoi",
+    "dayTrip": false,
+    "id": "hanoi-west-lake-truc-bach-temples",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Тханьниен, Чукбак, восточный край Западного озера и храмовая зона.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Озёрная прогулка по пагодам, дамбе Тханьниен и северному дыханию города.",
+    "title": "Западное озеро и Чукбак: вода, храмы, тишина",
+    "walkType": "nature"
+  }
+]

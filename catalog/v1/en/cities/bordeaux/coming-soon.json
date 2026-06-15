@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Гаронна собирает главный Бордо: парадные фасады, водное зеркало, старые ворота и церковные башни.",
+    "cityId": "bordeaux",
+    "dayTrip": false,
+    "id": "bordeaux-port-de-la-lune-stone-river",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Кенконс, Гран-Театр, площадь Биржи, Сен-Пьер, Пей-Берлан.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия города от парадных площадей к средневековым воротам.",
+    "title": "Порт Луны: камень, река и власть Бордо",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Сен-Мишель показывает Бордо снизу: рынок, готическая башня, тесные улицы и шум южного квартала.",
+    "cityId": "bordeaux",
+    "dayTrip": false,
+    "id": "bordeaux-saint-michel-market-medieval-south",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Порт-де-Бургонь, площадь Мейнар, Сен-Мишель, Капюсен.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Квартал, где готика, уличная жизнь и еда держатся в одном ритме.",
+    "title": "Сен-Мишель: рынок, шпиль и южный Бордо",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Шартрон ведет от набережных к купеческим улицам, где склады, антиквары и винная память живут рядом.",
+    "cityId": "bordeaux",
+    "dayTrip": false,
+    "id": "bordeaux-chartrons-wine-merchants-quays",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Набережная Шартрона, Rue Notre-Dame, Place du Marché des Chartrons, Jardin Public.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От набережных складов к улицам, где вино стало городским делом.",
+    "title": "Шартрон: квартал винных торговцев",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Правый берег дает другой ракурс: мост, травы у реки, ботанический сад и городские эксперименты Darwin.",
+    "cityId": "bordeaux",
+    "dayTrip": false,
+    "id": "bordeaux-bastide-darwin-river-views",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Пон-де-Пьер, Сталинград, Бастида, Parc aux Angéliques, Darwin.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Бастида, зеленая набережная и бывшая казарма как новый городской фронт.",
+    "title": "Правый берег: Бордо напротив самого себя",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Бакалан собирает новый городской сюжет: доки, мост Чабан-Дельмас, винная архитектура и портовая память.",
+    "cityId": "bordeaux",
+    "dayTrip": false,
+    "id": "bordeaux-bacalan-bassins-aflot-wine-docks",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Pont Jacques-Chaban-Delmas, Cité du Vin, Bassins à flot, бывшая подводная база.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Северная набережная между портовой памятью, мостом и винной архитектурой.",
+    "title": "Бакалан и доки: новый Бордо у воды",
+    "walkType": "architecture"
+  }
+]

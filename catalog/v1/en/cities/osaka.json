@@ -1,0 +1,17 @@
+{
+  "id": "osaka",
+  "slug": "osaka",
+  "title": "Osaka",
+  "subtitle": "Osaka · 5 walks coming soon",
+  "meta": "Japan · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "japan",
+  "photo": {
+    "id": "osaka-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Осака"
+  }
+}

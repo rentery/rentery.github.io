@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый Порту раскрывается сверху вниз: собор, вокзал, башня, спуск к реке и мост.",
+    "cityId": "porto",
+    "dayTrip": false,
+    "id": "porto-se-ribeira-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Се, São Bento, Clérigos, Ribeira и мост Luís I.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От кафедральной высоты через вокзал и башню к реке Дору.",
+    "title": "Се и Рибейра: Порту сверху вниз",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Гайя показывает Порту с другой стороны: мост, монастырь, склады вина и широкая река.",
+    "cityId": "porto",
+    "dayTrip": false,
+    "id": "porto-gaia-wine-river-views",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Верхний ярус Luís I, Jardim do Morro, Serra do Pilar и набережная Gaia.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Мост, монастырь, панорама и склады вина на южном берегу Дору.",
+    "title": "Гайя и портвейн: другой берег Порту",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Байша звучит рынком, плиткой и витринами: от Алиадуш до Санта-Катарина и Батальи.",
+    "cityId": "porto",
+    "dayTrip": false,
+    "id": "porto-baixa-bolhao-city-life",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Avenida dos Aliados, Bolhão, Santa Catarina и Batalha.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Повседневный центр города между Алиадуш, рынком и Санта-Катарина.",
+    "title": "Байша и Болян: рынок, плитка, сцена",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Атлантический край города ведёт от устья Дору к пляжам, маякам и парку у моря.",
+    "cityId": "porto",
+    "dayTrip": false,
+    "id": "porto-foz-douro-atlantic-line",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Foz do Douro, Passeio Alegre, Avenida do Brasil и City Park.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Маяки, сады, пляжная линия и морской край города.",
+    "title": "Фош: где Дору выходит к Атлантике",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Современный Порту собирается вдоль Боавишты: музыка, проспект, Сиза и парк Серралвеш.",
+    "cityId": "porto",
+    "dayTrip": false,
+    "id": "porto-boavista-serralves-modern-axis",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Rotunda da Boavista, Avenida da Boavista и комплекс Serralves.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От музыкального бетонного кристалла к музею, вилле и парку Сизы.",
+    "title": "Боавишта—Серралвеш: современный Порту",
+    "walkType": "modern_city"
+  }
+]

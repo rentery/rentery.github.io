@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр показывает Гонконг в разрезе: холмы, храмы, рынки, власть и улицы, которые всё время меняют роль.",
+    "cityId": "hong-kong",
+    "dayTrip": false,
+    "id": "hong-kong-old-town-central-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Сентрал, Тай Квун, Голливуд-роуд и Шёнвань.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Колониальные фасады, храмы, эскалаторы и торговые улицы старого острова.",
+    "title": "Сентрал и Шёнвань: город на уступах",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Гавань собирает город как сцену: паром, старая башня, музейные фасады, кино и свет острова напротив.",
+    "cityId": "hong-kong",
+    "dayTrip": false,
+    "id": "hong-kong-tsim-sha-tsui-harbour-stage",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Набережная Цим Ша Цуй от Star Ferry Pier до восточной променады.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Линия вдоль воды, где паромы, кино, музеи и skyline становятся одним городским спектаклем.",
+    "title": "Цим Ша Цуй: гавань как сцена",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "На Пике Гонконг складывается в карту: гавань, башни, лес и старые дороги вокруг самого известного холма.",
+    "cityId": "hong-kong",
+    "dayTrip": false,
+    "id": "hong-kong-peak-circle-city-from-above",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Кольцевая прогулка Peak Circle Walk вокруг Пика Виктория.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Кольцо по Лугард-роуд и Харлек-роуд о рельефе, зелени и силуэте гавани.",
+    "title": "Пик Виктория: город сверху",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Шам Шуй По показывает другой темп Гонконга: ткани, детали, рынки, старое жильё и энергия рабочего района.",
+    "cityId": "hong-kong",
+    "dayTrip": false,
+    "id": "hong-kong-sham-shui-po-working-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Шам Шуй По и соседняя уличная сетка вокруг рынков и торговых улиц.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Ткани, электроника, рынки и плотная городская изобретательность уличной сетки.",
+    "title": "Шам Шуй По: рабочий Коулун",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Новый берег Западного Коулуна соединяет музеи, парк, оперу и воду — редкую паузу в плотном городе.",
+    "cityId": "hong-kong",
+    "dayTrip": false,
+    "id": "hong-kong-west-kowloon-cultural-waterfront",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "West Kowloon Cultural District от Xiqu Centre к Art Park и музейному берегу.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Музеи, парк и променад, где город пробует быть просторнее и медленнее.",
+    "title": "Западный Коулун: новый берег культуры",
+    "walkType": "modern_city"
+  }
+]

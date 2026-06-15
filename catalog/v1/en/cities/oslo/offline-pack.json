@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "oslo",
+    "slug": "oslo",
+    "title": "Oslo",
+    "subtitle": "Oslo · 5 walks coming soon",
+    "meta": "Norway · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "norway",
+    "photo": {
+      "id": "oslo-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Осло"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "e6fd3c85ad4e"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "У гавани Хельсинки показывает, как маленький порт стал столицей с площадями, куполами и рынком.",
+    "cityId": "helsinki",
+    "dayTrip": false,
+    "id": "helsinki-senate-harbour-capital",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Круунунхака, Сенатская площадь, Торикорттелит, Южная гавань, Катаянокка.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Неоклассический центр, рынок у воды и следы двух империй.",
+    "title": "Сенатская площадь и гавань: город становится столицей",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Каменные стены у моря ведут через три эпохи обороны и тихую жизнь островного района.",
+    "cityId": "helsinki",
+    "dayTrip": false,
+    "id": "helsinki-suomenlinna-fortress-islands",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Суоменлинна: главный причал, Сусисаари и Кустаанмиекка.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Островная оборона, сухой док и жилая крепость в одном маршруте.",
+    "title": "Суоменлинна: крепость между Швецией, Россией и морем",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Дизайн здесь живет не в витрине, а в улицах: галереи, югенд и дома, где город смотрит на море.",
+    "cityId": "helsinki",
+    "dayTrip": false,
+    "id": "helsinki-design-district-jugend-south",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Пунавуори, Каартинкаупунки, Улланлинна и север Эйры.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Пунавуори и Улланлинна как лаборатория городской красоты.",
+    "title": "Дизайн-дистрикт: витрины, югенд и южные кварталы",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Залив собирает современный Хельсинки: библиотеку, музыку, парламент и церковь в скале.",
+    "cityId": "helsinki",
+    "dayTrip": false,
+    "id": "helsinki-toolonlahti-modern-civic-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Клууви, Камппи, Тёёлёнлахти и Эту-Тёёлё.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Новая публичность от вокзала к заливу и церкви в граните.",
+    "title": "Тёёлёнлахти: библиотека, скала и город для всех",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "За мостом начинается другой ритм: рынок, гранитные улицы, районная сауна и вечерний Каллио.",
+    "cityId": "helsinki",
+    "dayTrip": false,
+    "id": "helsinki-kallio-hakaniemi-north-city",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Питкясилта, Хаканиеми, Силтасаари, Каллио и Харью.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Рынок, мосты, холмы, церковь и районная сауна.",
+    "title": "Каллио и Хаканиеми: северный город без парада",
+    "walkType": "neighborhood"
+  }
+]

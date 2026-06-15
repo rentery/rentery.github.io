@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "philadelphia",
+    "slug": "philadelphia",
+    "title": "Philadelphia",
+    "subtitle": "Philadelphia · 5 walks coming soon",
+    "meta": "United States · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "philadelphia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Филадельфия"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "68d5549b1205"
+}

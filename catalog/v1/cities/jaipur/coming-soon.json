@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Розовый город раскрывается как точная сетка: ворота, дворец, небо обсерватории и шум базара.",
+    "cityId": "jaipur",
+    "dayTrip": false,
+    "id": "jaipur-walled-city-royal-grid",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старая стена: Аджмери-гейт, Триполия, дворцовый квартал и Бади-Чаупар.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От городских ворот к дворцу, обсерватории и фасаду Хава-Махала.",
+    "title": "Розовый город: власть, небо и базарная сетка",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Амер держит старую власть Джайпура: холм, озеро Маота, дворцовые дворы и тихие улицы у ворот.",
+    "cityId": "jaipur",
+    "dayTrip": false,
+    "id": "jaipur-amer-fort-old-amer",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Амер: дворец-крепость над озером Маота и старые улицы у Кери-гейт.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Бывшая столица Качвахов от дворцовых дворов к ремесленным улицам.",
+    "title": "Амер: крепость, озеро и город у подножия",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Базары показывают город без паузы: розовые аркады, ювелирные витрины, ткани и узор улиц.",
+    "cityId": "jaipur",
+    "dayTrip": false,
+    "id": "jaipur-johari-bapu-bazaars",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Южная и центральная часть стены: Санганери-гейт, Бапу-базар, Джохари-базар, Триполия.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Коммерческая сетка от Санганери-гейт к Джохари и Триполии.",
+    "title": "Базары Розового города: камень, ткань и вывески",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Восточная окраина ведет к другой стороне Джайпура: камень холмов, храмовые дворы и вода в кундах.",
+    "cityId": "jaipur",
+    "dayTrip": false,
+    "id": "jaipur-galtaji-sun-temple-valley",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Восточная окраина: Галта-гейт, храм Сурьи и долина Галтаджи.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Паломническая тропа через холмы к кундам и храмам Галтаджи.",
+    "title": "Галтаджи: храмы, вода и восточный край",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "У южной стены город становится публичным: сад, музейный дворец, уличная еда и ворота старого центра.",
+    "cityId": "jaipur",
+    "dayTrip": false,
+    "id": "jaipur-ram-niwas-albert-hall-public-city",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Южная кромка старого города: Нью-гейт, Ram Niwas Garden и Albert Hall Museum.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Сад, музейный дворец и южная граница старого города.",
+    "title": "Рам-Нивас и Альберт-холл: публичный Джайпур",
+    "walkType": "museum_walk"
+  }
+]

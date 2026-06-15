@@ -1,0 +1,17 @@
+{
+  "id": "lisbon",
+  "slug": "lisbon",
+  "title": "Lisbon",
+  "subtitle": "Lisbon · 5 walks coming soon",
+  "meta": "Portugal · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "portugal",
+  "photo": {
+    "id": "lisbon-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Лиссабон"
+  }
+}

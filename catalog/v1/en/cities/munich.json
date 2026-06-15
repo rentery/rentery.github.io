@@ -1,0 +1,17 @@
+{
+  "id": "munich",
+  "slug": "munich",
+  "title": "Munich",
+  "subtitle": "Munich · 5 walks coming soon",
+  "meta": "Germany · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "germany",
+  "photo": {
+    "id": "munich-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Мюнхен"
+  }
+}

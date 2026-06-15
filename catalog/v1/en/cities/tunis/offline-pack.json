@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "tunis",
+    "slug": "tunis",
+    "title": "Tunis",
+    "subtitle": "Tunis · 5 walks coming soon",
+    "meta": "Tunisia · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "tunisia",
+    "photo": {
+      "id": "tunis-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Тунис"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "02f0fef2fd05"
+}

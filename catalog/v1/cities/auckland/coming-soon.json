@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Гавань показывает Окленд с первой минуты: паромы, склады, стекло и жизнь у воды.",
+    "cityId": "auckland",
+    "dayTrip": false,
+    "id": "auckland-waterfront-britomart-harbour-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Lower Queen Street, Britomart, Ferry Building, Viaduct Harbour, Wynyard Quarter.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Гавань, старый причал и новая витрина центра.",
+    "title": "Набережная и Бритомарт: город у Waitematā",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "С одного маунга видно, как город вырос поверх кратера, дорог и древних оборонительных линий.",
+    "cityId": "auckland",
+    "dayTrip": false,
+    "id": "auckland-maungawhau-volcano-city-view",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Mount Eden Village, нижние склоны Maungawhau, crater boardwalk, summit viewpoints.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Вулкан, pā и панорама Окленда с одной горы.",
+    "title": "Maungawhau: город вокруг кратера",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Парк и Parnell собирают тихий Окленд: музей на холме, зимние сады и старые улицы.",
+    "cityId": "auckland",
+    "dayTrip": false,
+    "id": "auckland-domain-parnell-memory-park",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Pukekawa Auckland Domain, Auckland War Memorial Museum, Wintergarden, Parnell Road.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Военная память, Māori и Pacific taonga, викторианские улицы.",
+    "title": "Pukekawa и Parnell: парк, музей, старый пригород",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "K Road раскрывает другой центр: галереи, вывески, музыка и следы улицы, которая менялась вслух.",
+    "cityId": "auckland",
+    "dayTrip": false,
+    "id": "auckland-karangahape-road-night-culture",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Karangahape Road от Symonds Street до Ponsonby Road, St Kevins Arcade, край Myers Park.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Один километр уличного искусства, queer-памяти и ночного города.",
+    "title": "Karangahape Road: гребень музыки и перемен",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Короткая переправа ведёт к другому Окленду: деревня у воды, два маунга и вид обратно на skyline.",
+    "cityId": "auckland",
+    "dayTrip": false,
+    "id": "auckland-devonport-takarunga-harbour-village",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Devonport Ferry Terminal, Victoria Road, Takarunga / Mount Victoria, King Edward Parade, Maungauika / North Head.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Северный берег с викторианской улицей, pā-следами и видами на CBD.",
+    "title": "Devonport: паром, маунга и тихая гавань",
+    "walkType": "neighborhood"
+  }
+]

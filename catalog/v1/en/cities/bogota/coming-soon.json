@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Исторический центр соединяет золото, крутые улицы и площадь, где город снова и снова спорил о власти.",
+    "cityId": "bogota",
+    "dayTrip": false,
+    "id": "bogota-candelaria-gold-power",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Ла-Канделария, Parque Santander, Plaza de Bolívar и кварталы у Чорро-де-Кеведо.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Исторический центр как спор доколумбовой памяти, колониальной улицы и республиканской власти.",
+    "title": "Ла-Канделария: золото, площадь и город на склоне",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Восточные горы показывают Боготу сразу: древнюю воду, паломников, красные крыши и огромную равнину.",
+    "cityId": "bogota",
+    "dayTrip": false,
+    "id": "bogota-monserrate-eastern-hills",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Eje Ambiental, Quinta de Bolívar, нижняя станция и вершина Монсеррате.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Видовая прогулка о высоте, воде, паломничестве и городе, прижатом к Андам.",
+    "title": "Монсеррате и восточные горы: Богота сверху",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "За музеем и парком начинается другая Богота: кирпич Сальмоны, галереи, арена и рынок Ла-Персеверансия.",
+    "cityId": "bogota",
+    "dayTrip": false,
+    "id": "bogota-centro-internacional-macarena",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Museo Nacional, Parque de la Independencia, Torres del Parque и barrio La Macarena.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Культурный центр XX века между бывшей тюрьмой, парком, Сальмоной и богемными улицами.",
+    "title": "Centro Internacional и Ла-Макарена: кирпич, музеи и рынок",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Чапинеро ведет от неоготической площади к тихим особнякам, кофе и северной городской жизни.",
+    "cityId": "bogota",
+    "dayTrip": false,
+    "id": "bogota-chapinero-quinta-camacho",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Plaza de Lourdes, Carrera 13, Quinta Camacho и Zona G.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Районная прогулка о церкви Лурдес, особняках, кофе и новой повседневности Bogotá moderna.",
+    "title": "Чапинеро и Quinta Camacho: город уходит на север",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Усакин хранит масштаб старого поселка: площадь, церковь, узкие улицы и северный воскресный шум.",
+    "cityId": "bogota",
+    "dayTrip": false,
+    "id": "bogota-usaquen-village-market",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Plaza Fundacional de Usaquén, Santa Bárbara de Usaquén и улицы вокруг рынка.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная северная прогулка по площади, церкви, ремесленному рынку и следам старого pueblo.",
+    "title": "Усакин: бывший поселок внутри большого города",
+    "walkType": "neighborhood"
+  }
+]

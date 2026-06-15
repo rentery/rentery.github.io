@@ -1,0 +1,73 @@
+[
+  {
+    "blurb": "Главная ось Оахаки связывает площадь, зеленый камень и монастырский город внутри города.",
+    "cityId": "oaxaca",
+    "dayTrip": false,
+    "id": "oaxaca-zocalo-santo-domingo-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Centro Histórico: Zócalo, Andador Macedonio Alcalá, Santo Domingo.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная ось центра: площадь, сетка, камень и доминиканский комплекс.",
+    "title": "От Сокало к Санто-Доминго: Оахака слоями власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "На вершине над долиной древний город показывает власть через рельеф, пустоту площади и дальние виды.",
+    "cityId": "oaxaca",
+    "dayTrip": true,
+    "id": "oaxaca-monte-alban-sacred-topography",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Zona Arqueológica de Monte Albán, главная церемониальная зона.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "День на запотекской вершине: площади, платформы и горизонт долин.",
+    "title": "Монте-Альбан: город, вырезанный из горы",
+    "walkType": "day_trip",
+    "nearbyPlace": "Monte Albán"
+  },
+  {
+    "blurb": "У рынков Оахака звучит громче: дымный коридор, шоколад, ремесла и площадь у Соледад.",
+    "cityId": "oaxaca",
+    "dayTrip": false,
+    "id": "oaxaca-markets-smoke-soledad",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Южная и западная часть Centro Histórico: рынки, Plaza de la Danza, La Soledad.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Южные рынки и западная площадь центра как маршрут вкуса и ритуала.",
+    "title": "Рынки и Соледад: дым, шоколад и городская вера",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Халатлако показывает Оахаку в масштабе квартала: брусчатка, муралы, малые церкви и дворовая жизнь.",
+    "cityId": "oaxaca",
+    "dayTrip": false,
+    "id": "oaxaca-jalatlaco-barrio-mural-life",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Barrio de Jalatlaco, к востоку от исторического центра.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Небольшой соседский маршрут по камню, ремеслам, муралам и тихим улицам.",
+    "title": "Халатлако: старый район и новые стены",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Северный район хранит другую Оахаку: арки акведука, каменные улицы и память о воде.",
+    "cityId": "oaxaca",
+    "dayTrip": false,
+    "id": "oaxaca-xochimilco-aqueduct-north",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Barrio de Xochimilco, Carmen Alto, Calle Rufino Tamayo и Los Arquitos.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Северный старый район через акведук, склоны и спокойные улицы.",
+    "title": "Шочимилько и арки: вода на северной кромке",
+    "walkType": "architecture"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Река и залив показывают Сингапур на одном ходу: порт, власть, мосты и новый горизонт.",
+    "cityId": "singapore",
+    "dayTrip": false,
+    "id": "singapore-river-civic-marina-bay",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Civic District, устье реки Сингапур и Marina Bay.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От колониального центра и торговой реки к стеклянному горизонту Marina Bay.",
+    "title": "Река и залив: Сингапур собирает себя",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Старый берег Chinatown ведет через храмы, клановые дома и улицы, где порт становился городом.",
+    "cityId": "singapore",
+    "dayTrip": false,
+    "id": "singapore-chinatown-telok-ayer-port",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Telok Ayer, Amoy Street, Ann Siang Hill, Kreta Ayer.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Шопхаусы, храмы и торговые общины вокруг старой линии берега.",
+    "title": "Chinatown и Telok Ayer: улицы у бывшей воды",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Кампонг Гелам держит рядом султанскую историю, мечеть, лавки тканей и уличную графику.",
+    "cityId": "singapore",
+    "dayTrip": false,
+    "id": "singapore-kampong-gelam-sultan-streets",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Sultan Gate, Bussorah Street, Arab Street, Haji Lane и Jalan Sultan.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Малайский квартал между султанской памятью, тканями, верандами и графикой.",
+    "title": "Кампонг Гелам: дворец, мечеть и торговые улицы",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Little India раскрывается через рынок, храмы и лавки, где район живет громче центра.",
+    "cityId": "singapore",
+    "dayTrip": false,
+    "id": "singapore-little-india-serangoon-road",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Tekka, Buffalo Road, Campbell Lane, Serangoon Road и Syed Alwi Road.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Плотная прогулка через торговлю, веру, цвет и повседневный ритм квартала.",
+    "title": "Little India: рынок, храмы и улица Serangoon",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Ботанический сад показывает другую сторону Сингапура: тропическую науку, тень и долгую работу с природой.",
+    "cityId": "singapore",
+    "dayTrip": false,
+    "id": "singapore-botanic-gardens-tropical-science",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Singapore Botanic Gardens: Tanglin Gate, Heritage Core, Rain Forest и Bukit Timah Gate.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "ЮНЕСКО-маршрут через колониальный сад, научные коллекции и живую тень.",
+    "title": "Ботанический сад: тропики как городская идея",
+    "walkType": "nature"
+  }
+]

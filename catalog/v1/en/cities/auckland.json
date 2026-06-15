@@ -1,0 +1,17 @@
+{
+  "id": "auckland",
+  "slug": "auckland",
+  "title": "Auckland",
+  "subtitle": "Auckland · 5 walks coming soon",
+  "meta": "New Zealand · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "new-zealand",
+  "photo": {
+    "id": "auckland-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Окленд"
+  }
+}

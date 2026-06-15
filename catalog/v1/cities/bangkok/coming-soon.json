@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый остров собирает дворец, священные храмы и реку, откуда Бангкок учился быть столицей.",
+    "cityId": "bangkok",
+    "dayTrip": false,
+    "id": "bangkok-rattanakosin-royal-river",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Раттанакосин, набережная Чаупрайи, Tha Tien и берег у Ват Аруна.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Королевское ядро Бангкока от Санам Луанг до Ват Аруна.",
+    "title": "Раттанакосин: дворец, храмы и река власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Китайский Бангкок звучит через вывески, склады, лавки и вечерний голод на Яоварате.",
+    "cityId": "bangkok",
+    "dayTrip": false,
+    "id": "bangkok-yaowarat-talat-noi-trade",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Hua Lamphong, Яоварат, Сэмпхэнг, Сонг Ват и Талат Ной.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Китайский Бангкок от золотого Будды до складов у реки.",
+    "title": "Яоварат и Талат Ной: торговый город в переулках",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "У северной стены старого города соседствуют монастырская тишина, речной ветер и легенда Кхаосан.",
+    "cityId": "bangkok",
+    "dayTrip": false,
+    "id": "bangkok-banglamphu-walls-river",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Памятник демократии, Ват Бовоннивет, Кхаосан, Phra Athit и форт Пхра Сумен.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Северная кромка старого города между стеной, рекой и туристической легендой.",
+    "title": "Банглампху: крепость, монастыри и миф Кхаосан",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Канал и торговый центр в одном кадре: шелковые дворы, дом Томпсона и стеклянный Сиам.",
+    "cityId": "bangkok",
+    "dayTrip": false,
+    "id": "bangkok-siam-ban-khrua-silk-modern",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Ban Khrua, Khlong Saen Saep, Jim Thompson House, National Stadium и Siam Square.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Канал, дом Джима Томпсона и современный центр вокруг Rama I Road.",
+    "title": "Сиам и Бан Круа: шелк, искусство и торговые этажи",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Первая современная дорога города держит вместе склады, собор, граффити и новый дизайн у реки.",
+    "cityId": "bangkok",
+    "dayTrip": false,
+    "id": "bangkok-charoen-krung-creative-river",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Charoen Krung, Grand Postal Building, Warehouse 30, Bang Rak и берег Чаупрайи.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Речной коридор от почтамта и складов до собора и старых причалов.",
+    "title": "Чароен Крунг: первая дорога и новый креативный берег",
+    "walkType": "architecture"
+  }
+]

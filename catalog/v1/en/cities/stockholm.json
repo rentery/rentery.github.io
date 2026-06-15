@@ -1,0 +1,17 @@
+{
+  "id": "stockholm",
+  "slug": "stockholm",
+  "title": "Stockholm",
+  "subtitle": "Stockholm · 5 walks coming soon",
+  "meta": "Sweden · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "sweden",
+  "photo": {
+    "id": "stockholm-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Стокгольм"
+  }
+}

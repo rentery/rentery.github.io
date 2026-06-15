@@ -1,0 +1,17 @@
+{
+  "id": "philadelphia",
+  "slug": "philadelphia",
+  "title": "Филадельфия",
+  "subtitle": "Philadelphia · 5 прогулок скоро",
+  "meta": "США · маршруты в подготовке",
+  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+  "guideIds": [],
+  "countryId": "united-states",
+  "photo": {
+    "id": "philadelphia-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Филадельфия"
+  }
+}

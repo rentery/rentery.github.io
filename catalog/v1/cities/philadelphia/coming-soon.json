@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Несколько кварталов показывают, как идеалы свободы соседствовали с властью, ремеслом и бытом.",
+    "cityId": "philadelphia",
+    "dayTrip": false,
+    "id": "philadelphia-independence-old-city-republic",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Independence Mall, Independence Square, Old City.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От площади к переулку — как революционные идеи встретились с повседневным городом.",
+    "title": "Старый город независимости: республика на нескольких кварталах",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Диагональ Парквея собирает ратушу, фонтаны, музеи и главный городской силуэт.",
+    "cityId": "philadelphia",
+    "dayTrip": false,
+    "id": "philadelphia-parkway-museums-axis",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "City Hall, Benjamin Franklin Parkway, Logan Square, Parkway Museums District.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От ратуши к художественному музею — диагональ власти, фонтанов и искусства.",
+    "title": "Парквей: город как музейная ось",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Рынок на 9-й улице ведет через запахи, языки и семейные витрины Южной Филадельфии.",
+    "cityId": "philadelphia",
+    "dayTrip": false,
+    "id": "philadelphia-south-ninth-immigrant-market",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Bella Vista, South 9th Street, Washington Avenue, East Passyunk.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Еда и витрины как летопись квартала от Bella Vista к East Passyunk.",
+    "title": "9-я улица: рынок, миграции и Южная Филадельфия",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "У реки становится видно, как инженерия, спорт и парк сделали другой портрет Филадельфии.",
+    "cityId": "philadelphia",
+    "dayTrip": false,
+    "id": "philadelphia-schuylkill-waterworks-boathouse-row",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Philadelphia Museum of Art, Fairmount Water Works, Schuylkill River Trail, Boathouse Row.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Спокойная линия от художественного музея к инженерии воды и гребным клубам.",
+    "title": "Река Schuylkill: вода, лодочные дома и парк",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "South Street держит городскую вольность: мозаики, вывески, сцены и фасады рядом с обычной жизнью.",
+    "cityId": "philadelphia",
+    "dayTrip": false,
+    "id": "philadelphia-south-street-mosaics-murals",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Washington Square West, South Street, Fabric Row, Head House Square.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Квартал, где уличное искусство спорит с магазинами, сценами и жилыми фасадами.",
+    "title": "South Street: мозаики, витрины и городская вольность",
+    "walkType": "neighborhood"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "marseille",
+    "slug": "marseille",
+    "title": "Марсель",
+    "subtitle": "Marseille · 5 прогулок скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "france",
+    "photo": {
+      "id": "marseille-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Марсель"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "ru",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "4fbc7be9e1e5"
+}

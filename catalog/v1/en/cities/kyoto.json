@@ -1,0 +1,17 @@
+{
+  "id": "kyoto",
+  "slug": "kyoto",
+  "title": "Kyoto",
+  "subtitle": "Kyoto · 5 walks coming soon",
+  "meta": "Japan · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "japan",
+  "photo": {
+    "id": "kyoto-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Киото"
+  }
+}

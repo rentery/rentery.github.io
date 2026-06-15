@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Река сразу показывает два Шанхая: банковские фасады Бунда и сияющую вертикаль Пудуна.",
+    "cityId": "shanghai",
+    "dayTrip": false,
+    "id": "shanghai-bund-nanjing-riverfront",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "От моста Вайбайду и северного Бунда к Восточной Нанкинской улице и Народной площади.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От стальных мостов и банковских фасадов к торговой оси центра.",
+    "title": "Бунд и Нанкинская: витрина города на реке",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Старый город ведет от шумных лавок к саду, где камень, вода и крыши складывают другой ритм.",
+    "cityId": "shanghai",
+    "dayTrip": false,
+    "id": "shanghai-yuyuan-old-city-garden",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Старый город Хуанпу вокруг Фанбан-чжунлу, храма городского бога и сада Юйюань.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Китайский Шанхай до высоток, собранный вокруг сада и храмового квартала.",
+    "title": "Юйюань и старый город: сад среди лавок",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Платаны и угловые дома показывают Шанхай частной жизни: виллы, кино, шикумэнь и тихие парки.",
+    "cityId": "shanghai",
+    "dayTrip": false,
+    "id": "shanghai-wukang-sinan-shikumen",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Западная часть бывшей французской концессии: Укан-роуд, Анфу-роуд, Синань и Xintiandi.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Виллы, квартиры, шикумэнь и тихие улицы, где Шанхай стал жилым мифом.",
+    "title": "Укан-роуд и Синань: платаны бывшей концессии",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Пудун читается как город будущего у воды: башни, мостики, набережная и вид на старый Бунд.",
+    "cityId": "shanghai",
+    "dayTrip": false,
+    "id": "shanghai-lujiazui-pudong-skyline",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Компактный круг Луцзяцзуй вокруг Oriental Pearl Tower, Binjiang Avenue и тройки высоток.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Финансовый район как прогулка по мостикам, набережной и вертикалям Пудуна.",
+    "title": "Луцзяцзуй: башни нового Шанхая",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Сучжоуский ручей собирает мосты, склады и почтовый дворец в спокойную тень большого города.",
+    "cityId": "shanghai",
+    "dayTrip": false,
+    "id": "shanghai-suzhou-creek-bridges-warehouses",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Восточный участок Сучжоуского ручья от склада Сыхан к Вайбайду и Waitanyuan.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Тихая речная линия от военных складов и почтового дворца к истоку Бунда.",
+    "title": "Сучжоуский ручей: мосты, склады и тыл Бунда",
+    "walkType": "history"
+  }
+]

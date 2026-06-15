@@ -1,0 +1,17 @@
+{
+  "id": "prague",
+  "slug": "prague",
+  "title": "Prague",
+  "subtitle": "Prague · 5 walks coming soon",
+  "meta": "Czechia · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "czechia",
+  "photo": {
+    "id": "prague-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/prague/prague-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/prague/prague-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Прага"
+  }
+}

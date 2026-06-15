@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Красная крепость раскрывает город власти: дворцы, вода, сады и вид на холмы.",
+    "cityId": "granada",
+    "dayTrip": false,
+    "id": "granada-alhambra-generalife-power-water",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Холм Сабика: Альгамбра, дворцовая зона, Парталь и Хенералифе.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Дворцовый город на холме Сабика как машина видов, садов и власти.",
+    "title": "Альгамбра и Хенералифе: власть, вода и тень",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Белый лабиринт над Дарро ведет от бань и дворцов к лучшему разговору с Альгамброй.",
+    "cityId": "granada",
+    "dayTrip": false,
+    "id": "granada-albaicin-darro-viewpoints",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Нижний Дарро и Альбайсин: от Пласа-Нуэва к Сан-Николасу и Чапису.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Подъем от реки к площадям, карменам и разговорам с Альгамброй.",
+    "title": "Альбайсин над Дарро: белый лабиринт и виды",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Центр показывает, как Гранада после 1492 года сменила язык власти, веры и торговли.",
+    "cityId": "granada",
+    "dayTrip": false,
+    "id": "granada-cathedral-royal-chapel-new-power",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Исторический центр вокруг Собора, Королевской капеллы, Алькайсерии и Корраля-дель-Карбон.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Как рынок, медресе, капелла и собор переписали центр Гранады.",
+    "title": "Соборный центр: город после 1492 года",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Реалехо держит тихий слой города: еврейская память, дворы, площади и сады у холма.",
+    "cityId": "granada",
+    "dayTrip": false,
+    "id": "granada-realejo-jewish-quarter-gardens",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Реалехо и Сан-Матиас: от Пласа-Исабель-ла-Католика к Кампо-дель-Принсипе и верхним садам.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Тихий район между площадями, дворами, садами и памятью Гарната-аль-Яхуд.",
+    "title": "Реалехо: еврейский след у подножия Альгамбры",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Сакромонте звучит на склоне: пещерные дома, замбра и вечерние виды на Альгамбру.",
+    "cityId": "granada",
+    "dayTrip": false,
+    "id": "granada-sacromonte-caves-flamenco-ridge",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "От Пасео-де-лос-Тристес и Чаписа вдоль Камино-дель-Сакромонте к Барранко-де-лос-Негрос и аббатству.",
+    "roughDuration": "2-3.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Хребет живого района, где виды на Альгамбру встречаются с пещерной культурой.",
+    "title": "Сакромонте: пещеры, замбра и склон напротив дворца",
+    "walkType": "neighborhood"
+  }
+]

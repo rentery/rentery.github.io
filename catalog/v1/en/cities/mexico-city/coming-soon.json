@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Главная площадь выводит к слоям города: ацтекские руины, собор, торговля и мрамор Беллас-Артес.",
+    "cityId": "mexico-city",
+    "dayTrip": false,
+    "id": "mexico-city-centro-tenochtitlan-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Сокало, Темпло Майор, улица Мадеро, Аламеда-Сентраль и Беллас-Артес.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От руин Темпло Майор к Аламеде, где город меняет власть и фасады.",
+    "title": "Центр: Теночтитлан под столицей",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Чапультепек собирает лес, музей, замок и аллеи, где природа спорит с государственной памятью.",
+    "cityId": "mexico-city",
+    "dayTrip": false,
+    "id": "mexico-city-chapultepec-memory-forest",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Первая секция Чапультепека: Антропологический музей, холм, замок, озеро и Лос-Пинос.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Парк как учебник страны: от антропологии до замка и президентских садов.",
+    "title": "Чапультепек: лес власти и памяти",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Койоакан держит медленный ритм: площади, лавовые улицы, рынки и дома, где город становится личным.",
+    "cityId": "mexico-city",
+    "dayTrip": false,
+    "id": "mexico-city-coyoacan-village-art",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Старый Койоакан: Виверос, Франсиско Соса, центральные площади, рынок и район Casa Azul.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Площади, старые улицы и синяя стена искусства в южном районе.",
+    "title": "Койоакан: деревня внутри мегаполиса",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Рома и Кондеса показывают другую столицу: тенистые улицы, ар-деко, парки и жизнь после особняков.",
+    "cityId": "mexico-city",
+    "dayTrip": false,
+    "id": "mexico-city-roma-condesa-urban-stage",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Рома-Норте и западная Кондеса: площадь Рио-де-Жанейро, Альваро Обрегон, парки Мехико и Испания.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Парки, ар-деко и повседневная сцена современного центрального района.",
+    "title": "Рома и Кондеса: город после особняков",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Кампус УНАМ раскрывает мексиканский модернизм: лава под ногами, мозаики на фасадах и город знаний.",
+    "cityId": "mexico-city",
+    "dayTrip": false,
+    "id": "mexico-city-unam-modernism-lava",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Центральный кампус УНАМ: библиотека, ректорат, открытые площади, стадион и лавовый ландшафт.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Кампус как манифест: мозаики, бетон, стадион и открытое пространство.",
+    "title": "УНАМ: модернизм на лаве",
+    "walkType": "modern_city"
+  }
+]

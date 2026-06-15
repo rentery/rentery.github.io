@@ -1,0 +1,17 @@
+{
+  "id": "venice",
+  "slug": "venice",
+  "title": "Venice",
+  "subtitle": "Venice · 5 walks coming soon",
+  "meta": "Italy · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "italy",
+  "photo": {
+    "id": "venice-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/venice/venice-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/venice/venice-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Венеция"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Священная скала, народное собрание и рынок складывают первую грамматику Афин.",
+    "cityId": "athens",
+    "dayTrip": false,
+    "id": "athens-acropolis-agora-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Акрополь, Ареопаг, Древняя Агора и спуск к Римской Агоре.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От священной скалы к месту, где город спорил, торговал и управлял собой.",
+    "title": "Акрополь и Агора: Афины как сцена власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Старые Афины прячутся под скалой: дворы, лестницы, церкви и шумная площадь внизу.",
+    "cityId": "athens",
+    "dayTrip": false,
+    "id": "athens-plaka-anafiotika-old-city",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Плака, Анафиотика и спуск к Монастираки.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Узкие улицы, островные лестницы, византийские церкви и османские тени.",
+    "title": "Плака и Анафиотика: старый город под скалой",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "От парламента к белому стадиону тянется маршрут о том, как Афины стали столицей.",
+    "cityId": "athens",
+    "dayTrip": false,
+    "id": "athens-syntagma-garden-stadium-state",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Синтагма, Национальный сад, Заппейон, Олимпейон и Панафинейский стадион.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут о парламенте, королевском саде, олимпийском жесте и новой Греции.",
+    "title": "Синтагма и белый стадион: столица строит себя",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Торговые улицы ведут от древней площади к рынку, специям и вечерним дворам Псирри.",
+    "cityId": "athens",
+    "dayTrip": false,
+    "id": "athens-monastiraki-psirri-market-evening",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Монастираки, Псирри, улица Эврипиду, Варвакиос Агора и Афинас.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Коммерческий центр, специи, ремесленные улицы и вечерняя энергия кварталов.",
+    "title": "Монастираки и Псирри: рынок после древностей",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Лесные тропы над Кукаки показывают Акрополь сбоку — через собрания, обсерваторию и тишину.",
+    "cityId": "athens",
+    "dayTrip": false,
+    "id": "athens-philopappou-pnyx-viewpoints",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Кукаки, пешеходная зона у Акрополя, Пникс, холм Нимф и Филопаппу.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Лесные тропы, древние места речи, обсерватория и боковой взгляд на Акрополь.",
+    "title": "Филопаппу и Пникс: город с высоты собраний",
+    "walkType": "viewpoints"
+  }
+]

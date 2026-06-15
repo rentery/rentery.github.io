@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Тёплая вода, скала Нарикалы и старые улицы складывают город в одну ясную историю.",
+    "cityId": "tbilisi",
+    "dayTrip": false,
+    "id": "tbilisi-old-town-sulfur-narikala",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый город: Мейдани, Абанотубани, Кала и склон Нарикалы.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От базара и банных куполов к крепости, храмам и тесным улицам Калы.",
+    "title": "Старый Тбилиси у серных источников",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Парадные и дворы Сололаки показывают Тифлис как город вкуса, капитала и тихих лестниц.",
+    "cityId": "tbilisi",
+    "dayTrip": false,
+    "id": "tbilisi-sololaki-bourgeois-houses",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Сололаки между площадью Свободы, улицами Леонидзе, Мачабели, Асатиани и Амаглеба.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Архитектурная прогулка по фасадам, росписям, дворам и следам старой буржуазии.",
+    "title": "Сололаки: парадные буржуазного Тифлиса",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "На Руставели официальный город стоит рядом с театром, церковью, музеем и улицей протеста.",
+    "cityId": "tbilisi",
+    "dayTrip": false,
+    "id": "tbilisi-rustaveli-state-culture",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Проспект Руставели от площади Свободы до площади Первой Республики.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Одна ось про театр, музей, парламент, церковь и политическую память.",
+    "title": "Руставели: бульвар сцены и государства",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Левый берег собирает скалу Метехи, новые мосты, старые кварталы и самый видимый купол города.",
+    "cityId": "tbilisi",
+    "dayTrip": false,
+    "id": "tbilisi-avlabari-metekhi-left-bank",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Авлабари, Метехи, Рике и подъем к Самебе.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От скалы над Мтквари к мостам, дворцам, парку и куполу Самебы.",
+    "title": "Авлабари и Метехи: левый берег старого города",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Агмашенебели показывает другой Тбилиси: немецкий след, торговые фасады и живой левый берег.",
+    "cityId": "tbilisi",
+    "dayTrip": false,
+    "id": "tbilisi-neu-tiflis-agmashenebeli",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Чугурети и Марджанишвили: Сухой мост, Саарбрюккенская площадь, Агмашенебели, Ниношвили.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Немецкая колония, восстановленный проспект, рынок памяти и новая городская сцена.",
+    "title": "Neu-Tiflis: Агмашенебели и память левого берега",
+    "walkType": "neighborhood"
+  }
+]

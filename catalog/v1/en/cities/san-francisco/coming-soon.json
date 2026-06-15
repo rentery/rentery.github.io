@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Залив выводит к крутым лестницам, башне над городом и кварталам, где менялись языки Сан-Франциско.",
+    "cityId": "san-francisco",
+    "dayTrip": false,
+    "id": "san-francisco-bay-hill-chinatown-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Эмбаркадеро, Телеграф-Хилл, Норт-Бич, Чайнатаун.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От причалов Эмбаркадеро к ступеням Телеграф-Хилла, Норт-Бич и китайским улицам.",
+    "title": "Залив, холм и Чайнатаун: Сан-Франциско с первого взгляда",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Старый миссионерский двор и новые стены района показывают, как город спорит о памяти и доме.",
+    "cityId": "san-francisco",
+    "dayTrip": false,
+    "id": "san-francisco-mission-dolores-murals",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Mission Dolores, Dolores Park, Valencia Street, 24th Street, Balmy Alley.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Латиноамериканский район от старейшего здания города до стен с политической памятью.",
+    "title": "Мишен: миссия, муралы и улица 24-й",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Бывшая военная земля открывает другой Сан-Франциско: лес, батареи, залив и мост на горизонте.",
+    "cityId": "san-francisco",
+    "dayTrip": false,
+    "id": "san-francisco-presidio-golden-gate-edge",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Main Post, Presidio Tunnel Tops, Crissy Field, Fort Point, Golden Gate Bridge.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Береговая прогулка через бывший форт, новые парки и тень главного моста.",
+    "title": "Пресидио и мост: военный край у Золотых ворот",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Холм с викторианскими фасадами переходит в парк, где музыка, выставки и ботаника живут рядом.",
+    "cityId": "san-francisco",
+    "dayTrip": false,
+    "id": "san-francisco-haight-golden-gate-park",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Haight-Ashbury, Panhandle, восточная часть Golden Gate Park.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От перекрестка шестидесятых к восточной части Golden Gate Park.",
+    "title": "Хейт-Эшбери и парк: контркультура у кромки зелени",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Радужные переходы, старый кинотеатр и тихие склоны собирают историю района без музейной витрины.",
+    "cityId": "san-francisco",
+    "dayTrip": false,
+    "id": "san-francisco-castro-rights-and-slopes",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Castro Street, Market Street, Harvey Milk Plaza, GLBT Historical Society Museum, край Dolores Park.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткий маршрут по району, где личная жизнь стала городской политикой.",
+    "title": "Кастро: флаги, кинотеатр и город прав",
+    "walkType": "history"
+  }
+]

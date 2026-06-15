@@ -1,0 +1,17 @@
+{
+  "id": "budapest",
+  "slug": "budapest",
+  "title": "Budapest",
+  "subtitle": "Budapest · 5 walks coming soon",
+  "meta": "Hungary · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "hungary",
+  "photo": {
+    "id": "budapest-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/budapest/budapest-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/budapest/budapest-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Будапешт"
+  }
+}

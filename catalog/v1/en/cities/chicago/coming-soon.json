@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Река собирает главный Чикаго: мосты, небоскребы, старые фасады и город, который научился расти вверх.",
+    "cityId": "chicago",
+    "dayTrip": false,
+    "id": "chicago-river-loop-vertical-city",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Chicago Riverwalk, DuSable Bridge, River North и финансовый Loop.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Мосты, фасады и небоскребы в прогулке от воды к финансовому каньону.",
+    "title": "Река и Loop: Чикаго, который вырос вверх",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Парковая линия ведет от Cloud Gate к фонтану, музеям и широкому горизонту над озером.",
+    "cityId": "chicago",
+    "dayTrip": false,
+    "id": "chicago-millennium-grant-lakefront",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Millennium Park, Grant Park, Museum Campus и берег Lake Michigan.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Публичное искусство, парадные парки и музейная кромка у Lake Michigan.",
+    "title": "Millennium Park и Grant Park: город лицом к озеру",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Пилзен показывает город на стенах: миграция, фрески, семейные витрины и гордость 18-й улицы.",
+    "cityId": "chicago",
+    "dayTrip": false,
+    "id": "chicago-pilsen-murals-18th-street",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "18th Street, Blue Island Avenue, Harrison Park и National Museum of Mexican Art.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Мексиканско-американский район через стены, витрины и соседские институции.",
+    "title": "Пилзен: фрески и 18-я улица",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Бронзвилл раскрывает южный Чикаго через миграцию, джазовые адреса, бизнесы и память Black Metropolis.",
+    "cityId": "chicago",
+    "dayTrip": false,
+    "id": "chicago-bronzeville-black-metropolis",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "35th Street, Martin Luther King Drive, State Street и Wabash Avenue.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Великая миграция, черные бизнесы, музыка и политика в компактном историческом ядре.",
+    "title": "Бронзвилл: Black Metropolis на King Drive",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Гайд-парк соединяет готику кампуса, модернизм Райта и следы ярмарки, которая учила город мечтать.",
+    "cityId": "chicago",
+    "dayTrip": false,
+    "id": "chicago-hyde-park-worlds-fair-robie",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "University of Chicago, Midway Plaisance, Jackson Park и Griffin Museum of Science and Industry.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Готика University of Chicago, Prairie Style и следы Всемирной выставки у парка.",
+    "title": "Гайд-парк: ярмарка, кампус и Райт",
+    "walkType": "architecture"
+  }
+]

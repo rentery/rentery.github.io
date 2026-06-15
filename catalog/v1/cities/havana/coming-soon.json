@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Пять площадей собирают город у бухты: крепость, собор, купцы, аркады и дворы старой Гаваны.",
+    "cityId": "havana",
+    "dayTrip": false,
+    "id": "havana-old-havana-plazas-port",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старая Гавана: Plaza de Armas, Plaza de la Catedral, Plaza Vieja и портовые улицы.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Колониальный центр как сеть площадей, крепостей и улиц у бухты.",
+    "title": "Старая Гавана: пять площадей и портовый город",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "С восточного берега бухта раскрывает Гавану как крепость, порт и панораму старого города.",
+    "cityId": "havana",
+    "dayTrip": false,
+    "id": "havana-morro-cabana-bay-fortresses",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Casablanca, La Cabaña и El Morro на восточном берегу Гаванской бухты.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Восточный берег бухты как ключ к оборонительной Гаване.",
+    "title": "Через бухту к Морро: крепости и город на воде",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Прадо ведет от театральных фасадов к дворцу, где роскошь республики стала музеем революции.",
+    "cityId": "havana",
+    "dayTrip": false,
+    "id": "havana-prado-capitolio-revolution-palace",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Parque Central, El Capitolio, Paseo del Prado, Bellas Artes и Museo de la Revolución.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Ось театров, дворцов и музеев между старым городом и морем.",
+    "title": "Прадо и Капитолий: республика перед революцией",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "У моря и на Ла-Рампе видно, как Гавана стала городом отелей, кино, студентов и модернизма.",
+    "cityId": "havana",
+    "dayTrip": false,
+    "id": "havana-vedado-malecon-modern-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Vedado: Hotel Nacional, Malecón, La Rampa, Coppelia и Университет Гаваны.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Садовый район, Ла-Рампа и архитектура XX века у океана.",
+    "title": "Ведадо и Малекон: модерный город у моря",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Центро-Гавана показывает город без витрины: миграции, дворы, стрит-арт и вечер у моря.",
+    "cityId": "havana",
+    "dayTrip": false,
+    "id": "havana-centro-habana-zanja-malecon",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Centro Habana: Barrio Chino, Reina/Galiano, Cayo Hueso, Calle San Lázaro и Малекон.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Плотный район миграций, дворов, вывесок и уличного искусства.",
+    "title": "Центро-Гавана: жизнь между Занхой и морем",
+    "walkType": "neighborhood"
+  }
+]

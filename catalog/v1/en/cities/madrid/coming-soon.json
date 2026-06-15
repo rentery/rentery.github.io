@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "От Соля до дворца город показывает, как площадь, рынок и корона собрали столицу.",
+    "cityId": "madrid",
+    "dayTrip": false,
+    "id": "madrid-sol-mayor-palace-capital",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Puerta del Sol, Calle Mayor, Plaza Mayor, Plaza de la Villa, Palacio Real.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка от нулевого километра к королевской сцене города.",
+    "title": "Соль, Майор и дворец: как Мадрид стал столицей",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Прадо и Ретиро читаются как один длинный парк идей: искусство, фонтаны и тень аллей.",
+    "cityId": "madrid",
+    "dayTrip": false,
+    "id": "madrid-prado-retiro-landscape-of-light",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Paseo del Prado, Los Jerónimos, Puerta de Alcalá и парк Retiro.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "UNESCO-маршрут по аллеям, музеям, фонтанам и парку.",
+    "title": "Прадо и Ретиро: город света, науки и тени",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Лас-Летрас держит Золотой век на уровне мостовой: театры, цитаты и маленькие площади.",
+    "cityId": "madrid",
+    "dayTrip": false,
+    "id": "madrid-barrio-letras-golden-age",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Barrio de las Letras между Plaza de Santa Ana, Calle Huertas и Plaza de las Cortes.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Театры, цитаты на мостовой и литературная память квартала.",
+    "title": "Лас-Летрас: Золотой век на соседних улицах",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Гран-Виа ведет от первых небоскребов к Маласанье, где город учился быть современным.",
+    "cityId": "madrid",
+    "dayTrip": false,
+    "id": "madrid-gran-via-malasana-modern-stage",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Gran Vía, Callao, Plaza de España, Conde Duque и Malasaña.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От ранних небоскребов к уличной культуре и Movida.",
+    "title": "Гран-Виа и Маласанья: витрина нового Мадрида",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Ла-Латина показывает вечерний Мадрид через рынки, склоны, тапасные улицы и Растро.",
+    "cityId": "madrid",
+    "dayTrip": false,
+    "id": "madrid-la-latina-rastro-evening",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "La Latina, Cava Baja, Las Vistillas, Puerta de Toledo и Ribera de Curtidores.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Вечерний маршрут по старым улицам, видам и народной торговле.",
+    "title": "Ла-Латина и Растро: склоны, рынки и тапас",
+    "walkType": "food_evening"
+  }
+]

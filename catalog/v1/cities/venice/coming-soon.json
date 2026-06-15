@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Путь от Сан-Марко к Риальто показывает, как Венеция связывала власть, веру и торговлю.",
+    "cityId": "venice",
+    "dayTrip": false,
+    "id": "venice-san-marco-rialto-republic",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Сан-Марко, Мерчерие, Риальто и западный изгиб Гранд-канала.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От площади власти к торговому сердцу Гранд-канала.",
+    "title": "Сан-Марко и Риальто: сцена республики",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Дорсодуро ведёт к свету лагуны через мастерские, музеи и спокойные набережные.",
+    "cityId": "venice",
+    "dayTrip": false,
+    "id": "venice-dorsoduro-lagoon-art",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Дорсодуро: мост Академии, музейная ось, Салюте, Заттере и Пунта-делла-Догана.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От Академии к Заттере, Салюте и Пунта-делла-Догана.",
+    "title": "Дорсодуро: искусство, воздух и край лагуны",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Северные каналы раскрывают город жителей: гетто, ремесленные берега и вечерние бакари.",
+    "cityId": "venice",
+    "dayTrip": false,
+    "id": "venice-cannaregio-ghetto-north",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Каннареджо: от Гулье и Гетто-Нуово к Ормезини, Мизерикордии и Мадонна-дель-Орто.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Каналы, еврейская история и спокойная Венеция за Страда-Нова.",
+    "title": "Каннареджо и Гетто: север, где город живёт",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Сан-Поло собирает рынок, братства и живопись в плотную историю торговой Венеции.",
+    "cityId": "venice",
+    "dayTrip": false,
+    "id": "venice-san-polo-frari-scuole",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Сан-Поло и восточная Санта-Кроче: Риальто, Кампо Сан-Поло, Фрари, Сан-Рокко.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Торговая Венеция между Риальто, Фрари и Сан-Рокко.",
+    "title": "Сан-Поло: рынок, братства и большой Тинторетто",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Кастелло показывает город верфей: рабочие дворы, длинные набережные и ворота Биеннале.",
+    "cityId": "venice",
+    "dayTrip": false,
+    "id": "venice-castello-arsenale-biennale",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Кастелло: Сан-Заккария, Рива-дельи-Скьявони, Арсенал, Виа Гарибальди, Джардини.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От востока Сан-Марко к Арсеналу, Джардини и жилым улицам.",
+    "title": "Кастелло: верфи, набережные и город Биеннале",
+    "walkType": "modern_city"
+  }
+]

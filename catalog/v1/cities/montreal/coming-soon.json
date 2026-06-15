@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый порт складывает Монреаль из камня, реки, соборов и следов первого французского поселения.",
+    "cityId": "montreal",
+    "dayTrip": false,
+    "id": "montreal-old-montreal-port-foundation",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый Монреаль и Старый порт: Place d’Armes, rue Saint-Paul, Place Royale, набережные.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От места основания к портовым набережным, где город менял власть и язык.",
+    "title": "Старый Монреаль: город у реки и форта",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Гора ведет к другому Монреалю: вид сверху, кампус, особняки и следы англоязычного капитала.",
+    "cityId": "montreal",
+    "dayTrip": false,
+    "id": "montreal-mount-royal-golden-square-mile",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Parc du Mont-Royal, Belvédère Kondiaronk, McGill, Sherbrooke Street West.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Путь от лесной вершины к университету, особнякам и музейной улице.",
+    "title": "Гора и Золотая миля: Монреаль сверху вниз",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Плато раскрывает повседневный Монреаль: витые лестницы, парки, багели и разговоры на разных языках.",
+    "cityId": "montreal",
+    "dayTrip": false,
+    "id": "montreal-plateau-mile-end-main",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Square Saint-Louis, avenue du Mont-Royal, boulevard Saint-Laurent и Mile End.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Жилая сетка, кафе, еврейские пекарни и культурная улица Saint-Laurent.",
+    "title": "Плато и Mile End: лестницы, вывески и Main",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Канал показывает город труда: вода, кирпичные фабрики, рынок Atwater и новые кварталы у берега.",
+    "cityId": "montreal",
+    "dayTrip": false,
+    "id": "montreal-lachine-canal-atwater-industry",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Atwater Market, берега канала Лашин, Saint-Henri, Little Burgundy, Peel Basin и Griffintown.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Индустриальная вода юго-запада от Atwater Market к бассейнам и складам.",
+    "title": "Канал Лашин: фабрики, шлюзы и рынок",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Рынок Jean-Talon собирает северный вкус Монреаля: фермерские ряды, итальянские улицы и соседские парки.",
+    "cityId": "montreal",
+    "dayTrip": false,
+    "id": "montreal-jean-talon-little-italy-market",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Jean-Talon Market, Avenue Shamrock, Parc Dante, boulevard Saint-Laurent и Little Italy.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная гастрономическая прогулка вокруг одного из больших рынков города.",
+    "title": "Jean-Talon и Little Italy: рынок как район",
+    "walkType": "food_evening"
+  }
+]

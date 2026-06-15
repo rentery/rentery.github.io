@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "krakow",
+    "slug": "krakow",
+    "title": "Krakow",
+    "subtitle": "Krakow · 5 walks coming soon",
+    "meta": "Poland · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "poland",
+    "photo": {
+      "id": "krakow-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Краков"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "598280181c35"
+}

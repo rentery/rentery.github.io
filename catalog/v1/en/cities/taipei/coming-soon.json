@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый Тайбэй звучит здесь через дым храмов, красный кирпич, молодежные улицы и остатки городских ворот.",
+    "cityId": "taipei",
+    "dayTrip": false,
+    "id": "taipei-mengjia-ximending-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Ваньхуа: Луншань, Бопиляо, Симендин и Северные ворота.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Плотная линия от Луншань и Бопиляо к Красному дому и городским воротам.",
+    "title": "Мэнцзя и Симендин: старый Тайбэй между храмом и неоном",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Улица Дихуа показывает город купцов: чай, ткани, узкие дома и ветер с реки Даньшуй.",
+    "cityId": "taipei",
+    "dayTrip": false,
+    "id": "taipei-dadaocheng-dihua-river-trade",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Дадаочэн и Датун: улица Дихуа, рынок Юнлэ и пристань Дадаочэн.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старый торговый Тайбэй вдоль лавок, храмов, рынков и набережной.",
+    "title": "Дадаочэн и улица Дихуа: чай, ткань и речной город",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Центр Тайбэя читается через парки, ворота и площади, где память стала частью городской формы.",
+    "cityId": "taipei",
+    "dayTrip": false,
+    "id": "taipei-228-liberty-square-civic-memory",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Чжунчжэн: парк 228, Президентский дворец, Восточные ворота и площадь Свободы.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Колониальный парк, музейная ось и спорная государственная символика.",
+    "title": "Центр памяти: парк 228 и площадь Свободы",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Синьи собирает новый Тайбэй: бывшую фабрику, широкие оси, башню 101 и лестницу к виду.",
+    "cityId": "taipei",
+    "dayTrip": false,
+    "id": "taipei-xinyi-songshan-101-skyline",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Синьи: Суншаньский культурный парк, Taipei 101, район Синьи и Сяншань.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Новый деловой Тайбэй от бывшего завода до лестницы к городскому виду.",
+    "title": "Синьи: фабрика, проспекты и силуэт 101",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Бэйтоу раскрывает северный Тайбэй через горячие источники, дерево библиотек и пар над долиной.",
+    "cityId": "taipei",
+    "dayTrip": false,
+    "id": "taipei-beitou-hot-spring-valley",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Бэйтоу: от станции Синьбэйтоу через парк и музей горячих источников к Геотермальной долине.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Зеленая долина с банями, библиотекой и паром над источником.",
+    "title": "Бэйтоу: горячая вода и японская курортная память",
+    "walkType": "nature"
+  }
+]

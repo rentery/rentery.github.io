@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый город собирает ворота, рынки и святыни в плотный маршрут по главным слоям Иерусалима.",
+    "cityId": "jerusalem",
+    "dayTrip": false,
+    "id": "jerusalem-old-city-gates-faith-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Яффские ворота, кварталы Старого города, Западная стена и окрестности Храмовой горы/Харам аш-Шариф.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Одна крепостная миля, где рынки, храмы и стены говорят разными веками.",
+    "title": "Старый город от Яффских ворот: слои веры и власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Елеонская гора показывает Иерусалим сверху, а Кедрон возвращает его к камню, могилам и долине.",
+    "cityId": "jerusalem",
+    "dayTrip": false,
+    "id": "jerusalem-mount-of-olives-kidron-view",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Елеонская гора, древнее кладбище, Кедронская долина, Гефсимания и восточная кромка Старого города.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Спуск от вида на купола к долине гробниц и саду у стен.",
+    "title": "Елеонская гора и Кедрон: город как панорама",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Южный склон открывает город снизу: источники, тоннели, ступени и археология вокруг стены.",
+    "cityId": "jerusalem",
+    "dayTrip": false,
+    "id": "jerusalem-city-of-david-southern-wall",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "От Мусорных ворот к Городу Давида, Гихонскому источнику, Силоаму и археологическому парку у южной стены.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Археологический спуск к воде, улицам паломников и южному краю Храма.",
+    "title": "Город Давида и южная стена: Иерусалим под ногами",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Рынок ведет в Нахлаот: запахи, лавки, дворики и кварталы, где новый город стал домашним.",
+    "cityId": "jerusalem",
+    "dayTrip": false,
+    "id": "jerusalem-machane-yehuda-nachlaot-courtyards",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Рынок Махане-Иегуда, улица Агриппас, Эвен-Исраэль, Мишкенот-Исраэль, Мазкерет-Моше и Охель-Моше.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От шумного шука в сеть маленьких кварталов, синагог и переулков.",
+    "title": "Махане-Иегуда и Нахлаот: рынок, дворы и вечерний город",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "За стенами Старого города появляется другой Иерусалим: больницы, миссии, консульства и каменные сады.",
+    "cityId": "jerusalem",
+    "dayTrip": false,
+    "id": "jerusalem-prophets-street-russian-compound",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Мусрара, Русское подворье, улица Пророков, Эфиопская улица и район площади Давидка.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Каменные больницы, консульства и дворы нового Иерусалима XIX века.",
+    "title": "Улица Пророков: город выходит за стены",
+    "walkType": "architecture"
+  }
+]

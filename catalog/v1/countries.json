@@ -32,5 +32,260 @@
     "meta": "Черногорский · евро (EUR)",
     "practicalNote": "В туристических местах карты распространены, но для небольших услуг и пляжных точек держите евро наличными. Официальный язык - черногорский; сербский, боснийский, албанский и хорватский используются официально. Автобусы и поездки к пляжам сверяйте ближе к дню выезда.",
     "title": "Черногория"
+  },
+  {
+    "id": "argentina",
+    "flag": "🌍",
+    "title": "Аргентина"
+  },
+  {
+    "id": "australia",
+    "flag": "🌍",
+    "title": "Австралия"
+  },
+  {
+    "id": "austria",
+    "flag": "🌍",
+    "title": "Австрия"
+  },
+  {
+    "id": "belgium",
+    "flag": "🌍",
+    "title": "Бельгия"
+  },
+  {
+    "id": "brazil",
+    "flag": "🌍",
+    "title": "Бразилия"
+  },
+  {
+    "id": "canada",
+    "flag": "🌍",
+    "title": "Канада"
+  },
+  {
+    "id": "chile",
+    "flag": "🌍",
+    "title": "Чили"
+  },
+  {
+    "id": "colombia",
+    "flag": "🌍",
+    "title": "Колумбия"
+  },
+  {
+    "id": "croatia",
+    "flag": "🌍",
+    "title": "Хорватия"
+  },
+  {
+    "id": "cuba",
+    "flag": "🌍",
+    "title": "Куба"
+  },
+  {
+    "id": "czechia",
+    "flag": "🌍",
+    "title": "Чехия"
+  },
+  {
+    "id": "denmark",
+    "flag": "🌍",
+    "title": "Дания"
+  },
+  {
+    "id": "ecuador",
+    "flag": "🌍",
+    "title": "Эквадор"
+  },
+  {
+    "id": "egypt",
+    "flag": "🌍",
+    "title": "Египет"
+  },
+  {
+    "id": "estonia",
+    "flag": "🌍",
+    "title": "Эстония"
+  },
+  {
+    "id": "finland",
+    "flag": "🌍",
+    "title": "Финляндия"
+  },
+  {
+    "id": "france",
+    "flag": "🌍",
+    "title": "Франция"
+  },
+  {
+    "id": "georgia",
+    "flag": "🌍",
+    "title": "Грузия"
+  },
+  {
+    "id": "germany",
+    "flag": "🌍",
+    "title": "Германия"
+  },
+  {
+    "id": "greece",
+    "flag": "🌍",
+    "title": "Греция"
+  },
+  {
+    "id": "hungary",
+    "flag": "🌍",
+    "title": "Венгрия"
+  },
+  {
+    "id": "india",
+    "flag": "🌍",
+    "title": "Индия"
+  },
+  {
+    "id": "ireland",
+    "flag": "🌍",
+    "title": "Ирландия"
+  },
+  {
+    "id": "israel",
+    "flag": "🌍",
+    "title": "Израиль"
+  },
+  {
+    "id": "italy",
+    "flag": "🌍",
+    "title": "Италия"
+  },
+  {
+    "id": "japan",
+    "flag": "🌍",
+    "title": "Япония"
+  },
+  {
+    "id": "latvia",
+    "flag": "🌍",
+    "title": "Латвия"
+  },
+  {
+    "id": "malaysia",
+    "flag": "🌍",
+    "title": "Малайзия"
+  },
+  {
+    "id": "mexico",
+    "flag": "🌍",
+    "title": "Мексика"
+  },
+  {
+    "id": "morocco",
+    "flag": "🌍",
+    "title": "Марокко"
+  },
+  {
+    "id": "nepal",
+    "flag": "🌍",
+    "title": "Непал"
+  },
+  {
+    "id": "netherlands",
+    "flag": "🌍",
+    "title": "Нидерланды"
+  },
+  {
+    "id": "new-zealand",
+    "flag": "🌍",
+    "title": "Новая Зеландия"
+  },
+  {
+    "id": "norway",
+    "flag": "🌍",
+    "title": "Норвегия"
+  },
+  {
+    "id": "peru",
+    "flag": "🌍",
+    "title": "Перу"
+  },
+  {
+    "id": "poland",
+    "flag": "🌍",
+    "title": "Польша"
+  },
+  {
+    "id": "portugal",
+    "flag": "🌍",
+    "title": "Португалия"
+  },
+  {
+    "id": "singapore",
+    "flag": "🌍",
+    "title": "Сингапур"
+  },
+  {
+    "id": "south-africa",
+    "flag": "🌍",
+    "title": "ЮАР"
+  },
+  {
+    "id": "spain",
+    "flag": "🌍",
+    "title": "Испания"
+  },
+  {
+    "id": "sweden",
+    "flag": "🌍",
+    "title": "Швеция"
+  },
+  {
+    "id": "switzerland",
+    "flag": "🌍",
+    "title": "Швейцария"
+  },
+  {
+    "id": "taiwan",
+    "flag": "🌍",
+    "title": "Тайвань"
+  },
+  {
+    "id": "tanzania",
+    "flag": "🌍",
+    "title": "Танзания"
+  },
+  {
+    "id": "thailand",
+    "flag": "🌍",
+    "title": "Таиланд"
+  },
+  {
+    "id": "tunisia",
+    "flag": "🌍",
+    "title": "Тунис"
+  },
+  {
+    "id": "turkey",
+    "flag": "🌍",
+    "title": "Турция"
+  },
+  {
+    "id": "united-arab-emirates",
+    "flag": "🌍",
+    "title": "Объединённые Арабские Эмираты"
+  },
+  {
+    "id": "united-kingdom",
+    "flag": "🌍",
+    "title": "Великобритания"
+  },
+  {
+    "id": "united-states",
+    "flag": "🌍",
+    "title": "США"
+  },
+  {
+    "id": "vietnam",
+    "flag": "🌍",
+    "title": "Вьетнам"
   }
 ]

@@ -1,0 +1,73 @@
+[
+  {
+    "blurb": "Старый город собирает власть, торговлю и камень в одну линию от ворот к гавани.",
+    "cityId": "dubrovnik",
+    "dayTrip": false,
+    "id": "dubrovnik-old-city-republic-spine",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый город внутри стен: Пиле, Страдун, Луза, Кафедральная зона и старая гавань.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия Старого города от ворот к гавани и дворцам власти.",
+    "title": "Внутри стен: Дубровник как республика",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Кольцо стен показывает Дубровник сверху: башни, море и город, который держал оборону.",
+    "cityId": "dubrovnik",
+    "dayTrip": false,
+    "id": "dubrovnik-walls-forts-sea-ring",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Кольцо городских стен, башни Минчета и Бокар, форт Святого Иоанна, Ловриенац.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Оборонительное кольцо, башни и виды, которые объясняют рельеф города.",
+    "title": "Город над морем: полный круг стен",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Восточная сторона раскрывает город портов, карантина и проходов между морем и стенами.",
+    "cityId": "dubrovnik",
+    "dayTrip": false,
+    "id": "dubrovnik-ploce-old-port-quarantine",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Восточный край Старого города: Плоче, Ревелин, Лазарети, старая гавань и Порпорела.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Восточная кромка города как система допуска, торговли и защиты.",
+    "title": "Плоче и старая гавань: порт, карантин, ворота",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Срдж соединяет лучший вид на город с памятью о войне 1991-1995 годов.",
+    "cityId": "dubrovnik",
+    "dayTrip": false,
+    "id": "dubrovnik-srd-view-defence-memory",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Вершина Срдж: верхняя станция канатной дороги, крест, Форт Империал и видовые тропы.",
+    "roughDuration": "1-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая вершина, где панорама города встречается с историей Форта Империал.",
+    "title": "Срдж: вид сверху и память осады",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Локрум дает паузу от камня: лес, монастырь, соленое озеро и город через воду.",
+    "cityId": "dubrovnik",
+    "dayTrip": true,
+    "id": "dubrovnik-lokrum-island-forest-ruins",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Остров Локрум: бухта прибытия, монастырский комплекс, ботанический сад, Мертвое море и Форт Роял.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Островная петля через монастырские руины, ботанический сад и скалы.",
+    "title": "Локрум: лесной остров напротив стен",
+    "walkType": "day_trip",
+    "nearbyPlace": "Остров Локрум"
+  }
+]

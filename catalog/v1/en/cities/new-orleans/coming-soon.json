@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый квартал раскрывается через площадь, балконы, рынок и широкую воду у края города.",
+    "cityId": "new-orleans",
+    "dayTrip": false,
+    "id": "new-orleans-french-quarter-mississippi-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Вьё-Карре между Jackson Square, Royal Street, French Market и набережной Миссисипи.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Колониальная сетка, креольские фасады и река, из которой вырос порт.",
+    "title": "Французский квартал и Миссисипи: город на балконах",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Дубовые улицы показывают другой Новый Орлеан: американские деньги, кладбища и тихую витрину статуса.",
+    "cityId": "new-orleans",
+    "dayTrip": false,
+    "id": "new-orleans-garden-district-st-charles-oaks",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Garden District между St. Charles Avenue, Washington Avenue, Prytania Street и Magazine Street.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут по американскому пригороду XIX века, кладбищам, оградам и тихой демонстрации статуса.",
+    "title": "Garden District: дубы, особняки и город после плантаций",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Congo Square и Треме собирают историю музыки, общинной памяти и свободы в одном коротком маршруте.",
+    "cityId": "new-orleans",
+    "dayTrip": false,
+    "id": "new-orleans-treme-congo-square-music-memory",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Треме от Louis Armstrong Park и Congo Square к St. Augustine Church, Claiborne Avenue и Orleans Avenue.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая прогулка по кварталу, где городская музыка связана с общинами, шествиями и сопротивлением.",
+    "title": "Треме и Congo Square: музыка, память и свобода",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Вечерняя линия ведет от старого Монетного двора к Frenchmen Street и креольским домам Мариньи.",
+    "cityId": "new-orleans",
+    "dayTrip": false,
+    "id": "new-orleans-marigny-frenchmen-evening",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Faubourg Marigny вокруг Esplanade Avenue, Frenchmen Street, Washington Square и Royal Street.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут за пределами Вьё-Карре: клубная улица, креольские коттеджи и соседский вечерний ритм.",
+    "title": "Мариньи и Frenchmen Street: где вечер начинает звучать",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Байу соединяет тихие дома, старые дубы и парк, где город меняет шум на воду и тень.",
+    "cityId": "new-orleans",
+    "dayTrip": false,
+    "id": "new-orleans-bayou-st-john-city-park-oaks",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Bayou St. John и южная часть City Park вокруг Big Lake, NOMA и старых живых дубов.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Зеленая прогулка по старому водному краю, живым дубам, лагунам и музейному парку.",
+    "title": "Bayou St. John и City Park: вода, дубы и медленный город",
+    "walkType": "nature"
+  }
+]

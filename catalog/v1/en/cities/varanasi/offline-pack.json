@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "varanasi",
+    "slug": "varanasi",
+    "title": "Varanasi",
+    "subtitle": "Varanasi · 5 walks coming soon",
+    "meta": "India · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "india",
+    "photo": {
+      "id": "varanasi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Варанаси"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "1a93ee427f70"
+}

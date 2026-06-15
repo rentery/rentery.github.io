@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "ho-chi-minh-city",
+    "slug": "ho-chi-minh-city",
+    "title": "Ho Chi Minh City",
+    "subtitle": "Ho Chi Minh City · 5 walks coming soon",
+    "meta": "Vietnam · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "vietnam",
+    "photo": {
+      "id": "ho-chi-minh-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Хошимин"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "d7c06f5c0714"
+}

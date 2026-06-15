@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр складывает дворец, почту, оперу и реку в одну линию городской власти.",
+    "cityId": "ho-chi-minh-city",
+    "dayTrip": false,
+    "id": "ho-chi-minh-city-old-saigon-civic-spine",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Район 1: Дворец независимости, Нотр-Дам, Донгкхой, Нгуен Хюэ и берег Сайгона.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия города от политической сцены к колониальным фасадам и воде.",
+    "title": "Старый Сайгон: дворец, бульвары и река",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Чолон показывает другой Сайгон: специи, аптечные улицы и храмы между рынком и общинной памятью.",
+    "cityId": "ho-chi-minh-city",
+    "dayTrip": false,
+    "id": "ho-chi-minh-city-cholon-markets-temples",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Районы 5–6: Биньтай, улицы китайской медицины, пагоды и залы общин Чолона.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Западный торговый город через оптовый рынок, благовония и общинные залы.",
+    "title": "Чолон: китайский Сайгон рынков и храмов",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Район 3 переводит историю в человеческий масштаб: музеи, виллы, кафе и тень старых аллей.",
+    "cityId": "ho-chi-minh-city",
+    "dayTrip": false,
+    "id": "ho-chi-minh-city-district-3-memory-villas",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Район 3 и граница с Районом 1: музейная зона, улицы Võ Văn Tần, Tú Xương, Lê Quý Đôn и Тан Динь.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Тихий сосед центра: музеи, виллы, кафе и городские паузы после больших дат.",
+    "title": "Район 3: память войны и жизнь под деревьями",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Вокруг Бен Тхань город меняет лицо: рынок, купеческие дома, арт-деко и старые деловые дворы.",
+    "cityId": "ho-chi-minh-city",
+    "dayTrip": false,
+    "id": "ho-chi-minh-city-ben-thanh-traders-art-deco",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Центральный Район 1 вокруг Бен Тхань, улиц Lê Lợi, Phó Đức Chính, Calmette, Tôn Thất Đạm и Hàm Nghi.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Коммерческий Сайгон вокруг рынка, музея в особняке и старых деловых улиц.",
+    "title": "Бен Тхань и дома торговцев: рынок, арт-деко, переулки",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "На берегу Сайгона видно, как город разворачивается к воде и строит новый центр напротив старого.",
+    "cityId": "ho-chi-minh-city",
+    "dayTrip": false,
+    "id": "ho-chi-minh-city-saigon-river-thu-thiem",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Берег Сайгона от площади Mê Linh и Bạch Đằng до Ba Son и набережной Тху-Тьем.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Вечерняя линия воды, мостов и skyline — от старой пристани к планируемому центру.",
+    "title": "Река Сайгон и Тху-Тьем: новый город напротив старого",
+    "walkType": "modern_city"
+  }
+]

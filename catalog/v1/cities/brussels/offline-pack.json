@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "brussels",
+    "slug": "brussels",
+    "title": "Брюссель",
+    "subtitle": "Brussels · 5 прогулок скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "brussels-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Брюссель"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "ru",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "13e8010d17c9"
+}

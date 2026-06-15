@@ -1,0 +1,17 @@
+{
+  "id": "rome",
+  "slug": "rome",
+  "title": "Rome",
+  "subtitle": "Rome · 5 walks coming soon",
+  "meta": "Italy · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "italy",
+  "photo": {
+    "id": "rome-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/rome/rome-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/rome/rome-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Рим"
+  }
+}

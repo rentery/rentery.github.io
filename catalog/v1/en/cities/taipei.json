@@ -1,0 +1,17 @@
+{
+  "id": "taipei",
+  "slug": "taipei",
+  "title": "Taipei",
+  "subtitle": "Taipei · 5 walks coming soon",
+  "meta": "Taiwan · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "taiwan",
+  "photo": {
+    "id": "taipei-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Тайбэй"
+  }
+}

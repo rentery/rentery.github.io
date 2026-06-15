@@ -194,5 +194,1671 @@
       "wide": "https://rentery.github.io/images/v1/tivat/tivat-hero-wide.jpg",
       "alt": "Тиватская бухта с мариной, набережной и зелеными склонами"
     }
+  },
+  {
+    "id": "amsterdam",
+    "slug": "amsterdam",
+    "title": "Амстердам",
+    "subtitle": "Amsterdam · 5 прогулок скоро",
+    "meta": "Нидерланды · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "netherlands",
+    "photo": {
+      "id": "amsterdam-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/amsterdam/amsterdam-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/amsterdam/amsterdam-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Амстердам"
+    }
+  },
+  {
+    "id": "athens",
+    "slug": "athens",
+    "title": "Афины",
+    "subtitle": "Athens · 5 прогулок скоро",
+    "meta": "Греция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "greece",
+    "photo": {
+      "id": "athens-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/athens/athens-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/athens/athens-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Афины"
+    }
+  },
+  {
+    "id": "auckland",
+    "slug": "auckland",
+    "title": "Окленд",
+    "subtitle": "Auckland · 5 прогулок скоро",
+    "meta": "Новая Зеландия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "new-zealand",
+    "photo": {
+      "id": "auckland-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Окленд"
+    }
+  },
+  {
+    "id": "bangkok",
+    "slug": "bangkok",
+    "title": "Бангкок",
+    "subtitle": "Bangkok · 5 прогулок скоро",
+    "meta": "Таиланд · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "thailand",
+    "photo": {
+      "id": "bangkok-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Бангкок"
+    }
+  },
+  {
+    "id": "barcelona",
+    "slug": "barcelona",
+    "title": "Барселона",
+    "subtitle": "Barcelona · 5 прогулок скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "spain",
+    "photo": {
+      "id": "barcelona-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/barcelona/barcelona-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Барселона"
+    }
+  },
+  {
+    "id": "berlin",
+    "slug": "berlin",
+    "title": "Берлин",
+    "subtitle": "Berlin · 5 прогулок скоро",
+    "meta": "Германия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "germany",
+    "photo": {
+      "id": "berlin-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Берлин"
+    }
+  },
+  {
+    "id": "bogota",
+    "slug": "bogota",
+    "title": "Богота",
+    "subtitle": "Bogotá · 5 прогулок скоро",
+    "meta": "Колумбия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "colombia",
+    "photo": {
+      "id": "bogota-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Богота"
+    }
+  },
+  {
+    "id": "bologna",
+    "slug": "bologna",
+    "title": "Болонья",
+    "subtitle": "Bologna · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "bologna-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bologna/bologna-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bologna/bologna-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Болонья"
+    }
+  },
+  {
+    "id": "bordeaux",
+    "slug": "bordeaux",
+    "title": "Бордо",
+    "subtitle": "Bordeaux · 5 прогулок скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "france",
+    "photo": {
+      "id": "bordeaux-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Бордо"
+    }
+  },
+  {
+    "id": "boston",
+    "slug": "boston",
+    "title": "Бостон",
+    "subtitle": "Boston · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "boston-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/boston/boston-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/boston/boston-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Бостон"
+    }
+  },
+  {
+    "id": "bruges",
+    "slug": "bruges",
+    "title": "Брюгге",
+    "subtitle": "Bruges · 5 прогулок скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "bruges-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Брюгге"
+    }
+  },
+  {
+    "id": "brussels",
+    "slug": "brussels",
+    "title": "Брюссель",
+    "subtitle": "Brussels · 5 прогулок скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "brussels-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Брюссель"
+    }
+  },
+  {
+    "id": "budapest",
+    "slug": "budapest",
+    "title": "Будапешт",
+    "subtitle": "Budapest · 5 прогулок скоро",
+    "meta": "Венгрия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "hungary",
+    "photo": {
+      "id": "budapest-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/budapest/budapest-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/budapest/budapest-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Будапешт"
+    }
+  },
+  {
+    "id": "buenos-aires",
+    "slug": "buenos-aires",
+    "title": "Буэнос-Айрес",
+    "subtitle": "Buenos Aires · 5 прогулок скоро",
+    "meta": "Аргентина · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "argentina",
+    "photo": {
+      "id": "buenos-aires-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Буэнос-Айрес"
+    }
+  },
+  {
+    "id": "busan",
+    "slug": "busan",
+    "title": "Пусан",
+    "subtitle": "Busan · 5 прогулок скоро",
+    "meta": "Южная Корея · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "south-korea",
+    "photo": {
+      "id": "busan-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/busan/busan-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/busan/busan-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Пусан"
+    }
+  },
+  {
+    "id": "cairo",
+    "slug": "cairo",
+    "title": "Каир",
+    "subtitle": "Cairo · 5 прогулок скоро",
+    "meta": "Египет · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "egypt",
+    "photo": {
+      "id": "cairo-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/cairo/cairo-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/cairo/cairo-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Каир"
+    }
+  },
+  {
+    "id": "cape-town",
+    "slug": "cape-town",
+    "title": "Кейптаун",
+    "subtitle": "Cape Town · 5 прогулок скоро",
+    "meta": "ЮАР · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "south-africa",
+    "photo": {
+      "id": "cape-town-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/cape-town/cape-town-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Кейптаун"
+    }
+  },
+  {
+    "id": "cartagena-colombia",
+    "slug": "cartagena-colombia",
+    "title": "Картахена",
+    "subtitle": "Cartagena · 5 прогулок скоро",
+    "meta": "Колумбия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "colombia",
+    "photo": {
+      "id": "cartagena-colombia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Картахена"
+    }
+  },
+  {
+    "id": "charleston-sc",
+    "slug": "charleston-sc",
+    "title": "Чарлстон",
+    "subtitle": "Charleston · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "charleston-sc-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Чарлстон"
+    }
+  },
+  {
+    "id": "chiang-mai",
+    "slug": "chiang-mai",
+    "title": "Чиангмай",
+    "subtitle": "Chiang Mai · 5 прогулок скоро",
+    "meta": "Таиланд · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "thailand",
+    "photo": {
+      "id": "chiang-mai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Чиангмай"
+    }
+  },
+  {
+    "id": "chicago",
+    "slug": "chicago",
+    "title": "Чикаго",
+    "subtitle": "Chicago · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "chicago-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/chicago/chicago-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/chicago/chicago-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Чикаго"
+    }
+  },
+  {
+    "id": "copenhagen",
+    "slug": "copenhagen",
+    "title": "Копенгаген",
+    "subtitle": "Copenhagen · 5 прогулок скоро",
+    "meta": "Дания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "denmark",
+    "photo": {
+      "id": "copenhagen-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Копенгаген"
+    }
+  },
+  {
+    "id": "cusco",
+    "slug": "cusco",
+    "title": "Куско",
+    "subtitle": "Cusco · 5 прогулок скоро",
+    "meta": "Перу · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "peru",
+    "photo": {
+      "id": "cusco-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Куско"
+    }
+  },
+  {
+    "id": "delhi",
+    "slug": "delhi",
+    "title": "Дели",
+    "subtitle": "Delhi · 5 прогулок скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "india",
+    "photo": {
+      "id": "delhi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дели"
+    }
+  },
+  {
+    "id": "dubai",
+    "slug": "dubai",
+    "title": "Дубай",
+    "subtitle": "Dubai · 5 прогулок скоро",
+    "meta": "Объединённые Арабские Эмираты · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-arab-emirates",
+    "photo": {
+      "id": "dubai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/dubai/dubai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дубай"
+    }
+  },
+  {
+    "id": "dublin",
+    "slug": "dublin",
+    "title": "Дублин",
+    "subtitle": "Dublin · 5 прогулок скоро",
+    "meta": "Ирландия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "ireland",
+    "photo": {
+      "id": "dublin-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дублин"
+    }
+  },
+  {
+    "id": "dubrovnik",
+    "slug": "dubrovnik",
+    "title": "Дубровник",
+    "subtitle": "Dubrovnik · 5 прогулок скоро",
+    "meta": "Хорватия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "croatia",
+    "photo": {
+      "id": "dubrovnik-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Дубровник"
+    }
+  },
+  {
+    "id": "edinburgh",
+    "slug": "edinburgh",
+    "title": "Эдинбург",
+    "subtitle": "Edinburgh · 5 прогулок скоро",
+    "meta": "Великобритания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-kingdom",
+    "photo": {
+      "id": "edinburgh-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Эдинбург"
+    }
+  },
+  {
+    "id": "fes",
+    "slug": "fes",
+    "title": "Фес",
+    "subtitle": "Fez · 5 прогулок скоро",
+    "meta": "Марокко · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "morocco",
+    "photo": {
+      "id": "fes-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/fes/fes-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/fes/fes-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Фес"
+    }
+  },
+  {
+    "id": "florence",
+    "slug": "florence",
+    "title": "Флоренция",
+    "subtitle": "Florence · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "florence-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/florence/florence-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/florence/florence-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Флоренция"
+    }
+  },
+  {
+    "id": "george-town-malaysia",
+    "slug": "george-town-malaysia",
+    "title": "Джорджтаун",
+    "subtitle": "George Town · 5 прогулок скоро",
+    "meta": "Малайзия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "malaysia",
+    "photo": {
+      "id": "george-town-malaysia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Джорджтаун"
+    }
+  },
+  {
+    "id": "ghent",
+    "slug": "ghent",
+    "title": "Гент",
+    "subtitle": "Ghent · 5 прогулок скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "ghent-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гент"
+    }
+  },
+  {
+    "id": "granada",
+    "slug": "granada",
+    "title": "Гранада",
+    "subtitle": "Granada · 5 прогулок скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "spain",
+    "photo": {
+      "id": "granada-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/granada/granada-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/granada/granada-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гранада"
+    }
+  },
+  {
+    "id": "hanoi",
+    "slug": "hanoi",
+    "title": "Ханой",
+    "subtitle": "Hanoi · 5 прогулок скоро",
+    "meta": "Вьетнам · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "vietnam",
+    "photo": {
+      "id": "hanoi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Ханой"
+    }
+  },
+  {
+    "id": "havana",
+    "slug": "havana",
+    "title": "Гавана",
+    "subtitle": "Havana · 5 прогулок скоро",
+    "meta": "Куба · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "cuba",
+    "photo": {
+      "id": "havana-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гавана"
+    }
+  },
+  {
+    "id": "helsinki",
+    "slug": "helsinki",
+    "title": "Хельсинки",
+    "subtitle": "Helsinki · 5 прогулок скоро",
+    "meta": "Финляндия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "finland",
+    "photo": {
+      "id": "helsinki-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Хельсинки"
+    }
+  },
+  {
+    "id": "ho-chi-minh-city",
+    "slug": "ho-chi-minh-city",
+    "title": "Хошимин",
+    "subtitle": "Ho Chi Minh City · 5 прогулок скоро",
+    "meta": "Вьетнам · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "vietnam",
+    "photo": {
+      "id": "ho-chi-minh-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Хошимин"
+    }
+  },
+  {
+    "id": "hong-kong",
+    "slug": "hong-kong",
+    "title": "Гонконг",
+    "subtitle": "Hong Kong · 5 прогулок скоро",
+    "meta": "Китай · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "china",
+    "photo": {
+      "id": "hong-kong-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гонконг"
+    }
+  },
+  {
+    "id": "istanbul",
+    "slug": "istanbul",
+    "title": "Стамбул",
+    "subtitle": "Istanbul · 5 прогулок скоро",
+    "meta": "Турция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "turkey",
+    "photo": {
+      "id": "istanbul-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/istanbul/istanbul-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/istanbul/istanbul-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Стамбул"
+    }
+  },
+  {
+    "id": "jaipur",
+    "slug": "jaipur",
+    "title": "Джайпур",
+    "subtitle": "Jaipur · 5 прогулок скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "india",
+    "photo": {
+      "id": "jaipur-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/jaipur/jaipur-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/jaipur/jaipur-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Джайпур"
+    }
+  },
+  {
+    "id": "jerusalem",
+    "slug": "jerusalem",
+    "title": "Иерусалим",
+    "subtitle": "Jerusalem · 5 прогулок скоро",
+    "meta": "Израиль · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "israel",
+    "photo": {
+      "id": "jerusalem-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/jerusalem/jerusalem-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/jerusalem/jerusalem-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Иерусалим"
+    }
+  },
+  {
+    "id": "kathmandu",
+    "slug": "kathmandu",
+    "title": "Катманду",
+    "subtitle": "Kathmandu · 5 прогулок скоро",
+    "meta": "Непал · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "nepal",
+    "photo": {
+      "id": "kathmandu-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Катманду"
+    }
+  },
+  {
+    "id": "krakow",
+    "slug": "krakow",
+    "title": "Краков",
+    "subtitle": "Krakow · 5 прогулок скоро",
+    "meta": "Польша · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "poland",
+    "photo": {
+      "id": "krakow-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Краков"
+    }
+  },
+  {
+    "id": "kuala-lumpur",
+    "slug": "kuala-lumpur",
+    "title": "Куала-Лумпур",
+    "subtitle": "Kuala Lumpur · 5 прогулок скоро",
+    "meta": "Малайзия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "malaysia",
+    "photo": {
+      "id": "kuala-lumpur-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Куала-Лумпур"
+    }
+  },
+  {
+    "id": "kyoto",
+    "slug": "kyoto",
+    "title": "Киото",
+    "subtitle": "Kyoto · 5 прогулок скоро",
+    "meta": "Япония · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "japan",
+    "photo": {
+      "id": "kyoto-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Киото"
+    }
+  },
+  {
+    "id": "lima",
+    "slug": "lima",
+    "title": "Лима",
+    "subtitle": "Lima · 5 прогулок скоро",
+    "meta": "Перу · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "peru",
+    "photo": {
+      "id": "lima-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/lima/lima-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/lima/lima-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Лима"
+    }
+  },
+  {
+    "id": "lisbon",
+    "slug": "lisbon",
+    "title": "Лиссабон",
+    "subtitle": "Lisbon · 5 прогулок скоро",
+    "meta": "Португалия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "portugal",
+    "photo": {
+      "id": "lisbon-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Лиссабон"
+    }
+  },
+  {
+    "id": "london",
+    "slug": "london",
+    "title": "Лондон",
+    "subtitle": "London · 5 прогулок скоро",
+    "meta": "Великобритания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-kingdom",
+    "photo": {
+      "id": "london-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/london/london-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/london/london-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Лондон"
+    }
+  },
+  {
+    "id": "lyon",
+    "slug": "lyon",
+    "title": "Лион",
+    "subtitle": "Lyon · 5 прогулок скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "france",
+    "photo": {
+      "id": "lyon-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/lyon/lyon-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/lyon/lyon-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Лион"
+    }
+  },
+  {
+    "id": "macao",
+    "slug": "macao",
+    "title": "Макао",
+    "subtitle": "Macao · 5 прогулок скоро",
+    "meta": "Китай · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "china",
+    "photo": {
+      "id": "macao-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/macao/macao-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/macao/macao-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Макао"
+    }
+  },
+  {
+    "id": "madrid",
+    "slug": "madrid",
+    "title": "Мадрид",
+    "subtitle": "Madrid · 5 прогулок скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "spain",
+    "photo": {
+      "id": "madrid-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мадрид"
+    }
+  },
+  {
+    "id": "marrakesh",
+    "slug": "marrakesh",
+    "title": "Марракеш",
+    "subtitle": "Marrakesh · 5 прогулок скоро",
+    "meta": "Марокко · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "morocco",
+    "photo": {
+      "id": "marrakesh-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Марракеш"
+    }
+  },
+  {
+    "id": "marseille",
+    "slug": "marseille",
+    "title": "Марсель",
+    "subtitle": "Marseille · 5 прогулок скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "france",
+    "photo": {
+      "id": "marseille-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Марсель"
+    }
+  },
+  {
+    "id": "melbourne",
+    "slug": "melbourne",
+    "title": "Мельбурн",
+    "subtitle": "Melbourne · 5 прогулок скоро",
+    "meta": "Австралия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "australia",
+    "photo": {
+      "id": "melbourne-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мельбурн"
+    }
+  },
+  {
+    "id": "mexico-city",
+    "slug": "mexico-city",
+    "title": "Мехико",
+    "subtitle": "Mexico City · 5 прогулок скоро",
+    "meta": "Мексика · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "mexico",
+    "photo": {
+      "id": "mexico-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мехико"
+    }
+  },
+  {
+    "id": "milan",
+    "slug": "milan",
+    "title": "Милан",
+    "subtitle": "Milan · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "milan-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Милан"
+    }
+  },
+  {
+    "id": "montreal",
+    "slug": "montreal",
+    "title": "Монреаль",
+    "subtitle": "Montreal · 5 прогулок скоро",
+    "meta": "Канада · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "canada",
+    "photo": {
+      "id": "montreal-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Монреаль"
+    }
+  },
+  {
+    "id": "mumbai",
+    "slug": "mumbai",
+    "title": "Мумбаи",
+    "subtitle": "Mumbai · 5 прогулок скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "india",
+    "photo": {
+      "id": "mumbai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мумбаи"
+    }
+  },
+  {
+    "id": "munich",
+    "slug": "munich",
+    "title": "Мюнхен",
+    "subtitle": "Munich · 5 прогулок скоро",
+    "meta": "Германия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "germany",
+    "photo": {
+      "id": "munich-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мюнхен"
+    }
+  },
+  {
+    "id": "naples",
+    "slug": "naples",
+    "title": "Неаполь",
+    "subtitle": "Naples · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "naples-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/naples/naples-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/naples/naples-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Неаполь"
+    }
+  },
+  {
+    "id": "new-orleans",
+    "slug": "new-orleans",
+    "title": "Новый Орлеан",
+    "subtitle": "New Orleans · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "new-orleans-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Новый Орлеан"
+    }
+  },
+  {
+    "id": "new-york",
+    "slug": "new-york",
+    "title": "Нью-Йорк",
+    "subtitle": "New York · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "new-york-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Нью-Йорк"
+    }
+  },
+  {
+    "id": "oaxaca",
+    "slug": "oaxaca",
+    "title": "Оахака",
+    "subtitle": "Oaxaca · 5 прогулок скоро",
+    "meta": "Мексика · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "mexico",
+    "photo": {
+      "id": "oaxaca-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Оахака"
+    }
+  },
+  {
+    "id": "osaka",
+    "slug": "osaka",
+    "title": "Осака",
+    "subtitle": "Osaka · 5 прогулок скоро",
+    "meta": "Япония · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "japan",
+    "photo": {
+      "id": "osaka-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Осака"
+    }
+  },
+  {
+    "id": "oslo",
+    "slug": "oslo",
+    "title": "Осло",
+    "subtitle": "Oslo · 5 прогулок скоро",
+    "meta": "Норвегия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "norway",
+    "photo": {
+      "id": "oslo-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Осло"
+    }
+  },
+  {
+    "id": "paris",
+    "slug": "paris",
+    "title": "Париж",
+    "subtitle": "Paris · 5 прогулок скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "france",
+    "photo": {
+      "id": "paris-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/paris/paris-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/paris/paris-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Париж"
+    }
+  },
+  {
+    "id": "philadelphia",
+    "slug": "philadelphia",
+    "title": "Филадельфия",
+    "subtitle": "Philadelphia · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "philadelphia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Филадельфия"
+    }
+  },
+  {
+    "id": "porto",
+    "slug": "porto",
+    "title": "Порту",
+    "subtitle": "Porto · 5 прогулок скоро",
+    "meta": "Португалия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "portugal",
+    "photo": {
+      "id": "porto-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/porto/porto-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/porto/porto-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Порту"
+    }
+  },
+  {
+    "id": "prague",
+    "slug": "prague",
+    "title": "Прага",
+    "subtitle": "Prague · 5 прогулок скоро",
+    "meta": "Чехия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "czechia",
+    "photo": {
+      "id": "prague-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/prague/prague-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/prague/prague-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Прага"
+    }
+  },
+  {
+    "id": "quebec-city",
+    "slug": "quebec-city",
+    "title": "Квебек",
+    "subtitle": "Québec City · 5 прогулок скоро",
+    "meta": "Канада · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "canada",
+    "photo": {
+      "id": "quebec-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Квебек"
+    }
+  },
+  {
+    "id": "quito",
+    "slug": "quito",
+    "title": "Кито",
+    "subtitle": "Quito · 5 прогулок скоро",
+    "meta": "Эквадор · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "ecuador",
+    "photo": {
+      "id": "quito-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/quito/quito-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/quito/quito-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Кито"
+    }
+  },
+  {
+    "id": "riga",
+    "slug": "riga",
+    "title": "Рига",
+    "subtitle": "Riga · 5 прогулок скоро",
+    "meta": "Латвия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "latvia",
+    "photo": {
+      "id": "riga-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/riga/riga-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/riga/riga-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рига"
+    }
+  },
+  {
+    "id": "rio-de-janeiro",
+    "slug": "rio-de-janeiro",
+    "title": "Рио-де-Жанейро",
+    "subtitle": "Rio de Janeiro · 5 прогулок скоро",
+    "meta": "Бразилия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "brazil",
+    "photo": {
+      "id": "rio-de-janeiro-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
+    }
+  },
+  {
+    "id": "rome",
+    "slug": "rome",
+    "title": "Рим",
+    "subtitle": "Rome · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "rome-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/rome/rome-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/rome/rome-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рим"
+    }
+  },
+  {
+    "id": "salzburg",
+    "slug": "salzburg",
+    "title": "Зальцбург",
+    "subtitle": "Salzburg · 5 прогулок скоро",
+    "meta": "Австрия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "austria",
+    "photo": {
+      "id": "salzburg-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Зальцбург"
+    }
+  },
+  {
+    "id": "san-francisco",
+    "slug": "san-francisco",
+    "title": "Сан-Франциско",
+    "subtitle": "San Francisco · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "san-francisco-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сан-Франциско"
+    }
+  },
+  {
+    "id": "santiago-chile",
+    "slug": "santiago-chile",
+    "title": "Сантьяго",
+    "subtitle": "Santiago · 5 прогулок скоро",
+    "meta": "Чили · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "chile",
+    "photo": {
+      "id": "santiago-chile-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сантьяго"
+    }
+  },
+  {
+    "id": "seville",
+    "slug": "seville",
+    "title": "Севилья",
+    "subtitle": "Seville · 5 прогулок скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "spain",
+    "photo": {
+      "id": "seville-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/seville/seville-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/seville/seville-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Севилья"
+    }
+  },
+  {
+    "id": "shanghai",
+    "slug": "shanghai",
+    "title": "Шанхай",
+    "subtitle": "Shanghai · 5 прогулок скоро",
+    "meta": "Китай · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "china",
+    "photo": {
+      "id": "shanghai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/shanghai/shanghai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/shanghai/shanghai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Шанхай"
+    }
+  },
+  {
+    "id": "singapore",
+    "slug": "singapore",
+    "title": "Сингапур",
+    "subtitle": "Singapore · 5 прогулок скоро",
+    "meta": "Сингапур · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "singapore",
+    "photo": {
+      "id": "singapore-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сингапур"
+    }
+  },
+  {
+    "id": "stockholm",
+    "slug": "stockholm",
+    "title": "Стокгольм",
+    "subtitle": "Stockholm · 5 прогулок скоро",
+    "meta": "Швеция · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "sweden",
+    "photo": {
+      "id": "stockholm-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Стокгольм"
+    }
+  },
+  {
+    "id": "sydney",
+    "slug": "sydney",
+    "title": "Сидней",
+    "subtitle": "Sydney · 5 прогулок скоро",
+    "meta": "Австралия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "australia",
+    "photo": {
+      "id": "sydney-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сидней"
+    }
+  },
+  {
+    "id": "taipei",
+    "slug": "taipei",
+    "title": "Тайбэй",
+    "subtitle": "Taipei · 5 прогулок скоро",
+    "meta": "Тайвань · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "taiwan",
+    "photo": {
+      "id": "taipei-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Тайбэй"
+    }
+  },
+  {
+    "id": "tallinn",
+    "slug": "tallinn",
+    "title": "Таллин",
+    "subtitle": "Tallinn · 5 прогулок скоро",
+    "meta": "Эстония · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "estonia",
+    "photo": {
+      "id": "tallinn-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Таллин"
+    }
+  },
+  {
+    "id": "tbilisi",
+    "slug": "tbilisi",
+    "title": "Тбилиси",
+    "subtitle": "Tbilisi · 5 прогулок скоро",
+    "meta": "Грузия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "georgia",
+    "photo": {
+      "id": "tbilisi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Тбилиси"
+    }
+  },
+  {
+    "id": "tokyo",
+    "slug": "tokyo",
+    "title": "Токио",
+    "subtitle": "Tokyo · 5 прогулок скоро",
+    "meta": "Япония · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "japan",
+    "photo": {
+      "id": "tokyo-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tokyo/tokyo-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/tokyo/tokyo-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Токио"
+    }
+  },
+  {
+    "id": "tunis",
+    "slug": "tunis",
+    "title": "Тунис",
+    "subtitle": "Tunis · 5 прогулок скоро",
+    "meta": "Тунис · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "tunisia",
+    "photo": {
+      "id": "tunis-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Тунис"
+    }
+  },
+  {
+    "id": "valencia",
+    "slug": "valencia",
+    "title": "Валенсия",
+    "subtitle": "Valencia · 5 прогулок скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "spain",
+    "photo": {
+      "id": "valencia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Валенсия"
+    }
+  },
+  {
+    "id": "vancouver",
+    "slug": "vancouver",
+    "title": "Ванкувер",
+    "subtitle": "Vancouver · 5 прогулок скоро",
+    "meta": "Канада · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "canada",
+    "photo": {
+      "id": "vancouver-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/vancouver/vancouver-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/vancouver/vancouver-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Ванкувер"
+    }
+  },
+  {
+    "id": "varanasi",
+    "slug": "varanasi",
+    "title": "Варанаси",
+    "subtitle": "Varanasi · 5 прогулок скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "india",
+    "photo": {
+      "id": "varanasi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Варанаси"
+    }
+  },
+  {
+    "id": "venice",
+    "slug": "venice",
+    "title": "Венеция",
+    "subtitle": "Venice · 5 прогулок скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "italy",
+    "photo": {
+      "id": "venice-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/venice/venice-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/venice/venice-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Венеция"
+    }
+  },
+  {
+    "id": "vienna",
+    "slug": "vienna",
+    "title": "Вена",
+    "subtitle": "Vienna · 5 прогулок скоро",
+    "meta": "Австрия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "austria",
+    "photo": {
+      "id": "vienna-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/vienna/vienna-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/vienna/vienna-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Вена"
+    }
+  },
+  {
+    "id": "warsaw",
+    "slug": "warsaw",
+    "title": "Варшава",
+    "subtitle": "Warsaw · 5 прогулок скоро",
+    "meta": "Польша · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "poland",
+    "photo": {
+      "id": "warsaw-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/warsaw/warsaw-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/warsaw/warsaw-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Варшава"
+    }
+  },
+  {
+    "id": "washington-dc",
+    "slug": "washington-dc",
+    "title": "Вашингтон, округ Колумбия",
+    "subtitle": "Washington, DC · 5 прогулок скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "united-states",
+    "photo": {
+      "id": "washington-dc-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/washington-dc/washington-dc-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/washington-dc/washington-dc-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Вашингтон, округ Колумбия"
+    }
+  },
+  {
+    "id": "wellington",
+    "slug": "wellington",
+    "title": "Веллингтон",
+    "subtitle": "Wellington · 5 прогулок скоро",
+    "meta": "Новая Зеландия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "new-zealand",
+    "photo": {
+      "id": "wellington-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/wellington/wellington-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/wellington/wellington-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Веллингтон"
+    }
+  },
+  {
+    "id": "xian",
+    "slug": "xian",
+    "title": "Сиань",
+    "subtitle": "Xi'an · 5 прогулок скоро",
+    "meta": "Китай · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "china",
+    "photo": {
+      "id": "xian-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/xian/xian-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/xian/xian-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сиань"
+    }
+  },
+  {
+    "id": "zanzibar-city",
+    "slug": "zanzibar-city",
+    "title": "Занзибар-Сити",
+    "subtitle": "Zanzibar City · 5 прогулок скоро",
+    "meta": "Танзания · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "tanzania",
+    "photo": {
+      "id": "zanzibar-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Занзибар-Сити"
+    }
+  },
+  {
+    "id": "zurich",
+    "slug": "zurich",
+    "title": "Цюрих",
+    "subtitle": "Zurich · 5 прогулок скоро",
+    "meta": "Швейцария · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "switzerland",
+    "photo": {
+      "id": "zurich-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/zurich/zurich-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/zurich/zurich-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Цюрих"
+    }
   }
 ]

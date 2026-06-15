@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Гавань складывает первый Сидней: песчаник, причалы, мост и белые паруса над водой.",
+    "cityId": "sydney",
+    "dayTrip": false,
+    "id": "sydney-harbour-rocks-sails",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Barangaroo Reserve, Millers Point, The Rocks, Circular Quay, Bennelong Point.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Песчаник, ранний порт и модернистская икона на одной кромке гавани.",
+    "title": "Гавань, скалы и паруса: первый Сидней у воды",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Берег ведет от пляжа к пляжу: утесы, океанские бассейны и город, живущий у прибоя.",
+    "cityId": "sydney",
+    "dayTrip": false,
+    "id": "sydney-bondi-coogee-coast",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Восточное побережье от Bondi Beach через Tamarama, Bronte и Clovelly к Coogee.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Классическая линия пляжей, океанских бассейнов и каменных мысов.",
+    "title": "От Bondi до Coogee: утесы, бассейны и прибой",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Macquarie Street раскрывает город через больницу, казармы, сад и тишину у Farm Cove.",
+    "cityId": "sydney",
+    "dayTrip": false,
+    "id": "sydney-macquarie-botanic-domain",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Macquarie Street, Hyde Park edge, The Domain, Royal Botanic Garden Sydney, Farm Cove.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От казарм и больницы к Domain, Farm Cove и старейшему ботаническому саду.",
+    "title": "Macquarie Street и сад: власть, наука и тень деревьев",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Paddington читает Сидней в террасах: гребень Oxford Street, старый резервуар и дома на склонах.",
+    "cityId": "sydney",
+    "dayTrip": false,
+    "id": "sydney-paddington-terraces-reservoir",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Oxford Street в Paddington, Paddington Reservoir Gardens, Five Ways и соседние улицы террас.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Восточный район как урок сиднейского жилья, рельефа и адаптивной архитектуры.",
+    "title": "Paddington: террасы, резервуар и гребень Oxford Street",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Haymarket показывает вечерний Сидней: рынки, вывески, переулки и азиатская кухня вокруг Dixon Street.",
+    "cityId": "sydney",
+    "dayTrip": false,
+    "id": "sydney-haymarket-chinatown-evening",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Central, Belmore Park, Haymarket, Dixon Street, Chinese Garden edge, Darling Square.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Южный край центра через миграцию, торговлю, вывески и уличный аппетит.",
+    "title": "Haymarket и Chinatown: рынки, неон и вечерняя еда",
+    "walkType": "food_evening"
+  }
+]

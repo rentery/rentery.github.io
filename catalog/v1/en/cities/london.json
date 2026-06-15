@@ -1,0 +1,17 @@
+{
+  "id": "london",
+  "slug": "london",
+  "title": "London",
+  "subtitle": "London · 5 walks coming soon",
+  "meta": "United Kingdom · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "united-kingdom",
+  "photo": {
+    "id": "london-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/london/london-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/london/london-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Лондон"
+  }
+}

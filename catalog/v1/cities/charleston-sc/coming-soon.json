@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Гавань ведет от рынка к Батарее: фасады, пирсы и город, который всегда смотрел на воду.",
+    "cityId": "charleston-sc",
+    "dayTrip": false,
+    "id": "charleston-sc-port-battery-waterfront",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Исторический центр: Market Street, East Bay, Waterfront Park, South of Broad и The Battery.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От рынка к гавани, где фасады, пристани и оборона складываются в историю города.",
+    "title": "Порт и Батарея: Чарлстон у воды",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Путь от Гэдсденс-Уорф к Чалмерс-стрит показывает город через память, море и голоса общин.",
+    "cityId": "charleston-sc",
+    "dayTrip": false,
+    "id": "charleston-sc-gadsdens-wharf-black-memory",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Восточная кромка полуострова и центр: Gadsden’s Wharf, City Market, Chalmers Street, Calhoun Street.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Путь от места прибытия через музей, рынок и Чалмерс-стрит к живой памяти общин.",
+    "title": "Гэдсденс-Уорф: память Черного Чарлстона",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Одна улица ведет от старого склада к музеям, особнякам и площадям, где город объясняет себя.",
+    "cityId": "charleston-sc",
+    "dayTrip": false,
+    "id": "charleston-sc-museum-mile-meeting-street",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Meeting Street и соседние кварталы между Visitor Center, Marion Square, Broad Street и Nathaniel Russell House.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Meeting Street собирает музеи, площади, особняки и публичную власть.",
+    "title": "Мьюзиум-Майл: Чарлстон как коридор памяти",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Пьяццы, ворота и боковые сады учат читать Чарлстон как город тени, статуса и морского бриза.",
+    "cityId": "charleston-sc",
+    "dayTrip": false,
+    "id": "charleston-sc-legare-tradd-house-grammar",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "South of Broad: Meeting Street, Legare Street, Tradd Street, Church Street и ближайшие переулки.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "South of Broad через пьяццы, ворота, сады и узкие участки.",
+    "title": "Легэр и Трэдд: грамматика чарлстонского дома",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Вечерний King Street показывает другой Чарлстон: рестораны, витрины, старые склады и жизнь после музеев.",
+    "cityId": "charleston-sc",
+    "dayTrip": false,
+    "id": "charleston-sc-upper-king-evening-grid",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Upper King Street и Cannonborough-Elliotborough между Marion Square, Calhoun Street, Cannon Street и Spring Street.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От Marion Square к Cannonborough: витрины, еда, бывшие склады и ночной город.",
+    "title": "Аппер-Кинг вечером: новый ритм старой сетки",
+    "walkType": "food_evening"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Форт, пристани и клановые дворы показывают Джорджтаун как порт, где власть спорила с торговлей.",
+    "cityId": "george-town-malaysia",
+    "dayTrip": false,
+    "id": "george-town-malaysia-fort-clans-port-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Северо-восток World Heritage Site: Padang Kota Lama, Fort Cornwallis, Jalan Masjid Kapitan Keling, Cannon Square.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия от колониального берега к храмам, шопхаусам и клановым дворам.",
+    "title": "От форта к кланам: старый порт слоями",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Деревянные настилы над водой выводят к городу семей, лодок и ежедневной жизни у пролива.",
+    "cityId": "george-town-malaysia",
+    "dayTrip": false,
+    "id": "george-town-malaysia-clan-jetties-weld-quay",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Weld Quay / Pengkalan Weld и клановые пристани у юго-восточного края heritage core.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Пешая линия вдоль Weld Quay, где портовая окраина стала живым поселением на сваях.",
+    "title": "Пристани кланов: Джорджтаун над водой",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Улица за улицей собирают специи, молитвы и витрины, где соседствуют разные городские общины.",
+    "cityId": "george-town-malaysia",
+    "dayTrip": false,
+    "id": "george-town-malaysia-little-india-street-of-harmony",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Jalan Masjid Kapitan Keling, Lebuh King, Lebuh Queen, Lebuh Chulia и Little India.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая прогулка по соседству храмов, мечети, лавок, специй и городских языков.",
+    "title": "Маленькая Индия и улица гармонии",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Муралы и железные шутки ведут по кварталу, где наследие стало городским языком.",
+    "cityId": "george-town-malaysia",
+    "dayTrip": false,
+    "id": "george-town-malaysia-armenian-street-art-clans",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Lebuh Armenian, Lebuh Ah Quee, Cannon Street и клановые кварталы вокруг Armenian Street Park.",
+    "roughDuration": "1.5-2 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут по муралам, железным историям и клановым кварталам без охоты за селфи.",
+    "title": "Armenian Street: искусство на старых стенах",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Рынки и вечерние улицы показывают Джорджтаун через запахи, ремесла и разговоры у пятифутовых аркад.",
+    "cityId": "george-town-malaysia",
+    "dayTrip": false,
+    "id": "george-town-malaysia-chowrasta-kimberley-food-traders",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Chowrasta Market, Campbell Street, Cintra, Kimberley, Carnarvon и Chulia.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Город через торговые аркады, ремесла, рынки и вечерние food pockets.",
+    "title": "Рынки и вечерние улицы: от Chowrasta к Kimberley",
+    "walkType": "food_evening"
+  }
+]

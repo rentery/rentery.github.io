@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Главная ось города ведет от обелиска к мемориалам, где пространство превращает историю в публичный жест.",
+    "cityId": "washington-dc",
+    "dayTrip": false,
+    "id": "washington-dc-national-mall-memory-axis",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Западная часть National Mall, Reflecting Pool и край Tidal Basin.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Обелиск, отражающий бассейн и мемориалы как язык столицы.",
+    "title": "Национальная аллея: ось памяти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Холм показывает, как федеральная сцена соседствует с рынком, рядовыми домами и повседневной жизнью DC.",
+    "cityId": "washington-dc",
+    "dayTrip": false,
+    "id": "washington-dc-capitol-hill-law-neighborhood",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "От Union Station и Capitol Grounds к Eastern Market и Barracks Row.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Конгресс, библиотеки, суд и рядовые дома в одном компактном холме.",
+    "title": "Капитолийский холм: закон и квартал",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Церемониальная улица связывает Белый дом с архивами, театрами и городскими площадями.",
+    "cityId": "washington-dc",
+    "dayTrip": false,
+    "id": "washington-dc-pennsylvania-avenue-republic-stage",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Lafayette Square, Pennsylvania Avenue, Federal Triangle и Penn Quarter.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Президентская улица, архивы, театры и площади между властью и городом.",
+    "title": "Пенсильвания-авеню: сцена республики",
+    "walkType": "history"
+  },
+  {
+    "blurb": "U Street раскрывает другой центр столицы: клубы, театр, стены памяти и долгую историю черного Вашингтона.",
+    "cityId": "washington-dc",
+    "dayTrip": false,
+    "id": "washington-dc-u-street-black-broadway",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Greater U Street и Shaw, от Howard Theatre к Meridian Hill/Malcolm X Park.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Музыкальная улица, гражданская история и квартал, который менялся на глазах.",
+    "title": "U Street: Black Broadway и память района",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Канал и кирпичные улицы показывают старый порт Вашингтона до больших проспектов и мемориалов.",
+    "cityId": "washington-dc",
+    "dayTrip": false,
+    "id": "washington-dc-georgetown-canal-port-brick",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Georgetown Waterfront, C&O Canal, M Street, N Street и склон к университету.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старый город у воды, где промышленный канал встречает университетские холмы.",
+    "title": "Джорджтаун: канал, порт и кирпич",
+    "walkType": "neighborhood"
+  }
+]

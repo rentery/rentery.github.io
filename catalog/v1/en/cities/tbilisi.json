@@ -1,0 +1,17 @@
+{
+  "id": "tbilisi",
+  "slug": "tbilisi",
+  "title": "Tbilisi",
+  "subtitle": "Tbilisi · 5 walks coming soon",
+  "meta": "Georgia · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "georgia",
+  "photo": {
+    "id": "tbilisi-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Тбилиси"
+  }
+}

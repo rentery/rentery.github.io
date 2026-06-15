@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Замок, река и остров мэрии собирают Осаку в одну историю: от самурайской власти до торгового города.",
+    "cityId": "osaka",
+    "dayTrip": false,
+    "id": "osaka-castle-nakanoshima-water-power",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Osaka Castle Park, Тэммабаси, набережная Окавы, Нака-но-сима.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От замковых валов к острову, где реки превращают Осаку в торговую столицу.",
+    "title": "Осака-дзё и Нака-но-сима: город у воды и власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Вечерняя Намба показывает Осаку как сцену: канал, вывески, переулки и городскую страсть к еде.",
+    "cityId": "osaka",
+    "dayTrip": false,
+    "id": "osaka-dotonbori-namba-neon-food-theatre",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Миннами: Ниппомбаси, Ура-Намба, Ходзэндзи, Дотонбори, южная Синсайбаси.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Вечерняя Миннами как сцена, где еда, вывески и канал играют вместе.",
+    "title": "Дотонбори и Намба: театр, неон и куидаорэ",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Башня, ярмарочные улицы и храм Ситэннодзи показывают юг Осаки между ностальгией и обновлением.",
+    "cityId": "osaka",
+    "dayTrip": false,
+    "id": "osaka-shinsekai-tennoji-retro-future",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Синсэкай, Janjan Yokocho, Тэннодзи-парк, Ситэннодзи, Абэно.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От башни Цутэнкаку к древнему храму и новой вертикали Абэно.",
+    "title": "Синсэкай и Тэннодзи: старая мечта о будущем",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Северный вокзал открывает новую Осаку: террасы, переходы, парк у станции и башни над бывшими путями.",
+    "cityId": "osaka",
+    "dayTrip": false,
+    "id": "osaka-umeda-station-new-north",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Kita: Osaka Station City, Umekita, Grand Green Osaka, Umeda Sky Building, Chayamachi.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут по Осаке, которая строит себя вокруг станции, мостов и городского парка.",
+    "title": "Умэда: вокзал, воздух и новый север",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Сумиёси показывает тихую древность Осаки: мост-радугу, морских богов и берег, которого уже не видно.",
+    "cityId": "osaka",
+    "dayTrip": false,
+    "id": "osaka-sumiyoshi-shrine-former-sea",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Сумиёси: Hankai tram stop, Sumiyoshi Taisha, Sumiyoshi Park и старый подход к храму.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Южная прогулка о море, поэзии, трамвае и старом священном пейзаже.",
+    "title": "Сумиёси: храм у бывшего моря",
+    "walkType": "history"
+  }
+]

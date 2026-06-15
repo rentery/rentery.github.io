@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "brussels",
+    "slug": "brussels",
+    "title": "Brussels",
+    "subtitle": "Brussels · 5 walks coming soon",
+    "meta": "Belgium · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "belgium",
+    "photo": {
+      "id": "brussels-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Брюссель"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "6290fd714228"
+}

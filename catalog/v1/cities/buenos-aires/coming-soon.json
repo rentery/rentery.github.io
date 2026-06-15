@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Главная городская линия собирает революции, балконы, кафе и купола на одном прямом проспекте.",
+    "cityId": "buenos-aires",
+    "dayTrip": false,
+    "id": "buenos-aires-plaza-de-mayo-avenida-power-axis",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Monserrat: Plaza de Mayo, Avenida de Mayo и Plaza del Congreso.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От колониального ядра к дворцам республики и куполу Конгресса.",
+    "title": "Площадь Мая и Авенида де Майо: ось власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Сан-Тельмо показывает старый город через брусчатку, рынок, дворы и музыку, которая выросла из улицы.",
+    "cityId": "buenos-aires",
+    "dayTrip": false,
+    "id": "buenos-aires-san-telmo-old-city-tango",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Сан-Тельмо: от Parque Lezama и Avenida Caseros к Mercado de San Telmo и Plaza Dorrego.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старый южный район между парком, антикварными витринами и площадью Доррего.",
+    "title": "Сан-Тельмо: брусчатка, рынок и тень танго",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Ла-Бока держит город за порт: крашеные дома, художники, речной край и стадион рядом с улицей.",
+    "cityId": "buenos-aires",
+    "dayTrip": false,
+    "id": "buenos-aires-la-boca-port-color-football",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Ла-Бока: Vuelta de Rocha, Caminito, Quinquela Martín и окрестности La Bombonera.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая южная прогулка по иммигрантскому району у старой гавани.",
+    "title": "Ла-Бока: порт, цвет и футбольная трибуна",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Реколета раскрывает «Париж юга» с другой стороны: через мавзолеи, скверы, кафе и строгие фасады.",
+    "cityId": "buenos-aires",
+    "dayTrip": false,
+    "id": "buenos-aires-recoleta-cemetery-palaces-memory",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Реколета: Plaza Francia, Cementerio de la Recoleta, Avenida Alvear и Floralis Genérica.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Аристократический север через мавзолеи, площади и французские фасады.",
+    "title": "Реколета: кладбище, дворцы и город памяти",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Палермо показывает современный будничный город: зелень, низкие дома, муралы, витрины и площадь к вечеру.",
+    "cityId": "buenos-aires",
+    "dayTrip": false,
+    "id": "buenos-aires-palermo-viejo-gardens-evening-streets",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Палермо: Plaza Italia, Jardín Botánico, Plaza Armenia, Pasaje Russel и Plaza Cortázar.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От ботанического входа к дизайнерским улицам, муралам и площадям.",
+    "title": "Палермо-Вьехо: сад, низкие дома и вечерний район",
+    "walkType": "neighborhood"
+  }
+]

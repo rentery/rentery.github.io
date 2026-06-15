@@ -1,0 +1,73 @@
+[
+  {
+    "blurb": "Старый город складывается в один ход: скала, терраса, спуск к площади и узкая улица у реки.",
+    "cityId": "quebec-city",
+    "dayTrip": false,
+    "id": "quebec-city-old-quebec-cliff-river",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Верхний город, Terrasse Dufferin, Côte de la Montagne, Place Royale и Petit-Champlain.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главный ход через Верхний город, спуск и колониальное ядро у воды.",
+    "title": "Старый Квебек: город на скале и у реки",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Крепостные стены показывают Квебек как машину обзора: ворота, бастионы и город на краю скалы.",
+    "cityId": "quebec-city",
+    "dayTrip": false,
+    "id": "quebec-city-fortifications-walled-city",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Периметр стен Верхнего города от Place d’Youville до Terrasse Dufferin.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка по воротам, бастионам и линии обороны Старого города.",
+    "title": "Стены Квебека: город, который держит форму",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Парламентская ось ведет от фасадов власти к парку, где битвы стали городской памятью.",
+    "cityId": "quebec-city",
+    "dayTrip": false,
+    "id": "quebec-city-parliament-plains-memory",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Colline parlementaire, Grande Allée, Поля Авраама и зона MNBAQ.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От фасадов власти к парку битв, проспектов и искусства.",
+    "title": "Парламент и Поля Авраама: память на краю центра",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Сен-Рош показывает другой Квебек: бывшую торговую улицу, творческие дворы и жизнь Нижнего города.",
+    "cityId": "quebec-city",
+    "dayTrip": false,
+    "id": "quebec-city-saint-roch-lower-town",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Saint-Roch вокруг Église Saint-Roch, Rue Saint-Joseph Est и Jardin Jean-Paul-L’Allier.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Рабочий район, главная торговая улица и новый городской слой.",
+    "title": "Сен-Рош: Нижний город после фабрик",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Водопад Монморанси собирает реку, обрыв и мост в компактную прогулку за пределами старого центра.",
+    "cityId": "quebec-city",
+    "dayTrip": true,
+    "id": "quebec-city-montmorency-falls-walk",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Парк водопада Монморанси: нижний обзор, лестницы, верхний мост и площадки у обрыва.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Дневная прогулка вокруг главного природного жеста у города.",
+    "title": "Монморанси: водопад, мост и скала",
+    "walkType": "day_trip",
+    "nearbyPlace": "Парк водопада Монморанси"
+  }
+]

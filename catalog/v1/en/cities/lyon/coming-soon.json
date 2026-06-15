@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Фурвьер и Старый Лион показывают город сверху вниз: Рим, базилика, собор и тайные дворы.",
+    "cityId": "lyon",
+    "dayTrip": false,
+    "id": "lyon-fourviere-vieux-lyon-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Фурвьер, сады Розария и Вьё-Лион вдоль Соны.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От римского Лугдунума к собору, трабулям и берегу Соны.",
+    "title": "Фурвьер и Вьё-Лион: город спускается с холма",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Полуостров собирает парадный Лион: площади, театры, витрины и жизнь между двумя реками.",
+    "cityId": "lyon",
+    "dayTrip": false,
+    "id": "lyon-presquile-civic-stage",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Север и центр Прескиля: Terreaux, Cordeliers, Jacobins, Bellecour.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Площади, театры и буржуазные фасады от Терро до Белькур.",
+    "title": "Прескиль: парадный Лион между реками",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Склоны Круа-Русс ведут через шелк, лестницы и проходы к городу, который работал руками.",
+    "cityId": "lyon",
+    "dayTrip": false,
+    "id": "lyon-croix-rousse-canuts-slopes",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Плато и склоны Круа-Русс с выходом к нижнему городу.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Рабочий холм Лиона через фрески, склоны и проходные дворы.",
+    "title": "Круа-Русс: шелк, лестницы и город каню",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Конфлюанс показывает новый Лион: доки, смелая архитектура и место, где сходятся две реки.",
+    "cityId": "lyon",
+    "dayTrip": false,
+    "id": "lyon-confluence-docks-rivers",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Юг Прескиля от Перраш к слиянию Соны и Роны.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Современный Лион на бывшей индустриальной оконечности полуострова.",
+    "title": "Конфлюанс: доки, стекло и две реки",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Лионская еда читается как городская биография: рынок, мосты, бушоны и вечерние улицы.",
+    "cityId": "lyon",
+    "dayTrip": false,
+    "id": "lyon-halles-bouchons-evening",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "От Halles de Lyon Paul Bocuse через Rhône к Cordeliers и Bellecour.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Гастрономическая ось от Halles Paul Bocuse к вечернему Прескилю.",
+    "title": "Лион на вкус: от рынка к бушонам",
+    "walkType": "food_evening"
+  }
+]

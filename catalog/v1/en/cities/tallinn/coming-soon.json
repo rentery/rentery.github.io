@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Средневековый Таллин читается снизу вверх: торговые улицы, власть на холме и вид на порт.",
+    "cityId": "tallinn",
+    "dayTrip": false,
+    "id": "tallinn-old-town-toompea-lower-town",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый город: Виру, Ратушная площадь, Пикк, городская стена и Тоомпеа.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От торговых улиц Нижнего города к крепостному холму Тоомпеа.",
+    "title": "Старый город: снизу вверх к власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Деревянные улицы ведут к бывшим заводам, морю и кварталам, где город говорит современным голосом.",
+    "cityId": "tallinn",
+    "dayTrip": false,
+    "id": "tallinn-kalamaja-telliskivi-noblessner",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Каламая от Балтийского вокзала и Telliskivi к Лётной гавани и Noblessner.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Рабочий район превращается в творческий берег без потери масштаба.",
+    "title": "Каламая: дерево, рельсы и море",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Барочный парк собирает дворец, музеи и тихие аллеи, где Таллин меняет крепостной силуэт на искусство.",
+    "cityId": "tallinn",
+    "dayTrip": false,
+    "id": "tallinn-kadriorg-palace-park-art",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Кадриорг: дворцовый парк, музейные здания, виллы и склон к Kumu.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Барочная ось, тихие аллеи и музейный Таллин за пределами крепостных стен.",
+    "title": "Кадриорг: парк, дворец и искусство",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Береговая линия показывает другой Таллин: памятник у моря, олимпийская гавань и руины монастыря.",
+    "cityId": "tallinn",
+    "dayTrip": false,
+    "id": "tallinn-pirita-sea-olympic-ruins",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Побережье от Русалки и променада Пирита к олимпийской гавани, монастырю и пляжу.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Длинная береговая линия от городского памятника к монастырю и пляжу.",
+    "title": "Пирита: море, Олимпиада и руины",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Между Старым городом и портом бывшие фабрики стали коротким уроком новой городской ткани.",
+    "cityId": "tallinn",
+    "dayTrip": false,
+    "id": "tallinn-rotermann-harbour-linnahall",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Центр между Виру, кварталом Ротерманн, Адмиралтейским бассейном, портом и Linnahall.",
+    "roughDuration": "1.5-2.5 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая прогулка по границе Старого города, фабрик и моря.",
+    "title": "Ротерманн и порт: новый город у складов",
+    "walkType": "modern_city"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "ghent",
+  "slug": "ghent",
+  "title": "Ghent",
+  "subtitle": "Ghent · 5 walks coming soon",
+  "meta": "Belgium · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "belgium",
+  "photo": {
+    "id": "ghent-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/ghent/ghent-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Гент"
+  }
+}

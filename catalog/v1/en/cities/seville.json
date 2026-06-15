@@ -1,0 +1,17 @@
+{
+  "id": "seville",
+  "slug": "seville",
+  "title": "Seville",
+  "subtitle": "Seville · 5 walks coming soon",
+  "meta": "Spain · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "spain",
+  "photo": {
+    "id": "seville-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/seville/seville-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/seville/seville-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Севилья"
+  }
+}

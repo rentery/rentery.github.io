@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "amsterdam",
+    "slug": "amsterdam",
+    "title": "Amsterdam",
+    "subtitle": "Amsterdam · 5 walks coming soon",
+    "meta": "Netherlands · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "netherlands",
+    "photo": {
+      "id": "amsterdam-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/amsterdam/amsterdam-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/amsterdam/amsterdam-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Амстердам"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "f7ad00ab4efd"
+}

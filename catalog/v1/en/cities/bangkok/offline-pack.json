@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "bangkok",
+    "slug": "bangkok",
+    "title": "Bangkok",
+    "subtitle": "Bangkok · 5 walks coming soon",
+    "meta": "Thailand · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "thailand",
+    "photo": {
+      "id": "bangkok-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Бангкок"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "en",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "0af8e960c0aa"
+}

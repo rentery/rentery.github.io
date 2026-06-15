@@ -1,0 +1,73 @@
+[
+  {
+    "blurb": "От вокзала к морю проступает старый Бомбей: торговля, власть, музеи и арка у воды.",
+    "cityId": "mumbai",
+    "dayTrip": false,
+    "id": "mumbai-fort-gateway-port-city",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Fort, Kala Ghoda, Colaba и waterfront у Gateway of India.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Линия от вокзального дворца к арке у моря через торговый и музейный центр.",
+    "title": "Форт и Gateway: как Бомбей вышел к миру",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Овал показывает город как чертёж: готика по одну сторону, ар-деко и море — по другую.",
+    "cityId": "mumbai",
+    "dayTrip": false,
+    "id": "mumbai-oval-maidan-art-deco-gothic",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Oval Maidan, Churchgate и начало Marine Drive.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка по UNESCO-ансамблю, где две версии современного города стоят лицом к лицу.",
+    "title": "Oval Maidan: готика смотрит на ар-деко",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Рынки старого центра ведут от фруктов и тканей к храму имени города и вечерней еде.",
+    "cityId": "mumbai",
+    "dayTrip": false,
+    "id": "mumbai-bhuleshwar-markets-mumbadevi",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Crawford Market, Kalbadevi, Bhuleshwar, Zaveri Bazaar и Mohammed Ali Road.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Фрукты, ткани, золото, храм имени города и вечерняя еда старого центра.",
+    "title": "Бхулешвар и рынки: город в тесных улицах",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Паром уводит за бухту к каменным залам, где остров превращается в миф о Шиве.",
+    "cityId": "mumbai",
+    "dayTrip": true,
+    "id": "mumbai-elephanta-island-shiva-caves",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Gateway of India, паром через бухту и пещерный комплекс на острове Elephanta.",
+    "roughDuration": "4-6 часов",
+    "status": "coming_soon",
+    "subtitle": "Паромный day trip к пещерам, где камень превращает миф в пространство.",
+    "title": "Элефанта: остров Шивы за бухтой",
+    "walkType": "day_trip",
+    "nearbyPlace": "Остров Элефанта (Гхарапури)"
+  },
+  {
+    "blurb": "Бандра собирает другой Мумбаи: католические улочки, холм с базиликой и море у форта.",
+    "cityId": "mumbai",
+    "dayTrip": false,
+    "id": "mumbai-bandra-portuguese-sea-walk",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Bandra West: Ranwar, Chimbai, Mount Mary, Bandstand и Bandra Fort.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старый пригород с португальским следом, базиликой на холме и видом на Sea Link.",
+    "title": "Бандра: католические улочки и море",
+    "walkType": "neighborhood"
+  }
+]

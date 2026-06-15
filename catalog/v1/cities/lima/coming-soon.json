@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр показывает Лиму как столицу империи: площади, монастыри, балконы и спорные символы власти.",
+    "cityId": "lima",
+    "dayTrip": false,
+    "id": "lima-centro-historico-power-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Исторический центр вокруг Пласа-Майор, Jirón de la Unión и Сан-Франсиско.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От Пласа-Майор к монастырям и улицам вице-королевской столицы.",
+    "title": "Центр Лимы: власть, вера и балконы",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Miraflores держит Лиму между древней глиной, городским парком и длинным обрывом над Тихим океаном.",
+    "cityId": "lima",
+    "dayTrip": false,
+    "id": "lima-miraflores-huaca-cliffs",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Huaca Pucllana, Parque Kennedy, Avenida Larco и malecón Miraflores.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Современный район, где доиспанская huaca стоит в нескольких кварталах от тихоокеанского обрыва.",
+    "title": "Miraflores: пирамида, парк и край океана",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Barranco собирает музыку, уличное искусство и старые спуски к морю в один компактный вечерний маршрут.",
+    "cityId": "lima",
+    "dayTrip": false,
+    "id": "lima-barranco-bohemia-ravine",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Центр Barranco, Puente de los Suspiros, Bajada de Baños и Avenida Pedro de Osma.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая прогулка по району музыки, галерей и спуска к океану.",
+    "title": "Barranco: мост, овраг и богема у моря",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Pueblo Libre дает спокойный вход в древний Перу: музейные коллекции, сады и площадь с республиканской памятью.",
+    "cityId": "lima",
+    "dayTrip": false,
+    "id": "lima-pueblo-libre-ancient-peru",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Pueblo Libre между Museo Larco, Avenida Bolívar и Plaza Bolívar.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Музеи, сады и республиканская память вокруг Bolívar и Larco.",
+    "title": "Pueblo Libre: древний Перу в музейном квартале",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "San Isidro показывает тихую Лиму: оливковые деревья, древнюю huaca и стеклянный город за ними.",
+    "cityId": "lima",
+    "dayTrip": false,
+    "id": "lima-san-isidro-olivar-huallamarca",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Bosque El Olivar, Huaca Huallamarca и деловая зона San Isidro.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Зеленый район, где колониальная роща, пирамида и деловая Лима стоят рядом.",
+    "title": "San Isidro: оливковая роща и город вокруг huaca",
+    "walkType": "modern_city"
+  }
+]

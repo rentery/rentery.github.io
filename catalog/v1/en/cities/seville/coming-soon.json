@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Сердце Севильи собирает минарет, дворцы и архивы в одну историю власти и океана.",
+    "cityId": "seville",
+    "dayTrip": false,
+    "id": "seville-triunfo-alcazar-cathedral-indies",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Площадь Триумфа, собор, Алькасар и Архив Индий в историческом центре.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная прогулка по месту, где власть, вера и океан сошлись в одном квартале.",
+    "title": "Триумф, Алькасар и Индии: Севилья как столица мира",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Санта-Крус показывает тихую сторону центра: белые стены, апельсины и память бывшего еврейского квартала.",
+    "cityId": "seville",
+    "dayTrip": false,
+    "id": "seville-santa-cruz-jewish-quarter",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Санта-Крус между садами Мурильо, площадью Санта-Крус и улицами за собором.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Узкие улицы, дворики и память бывшего еврейского квартала за собором.",
+    "title": "Санта-Крус: город в тени белых стен",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Река ведет от башни и старых верфей к Триане, где город звучит рынком, глиной и фламенко.",
+    "cityId": "seville",
+    "dayTrip": false,
+    "id": "seville-guadalquivir-arenal-triana",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Левый берег Гвадалквивира у Ареналя, мост Изабеллы II и центральная Триана.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От оборонной башни и портовой памяти к рынку, керамике и улицам за мостом.",
+    "title": "Гвадалквивир и Триана: город через реку",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Парк и площадь раскрывают Севилью 1929 года: керамика, павильоны и большой городской театр под деревьями.",
+    "cityId": "seville",
+    "dayTrip": false,
+    "id": "seville-plaza-espana-maria-luisa-expo",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Площадь Испании, парк Марии Луизы и площадь Америки.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Регионалистская архитектура, павильоны и садовая сцена модерной Севильи.",
+    "title": "Площадь Испании и парк Марии Луизы: город-выставка 1929",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "Север центра соединяет Сетас, рынок Ферия и Макарену: современный навес, барокко и старые стены.",
+    "cityId": "seville",
+    "dayTrip": false,
+    "id": "seville-setas-feria-macarena-north",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "От Plaza de la Encarnación через Feria и San Luis к арке и стенам Макарены.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Новая деревянная крыша, рынок, барокко и стены на северной кромке центра.",
+    "title": "Сетас, Ферия и Макарена: север старого города",
+    "walkType": "neighborhood"
+  }
+]

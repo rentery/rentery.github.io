@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Средневековый остров показывает город у воды: королевская власть, купцы и узкие улицы.",
+    "cityId": "stockholm",
+    "dayTrip": false,
+    "id": "stockholm-gamla-stan-riddarholmen",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Гамла Стан и Риддархольмен, от дворца к западной монастырской стороне старого города.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Средневековый остров, королевская власть и узкие улицы между водой и площадями.",
+    "title": "Гамла Стан и Риддархольмен: где город стал столицей",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Остров собирает корабль, музеи и парк: здесь Швеция рассказывает о себе у воды.",
+    "cityId": "stockholm",
+    "dayTrip": false,
+    "id": "stockholm-djurgarden-vasa-park-island",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Западный и центральный Юргорден, от Djurgårdsbron вдоль музейной оси к Скансену и садам.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Остров, где королевская охота стала музеями, садами и большой историей страны.",
+    "title": "Юргорден: корабль, парк и шведская память",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Южный берег открывает город сверху: старые дворы, рабочие улицы и вечерние скалы.",
+    "cityId": "stockholm",
+    "dayTrip": false,
+    "id": "stockholm-sodermalm-heights-slussen",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Северный Сёдермальм, от Slussen и Stadsmuseet к Mariaberget, Monteliusvägen и Skinnarviksberget.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Видовая прогулка по скалам, старым дворам и улицам, где город становится бытовым.",
+    "title": "Сёдермальм над водой: южный край города",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Кирпичный дворец у воды объясняет, как столица придумала свой гражданский силуэт.",
+    "cityId": "stockholm",
+    "dayTrip": false,
+    "id": "stockholm-city-hall-kungsholmen-waterfront",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Восточный и южный Кунгсхольмен, вокруг Stadshuset и вдоль Norr Mälarstrand.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Гражданский Стокгольм вдоль воды, от башни с тремя коронами к западной набережной.",
+    "title": "Ратуша и Кунгсхольмен: кирпич, Нобель и залив",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "От площади модернизма к тихому острову искусства — центр города меняет ритм за один мост.",
+    "cityId": "stockholm",
+    "dayTrip": false,
+    "id": "stockholm-norrmalm-skeppsholmen-modern-culture",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Норрмальм, Kungsträdgården, Blasieholmen и Шеппсхольмен, от Hötorget к музейному острову.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От перестроенного центра к тихому острову искусства, мостов и музейных фасадов.",
+    "title": "Норрмальм — Шеппсхольмен: модернизм у воды",
+    "walkType": "modern_city"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "dublin",
+  "slug": "dublin",
+  "title": "Dublin",
+  "subtitle": "Dublin · 5 walks coming soon",
+  "meta": "Ireland · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "ireland",
+  "photo": {
+    "id": "dublin-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Дублин"
+  }
+}

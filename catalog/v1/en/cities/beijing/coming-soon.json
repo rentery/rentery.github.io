@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "blurb": "Пекин собирается в одну линию: площадь, дворцовые ворота, красные стены и вид с Цзиншаня.",
+    "cityId": "beijing",
+    "dayTrip": false,
+    "id": "beijing-central-axis-forbidden-city",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Тяньаньмэнь, Запретный город, Цзиншань.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "От площади и дворцовых ворот к холму, где читается весь план столицы.",
+    "title": "Центральная ось: Пекин как город власти",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Горная линия Мутяньюй показывает стену как путь: башни, подъемы и тишина за пределами столицы.",
+    "cityId": "beijing",
+    "dayTrip": true,
+    "id": "beijing-mutianyu-great-wall-ridge",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Участок Великой стены Мутяньюй, район Хуайжоу.",
+    "roughDuration": "5-7 часов",
+    "status": "coming_soon",
+    "subtitle": "Дневная прогулка по сторожевым башням и горному силуэту стены.",
+    "title": "Мутяньюй: Великая стена по линии хребта",
+    "walkType": "day_trip",
+    "nearbyPlace": "Мутяньюй, район Хуайжоу"
+  },
+  {
+    "blurb": "Озера Шичахай ведут через мосты, башни и хутуны, где старый Пекин звучит не музейно.",
+    "cityId": "beijing",
+    "dayTrip": false,
+    "id": "beijing-shichahai-drum-towers-hutongs",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Шичахай, Яньдай Сецзе, район Барабанной и Колокольной башен.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Озера, косые переулки и северный ритм хутунов вокруг Гулоу.",
+    "title": "Шичахай и башни: вода старого Пекина",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Тяньтань соединяет императорский ритуал и повседневный парк: ось, алтари, сосны и круги.",
+    "cityId": "beijing",
+    "dayTrip": false,
+    "id": "beijing-temple-of-heaven-ritual-axis",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Парк Храма Неба, от северной храмовой зоны к южным алтарям.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Священная ось, синие крыши и городская жизнь вокруг алтарей.",
+    "title": "Тяньтань: геометрия неба и утренний парк",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Летний дворец раскрывает другой Пекин: не ось и стены, а озеро, холм, галерея и дальний вид.",
+    "cityId": "beijing",
+    "dayTrip": false,
+    "id": "beijing-summer-palace-lake-and-hill",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Летний дворец: озеро Куньмин, Холм долголетия, восточная и северная части сада.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Императорский сад, где вода, павильоны и виды работают как сцена.",
+    "title": "Летний дворец: озеро, холм и власть как пейзаж",
+    "walkType": "nature"
+  }
+]

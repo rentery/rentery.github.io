@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Коронационная линия ведёт от готических ворот к мосту и замку, собирая Прагу в один подъём.",
+    "cityId": "prague",
+    "dayTrip": false,
+    "id": "prague-royal-route-castle-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старый город, Карлов мост, Мала-Страна, Градчаны и Пражский град.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Одна линия через ворота, площадь, мост и замковый холм.",
+    "title": "Королевский путь: от Пороховой башни к Граду",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Уцелевшие синагоги и пустоты бывшего гетто складывают тихий маршрут о памяти и городе.",
+    "cityId": "prague",
+    "dayTrip": false,
+    "id": "prague-josefov-old-town-memory",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Йозефов и северная часть Старого города между Староместской площадью и Влтавой.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Короткая плотная прогулка по следам бывшего гетто.",
+    "title": "Йозефов: квартал памяти на краю Старого города",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Левый берег показывает Прагу у воды: дворцы, сады, мельницы и переулки в тени моста.",
+    "cityId": "prague",
+    "dayTrip": false,
+    "id": "prague-mala-strana-kampa-water",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Мала-Страна, остров Кампа, Чертова и улицы у подножия Градчан.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Левый берег как сеть дворцов, садов, мельниц и тихих площадей.",
+    "title": "Мала-Страна и Кампа: барокко у воды",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Вышеград собирает легенду, крепость и панорамы там, где Прага смотрит на реку сверху.",
+    "cityId": "prague",
+    "dayTrip": false,
+    "id": "prague-vysehrad-fortress-legends",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Вышеградское укрепление, парк, кладбище, бастионы и южные виды на Влтаву.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От ворот и бастионов к национальной памяти над Влтавой.",
+    "title": "Вышеград: легенда, крепость и вид сверху",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Новое Место ведёт от площади протестов к пассажам, театру и кварталам большого города.",
+    "cityId": "prague",
+    "dayTrip": false,
+    "id": "prague-new-town-passages-civic-city",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Вацлавская площадь, пассажи Нового Места, Národní třída, Национальный театр и Карлова площадь.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От средневекового плана Карла IV к театру, протестам и городским проходам.",
+    "title": "Новое Место: площади, пассажи и гражданская Прага",
+    "walkType": "architecture"
+  }
+]

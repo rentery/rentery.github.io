@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "kuala-lumpur",
+    "slug": "kuala-lumpur",
+    "title": "Куала-Лумпур",
+    "subtitle": "Kuala Lumpur · 5 прогулок скоро",
+    "meta": "Малайзия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "malaysia",
+    "photo": {
+      "id": "kuala-lumpur-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Куала-Лумпур"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "ru",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "ece5d96579ec"
+}

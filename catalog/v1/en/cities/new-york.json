@@ -1,0 +1,17 @@
+{
+  "id": "new-york",
+  "slug": "new-york",
+  "title": "New York",
+  "subtitle": "New York · 5 walks coming soon",
+  "meta": "United States · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "united-states",
+  "photo": {
+    "id": "new-york-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Нью-Йорк"
+  }
+}

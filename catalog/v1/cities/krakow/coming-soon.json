@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Северные ворота, рынок и Вавель складываются в одну линию власти и городских легенд.",
+    "cityId": "krakow",
+    "dayTrip": false,
+    "id": "krakow-royal-route-wawel-old-town",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Старе-Място: Барбакан, Флорианская улица, Главный рынок, Гродзка, Канонича, Вавель.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная городская ось как путь власти, торговли и памяти.",
+    "title": "Королевская дорога: от ворот к Вавелю",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Казимеж показывает город рядом с городом: синагоги, площади, дворики и живая вечерняя улица.",
+    "cityId": "krakow",
+    "dayTrip": false,
+    "id": "krakow-kazimierz-jewish-city",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Казимеж: Страдом, Szeroka, Józefa, площадь Новы, Вольница и южная кромка квартала.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Еврейский и христианский квартал как отдельная городская ткань.",
+    "title": "Казимеж: город внутри города",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "За Вислой история становится плотнее: площадь гетто, фабричные кварталы и новый берег.",
+    "cityId": "krakow",
+    "dayTrip": false,
+    "id": "krakow-podgorze-ghetto-zablocie",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Правый берег Вислы: мост Бернатка, Подгуже, площадь Героев гетто, Lipowa и Заблоце.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут от старого пригорода к следам гетто и фабричному берегу.",
+    "title": "Подгуже и Заблоце: память за рекой",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Нова-Хута раскрывает другой Краков: идеальный план, широкие оси и социалистический театр улиц.",
+    "cityId": "krakow",
+    "dayTrip": false,
+    "id": "krakow-nowa-huta-ideal-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Центр Новой Хуты: площадь Центральная, жилые кварталы Centrum, аллея Róż и ось к комбинату.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Соцреалистический центр как городская машина послевоенной мечты.",
+    "title": "Нова-Хута: идеальный город из бетона",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "От Блоней к кургану город постепенно превращается в склон, монастырь и большую панораму.",
+    "cityId": "krakow",
+    "dayTrip": false,
+    "id": "krakow-salwator-kosciuszko-mound",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Западнее центра: Блони, Сальватор, берег Вислы, подъём к кургану Костюшко.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Зеленая линия от городского луга к монастырю, склону и панораме.",
+    "title": "Сальватор и курган: Краков сверху",
+    "walkType": "viewpoints"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Путь от храма у воды к фасаду Святого Павла собирает порт, миссии и китайские дворы.",
+    "cityId": "macao",
+    "dayTrip": false,
+    "id": "macao-barra-st-pauls-east-west-spine",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Барра, Лилау, Сан-Лоренсу, Сенадо, руины Святого Павла.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Главная линия старого порта от храмового берега к иезуитской вершине.",
+    "title": "От А-Ма к Святому Павлу: Макао между морем и миссией",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Старая Тайпа показывает, как тихие переулки смотрят на новый город из света и фасадов.",
+    "cityId": "macao",
+    "dayTrip": false,
+    "id": "macao-taipa-cotai-island-to-reclamation",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Тайпа-Виллидж, холм Кармель, старая фабрика фейерверков и западный край Котая.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Старая деревня, церковь на холме и витрина курортного города.",
+    "title": "Тайпа и Котай: остров до и после намыва",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Холм Гуйя ведет от зеленых склонов к кварталу, где старые дома стали культурными адресами.",
+    "cityId": "macao",
+    "dayTrip": false,
+    "id": "macao-guia-st-lazarus-hill-creative-quarter",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Гуйя, Flora Garden, Tap Seac, квартал Святого Лазаря.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Холм, крепость и спокойные улицы вокруг культурных домов.",
+    "title": "Гуйя и Святой Лазарь: маяк над творческим кварталом",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Западнее Сенадо старые торговые улицы читаются через еду, вывески и дыхание гавани.",
+    "cityId": "macao",
+    "dayTrip": false,
+    "id": "macao-felicidade-inner-harbour-food-evening",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Сенадо, Rua da Felicidade, Rua dos Ervanários, Rua de Cinco de Outubro, Внутренняя гавань.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Еда, лавки и переулки на западной стороне исторического центра.",
+    "title": "Руа-да-Фелисидаде и Внутренняя гавань: вечер старого рынка",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Колоан оставляет город без спешки: пирс, храмовые дворы и маленькая площадь у моря.",
+    "cityId": "macao",
+    "dayTrip": false,
+    "id": "macao-coloane-fishing-village-temples",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Колоан-Виллидж, набережная, храмовые переулки, Lai Chi Vun.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Тихая приморская линия с храмами, площадью и желтыми стенами часовни.",
+    "title": "Колоан: рыбацкая деревня у края Макао",
+    "walkType": "neighborhood"
+  }
+]

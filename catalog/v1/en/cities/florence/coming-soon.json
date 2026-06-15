@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Собор, башни и площадь власти складываются в историю города, где религия, деньги и политика работали рядом.",
+    "cityId": "florence",
+    "dayTrip": false,
+    "id": "florence-duomo-signoria-renaissance-engine",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Исторический центр: Дуомо, Орсанмикеле, Синьория, Уффици и Понте-Веккьо.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От собора к дворцу власти через торговые улицы и каменную сцену республики.",
+    "title": "Дуомо и Синьория: Флоренция как машина Ренессанса",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "За Понте-Веккьо начинается другой темп Флоренции: дворцы, мастерские и площадь, где город звучит тише.",
+    "cityId": "florence",
+    "dayTrip": false,
+    "id": "florence-oltrarno-pitti-santo-spirito",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Ольтрарно: Понте-Веккьо, Виа-Маджо, Питти, Санто-Спирито и Кармине.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Южный берег Арно как город ремесла, дворцов и живой вечерней площади.",
+    "title": "Ольтрарно: Питти, мастерские и площадь после заката",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Вокруг Сан-Лоренцо видно, как семейная власть росла из квартала, патронажа, капелл и повседневного рынка.",
+    "cityId": "florence",
+    "dayTrip": false,
+    "id": "florence-san-lorenzo-medici-family-power",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Квартал Сан-Лоренцо вокруг Палаццо Медичи-Риккарди, базилики, капелл и рынка.",
+    "roughDuration": "1,5-2,5 часа",
+    "status": "coming_soon",
+    "subtitle": "Квартал, где частный дворец, церковь и рынок показывают механику влияния.",
+    "title": "Сан-Лоренцо: Медичи до большой сцены",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Восточный центр показывает Флоренцию как город споров, изгнаний, судов и памяти о своих великих мёртвых.",
+    "cityId": "florence",
+    "dayTrip": false,
+    "id": "florence-santa-croce-dante-civic-memory",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Восточная часть исторического центра: Барджелло, район Данте, Санта-Кроче.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От судебной крепости и башен к площади, где Флоренция пишет себе пантеон.",
+    "title": "Санта-Кроче и квартал Данте: город памяти",
+    "walkType": "history"
+  },
+  {
+    "blurb": "С холма за Сан-Никколо город собирается в одну картину: купол, река, стены и зелёные спуски.",
+    "cityId": "florence",
+    "dayTrip": false,
+    "id": "florence-san-niccolo-san-miniato-views",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Южный склон над Арно: Сан-Никколо, Рампы Поджи, Пьяццале Микеланджело и Сан-Миниато.",
+    "roughDuration": "1,5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Подъём от Арно к террасам, где городской план читается как карта.",
+    "title": "Сан-Никколо и Сан-Миниато: Флоренция сверху",
+    "walkType": "viewpoints"
+  }
+]

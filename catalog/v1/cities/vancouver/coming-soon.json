@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Лес, камни и линия воды покажут Ванкувер как город, который держится на кромке суши.",
+    "cityId": "vancouver",
+    "dayTrip": false,
+    "id": "vancouver-stanley-park-seawall-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Стэнли-парк: петля Сиволла от Coal Harbour через Brockton Point, Prospect Point и English Bay.",
+    "roughDuration": "3-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Береговая петля о природе, памяти и городских горизонтах.",
+    "title": "Стэнли-парк и Сиволл: город на кромке леса",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Кирпич, рельсы и гавань собирают историю города, выросшего из порта и железной дороги.",
+    "cityId": "vancouver",
+    "dayTrip": false,
+    "id": "vancouver-gastown-waterfront-rail-port",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Downtown waterfront, Waterfront Station, Water Street, Maple Tree Square и Victory Square.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Исторический центр как порт, вокзал, склады и новая публичная витрина.",
+    "title": "Гастаун и гавань: Ванкувер из рельсов и кирпича",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Чайнатаун и Страткона рассказывают о памяти, миграции и районах, которые город пытался стереть.",
+    "cityId": "vancouver",
+    "dayTrip": false,
+    "id": "vancouver-chinatown-strathcona-memory",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Исторический Чайнатаун, Pender Street corridor, Carrall Street и западная Страткона у Union Street.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Живое наследие, миграция и следы городского вытеснения.",
+    "title": "Чайнатаун и Страткона: район, который удержал память",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "False Creek показывает Ванкувер после заводов: рынок, мастерские и берега, отданные людям.",
+    "cityId": "vancouver",
+    "dayTrip": false,
+    "id": "vancouver-granville-island-false-creek",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Granville Island и южный берег False Creek между Granville Bridge, Charleson Park и Olympic Village.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От промышленной кромки к мастерским, рынку и городскому променаду.",
+    "title": "Granville Island и False Creek: заводской берег стал рынком",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "West End раскрывает город на каждый день: квартиры, радужная улица, пляж и вечерний берег.",
+    "cityId": "vancouver",
+    "dayTrip": false,
+    "id": "vancouver-west-end-english-bay",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "West End между Robson Street, Barclay heritage blocks, Davie Village, Sunset Beach и English Bay.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Жилые башни, радужная улица, старые дома и вечерний берег.",
+    "title": "West End и English Bay: повседневный город у пляжа",
+    "walkType": "neighborhood"
+  }
+]

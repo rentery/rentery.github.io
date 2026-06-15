@@ -1,0 +1,17 @@
+{
+  "id": "edinburgh",
+  "slug": "edinburgh",
+  "title": "Эдинбург",
+  "subtitle": "Edinburgh · 5 прогулок скоро",
+  "meta": "Великобритания · маршруты в подготовке",
+  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+  "guideIds": [],
+  "countryId": "united-kingdom",
+  "photo": {
+    "id": "edinburgh-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Эдинбург"
+  }
+}

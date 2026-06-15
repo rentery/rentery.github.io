@@ -1,0 +1,17 @@
+{
+  "id": "bogota",
+  "slug": "bogota",
+  "title": "Bogotá",
+  "subtitle": "Bogotá · 5 walks coming soon",
+  "meta": "Colombia · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "colombia",
+  "photo": {
+    "id": "bogota-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/bogota/bogota-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Богота"
+  }
+}

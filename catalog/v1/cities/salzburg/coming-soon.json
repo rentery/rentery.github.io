@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "У кафедральных площадей и крепости видно, как церковная власть строила город над Зальцахом.",
+    "cityId": "salzburg",
+    "dayTrip": false,
+    "id": "salzburg-altstadt-fortress-archbishops",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Левобережный Старый город, Домквартир, Фестунгсберг и крепость Хоэнзальцбург.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Как Зальцбург стал барочным городом князей-архиепископов.",
+    "title": "Старый город и крепость: власть над рекой",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "За вывесками Гетрайдегассе проступает город Моцарта: тесные дома, дворы и путь через реку.",
+    "cityId": "salzburg",
+    "dayTrip": false,
+    "id": "salzburg-getreidegasse-mozart-courtyards",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Гетрайдегассе, Старый рынок, университетская зона и короткий переход к Макартплац.",
+    "roughDuration": "1-2 часа",
+    "status": "coming_soon",
+    "subtitle": "Музыкальная легенда на фоне лавок, дворов и буржуазных фасадов.",
+    "title": "Гетрайдегассе и Моцарт: город проходных домов",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Мирабель держит главный вид на город, а правый берег показывает Зальцбург без тесноты старых переулков.",
+    "cityId": "salzburg",
+    "dayTrip": false,
+    "id": "salzburg-mirabell-right-bank-baroque",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Мирабельгартен, Макартплац, Драйфальтигкайтсгассе и Линцергассе.",
+    "roughDuration": "1-2 часа",
+    "status": "coming_soon",
+    "subtitle": "Барочный сад, городской фасад и тихая сторона Зальцаха.",
+    "title": "Мирабель и правый берег: сад как сцена",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "С верхней кромки Мёнхсберга Зальцбург читается как рельеф: река, башни, скалы и крыши.",
+    "cityId": "salzburg",
+    "dayTrip": false,
+    "id": "salzburg-moenchsberg-city-mountains",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Караянплац, Мёнхсбергский лифт, плато Мёнхсберга и спуск к фестивальному кварталу.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Лесная линия над крышами, стены, виды и современное искусство.",
+    "title": "Мёнхсберг: город с верхней кромки",
+    "walkType": "viewpoints"
+  },
+  {
+    "blurb": "Хелльбрунн показывает веселую сторону власти: вода, механика, парк и дворец для летних спектаклей.",
+    "cityId": "salzburg",
+    "dayTrip": false,
+    "id": "salzburg-hellbrunn-water-games",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Дворец Хелльбрунн, потешные фонтаны, парк и ближняя дворцовая зона на юге города.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Прогулка по княжеской игре, саду и летней архитектуре.",
+    "title": "Хелльбрунн: дворец, который шутит водой",
+    "walkType": "classic"
+  }
+]

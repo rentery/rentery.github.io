@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старый центр собирает порт, дворцы, кафе и площади, где Рио учился быть столицей.",
+    "cityId": "rio-de-janeiro",
+    "dayTrip": false,
+    "id": "rio-de-janeiro-centro-imperial-republica",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Праса XV, Коридор Културал, улицы старого Центра, Синеландия.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От портовой площади к театральной оси, где Рио менял власть и лицо.",
+    "title": "Центр: империя, республика и городские витрины",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Портовая зона показывает Рио через следы рабства, самбы и новой городской витрины.",
+    "cityId": "rio-de-janeiro",
+    "dayTrip": false,
+    "id": "rio-de-janeiro-pequena-africa-porto-maravilha",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Праса Мауа, Сауде, Гамбоа и зона Cais do Valongo.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Маршрут по месту прибытия, стирания и возвращения афро-атлантической истории.",
+    "title": "Пекена-Африка и порт: память под новой набережной",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Лапа уводит к холму Санта-Терезы: арки, плитка, трамвай и другая скорость Рио.",
+    "cityId": "rio-de-janeiro",
+    "dayTrip": false,
+    "id": "rio-de-janeiro-lapa-santa-teresa-hillside",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Лапа, Эскадария Селарон, нижняя и центральная Санта-Тереза.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Из ночного центра вверх к трамваю, мозаике и старым виллам.",
+    "title": "Лапа и Санта-Тереза: арки, лестница и город на холме",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "Океанская прогулка ведет от Леме к Арпоадору: волны на мозаике, форты и пляжный театр.",
+    "cityId": "rio-de-janeiro",
+    "dayTrip": false,
+    "id": "rio-de-janeiro-leme-copacabana-arpoador",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Леме, Копакабана, Форт Копакабана и Арпоадор.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Пляжная линия, где ландшафт, спорт, музыка и модернистская набережная работают вместе.",
+    "title": "От Леме до Арпоадора: океан как городская сцена",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Урка показывает открытку Рио с земли: бухта, военные следы, рыбаки и скалы над водой.",
+    "cityId": "rio-de-janeiro",
+    "dayTrip": false,
+    "id": "rio-de-janeiro-urca-pao-de-acucar-bay",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Прая Вермелья, основание Сахарной Головы, полуостров Урка и берег залива.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Тихий полуостров между военной историей, скалами и видами на Гуанабару.",
+    "title": "Урка и Сахарная Голова: бухта у основания города",
+    "walkType": "viewpoints"
+  }
+]

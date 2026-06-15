@@ -1,0 +1,25 @@
+{
+  "city": {
+    "id": "melbourne",
+    "slug": "melbourne",
+    "title": "Мельбурн",
+    "subtitle": "Melbourne · 5 прогулок скоро",
+    "meta": "Австралия · маршруты в подготовке",
+    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+    "guideIds": [],
+    "countryId": "australia",
+    "photo": {
+      "id": "melbourne-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мельбурн"
+    }
+  },
+  "defaultLocale": "ru",
+  "guides": [],
+  "locale": "ru",
+  "schemaVersion": 1,
+  "stops": [],
+  "packHash": "cb7d788da424"
+}

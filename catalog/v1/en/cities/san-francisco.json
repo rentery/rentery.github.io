@@ -1,0 +1,17 @@
+{
+  "id": "san-francisco",
+  "slug": "san-francisco",
+  "title": "San Francisco",
+  "subtitle": "San Francisco · 5 walks coming soon",
+  "meta": "United States · routes in progress",
+  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+  "guideIds": [],
+  "countryId": "united-states",
+  "photo": {
+    "id": "san-francisco-city-hero",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-square.jpg",
+    "alt": "Сгенерированный editorial hero города Сан-Франциско"
+  }
+}

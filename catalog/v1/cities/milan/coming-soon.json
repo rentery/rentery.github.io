@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "От соборной площади маршрут ведет к галерее, театру и Брере — там Милан учится быть сценой.",
+    "cityId": "milan",
+    "dayTrip": false,
+    "id": "milan-duomo-scala-brera-stage",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Пьяцца Дуомо, Галерея Виктора Эммануила II, Пьяцца делла Скала и Брера.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От соборного мрамора к галерее, опере и художественным улицам.",
+    "title": "Дуомо, Ла Скала и Брера: Милан как сцена",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "У Леонардо и Сфорца город звучит тише: монастыри, дворцы и крепость складывают Ренессанс.",
+    "cityId": "milan",
+    "dayTrip": false,
+    "id": "milan-leonardo-sforza-renaissance-line",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Санта-Мария-делле-Грацие, Корсо Маджента, Сан-Маурицио и Кастелло Сфорцеско.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Монастыри, фрески и крепость на западной линии старого города.",
+    "title": "Леонардо и Сфорца: тихий Ренессанс Милана",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Каналы показывают южный Милан: вода, мосты, рабочие дворы и вечерние огни у Навильо.",
+    "cityId": "milan",
+    "dayTrip": false,
+    "id": "milan-navigli-water-evening",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Колонне ди Сан-Лоренцо, Порта Тичинезе, Дарсена и Навильо-Гранде.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Южный город вдоль каналов, мостов, старых проходов и аперитиво.",
+    "title": "Навильи: вода, дворы и вечерний Милан",
+    "walkType": "food_evening"
+  },
+  {
+    "blurb": "Новый север собирает небоскребы, парк и Изолу — Милан, который научился расти вверх.",
+    "cityId": "milan",
+    "dayTrip": false,
+    "id": "milan-porta-nuova-isola-vertical-city",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Порта Гарибальди, Пьяцца Гае Ауленти, BAM, Bosco Verticale и Изола.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Небоскребы, новый парк и район, где Милан перепридумал север.",
+    "title": "Порта Нуова и Изола: город растет вверх",
+    "walkType": "modern_city"
+  },
+  {
+    "blurb": "Порта Венеция ведет от витрин к цветочным фасадам и виллам, где модерн становится бытом.",
+    "cityId": "milan",
+    "dayTrip": false,
+    "id": "milan-fashion-liberty-porta-venezia",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Квадрилатеро делла Мода, Корсо Венеция и кварталы Порта Венеция.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От дорогих фасадов моды к цветочным домам и виллам буржуазного Милана.",
+    "title": "Квадрилатеро и Порта Венеция: витрины и модерн",
+    "walkType": "architecture"
+  }
+]

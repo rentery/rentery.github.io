@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Старая крепость и новая набережная показывают город, который шаг за шагом возвращался к воде.",
+    "cityId": "oslo",
+    "dayTrip": false,
+    "id": "oslo-akershus-bjorvika-fjord-layers",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Центр у фьорда: Ратушная гавань, Акерхус, Квадратурен и Бьёрвика.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От крепости и кварталов Кристиании к опере, библиотеке и Мунку.",
+    "title": "Акерхус и Бьёрвика: Осло выходит к фьорду",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Фрогнер раскрывает Осло через парк: гранитные тела, широкие аллеи и тихую городскую паузу.",
+    "cityId": "oslo",
+    "dayTrip": false,
+    "id": "oslo-frogner-vigeland-human-park",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Фрогнерпарк и скульптурная ось Вигеланда на западе центра.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Скульптуры, оси и зелёные пространства как открытая книга о теле и времени.",
+    "title": "Фрогнер и Вигеланд: парк человеческих возрастов",
+    "walkType": "nature"
+  },
+  {
+    "blurb": "Акерсэльва ведёт через фабричные стены, мосты и кафе к району, где Осло звучит свободнее.",
+    "cityId": "oslo",
+    "dayTrip": false,
+    "id": "oslo-grunerlokka-akerselva-industrial-neighborhood",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Вулкан, нижняя Акерсэльва и улицы Грюнерлёкки до Биркелунден.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Река, бывшие промзоны, рынки и улицы, где рабочий север стал городским магнитом.",
+    "title": "Грюнерлёкка и Акерсэльва: фабрики стали районом",
+    "walkType": "neighborhood"
+  },
+  {
+    "blurb": "На Бюгдёе Осло становится морским: плоты, полярные корабли, старые дома и дорожки между соснами.",
+    "cityId": "oslo",
+    "dayTrip": false,
+    "id": "oslo-bygdoy-ships-museums-peninsula",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Полуостров Бюгдёй: Бюгдёйнес, музейный кластер и дорога к Norsk Folkemuseum.",
+    "roughDuration": "3-5 часов",
+    "status": "coming_soon",
+    "subtitle": "Полуостров-музей, где море, полярные истории и деревянная страна оказываются рядом.",
+    "title": "Бюгдёй: корабли, экспедиции и старая Норвегия",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Экерберг показывает Осло сверху: тропы, скульптуры и фьорд собирают город в один горизонт.",
+    "cityId": "oslo",
+    "dayTrip": false,
+    "id": "oslo-ekeberg-sculpture-fjord-view",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Склон Экерберга и тропы Ekebergparken над восточной частью центра.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Лесной склон, современное искусство и вид на город, который лежит внизу.",
+    "title": "Экерберг: скульптуры над фьордом",
+    "walkType": "viewpoints"
+  }
+]

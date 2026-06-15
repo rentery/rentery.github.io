@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Центр раскрывается в проходах: аркады, кофе, граффити и фасады, которые город прячет за главными улицами.",
+    "cityId": "melbourne",
+    "dayTrip": false,
+    "id": "melbourne-laneways-arcades-cbd",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "CBD: Federation Square, Flinders Lane, Degraves Street, Centre Place, Block Arcade и Royal Arcade.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Плотная прогулка по проходам центра, где кофе, витрины и стрит-арт прячутся за главными улицами.",
+    "title": "Лейнвейс и аркады: Мельбурн между фасадами",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Берег Биррарунга собирает старшую историю места, новый центр, мосты и спортивный миф Мельбурна.",
+    "cityId": "melbourne",
+    "dayTrip": false,
+    "id": "melbourne-birrarung-aboriginal-river-edge",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Federation Square, Koorie Heritage Trust, Birrarung Marr, William Barak Bridge, Yarra Park и край MCG.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "От площади Федерации к реке, мосту William Barak и краю спортивного города.",
+    "title": "Биррарунг: река, память и восточный край центра",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Север центра показывает город золота и правил: шум рынка, библиотеку, старую тюрьму и дворец выставок.",
+    "cityId": "melbourne",
+    "dayTrip": false,
+    "id": "melbourne-northern-civic-market-exhibition",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Queen Victoria Market, север CBD, State Library precinct, Old Melbourne Gaol, Carlton Gardens и Royal Exhibition Building.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Путь от шумного рынка к библиотеке, старой тюрьме и Карлтонским садам.",
+    "title": "Северная дуга: рынок, тюрьма и выставочный дворец",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Южный берег ведёт от галерей к мемориалу и садам, где культура встречается с городским горизонтом.",
+    "cityId": "melbourne",
+    "dayTrip": false,
+    "id": "melbourne-southbank-arts-domain-gardens",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Southbank, Arts Precinct, St Kilda Road, Queen Victoria Gardens, Shrine of Remembrance и край Royal Botanic Gardens.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Культурная ось от южного берега Ярры к St Kilda Road, мемориалу и зелёным склонам.",
+    "title": "Саутбанк и Кингс-Домейн: искусство, сады и память",
+    "walkType": "architecture"
+  },
+  {
+    "blurb": "У моря Мельбурн становится курортом: пирс, старые развлечения, пальмы и длинная кромка залива.",
+    "cityId": "melbourne",
+    "dayTrip": false,
+    "id": "melbourne-st-kilda-bay-pier",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "St Kilda: Acland Street, Luna Park, Palais Theatre, St Kilda Beach, pier, breakwater, Catani Gardens, Fitzroy Street.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Приморская прогулка по курортному слою Мельбурна от Acland Street к пирсу и пальмам.",
+    "title": "Сент-Килда: пирс, театр и берег залива",
+    "walkType": "neighborhood"
+  }
+]

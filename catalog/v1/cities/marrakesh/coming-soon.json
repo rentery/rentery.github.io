@@ -1,0 +1,72 @@
+[
+  {
+    "blurb": "Площадь и суки показывают Марракеш как живую сцену: голоса, ремесло и путь к тихим дворикам.",
+    "cityId": "marrakesh",
+    "dayTrip": false,
+    "id": "marrakesh-jemaa-koutoubia-souks-stage",
+    "launchWave": 1,
+    "priority": 1,
+    "roughArea": "Кутубия, Джемаа-эль-Фна, Souk Semmarine, Rahba Kedima, Муассин.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "От минарета и площади к торговому лабиринту северной медины.",
+    "title": "Джемаа, Кутубия и суки: город как сцена",
+    "walkType": "classic"
+  },
+  {
+    "blurb": "Юг медины раскрывает власть Марракеша: ворота, гробницы, руины дворца и тихие дворы Бахии.",
+    "cityId": "marrakesh",
+    "dayTrip": false,
+    "id": "marrakesh-kasbah-palaces-power",
+    "launchWave": 1,
+    "priority": 2,
+    "roughArea": "Bab Agnaou, Касба, El Badi, Mellah, Bahia Palace.",
+    "roughDuration": "2-4 часа",
+    "status": "coming_soon",
+    "subtitle": "Королевские ворота, саадские следы и визирские дворы в одной южной линии.",
+    "title": "Касба и дворцы: юг медины у власти",
+    "walkType": "history"
+  },
+  {
+    "blurb": "Северная медина звучит тише: резное дерево, учебные кельи, фонтаны и дома за глухими стенами.",
+    "cityId": "marrakesh",
+    "dayTrip": false,
+    "id": "marrakesh-north-medina-madrasa-courtyards",
+    "launchWave": 1,
+    "priority": 3,
+    "roughArea": "Дар-эль-Баша, Муассин, Ben Youssef, Palais Mnebhi, Maison de la Photographie.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Учёность, дворцовые дома и спрятанная архитектура вокруг Муассина.",
+    "title": "Северная медина: медресе, музеи и дворики",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Синий сад и музей Сен-Лорана собирают другой Марракеш: растения, амазигские формы и город цвета.",
+    "cityId": "marrakesh",
+    "dayTrip": false,
+    "id": "marrakesh-majorelle-ysl-color-design",
+    "launchWave": 1,
+    "priority": 4,
+    "roughArea": "Jardin Majorelle, Musée Berbère, Musée Yves Saint Laurent, Rue Yves Saint Laurent.",
+    "roughDuration": "2-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Компактная прогулка вокруг сада, амазигского музея и модного наследия.",
+    "title": "Мажорель и Сен-Лоран: цвет, сад и дизайн",
+    "walkType": "museum_walk"
+  },
+  {
+    "blurb": "Гелиз показывает Марракеш за стенами: прямые авеню, ар-деко, галереи и повседневная городская скорость.",
+    "cityId": "marrakesh",
+    "dayTrip": false,
+    "id": "marrakesh-gueliz-new-town-grid",
+    "launchWave": 1,
+    "priority": 5,
+    "roughArea": "Place du 16 Novembre, Avenue Mohammed V, Marché central, Parc El Harti.",
+    "roughDuration": "1.5-3 часа",
+    "status": "coming_soon",
+    "subtitle": "Колониальная сетка, ар-деко, галереи и город за стенами медины.",
+    "title": "Гелиз: прямые улицы нового Марракеша",
+    "walkType": "modern_city"
+  }
+]
