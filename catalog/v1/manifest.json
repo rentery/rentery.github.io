@@ -1,7 +1,7 @@
 {
   "cities": {
     "beijing": {
-      "packHash": "2892f400a2de",
+      "packHash": "ca265b83f6ee",
       "packPath": "cities/beijing/offline-pack.json"
     },
     "seoul": {
@@ -23,6 +23,18 @@
     "amsterdam": {
       "packHash": "1b3ab8b3e903",
       "packPath": "cities/amsterdam/offline-pack.json"
+    },
+    "bordeaux": {
+      "packHash": "3ddeb9995663",
+      "packPath": "cities/bordeaux/offline-pack.json"
+    },
+    "fes": {
+      "packHash": "6d585884bd42",
+      "packPath": "cities/fes/offline-pack.json"
+    },
+    "george-town-malaysia": {
+      "packHash": "03ab901bae7e",
+      "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
       "packHash": "97d74cc7fb23",
@@ -51,10 +63,6 @@
     "bologna": {
       "packHash": "ab37a332421d",
       "packPath": "cities/bologna/offline-pack.json"
-    },
-    "bordeaux": {
-      "packHash": "710da027ba0b",
-      "packPath": "cities/bordeaux/offline-pack.json"
     },
     "boston": {
       "packHash": "e549375a2c06",
@@ -132,17 +140,9 @@
       "packHash": "0ff7d20dc5f7",
       "packPath": "cities/edinburgh/offline-pack.json"
     },
-    "fes": {
-      "packHash": "016a7b4f5dd2",
-      "packPath": "cities/fes/offline-pack.json"
-    },
     "florence": {
       "packHash": "3f352a72a750",
       "packPath": "cities/florence/offline-pack.json"
-    },
-    "george-town-malaysia": {
-      "packHash": "7bc783b96af4",
-      "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "ghent": {
       "packHash": "5da670a70c86",
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-15T13:00:10.851Z",
+  "generatedAt": "2026-06-15T17:40:40.863Z",
   "locale": "ru",
   "schemaVersion": 1
 }

@@ -1,11 +1,13 @@
 {
   "id": "george-town-malaysia",
   "slug": "george-town-malaysia",
-  "title": "George Town",
-  "subtitle": "George Town · 5 walks coming soon",
-  "meta": "Malaysia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Джорджтаун",
+  "subtitle": "George Town · 1 маршрут · 4 скоро",
+  "meta": "Малайзия · старый порт, форт, кланы и многообщинные улицы",
+  "practicalNote": "В Джорджтауне опубликован первый маршрут от колониального берега к клановым дворам; остальные прогулки проходят подготовку.",
+  "guideIds": [
+    "george-town-malaysia-fort-clans-port-layers"
+  ],
   "countryId": "malaysia",
   "photo": {
     "id": "george-town-malaysia-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Джорджтаун"
+  },
+  "identity": {
+    "accent": "#2F7C75",
+    "soft": "#E4EEE9",
+    "deep": "#21514D",
+    "ink": "#173A38",
+    "motif": "axis",
+    "glyph": "GT",
+    "hook": "Старый порт пролива Малакка · UNESCO World Heritage"
   }
 }

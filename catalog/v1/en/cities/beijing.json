@@ -5,7 +5,9 @@
   "subtitle": "Beijing · 北京 · 5 walks coming soon",
   "meta": "China · red gates, grey roofs, hutong lakes, and the Wall beyond the hills",
   "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "guideIds": [
+    "beijing-central-axis-forbidden-city"
+  ],
   "coordinates": {
     "latitude": 39.9075,
     "longitude": 116.39723
