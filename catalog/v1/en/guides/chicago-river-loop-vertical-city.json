@@ -77,6 +77,19 @@
         ],
         "sourceNote": "Опирается на материалы Bridgehouse Museum, Chicago Riverwalk и обзорные архитектурные источники; проверено 2026-06-15."
       },
+      "photo": {
+        "id": "chicago-river-loop-vertical-city-1-stop-image-commons-dusable-bridge-riverwalk-51556710310",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-1-stop-image-commons-dusable-bridge-riverwalk-51556710310-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-1-stop-image-commons-dusable-bridge-riverwalk-51556710310-square.jpg",
+        "alt": "DuSable Bridge",
+        "attribution": {
+          "author": "Ajay Suresh",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:DuSable_Bridge_-_Chicago_Riverwalk_%2851556710310%29.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "chicago-river-loop-vertical-city-1",
       "guideId": "chicago-river-loop-vertical-city",
       "order": 1
@@ -110,6 +123,19 @@
         ],
         "sourceNote": "Основной источник — Chicago Architecture Center; дополнительные детали сверены по локальному архитектурному материалу, проверка 2026-06-15."
       },
+      "photo": {
+        "id": "chicago-river-loop-vertical-city-2-stop-image-commons-wrigley-clock-2016-14",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-2-stop-image-commons-wrigley-clock-2016-14-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-2-stop-image-commons-wrigley-clock-2016-14-square.jpg",
+        "alt": "Wrigley Building",
+        "attribution": {
+          "author": "Alvesgaspar",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_September_2016-14.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "chicago-river-loop-vertical-city-2",
       "guideId": "chicago-river-loop-vertical-city",
       "order": 2
@@ -142,6 +168,19 @@
           }
         ],
         "sourceNote": "Chicago Architecture Center и локальные архитектурные материалы; проверено 2026-06-15."
+      },
+      "photo": {
+        "id": "chicago-river-loop-vertical-city-3-stop-image-commons-tribune-building",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-3-stop-image-commons-tribune-building-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-river-loop-vertical-city-3-stop-image-commons-tribune-building-square.jpg",
+        "alt": "Tribune Tower",
+        "attribution": {
+          "author": "Stuart Seeger",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_Tribune_Building.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "chicago-river-loop-vertical-city-3",
       "guideId": "chicago-river-loop-vertical-city",

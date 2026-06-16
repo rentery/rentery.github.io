@@ -100,6 +100,19 @@
             "latitude": 42.64174,
             "longitude": 18.10685
           },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-square.jpg",
+            "alt": "Врата Пиле",
+            "attribution": {
+              "author": "Bernard Gagnon",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pile_Gate,_Dubrovnik_01.jpg",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "dubrovnik-old-city-republic-spine-1",
           "guideId": "dubrovnik-old-city-republic-spine",
           "order": 1
@@ -125,6 +138,19 @@
           "coordinates": {
             "latitude": 42.64158,
             "longitude": 18.10745
+          },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-square.jpg",
+            "alt": "Большой фонтан Онофрио",
+            "attribution": {
+              "author": "Richard Mortel from Riyadh, Saudi Arabia",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onofrio_Fountain,_Dubrovnik,_1438_(1)_(30115264576).jpg",
+              "retrievedAt": "2026-06-16"
+            }
           },
           "id": "dubrovnik-old-city-republic-spine-2",
           "guideId": "dubrovnik-old-city-republic-spine",
@@ -152,6 +178,19 @@
             "latitude": 42.64139,
             "longitude": 18.10806
           },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-square.jpg",
+            "alt": "Страдун",
+            "attribution": {
+              "author": "Pudelek (Marcin Szala)",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik_-_Stradun_(by_Pudelek).JPG",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "dubrovnik-old-city-republic-spine-3",
           "guideId": "dubrovnik-old-city-republic-spine",
           "order": 3
@@ -177,6 +216,19 @@
           "coordinates": {
             "latitude": 42.64096,
             "longitude": 18.11065
+          },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-square.jpg",
+            "alt": "Площадь Лужа",
+            "attribution": {
+              "author": "Richard Mortel from Riyadh, Saudi Arabia",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St._Blaise_and_Orlando_Column,_Dubrovnik_(29753056270).jpg",
+              "retrievedAt": "2026-06-16"
+            }
           },
           "id": "dubrovnik-old-city-republic-spine-4",
           "guideId": "dubrovnik-old-city-republic-spine",
@@ -204,6 +256,19 @@
             "latitude": 42.64028,
             "longitude": 18.11083
           },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-square.jpg",
+            "alt": "Княжеский двор",
+            "attribution": {
+              "author": "LBM1948",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_Palacio_del_Gobernador_10.jpg",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "dubrovnik-old-city-republic-spine-5",
           "guideId": "dubrovnik-old-city-republic-spine",
           "order": 5
@@ -230,6 +295,19 @@
             "latitude": 42.6399,
             "longitude": 18.1104
           },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-square.jpg",
+            "alt": "Кафедральный собор Вознесения Б…",
+            "attribution": {
+              "author": "Joanbanjo",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_de_la_catedral_de_Dubrovnik.JPG",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "dubrovnik-old-city-republic-spine-6",
           "guideId": "dubrovnik-old-city-republic-spine",
           "order": 6
@@ -255,6 +333,19 @@
           "coordinates": {
             "latitude": 42.642,
             "longitude": 18.11274
+          },
+          "photo": {
+            "id": "dubrovnik-old-city-republic-spine-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-square.jpg",
+            "alt": "Врата Плоче",
+            "attribution": {
+              "author": "Bernard Gagnon",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plo%C4%8De_Gate,_Dubrovnik_01.jpg",
+              "retrievedAt": "2026-06-16"
+            }
           },
           "id": "dubrovnik-old-city-republic-spine-7",
           "guideId": "dubrovnik-old-city-republic-spine",
@@ -288,6 +379,19 @@
         "latitude": 42.64174,
         "longitude": 18.10685
       },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-square.jpg",
+        "alt": "Врата Пиле",
+        "attribution": {
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pile_Gate,_Dubrovnik_01.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "dubrovnik-old-city-republic-spine-1",
       "guideId": "dubrovnik-old-city-republic-spine",
       "order": 1
@@ -313,6 +417,19 @@
       "coordinates": {
         "latitude": 42.64158,
         "longitude": 18.10745
+      },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-square.jpg",
+        "alt": "Большой фонтан Онофрио",
+        "attribution": {
+          "author": "Richard Mortel from Riyadh, Saudi Arabia",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onofrio_Fountain,_Dubrovnik,_1438_(1)_(30115264576).jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "dubrovnik-old-city-republic-spine-2",
       "guideId": "dubrovnik-old-city-republic-spine",
@@ -340,6 +457,19 @@
         "latitude": 42.64139,
         "longitude": 18.10806
       },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-square.jpg",
+        "alt": "Страдун",
+        "attribution": {
+          "author": "Pudelek (Marcin Szala)",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik_-_Stradun_(by_Pudelek).JPG",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "dubrovnik-old-city-republic-spine-3",
       "guideId": "dubrovnik-old-city-republic-spine",
       "order": 3
@@ -365,6 +495,19 @@
       "coordinates": {
         "latitude": 42.64096,
         "longitude": 18.11065
+      },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-square.jpg",
+        "alt": "Площадь Лужа",
+        "attribution": {
+          "author": "Richard Mortel from Riyadh, Saudi Arabia",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St._Blaise_and_Orlando_Column,_Dubrovnik_(29753056270).jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "dubrovnik-old-city-republic-spine-4",
       "guideId": "dubrovnik-old-city-republic-spine",
@@ -392,6 +535,19 @@
         "latitude": 42.64028,
         "longitude": 18.11083
       },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-square.jpg",
+        "alt": "Княжеский двор",
+        "attribution": {
+          "author": "LBM1948",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_Palacio_del_Gobernador_10.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "dubrovnik-old-city-republic-spine-5",
       "guideId": "dubrovnik-old-city-republic-spine",
       "order": 5
@@ -417,6 +573,19 @@
       "coordinates": {
         "latitude": 42.6399,
         "longitude": 18.1104
+      },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-square.jpg",
+        "alt": "Кафедральный собор Вознесения Б…",
+        "attribution": {
+          "author": "Joanbanjo",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_de_la_catedral_de_Dubrovnik.JPG",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "dubrovnik-old-city-republic-spine-6",
       "guideId": "dubrovnik-old-city-republic-spine",
@@ -444,10 +613,23 @@
         "latitude": 42.642,
         "longitude": 18.11274
       },
+      "photo": {
+        "id": "dubrovnik-old-city-republic-spine-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-square.jpg",
+        "alt": "Врата Плоче",
+        "attribution": {
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plo%C4%8De_Gate,_Dubrovnik_01.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "dubrovnik-old-city-republic-spine-7",
       "guideId": "dubrovnik-old-city-republic-spine",
       "order": 7
     }
   ],
-  "packHash": "5f8d132de52d"
+  "packHash": "196d9d7cd142"
 }

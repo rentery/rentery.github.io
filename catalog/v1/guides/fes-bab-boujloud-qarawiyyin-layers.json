@@ -171,6 +171,19 @@
           }
         ],
         "sourceNote": "Остановка описывает городской ритм оси UNESCO-медины между Бу Инания и центральным учебно-торговым ядром; pin дан как reading point на маршруте, 2026-06-15."
+      },
+      "photo": {
+        "id": "fes-bab-boujloud-qarawiyyin-layers-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/fes/fes-bab-boujloud-qarawiyyin-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/fes/fes-bab-boujloud-qarawiyyin-layers-stop-3-square.jpg",
+        "alt": "Талаа-Кебира",
+        "attribution": {
+          "author": "Jorge Franganillo",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fez_Rue_Talaa_Kebira_(54240066871).jpg",
+          "retrievedAt": "2026-06-16"
+        }
       }
     },
     {
@@ -342,6 +355,19 @@
           }
         ],
         "sourceNote": "Остановка описана как живая площадь и reading point рядом с центральным ядром медины; pin дан на площадь, а не на отдельную дверь, 2026-06-15."
+      },
+      "photo": {
+        "id": "fes-bab-boujloud-qarawiyyin-layers-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/fes/fes-bab-boujloud-qarawiyyin-layers-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/fes/fes-bab-boujloud-qarawiyyin-layers-stop-7-square.jpg",
+        "alt": "Площадь Сеффарин",
+        "attribution": {
+          "author": "R Prazeres",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saffarine_Square_DSCF4157.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       }
     }
   ]

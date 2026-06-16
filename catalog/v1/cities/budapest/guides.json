@@ -216,6 +216,19 @@
           ],
           "sourceNote": "Остановка построена как урбанистический переход внутри охраняемого исторического квартала; проверка маршрута и окружающих heritage-описаний на 2026-06-15."
         },
+        "photo": {
+          "id": "budapest-buda-castle-hill-layers-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/budapest/budapest-buda-castle-hill-layers-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/budapest/budapest-buda-castle-hill-layers-stop-4-square.jpg",
+          "alt": "Площадь Дис",
+          "attribution": {
+            "author": "Bahnfrend",
+            "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%ADsz_t%C3%A9r_(Budapest),_2006_(01).jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "budapest-buda-castle-hill-layers-4",
         "guideId": "budapest-buda-castle-hill-layers",
         "order": 4

@@ -59,6 +59,19 @@
           "rules": [],
           "summary": "Уличный осмотр в любое время; лучший ракурс — с противоположного тротуара и с небольшим отходом к перекрёсткам."
         },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-1-square.jpg",
+          "alt": "Илла де ла Дискордия",
+          "attribution": {
+            "author": "Txllxt TxllxT",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Passeig_de_Gr%C3%A0cia_-_View_NW_on_Illa_de_la_Disc%C3%B2rdia_IV.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "barcelona-modernist-eixample-1",
         "guideId": "barcelona-modernist-eixample",
         "order": 1
@@ -84,6 +97,19 @@
         "hours": {
           "rules": [],
           "summary": "Дом-музей открыт ежедневно с 10:00 до 20:00. Guided tour: 10:00 по-английски, 11:00 по-испански, 12:00 по-каталански. Аудиогид — с 10:00 до 19:00 каждые 30 минут. Посещение фотостудии Antoni Amatller — по выходным днём."
+        },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-2-square.jpg",
+          "alt": "Casa Amatller",
+          "attribution": {
+            "author": "Zarateman",
+            "license": "CC0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Casa_Amatller_1.jpg",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "barcelona-modernist-eixample-2",
         "guideId": "barcelona-modernist-eixample",
@@ -111,6 +137,19 @@
           "rules": [],
           "summary": "Открыто ежедневно с 09:00 до 22:30. Ориентировочная длительность базового визита — 1 час 15 минут. Доступны дневные и отдельные вечерние форматы."
         },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-3-square.jpg",
+          "alt": "Casa Batlló",
+          "attribution": {
+            "author": "Simon Burchell",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3,_Barcelona_57.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "barcelona-modernist-eixample-3",
         "guideId": "barcelona-modernist-eixample",
         "order": 3
@@ -136,6 +175,19 @@
         "hours": {
           "rules": [],
           "summary": "На дату проверки действует летний режим 6 March 2026 - 1 November 2026: ежедневно 09:00–20:30, ночные сессии 20:40–22:20. Конкретные слоты зависят от выбранной активности."
+        },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-4-square.jpg",
+          "alt": "Casa Milà",
+          "attribution": {
+            "author": "Diliff",
+            "license": "CC BY 2.5; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_Barcelona,_Spain_-_Jan_2007.jpg",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "barcelona-modernist-eixample-4",
         "guideId": "barcelona-modernist-eixample",
@@ -163,6 +215,19 @@
           "rules": [],
           "summary": "Стабильного музейного режима нет; дом подан как городской архитектурный адрес для внешнего осмотра. Осмотр фасада — в любое время."
         },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-5-square.jpg",
+          "alt": "Casa Thomas",
+          "attribution": {
+            "author": "Enric",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:064_Casa_Thom%C3%A0s,_c._Mallorca_291-293_(Barcelona).jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "barcelona-modernist-eixample-5",
         "guideId": "barcelona-modernist-eixample",
         "order": 5
@@ -188,6 +253,19 @@
         "hours": {
           "rules": [],
           "summary": "На официальном microsite института зафиксированы guided visits по средам утром. Вне этого окна дом разумно рассматривать прежде всего как внешний и вестибюльный архитектурный адрес."
+        },
+        "photo": {
+          "id": "barcelona-modernist-eixample-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/barcelona/barcelona-modernist-eixample-stop-6-square.jpg",
+          "alt": "Palau Baró de Quadras",
+          "attribution": {
+            "author": "Ardfern",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palau_del_Bar%C3%B3_de_Quadras,_Barcelona,_December_2014_(02).JPG",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "barcelona-modernist-eixample-6",
         "guideId": "barcelona-modernist-eixample",

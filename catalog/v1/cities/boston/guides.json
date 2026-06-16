@@ -80,6 +80,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "boston-freedom-trail-revolution-city-1-stop-image-commons-tremont-common-14410515881",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-1-stop-image-commons-tremont-common-14410515881-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-1-stop-image-commons-tremont-common-14410515881-square.jpg",
+          "alt": "Boston Common",
+          "attribution": {
+            "author": "City of Boston Archives",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:%28Tremont_Street_and_Boston_Common%29_%2814410515881%29.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "boston-freedom-trail-revolution-city-1",
         "guideId": "boston-freedom-trail-revolution-city",
         "order": 1
@@ -114,6 +127,19 @@
               "body": "Этот stop важен как точка смены режима: от колониального Old State House к республиканскому State House. На одной прогулке видно, что независимость — это не только сопротивление, но и пересборка пространства власти."
             }
           ]
+        },
+        "photo": {
+          "id": "boston-freedom-trail-revolution-city-2-stop-image-commons-state-house-2016",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-2-stop-image-commons-state-house-2016-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-2-stop-image-commons-state-house-2016-square.jpg",
+          "alt": "Massachusetts State House",
+          "attribution": {
+            "author": "King of Hearts",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massachusetts_State_House_Boston_November_2016.jpg",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "boston-freedom-trail-revolution-city-2",
         "guideId": "boston-freedom-trail-revolution-city",
@@ -233,6 +259,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "boston-freedom-trail-revolution-city-5-stop-image-commons-old-state-house-einhorn-2019",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-5-stop-image-commons-old-state-house-einhorn-2019-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-5-stop-image-commons-old-state-house-einhorn-2019-square.jpg",
+          "alt": "Old State House",
+          "attribution": {
+            "author": "Matthias Nonnenmacher",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_State_House_Boston_W_Einhorn_9337_20190426.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "boston-freedom-trail-revolution-city-5",
         "guideId": "boston-freedom-trail-revolution-city",
         "order": 5
@@ -268,6 +307,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "boston-freedom-trail-revolution-city-6-stop-image-commons-boston-massacre-site-2009",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-6-stop-image-commons-boston-massacre-site-2009-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-6-stop-image-commons-boston-massacre-site-2009-square.jpg",
+          "alt": "Boston Massacre Site",
+          "attribution": {
+            "author": "Dion Hinchcliffe",
+            "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009_BostonMassacre_site_3658174192.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "boston-freedom-trail-revolution-city-6",
         "guideId": "boston-freedom-trail-revolution-city",
         "order": 6
@@ -302,6 +354,19 @@
               "body": "Faneuil Hall особенно полезен для понимания того, что американская революция в Бостоне не была отделена от торговой инфраструктуры. Здесь экономический спор и политическая риторика буквально жили в одном здании."
             }
           ]
+        },
+        "photo": {
+          "id": "boston-freedom-trail-revolution-city-7-stop-image-commons-faneuil-hall-2025-09",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-7-stop-image-commons-faneuil-hall-2025-09-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-7-stop-image-commons-faneuil-hall-2025-09-square.jpg",
+          "alt": "Faneuil Hall",
+          "attribution": {
+            "author": "Epicgenius",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faneuil_Hall_Mar_2025_09.jpg",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "boston-freedom-trail-revolution-city-7",
         "guideId": "boston-freedom-trail-revolution-city",

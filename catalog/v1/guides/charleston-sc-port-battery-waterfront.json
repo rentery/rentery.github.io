@@ -123,6 +123,19 @@
         ],
         "sourceNote": "Текущие часы и цены — по оператору; историческая функция и хронология — по NPS nomination и государственному heritage listing."
       },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-2-stop-image-commons-old-exchange-49431763253",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-2-stop-image-commons-old-exchange-49431763253-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-2-stop-image-commons-old-exchange-49431763253-square.jpg",
+        "alt": "Old Exchange & Provost Dungeon",
+        "attribution": {
+          "author": "Warren LeMay",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Exchange_Building,_French_Quarter,_Charleston,_SC_%2849431763253%29.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "charleston-sc-port-battery-waterfront-2",
       "guideId": "charleston-sc-port-battery-waterfront",
       "order": 2
@@ -155,6 +168,19 @@
           }
         ],
         "sourceNote": "Для этой наружной точки текст намеренно опирается на устойчивую городскую морфологию, исторический district context и маршрутную связность; без спорных легенд и без обещаний точной текущей инфраструктуры на воде."
+      },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-3-stop-image-commons-waterfront-park",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-3-stop-image-commons-waterfront-park-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-3-stop-image-commons-waterfront-park-square.jpg",
+        "alt": "Waterfront Park",
+        "attribution": {
+          "author": "JonathanLamb",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charleston-SC-Waterfront-Park.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "charleston-sc-port-battery-waterfront-3",
       "guideId": "charleston-sc-port-battery-waterfront",
@@ -222,6 +248,19 @@
         ],
         "sourceNote": "Для этой остановки текст ограничен устойчивыми, визуально проверяемыми вещами и общим наследным контекстом; легенды о цветах и моряках сознательно не используются."
       },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-5-stop-image-commons-rainbow-row-2024-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-5-stop-image-commons-rainbow-row-2024-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-5-stop-image-commons-rainbow-row-2024-1-square.jpg",
+        "alt": "Rainbow Row",
+        "attribution": {
+          "author": "Thomson200",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rainbow_Row_Charleston_July_2024_1.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "charleston-sc-port-battery-waterfront-5",
       "guideId": "charleston-sc-port-battery-waterfront",
       "order": 5
@@ -254,6 +293,19 @@
           }
         ],
         "sourceNote": "Текст этой наружной остановки опирается прежде всего на маршрутную связность, наблюдаемую морфологию waterfront и исторический district context без спорных детальных атрибуций по отдельным домам."
+      },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-6-stop-image-commons-east-bay-street-18",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-6-stop-image-commons-east-bay-street-18-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-6-stop-image-commons-east-bay-street-18-square.jpg",
+        "alt": "Поворот East Bay к Батарее",
+        "attribution": {
+          "author": "Elisa.rolle",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_Bay_Street_18.JPG",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "charleston-sc-port-battery-waterfront-6",
       "guideId": "charleston-sc-port-battery-waterfront",
@@ -288,6 +340,19 @@
         ],
         "sourceNote": "Наружная интерпретация опирается на устойчивый historic district context и маршрутную логику полуострова; текст сознательно избегает неподтверждённых локальных легенд и сверхточных атрибуций по отдельным домам."
       },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-7-stop-image-commons-water-street-east-battery-2011",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-7-stop-image-commons-water-street-east-battery-2011-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-7-stop-image-commons-water-street-east-battery-2011-square.jpg",
+        "alt": "High Battery",
+        "attribution": {
+          "author": "Ken Lund",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_Street_and_East_Battery,_Charleston,_South_Carolina_2011.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "charleston-sc-port-battery-waterfront-7",
       "guideId": "charleston-sc-port-battery-waterfront",
       "order": 7
@@ -320,6 +385,19 @@
           }
         ],
         "sourceNote": "Практика и связность сверены по карте и официальной городской рамке; историческая интерпретация сознательно остаётся на уровне устойчивых, наблюдаемых слоёв места."
+      },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-8-stop-image-commons-white-point-garden-2021",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-8-stop-image-commons-white-point-garden-2021-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-8-stop-image-commons-white-point-garden-2021-square.jpg",
+        "alt": "White Point Garden",
+        "attribution": {
+          "author": "Antony-22",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Point_Garden_Charleston_2021.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "charleston-sc-port-battery-waterfront-8",
       "guideId": "charleston-sc-port-battery-waterfront",

@@ -109,6 +109,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "cusco-plaza-qorikancha-layers-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-square.jpg",
+            "alt": "Пласа-де-Армас",
+            "attribution": {
+              "author": "Diego Delso",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_53-56_PAN.jpg",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "cusco-plaza-qorikancha-layers-1",
           "guideId": "cusco-plaza-qorikancha-layers",
           "order": 1
@@ -143,6 +156,19 @@
                 "body": "Издали фасад читается как политический жест. Вблизи вы увидите искусство камня; издали — систему, которая хочет собрать площадь под один взгляд.\n\nСмотрите на эту точку как на часть общей логики маршрута: она связывает предыдущий ход со следующим."
               }
             ]
+          },
+          "photo": {
+            "id": "cusco-plaza-qorikancha-layers-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-square.jpg",
+            "alt": "Кафедральный ансамбль",
+            "attribution": {
+              "author": "Diego Delso",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral,_Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_57.JPG",
+              "retrievedAt": "2026-06-16"
+            }
           },
           "id": "cusco-plaza-qorikancha-layers-2",
           "guideId": "cusco-plaza-qorikancha-layers",
@@ -179,6 +205,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "cusco-plaza-qorikancha-layers-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-square.jpg",
+            "alt": "Иезуитская Компанья",
+            "attribution": {
+              "author": "Lhimec",
+              "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Society_of_Jesus_(Cusco,_Peru)_2013-03-31_006.JPG",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "cusco-plaza-qorikancha-layers-3",
           "guideId": "cusco-plaza-qorikancha-layers",
           "order": 3
@@ -213,6 +252,19 @@
                 "body": "Лорето полезно воспринимать как инструмент настройки. После неё вы совсем иначе смотрите на Кориканчу: не как на отдельный памятник, а как на узел городской ткани."
               }
             ]
+          },
+          "photo": {
+            "id": "cusco-plaza-qorikancha-layers-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-square.jpg",
+            "alt": "Калье Лорето",
+            "attribution": {
+              "author": "Ricardo Sanchez",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Loreto,_Cusco,_Peru.jpg",
+              "retrievedAt": "2026-06-16"
+            }
           },
           "id": "cusco-plaza-qorikancha-layers-4",
           "guideId": "cusco-plaza-qorikancha-layers",
@@ -447,6 +499,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "cusco-plaza-qorikancha-layers-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-square.jpg",
+        "alt": "Пласа-де-Армас",
+        "attribution": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_53-56_PAN.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "cusco-plaza-qorikancha-layers-1",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 1
@@ -481,6 +546,19 @@
             "body": "Издали фасад читается как политический жест. Вблизи вы увидите искусство камня; издали — систему, которая хочет собрать площадь под один взгляд.\n\nСмотрите на эту точку как на часть общей логики маршрута: она связывает предыдущий ход со следующим."
           }
         ]
+      },
+      "photo": {
+        "id": "cusco-plaza-qorikancha-layers-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-square.jpg",
+        "alt": "Кафедральный ансамбль",
+        "attribution": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral,_Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_57.JPG",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "cusco-plaza-qorikancha-layers-2",
       "guideId": "cusco-plaza-qorikancha-layers",
@@ -517,6 +595,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "cusco-plaza-qorikancha-layers-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-square.jpg",
+        "alt": "Иезуитская Компанья",
+        "attribution": {
+          "author": "Lhimec",
+          "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Society_of_Jesus_(Cusco,_Peru)_2013-03-31_006.JPG",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "cusco-plaza-qorikancha-layers-3",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 3
@@ -551,6 +642,19 @@
             "body": "Лорето полезно воспринимать как инструмент настройки. После неё вы совсем иначе смотрите на Кориканчу: не как на отдельный памятник, а как на узел городской ткани."
           }
         ]
+      },
+      "photo": {
+        "id": "cusco-plaza-qorikancha-layers-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-square.jpg",
+        "alt": "Калье Лорето",
+        "attribution": {
+          "author": "Ricardo Sanchez",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Loreto,_Cusco,_Peru.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "cusco-plaza-qorikancha-layers-4",
       "guideId": "cusco-plaza-qorikancha-layers",
@@ -749,5 +853,5 @@
       "order": 8
     }
   ],
-  "packHash": "49310404d6da"
+  "packHash": "478423d6f642"
 }

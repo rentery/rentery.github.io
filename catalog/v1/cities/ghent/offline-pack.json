@@ -281,6 +281,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "ghent-three-towers-river-power-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-three-towers-river-power-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-three-towers-river-power-stop-5-square.jpg",
+            "alt": "Белфорт и Лакенхалле",
+            "attribution": {
+              "author": "Thomas Quine",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lakenhalle_Cloth_Hall_and_Belfry_(28208857411).jpg",
+              "retrievedAt": "2026-06-16"
+            }
+          },
           "id": "ghent-three-towers-river-power-5",
           "guideId": "ghent-three-towers-river-power",
           "order": 5
@@ -538,6 +551,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "ghent-three-towers-river-power-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-three-towers-river-power-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-three-towers-river-power-stop-5-square.jpg",
+        "alt": "Белфорт и Лакенхалле",
+        "attribution": {
+          "author": "Thomas Quine",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lakenhalle_Cloth_Hall_and_Belfry_(28208857411).jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "ghent-three-towers-river-power-5",
       "guideId": "ghent-three-towers-river-power",
       "order": 5
@@ -587,5 +613,5 @@
       "order": 6
     }
   ],
-  "packHash": "63d5c55a11aa"
+  "packHash": "26c76d17b6f7"
 }

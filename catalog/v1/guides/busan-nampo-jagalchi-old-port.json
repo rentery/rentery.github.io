@@ -69,6 +69,19 @@
         "latitude": 35.1039,
         "longitude": 129.0345
       },
+      "photo": {
+        "id": "busan-nampo-jagalchi-old-port-1-real-photo-commons-40-steps-stairway",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-1-real-photo-commons-40-steps-stairway-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-1-real-photo-commons-40-steps-stairway-square.jpg",
+        "alt": "Сорок ступеней",
+        "attribution": {
+          "author": "Wonho E",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:40_steps_stairway_-_panoramio.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "busan-nampo-jagalchi-old-port-1",
       "guideId": "busan-nampo-jagalchi-old-port",
       "order": 1

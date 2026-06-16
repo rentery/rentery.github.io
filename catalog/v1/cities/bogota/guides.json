@@ -174,6 +174,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "bogota-candelaria-gold-power-4-stop-image-commons-plazoleta-del-rosario-2017",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-4-stop-image-commons-plazoleta-del-rosario-2017-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-4-stop-image-commons-plazoleta-del-rosario-2017-square.jpg",
+          "alt": "Plazoleta del Rosario и Claustr",
+          "attribution": {
+            "author": "Universidad del Rosario",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plazoleta_del_Rosario,_2017.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "bogota-candelaria-gold-power-4",
         "guideId": "bogota-candelaria-gold-power",
         "order": 4

@@ -117,6 +117,19 @@
           "rules": [],
           "summary": "Музей открыт по официальному расписанию со среды по воскресенье с 10:30 до 17:40; по понедельникам и вторникам закрыт."
         },
+        "photo": {
+          "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-2-stop-image-commons-cabildo-2023",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-2-stop-image-commons-cabildo-2023-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-2-stop-image-commons-cabildo-2023-square.jpg",
+          "alt": "Cabildo",
+          "attribution": {
+            "author": "Crazychubut",
+            "license": "CC0 1.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabildo_Plaza_de_Mayo_Buenos_Aires_5_de_Agosto_2023.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-2",
         "guideId": "buenos-aires-plaza-de-mayo-avenida-power-axis",
         "order": 2
@@ -318,6 +331,19 @@
         "hours": {
           "rules": [],
           "summary": "Площадь и внешний обзор дворца доступны как открытое городское пространство; режим внутренних визитов зависит от парламентского календаря и специальных программ."
+        },
+        "photo": {
+          "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-7-stop-image-commons-plaza-congreso-cc0",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-7-stop-image-commons-plaza-congreso-cc0-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-7-stop-image-commons-plaza-congreso-cc0-square.jpg",
+          "alt": "Конгресс и площадь Конгресса",
+          "attribution": {
+            "author": "WikipuenteFBB",
+            "license": "CC0 1.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_del_Congreso_y_Congreso_de_la_Naci%C3%B3n_Argentina.jpg",
+            "retrievedAt": "2026-06-16"
+          }
         },
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-7",
         "guideId": "buenos-aires-plaza-de-mayo-avenida-power-axis",

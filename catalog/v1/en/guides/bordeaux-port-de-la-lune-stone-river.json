@@ -76,6 +76,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-1-square.jpg",
+        "alt": "Place des Quinconces",
+        "attribution": {
+          "author": "P. Hughes",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monument_aux_Girondins_-Bordeaux,_France.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "bordeaux-port-de-la-lune-stone-river-1",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
       "order": 1
@@ -107,6 +120,19 @@
             "body": "Официальные страницы Opéra National de Bordeaux подчёркивают и дату открытия в 1780 году, и архитектуру Victor Louis. Для маршрута важнее другое: здесь Бордо буквально учится говорить о себе языком публичного великолепия."
           }
         ]
+      },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-2-square.jpg",
+        "alt": "Grand Théâtre",
+        "attribution": {
+          "author": "Thomon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Th%C3%A9%C3%A2tre_2017.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "bordeaux-port-de-la-lune-stone-river-2",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
@@ -140,6 +166,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-3-square.jpg",
+        "alt": "Place de la Bourse",
+        "attribution": {
+          "author": "Zairon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bordeaux_Place_de_la_Bourse_Fontaine_des_Trois_Gr%C3%A2ces_02.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "bordeaux-port-de-la-lune-stone-river-3",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
       "order": 3
@@ -171,6 +210,19 @@
             "body": "По данным Bordeaux Tourisme, система работает через подземный резервуар примерно на 800 кубометров и сеть форсунок. Это важная деталь: зрелище здесь инженерное не меньше, чем поэтическое.\n\nЕсли зеркало выключено, смысл точки никуда не пропадает. Тогда сильнее чувствуется сама набережная и идея открытого фронта к Гаронне. Но если система работает, останьтесь на один полный цикл. В этом ритме тумана и гладкого отражения очень хорошо видно, как современный Бордо разговаривает со своим XVIII веком без музейной пыли."
           }
         ]
+      },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-4-square.jpg",
+        "alt": "Miroir d’Eau",
+        "attribution": {
+          "author": "Pline",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:XDSC_7643-Effet-brouillard-Miroir-d-eau-quai-de-la-Gironde.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "bordeaux-port-de-la-lune-stone-river-4",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
@@ -204,6 +256,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-5-square.jpg",
+        "alt": "Porte Cailhau",
+        "attribution": {
+          "author": "Superchilum",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porte_Cailhau_Bordeaux_02.JPG",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "bordeaux-port-de-la-lune-stone-river-5",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
       "order": 5
@@ -235,6 +300,19 @@
             "body": "Материалы Bordeaux Tourisme напоминают о старом estey Devèze и о находке бронзового Геркулеса под Place Saint-Pierre. Это хороший пример того, как в Бордо старая портовая география не исчезла, а просто ушла под современную мостовую.\n\nЭто одна из самых важных остановок маршрута, хотя внешне она тише других. Здесь Бордо перестаёт объяснять себя через государственный жест и начинает говорить через толщу повседневной истории. В камне, в названиях улиц, в неудобных старых траекториях. Не спешите. Посмотрите, как за фасадами XVIII века всё ещё проступает более древний рельеф города."
           }
         ]
+      },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-6-square.jpg",
+        "alt": "Place Saint-Pierre",
+        "attribution": {
+          "author": "Gzen92",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Pierre_(Bordeaux)_(1).jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "bordeaux-port-de-la-lune-stone-river-6",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
@@ -268,6 +346,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-7-square.jpg",
+        "alt": "Grosse Cloche",
+        "attribution": {
+          "author": "Franck-fnba",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bordeaux-grosse_cloche-2014b.jpg",
+          "retrievedAt": "2026-06-16"
+        }
+      },
       "id": "bordeaux-port-de-la-lune-stone-river-7",
       "guideId": "bordeaux-port-de-la-lune-stone-river",
       "order": 7
@@ -299,6 +390,19 @@
             "body": "Официальная история Tour Pey-Berland подчёркивает, что башня и собор входят сразу в несколько признанных наследственных контекстов. Для прогулки это важно не формально, а зрительно: финал показывает Бордо как город, где одна и та же вертикаль принадлежит и местной истории, и более широкому европейскому маршруту.\n\nЭто хороший финал именно потому, что он не отменяет предыдущие остановки. Наоборот, он их скрепляет. Порт, классическая набережная, ворота, колокол коммунальных свобод — всё заканчивается у места, где Бордо снова смотрит вверх и одновременно назад на собственное устройство."
           }
         ]
+      },
+      "photo": {
+        "id": "bordeaux-port-de-la-lune-stone-river-stop-8",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bordeaux/bordeaux-port-de-la-lune-stone-river-stop-8-square.jpg",
+        "alt": "Saint-André / Tour Pey-Berland",
+        "attribution": {
+          "author": "Zairon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_01.jpg",
+          "retrievedAt": "2026-06-16"
+        }
       },
       "id": "bordeaux-port-de-la-lune-stone-river-8",
       "guideId": "bordeaux-port-de-la-lune-stone-river",

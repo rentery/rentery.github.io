@@ -75,6 +75,19 @@
           "summary": "Открытое городское поле; доступ к отдельным зонам может меняться из-за церемоний и государственных мероприятий.",
           "checkedAt": "2026-06-15"
         },
+        "photo": {
+          "id": "bangkok-rattanakosin-royal-river-1-real-photo-commons-sanam-luang",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-rattanakosin-royal-river-1-real-photo-commons-sanam-luang-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/bangkok/bangkok-rattanakosin-royal-river-1-real-photo-commons-sanam-luang-square.jpg",
+          "alt": "Санам Луанг",
+          "attribution": {
+            "author": "Adbar",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanam_Luang_Bangkok.jpg",
+            "retrievedAt": "2026-06-16"
+          }
+        },
         "id": "bangkok-rattanakosin-royal-river-1",
         "guideId": "bangkok-rattanakosin-royal-river",
         "order": 1
