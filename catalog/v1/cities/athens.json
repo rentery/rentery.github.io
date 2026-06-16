@@ -2,10 +2,12 @@
   "id": "athens",
   "slug": "athens",
   "title": "Афины",
-  "subtitle": "Athens · 5 прогулок скоро",
+  "subtitle": "Афины · 1 маршрут · 4 скоро",
   "meta": "Греция · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "athens-acropolis-agora-layers"
+  ],
   "countryId": "greece",
   "photo": {
     "id": "athens-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/athens/athens-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/athens/athens-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Афины"
+  },
+  "identity": {
+    "accent": "#33A34C",
+    "soft": "#E3F2E6",
+    "deep": "#237635",
+    "ink": "#226230",
+    "motif": "axis",
+    "glyph": "АФИ",
+    "hook": "Эта прогулка ведёт не по набору открыток, а по механике города"
   }
 }

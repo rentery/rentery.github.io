@@ -2,10 +2,12 @@
   "id": "dubrovnik",
   "slug": "dubrovnik",
   "title": "Дубровник",
-  "subtitle": "Dubrovnik · 5 прогулок скоро",
+  "subtitle": "Дубровник · 1 маршрут · 4 скоро",
   "meta": "Хорватия · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "dubrovnik-old-city-republic-spine"
+  ],
   "countryId": "croatia",
   "photo": {
     "id": "dubrovnik-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Дубровник"
+  },
+  "identity": {
+    "accent": "#33A36F",
+    "soft": "#E3F2EB",
+    "deep": "#23764F",
+    "ink": "#226244",
+    "motif": "axis",
+    "glyph": "ДУБ",
+    "hook": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей"
   }
 }

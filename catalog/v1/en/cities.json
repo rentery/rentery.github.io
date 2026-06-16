@@ -708,11 +708,13 @@
   {
     "id": "athens",
     "slug": "athens",
-    "title": "Athens",
-    "subtitle": "Athens · 5 walks coming soon",
-    "meta": "Greece · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Афины",
+    "subtitle": "Афины · 1 маршрут · 4 скоро",
+    "meta": "Греция · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "athens-acropolis-agora-layers"
+    ],
     "countryId": "greece",
     "photo": {
       "id": "athens-city-hero",
@@ -720,16 +722,27 @@
       "wide": "https://rentery.github.io/images/v1/athens/athens-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/athens/athens-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Афины"
+    },
+    "identity": {
+      "accent": "#33A34C",
+      "soft": "#E3F2E6",
+      "deep": "#237635",
+      "ink": "#226230",
+      "motif": "axis",
+      "glyph": "АФИ",
+      "hook": "Эта прогулка ведёт не по набору открыток, а по механике города"
     }
   },
   {
     "id": "auckland",
     "slug": "auckland",
-    "title": "Auckland",
-    "subtitle": "Auckland · 5 walks coming soon",
-    "meta": "New Zealand · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Окленд",
+    "subtitle": "Окленд · 1 маршрут · 4 скоро",
+    "meta": "Новая Зеландия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "auckland-waterfront-britomart-harbour-layers"
+    ],
     "countryId": "new-zealand",
     "photo": {
       "id": "auckland-city-hero",
@@ -737,16 +750,27 @@
       "wide": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Окленд"
+    },
+    "identity": {
+      "accent": "#7C33A3",
+      "soft": "#EDE3F2",
+      "deep": "#592376",
+      "ink": "#4C2262",
+      "motif": "axis",
+      "glyph": "ОКЛ",
+      "hook": "Эта прогулка идет не вдоль воды как по открытке, а вдоль границы между сушей и…"
     }
   },
   {
     "id": "bangkok",
     "slug": "bangkok",
-    "title": "Bangkok",
-    "subtitle": "Bangkok · 5 walks coming soon",
-    "meta": "Thailand · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Бангкок",
+    "subtitle": "Бангкок · 1 маршрут · 4 скоро",
+    "meta": "Таиланд · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "bangkok-rattanakosin-royal-river"
+    ],
     "countryId": "thailand",
     "photo": {
       "id": "bangkok-city-hero",
@@ -754,16 +778,27 @@
       "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Бангкок"
+    },
+    "identity": {
+      "accent": "#5E33A3",
+      "soft": "#E9E3F2",
+      "deep": "#432376",
+      "ink": "#3B2262",
+      "motif": "axis",
+      "glyph": "БАН",
+      "hook": "Эта прогулка не пытается перечислить главные достопримечательности Бангкока"
     }
   },
   {
     "id": "barcelona",
     "slug": "barcelona",
-    "title": "Barcelona",
-    "subtitle": "Barcelona · 5 walks coming soon",
-    "meta": "Spain · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Барселона",
+    "subtitle": "Барселона · 1 маршрут · 4 скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "barcelona-modernist-eixample"
+    ],
     "countryId": "spain",
     "photo": {
       "id": "barcelona-city-hero",
@@ -771,16 +806,27 @@
       "wide": "https://rentery.github.io/images/v1/barcelona/barcelona-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/barcelona/barcelona-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Барселона"
+    },
+    "identity": {
+      "accent": "#33A3A1",
+      "soft": "#E3F2F2",
+      "deep": "#237674",
+      "ink": "#226261",
+      "motif": "axis",
+      "glyph": "БАР",
+      "hook": "Пеший маршрут по ядру модернистского Эшампле с акцентом на спор фасадов, сохран…"
     }
   },
   {
     "id": "berlin",
     "slug": "berlin",
-    "title": "Berlin",
-    "subtitle": "Berlin · 5 walks coming soon",
-    "meta": "Germany · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Берлин",
+    "subtitle": "Берлин · 1 маршрут · 4 скоро",
+    "meta": "Германия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "berlin-brandenburg-gate-memory-axis"
+    ],
     "countryId": "germany",
     "photo": {
       "id": "berlin-city-hero",
@@ -788,16 +834,27 @@
       "wide": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Берлин"
+    },
+    "identity": {
+      "accent": "#3398A3",
+      "soft": "#E3F1F2",
+      "deep": "#236E76",
+      "ink": "#225C62",
+      "motif": "axis",
+      "glyph": "БЕР",
+      "hook": "Маршрут для первой, но не поверхностной встречи с центральным Берлином"
     }
   },
   {
     "id": "brussels",
     "slug": "brussels",
-    "title": "Brussels",
-    "subtitle": "Brussels · 5 walks coming soon",
-    "meta": "Belgium · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Брюссель",
+    "subtitle": "Брюссель · 1 маршрут · 4 скоро",
+    "meta": "Бельгия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "brussels-grand-place-lower-town"
+    ],
     "countryId": "belgium",
     "photo": {
       "id": "brussels-city-hero",
@@ -805,16 +862,27 @@
       "wide": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/brussels/brussels-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Брюссель"
+    },
+    "identity": {
+      "accent": "#3344A3",
+      "soft": "#E3E5F2",
+      "deep": "#233076",
+      "ink": "#222C62",
+      "motif": "axis",
+      "glyph": "БРЮ",
+      "hook": "Эта прогулка короткая по метражу, но очень плотная по смыслу"
     }
   },
   {
     "id": "buenos-aires",
     "slug": "buenos-aires",
-    "title": "Buenos Aires",
-    "subtitle": "Buenos Aires · 5 walks coming soon",
-    "meta": "Argentina · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Буэнос-Айрес",
+    "subtitle": "Буэнос-Айрес · 1 маршрут · 4 скоро",
+    "meta": "Аргентина · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "buenos-aires-plaza-de-mayo-avenida-power-axis"
+    ],
     "countryId": "argentina",
     "photo": {
       "id": "buenos-aires-city-hero",
@@ -822,16 +890,27 @@
       "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Буэнос-Айрес"
+    },
+    "identity": {
+      "accent": "#A133A3",
+      "soft": "#F2E3F2",
+      "deep": "#742376",
+      "ink": "#612262",
+      "motif": "axis",
+      "glyph": "БУЭ",
+      "hook": "Неспешная прогулка по самой политически заряженной оси Буэнос-Айреса: площадь,…"
     }
   },
   {
     "id": "busan",
     "slug": "busan",
-    "title": "Busan",
-    "subtitle": "Busan · 5 walks coming soon",
-    "meta": "South Korea · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Пусан",
+    "subtitle": "Пусан · 1 маршрут · 4 скоро",
+    "meta": "Южная Корея · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "busan-nampo-jagalchi-old-port"
+    ],
     "countryId": "south-korea",
     "photo": {
       "id": "busan-city-hero",
@@ -839,16 +918,27 @@
       "wide": "https://rentery.github.io/images/v1/busan/busan-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/busan/busan-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Пусан"
+    },
+    "identity": {
+      "accent": "#3339A3",
+      "soft": "#E3E4F2",
+      "deep": "#232776",
+      "ink": "#222662",
+      "motif": "axis",
+      "glyph": "ПУС",
+      "hook": "Это прогулка по старому припортовому Пусану, где город лучше всего читается не…"
     }
   },
   {
     "id": "cairo",
     "slug": "cairo",
-    "title": "Cairo",
-    "subtitle": "Cairo · 5 walks coming soon",
-    "meta": "Egypt · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Каир",
+    "subtitle": "Каир · 1 маршрут · 4 скоро",
+    "meta": "Египет · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "cairo-muizz-fatimid-mamluk-spine"
+    ],
     "countryId": "egypt",
     "photo": {
       "id": "cairo-city-hero",
@@ -856,16 +946,27 @@
       "wide": "https://rentery.github.io/images/v1/cairo/cairo-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/cairo/cairo-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Каир"
+    },
+    "identity": {
+      "accent": "#5133A3",
+      "soft": "#E7E3F2",
+      "deep": "#392376",
+      "ink": "#332262",
+      "motif": "axis",
+      "glyph": "КАИ",
+      "hook": "Эта прогулка идет не по набору отдельных памятников, а по улице-артерии, по кот…"
     }
   },
   {
     "id": "cartagena-colombia",
     "slug": "cartagena-colombia",
-    "title": "Cartagena",
-    "subtitle": "Cartagena · 5 walks coming soon",
-    "meta": "Colombia · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Картахена",
+    "subtitle": "Картахена · 1 маршрут · 4 скоро",
+    "meta": "Колумбия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "cartagena-colombia-old-port-walls-fortress"
+    ],
     "countryId": "colombia",
     "photo": {
       "id": "cartagena-colombia-city-hero",
@@ -873,16 +974,27 @@
       "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Картахена"
+    },
+    "identity": {
+      "accent": "#A34033",
+      "soft": "#F2E5E3",
+      "deep": "#762D23",
+      "ink": "#622A22",
+      "motif": "axis",
+      "glyph": "КАР",
+      "hook": "Короткая, но плотная прогулка от главных ворот к таможенной площади, церковному…"
     }
   },
   {
     "id": "chiang-mai",
     "slug": "chiang-mai",
-    "title": "Chiang Mai",
-    "subtitle": "Chiang Mai · 5 walks coming soon",
-    "meta": "Thailand · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Чиангмай",
+    "subtitle": "Чиангмай · 1 маршрут · 4 скоро",
+    "meta": "Таиланд · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "chiang-mai-old-city-lanna-moat"
+    ],
     "countryId": "thailand",
     "photo": {
       "id": "chiang-mai-city-hero",
@@ -890,16 +1002,27 @@
       "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Чиангмай"
+    },
+    "identity": {
+      "accent": "#33A398",
+      "soft": "#E3F2F1",
+      "deep": "#23766E",
+      "ink": "#22625C",
+      "motif": "axis",
+      "glyph": "ЧИА",
+      "hook": "Старый Чиангмай удобно читать не как список «лучших храмов», а как цепочку горо…"
     }
   },
   {
     "id": "copenhagen",
     "slug": "copenhagen",
-    "title": "Copenhagen",
-    "subtitle": "Copenhagen · 5 walks coming soon",
-    "meta": "Denmark · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Копенгаген",
+    "subtitle": "Копенгаген · 1 маршрут · 4 скоро",
+    "meta": "Дания · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "copenhagen-slotsholmen-old-harbour"
+    ],
     "countryId": "denmark",
     "photo": {
       "id": "copenhagen-city-hero",
@@ -907,16 +1030,27 @@
       "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Копенгаген"
+    },
+    "identity": {
+      "accent": "#A39F33",
+      "soft": "#F2F2E3",
+      "deep": "#767323",
+      "ink": "#626022",
+      "motif": "axis",
+      "glyph": "КОП",
+      "hook": "Эта прогулка нужна не для того, чтобы быстро пробежать по открыточным видам, а…"
     }
   },
   {
     "id": "dublin",
     "slug": "dublin",
-    "title": "Dublin",
-    "subtitle": "Dublin · 5 walks coming soon",
-    "meta": "Ireland · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Дублин",
+    "subtitle": "Дублин · 1 маршрут · 4 скоро",
+    "meta": "Ирландия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "dublin-castle-walls-trinity-power"
+    ],
     "countryId": "ireland",
     "photo": {
       "id": "dublin-city-hero",
@@ -924,16 +1058,27 @@
       "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Дублин"
+    },
+    "identity": {
+      "accent": "#4233A3",
+      "soft": "#E5E3F2",
+      "deep": "#2E2376",
+      "ink": "#2B2262",
+      "motif": "axis",
+      "glyph": "ДУБ",
+      "hook": "Эта прогулка идёт не по самым приятным видам Дублина, а по его силовым линиям"
     }
   },
   {
     "id": "dubrovnik",
     "slug": "dubrovnik",
-    "title": "Dubrovnik",
-    "subtitle": "Dubrovnik · 5 walks coming soon",
-    "meta": "Croatia · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
+    "title": "Дубровник",
+    "subtitle": "Дубровник · 1 маршрут · 4 скоро",
+    "meta": "Хорватия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "dubrovnik-old-city-republic-spine"
+    ],
     "countryId": "croatia",
     "photo": {
       "id": "dubrovnik-city-hero",
@@ -941,6 +1086,15 @@
       "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Дубровник"
+    },
+    "identity": {
+      "accent": "#33A36F",
+      "soft": "#E3F2EB",
+      "deep": "#23764F",
+      "ink": "#226244",
+      "motif": "axis",
+      "glyph": "ДУБ",
+      "hook": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей"
     }
   },
   {

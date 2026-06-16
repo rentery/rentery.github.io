@@ -1,11 +1,13 @@
 {
   "id": "berlin",
   "slug": "berlin",
-  "title": "Berlin",
-  "subtitle": "Berlin · 5 walks coming soon",
-  "meta": "Germany · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Берлин",
+  "subtitle": "Берлин · 1 маршрут · 4 скоро",
+  "meta": "Германия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "berlin-brandenburg-gate-memory-axis"
+  ],
   "countryId": "germany",
   "photo": {
     "id": "berlin-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/berlin/berlin-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Берлин"
+  },
+  "identity": {
+    "accent": "#3398A3",
+    "soft": "#E3F1F2",
+    "deep": "#236E76",
+    "ink": "#225C62",
+    "motif": "axis",
+    "glyph": "БЕР",
+    "hook": "Маршрут для первой, но не поверхностной встречи с центральным Берлином"
   }
 }

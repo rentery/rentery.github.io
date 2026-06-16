@@ -1,11 +1,13 @@
 {
   "id": "cartagena-colombia",
   "slug": "cartagena-colombia",
-  "title": "Cartagena",
-  "subtitle": "Cartagena · 5 walks coming soon",
-  "meta": "Colombia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Картахена",
+  "subtitle": "Картахена · 1 маршрут · 4 скоро",
+  "meta": "Колумбия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "cartagena-colombia-old-port-walls-fortress"
+  ],
   "countryId": "colombia",
   "photo": {
     "id": "cartagena-colombia-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Картахена"
+  },
+  "identity": {
+    "accent": "#A34033",
+    "soft": "#F2E5E3",
+    "deep": "#762D23",
+    "ink": "#622A22",
+    "motif": "axis",
+    "glyph": "КАР",
+    "hook": "Короткая, но плотная прогулка от главных ворот к таможенной площади, церковному…"
   }
 }

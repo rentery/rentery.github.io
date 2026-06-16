@@ -2,10 +2,12 @@
   "id": "buenos-aires",
   "slug": "buenos-aires",
   "title": "Буэнос-Айрес",
-  "subtitle": "Buenos Aires · 5 прогулок скоро",
+  "subtitle": "Буэнос-Айрес · 1 маршрут · 4 скоро",
   "meta": "Аргентина · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "buenos-aires-plaza-de-mayo-avenida-power-axis"
+  ],
   "countryId": "argentina",
   "photo": {
     "id": "buenos-aires-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Буэнос-Айрес"
+  },
+  "identity": {
+    "accent": "#A133A3",
+    "soft": "#F2E3F2",
+    "deep": "#742376",
+    "ink": "#612262",
+    "motif": "axis",
+    "glyph": "БУЭ",
+    "hook": "Неспешная прогулка по самой политически заряженной оси Буэнос-Айреса: площадь,…"
   }
 }

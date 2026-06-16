@@ -1,11 +1,13 @@
 {
   "id": "copenhagen",
   "slug": "copenhagen",
-  "title": "Copenhagen",
-  "subtitle": "Copenhagen · 5 walks coming soon",
-  "meta": "Denmark · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Копенгаген",
+  "subtitle": "Копенгаген · 1 маршрут · 4 скоро",
+  "meta": "Дания · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "copenhagen-slotsholmen-old-harbour"
+  ],
   "countryId": "denmark",
   "photo": {
     "id": "copenhagen-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Копенгаген"
+  },
+  "identity": {
+    "accent": "#A39F33",
+    "soft": "#F2F2E3",
+    "deep": "#767323",
+    "ink": "#626022",
+    "motif": "axis",
+    "glyph": "КОП",
+    "hook": "Эта прогулка нужна не для того, чтобы быстро пробежать по открыточным видам, а…"
   }
 }

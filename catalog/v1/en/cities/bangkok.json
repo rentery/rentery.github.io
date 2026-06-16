@@ -1,11 +1,13 @@
 {
   "id": "bangkok",
   "slug": "bangkok",
-  "title": "Bangkok",
-  "subtitle": "Bangkok · 5 walks coming soon",
-  "meta": "Thailand · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Бангкок",
+  "subtitle": "Бангкок · 1 маршрут · 4 скоро",
+  "meta": "Таиланд · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "bangkok-rattanakosin-royal-river"
+  ],
   "countryId": "thailand",
   "photo": {
     "id": "bangkok-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bangkok/bangkok-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Бангкок"
+  },
+  "identity": {
+    "accent": "#5E33A3",
+    "soft": "#E9E3F2",
+    "deep": "#432376",
+    "ink": "#3B2262",
+    "motif": "axis",
+    "glyph": "БАН",
+    "hook": "Эта прогулка не пытается перечислить главные достопримечательности Бангкока"
   }
 }

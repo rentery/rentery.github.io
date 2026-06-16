@@ -1,11 +1,13 @@
 {
   "id": "dublin",
   "slug": "dublin",
-  "title": "Dublin",
-  "subtitle": "Dublin · 5 walks coming soon",
-  "meta": "Ireland · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Дублин",
+  "subtitle": "Дублин · 1 маршрут · 4 скоро",
+  "meta": "Ирландия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "dublin-castle-walls-trinity-power"
+  ],
   "countryId": "ireland",
   "photo": {
     "id": "dublin-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Дублин"
+  },
+  "identity": {
+    "accent": "#4233A3",
+    "soft": "#E5E3F2",
+    "deep": "#2E2376",
+    "ink": "#2B2262",
+    "motif": "axis",
+    "glyph": "ДУБ",
+    "hook": "Эта прогулка идёт не по самым приятным видам Дублина, а по его силовым линиям"
   }
 }

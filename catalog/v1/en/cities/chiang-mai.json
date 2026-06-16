@@ -1,11 +1,13 @@
 {
   "id": "chiang-mai",
   "slug": "chiang-mai",
-  "title": "Chiang Mai",
-  "subtitle": "Chiang Mai · 5 walks coming soon",
-  "meta": "Thailand · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Чиангмай",
+  "subtitle": "Чиангмай · 1 маршрут · 4 скоро",
+  "meta": "Таиланд · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "chiang-mai-old-city-lanna-moat"
+  ],
   "countryId": "thailand",
   "photo": {
     "id": "chiang-mai-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Чиангмай"
+  },
+  "identity": {
+    "accent": "#33A398",
+    "soft": "#E3F2F1",
+    "deep": "#23766E",
+    "ink": "#22625C",
+    "motif": "axis",
+    "glyph": "ЧИА",
+    "hook": "Старый Чиангмай удобно читать не как список «лучших храмов», а как цепочку горо…"
   }
 }

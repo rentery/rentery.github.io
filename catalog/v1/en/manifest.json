@@ -97,59 +97,59 @@
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
-      "packHash": "e5863ae560ea",
+      "packHash": "5130bb02d7e7",
       "packPath": "cities/athens/offline-pack.json"
     },
     "auckland": {
-      "packHash": "c563c5f2217c",
+      "packHash": "c8abc1a775c3",
       "packPath": "cities/auckland/offline-pack.json"
     },
     "bangkok": {
-      "packHash": "0af8e960c0aa",
+      "packHash": "505bf32b7905",
       "packPath": "cities/bangkok/offline-pack.json"
     },
     "barcelona": {
-      "packHash": "464335543cb1",
+      "packHash": "e405d152e2e6",
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
-      "packHash": "764ea0a3728b",
+      "packHash": "1027937b4323",
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
-      "packHash": "6290fd714228",
+      "packHash": "76668461542d",
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
-      "packHash": "ee1acc9f339c",
+      "packHash": "b1d0c8e57975",
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "70e6c8093660",
+      "packHash": "7dcee1da1a33",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
-      "packHash": "dc54f6da9958",
+      "packHash": "40fd5c488a2a",
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "0329b6afa46d",
+      "packHash": "e2e7ede1af27",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
-      "packHash": "d02acf70b85f",
+      "packHash": "992f3e5d1b19",
       "packPath": "cities/chiang-mai/offline-pack.json"
     },
     "copenhagen": {
-      "packHash": "efd0b4f634ae",
+      "packHash": "622a8453bdaf",
       "packPath": "cities/copenhagen/offline-pack.json"
     },
     "dublin": {
-      "packHash": "d3cd39534e27",
+      "packHash": "0bbc37cf87de",
       "packPath": "cities/dublin/offline-pack.json"
     },
     "dubrovnik": {
-      "packHash": "b9692511a25d",
+      "packHash": "5f8d132de52d",
       "packPath": "cities/dubrovnik/offline-pack.json"
     },
     "hanoi": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-15T19:44:46.910Z",
+  "generatedAt": "2026-06-16T05:27:53.707Z",
   "locale": "en",
   "schemaVersion": 1
 }

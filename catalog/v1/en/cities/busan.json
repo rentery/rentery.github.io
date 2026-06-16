@@ -1,11 +1,13 @@
 {
   "id": "busan",
   "slug": "busan",
-  "title": "Busan",
-  "subtitle": "Busan · 5 walks coming soon",
-  "meta": "South Korea · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Пусан",
+  "subtitle": "Пусан · 1 маршрут · 4 скоро",
+  "meta": "Южная Корея · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "busan-nampo-jagalchi-old-port"
+  ],
   "countryId": "south-korea",
   "photo": {
     "id": "busan-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/busan/busan-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/busan/busan-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Пусан"
+  },
+  "identity": {
+    "accent": "#3339A3",
+    "soft": "#E3E4F2",
+    "deep": "#232776",
+    "ink": "#222662",
+    "motif": "axis",
+    "glyph": "ПУС",
+    "hook": "Это прогулка по старому припортовому Пусану, где город лучше всего читается не…"
   }
 }

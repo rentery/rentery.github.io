@@ -1,11 +1,13 @@
 {
   "id": "auckland",
   "slug": "auckland",
-  "title": "Auckland",
-  "subtitle": "Auckland · 5 walks coming soon",
-  "meta": "New Zealand · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Окленд",
+  "subtitle": "Окленд · 1 маршрут · 4 скоро",
+  "meta": "Новая Зеландия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "auckland-waterfront-britomart-harbour-layers"
+  ],
   "countryId": "new-zealand",
   "photo": {
     "id": "auckland-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/auckland/auckland-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Окленд"
+  },
+  "identity": {
+    "accent": "#7C33A3",
+    "soft": "#EDE3F2",
+    "deep": "#592376",
+    "ink": "#4C2262",
+    "motif": "axis",
+    "glyph": "ОКЛ",
+    "hook": "Эта прогулка идет не вдоль воды как по открытке, а вдоль границы между сушей и…"
   }
 }
