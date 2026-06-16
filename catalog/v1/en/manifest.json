@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "5867db70d65d",
+      "packHash": "6294a47b6a17",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -21,31 +21,31 @@
       "packPath": "cities/tivat/offline-pack.json"
     },
     "amsterdam": {
-      "packHash": "acc1e9a47be4",
+      "packHash": "a8158e826a64",
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
-      "packHash": "1b043bf66ac3",
+      "packHash": "6c6f4a400ec7",
       "packPath": "cities/bologna/offline-pack.json"
     },
     "bordeaux": {
-      "packHash": "38c3e34ded67",
+      "packHash": "b8a4f8cc2f0f",
       "packPath": "cities/bordeaux/offline-pack.json"
     },
     "budapest": {
-      "packHash": "bfb403d7a5eb",
+      "packHash": "7f6ecc979dbc",
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
-      "packHash": "e1597c3b89d6",
+      "packHash": "a8fb8f39a387",
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
-      "packHash": "866d96b6b56a",
+      "packHash": "a60226284155",
       "packPath": "cities/charleston-sc/offline-pack.json"
     },
     "chicago": {
-      "packHash": "f92edf150900",
+      "packHash": "0b7b341cbc5b",
       "packPath": "cities/chicago/offline-pack.json"
     },
     "granada": {
@@ -89,11 +89,11 @@
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
-      "packHash": "114c4a282a68",
+      "packHash": "3e6ca0df02b2",
       "packPath": "cities/fes/offline-pack.json"
     },
     "george-town-malaysia": {
-      "packHash": "7c433f05637f",
+      "packHash": "559f6a1cf555",
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-16T06:50:30.190Z",
+  "generatedAt": "2026-06-16T16:53:48.830Z",
   "locale": "en",
   "schemaVersion": 1
 }

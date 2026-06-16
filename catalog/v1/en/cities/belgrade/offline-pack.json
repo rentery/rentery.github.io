@@ -76,6 +76,17 @@
           "retrievedAt": "2026-06-13"
         }
       },
+      "basemap": {
+        "image": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-basemap.png",
+        "center": {
+          "latitude": 44.8213,
+          "longitude": 20.453875
+        },
+        "zoom": 14.71,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      },
       "content": {
         "intro": "Belgrade is easy to misread. If you begin only with the central square, it looks like an ordinary old center: monument, museum, pedestrian street, cafes. But the city did not begin as a square. It grew on a ridge above water, where the high edge of the plateau could watch two rivers at once.\n\nSo this walk is not ordered as a checklist. It asks how the place itself made Belgrade possible. First you see the present-day center, then the axis that pulls it toward the fortress, and finally the edge where relief, walls, and water become one city.",
         "routeLogic": "The order matters. Republic Square shows modern Belgrade as a civic stage. Knez Mihailova turns that stage into a direction. Kosancicev venac reveals the drop toward the Sava. Sahat Gate moves the walk from street logic into fortress logic. The Victor gives the main geographic answer, the Lower Town returns the weight of stone and descent, and Nebojsa Tower finishes the route where the city met the river from below.",
@@ -1349,5 +1360,5 @@
       "order": 7
     }
   ],
-  "packHash": "5867db70d65d"
+  "packHash": "6294a47b6a17"
 }
