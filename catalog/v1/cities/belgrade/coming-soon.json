@@ -14,20 +14,6 @@
     "walkType": "neighborhood"
   },
   {
-    "blurb": "Город-проект: широкие оси, югославский модернизм и жизнь между большими блоками.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-novi-beograd-federal-concrete",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Нови-Београд, Ушче, блоки у Савы",
-    "roughDuration": "3–4 часа",
-    "status": "coming_soon",
-    "subtitle": "От Ушче к дворцам, конгресс-центру и жилым кварталам модернистского города.",
-    "title": "Нови-Београд: блоки, федерация и бетонная столица",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "Сильный выезд из Белграда: мягкий центр Нови-Сада, Дунай и крепость на другом берегу.",
     "cityId": "belgrade",
     "dayTrip": true,

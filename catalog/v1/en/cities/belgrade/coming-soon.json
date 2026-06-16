@@ -14,20 +14,6 @@
     "walkType": "neighborhood"
   },
   {
-    "blurb": "A planned city of broad axes, Yugoslav modernism, and life between large blocks.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-novi-beograd-federal-concrete",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "New Belgrade, Usce, Sava-side blocks",
-    "roughDuration": "3-4 hours",
-    "status": "coming_soon",
-    "subtitle": "From Usce to palaces, the congress center, and modernist housing blocks.",
-    "title": "New Belgrade: Blocks, Federation, Concrete Capital",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "A strong day trip from Belgrade: Novi Sad center, the Danube, and a fortress across the water.",
     "cityId": "belgrade",
     "dayTrip": true,
