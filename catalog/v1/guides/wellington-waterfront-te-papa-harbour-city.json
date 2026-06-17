@@ -14,7 +14,7 @@
   "duration": "около 3 часа",
   "stops": 7,
   "distance": "около 4,2 км",
-  "pace": "easy",
+  "pace": "half",
   "kids": false,
   "microcopy": {
     "kicker": "Маршрут",
@@ -68,7 +68,20 @@
       "photoAssetId": "wellington-waterfront-te-papa-harbour-city-stop-1",
       "sourceIds": [
         "src_wcc_archives_oriental"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-1-square.jpg",
+        "alt": "Oriental Bay - panoramio.jpg",
+        "attribution": {
+          "author": "salnig",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AOriental_Bay_-_panoramio.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-2",
@@ -102,7 +115,20 @@
       "photoAssetId": "wellington-waterfront-te-papa-harbour-city-stop-2",
       "sourceIds": [
         "src_wcc_archives_oriental"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-2-square.jpg",
+        "alt": "Wellington boat sheds on Oriental Parade waterfront.",
+        "attribution": {
+          "author": "Photo Monkey",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wellington_boat_sheds.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-3",
@@ -138,7 +164,20 @@
         "src_tepapa_visit",
         "src_tepapa_plan",
         "src_tepapa_buildings"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-3-square.jpg",
+        "alt": "Museum of New Zealand Te Papa Tongarewa - Wellington, NZ - DSC09540-001.jpg",
+        "attribution": {
+          "author": "Daderot",
+          "license": "CC0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_New_Zealand_Te_Papa_Tongarewa_-_Wellington%2C_NZ_-_DSC09540-001.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-4",
@@ -172,7 +211,20 @@
       "photoAssetId": "wellington-waterfront-te-papa-harbour-city-stop-4",
       "sourceIds": [
         "src_wharewaka_site"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-4-square.jpg",
+        "alt": "Whare Waka, Wellington, New Zealand, Feb. 2011 - Flickr - PhillipC.jpg",
+        "attribution": {
+          "author": "Phillip Capper from Wellington, New Zealand",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AWhare_Waka%2C_Wellington%2C_New_Zealand%2C_Feb._2011_-_Flickr_-_PhillipC.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-5",
@@ -206,7 +258,20 @@
       "photoAssetId": "wellington-waterfront-te-papa-harbour-city-stop-5",
       "sourceIds": [
         "src_wharewaka_site"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-5-square.jpg",
+        "alt": "Whairepo Lagoon from Frank Kits park.jpg",
+        "attribution": {
+          "author": "Ballofstring",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AWhairepo_Lagoon_from_Frank_Kits_park.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-6",
@@ -240,7 +305,20 @@
       "photoAssetId": "wellington-waterfront-te-papa-harbour-city-stop-6",
       "sourceIds": [
         "src_wellington_museum"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-6-square.jpg",
+        "alt": "Museum of Wellington City and Sea facade at Queens Wharf.",
+        "attribution": {
+          "author": "Musuems Wellington",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Wellington_City_&_Sea.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "wellington-waterfront-te-papa-harbour-city-7",
@@ -275,7 +353,20 @@
       "sourceIds": [
         "src_te_matapihi",
         "src_wcl_home"
-      ]
+      ],
+      "photo": {
+        "id": "wellington-waterfront-te-papa-harbour-city-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/wellington/wellington-waterfront-te-papa-harbour-city-stop-7-square.jpg",
+        "alt": "Te Matapihi ki te Ao Nui Central Library Wellington opening day celebration 14 March 2026 04.jpg",
+        "attribution": {
+          "author": "Heidi Meudt",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATe_Matapihi_ki_te_Ao_Nui_Central_Library_Wellington_opening_day_celebration_14_March_2026_04.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     }
   ],
   "coverAssetId": "wellington-waterfront-te-papa-harbour-city-cover",

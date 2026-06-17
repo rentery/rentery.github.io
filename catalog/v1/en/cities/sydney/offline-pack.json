@@ -310,6 +310,19 @@
           "hours": {
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "sydney-harbour-rocks-sails-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-square.jpg",
+            "alt": "Sydney Opera House from the west / Western Broadwalk.",
+            "attribution": {
+              "author": "-wuppertaler",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUS_Sydney,_Central_Business_District,_Sydney_Opera_House_028.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           }
         },
         {
@@ -340,6 +353,19 @@
           "hours": {
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "sydney-harbour-rocks-sails-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-square.jpg",
+            "alt": "Sydney Opera House forecourt and concourse.jpg",
+            "attribution": {
+              "author": "Peter Hall",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_forecourt_and_concourse.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           }
         }
       ],
@@ -602,6 +628,19 @@
       "hours": {
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "sydney-harbour-rocks-sails-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-square.jpg",
+        "alt": "Sydney Opera House from the west / Western Broadwalk.",
+        "attribution": {
+          "author": "-wuppertaler",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUS_Sydney,_Central_Business_District,_Sydney_Opera_House_028.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       }
     },
     {
@@ -632,8 +671,21 @@
       "hours": {
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "sydney-harbour-rocks-sails-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-square.jpg",
+        "alt": "Sydney Opera House forecourt and concourse.jpg",
+        "attribution": {
+          "author": "Peter Hall",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_forecourt_and_concourse.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       }
     }
   ],
-  "packHash": "1ae4ad93d0be"
+  "packHash": "ff05b80aab35"
 }

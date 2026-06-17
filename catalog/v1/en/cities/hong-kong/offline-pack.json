@@ -45,7 +45,7 @@
       "duration": "около 3 часа",
       "stops": 6,
       "distance": "около 2,5 км",
-      "pace": "медленный, с частыми остановками на лестницах, во дворах и у фасадов",
+      "pace": "half",
       "kids": false,
       "microcopy": {
         "kicker": "Маршрут",
@@ -101,7 +101,20 @@
             "src_aab_central_market_599",
             "src_ura_central_market_project",
             "src_ura_central_market_press_20210823"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-square.jpg",
+            "alt": "Central Market entry 26-06-2023.jpg",
+            "attribution": {
+              "author": "LN9267",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Market_entry_26-06-2023.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "hong-kong-old-town-central-layers-2",
@@ -135,7 +148,20 @@
           "photoAssetId": "hong-kong-old-town-central-layers-stop-2",
           "sourceIds": [
             "src_amo_pottinger_trail"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-square.jpg",
+            "alt": "Pottinger Street and Des Voeux Road Central (Hong Kong).jpg",
+            "attribution": {
+              "author": "Mk2010",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APottinger_Street_and_Des_Voeux_Road_Central_(Hong_Kong).jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "hong-kong-old-town-central-layers-3",
@@ -170,7 +196,20 @@
           "sourceIds": [
             "src_info_taikwun_opening_20180525",
             "src_taikwun_visit_page"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-square.jpg",
+            "alt": "Tai Kwun Barrack Block 201806.jpg",
+            "attribution": {
+              "author": "Wpcpey",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATai_Kwun_Barrack_Block_201806.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "hong-kong-old-town-central-layers-4",
@@ -205,7 +244,20 @@
           "sourceIds": [
             "src_pmq_home",
             "src_pmq_history"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-square.jpg",
+            "alt": "PMQ Overview 201510.jpg",
+            "attribution": {
+              "author": "Wpcpey",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APMQ_Overview_201510.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "hong-kong-old-town-central-layers-5",
@@ -241,7 +293,20 @@
             "src_tungwah_manmo_overview",
             "src_tungwah_manmo_architecture",
             "src_tungwah_manmo_hours"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-square.jpg",
+            "alt": "Man Mo Temple - Hong Kong - Sarah Stierch 01.jpg",
+            "attribution": {
+              "author": "Sarah Stierch",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMan_Mo_Temple_-_Hong_Kong_-_Sarah_Stierch_01.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "hong-kong-old-town-central-layers-6",
@@ -277,7 +342,20 @@
             "src_amo_western_market_north_block",
             "src_lcsd_western_market_monument",
             "src_western_market_official_site"
-          ]
+          ],
+          "photo": {
+            "id": "hong-kong-old-town-central-layers-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-square.jpg",
+            "alt": "Western Market Overview 201008",
+            "attribution": {
+              "author": "WiNG",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Market_Overview_201008.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         }
       ],
       "coverAssetId": "hong-kong-old-town-central-layers-cover",
@@ -331,7 +409,20 @@
         "src_aab_central_market_599",
         "src_ura_central_market_project",
         "src_ura_central_market_press_20210823"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-square.jpg",
+        "alt": "Central Market entry 26-06-2023.jpg",
+        "attribution": {
+          "author": "LN9267",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Market_entry_26-06-2023.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "hong-kong-old-town-central-layers-2",
@@ -365,7 +456,20 @@
       "photoAssetId": "hong-kong-old-town-central-layers-stop-2",
       "sourceIds": [
         "src_amo_pottinger_trail"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-square.jpg",
+        "alt": "Pottinger Street and Des Voeux Road Central (Hong Kong).jpg",
+        "attribution": {
+          "author": "Mk2010",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APottinger_Street_and_Des_Voeux_Road_Central_(Hong_Kong).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "hong-kong-old-town-central-layers-3",
@@ -400,7 +504,20 @@
       "sourceIds": [
         "src_info_taikwun_opening_20180525",
         "src_taikwun_visit_page"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-square.jpg",
+        "alt": "Tai Kwun Barrack Block 201806.jpg",
+        "attribution": {
+          "author": "Wpcpey",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATai_Kwun_Barrack_Block_201806.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "hong-kong-old-town-central-layers-4",
@@ -435,7 +552,20 @@
       "sourceIds": [
         "src_pmq_home",
         "src_pmq_history"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-square.jpg",
+        "alt": "PMQ Overview 201510.jpg",
+        "attribution": {
+          "author": "Wpcpey",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APMQ_Overview_201510.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "hong-kong-old-town-central-layers-5",
@@ -471,7 +601,20 @@
         "src_tungwah_manmo_overview",
         "src_tungwah_manmo_architecture",
         "src_tungwah_manmo_hours"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-square.jpg",
+        "alt": "Man Mo Temple - Hong Kong - Sarah Stierch 01.jpg",
+        "attribution": {
+          "author": "Sarah Stierch",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMan_Mo_Temple_-_Hong_Kong_-_Sarah_Stierch_01.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "hong-kong-old-town-central-layers-6",
@@ -507,8 +650,21 @@
         "src_amo_western_market_north_block",
         "src_lcsd_western_market_monument",
         "src_western_market_official_site"
-      ]
+      ],
+      "photo": {
+        "id": "hong-kong-old-town-central-layers-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-square.jpg",
+        "alt": "Western Market Overview 201008",
+        "attribution": {
+          "author": "WiNG",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Market_Overview_201008.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     }
   ],
-  "packHash": "6e4d7045be22"
+  "packHash": "0b9b49f9ece4"
 }

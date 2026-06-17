@@ -75,7 +75,20 @@
           "src-muzeum-barbican",
           "src-muzeum-opening-hours",
           "src-unesco-historic-centre"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-1-square.jpg",
+          "alt": "20180114 Barbakan w Krakowie 0125 DxO.jpg",
+          "attribution": {
+            "author": "Jakub Hałun",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A20180114_Barbakan_w_Krakowie_0125_DxO.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-2",
@@ -114,7 +127,20 @@
           "src-muzeum-city-defence-walls",
           "src-muzeum-opening-hours",
           "src-unesco-historic-centre"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-2-square.jpg",
+          "alt": "Brama Floriańska, Kraków.jpg",
+          "attribution": {
+            "author": "Mkos",
+            "license": "CC BY-SA 3.0 pl; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABrama_Floria%C5%84ska%2C_Krak%C3%B3w.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-3",
@@ -152,7 +178,20 @@
         "sourceIds": [
           "src-unesco-historic-centre",
           "src-krakowtravel-main-market-square"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-3-square.jpg",
+          "alt": "20200516 Ulica Floriańska i Kościół Mariacki w Krakowie 0914 9971.jpg",
+          "attribution": {
+            "author": "Jakub Hałun",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A20200516_Ulica_Floria%C5%84ska_i_Ko%C5%9Bci%C3%B3%C5%82_Mariacki_w_Krakowie_0914_9971.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-4",
@@ -190,7 +229,20 @@
         "sourceIds": [
           "src-krakowtravel-main-market-square",
           "src-unesco-historic-centre"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-4-square.jpg",
+          "alt": "Carriages at Rynek Główny. Krakow, Poland.jpg",
+          "attribution": {
+            "author": "Ввласенко",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACarriages_at_Rynek_G%C5%82%C3%B3wny._Krakow%2C_Poland.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-5",
@@ -228,7 +280,20 @@
         "sourceIds": [
           "src-krakowtravel-cloth-hall",
           "src-krakowtravel-main-market-square"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-5-square.jpg",
+          "alt": "20200512 Sukiennice w Krakowie 1740 9931.jpg",
+          "attribution": {
+            "author": "Jakub Hałun",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A20200512_Sukiennice_w_Krakowie_1740_9931.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-6",
@@ -269,7 +334,20 @@
           "src-basilica-tours-tower",
           "src-basilica-history",
           "src-basilica-towers"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-6-square.jpg",
+          "alt": "Kościół archiprezbiterialny pw. Wniebowzięcia Najświętszej Marii Panny.2019.jpg",
+          "attribution": {
+            "author": "Oksana Protsenko",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKo%C5%9Bci%C3%B3%C5%82_archiprezbiterialny_pw._Wniebowzi%C4%99cia_Naj%C5%9Bwi%C4%99tszej_Marii_Panny.2019.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-7",
@@ -307,7 +385,20 @@
         "sourceIds": [
           "src-krakowtravel-main-market-square",
           "src-unesco-historic-centre"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-7-square.jpg",
+          "alt": "Plac sw. Marii Magdaleny, Old Town, Krakow.",
+          "attribution": {
+            "author": "Zygmunt Put",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Mary_Magdalene_square_(view_to_E),_Old_Town,_Krakow,_Poland.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-8",
@@ -345,7 +436,20 @@
         "sourceIds": [
           "src-unesco-historic-centre",
           "src-krakowtravel-main-market-square"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-8",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-8-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-8-square.jpg",
+          "alt": "Krakau-Ulica Kanonicza-04-2014-gje.jpg",
+          "attribution": {
+            "author": "Gerd Eichmann",
+            "license": "CC BY 4.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKrakau-Ulica_Kanonicza-04-2014-gje.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       },
       {
         "id": "krakow-royal-route-wawel-old-town-9",
@@ -385,7 +489,20 @@
           "src-wawel-what-to-see",
           "src-wawel-how-to-get",
           "src-wawel-accessibility"
-        ]
+        ],
+        "photo": {
+          "id": "krakow-royal-route-wawel-old-town-stop-9",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-9-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/krakow/krakow-royal-route-wawel-old-town-stop-9-square.jpg",
+          "alt": "Krakow - Wawel from Vistula - 1.jpg",
+          "attribution": {
+            "author": "Ingo Mehling",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKrakow_-_Wawel_from_Vistula_-_1.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        }
       }
     ],
     "coverAssetId": "krakow-royal-route-wawel-old-town-cover",

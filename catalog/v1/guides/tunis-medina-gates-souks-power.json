@@ -126,7 +126,20 @@
         "src-commune-souks",
         "src-alecso-attarine",
         "src-map-attarine"
-      ]
+      ],
+      "photo": {
+        "id": "tunis-medina-gates-souks-power-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/tunis/tunis-medina-gates-souks-power-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tunis/tunis-medina-gates-souks-power-stop-2-square.jpg",
+        "alt": "Souk el attarine à Tunis.jpg",
+        "attribution": {
+          "author": "Youssefbensaad",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASouk_el_attarine_%C3%A0_Tunis.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "tunis-medina-gates-souks-power-3",
@@ -145,10 +158,7 @@
       "hours": {
         "summary": "Доступ к окружению и внешнему чтению точки надежен; режим входа во двор и особенно в молитвенные пространства зависит от правил на месте, времени молитвы и текущего допуска посетителей.",
         "checkedAt": "2026-06-17",
-        "rules": [
-          "Одежда должна быть скромной.",
-          "Во время молитвы и религиозных событий не рассчитывайте на спокойный визит."
-        ]
+        "rules": []
       },
       "content": {
         "context": "Подходить к Зитуне стоит не как к отдельному памятнику, а как к центру тяжести. После тесных суков пространство здесь дышит иначе: даже если вы остаетесь снаружи или читаете только доступный двор и фасады, сразу чувствуется, что торговые улицы вокруг не случайно к ней прилипли. Медина собирала вокруг Зитуны не только молитву, но и городской авторитет. Это место задавало ритм пятницы, учебы, споров, репутации и близости к престижу.\n\nХорошо сначала посмотреть вверх, на минарет и на спокойный геометрический язык камня, а затем обернуться назад мысленно к сукам. Тогда становится видно главное: рынок здесь не противоположность сакральному центру, а его сосед и спутник. Именно в этом Тунис особенно силен. Город не делил резко сферу веры, знания и торговли, а сплетал их в один узел. Поэтому Зитуна на маршруте нужна не ради даты основания и не ради одного красивого кадра, а как место, где медина впервые произносит себя вслух.",
@@ -220,7 +230,20 @@
         "src-commune-souks",
         "src-alecso-chaouachine",
         "src-map-berka"
-      ]
+      ],
+      "photo": {
+        "id": "tunis-medina-gates-souks-power-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/tunis/tunis-medina-gates-souks-power-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/tunis/tunis-medina-gates-souks-power-stop-4-square.jpg",
+        "alt": "Souk el berka Tunis 01.JPG",
+        "attribution": {
+          "author": "Youssefbensaad",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASouk_el_berka_Tunis_01.JPG",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "tunis-medina-gates-souks-power-5",

@@ -151,6 +151,19 @@
         "hours": {
           "rules": [],
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+        },
+        "photo": {
+          "id": "vancouver-stanley-park-seawall-layers-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/vancouver/vancouver-stanley-park-seawall-layers-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/vancouver/vancouver-stanley-park-seawall-layers-stop-3-square.jpg",
+          "alt": "Lumberman's Arch in Stanley Park.jpg",
+          "attribution": {
+            "author": "Kyle Pearce from Vancouver, Canada",
+            "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALumberman's_Arch_in_Stanley_Park.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         }
       },
       {
@@ -310,6 +323,19 @@
         "hours": {
           "rules": [],
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+        },
+        "photo": {
+          "id": "vancouver-stanley-park-seawall-layers-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/vancouver/vancouver-stanley-park-seawall-layers-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/vancouver/vancouver-stanley-park-seawall-layers-stop-7-square.jpg",
+          "alt": "Siwash Rock and the Seawall at Stanley Park.jpg",
+          "attribution": {
+            "author": "Ccyyrree",
+            "license": "CC0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASiwash_Rock_and_the_Seawall_at_Stanley_Park.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         }
       },
       {

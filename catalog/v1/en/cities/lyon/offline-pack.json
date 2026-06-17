@@ -45,7 +45,7 @@
       "duration": "около 3 часа",
       "stops": 4,
       "distance": "около 2,6 км",
-      "pace": "easy_downhill",
+      "pace": "half",
       "kids": false,
       "microcopy": {
         "kicker": "Маршрут",
@@ -482,5 +482,5 @@
       ]
     }
   ],
-  "packHash": "86acf288b4a0"
+  "packHash": "50f4f88c865a"
 }

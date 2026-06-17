@@ -155,7 +155,20 @@
           "photoAssetId": "taipei-mengjia-ximending-layers-stop-2",
           "sourceIds": [
             "src-bopiliao-official"
-          ]
+          ],
+          "photo": {
+            "id": "taipei-mengjia-ximending-layers-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-mengjia-ximending-layers-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-mengjia-ximending-layers-stop-2-square.jpg",
+            "alt": "Buddhist goods shop on Xiyuan Road, Taipei.",
+            "attribution": {
+              "author": "阿道",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%BE%8D%E5%B1%B1%E4%BD%9B%E5%85%B7%E5%BA%97-01.2023-09-01.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "taipei-mengjia-ximending-layers-3",
@@ -572,7 +585,20 @@
       "photoAssetId": "taipei-mengjia-ximending-layers-stop-2",
       "sourceIds": [
         "src-bopiliao-official"
-      ]
+      ],
+      "photo": {
+        "id": "taipei-mengjia-ximending-layers-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-mengjia-ximending-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-mengjia-ximending-layers-stop-2-square.jpg",
+        "alt": "Buddhist goods shop on Xiyuan Road, Taipei.",
+        "attribution": {
+          "author": "阿道",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%BE%8D%E5%B1%B1%E4%BD%9B%E5%85%B7%E5%BA%97-01.2023-09-01.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "taipei-mengjia-ximending-layers-3",
@@ -885,5 +911,5 @@
       ]
     }
   ],
-  "packHash": "67a2fe7e8d7d"
+  "packHash": "9ccaddfc4fc6"
 }

@@ -45,7 +45,7 @@
       "duration": "около 2 часа",
       "stops": 8,
       "distance": "около 1,9 км",
-      "pace": "медленный, с частыми короткими паузами",
+      "pace": "half",
       "kids": false,
       "microcopy": {
         "kicker": "Маршрут",
@@ -103,7 +103,20 @@
             "src_ntb_indra_jatra",
             "src_ecs_historys_house_2012",
             "src_slusser_nepal_mandala_1982"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-1-square.jpg",
+            "alt": "Basantapur Hanumandhoka Durbar Square Kathmandu Nepal Rajesh Dhungana (10).jpg",
+            "attribution": {
+              "author": "Rajesh Dhungana",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basantapur_Hanumandhoka_Durbar_Square_Kathmandu_Nepal_Rajesh_Dhungana_(10).jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-2",
@@ -140,7 +153,20 @@
             "src_ntb_living_goddess",
             "src_ecs_taleju_2010",
             "src_onlinekhabar_taleju_2017"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-2-square.jpg",
+            "alt": "Taleju Temple View.jpg",
+            "attribution": {
+              "author": "Tamrakaralina",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taleju_Temple_View.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-3",
@@ -176,7 +202,20 @@
             "src_ntb_living_goddess",
             "src_ntb_indra_jatra",
             "src_onlinekhabar_taleju_2017"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-3-square.jpg",
+            "alt": "Kumari Ghar at Basantapur Durbar Square 2020.jpg",
+            "attribution": {
+              "author": "Janak Bhatta",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumari_Ghar_at_Basantapur_Durbar_Square_2020.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-4",
@@ -212,7 +251,20 @@
             "src_kvpt_home",
             "src_rising_nepal_kasthamandap_2016",
             "src_slusser_nepal_mandala_1982"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-4-square.jpg",
+            "alt": "Kasthamandap Kathmandu (2023).jpg",
+            "attribution": {
+              "author": "Chainwit.",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasthamandap_Kathmandu_(2023).jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-5",
@@ -248,7 +300,20 @@
             "src_kvpt_projects",
             "src_locke_buddhist_monasteries_1985",
             "src_tiwari_bahals_valley"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-5-square.jpg",
+            "alt": "Itum baha.jpg",
+            "attribution": {
+              "author": "Kamal Ratna Tuladhar",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itum_baha.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-6",
@@ -284,7 +349,20 @@
             "src_ntb_indra_jatra",
             "src_proksch_images_of_century_1995",
             "src_toffin_indra_jatra_1992"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-6-square.jpg",
+            "alt": "Aakash Bhairav Indrachowk Kathmandu Nepal Rajesh Dhungana.jpg",
+            "attribution": {
+              "author": "Rajesh Dhungana",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aakash_Bhairav_Indrachowk_Kathmandu_Nepal_Rajesh_Dhungana.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-7",
@@ -320,7 +398,20 @@
             "src_janabahaa_heritage_2009",
             "src_locke_buddhist_monasteries_1985",
             "src_ntb_indra_jatra"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-7-square.jpg",
+            "alt": "Seto Machindranath Temple Kathmandu, Nepal Rajesh Dhungana.jpg",
+            "attribution": {
+              "author": "Rajesh Dhungana",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seto_Machindranath_Temple_Kathmandu,_Nepal_Rajesh_Dhungana.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "kathmandu-durbar-asan-newar-city-8",
@@ -356,7 +447,20 @@
             "src_lewis_asan_1995",
             "src_locke_buddhist_monasteries_1985",
             "src_toffin_indra_jatra_1992"
-          ]
+          ],
+          "photo": {
+            "id": "kathmandu-durbar-asan-newar-city-stop-8",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-8-square.jpg",
+            "alt": "Asan Spice Market, Kathmandu, Nepal.jpg",
+            "attribution": {
+              "author": "Dr.Nishant Bhatt",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asan_Spice_Market,Kathmandu,Nepal.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         }
       ],
       "coverAssetId": "kathmandu-durbar-asan-newar-city-cover",
@@ -412,7 +516,20 @@
         "src_ntb_indra_jatra",
         "src_ecs_historys_house_2012",
         "src_slusser_nepal_mandala_1982"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-1-square.jpg",
+        "alt": "Basantapur Hanumandhoka Durbar Square Kathmandu Nepal Rajesh Dhungana (10).jpg",
+        "attribution": {
+          "author": "Rajesh Dhungana",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basantapur_Hanumandhoka_Durbar_Square_Kathmandu_Nepal_Rajesh_Dhungana_(10).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-2",
@@ -449,7 +566,20 @@
         "src_ntb_living_goddess",
         "src_ecs_taleju_2010",
         "src_onlinekhabar_taleju_2017"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-2-square.jpg",
+        "alt": "Taleju Temple View.jpg",
+        "attribution": {
+          "author": "Tamrakaralina",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taleju_Temple_View.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-3",
@@ -485,7 +615,20 @@
         "src_ntb_living_goddess",
         "src_ntb_indra_jatra",
         "src_onlinekhabar_taleju_2017"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-3-square.jpg",
+        "alt": "Kumari Ghar at Basantapur Durbar Square 2020.jpg",
+        "attribution": {
+          "author": "Janak Bhatta",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumari_Ghar_at_Basantapur_Durbar_Square_2020.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-4",
@@ -521,7 +664,20 @@
         "src_kvpt_home",
         "src_rising_nepal_kasthamandap_2016",
         "src_slusser_nepal_mandala_1982"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-4-square.jpg",
+        "alt": "Kasthamandap Kathmandu (2023).jpg",
+        "attribution": {
+          "author": "Chainwit.",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasthamandap_Kathmandu_(2023).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-5",
@@ -557,7 +713,20 @@
         "src_kvpt_projects",
         "src_locke_buddhist_monasteries_1985",
         "src_tiwari_bahals_valley"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-5-square.jpg",
+        "alt": "Itum baha.jpg",
+        "attribution": {
+          "author": "Kamal Ratna Tuladhar",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itum_baha.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-6",
@@ -593,7 +762,20 @@
         "src_ntb_indra_jatra",
         "src_proksch_images_of_century_1995",
         "src_toffin_indra_jatra_1992"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-6-square.jpg",
+        "alt": "Aakash Bhairav Indrachowk Kathmandu Nepal Rajesh Dhungana.jpg",
+        "attribution": {
+          "author": "Rajesh Dhungana",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aakash_Bhairav_Indrachowk_Kathmandu_Nepal_Rajesh_Dhungana.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-7",
@@ -629,7 +811,20 @@
         "src_janabahaa_heritage_2009",
         "src_locke_buddhist_monasteries_1985",
         "src_ntb_indra_jatra"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-7-square.jpg",
+        "alt": "Seto Machindranath Temple Kathmandu, Nepal Rajesh Dhungana.jpg",
+        "attribution": {
+          "author": "Rajesh Dhungana",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seto_Machindranath_Temple_Kathmandu,_Nepal_Rajesh_Dhungana.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "kathmandu-durbar-asan-newar-city-8",
@@ -665,8 +860,21 @@
         "src_lewis_asan_1995",
         "src_locke_buddhist_monasteries_1985",
         "src_toffin_indra_jatra_1992"
-      ]
+      ],
+      "photo": {
+        "id": "kathmandu-durbar-asan-newar-city-stop-8",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-durbar-asan-newar-city-stop-8-square.jpg",
+        "alt": "Asan Spice Market, Kathmandu, Nepal.jpg",
+        "attribution": {
+          "author": "Dr.Nishant Bhatt",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asan_Spice_Market,Kathmandu,Nepal.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     }
   ],
-  "packHash": "100b4984d344"
+  "packHash": "6ead4feec9e8"
 }

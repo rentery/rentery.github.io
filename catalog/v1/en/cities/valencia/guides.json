@@ -323,6 +323,19 @@
         "hours": {
           "rules": [],
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+        },
+        "photo": {
+          "id": "valencia-old-town-silk-power-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-7-square.jpg",
+          "alt": "Iglesia de los Santos Juanes exterior in Valencia.",
+          "attribution": {
+            "author": "Juan Mayordomo",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_los_Santos_Juanes_en_Valencia.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         }
       }
     ],

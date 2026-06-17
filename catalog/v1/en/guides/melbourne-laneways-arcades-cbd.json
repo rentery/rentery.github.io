@@ -72,7 +72,20 @@
       "photoAssetId": "melbourne-laneways-arcades-cbd-stop-1",
       "sourceIds": [
         "src-fedsquare-official"
-      ]
+      ],
+      "photo": {
+        "id": "melbourne-laneways-arcades-cbd-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-square.jpg",
+        "alt": "Fed Square, Melbourne, north view 20230219 1.jpg",
+        "attribution": {
+          "author": "DXR",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFed_Square%2C_Melbourne%2C_north_view_20230219_1.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "melbourne-laneways-arcades-cbd-2",
@@ -111,7 +124,20 @@
         "src-visit-flinderslane",
         "src-timeout-street-art-2024",
         "src-guardian-street-art-2025"
-      ]
+      ],
+      "photo": {
+        "id": "melbourne-laneways-arcades-cbd-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-square.jpg",
+        "alt": "Hanging shoes detail in Hosier Lane, Melbourne.",
+        "attribution": {
+          "author": "SuperJew",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanging_Shoes_in_Hosier_Lane.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "melbourne-laneways-arcades-cbd-3",
@@ -201,7 +227,20 @@
       "sourceIds": [
         "src-visit-flinderslane",
         "src-timeout-street-art-2024"
-      ]
+      ],
+      "photo": {
+        "id": "melbourne-laneways-arcades-cbd-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-square.jpg",
+        "alt": "Melbourne Centre Place.jpg",
+        "attribution": {
+          "author": "Vincent Quach ( User:Invincible )",
+          "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMelbourne_Centre_Place.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "melbourne-laneways-arcades-cbd-5",
@@ -290,7 +329,20 @@
       "sourceIds": [
         "src-royal-official",
         "src-royal-history"
-      ]
+      ],
+      "photo": {
+        "id": "melbourne-laneways-arcades-cbd-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-square.jpg",
+        "alt": "Royal Arcade, Melbourne, Australia - April 2004.jpg",
+        "attribution": {
+          "author": "Diliff",
+          "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Arcade%2C_Melbourne%2C_Australia_-_April_2004.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     }
   ],
   "coverAssetId": "melbourne-laneways-arcades-cbd-cover",

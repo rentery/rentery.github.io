@@ -353,6 +353,19 @@
           "hours": {
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "warsaw-old-town-royal-route-rebuilt-city-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/warsaw/warsaw-old-town-royal-route-rebuilt-city-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/warsaw/warsaw-old-town-royal-route-rebuilt-city-stop-7-square.jpg",
+            "alt": "Main Gate, University of Warsaw Main Campus, Warsaw, Poland, 2019, 03.jpg",
+            "attribution": {
+              "author": "Kgbo",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMain_Gate%2C_University_of_Warsaw_Main_Campus%2C_Warsaw%2C_Poland%2C_2019%2C_03.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           }
         },
         {
@@ -701,6 +714,19 @@
       "hours": {
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "warsaw-old-town-royal-route-rebuilt-city-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/warsaw/warsaw-old-town-royal-route-rebuilt-city-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/warsaw/warsaw-old-town-royal-route-rebuilt-city-stop-7-square.jpg",
+        "alt": "Main Gate, University of Warsaw Main Campus, Warsaw, Poland, 2019, 03.jpg",
+        "attribution": {
+          "author": "Kgbo",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMain_Gate%2C_University_of_Warsaw_Main_Campus%2C_Warsaw%2C_Poland%2C_2019%2C_03.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       }
     },
     {
@@ -747,5 +773,5 @@
       }
     }
   ],
-  "packHash": "c56a3804e357"
+  "packHash": "37266dc08327"
 }

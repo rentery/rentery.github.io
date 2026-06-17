@@ -335,7 +335,20 @@
             ],
             "sourceNote": "Проверено по UNESCO и открытым картам; дата проверки 2026-06-15."
           },
-          "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-6"
+          "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-6",
+          "photo": {
+            "id": "marrakesh-jemaa-koutoubia-souks-stage-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-6-square.jpg",
+            "alt": "Rahba Kedima in Marrakech, 20250125 1333 7257.jpg",
+            "attribution": {
+              "author": "Jakub Hałun",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARahba_Kedima_in_Marrakech%2C_20250125_1333_7257.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         },
         {
           "id": "marrakesh-jemaa-koutoubia-souks-stage-7",
@@ -416,7 +429,20 @@
             ],
             "sourceNote": "Проверено по UNESCO, официальной странице Musée de Mouassine и открытым картам; дата проверки 2026-06-15."
           },
-          "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-8"
+          "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-8",
+          "photo": {
+            "id": "marrakesh-jemaa-koutoubia-souks-stage-stop-8",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-8-square.jpg",
+            "alt": "Fontaine Mouassine à Marrakech.jpg",
+            "attribution": {
+              "author": "Oumaima Loudini",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFontaine_Mouassine_%C3%A0_Marrakech.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          }
         }
       ],
       "coverAssetId": "marrakesh-jemaa-koutoubia-souks-stage-cover",
@@ -703,7 +729,20 @@
         ],
         "sourceNote": "Проверено по UNESCO и открытым картам; дата проверки 2026-06-15."
       },
-      "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-6"
+      "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-6",
+      "photo": {
+        "id": "marrakesh-jemaa-koutoubia-souks-stage-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-6-square.jpg",
+        "alt": "Rahba Kedima in Marrakech, 20250125 1333 7257.jpg",
+        "attribution": {
+          "author": "Jakub Hałun",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARahba_Kedima_in_Marrakech%2C_20250125_1333_7257.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     },
     {
       "id": "marrakesh-jemaa-koutoubia-souks-stage-7",
@@ -784,8 +823,21 @@
         ],
         "sourceNote": "Проверено по UNESCO, официальной странице Musée de Mouassine и открытым картам; дата проверки 2026-06-15."
       },
-      "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-8"
+      "photoAssetId": "marrakesh-jemaa-koutoubia-souks-stage-stop-8",
+      "photo": {
+        "id": "marrakesh-jemaa-koutoubia-souks-stage-stop-8",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-jemaa-koutoubia-souks-stage-stop-8-square.jpg",
+        "alt": "Fontaine Mouassine à Marrakech.jpg",
+        "attribution": {
+          "author": "Oumaima Loudini",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFontaine_Mouassine_%C3%A0_Marrakech.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      }
     }
   ],
-  "packHash": "dbc55652c226"
+  "packHash": "8f7a07241938"
 }
