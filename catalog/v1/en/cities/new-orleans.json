@@ -1,11 +1,13 @@
 {
   "id": "new-orleans",
   "slug": "new-orleans",
-  "title": "New Orleans",
-  "subtitle": "New Orleans · 5 walks coming soon",
-  "meta": "United States · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Новый Орлеан",
+  "subtitle": "Новый Орлеан · 1 маршрут · 4 скоро",
+  "meta": "США · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "new-orleans-french-quarter-mississippi-layers"
+  ],
   "countryId": "united-states",
   "photo": {
     "id": "new-orleans-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Новый Орлеан"
+  },
+  "identity": {
+    "accent": "#33A396",
+    "soft": "#E3F2F1",
+    "deep": "#23766C",
+    "ink": "#22625B",
+    "glyph": "НОВ",
+    "hook": "Французский квартал и Миссисипи: город",
+    "motif": "axis"
   }
 }

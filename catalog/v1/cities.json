@@ -35,10 +35,12 @@
     "id": "seoul",
     "slug": "seoul",
     "title": "Сеул",
-    "subtitle": "Seoul · 서울 · 5 прогулок скоро",
+    "subtitle": "Seoul · 서울 · 1 маршрут · 4 скоро",
     "meta": "Республика Корея · дворцы, холмы, рынки, музеи и Ханган",
     "practicalNote": "Гид по городу обновляется: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
+    "guideIds": [
+      "seoul-gwanghwamun-bukchon-jongno-layers"
+    ],
     "coordinates": {
       "latitude": 37.566,
       "longitude": 126.9784
@@ -1099,6 +1101,482 @@
     }
   },
   {
+    "id": "havana",
+    "slug": "havana",
+    "title": "Гавана",
+    "subtitle": "Гавана · 1 маршрут · 4 скоро",
+    "meta": "Куба · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "havana-old-havana-plazas-port"
+    ],
+    "countryId": "cuba",
+    "photo": {
+      "id": "havana-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Гавана"
+    },
+    "identity": {
+      "accent": "#5E33A3",
+      "soft": "#E9E3F2",
+      "deep": "#432376",
+      "ink": "#3B2262",
+      "glyph": "ГАВ",
+      "hook": "Старая Гавана: пять площадей и портовый",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "mexico-city",
+    "slug": "mexico-city",
+    "title": "Мехико",
+    "subtitle": "Мехико · 1 маршрут · 4 скоро",
+    "meta": "Мексика · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "mexico-city-centro-tenochtitlan-layers"
+    ],
+    "countryId": "mexico",
+    "photo": {
+      "id": "mexico-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мехико"
+    },
+    "identity": {
+      "accent": "#334CA3",
+      "soft": "#E3E6F2",
+      "deep": "#233576",
+      "ink": "#223062",
+      "glyph": "МЕХ",
+      "hook": "Центр: Теночтитлан под столицей",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "montreal",
+    "slug": "montreal",
+    "title": "Монреаль",
+    "subtitle": "Монреаль · 1 маршрут · 4 скоро",
+    "meta": "Канада · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "montreal-old-montreal-port-foundation"
+    ],
+    "countryId": "canada",
+    "photo": {
+      "id": "montreal-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Монреаль"
+    },
+    "identity": {
+      "accent": "#90A333",
+      "soft": "#F0F2E3",
+      "deep": "#687623",
+      "ink": "#586222",
+      "glyph": "МОН",
+      "hook": "Старый Монреаль: город у реки и форта",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "new-orleans",
+    "slug": "new-orleans",
+    "title": "Новый Орлеан",
+    "subtitle": "Новый Орлеан · 1 маршрут · 4 скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "new-orleans-french-quarter-mississippi-layers"
+    ],
+    "countryId": "united-states",
+    "photo": {
+      "id": "new-orleans-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Новый Орлеан"
+    },
+    "identity": {
+      "accent": "#33A396",
+      "soft": "#E3F2F1",
+      "deep": "#23766C",
+      "ink": "#22625B",
+      "glyph": "НОВ",
+      "hook": "Французский квартал и Миссисипи: город",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "new-york",
+    "slug": "new-york",
+    "title": "Нью-Йорк",
+    "subtitle": "Нью-Йорк · 1 маршрут · 4 скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "new-york-lower-manhattan-harbor-power"
+    ],
+    "countryId": "united-states",
+    "photo": {
+      "id": "new-york-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Нью-Йорк"
+    },
+    "identity": {
+      "accent": "#A34A33",
+      "soft": "#F2E6E3",
+      "deep": "#763423",
+      "ink": "#622F22",
+      "glyph": "НЬЮ",
+      "hook": "Нижний Манхэттен: город у гавани и",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "oaxaca",
+    "slug": "oaxaca",
+    "title": "Оахака",
+    "subtitle": "Оахака · 1 маршрут · 4 скоро",
+    "meta": "Мексика · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "oaxaca-zocalo-santo-domingo-layers"
+    ],
+    "countryId": "mexico",
+    "photo": {
+      "id": "oaxaca-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Оахака"
+    },
+    "identity": {
+      "accent": "#7CA333",
+      "soft": "#EDF2E3",
+      "deep": "#597623",
+      "ink": "#4C6222",
+      "glyph": "ОАХ",
+      "hook": "От Сокало к Санто-Доминго: Оахака",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "osaka",
+    "slug": "osaka",
+    "title": "Осака",
+    "subtitle": "Осака · 1 маршрут · 4 скоро",
+    "meta": "Япония · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "osaka-castle-nakanoshima-water-power"
+    ],
+    "countryId": "japan",
+    "photo": {
+      "id": "osaka-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Осака"
+    },
+    "identity": {
+      "accent": "#4CA333",
+      "soft": "#E6F2E3",
+      "deep": "#357623",
+      "ink": "#306222",
+      "glyph": "ОСА",
+      "hook": "Осака-дзё и Нака-но-сима: город у воды",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "oslo",
+    "slug": "oslo",
+    "title": "Осло",
+    "subtitle": "Осло · 1 маршрут · 4 скоро",
+    "meta": "Норвегия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "oslo-akershus-bjorvika-fjord-layers"
+    ],
+    "countryId": "norway",
+    "photo": {
+      "id": "oslo-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Осло"
+    },
+    "identity": {
+      "accent": "#A39A33",
+      "soft": "#F2F1E3",
+      "deep": "#766F23",
+      "ink": "#625D22",
+      "glyph": "ОСЛ",
+      "hook": "Акерхус и Бьёрвика: Осло выходит к",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "philadelphia",
+    "slug": "philadelphia",
+    "title": "Филадельфия",
+    "subtitle": "Филадельфия · 1 маршрут · 4 скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "philadelphia-independence-old-city-republic"
+    ],
+    "countryId": "united-states",
+    "photo": {
+      "id": "philadelphia-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Филадельфия"
+    },
+    "identity": {
+      "accent": "#8733A3",
+      "soft": "#EEE3F2",
+      "deep": "#612376",
+      "ink": "#522262",
+      "glyph": "ФИЛ",
+      "hook": "Старый город независимости: республика",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "porto",
+    "slug": "porto",
+    "title": "Порту",
+    "subtitle": "Порту · 1 маршрут · 4 скоро",
+    "meta": "Португалия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "porto-se-ribeira-layers"
+    ],
+    "countryId": "portugal",
+    "photo": {
+      "id": "porto-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/porto/porto-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/porto/porto-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Порту"
+    },
+    "identity": {
+      "accent": "#9833A3",
+      "soft": "#F1E3F2",
+      "deep": "#6E2376",
+      "ink": "#5C2262",
+      "glyph": "ПОР",
+      "hook": "Се и Рибейра: Порту сверху вниз",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "prague",
+    "slug": "prague",
+    "title": "Прага",
+    "subtitle": "Прага · 1 маршрут · 4 скоро",
+    "meta": "Чехия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "prague-royal-route-castle-layers"
+    ],
+    "countryId": "czechia",
+    "photo": {
+      "id": "prague-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/prague/prague-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/prague/prague-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Прага"
+    },
+    "identity": {
+      "accent": "#3351A3",
+      "soft": "#E3E7F2",
+      "deep": "#233976",
+      "ink": "#223362",
+      "glyph": "ПРА",
+      "hook": "Королевский путь: от Пороховой башни к",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "quebec-city",
+    "slug": "quebec-city",
+    "title": "Квебек",
+    "subtitle": "Квебек · 1 маршрут · 4 скоро",
+    "meta": "Канада · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "quebec-city-old-quebec-cliff-river"
+    ],
+    "countryId": "canada",
+    "photo": {
+      "id": "quebec-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Квебек"
+    },
+    "identity": {
+      "accent": "#A3334F",
+      "soft": "#F2E3E7",
+      "deep": "#762338",
+      "ink": "#622232",
+      "glyph": "КВЕ",
+      "hook": "Старый Квебек: город на скале и у реки",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "riga",
+    "slug": "riga",
+    "title": "Рига",
+    "subtitle": "Рига · 1 маршрут · 4 скоро",
+    "meta": "Латвия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "riga-old-town-hanseatic-layers"
+    ],
+    "countryId": "latvia",
+    "photo": {
+      "id": "riga-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/riga/riga-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/riga/riga-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рига"
+    },
+    "identity": {
+      "accent": "#6DA333",
+      "soft": "#EBF2E3",
+      "deep": "#4E7623",
+      "ink": "#436222",
+      "glyph": "РИГ",
+      "hook": "Старая Рига: город купцов между стеной",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "rio-de-janeiro",
+    "slug": "rio-de-janeiro",
+    "title": "Рио-де-Жанейро",
+    "subtitle": "Рио-де-Жанейро · 1 маршрут · 4 скоро",
+    "meta": "Бразилия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "rio-de-janeiro-centro-imperial-republica"
+    ],
+    "countryId": "brazil",
+    "photo": {
+      "id": "rio-de-janeiro-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
+    },
+    "identity": {
+      "accent": "#3340A3",
+      "soft": "#E3E5F2",
+      "deep": "#232D76",
+      "ink": "#222A62",
+      "glyph": "РИО",
+      "hook": "Центр: империя, республика и городские",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "san-francisco",
+    "slug": "san-francisco",
+    "title": "Сан-Франциско",
+    "subtitle": "Сан-Франциско · 1 маршрут · 4 скоро",
+    "meta": "США · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "san-francisco-bay-hill-chinatown-layers"
+    ],
+    "countryId": "united-states",
+    "photo": {
+      "id": "san-francisco-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сан-Франциско"
+    },
+    "identity": {
+      "accent": "#6633A3",
+      "soft": "#EAE3F2",
+      "deep": "#482376",
+      "ink": "#3F2262",
+      "glyph": "САН",
+      "hook": "Залив, холм и Чайнатаун: Сан-Франциско",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "santiago-chile",
+    "slug": "santiago-chile",
+    "title": "Сантьяго",
+    "subtitle": "Сантьяго · 1 маршрут · 4 скоро",
+    "meta": "Чили · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "santiago-chile-plaza-armas-la-moneda-republic"
+    ],
+    "countryId": "chile",
+    "photo": {
+      "id": "santiago-chile-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Сантьяго"
+    },
+    "identity": {
+      "accent": "#3359A3",
+      "soft": "#E3E8F2",
+      "deep": "#233F76",
+      "ink": "#223862",
+      "glyph": "САН",
+      "hook": "Пласа-де-Армас и Ла-Монеда: город как",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "seville",
+    "slug": "seville",
+    "title": "Севилья",
+    "subtitle": "Севилья · 1 маршрут · 4 скоро",
+    "meta": "Испания · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "seville-triunfo-alcazar-cathedral-indies"
+    ],
+    "countryId": "spain",
+    "photo": {
+      "id": "seville-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/seville/seville-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/seville/seville-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Севилья"
+    },
+    "identity": {
+      "accent": "#8DA333",
+      "soft": "#EFF2E3",
+      "deep": "#657623",
+      "ink": "#556222",
+      "glyph": "СЕВ",
+      "hook": "Триумф, Алькасар и Индии: Севилья как",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "hanoi",
     "slug": "hanoi",
     "title": "Ханой",
@@ -1113,23 +1591,6 @@
       "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Ханой"
-    }
-  },
-  {
-    "id": "havana",
-    "slug": "havana",
-    "title": "Гавана",
-    "subtitle": "Havana · 5 прогулок скоро",
-    "meta": "Куба · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "cuba",
-    "photo": {
-      "id": "havana-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Гавана"
     }
   },
   {
@@ -1456,23 +1917,6 @@
     }
   },
   {
-    "id": "mexico-city",
-    "slug": "mexico-city",
-    "title": "Мехико",
-    "subtitle": "Mexico City · 5 прогулок скоро",
-    "meta": "Мексика · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "mexico",
-    "photo": {
-      "id": "mexico-city-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Мехико"
-    }
-  },
-  {
     "id": "milan",
     "slug": "milan",
     "title": "Милан",
@@ -1487,23 +1931,6 @@
       "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Милан"
-    }
-  },
-  {
-    "id": "montreal",
-    "slug": "montreal",
-    "title": "Монреаль",
-    "subtitle": "Montreal · 5 прогулок скоро",
-    "meta": "Канада · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "canada",
-    "photo": {
-      "id": "montreal-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Монреаль"
     }
   },
   {
@@ -1558,91 +1985,6 @@
     }
   },
   {
-    "id": "new-orleans",
-    "slug": "new-orleans",
-    "title": "Новый Орлеан",
-    "subtitle": "New Orleans · 5 прогулок скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "united-states",
-    "photo": {
-      "id": "new-orleans-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Новый Орлеан"
-    }
-  },
-  {
-    "id": "new-york",
-    "slug": "new-york",
-    "title": "Нью-Йорк",
-    "subtitle": "New York · 5 прогулок скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "united-states",
-    "photo": {
-      "id": "new-york-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Нью-Йорк"
-    }
-  },
-  {
-    "id": "oaxaca",
-    "slug": "oaxaca",
-    "title": "Оахака",
-    "subtitle": "Oaxaca · 5 прогулок скоро",
-    "meta": "Мексика · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "mexico",
-    "photo": {
-      "id": "oaxaca-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Оахака"
-    }
-  },
-  {
-    "id": "osaka",
-    "slug": "osaka",
-    "title": "Осака",
-    "subtitle": "Osaka · 5 прогулок скоро",
-    "meta": "Япония · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "japan",
-    "photo": {
-      "id": "osaka-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Осака"
-    }
-  },
-  {
-    "id": "oslo",
-    "slug": "oslo",
-    "title": "Осло",
-    "subtitle": "Oslo · 5 прогулок скоро",
-    "meta": "Норвегия · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "norway",
-    "photo": {
-      "id": "oslo-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Осло"
-    }
-  },
-  {
     "id": "paris",
     "slug": "paris",
     "title": "Париж",
@@ -1660,74 +2002,6 @@
     }
   },
   {
-    "id": "philadelphia",
-    "slug": "philadelphia",
-    "title": "Филадельфия",
-    "subtitle": "Philadelphia · 5 прогулок скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "united-states",
-    "photo": {
-      "id": "philadelphia-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Филадельфия"
-    }
-  },
-  {
-    "id": "porto",
-    "slug": "porto",
-    "title": "Порту",
-    "subtitle": "Porto · 5 прогулок скоро",
-    "meta": "Португалия · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "portugal",
-    "photo": {
-      "id": "porto-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/porto/porto-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/porto/porto-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Порту"
-    }
-  },
-  {
-    "id": "prague",
-    "slug": "prague",
-    "title": "Прага",
-    "subtitle": "Prague · 5 прогулок скоро",
-    "meta": "Чехия · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "czechia",
-    "photo": {
-      "id": "prague-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/prague/prague-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/prague/prague-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Прага"
-    }
-  },
-  {
-    "id": "quebec-city",
-    "slug": "quebec-city",
-    "title": "Квебек",
-    "subtitle": "Québec City · 5 прогулок скоро",
-    "meta": "Канада · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "canada",
-    "photo": {
-      "id": "quebec-city-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Квебек"
-    }
-  },
-  {
     "id": "quito",
     "slug": "quito",
     "title": "Кито",
@@ -1742,40 +2016,6 @@
       "wide": "https://rentery.github.io/images/v1/quito/quito-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/quito/quito-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Кито"
-    }
-  },
-  {
-    "id": "riga",
-    "slug": "riga",
-    "title": "Рига",
-    "subtitle": "Riga · 5 прогулок скоро",
-    "meta": "Латвия · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "latvia",
-    "photo": {
-      "id": "riga-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/riga/riga-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/riga/riga-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Рига"
-    }
-  },
-  {
-    "id": "rio-de-janeiro",
-    "slug": "rio-de-janeiro",
-    "title": "Рио-де-Жанейро",
-    "subtitle": "Rio de Janeiro · 5 прогулок скоро",
-    "meta": "Бразилия · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "brazil",
-    "photo": {
-      "id": "rio-de-janeiro-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
     }
   },
   {
@@ -1810,57 +2050,6 @@
       "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Зальцбург"
-    }
-  },
-  {
-    "id": "san-francisco",
-    "slug": "san-francisco",
-    "title": "Сан-Франциско",
-    "subtitle": "San Francisco · 5 прогулок скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "united-states",
-    "photo": {
-      "id": "san-francisco-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Сан-Франциско"
-    }
-  },
-  {
-    "id": "santiago-chile",
-    "slug": "santiago-chile",
-    "title": "Сантьяго",
-    "subtitle": "Santiago · 5 прогулок скоро",
-    "meta": "Чили · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "chile",
-    "photo": {
-      "id": "santiago-chile-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Сантьяго"
-    }
-  },
-  {
-    "id": "seville",
-    "slug": "seville",
-    "title": "Севилья",
-    "subtitle": "Seville · 5 прогулок скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-    "guideIds": [],
-    "countryId": "spain",
-    "photo": {
-      "id": "seville-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/seville/seville-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/seville/seville-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Севилья"
     }
   },
   {

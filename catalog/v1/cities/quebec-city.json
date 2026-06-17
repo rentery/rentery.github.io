@@ -2,10 +2,12 @@
   "id": "quebec-city",
   "slug": "quebec-city",
   "title": "Квебек",
-  "subtitle": "Québec City · 5 прогулок скоро",
+  "subtitle": "Квебек · 1 маршрут · 4 скоро",
   "meta": "Канада · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "quebec-city-old-quebec-cliff-river"
+  ],
   "countryId": "canada",
   "photo": {
     "id": "quebec-city-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Квебек"
+  },
+  "identity": {
+    "accent": "#A3334F",
+    "soft": "#F2E3E7",
+    "deep": "#762338",
+    "ink": "#622232",
+    "glyph": "КВЕ",
+    "hook": "Старый Квебек: город на скале и у реки",
+    "motif": "axis"
   }
 }

@@ -2,10 +2,12 @@
   "id": "rio-de-janeiro",
   "slug": "rio-de-janeiro",
   "title": "Рио-де-Жанейро",
-  "subtitle": "Rio de Janeiro · 5 прогулок скоро",
+  "subtitle": "Рио-де-Жанейро · 1 маршрут · 4 скоро",
   "meta": "Бразилия · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "rio-de-janeiro-centro-imperial-republica"
+  ],
   "countryId": "brazil",
   "photo": {
     "id": "rio-de-janeiro-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
+  },
+  "identity": {
+    "accent": "#3340A3",
+    "soft": "#E3E5F2",
+    "deep": "#232D76",
+    "ink": "#222A62",
+    "glyph": "РИО",
+    "hook": "Центр: империя, республика и городские",
+    "motif": "axis"
   }
 }

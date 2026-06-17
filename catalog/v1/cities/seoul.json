@@ -2,10 +2,12 @@
   "id": "seoul",
   "slug": "seoul",
   "title": "Сеул",
-  "subtitle": "Seoul · 서울 · 5 прогулок скоро",
+  "subtitle": "Seoul · 서울 · 1 маршрут · 4 скоро",
   "meta": "Республика Корея · дворцы, холмы, рынки, музеи и Ханган",
   "practicalNote": "Гид по городу обновляется: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "guideIds": [
+    "seoul-gwanghwamun-bukchon-jongno-layers"
+  ],
   "coordinates": {
     "latitude": 37.566,
     "longitude": 126.9784

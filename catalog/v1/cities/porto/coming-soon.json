@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Старый Порту раскрывается сверху вниз: собор, вокзал, башня, спуск к реке и мост.",
-    "cityId": "porto",
-    "dayTrip": false,
-    "id": "porto-se-ribeira-layers",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "Се, São Bento, Clérigos, Ribeira и мост Luís I.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От кафедральной высоты через вокзал и башню к реке Дору.",
-    "title": "Се и Рибейра: Порту сверху вниз",
-    "walkType": "classic"
-  },
-  {
     "blurb": "Гайя показывает Порту с другой стороны: мост, монастырь, склады вина и широкая река.",
     "cityId": "porto",
     "dayTrip": false,

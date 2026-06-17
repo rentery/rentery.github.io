@@ -1,11 +1,13 @@
 {
   "id": "havana",
   "slug": "havana",
-  "title": "Havana",
-  "subtitle": "Havana · 5 walks coming soon",
-  "meta": "Cuba · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Гавана",
+  "subtitle": "Гавана · 1 маршрут · 4 скоро",
+  "meta": "Куба · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "havana-old-havana-plazas-port"
+  ],
   "countryId": "cuba",
   "photo": {
     "id": "havana-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Гавана"
+  },
+  "identity": {
+    "accent": "#5E33A3",
+    "soft": "#E9E3F2",
+    "deep": "#432376",
+    "ink": "#3B2262",
+    "glyph": "ГАВ",
+    "hook": "Старая Гавана: пять площадей и портовый",
+    "motif": "axis"
   }
 }

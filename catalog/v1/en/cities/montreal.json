@@ -1,11 +1,13 @@
 {
   "id": "montreal",
   "slug": "montreal",
-  "title": "Montreal",
-  "subtitle": "Montreal · 5 walks coming soon",
-  "meta": "Canada · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Монреаль",
+  "subtitle": "Монреаль · 1 маршрут · 4 скоро",
+  "meta": "Канада · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "montreal-old-montreal-port-foundation"
+  ],
   "countryId": "canada",
   "photo": {
     "id": "montreal-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/montreal/montreal-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Монреаль"
+  },
+  "identity": {
+    "accent": "#90A333",
+    "soft": "#F0F2E3",
+    "deep": "#687623",
+    "ink": "#586222",
+    "glyph": "МОН",
+    "hook": "Старый Монреаль: город у реки и форта",
+    "motif": "axis"
   }
 }

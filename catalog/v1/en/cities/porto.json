@@ -1,11 +1,13 @@
 {
   "id": "porto",
   "slug": "porto",
-  "title": "Porto",
-  "subtitle": "Porto · 5 walks coming soon",
-  "meta": "Portugal · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Порту",
+  "subtitle": "Порту · 1 маршрут · 4 скоро",
+  "meta": "Португалия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "porto-se-ribeira-layers"
+  ],
   "countryId": "portugal",
   "photo": {
     "id": "porto-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/porto/porto-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/porto/porto-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Порту"
+  },
+  "identity": {
+    "accent": "#9833A3",
+    "soft": "#F1E3F2",
+    "deep": "#6E2376",
+    "ink": "#5C2262",
+    "glyph": "ПОР",
+    "hook": "Се и Рибейра: Порту сверху вниз",
+    "motif": "axis"
   }
 }

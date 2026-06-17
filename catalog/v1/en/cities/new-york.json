@@ -1,11 +1,13 @@
 {
   "id": "new-york",
   "slug": "new-york",
-  "title": "New York",
-  "subtitle": "New York · 5 walks coming soon",
-  "meta": "United States · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Нью-Йорк",
+  "subtitle": "Нью-Йорк · 1 маршрут · 4 скоро",
+  "meta": "США · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "new-york-lower-manhattan-harbor-power"
+  ],
   "countryId": "united-states",
   "photo": {
     "id": "new-york-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Нью-Йорк"
+  },
+  "identity": {
+    "accent": "#A34A33",
+    "soft": "#F2E6E3",
+    "deep": "#763423",
+    "ink": "#622F22",
+    "glyph": "НЬЮ",
+    "hook": "Нижний Манхэттен: город у гавани и",
+    "motif": "axis"
   }
 }

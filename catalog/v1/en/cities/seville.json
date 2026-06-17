@@ -1,11 +1,13 @@
 {
   "id": "seville",
   "slug": "seville",
-  "title": "Seville",
-  "subtitle": "Seville · 5 walks coming soon",
-  "meta": "Spain · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Севилья",
+  "subtitle": "Севилья · 1 маршрут · 4 скоро",
+  "meta": "Испания · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "seville-triunfo-alcazar-cathedral-indies"
+  ],
   "countryId": "spain",
   "photo": {
     "id": "seville-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/seville/seville-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/seville/seville-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Севилья"
+  },
+  "identity": {
+    "accent": "#8DA333",
+    "soft": "#EFF2E3",
+    "deep": "#657623",
+    "ink": "#556222",
+    "glyph": "СЕВ",
+    "hook": "Триумф, Алькасар и Индии: Севилья как",
+    "motif": "axis"
   }
 }

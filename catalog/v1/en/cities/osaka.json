@@ -1,11 +1,13 @@
 {
   "id": "osaka",
   "slug": "osaka",
-  "title": "Osaka",
-  "subtitle": "Osaka · 5 walks coming soon",
-  "meta": "Japan · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Осака",
+  "subtitle": "Осака · 1 маршрут · 4 скоро",
+  "meta": "Япония · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "osaka-castle-nakanoshima-water-power"
+  ],
   "countryId": "japan",
   "photo": {
     "id": "osaka-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/osaka/osaka-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Осака"
+  },
+  "identity": {
+    "accent": "#4CA333",
+    "soft": "#E6F2E3",
+    "deep": "#357623",
+    "ink": "#306222",
+    "glyph": "ОСА",
+    "hook": "Осака-дзё и Нака-но-сима: город у воды",
+    "motif": "axis"
   }
 }

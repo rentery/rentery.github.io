@@ -2,10 +2,12 @@
   "id": "mexico-city",
   "slug": "mexico-city",
   "title": "Мехико",
-  "subtitle": "Mexico City · 5 прогулок скоро",
+  "subtitle": "Мехико · 1 маршрут · 4 скоро",
   "meta": "Мексика · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "mexico-city-centro-tenochtitlan-layers"
+  ],
   "countryId": "mexico",
   "photo": {
     "id": "mexico-city-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/mexico-city/mexico-city-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Мехико"
+  },
+  "identity": {
+    "accent": "#334CA3",
+    "soft": "#E3E6F2",
+    "deep": "#233576",
+    "ink": "#223062",
+    "glyph": "МЕХ",
+    "hook": "Центр: Теночтитлан под столицей",
+    "motif": "axis"
   }
 }

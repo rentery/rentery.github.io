@@ -1,11 +1,13 @@
 {
   "id": "oaxaca",
   "slug": "oaxaca",
-  "title": "Oaxaca",
-  "subtitle": "Oaxaca · 5 walks coming soon",
-  "meta": "Mexico · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Оахака",
+  "subtitle": "Оахака · 1 маршрут · 4 скоро",
+  "meta": "Мексика · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "oaxaca-zocalo-santo-domingo-layers"
+  ],
   "countryId": "mexico",
   "photo": {
     "id": "oaxaca-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/oaxaca/oaxaca-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Оахака"
+  },
+  "identity": {
+    "accent": "#7CA333",
+    "soft": "#EDF2E3",
+    "deep": "#597623",
+    "ink": "#4C6222",
+    "glyph": "ОАХ",
+    "hook": "От Сокало к Санто-Доминго: Оахака",
+    "motif": "axis"
   }
 }

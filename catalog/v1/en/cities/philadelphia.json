@@ -1,11 +1,13 @@
 {
   "id": "philadelphia",
   "slug": "philadelphia",
-  "title": "Philadelphia",
-  "subtitle": "Philadelphia · 5 walks coming soon",
-  "meta": "United States · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Филадельфия",
+  "subtitle": "Филадельфия · 1 маршрут · 4 скоро",
+  "meta": "США · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "philadelphia-independence-old-city-republic"
+  ],
   "countryId": "united-states",
   "photo": {
     "id": "philadelphia-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Филадельфия"
+  },
+  "identity": {
+    "accent": "#8733A3",
+    "soft": "#EEE3F2",
+    "deep": "#612376",
+    "ink": "#522262",
+    "glyph": "ФИЛ",
+    "hook": "Старый город независимости: республика",
+    "motif": "axis"
   }
 }

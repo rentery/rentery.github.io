@@ -5,7 +5,9 @@
   "subtitle": "Seoul · 서울 · 5 walks coming soon",
   "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
   "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "guideIds": [
+    "seoul-gwanghwamun-bukchon-jongno-layers"
+  ],
   "coordinates": {
     "latitude": 37.566,
     "longitude": 126.9784

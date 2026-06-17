@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Старый порт складывает Монреаль из камня, реки, соборов и следов первого французского поселения.",
-    "cityId": "montreal",
-    "dayTrip": false,
-    "id": "montreal-old-montreal-port-foundation",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "Старый Монреаль и Старый порт: Place d’Armes, rue Saint-Paul, Place Royale, набережные.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От места основания к портовым набережным, где город менял власть и язык.",
-    "title": "Старый Монреаль: город у реки и форта",
-    "walkType": "classic"
-  },
-  {
     "blurb": "Гора ведет к другому Монреалю: вид сверху, кампус, особняки и следы англоязычного капитала.",
     "cityId": "montreal",
     "dayTrip": false,
