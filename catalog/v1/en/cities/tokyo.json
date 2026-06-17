@@ -1,11 +1,13 @@
 {
   "id": "tokyo",
   "slug": "tokyo",
-  "title": "Tokyo",
-  "subtitle": "Tokyo · 5 walks coming soon",
-  "meta": "Japan · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Токио",
+  "subtitle": "Токио · 1 маршрут · 4 скоро",
+  "meta": "Япония · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "tokyo-asakusa-edo-river"
+  ],
   "countryId": "japan",
   "photo": {
     "id": "tokyo-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/tokyo/tokyo-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/tokyo/tokyo-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Токио"
+  },
+  "identity": {
+    "accent": "#A33373",
+    "soft": "#F2E3EC",
+    "deep": "#762352",
+    "ink": "#622247",
+    "glyph": "ТОК",
+    "hook": "Токио",
+    "motif": "axis"
   }
 }

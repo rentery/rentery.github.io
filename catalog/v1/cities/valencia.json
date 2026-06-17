@@ -2,10 +2,12 @@
   "id": "valencia",
   "slug": "valencia",
   "title": "Валенсия",
-  "subtitle": "Valencia · 5 прогулок скоро",
+  "subtitle": "Валенсия · 1 маршрут · 4 скоро",
   "meta": "Испания · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "valencia-old-town-silk-power"
+  ],
   "countryId": "spain",
   "photo": {
     "id": "valencia-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Валенсия"
+  },
+  "identity": {
+    "accent": "#6DA333",
+    "soft": "#EBF2E3",
+    "deep": "#4E7623",
+    "ink": "#436222",
+    "glyph": "ВАЛ",
+    "hook": "Валенсия",
+    "motif": "axis"
   }
 }

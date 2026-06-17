@@ -1,11 +1,13 @@
 {
   "id": "marseille",
   "slug": "marseille",
-  "title": "Marseille",
-  "subtitle": "Marseille · 5 walks coming soon",
-  "meta": "France · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Марсель",
+  "subtitle": "Марсель · 1 маршрут · 4 скоро",
+  "meta": "Франция · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "marseille-vieux-port-panier-mucem"
+  ],
   "countryId": "france",
   "photo": {
     "id": "marseille-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/marseille/marseille-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Марсель"
+  },
+  "identity": {
+    "accent": "#A36733",
+    "soft": "#F2EAE3",
+    "deep": "#764A23",
+    "ink": "#624022",
+    "glyph": "МАР",
+    "hook": "Марсель",
+    "motif": "axis"
   }
 }

@@ -1,11 +1,13 @@
 {
   "id": "wellington",
   "slug": "wellington",
-  "title": "Wellington",
-  "subtitle": "Wellington · 5 walks coming soon",
-  "meta": "New Zealand · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Веллингтон",
+  "subtitle": "Веллингтон · 1 маршрут · 4 скоро",
+  "meta": "Новая Зеландия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "wellington-waterfront-te-papa-harbour-city"
+  ],
   "countryId": "new-zealand",
   "photo": {
     "id": "wellington-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/wellington/wellington-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/wellington/wellington-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Веллингтон"
+  },
+  "identity": {
+    "accent": "#71A333",
+    "soft": "#EBF2E3",
+    "deep": "#517623",
+    "ink": "#456222",
+    "glyph": "ВЕЛ",
+    "hook": "Веллингтон",
+    "motif": "axis"
   }
 }

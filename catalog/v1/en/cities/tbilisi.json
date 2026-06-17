@@ -1,11 +1,13 @@
 {
   "id": "tbilisi",
   "slug": "tbilisi",
-  "title": "Tbilisi",
-  "subtitle": "Tbilisi · 5 walks coming soon",
-  "meta": "Georgia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Тбилиси",
+  "subtitle": "Тбилиси · 1 маршрут · 4 скоро",
+  "meta": "Грузия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "tbilisi-old-town-sulfur-narikala"
+  ],
   "countryId": "georgia",
   "photo": {
     "id": "tbilisi-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Тбилиси"
+  },
+  "identity": {
+    "accent": "#33A37A",
+    "soft": "#E3F2ED",
+    "deep": "#237658",
+    "ink": "#22624B",
+    "glyph": "ТБИ",
+    "hook": "Тбилиси",
+    "motif": "axis"
   }
 }

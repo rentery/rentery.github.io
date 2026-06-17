@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Лиммат собирает главный Цюрих: цеховые дома, башни, мосты и холм, где город помнит себя.",
-    "cityId": "zurich",
-    "dayTrip": false,
-    "id": "zurich-old-town-limmat-layers",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "Старый город по обе стороны Лиммата: Niederdorf, Grossmünster, Fraumünster, Lindenhof.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Два берега, цеховые дома, реформация и тихая власть центра.",
-    "title": "Старый город у Лиммата: Цюрих слоями",
-    "walkType": "classic"
-  },
-  {
     "blurb": "У озера Цюрих меняет темп: площадь, опера, набережные и парк постепенно открывают город воде.",
     "cityId": "zurich",
     "dayTrip": false,

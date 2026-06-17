@@ -1,11 +1,13 @@
 {
   "id": "taipei",
   "slug": "taipei",
-  "title": "Taipei",
-  "subtitle": "Taipei · 5 walks coming soon",
-  "meta": "Taiwan · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Тайбэй",
+  "subtitle": "Тайбэй · 1 маршрут · 4 скоро",
+  "meta": "Тайвань · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "taipei-mengjia-ximending-layers"
+  ],
   "countryId": "taiwan",
   "photo": {
     "id": "taipei-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Тайбэй"
+  },
+  "identity": {
+    "accent": "#60A333",
+    "soft": "#E9F2E3",
+    "deep": "#447623",
+    "ink": "#3C6222",
+    "glyph": "ТАЙ",
+    "hook": "Тайбэй",
+    "motif": "axis"
   }
 }

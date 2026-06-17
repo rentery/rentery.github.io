@@ -1,11 +1,13 @@
 {
   "id": "madrid",
   "slug": "madrid",
-  "title": "Madrid",
-  "subtitle": "Madrid · 5 walks coming soon",
-  "meta": "Spain · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Мадрид",
+  "subtitle": "Мадрид · 1 маршрут · 4 скоро",
+  "meta": "Испания · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "madrid-sol-mayor-palace-capital"
+  ],
   "countryId": "spain",
   "photo": {
     "id": "madrid-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Мадрид"
+  },
+  "identity": {
+    "accent": "#74A333",
+    "soft": "#ECF2E3",
+    "deep": "#537623",
+    "ink": "#486222",
+    "glyph": "МАД",
+    "hook": "Мадрид",
+    "motif": "axis"
   }
 }

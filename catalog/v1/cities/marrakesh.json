@@ -2,10 +2,12 @@
   "id": "marrakesh",
   "slug": "marrakesh",
   "title": "Марракеш",
-  "subtitle": "Marrakesh · 5 прогулок скоро",
+  "subtitle": "Марракеш · 1 маршрут · 4 скоро",
   "meta": "Марокко · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "marrakesh-jemaa-koutoubia-souks-stage"
+  ],
   "countryId": "morocco",
   "photo": {
     "id": "marrakesh-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/marrakesh/marrakesh-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/marrakesh/marrakesh-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Марракеш"
+  },
+  "identity": {
+    "accent": "#6733A3",
+    "soft": "#EAE3F2",
+    "deep": "#4A2376",
+    "ink": "#402262",
+    "glyph": "МАР",
+    "hook": "Марракеш",
+    "motif": "axis"
   }
 }

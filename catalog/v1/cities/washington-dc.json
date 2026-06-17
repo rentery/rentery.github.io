@@ -2,10 +2,12 @@
   "id": "washington-dc",
   "slug": "washington-dc",
   "title": "Вашингтон, округ Колумбия",
-  "subtitle": "Washington, DC · 5 прогулок скоро",
+  "subtitle": "Вашингтон, округ Колумбия · 1 маршрут · 4 скоро",
   "meta": "США · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "washington-dc-national-mall-memory-axis"
+  ],
   "countryId": "united-states",
   "photo": {
     "id": "washington-dc-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/washington-dc/washington-dc-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/washington-dc/washington-dc-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Вашингтон, округ Колумбия"
+  },
+  "identity": {
+    "accent": "#59A333",
+    "soft": "#E8F2E3",
+    "deep": "#3F7623",
+    "ink": "#386222",
+    "glyph": "ВАШ",
+    "hook": "Вашингтон, округ Колумбия",
+    "motif": "axis"
   }
 }

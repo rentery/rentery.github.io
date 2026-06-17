@@ -2,10 +2,12 @@
   "id": "kyoto",
   "slug": "kyoto",
   "title": "Киото",
-  "subtitle": "Kyoto · 5 прогулок скоро",
+  "subtitle": "Киото · 1 маршрут · 4 скоро",
   "meta": "Япония · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "kyoto-kiyomizu-gion-slope"
+  ],
   "countryId": "japan",
   "photo": {
     "id": "kyoto-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/kyoto/kyoto-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Киото"
+  },
+  "identity": {
+    "accent": "#333BA3",
+    "soft": "#E3E4F2",
+    "deep": "#232976",
+    "ink": "#222762",
+    "glyph": "КИО",
+    "hook": "Киото",
+    "motif": "axis"
   }
 }

@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Центр раскрывается в проходах: аркады, кофе, граффити и фасады, которые город прячет за главными улицами.",
-    "cityId": "melbourne",
-    "dayTrip": false,
-    "id": "melbourne-laneways-arcades-cbd",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "CBD: Federation Square, Flinders Lane, Degraves Street, Centre Place, Block Arcade и Royal Arcade.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Плотная прогулка по проходам центра, где кофе, витрины и стрит-арт прячутся за главными улицами.",
-    "title": "Лейнвейс и аркады: Мельбурн между фасадами",
-    "walkType": "classic"
-  },
-  {
     "blurb": "Берег Биррарунга собирает старшую историю места, новый центр, мосты и спортивный миф Мельбурна.",
     "cityId": "melbourne",
     "dayTrip": false,

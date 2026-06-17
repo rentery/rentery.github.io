@@ -1,11 +1,13 @@
 {
   "id": "tunis",
   "slug": "tunis",
-  "title": "Tunis",
-  "subtitle": "Tunis · 5 walks coming soon",
-  "meta": "Tunisia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Тунис",
+  "subtitle": "Тунис · 1 маршрут · 4 скоро",
+  "meta": "Тунис · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "tunis-medina-gates-souks-power"
+  ],
   "countryId": "tunisia",
   "photo": {
     "id": "tunis-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/tunis/tunis-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Тунис"
+  },
+  "identity": {
+    "accent": "#A35E33",
+    "soft": "#F2E9E3",
+    "deep": "#764323",
+    "ink": "#623B22",
+    "glyph": "ТУН",
+    "hook": "Тунис",
+    "motif": "axis"
   }
 }

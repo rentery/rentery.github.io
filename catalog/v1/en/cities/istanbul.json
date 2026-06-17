@@ -1,11 +1,13 @@
 {
   "id": "istanbul",
   "slug": "istanbul",
-  "title": "Istanbul",
-  "subtitle": "Istanbul · 5 walks coming soon",
-  "meta": "Turkey · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Стамбул",
+  "subtitle": "Стамбул · 1 маршрут · 4 скоро",
+  "meta": "Турция · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "istanbul-sultanahmet-imperial-layers"
+  ],
   "countryId": "turkey",
   "photo": {
     "id": "istanbul-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/istanbul/istanbul-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/istanbul/istanbul-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Стамбул"
+  },
+  "identity": {
+    "accent": "#7333A3",
+    "soft": "#ECE3F2",
+    "deep": "#522376",
+    "ink": "#472262",
+    "glyph": "СТА",
+    "hook": "Стамбул",
+    "motif": "axis"
   }
 }

@@ -1,11 +1,13 @@
 {
   "id": "vienna",
   "slug": "vienna",
-  "title": "Vienna",
-  "subtitle": "Vienna · 5 walks coming soon",
-  "meta": "Austria · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Вена",
+  "subtitle": "Вена · 1 маршрут · 4 скоро",
+  "meta": "Австрия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "vienna-stephansdom-hofburg-power-core"
+  ],
   "countryId": "austria",
   "photo": {
     "id": "vienna-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/vienna/vienna-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/vienna/vienna-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Вена"
+  },
+  "identity": {
+    "accent": "#8EA333",
+    "soft": "#F0F2E3",
+    "deep": "#677623",
+    "ink": "#566222",
+    "glyph": "ВЕН",
+    "hook": "Вена",
+    "motif": "axis"
   }
 }

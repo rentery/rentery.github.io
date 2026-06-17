@@ -1,11 +1,13 @@
 {
   "id": "kathmandu",
   "slug": "kathmandu",
-  "title": "Kathmandu",
-  "subtitle": "Kathmandu · 5 walks coming soon",
-  "meta": "Nepal · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Катманду",
+  "subtitle": "Катманду · 1 маршрут · 4 скоро",
+  "meta": "Непал · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "kathmandu-durbar-asan-newar-city"
+  ],
   "countryId": "nepal",
   "photo": {
     "id": "kathmandu-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Катманду"
+  },
+  "identity": {
+    "accent": "#A37133",
+    "soft": "#F2EBE3",
+    "deep": "#765123",
+    "ink": "#624522",
+    "glyph": "КАТ",
+    "hook": "Катманду",
+    "motif": "axis"
   }
 }

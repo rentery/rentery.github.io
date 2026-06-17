@@ -1,11 +1,13 @@
 {
   "id": "sydney",
   "slug": "sydney",
-  "title": "Sydney",
-  "subtitle": "Sydney · 5 walks coming soon",
-  "meta": "Australia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Сидней",
+  "subtitle": "Сидней · 1 маршрут · 4 скоро",
+  "meta": "Австралия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "sydney-harbour-rocks-sails"
+  ],
   "countryId": "australia",
   "photo": {
     "id": "sydney-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Сидней"
+  },
+  "identity": {
+    "accent": "#A33394",
+    "soft": "#F2E3F0",
+    "deep": "#76236B",
+    "ink": "#62225A",
+    "glyph": "СИД",
+    "hook": "Сидней",
+    "motif": "axis"
   }
 }

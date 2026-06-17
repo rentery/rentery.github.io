@@ -1,11 +1,13 @@
 {
   "id": "kuala-lumpur",
   "slug": "kuala-lumpur",
-  "title": "Kuala Lumpur",
-  "subtitle": "Kuala Lumpur · 5 walks coming soon",
-  "meta": "Malaysia · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Куала-Лумпур",
+  "subtitle": "Куала-Лумпур · 1 маршрут · 4 скоро",
+  "meta": "Малайзия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "kuala-lumpur-merdeka-river-of-life"
+  ],
   "countryId": "malaysia",
   "photo": {
     "id": "kuala-lumpur-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Куала-Лумпур"
+  },
+  "identity": {
+    "accent": "#A3336B",
+    "soft": "#F2E3EB",
+    "deep": "#76234D",
+    "ink": "#622242",
+    "glyph": "КУА",
+    "hook": "Куала-Лумпур",
+    "motif": "axis"
   }
 }

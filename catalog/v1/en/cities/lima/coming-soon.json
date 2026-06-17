@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Старый центр показывает Лиму как столицу империи: площади, монастыри, балконы и спорные символы власти.",
-    "cityId": "lima",
-    "dayTrip": false,
-    "id": "lima-centro-historico-power-layers",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "Исторический центр вокруг Пласа-Майор, Jirón de la Unión и Сан-Франсиско.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От Пласа-Майор к монастырям и улицам вице-королевской столицы.",
-    "title": "Центр Лимы: власть, вера и балконы",
-    "walkType": "classic"
-  },
-  {
     "blurb": "Miraflores держит Лиму между древней глиной, городским парком и длинным обрывом над Тихим океаном.",
     "cityId": "lima",
     "dayTrip": false,

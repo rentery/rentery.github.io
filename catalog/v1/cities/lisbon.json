@@ -2,10 +2,12 @@
   "id": "lisbon",
   "slug": "lisbon",
   "title": "Лиссабон",
-  "subtitle": "Lisbon · 5 прогулок скоро",
+  "subtitle": "Лиссабон · 1 маршрут · 4 скоро",
   "meta": "Португалия · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "lisbon-baixa-chiado-earthquake-city"
+  ],
   "countryId": "portugal",
   "photo": {
     "id": "lisbon-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/lisbon/lisbon-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Лиссабон"
+  },
+  "identity": {
+    "accent": "#334CA3",
+    "soft": "#E3E6F2",
+    "deep": "#233576",
+    "ink": "#223062",
+    "glyph": "ЛИС",
+    "hook": "Лиссабон",
+    "motif": "axis"
   }
 }

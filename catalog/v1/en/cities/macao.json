@@ -1,11 +1,13 @@
 {
   "id": "macao",
   "slug": "macao",
-  "title": "Macao",
-  "subtitle": "Macao · 5 walks coming soon",
-  "meta": "China · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Макао",
+  "subtitle": "Макао · 1 маршрут · 4 скоро",
+  "meta": "Китай · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "macao-barra-st-pauls-east-west-spine"
+  ],
   "countryId": "china",
   "photo": {
     "id": "macao-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/macao/macao-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/macao/macao-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Макао"
+  },
+  "identity": {
+    "accent": "#3366A3",
+    "soft": "#E3EAF2",
+    "deep": "#234876",
+    "ink": "#223F62",
+    "glyph": "МАК",
+    "hook": "Макао",
+    "motif": "axis"
   }
 }

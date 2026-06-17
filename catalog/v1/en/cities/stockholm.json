@@ -1,11 +1,13 @@
 {
   "id": "stockholm",
   "slug": "stockholm",
-  "title": "Stockholm",
-  "subtitle": "Stockholm · 5 walks coming soon",
-  "meta": "Sweden · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Стокгольм",
+  "subtitle": "Стокгольм · 1 маршрут · 4 скоро",
+  "meta": "Швеция · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "stockholm-gamla-stan-riddarholmen"
+  ],
   "countryId": "sweden",
   "photo": {
     "id": "stockholm-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/stockholm/stockholm-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Стокгольм"
+  },
+  "identity": {
+    "accent": "#3355A3",
+    "soft": "#E3E7F2",
+    "deep": "#233C76",
+    "ink": "#223662",
+    "glyph": "СТО",
+    "hook": "Стокгольм",
+    "motif": "axis"
   }
 }

@@ -1,11 +1,13 @@
 {
   "id": "lima",
   "slug": "lima",
-  "title": "Lima",
-  "subtitle": "Lima · 5 walks coming soon",
-  "meta": "Peru · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Лима",
+  "subtitle": "Лима · 1 маршрут · 4 скоро",
+  "meta": "Перу · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "lima-centro-historico-power-layers"
+  ],
   "countryId": "peru",
   "photo": {
     "id": "lima-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/lima/lima-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/lima/lima-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Лима"
+  },
+  "identity": {
+    "accent": "#6DA333",
+    "soft": "#EBF2E3",
+    "deep": "#4E7623",
+    "ink": "#436222",
+    "glyph": "ЛИМ",
+    "hook": "Лима",
+    "motif": "axis"
   }
 }

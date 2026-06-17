@@ -1,11 +1,13 @@
 {
   "id": "vancouver",
   "slug": "vancouver",
-  "title": "Vancouver",
-  "subtitle": "Vancouver · 5 walks coming soon",
-  "meta": "Canada · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Ванкувер",
+  "subtitle": "Ванкувер · 1 маршрут · 4 скоро",
+  "meta": "Канада · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "vancouver-stanley-park-seawall-layers"
+  ],
   "countryId": "canada",
   "photo": {
     "id": "vancouver-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/vancouver/vancouver-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/vancouver/vancouver-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Ванкувер"
+  },
+  "identity": {
+    "accent": "#A39633",
+    "soft": "#F2F1E3",
+    "deep": "#766C23",
+    "ink": "#625B22",
+    "glyph": "ВАН",
+    "hook": "Ванкувер",
+    "motif": "axis"
   }
 }

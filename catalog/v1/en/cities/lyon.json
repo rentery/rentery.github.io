@@ -1,11 +1,13 @@
 {
   "id": "lyon",
   "slug": "lyon",
-  "title": "Lyon",
-  "subtitle": "Lyon · 5 walks coming soon",
-  "meta": "France · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Лион",
+  "subtitle": "Лион · 1 маршрут · 4 скоро",
+  "meta": "Франция · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "lyon-fourviere-vieux-lyon-layers"
+  ],
   "countryId": "france",
   "photo": {
     "id": "lyon-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/lyon/lyon-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/lyon/lyon-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Лион"
+  },
+  "identity": {
+    "accent": "#A3A333",
+    "soft": "#F2F2E3",
+    "deep": "#767623",
+    "ink": "#626222",
+    "glyph": "ЛИО",
+    "hook": "Лион",
+    "motif": "axis"
   }
 }

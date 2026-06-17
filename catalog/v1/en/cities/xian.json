@@ -1,11 +1,13 @@
 {
   "id": "xian",
   "slug": "xian",
-  "title": "Xi'an",
-  "subtitle": "Xi'an · 5 walks coming soon",
-  "meta": "China · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Сиань",
+  "subtitle": "Сиань · 1 маршрут · 4 скоро",
+  "meta": "Китай · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "xian-city-wall-bell-drum"
+  ],
   "countryId": "china",
   "photo": {
     "id": "xian-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/xian/xian-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/xian/xian-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Сиань"
+  },
+  "identity": {
+    "accent": "#55A333",
+    "soft": "#E7F2E3",
+    "deep": "#3C7623",
+    "ink": "#366222",
+    "glyph": "СИА",
+    "hook": "Сиань",
+    "motif": "axis"
   }
 }

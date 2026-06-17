@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Лес, камни и линия воды покажут Ванкувер как город, который держится на кромке суши.",
-    "cityId": "vancouver",
-    "dayTrip": false,
-    "id": "vancouver-stanley-park-seawall-layers",
-    "launchWave": 1,
-    "priority": 1,
-    "roughArea": "Стэнли-парк: петля Сиволла от Coal Harbour через Brockton Point, Prospect Point и English Bay.",
-    "roughDuration": "3-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Береговая петля о природе, памяти и городских горизонтах.",
-    "title": "Стэнли-парк и Сиволл: город на кромке леса",
-    "walkType": "nature"
-  },
-  {
     "blurb": "Кирпич, рельсы и гавань собирают историю города, выросшего из порта и железной дороги.",
     "cityId": "vancouver",
     "dayTrip": false,

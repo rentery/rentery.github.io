@@ -1,11 +1,13 @@
 {
   "id": "shanghai",
   "slug": "shanghai",
-  "title": "Shanghai",
-  "subtitle": "Shanghai · 5 walks coming soon",
-  "meta": "China · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Шанхай",
+  "subtitle": "Шанхай · 1 маршрут · 4 скоро",
+  "meta": "Китай · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "shanghai-bund-nanjing-riverfront"
+  ],
   "countryId": "china",
   "photo": {
     "id": "shanghai-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/shanghai/shanghai-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/shanghai/shanghai-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Шанхай"
+  },
+  "identity": {
+    "accent": "#334CA3",
+    "soft": "#E3E6F2",
+    "deep": "#233576",
+    "ink": "#223062",
+    "glyph": "ШАН",
+    "hook": "Шанхай",
+    "motif": "axis"
   }
 }

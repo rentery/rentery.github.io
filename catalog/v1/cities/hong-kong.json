@@ -2,10 +2,12 @@
   "id": "hong-kong",
   "slug": "hong-kong",
   "title": "Гонконг",
-  "subtitle": "Hong Kong · 5 прогулок скоро",
+  "subtitle": "Гонконг · 1 маршрут · 4 скоро",
   "meta": "Китай · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "hong-kong-old-town-central-layers"
+  ],
   "countryId": "china",
   "photo": {
     "id": "hong-kong-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Гонконг"
+  },
+  "identity": {
+    "accent": "#335CA3",
+    "soft": "#E3E9F2",
+    "deep": "#234176",
+    "ink": "#223A62",
+    "glyph": "ГОН",
+    "hook": "Гонконг",
+    "motif": "axis"
   }
 }
