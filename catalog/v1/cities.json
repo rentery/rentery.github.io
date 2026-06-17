@@ -384,11 +384,12 @@
     "id": "granada",
     "slug": "granada",
     "title": "Гранада",
-    "subtitle": "Гранада · 1 маршрут · 4 скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гранада · 2 маршрута · 3 скоро",
+    "meta": "Испания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "granada-alhambra-generalife-power-water"
+      "granada-alhambra-generalife-power-water",
+      "granada-albaicin-darro-viewpoints"
     ],
     "countryId": "spain",
     "photo": {
@@ -412,11 +413,12 @@
     "id": "ghent",
     "slug": "ghent",
     "title": "Гент",
-    "subtitle": "Гент · 1 маршрут · 4 скоро",
-    "meta": "Бельгия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гент · 2 маршрута · 3 скоро",
+    "meta": "Бельгия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "ghent-three-towers-river-power"
+      "ghent-three-towers-river-power",
+      "ghent-gravensteen-patershol-power"
     ],
     "countryId": "belgium",
     "photo": {
@@ -469,11 +471,12 @@
     "id": "edinburgh",
     "slug": "edinburgh",
     "title": "Эдинбург",
-    "subtitle": "Эдинбург · 1 маршрут · 4 скоро",
-    "meta": "Великобритания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Эдинбург · 2 маршрута · 3 скоро",
+    "meta": "Великобритания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "edinburgh-royal-mile-power-and-closes"
+      "edinburgh-royal-mile-power-and-closes",
+      "edinburgh-new-town-enlightenment-grid"
     ],
     "countryId": "united-kingdom",
     "photo": {
@@ -696,11 +699,12 @@
     "id": "george-town-malaysia",
     "slug": "george-town-malaysia",
     "title": "Джорджтаун",
-    "subtitle": "George Town · 1 маршрут · 4 скоро",
+    "subtitle": "Джорджтаун · 2 маршрута · 3 скоро",
     "meta": "Малайзия · старый порт, форт, кланы и многообщинные улицы",
-    "practicalNote": "В Джорджтауне опубликован первый маршрут от колониального берега к клановым дворам; остальные прогулки проходят подготовку.",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "george-town-malaysia-fort-clans-port-layers"
+      "george-town-malaysia-fort-clans-port-layers",
+      "george-town-malaysia-clan-jetties-weld-quay"
     ],
     "countryId": "malaysia",
     "photo": {
@@ -1127,11 +1131,12 @@
     "id": "hanoi",
     "slug": "hanoi",
     "title": "Ханой",
-    "subtitle": "Ханой · 1 маршрут · 4 скоро",
-    "meta": "Вьетнам · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Ханой · 2 маршрута · 3 скоро",
+    "meta": "Вьетнам · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "hanoi-old-quarter-hoan-kiem-guilds"
+      "hanoi-old-quarter-hoan-kiem-guilds",
+      "hanoi-thang-long-ba-dinh-power"
     ],
     "countryId": "vietnam",
     "photo": {
@@ -1155,11 +1160,12 @@
     "id": "havana",
     "slug": "havana",
     "title": "Гавана",
-    "subtitle": "Гавана · 1 маршрут · 4 скоро",
-    "meta": "Куба · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гавана · 2 маршрута · 3 скоро",
+    "meta": "Куба · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "havana-old-havana-plazas-port"
+      "havana-old-havana-plazas-port",
+      "havana-morro-cabana-bay-fortresses"
     ],
     "countryId": "cuba",
     "photo": {

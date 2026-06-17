@@ -2,11 +2,12 @@
   "id": "havana",
   "slug": "havana",
   "title": "Гавана",
-  "subtitle": "Гавана · 1 маршрут · 4 скоро",
-  "meta": "Куба · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Гавана · 2 маршрута · 3 скоро",
+  "meta": "Куба · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "havana-old-havana-plazas-port"
+    "havana-old-havana-plazas-port",
+    "havana-morro-cabana-bay-fortresses"
   ],
   "countryId": "cuba",
   "photo": {
