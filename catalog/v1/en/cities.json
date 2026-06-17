@@ -2138,34 +2138,6 @@
     }
   },
   {
-    "id": "london",
-    "slug": "london",
-    "title": "Лондон",
-    "subtitle": "Лондон · 1 маршрут · 4 скоро",
-    "meta": "Великобритания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
-    "guideIds": [
-      "london-westminster-whitehall-power"
-    ],
-    "countryId": "united-kingdom",
-    "photo": {
-      "id": "london-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/london/london-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/london/london-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Лондон"
-    },
-    "identity": {
-      "accent": "#7EA333",
-      "soft": "#EDF2E3",
-      "deep": "#5A7623",
-      "ink": "#4D6222",
-      "glyph": "ЛОН",
-      "hook": "Лондон",
-      "motif": "axis"
-    }
-  },
-  {
     "id": "lyon",
     "slug": "lyon",
     "title": "Лион",
@@ -2880,6 +2852,23 @@
       "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Хошимин"
+    }
+  },
+  {
+    "id": "london",
+    "slug": "london",
+    "title": "London",
+    "subtitle": "London · 5 walks coming soon",
+    "meta": "United Kingdom · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [],
+    "countryId": "united-kingdom",
+    "photo": {
+      "id": "london-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/london/london-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/london/london-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Лондон"
     }
   },
   {
