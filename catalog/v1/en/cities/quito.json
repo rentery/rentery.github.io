@@ -1,11 +1,13 @@
 {
   "id": "quito",
   "slug": "quito",
-  "title": "Quito",
-  "subtitle": "Quito · 5 walks coming soon",
-  "meta": "Ecuador · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Кито",
+  "subtitle": "Кито · 1 маршрут · 4 скоро",
+  "meta": "Эквадор · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "quito-historic-center-barroco-la-ronda"
+  ],
   "countryId": "ecuador",
   "photo": {
     "id": "quito-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/quito/quito-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/quito/quito-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Кито"
+  },
+  "identity": {
+    "accent": "#A36233",
+    "soft": "#F2E8E3",
+    "deep": "#764623",
+    "ink": "#623B22",
+    "glyph": "КИТ",
+    "hook": "Власть, барокко и Ла Ронда",
+    "motif": "axis"
   }
 }
