@@ -100,6 +100,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "bogota-candelaria-gold-power-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-stop-1-square.jpg",
+            "alt": "Parque Santander",
+            "attribution": {
+              "author": "Felipe Restrepo Acosta",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santander_en_su_parque_en_Bogotá.JPG",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "bogota-candelaria-gold-power-1",
           "guideId": "bogota-candelaria-gold-power",
           "order": 1
@@ -405,6 +418,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bogota-candelaria-gold-power-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bogota/bogota-candelaria-gold-power-stop-1-square.jpg",
+        "alt": "Parque Santander",
+        "attribution": {
+          "author": "Felipe Restrepo Acosta",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santander_en_su_parque_en_Bogotá.JPG",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "bogota-candelaria-gold-power-1",
       "guideId": "bogota-candelaria-gold-power",
       "order": 1
@@ -683,5 +709,5 @@
       "order": 8
     }
   ],
-  "packHash": "8b2f79ffb016"
+  "packHash": "689a27d8345b"
 }

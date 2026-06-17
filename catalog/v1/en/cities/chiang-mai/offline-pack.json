@@ -105,6 +105,19 @@
             "summary": "Общественная площадь у ворот доступна в любое время; по воскресеньям с позднего дня и вечером место связано с Sunday Walking Street и резко меняет ритм.",
             "checkedAt": "2026-06-15"
           },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-square.jpg",
+            "alt": "Ворота Тха Пхэ",
+            "attribution": {
+              "author": "Hartmann Linge",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:201703291109a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "chiang-mai-old-city-lanna-moat-1",
           "guideId": "chiang-mai-old-city-lanna-moat",
           "order": 1
@@ -135,6 +148,19 @@
             "rules": [],
             "summary": "Открыто как часть городской улицы и набережной рва.",
             "checkedAt": "2026-06-15"
+          },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-square.jpg",
+            "alt": "Восточный ров",
+            "attribution": {
+              "author": "Christophe95",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moat_in_the_east_of_Chiang_Mai.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "chiang-mai-old-city-lanna-moat-2",
           "guideId": "chiang-mai-old-city-lanna-moat",
@@ -167,6 +193,19 @@
             "summary": "Открытая площадь доступна свободно; музеи и внутренние пространства вокруг неё живут по отдельному расписанию.",
             "checkedAt": "2026-06-15"
           },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-square.jpg",
+            "alt": "Площадь Трёх королей",
+            "attribution": {
+              "author": "Sry85",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_kings_monument.JPG",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "chiang-mai-old-city-lanna-moat-3",
           "guideId": "chiang-mai-old-city-lanna-moat",
           "order": 3
@@ -197,6 +236,19 @@
             "rules": [],
             "summary": "Лучше рассчитывать на дневной или ранневечерний доступ в храмовый комплекс; отдельные священные пространства могут закрываться на службы и локальные церемонии.",
             "checkedAt": "2026-06-15"
+          },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-square.jpg",
+            "alt": "Wat Chedi Luang",
+            "attribution": {
+              "author": "Jakub Hałun",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "chiang-mai-old-city-lanna-moat-4",
           "guideId": "chiang-mai-old-city-lanna-moat",
@@ -229,6 +281,19 @@
             "summary": "Лучше ориентироваться на дневной доступ к территории; доступ в тиковый viharn и интерьер может быть ограничен или меняться в зависимости от состояния сохранения и локальных работ.",
             "checkedAt": "2026-06-15"
           },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-square.jpg",
+            "alt": "Wat Phan Tao",
+            "attribution": {
+              "author": "Stefan Fussan",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phan_Tao_-_0001.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "chiang-mai-old-city-lanna-moat-5",
           "guideId": "chiang-mai-old-city-lanna-moat",
           "order": 5
@@ -259,6 +324,19 @@
             "rules": [],
             "summary": "Рассчитывайте на дневной или ранневечерний доступ к территории; отдельные halls и сакральные зоны могут временно закрываться во время служб.",
             "checkedAt": "2026-06-15"
+          },
+          "photo": {
+            "id": "chiang-mai-old-city-lanna-moat-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-square.jpg",
+            "alt": "Wat Phra Singh",
+            "attribution": {
+              "author": "Stefan Fussan",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0001.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "chiang-mai-old-city-lanna-moat-6",
           "guideId": "chiang-mai-old-city-lanna-moat",
@@ -297,6 +375,19 @@
         "summary": "Общественная площадь у ворот доступна в любое время; по воскресеньям с позднего дня и вечером место связано с Sunday Walking Street и резко меняет ритм.",
         "checkedAt": "2026-06-15"
       },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-square.jpg",
+        "alt": "Ворота Тха Пхэ",
+        "attribution": {
+          "author": "Hartmann Linge",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:201703291109a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "chiang-mai-old-city-lanna-moat-1",
       "guideId": "chiang-mai-old-city-lanna-moat",
       "order": 1
@@ -327,6 +418,19 @@
         "rules": [],
         "summary": "Открыто как часть городской улицы и набережной рва.",
         "checkedAt": "2026-06-15"
+      },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-square.jpg",
+        "alt": "Восточный ров",
+        "attribution": {
+          "author": "Christophe95",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moat_in_the_east_of_Chiang_Mai.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "chiang-mai-old-city-lanna-moat-2",
       "guideId": "chiang-mai-old-city-lanna-moat",
@@ -359,6 +463,19 @@
         "summary": "Открытая площадь доступна свободно; музеи и внутренние пространства вокруг неё живут по отдельному расписанию.",
         "checkedAt": "2026-06-15"
       },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-square.jpg",
+        "alt": "Площадь Трёх королей",
+        "attribution": {
+          "author": "Sry85",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_kings_monument.JPG",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "chiang-mai-old-city-lanna-moat-3",
       "guideId": "chiang-mai-old-city-lanna-moat",
       "order": 3
@@ -389,6 +506,19 @@
         "rules": [],
         "summary": "Лучше рассчитывать на дневной или ранневечерний доступ в храмовый комплекс; отдельные священные пространства могут закрываться на службы и локальные церемонии.",
         "checkedAt": "2026-06-15"
+      },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-square.jpg",
+        "alt": "Wat Chedi Luang",
+        "attribution": {
+          "author": "Jakub Hałun",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "chiang-mai-old-city-lanna-moat-4",
       "guideId": "chiang-mai-old-city-lanna-moat",
@@ -421,6 +551,19 @@
         "summary": "Лучше ориентироваться на дневной доступ к территории; доступ в тиковый viharn и интерьер может быть ограничен или меняться в зависимости от состояния сохранения и локальных работ.",
         "checkedAt": "2026-06-15"
       },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-square.jpg",
+        "alt": "Wat Phan Tao",
+        "attribution": {
+          "author": "Stefan Fussan",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phan_Tao_-_0001.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "chiang-mai-old-city-lanna-moat-5",
       "guideId": "chiang-mai-old-city-lanna-moat",
       "order": 5
@@ -452,10 +595,23 @@
         "summary": "Рассчитывайте на дневной или ранневечерний доступ к территории; отдельные halls и сакральные зоны могут временно закрываться во время служб.",
         "checkedAt": "2026-06-15"
       },
+      "photo": {
+        "id": "chiang-mai-old-city-lanna-moat-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-square.jpg",
+        "alt": "Wat Phra Singh",
+        "attribution": {
+          "author": "Stefan Fussan",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0001.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "chiang-mai-old-city-lanna-moat-6",
       "guideId": "chiang-mai-old-city-lanna-moat",
       "order": 6
     }
   ],
-  "packHash": "992f3e5d1b19"
+  "packHash": "9b97d5a97a39"
 }

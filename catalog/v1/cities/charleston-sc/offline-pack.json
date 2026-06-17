@@ -246,6 +246,19 @@
             ],
             "sourceNote": "Практика и связность сверены по карте и официальной городской рамке; интерпретация сознательно держится ближе к видимому на месте, чем к открытому туристическому клише."
           },
+          "photo": {
+            "id": "charleston-sc-port-battery-waterfront-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-stop-4-square.jpg",
+            "alt": "Pineapple Fountain",
+            "attribution": {
+              "author": "JonathanLamb",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charleston-SC-pineapple-fountain.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "charleston-sc-port-battery-waterfront-4",
           "guideId": "charleston-sc-port-battery-waterfront",
           "order": 4
@@ -607,6 +620,19 @@
         ],
         "sourceNote": "Практика и связность сверены по карте и официальной городской рамке; интерпретация сознательно держится ближе к видимому на месте, чем к открытому туристическому клише."
       },
+      "photo": {
+        "id": "charleston-sc-port-battery-waterfront-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-port-battery-waterfront-stop-4-square.jpg",
+        "alt": "Pineapple Fountain",
+        "attribution": {
+          "author": "JonathanLamb",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charleston-SC-pineapple-fountain.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "charleston-sc-port-battery-waterfront-4",
       "guideId": "charleston-sc-port-battery-waterfront",
       "order": 4
@@ -796,5 +822,5 @@
       "order": 8
     }
   ],
-  "packHash": "24c25285cf59"
+  "packHash": "735984c29d4c"
 }

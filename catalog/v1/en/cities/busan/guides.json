@@ -187,6 +187,19 @@
           "latitude": 35.0981,
           "longitude": 129.0289
         },
+        "photo": {
+          "id": "busan-nampo-jagalchi-old-port-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-4-square.jpg",
+          "alt": "BIFF Square",
+          "attribution": {
+            "author": "cezzie901",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_BIFF_Street_in_Busan.png",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "busan-nampo-jagalchi-old-port-4",
         "guideId": "busan-nampo-jagalchi-old-port",
         "order": 4
@@ -213,6 +226,19 @@
           "latitude": 35.101,
           "longitude": 129.028
         },
+        "photo": {
+          "id": "busan-nampo-jagalchi-old-port-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-5-square.jpg",
+          "alt": "Рынок Гукче",
+          "attribution": {
+            "author": "Christophe95",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gukje_Market_in_Busan.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "busan-nampo-jagalchi-old-port-5",
         "guideId": "busan-nampo-jagalchi-old-port",
         "order": 5
@@ -238,6 +264,19 @@
         "coordinates": {
           "latitude": 35.0967,
           "longitude": 129.03
+        },
+        "photo": {
+          "id": "busan-nampo-jagalchi-old-port-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/busan/busan-nampo-jagalchi-old-port-stop-6-square.jpg",
+          "alt": "Рынок Чагальчхи",
+          "attribution": {
+            "author": "Mobius6",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagalchi_Market_20200523_006.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         },
         "id": "busan-nampo-jagalchi-old-port-6",
         "guideId": "busan-nampo-jagalchi-old-port",

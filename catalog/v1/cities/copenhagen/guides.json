@@ -70,6 +70,19 @@
           "latitude": 55.67528,
           "longitude": 12.57028
         },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-1-square.jpg",
+          "alt": "Ратушная площадь",
+          "attribution": {
+            "author": "Jorge Láscar from Melbourne, Australia",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rådhuspladsen_-_City_Hall_Square_(37640194770).jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "copenhagen-slotsholmen-old-harbour-1",
         "guideId": "copenhagen-slotsholmen-old-harbour",
         "order": 1
@@ -95,6 +108,19 @@
         "coordinates": {
           "latitude": 55.67472,
           "longitude": 12.57444
+        },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-2-square.jpg",
+          "alt": "Национальный музей Дании",
+          "attribution": {
+            "author": "Dietmar Rabich",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kopenhagen_(DK)%2C_Nationalmuseum_--_2017_--_1473-9.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         },
         "id": "copenhagen-slotsholmen-old-harbour-2",
         "guideId": "copenhagen-slotsholmen-old-harbour",
@@ -122,6 +148,19 @@
           "latitude": 55.67607,
           "longitude": 12.5802
         },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-3-square.jpg",
+          "alt": "Площадь Кристиансборга",
+          "attribution": {
+            "author": "Leif Jørgensen",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christiansborg_Slotsplads_1.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "copenhagen-slotsholmen-old-harbour-3",
         "guideId": "copenhagen-slotsholmen-old-harbour",
         "order": 3
@@ -147,6 +186,19 @@
         "coordinates": {
           "latitude": 55.67333,
           "longitude": 12.58278
+        },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-4-square.jpg",
+          "alt": "Набережная у Чёрного алмаза",
+          "attribution": {
+            "author": "Julian Herzog (Website)",
+            "license": "CC BY 4.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Black_Diamond_Royal_Danish_Library_Copenhagen_Slotsholmen_2014_01.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         },
         "id": "copenhagen-slotsholmen-old-harbour-4",
         "guideId": "copenhagen-slotsholmen-old-harbour",
@@ -174,6 +226,19 @@
           "latitude": 55.67813,
           "longitude": 12.57962
         },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-5-square.jpg",
+          "alt": "Gammel Strand",
+          "attribution": {
+            "author": "Roger Wollstadt from Sarasota, Florida",
+            "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gammel_Strand%2C_Copenhagen.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "copenhagen-slotsholmen-old-harbour-5",
         "guideId": "copenhagen-slotsholmen-old-harbour",
         "order": 5
@@ -200,6 +265,19 @@
           "latitude": 55.68028,
           "longitude": 12.58583
         },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-6-square.jpg",
+          "alt": "Kongens Nytorv",
+          "attribution": {
+            "author": "Jim G",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kongens_Nytorv%2C_Copenhagen%2C_Denmark.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "copenhagen-slotsholmen-old-harbour-6",
         "guideId": "copenhagen-slotsholmen-old-harbour",
         "order": 6
@@ -225,6 +303,19 @@
         "coordinates": {
           "latitude": 55.67996,
           "longitude": 12.5889
+        },
+        "photo": {
+          "id": "copenhagen-slotsholmen-old-harbour-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/copenhagen/copenhagen-slotsholmen-old-harbour-stop-7-square.jpg",
+          "alt": "Nyhavn",
+          "attribution": {
+            "author": "Jakub Hałun",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boats_at_Nyhavn%2C_Copenhagen%2C_20220616_1937_6628.jpg",
+            "retrievedAt": "2026-06-17"
+          }
         },
         "id": "copenhagen-slotsholmen-old-harbour-7",
         "guideId": "copenhagen-slotsholmen-old-harbour",

@@ -100,6 +100,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "bruges-markt-burg-civic-power-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-1-square.jpg",
+            "alt": "Маркт",
+            "attribution": {
+              "author": "DiaBaBurMElha",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Markt_Bruges.JPG",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "bruges-markt-burg-civic-power-1",
           "guideId": "bruges-markt-burg-civic-power",
           "order": 1
@@ -125,6 +138,19 @@
                 "body": "Если поднимешься, важен не только вид. Подъем — это путь через бывшие пространства хранения и через механический ум города: барабан карильона, клавиатура, колокола, архивная память."
               }
             ]
+          },
+          "photo": {
+            "id": "bruges-markt-burg-civic-power-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-2-square.jpg",
+            "alt": "Белфорт и суконные ряды",
+            "attribution": {
+              "author": "Marc Ryckaert",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Hallen_R04.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "bruges-markt-burg-civic-power-2",
           "guideId": "bruges-markt-burg-civic-power",
@@ -152,6 +178,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "bruges-markt-burg-civic-power-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-3-square.jpg",
+            "alt": "Провинциальный двор",
+            "attribution": {
+              "author": "Dguendel",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges%2C_town_square%2C_Provinciaal_Hof_and_house_1_Markt.JPG",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "bruges-markt-burg-civic-power-3",
           "guideId": "bruges-markt-burg-civic-power",
           "order": 3
@@ -177,6 +216,19 @@
                 "body": "Бург особенно хорош тем, что здесь история Брюгге перестает быть линейной. Здесь не было простой передачи власти от графа к городу или от религии к администрации. Здесь все некоторое время существовало бок о бок, споря фасадами и положением на площади."
               }
             ]
+          },
+          "photo": {
+            "id": "bruges-markt-burg-civic-power-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-4-square.jpg",
+            "alt": "Бург",
+            "attribution": {
+              "author": "Donar Reiskoffer",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges_De_Burg.JPG",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "bruges-markt-burg-civic-power-4",
           "guideId": "bruges-markt-burg-civic-power",
@@ -242,6 +294,19 @@
                 "body": "На этой остановке стоит замедлиться и позволить глазу привыкнуть к смешению времен. Здесь XII век, позднее Средневековье, раннее Новое время и XIX век не разошлись по разным улицам, а легли друг на друга."
               }
             ]
+          },
+          "photo": {
+            "id": "bruges-markt-burg-civic-power-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-6-square.jpg",
+            "alt": "Базилика Святой Крови",
+            "attribution": {
+              "author": "Ad Meskens",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges_Basilica_of_the_Holy_Blood_01.JPG",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "bruges-markt-burg-civic-power-6",
           "guideId": "bruges-markt-burg-civic-power",
@@ -353,6 +418,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bruges-markt-burg-civic-power-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-1-square.jpg",
+        "alt": "Маркт",
+        "attribution": {
+          "author": "DiaBaBurMElha",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Markt_Bruges.JPG",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "bruges-markt-burg-civic-power-1",
       "guideId": "bruges-markt-burg-civic-power",
       "order": 1
@@ -378,6 +456,19 @@
             "body": "Если поднимешься, важен не только вид. Подъем — это путь через бывшие пространства хранения и через механический ум города: барабан карильона, клавиатура, колокола, архивная память."
           }
         ]
+      },
+      "photo": {
+        "id": "bruges-markt-burg-civic-power-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-2-square.jpg",
+        "alt": "Белфорт и суконные ряды",
+        "attribution": {
+          "author": "Marc Ryckaert",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Hallen_R04.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "bruges-markt-burg-civic-power-2",
       "guideId": "bruges-markt-burg-civic-power",
@@ -405,6 +496,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "bruges-markt-burg-civic-power-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-3-square.jpg",
+        "alt": "Провинциальный двор",
+        "attribution": {
+          "author": "Dguendel",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges%2C_town_square%2C_Provinciaal_Hof_and_house_1_Markt.JPG",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "bruges-markt-burg-civic-power-3",
       "guideId": "bruges-markt-burg-civic-power",
       "order": 3
@@ -430,6 +534,19 @@
             "body": "Бург особенно хорош тем, что здесь история Брюгге перестает быть линейной. Здесь не было простой передачи власти от графа к городу или от религии к администрации. Здесь все некоторое время существовало бок о бок, споря фасадами и положением на площади."
           }
         ]
+      },
+      "photo": {
+        "id": "bruges-markt-burg-civic-power-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-4-square.jpg",
+        "alt": "Бург",
+        "attribution": {
+          "author": "Donar Reiskoffer",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges_De_Burg.JPG",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "bruges-markt-burg-civic-power-4",
       "guideId": "bruges-markt-burg-civic-power",
@@ -495,6 +612,19 @@
             "body": "На этой остановке стоит замедлиться и позволить глазу привыкнуть к смешению времен. Здесь XII век, позднее Средневековье, раннее Новое время и XIX век не разошлись по разным улицам, а легли друг на друга."
           }
         ]
+      },
+      "photo": {
+        "id": "bruges-markt-burg-civic-power-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/bruges/bruges-markt-burg-civic-power-stop-6-square.jpg",
+        "alt": "Базилика Святой Крови",
+        "attribution": {
+          "author": "Ad Meskens",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruges_Basilica_of_the_Holy_Blood_01.JPG",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "bruges-markt-burg-civic-power-6",
       "guideId": "bruges-markt-burg-civic-power",
@@ -579,5 +709,5 @@
       "order": 8
     }
   ],
-  "packHash": "974c6c9aae46"
+  "packHash": "9b09560db9bb"
 }

@@ -104,6 +104,19 @@
             "rules": [],
             "summary": "Снаружи место читается в любое время. Комплекс St Audoen’s Visitor Centre официально открыт ежедневно 09:30–17:30, последний вход 16:45; для самой церковной части указано, что дата полноценного повторного открытия ещё не подтверждена."
           },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-square.jpg",
+            "alt": "Ворота Святого Одэна",
+            "attribution": {
+              "author": "Harold Strong",
+              "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Wall_and_Gate_-_geograph.org.uk_-_543055.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "dublin-castle-walls-trinity-power-1",
           "guideId": "dublin-castle-walls-trinity-power",
           "order": 1
@@ -133,6 +146,19 @@
           "hours": {
             "rules": [],
             "summary": "Официально: Visitor Centre открыт ежедневно 09:30–17:30, вход бесплатный, последний вход 16:45; для церковной части на странице Heritage Ireland стоит пометка, что дата повторного открытия ещё должна быть подтверждена."
+          },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-square.jpg",
+            "alt": "Церковь Святого Одэна",
+            "attribution": {
+              "author": "J.-H. Janßen",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_St_Audoens_Church_Cornmarket_01.JPG",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "dublin-castle-walls-trinity-power-2",
           "guideId": "dublin-castle-walls-trinity-power",
@@ -164,6 +190,19 @@
             "rules": [],
             "summary": "Для самостоятельного входа у собора есть официальный недельный график: по будням и в субботу утренне-дневные часы различаются по дням, в воскресенье доступ разорван на два окна; последний вход за 45 минут до закрытия. Для маршрута интерьер необязателен."
           },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-square.jpg",
+            "alt": "Christ Church Cathedral",
+            "attribution": {
+              "author": "Ingo Mehling",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral_(Dublin).jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "dublin-castle-walls-trinity-power-3",
           "guideId": "dublin-castle-walls-trinity-power",
           "order": 3
@@ -193,6 +232,19 @@
           "hours": {
             "rules": [],
             "summary": "Читать внешнюю кромку можно в любое время с общественной улицы. По официальным сообщениям Dublin Castle State Apartments закрыты для публики с 2026-05-05, а весь кампус должен закрыться для публики с середины июня 2026 до января 2027; через проход от Dame Street к Ship Street рассчитывать нельзя."
+          },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-square.jpg",
+            "alt": "Кромка замка на Ship Street",
+            "attribution": {
+              "author": "William Murphy",
+              "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Castle_i11.jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "dublin-castle-walls-trinity-power-4",
           "guideId": "dublin-castle-walls-trinity-power",
@@ -224,6 +276,19 @@
             "rules": [],
             "summary": "Для маршрута это внешняя остановка без зависимости от внутреннего режима."
           },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-square.jpg",
+            "alt": "Cork Hill и City Hall",
+            "attribution": {
+              "author": "Zairon",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Hall_Exterior.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "dublin-castle-walls-trinity-power-5",
           "guideId": "dublin-castle-walls-trinity-power",
           "order": 5
@@ -254,6 +319,19 @@
             "rules": [],
             "summary": "Остановка полностью наружная. Главное ограничение здесь не режим работы, а интенсивность транспорта и необходимость читать пространство с безопасной кромки."
           },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-square.jpg",
+            "alt": "College Green",
+            "attribution": {
+              "author": "Eric Jones",
+              "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:College_Green%2C_Dublin_-_geograph.org.uk_-_1738143.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "dublin-castle-walls-trinity-power-6",
           "guideId": "dublin-castle-walls-trinity-power",
           "order": 6
@@ -283,6 +361,19 @@
           "hours": {
             "rules": [],
             "summary": "Внешнее чтение у ворот доступно независимо от экскурсии. Trinity Trails работает ежедневно 09:00–17:00. Book of Kells Experience требует отдельного бронирования; на официальной странице в июне 2026 присутствуют два разных блока часов, поэтому на интерьер опирайтесь только после проверки в день визита."
+          },
+          "photo": {
+            "id": "dublin-castle-walls-trinity-power-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-square.jpg",
+            "alt": "Trinity Front Square",
+            "attribution": {
+              "author": "The original uploader was Jasonm at English Wikipedia.",
+              "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_College%2C_Dublin%2C_Ireland_(Front_Square).jpg",
+              "retrievedAt": "2026-06-17"
+            }
           },
           "id": "dublin-castle-walls-trinity-power-7",
           "guideId": "dublin-castle-walls-trinity-power",
@@ -320,6 +411,19 @@
         "rules": [],
         "summary": "Снаружи место читается в любое время. Комплекс St Audoen’s Visitor Centre официально открыт ежедневно 09:30–17:30, последний вход 16:45; для самой церковной части указано, что дата полноценного повторного открытия ещё не подтверждена."
       },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-square.jpg",
+        "alt": "Ворота Святого Одэна",
+        "attribution": {
+          "author": "Harold Strong",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Wall_and_Gate_-_geograph.org.uk_-_543055.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "dublin-castle-walls-trinity-power-1",
       "guideId": "dublin-castle-walls-trinity-power",
       "order": 1
@@ -349,6 +453,19 @@
       "hours": {
         "rules": [],
         "summary": "Официально: Visitor Centre открыт ежедневно 09:30–17:30, вход бесплатный, последний вход 16:45; для церковной части на странице Heritage Ireland стоит пометка, что дата повторного открытия ещё должна быть подтверждена."
+      },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-square.jpg",
+        "alt": "Церковь Святого Одэна",
+        "attribution": {
+          "author": "J.-H. Janßen",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_St_Audoens_Church_Cornmarket_01.JPG",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "dublin-castle-walls-trinity-power-2",
       "guideId": "dublin-castle-walls-trinity-power",
@@ -380,6 +497,19 @@
         "rules": [],
         "summary": "Для самостоятельного входа у собора есть официальный недельный график: по будням и в субботу утренне-дневные часы различаются по дням, в воскресенье доступ разорван на два окна; последний вход за 45 минут до закрытия. Для маршрута интерьер необязателен."
       },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-square.jpg",
+        "alt": "Christ Church Cathedral",
+        "attribution": {
+          "author": "Ingo Mehling",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral_(Dublin).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "dublin-castle-walls-trinity-power-3",
       "guideId": "dublin-castle-walls-trinity-power",
       "order": 3
@@ -409,6 +539,19 @@
       "hours": {
         "rules": [],
         "summary": "Читать внешнюю кромку можно в любое время с общественной улицы. По официальным сообщениям Dublin Castle State Apartments закрыты для публики с 2026-05-05, а весь кампус должен закрыться для публики с середины июня 2026 до января 2027; через проход от Dame Street к Ship Street рассчитывать нельзя."
+      },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-square.jpg",
+        "alt": "Кромка замка на Ship Street",
+        "attribution": {
+          "author": "William Murphy",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Castle_i11.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "dublin-castle-walls-trinity-power-4",
       "guideId": "dublin-castle-walls-trinity-power",
@@ -440,6 +583,19 @@
         "rules": [],
         "summary": "Для маршрута это внешняя остановка без зависимости от внутреннего режима."
       },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-square.jpg",
+        "alt": "Cork Hill и City Hall",
+        "attribution": {
+          "author": "Zairon",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Hall_Exterior.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "dublin-castle-walls-trinity-power-5",
       "guideId": "dublin-castle-walls-trinity-power",
       "order": 5
@@ -469,6 +625,19 @@
       "hours": {
         "rules": [],
         "summary": "Остановка полностью наружная. Главное ограничение здесь не режим работы, а интенсивность транспорта и необходимость читать пространство с безопасной кромки."
+      },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-square.jpg",
+        "alt": "College Green",
+        "attribution": {
+          "author": "Eric Jones",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:College_Green%2C_Dublin_-_geograph.org.uk_-_1738143.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "dublin-castle-walls-trinity-power-6",
       "guideId": "dublin-castle-walls-trinity-power",
@@ -500,10 +669,23 @@
         "rules": [],
         "summary": "Внешнее чтение у ворот доступно независимо от экскурсии. Trinity Trails работает ежедневно 09:00–17:00. Book of Kells Experience требует отдельного бронирования; на официальной странице в июне 2026 присутствуют два разных блока часов, поэтому на интерьер опирайтесь только после проверки в день визита."
       },
+      "photo": {
+        "id": "dublin-castle-walls-trinity-power-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-square.jpg",
+        "alt": "Trinity Front Square",
+        "attribution": {
+          "author": "The original uploader was Jasonm at English Wikipedia.",
+          "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_College%2C_Dublin%2C_Ireland_(Front_Square).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "dublin-castle-walls-trinity-power-7",
       "guideId": "dublin-castle-walls-trinity-power",
       "order": 7
     }
   ],
-  "packHash": "0bbc37cf87de"
+  "packHash": "1ed9384fcd21"
 }

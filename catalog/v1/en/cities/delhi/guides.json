@@ -226,6 +226,19 @@
             }
           ]
         },
+        "photo": {
+          "id": "delhi-shahjahanabad-red-fort-bazaars-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/delhi/delhi-shahjahanabad-red-fort-bazaars-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/delhi/delhi-shahjahanabad-red-fort-bazaars-stop-5-square.jpg",
+          "alt": "От Дариба Калан к ступеням Джам",
+          "attribution": {
+            "author": "Peter Rivera from Stamford, CT, USA",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steps_leading_to_entrance_of_Jama_Masjid,_Delhi.jpg",
+            "retrievedAt": "2026-06-17"
+          }
+        },
         "id": "delhi-shahjahanabad-red-fort-bazaars-5",
         "guideId": "delhi-shahjahanabad-red-fort-bazaars",
         "order": 5

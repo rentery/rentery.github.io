@@ -69,6 +69,19 @@
         "latitude": 52.518611,
         "longitude": 13.376111
       },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-1-square.jpg",
+        "alt": "Рейхстаг и площадь Республики",
+        "attribution": {
+          "author": "Leonhard Lenz",
+          "license": "CC0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platz_der_Republik_Berlin_2023-08-20_02.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "berlin-brandenburg-gate-memory-axis-1",
       "guideId": "berlin-brandenburg-gate-memory-axis",
       "order": 1
@@ -94,6 +107,19 @@
       "coordinates": {
         "latitude": 52.516272,
         "longitude": 13.377722
+      },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-2-square.jpg",
+        "alt": "Бранденбургские ворота",
+        "attribution": {
+          "author": "Thomas Wolf, www.foto-tw.de",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_nachts.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "berlin-brandenburg-gate-memory-axis-2",
       "guideId": "berlin-brandenburg-gate-memory-axis",
@@ -121,6 +147,19 @@
         "latitude": 52.513889,
         "longitude": 13.378889
       },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-3-square.jpg",
+        "alt": "Мемориал убитым евреям Европы",
+        "attribution": {
+          "author": "Photograph by Mike Peel (www.mikepeel.net).",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_holocaust_memorial_2014-1.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "berlin-brandenburg-gate-memory-axis-3",
       "guideId": "berlin-brandenburg-gate-memory-axis",
       "order": 3
@@ -146,6 +185,19 @@
       "coordinates": {
         "latitude": 52.508944,
         "longitude": 13.376333
+      },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-4-square.jpg",
+        "alt": "Потсдамер Плац",
+        "attribution": {
+          "author": "Ansgar Koreng",
+          "license": "CC BY-SA 3.0 de; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potsdamer_Platz%2C_Berlin%2C_151024%2C_ako.jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "berlin-brandenburg-gate-memory-axis-4",
       "guideId": "berlin-brandenburg-gate-memory-axis",
@@ -173,6 +225,19 @@
         "latitude": 52.5064,
         "longitude": 13.3837
       },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-square.jpg",
+        "alt": "Niederkirchnerstraße, остаток с…",
+        "attribution": {
+          "author": "Ank Kumar",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Topographie_Des_Terrors_(Topography_of_Terror)%2C_Berlin_(Ank_Kumar)_01.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "berlin-brandenburg-gate-memory-axis-5",
       "guideId": "berlin-brandenburg-gate-memory-axis",
       "order": 5
@@ -198,6 +263,19 @@
       "coordinates": {
         "latitude": 52.5075,
         "longitude": 13.390278
+      },
+      "photo": {
+        "id": "berlin-brandenburg-gate-memory-axis-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-6-square.jpg",
+        "alt": "Checkpoint Charlie",
+        "attribution": {
+          "author": "Gzen92",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Checkpoint_Charlie_-_avant_(Berlin).jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "berlin-brandenburg-gate-memory-axis-6",
       "guideId": "berlin-brandenburg-gate-memory-axis",

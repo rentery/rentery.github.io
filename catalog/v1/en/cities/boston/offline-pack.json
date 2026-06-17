@@ -206,6 +206,19 @@
               }
             ]
           },
+          "photo": {
+            "id": "boston-freedom-trail-revolution-city-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-stop-3-square.jpg",
+            "alt": "Granary Burying Ground",
+            "attribution": {
+              "author": "City of Boston Archives from West Roxbury, United States",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Granary_Burial_Ground_(8496309238).jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "boston-freedom-trail-revolution-city-3",
           "guideId": "boston-freedom-trail-revolution-city",
           "order": 3
@@ -583,6 +596,19 @@
           }
         ]
       },
+      "photo": {
+        "id": "boston-freedom-trail-revolution-city-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/boston/boston-freedom-trail-revolution-city-stop-3-square.jpg",
+        "alt": "Granary Burying Ground",
+        "attribution": {
+          "author": "City of Boston Archives from West Roxbury, United States",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Granary_Burial_Ground_(8496309238).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "boston-freedom-trail-revolution-city-3",
       "guideId": "boston-freedom-trail-revolution-city",
       "order": 3
@@ -828,5 +854,5 @@
       "order": 8
     }
   ],
-  "packHash": "f5b064d85055"
+  "packHash": "5d081a52e561"
 }

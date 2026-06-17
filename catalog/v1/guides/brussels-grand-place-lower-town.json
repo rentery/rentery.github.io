@@ -225,6 +225,19 @@
         "latitude": 50.847097,
         "longitude": 4.34968
       },
+      "photo": {
+        "id": "brussels-grand-place-lower-town-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-grand-place-lower-town-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-grand-place-lower-town-stop-5-square.jpg",
+        "alt": "Bourse Beurs",
+        "attribution": {
+          "author": "Noemilb16",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels_Stock_Exchange_(La_Bourse-De_Beurs).jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "brussels-grand-place-lower-town-5",
       "guideId": "brussels-grand-place-lower-town",
       "order": 5
@@ -250,6 +263,19 @@
       "coordinates": {
         "latitude": 50.845033,
         "longitude": 4.349972
+      },
+      "photo": {
+        "id": "brussels-grand-place-lower-town-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-grand-place-lower-town-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-grand-place-lower-town-stop-6-square.jpg",
+        "alt": "Manneken-Pis",
+        "attribution": {
+          "author": "Trougnouf",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manneken_Pis%2C_Brussels_(DSCF4467).jpg",
+          "retrievedAt": "2026-06-17"
+        }
       },
       "id": "brussels-grand-place-lower-town-6",
       "guideId": "brussels-grand-place-lower-town",

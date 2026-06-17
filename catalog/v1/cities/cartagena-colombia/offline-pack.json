@@ -233,6 +233,19 @@
             "rules": [],
             "summary": "Открытая бастионная площадка; отдельных билетных часов у точки нет."
           },
+          "photo": {
+            "id": "cartagena-colombia-old-port-walls-fortress-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-square.jpg",
+            "alt": "Baluarte de San Ignacio",
+            "attribution": {
+              "author": "Andrés Felipe Anaya Marimon",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baluarte_San_Ignacio%2C_Cartagena_de_Indias.jpg",
+              "retrievedAt": "2026-06-17"
+            }
+          },
           "id": "cartagena-colombia-old-port-walls-fortress-4",
           "guideId": "cartagena-colombia-old-port-walls-fortress",
           "order": 4
@@ -441,6 +454,19 @@
         "rules": [],
         "summary": "Открытая бастионная площадка; отдельных билетных часов у точки нет."
       },
+      "photo": {
+        "id": "cartagena-colombia-old-port-walls-fortress-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-square.jpg",
+        "alt": "Baluarte de San Ignacio",
+        "attribution": {
+          "author": "Andrés Felipe Anaya Marimon",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baluarte_San_Ignacio%2C_Cartagena_de_Indias.jpg",
+          "retrievedAt": "2026-06-17"
+        }
+      },
       "id": "cartagena-colombia-old-port-walls-fortress-4",
       "guideId": "cartagena-colombia-old-port-walls-fortress",
       "order": 4
@@ -489,5 +515,5 @@
       "order": 5
     }
   ],
-  "packHash": "a7704e0552eb"
+  "packHash": "9bd7740225c8"
 }
