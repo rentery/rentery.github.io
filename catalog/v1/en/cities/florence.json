@@ -2,11 +2,12 @@
   "id": "florence",
   "slug": "florence",
   "title": "Флоренция",
-  "subtitle": "Флоренция · 1 маршрут · 4 скоро",
-  "meta": "Италия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Флоренция · 2 маршрута · 3 скоро",
+  "meta": "Италия · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "florence-duomo-signoria-renaissance-engine"
+    "florence-duomo-signoria-renaissance-engine",
+    "florence-oltrarno-pitti-santo-spirito"
   ],
   "countryId": "italy",
   "photo": {

@@ -2,11 +2,12 @@
   "id": "beijing",
   "slug": "beijing",
   "title": "Пекин",
-  "subtitle": "Beijing · 北京 · 1 маршрут · 4 скоро",
+  "subtitle": "Пекин · 2 маршрута · 3 скоро",
   "meta": "Китай · красные ворота, серые крыши, озера хутунов и стена за горами",
-  "practicalNote": "В Пекине опубликован первый маршрут по центральной оси; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "beijing-central-axis-forbidden-city"
+    "beijing-central-axis-forbidden-city",
+    "beijing-mutianyu-great-wall-ridge"
   ],
   "coordinates": {
     "latitude": 39.9075,

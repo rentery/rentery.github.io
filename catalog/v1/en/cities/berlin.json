@@ -2,11 +2,12 @@
   "id": "berlin",
   "slug": "berlin",
   "title": "Берлин",
-  "subtitle": "Берлин · 1 маршрут · 4 скоро",
-  "meta": "Германия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Берлин · 2 маршрута · 3 скоро",
+  "meta": "Германия · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "berlin-brandenburg-gate-memory-axis"
+    "berlin-brandenburg-gate-memory-axis",
+    "berlin-bernauer-strasse-wall"
   ],
   "countryId": "germany",
   "photo": {

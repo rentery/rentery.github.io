@@ -7,7 +7,8 @@
     "meta": "China · red gates, grey roofs, hutong lakes, and the Wall beyond the hills",
     "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
     "guideIds": [
-      "beijing-central-axis-forbidden-city"
+      "beijing-central-axis-forbidden-city",
+      "beijing-mutianyu-great-wall-ridge"
     ],
     "coordinates": {
       "latitude": 39.9075,
@@ -73,7 +74,8 @@
     "practicalNote": "Belgrade currently has one current published route; the remaining walks are being refreshed and will be added gradually.",
     "guideIds": [
       "belgrade-fortress-rivers-first-city",
-      "belgrade-novi-beograd-federal-concrete"
+      "belgrade-novi-beograd-federal-concrete",
+      "belgrade-zemun-danube-town"
     ],
     "coordinates": {
       "latitude": 44.80401,
@@ -209,11 +211,12 @@
     "id": "bologna",
     "slug": "bologna",
     "title": "Болонья",
-    "subtitle": "Bologna · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Болонья · 2 маршрута · 3 скоро",
+    "meta": "Италия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "bologna-piazza-maggiore-towers-santo-stefano"
+      "bologna-piazza-maggiore-towers-santo-stefano",
+      "bologna-san-luca-portico-hill"
     ],
     "countryId": "italy",
     "photo": {
@@ -237,11 +240,12 @@
     "id": "bordeaux",
     "slug": "bordeaux",
     "title": "Бордо",
-    "subtitle": "Bordeaux · 1 маршрут · 4 скоро",
+    "subtitle": "Бордо · 2 маршрута · 3 скоро",
     "meta": "Франция · Порт Луны, Гаронна и светлый камень",
-    "practicalNote": "В Бордо опубликован первый маршрут по линии Порта Луны; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "bordeaux-port-de-la-lune-stone-river"
+      "bordeaux-port-de-la-lune-stone-river",
+      "bordeaux-saint-michel-market-medieval-south"
     ],
     "countryId": "france",
     "photo": {
@@ -265,11 +269,12 @@
     "id": "budapest",
     "slug": "budapest",
     "title": "Будапешт",
-    "subtitle": "Budapest · 1 маршрут · 4 скоро",
-    "meta": "Венгрия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Будапешт · 2 маршрута · 3 скоро",
+    "meta": "Венгрия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "budapest-buda-castle-hill-layers"
+      "budapest-buda-castle-hill-layers",
+      "budapest-pest-danube-civic-stage"
     ],
     "countryId": "hungary",
     "photo": {
@@ -321,11 +326,12 @@
     "id": "charleston-sc",
     "slug": "charleston-sc",
     "title": "Чарлстон",
-    "subtitle": "Charleston · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чарлстон · 2 маршрута · 3 скоро",
+    "meta": "США · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "charleston-sc-port-battery-waterfront"
+      "charleston-sc-port-battery-waterfront",
+      "charleston-sc-gadsdens-wharf-black-memory"
     ],
     "countryId": "united-states",
     "photo": {
@@ -349,11 +355,12 @@
     "id": "chicago",
     "slug": "chicago",
     "title": "Чикаго",
-    "subtitle": "Chicago · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чикаго · 2 маршрута · 3 скоро",
+    "meta": "США · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "chicago-river-loop-vertical-city"
+      "chicago-river-loop-vertical-city",
+      "chicago-millennium-grant-lakefront"
     ],
     "countryId": "united-states",
     "photo": {
@@ -433,11 +440,12 @@
     "id": "florence",
     "slug": "florence",
     "title": "Флоренция",
-    "subtitle": "Флоренция · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Флоренция · 2 маршрута · 3 скоро",
+    "meta": "Италия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "florence-duomo-signoria-renaissance-engine"
+      "florence-duomo-signoria-renaissance-engine",
+      "florence-oltrarno-pitti-santo-spirito"
     ],
     "countryId": "italy",
     "photo": {
@@ -489,11 +497,12 @@
     "id": "dubai",
     "slug": "dubai",
     "title": "Дубай",
-    "subtitle": "Дубай · 1 маршрут · 4 скоро",
-    "meta": "Объединённые Арабские Эмираты · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дубай · 2 маршрута · 3 скоро",
+    "meta": "Объединённые Арабские Эмираты · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "dubai-creek-al-fahidi-deira-souks"
+      "dubai-creek-al-fahidi-deira-souks",
+      "dubai-downtown-burj-lake-opera"
     ],
     "countryId": "united-arab-emirates",
     "photo": {
@@ -517,11 +526,12 @@
     "id": "delhi",
     "slug": "delhi",
     "title": "Дели",
-    "subtitle": "Дели · 1 маршрут · 4 скоро",
-    "meta": "Индия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дели · 2 маршрута · 3 скоро",
+    "meta": "Индия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "delhi-shahjahanabad-red-fort-bazaars"
+      "delhi-shahjahanabad-red-fort-bazaars",
+      "delhi-qutb-mehrauli-sultanate"
     ],
     "countryId": "india",
     "photo": {
@@ -545,11 +555,12 @@
     "id": "cusco",
     "slug": "cusco",
     "title": "Куско",
-    "subtitle": "Куско · 1 маршрут · 4 скоро",
-    "meta": "Перу · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Куско · 2 маршрута · 3 скоро",
+    "meta": "Перу · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "cusco-plaza-qorikancha-layers"
+      "cusco-plaza-qorikancha-layers",
+      "cusco-saqsaywaman-qenqo-skyline"
     ],
     "countryId": "peru",
     "photo": {
@@ -713,11 +724,12 @@
     "id": "athens",
     "slug": "athens",
     "title": "Афины",
-    "subtitle": "Афины · 1 маршрут · 4 скоро",
-    "meta": "Греция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Афины · 2 маршрута · 3 скоро",
+    "meta": "Греция · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "athens-acropolis-agora-layers"
+      "athens-acropolis-agora-layers",
+      "athens-plaka-anafiotika-old-city"
     ],
     "countryId": "greece",
     "photo": {
@@ -797,11 +809,12 @@
     "id": "barcelona",
     "slug": "barcelona",
     "title": "Барселона",
-    "subtitle": "Барселона · 1 маршрут · 4 скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Барселона · 2 маршрута · 3 скоро",
+    "meta": "Испания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "barcelona-modernist-eixample"
+      "barcelona-modernist-eixample",
+      "barcelona-gothic-roman-core"
     ],
     "countryId": "spain",
     "photo": {
@@ -825,11 +838,12 @@
     "id": "berlin",
     "slug": "berlin",
     "title": "Берлин",
-    "subtitle": "Берлин · 1 маршрут · 4 скоро",
-    "meta": "Германия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Берлин · 2 маршрута · 3 скоро",
+    "meta": "Германия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "berlin-brandenburg-gate-memory-axis"
+      "berlin-brandenburg-gate-memory-axis",
+      "berlin-bernauer-strasse-wall"
     ],
     "countryId": "germany",
     "photo": {
@@ -853,11 +867,12 @@
     "id": "brussels",
     "slug": "brussels",
     "title": "Брюссель",
-    "subtitle": "Брюссель · 1 маршрут · 4 скоро",
-    "meta": "Бельгия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Брюссель · 2 маршрута · 3 скоро",
+    "meta": "Бельгия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "brussels-grand-place-lower-town"
+      "brussels-grand-place-lower-town",
+      "brussels-saint-gilles-ixelles-art-nouveau"
     ],
     "countryId": "belgium",
     "photo": {
@@ -881,11 +896,12 @@
     "id": "buenos-aires",
     "slug": "buenos-aires",
     "title": "Буэнос-Айрес",
-    "subtitle": "Буэнос-Айрес · 1 маршрут · 4 скоро",
-    "meta": "Аргентина · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Буэнос-Айрес · 2 маршрута · 3 скоро",
+    "meta": "Аргентина · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "buenos-aires-plaza-de-mayo-avenida-power-axis"
+      "buenos-aires-plaza-de-mayo-avenida-power-axis",
+      "buenos-aires-san-telmo-old-city-tango"
     ],
     "countryId": "argentina",
     "photo": {
@@ -909,11 +925,12 @@
     "id": "busan",
     "slug": "busan",
     "title": "Пусан",
-    "subtitle": "Пусан · 1 маршрут · 4 скоро",
-    "meta": "Южная Корея · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Пусан · 2 маршрута · 3 скоро",
+    "meta": "Южная Корея · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "busan-nampo-jagalchi-old-port"
+      "busan-nampo-jagalchi-old-port",
+      "busan-gamcheon-hillside-after-war"
     ],
     "countryId": "south-korea",
     "photo": {
@@ -937,11 +954,12 @@
     "id": "cairo",
     "slug": "cairo",
     "title": "Каир",
-    "subtitle": "Каир · 1 маршрут · 4 скоро",
-    "meta": "Египет · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Каир · 2 маршрута · 3 скоро",
+    "meta": "Египет · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "cairo-muizz-fatimid-mamluk-spine"
+      "cairo-muizz-fatimid-mamluk-spine",
+      "cairo-giza-plateau-pyramids"
     ],
     "countryId": "egypt",
     "photo": {
@@ -965,11 +983,12 @@
     "id": "cartagena-colombia",
     "slug": "cartagena-colombia",
     "title": "Картахена",
-    "subtitle": "Картахена · 1 маршрут · 4 скоро",
-    "meta": "Колумбия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Картахена · 2 маршрута · 3 скоро",
+    "meta": "Колумбия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "cartagena-colombia-old-port-walls-fortress"
+      "cartagena-colombia-old-port-walls-fortress",
+      "cartagena-colombia-getsemani-popular-quarter"
     ],
     "countryId": "colombia",
     "photo": {
@@ -993,11 +1012,12 @@
     "id": "chiang-mai",
     "slug": "chiang-mai",
     "title": "Чиангмай",
-    "subtitle": "Чиангмай · 1 маршрут · 4 скоро",
-    "meta": "Таиланд · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чиангмай · 2 маршрута · 3 скоро",
+    "meta": "Таиланд · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "chiang-mai-old-city-lanna-moat"
+      "chiang-mai-old-city-lanna-moat",
+      "chiang-mai-doi-suthep-sacred-mountain"
     ],
     "countryId": "thailand",
     "photo": {
@@ -1021,11 +1041,12 @@
     "id": "copenhagen",
     "slug": "copenhagen",
     "title": "Копенгаген",
-    "subtitle": "Копенгаген · 1 маршрут · 4 скоро",
-    "meta": "Дания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Копенгаген · 2 маршрута · 3 скоро",
+    "meta": "Дания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "copenhagen-slotsholmen-old-harbour"
+      "copenhagen-slotsholmen-old-harbour",
+      "copenhagen-rosenborg-amalienborg-kastellet"
     ],
     "countryId": "denmark",
     "photo": {
@@ -1077,11 +1098,12 @@
     "id": "dubrovnik",
     "slug": "dubrovnik",
     "title": "Дубровник",
-    "subtitle": "Дубровник · 1 маршрут · 4 скоро",
-    "meta": "Хорватия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дубровник · 2 маршрута · 3 скоро",
+    "meta": "Хорватия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "dubrovnik-old-city-republic-spine"
+      "dubrovnik-old-city-republic-spine",
+      "dubrovnik-walls-forts-sea-ring"
     ],
     "countryId": "croatia",
     "photo": {

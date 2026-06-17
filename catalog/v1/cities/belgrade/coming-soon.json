@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Белград, который звучит как отдельный дунайский город с рынком, башней и набережной.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-zemun-danube-town",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Земун, Гардош, Земунски-Кей",
-    "roughDuration": "2–4 часа",
-    "status": "coming_soon",
-    "subtitle": "Гардош, старые площади и набережная как другой ритм столицы.",
-    "title": "Земун: дунайский город внутри Белграда",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Сильный выезд из Белграда: мягкий центр Нови-Сада, Дунай и крепость на другом берегу.",
     "cityId": "belgrade",
     "dayTrip": true,

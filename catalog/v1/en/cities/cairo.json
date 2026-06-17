@@ -2,11 +2,12 @@
   "id": "cairo",
   "slug": "cairo",
   "title": "Каир",
-  "subtitle": "Каир · 1 маршрут · 4 скоро",
-  "meta": "Египет · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Каир · 2 маршрута · 3 скоро",
+  "meta": "Египет · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "cairo-muizz-fatimid-mamluk-spine"
+    "cairo-muizz-fatimid-mamluk-spine",
+    "cairo-giza-plateau-pyramids"
   ],
   "countryId": "egypt",
   "photo": {

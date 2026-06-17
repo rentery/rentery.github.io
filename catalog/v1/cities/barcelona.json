@@ -2,11 +2,12 @@
   "id": "barcelona",
   "slug": "barcelona",
   "title": "Барселона",
-  "subtitle": "Барселона · 1 маршрут · 4 скоро",
-  "meta": "Испания · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Барселона · 2 маршрута · 3 скоро",
+  "meta": "Испания · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "barcelona-modernist-eixample"
+    "barcelona-modernist-eixample",
+    "barcelona-gothic-roman-core"
   ],
   "countryId": "spain",
   "photo": {

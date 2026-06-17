@@ -2,11 +2,12 @@
   "id": "chicago",
   "slug": "chicago",
   "title": "Чикаго",
-  "subtitle": "Chicago · 1 маршрут · 4 скоро",
-  "meta": "США · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Чикаго · 2 маршрута · 3 скоро",
+  "meta": "США · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "chicago-river-loop-vertical-city"
+    "chicago-river-loop-vertical-city",
+    "chicago-millennium-grant-lakefront"
   ],
   "countryId": "united-states",
   "photo": {

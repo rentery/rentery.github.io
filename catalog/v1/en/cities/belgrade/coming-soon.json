@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Belgrade as a separate Danube town, with a market, tower, and waterfront pace.",
-    "cityId": "belgrade",
-    "dayTrip": false,
-    "id": "belgrade-zemun-danube-town",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Zemun, Gardos, Zemun Quay",
-    "roughDuration": "2-4 hours",
-    "status": "coming_soon",
-    "subtitle": "Gardos, old squares, and the quay as another rhythm of the capital.",
-    "title": "Zemun: A Danube Town Inside Belgrade",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "A strong day trip from Belgrade: Novi Sad center, the Danube, and a fortress across the water.",
     "cityId": "belgrade",
     "dayTrip": true,
