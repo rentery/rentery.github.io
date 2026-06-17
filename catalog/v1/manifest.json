@@ -300,6 +300,10 @@
       "packHash": "53a5daecbc0c",
       "packPath": "cities/lisbon/offline-pack.json"
     },
+    "london": {
+      "packHash": "ac2d77a066fd",
+      "packPath": "cities/london/offline-pack.json"
+    },
     "lyon": {
       "packHash": "fe5bb77addf5",
       "packPath": "cities/lyon/offline-pack.json"
@@ -404,17 +408,13 @@
       "packHash": "10faaf33df6f",
       "packPath": "cities/ho-chi-minh-city/offline-pack.json"
     },
-    "london": {
-      "packHash": "ac27bef0abcf",
-      "packPath": "cities/london/offline-pack.json"
-    },
     "zanzibar-city": {
       "packHash": "cbbb9364b852",
       "packPath": "cities/zanzibar-city/offline-pack.json"
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-17T11:10:47.523Z",
+  "generatedAt": "2026-06-17T11:37:45.500Z",
   "locale": "ru",
   "schemaVersion": 1
 }
