@@ -285,7 +285,7 @@
       "packPath": "cities/krakow/offline-pack.json"
     },
     "kuala-lumpur": {
-      "packHash": "60836a3dd106",
+      "packHash": "3a39c9833c74",
       "packPath": "cities/kuala-lumpur/offline-pack.json"
     },
     "kyoto": {
@@ -357,7 +357,7 @@
       "packPath": "cities/tbilisi/offline-pack.json"
     },
     "tokyo": {
-      "packHash": "c226113d7267",
+      "packHash": "4ca3ec27d353",
       "packPath": "cities/tokyo/offline-pack.json"
     },
     "tunis": {
@@ -397,7 +397,7 @@
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
-      "packHash": "327cc913a377",
+      "packHash": "d189a7b91931",
       "packPath": "cities/xian/offline-pack.json"
     },
     "zurich": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-17T11:58:38.916Z",
+  "generatedAt": "2026-06-17T12:33:40.313Z",
   "locale": "en",
   "schemaVersion": 1
 }
