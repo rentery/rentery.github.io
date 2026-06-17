@@ -152,17 +152,41 @@
       "packHash": "c7c4d8d0cf22",
       "packPath": "cities/dubrovnik/offline-pack.json"
     },
+    "hanoi": {
+      "packHash": "fe543687da06",
+      "packPath": "cities/hanoi/offline-pack.json"
+    },
     "havana": {
       "packHash": "5e6b027f6a68",
       "packPath": "cities/havana/offline-pack.json"
+    },
+    "helsinki": {
+      "packHash": "804827977198",
+      "packPath": "cities/helsinki/offline-pack.json"
     },
     "mexico-city": {
       "packHash": "041f10c63442",
       "packPath": "cities/mexico-city/offline-pack.json"
     },
+    "milan": {
+      "packHash": "4a32b32196b7",
+      "packPath": "cities/milan/offline-pack.json"
+    },
     "montreal": {
       "packHash": "48d1a1b20e8d",
       "packPath": "cities/montreal/offline-pack.json"
+    },
+    "mumbai": {
+      "packHash": "ae9cbfd3fe42",
+      "packPath": "cities/mumbai/offline-pack.json"
+    },
+    "munich": {
+      "packHash": "448d6902d050",
+      "packPath": "cities/munich/offline-pack.json"
+    },
+    "naples": {
+      "packHash": "ea0a7e100c3d",
+      "packPath": "cities/naples/offline-pack.json"
     },
     "new-orleans": {
       "packHash": "ac89720d629a",
@@ -183,6 +207,10 @@
     "oslo": {
       "packHash": "0ab01673170f",
       "packPath": "cities/oslo/offline-pack.json"
+    },
+    "paris": {
+      "packHash": "b2e7106a262d",
+      "packPath": "cities/paris/offline-pack.json"
     },
     "philadelphia": {
       "packHash": "972f65e7a182",
@@ -212,6 +240,14 @@
       "packHash": "13c914f33a6a",
       "packPath": "cities/rio-de-janeiro/offline-pack.json"
     },
+    "rome": {
+      "packHash": "59559fb29160",
+      "packPath": "cities/rome/offline-pack.json"
+    },
+    "salzburg": {
+      "packHash": "f594430f0083",
+      "packPath": "cities/salzburg/offline-pack.json"
+    },
     "san-francisco": {
       "packHash": "ed8b3d3fa35b",
       "packPath": "cities/san-francisco/offline-pack.json"
@@ -223,14 +259,6 @@
     "seville": {
       "packHash": "3d244f637a3b",
       "packPath": "cities/seville/offline-pack.json"
-    },
-    "hanoi": {
-      "packHash": "297a5873e0b9",
-      "packPath": "cities/hanoi/offline-pack.json"
-    },
-    "helsinki": {
-      "packHash": "ae8e6575b409",
-      "packPath": "cities/helsinki/offline-pack.json"
     },
     "ho-chi-minh-city": {
       "packHash": "10faaf33df6f",
@@ -303,34 +331,6 @@
     "melbourne": {
       "packHash": "cb7d788da424",
       "packPath": "cities/melbourne/offline-pack.json"
-    },
-    "milan": {
-      "packHash": "e094a0e890e0",
-      "packPath": "cities/milan/offline-pack.json"
-    },
-    "mumbai": {
-      "packHash": "7a7c0e0ed03e",
-      "packPath": "cities/mumbai/offline-pack.json"
-    },
-    "munich": {
-      "packHash": "b19a7fb16a97",
-      "packPath": "cities/munich/offline-pack.json"
-    },
-    "naples": {
-      "packHash": "3bf2e9d2ef81",
-      "packPath": "cities/naples/offline-pack.json"
-    },
-    "paris": {
-      "packHash": "11bd55a3fce4",
-      "packPath": "cities/paris/offline-pack.json"
-    },
-    "rome": {
-      "packHash": "49b062b58f09",
-      "packPath": "cities/rome/offline-pack.json"
-    },
-    "salzburg": {
-      "packHash": "d3ed95339001",
-      "packPath": "cities/salzburg/offline-pack.json"
     },
     "shanghai": {
       "packHash": "bbca11c1917b",
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-17T05:48:58.371Z",
+  "generatedAt": "2026-06-17T07:01:30.801Z",
   "locale": "ru",
   "schemaVersion": 1
 }

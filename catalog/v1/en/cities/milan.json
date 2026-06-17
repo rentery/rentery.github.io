@@ -1,11 +1,13 @@
 {
   "id": "milan",
   "slug": "milan",
-  "title": "Milan",
-  "subtitle": "Milan · 5 walks coming soon",
-  "meta": "Italy · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Милан",
+  "subtitle": "Милан · 1 маршрут · 4 скоро",
+  "meta": "Италия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "milan-duomo-scala-brera-stage"
+  ],
   "countryId": "italy",
   "photo": {
     "id": "milan-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Милан"
+  },
+  "identity": {
+    "accent": "#8A3F4D",
+    "soft": "#F0E2E5",
+    "deep": "#622D38",
+    "ink": "#4D2630",
+    "glyph": "МИЛ",
+    "hook": "Собор, сцена и Брера",
+    "motif": "axis"
   }
 }

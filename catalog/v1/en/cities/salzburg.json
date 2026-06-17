@@ -1,11 +1,13 @@
 {
   "id": "salzburg",
   "slug": "salzburg",
-  "title": "Salzburg",
-  "subtitle": "Salzburg · 5 walks coming soon",
-  "meta": "Austria · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Зальцбург",
+  "subtitle": "Зальцбург · 1 маршрут · 4 скоро",
+  "meta": "Австрия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "salzburg-altstadt-fortress-archbishops"
+  ],
   "countryId": "austria",
   "photo": {
     "id": "salzburg-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Зальцбург"
+  },
+  "identity": {
+    "accent": "#718044",
+    "soft": "#ECF0E1",
+    "deep": "#4E5B2E",
+    "ink": "#3F4A27",
+    "glyph": "ЗАЛ",
+    "hook": "Соборный квартал и крепость",
+    "motif": "axis"
   }
 }

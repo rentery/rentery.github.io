@@ -1,11 +1,13 @@
 {
   "id": "munich",
   "slug": "munich",
-  "title": "Munich",
-  "subtitle": "Munich · 5 walks coming soon",
-  "meta": "Germany · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Мюнхен",
+  "subtitle": "Мюнхен · 1 маршрут · 4 скоро",
+  "meta": "Германия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "munich-altstadt-marienplatz-residenz"
+  ],
   "countryId": "germany",
   "photo": {
     "id": "munich-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Мюнхен"
+  },
+  "identity": {
+    "accent": "#3D7F72",
+    "soft": "#E2EFEC",
+    "deep": "#285A50",
+    "ink": "#214941",
+    "glyph": "МЮН",
+    "hook": "Ворота, рынок и двор",
+    "motif": "axis"
   }
 }

@@ -2,10 +2,12 @@
   "id": "rome",
   "slug": "rome",
   "title": "Рим",
-  "subtitle": "Rome · 5 прогулок скоро",
+  "subtitle": "Рим · 1 маршрут · 4 скоро",
   "meta": "Италия · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "rome-capitol-forums-layers"
+  ],
   "countryId": "italy",
   "photo": {
     "id": "rome-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/rome/rome-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/rome/rome-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Рим"
+  },
+  "identity": {
+    "accent": "#9A6A32",
+    "soft": "#F1E8DD",
+    "deep": "#6D4A22",
+    "ink": "#553A1E",
+    "glyph": "РИМ",
+    "hook": "Капитолий, Форумы и власть",
+    "motif": "axis"
   }
 }

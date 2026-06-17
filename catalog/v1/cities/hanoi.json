@@ -2,10 +2,12 @@
   "id": "hanoi",
   "slug": "hanoi",
   "title": "Ханой",
-  "subtitle": "Hanoi · 5 прогулок скоро",
+  "subtitle": "Ханой · 1 маршрут · 4 скоро",
   "meta": "Вьетнам · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "hanoi-old-quarter-hoan-kiem-guilds"
+  ],
   "countryId": "vietnam",
   "photo": {
     "id": "hanoi-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Ханой"
+  },
+  "identity": {
+    "accent": "#2F7D5C",
+    "soft": "#E3F0EA",
+    "deep": "#1F5A43",
+    "ink": "#1A4535",
+    "glyph": "ХАН",
+    "hook": "Озеро, лавки и старый квартал",
+    "motif": "axis"
   }
 }

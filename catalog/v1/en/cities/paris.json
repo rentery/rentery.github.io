@@ -1,11 +1,13 @@
 {
   "id": "paris",
   "slug": "paris",
-  "title": "Paris",
-  "subtitle": "Paris · 5 walks coming soon",
-  "meta": "France · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Париж",
+  "subtitle": "Париж · 1 маршрут · 4 скоро",
+  "meta": "Франция · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "paris-ile-de-la-cite-seine-origin"
+  ],
   "countryId": "france",
   "photo": {
     "id": "paris-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/paris/paris-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/paris/paris-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Париж"
+  },
+  "identity": {
+    "accent": "#6F5E8C",
+    "soft": "#EAE6F1",
+    "deep": "#51446B",
+    "ink": "#403650",
+    "glyph": "ПАР",
+    "hook": "Остров, собор и Сена",
+    "motif": "axis"
   }
 }

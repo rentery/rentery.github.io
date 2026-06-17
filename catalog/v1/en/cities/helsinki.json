@@ -1,11 +1,13 @@
 {
   "id": "helsinki",
   "slug": "helsinki",
-  "title": "Helsinki",
-  "subtitle": "Helsinki · 5 walks coming soon",
-  "meta": "Finland · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Хельсинки",
+  "subtitle": "Хельсинки · 1 маршрут · 4 скоро",
+  "meta": "Финляндия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "helsinki-senate-harbour-capital"
+  ],
   "countryId": "finland",
   "photo": {
     "id": "helsinki-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Хельсинки"
+  },
+  "identity": {
+    "accent": "#4B7F8C",
+    "soft": "#E5EEF1",
+    "deep": "#315B66",
+    "ink": "#254852",
+    "glyph": "ХЕЛ",
+    "hook": "Столица, площадь и гавань",
+    "motif": "axis"
   }
 }

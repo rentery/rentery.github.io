@@ -1,11 +1,13 @@
 {
   "id": "naples",
   "slug": "naples",
-  "title": "Naples",
-  "subtitle": "Naples · 5 walks coming soon",
-  "meta": "Italy · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Неаполь",
+  "subtitle": "Неаполь · 1 маршрут · 4 скоро",
+  "meta": "Италия · маршруты в подготовке",
+  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "naples-spaccanapoli-decumani-layers"
+  ],
   "countryId": "italy",
   "photo": {
     "id": "naples-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/naples/naples-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/naples/naples-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Неаполь"
+  },
+  "identity": {
+    "accent": "#A5523C",
+    "soft": "#F2E5E0",
+    "deep": "#743827",
+    "ink": "#5F2F23",
+    "glyph": "НАП",
+    "hook": "Декуманы и городские слои",
+    "motif": "axis"
   }
 }

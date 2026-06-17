@@ -1101,6 +1101,34 @@
     }
   },
   {
+    "id": "hanoi",
+    "slug": "hanoi",
+    "title": "Ханой",
+    "subtitle": "Ханой · 1 маршрут · 4 скоро",
+    "meta": "Вьетнам · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "hanoi-old-quarter-hoan-kiem-guilds"
+    ],
+    "countryId": "vietnam",
+    "photo": {
+      "id": "hanoi-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Ханой"
+    },
+    "identity": {
+      "accent": "#2F7D5C",
+      "soft": "#E3F0EA",
+      "deep": "#1F5A43",
+      "ink": "#1A4535",
+      "glyph": "ХАН",
+      "hook": "Озеро, лавки и старый квартал",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "havana",
     "slug": "havana",
     "title": "Гавана",
@@ -1125,6 +1153,34 @@
       "ink": "#3B2262",
       "glyph": "ГАВ",
       "hook": "Старая Гавана: пять площадей и портовый",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "helsinki",
+    "slug": "helsinki",
+    "title": "Хельсинки",
+    "subtitle": "Хельсинки · 1 маршрут · 4 скоро",
+    "meta": "Финляндия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "helsinki-senate-harbour-capital"
+    ],
+    "countryId": "finland",
+    "photo": {
+      "id": "helsinki-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Хельсинки"
+    },
+    "identity": {
+      "accent": "#4B7F8C",
+      "soft": "#E5EEF1",
+      "deep": "#315B66",
+      "ink": "#254852",
+      "glyph": "ХЕЛ",
+      "hook": "Столица, площадь и гавань",
       "motif": "axis"
     }
   },
@@ -1157,6 +1213,34 @@
     }
   },
   {
+    "id": "milan",
+    "slug": "milan",
+    "title": "Милан",
+    "subtitle": "Милан · 1 маршрут · 4 скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "milan-duomo-scala-brera-stage"
+    ],
+    "countryId": "italy",
+    "photo": {
+      "id": "milan-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Милан"
+    },
+    "identity": {
+      "accent": "#8A3F4D",
+      "soft": "#F0E2E5",
+      "deep": "#622D38",
+      "ink": "#4D2630",
+      "glyph": "МИЛ",
+      "hook": "Собор, сцена и Брера",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "montreal",
     "slug": "montreal",
     "title": "Монреаль",
@@ -1181,6 +1265,90 @@
       "ink": "#586222",
       "glyph": "МОН",
       "hook": "Старый Монреаль: город у реки и форта",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "mumbai",
+    "slug": "mumbai",
+    "title": "Мумбаи",
+    "subtitle": "Мумбаи · 1 маршрут · 4 скоро",
+    "meta": "Индия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "mumbai-fort-gateway-port-city"
+    ],
+    "countryId": "india",
+    "photo": {
+      "id": "mumbai-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мумбаи"
+    },
+    "identity": {
+      "accent": "#A76435",
+      "soft": "#F3E8DE",
+      "deep": "#744724",
+      "ink": "#5C391E",
+      "glyph": "МУМ",
+      "hook": "Форт, вокзал и портовый город",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "munich",
+    "slug": "munich",
+    "title": "Мюнхен",
+    "subtitle": "Мюнхен · 1 маршрут · 4 скоро",
+    "meta": "Германия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "munich-altstadt-marienplatz-residenz"
+    ],
+    "countryId": "germany",
+    "photo": {
+      "id": "munich-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Мюнхен"
+    },
+    "identity": {
+      "accent": "#3D7F72",
+      "soft": "#E2EFEC",
+      "deep": "#285A50",
+      "ink": "#214941",
+      "glyph": "МЮН",
+      "hook": "Ворота, рынок и двор",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "naples",
+    "slug": "naples",
+    "title": "Неаполь",
+    "subtitle": "Неаполь · 1 маршрут · 4 скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "naples-spaccanapoli-decumani-layers"
+    ],
+    "countryId": "italy",
+    "photo": {
+      "id": "naples-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/naples/naples-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/naples/naples-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Неаполь"
+    },
+    "identity": {
+      "accent": "#A5523C",
+      "soft": "#F2E5E0",
+      "deep": "#743827",
+      "ink": "#5F2F23",
+      "glyph": "НАП",
+      "hook": "Декуманы и городские слои",
       "motif": "axis"
     }
   },
@@ -1321,6 +1489,34 @@
       "ink": "#625D22",
       "glyph": "ОСЛ",
       "hook": "Акерхус и Бьёрвика: Осло выходит к",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "paris",
+    "slug": "paris",
+    "title": "Париж",
+    "subtitle": "Париж · 1 маршрут · 4 скоро",
+    "meta": "Франция · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "paris-ile-de-la-cite-seine-origin"
+    ],
+    "countryId": "france",
+    "photo": {
+      "id": "paris-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/paris/paris-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/paris/paris-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Париж"
+    },
+    "identity": {
+      "accent": "#6F5E8C",
+      "soft": "#EAE6F1",
+      "deep": "#51446B",
+      "ink": "#403650",
+      "glyph": "ПАР",
+      "hook": "Остров, собор и Сена",
       "motif": "axis"
     }
   },
@@ -1521,6 +1717,62 @@
     }
   },
   {
+    "id": "rome",
+    "slug": "rome",
+    "title": "Рим",
+    "subtitle": "Рим · 1 маршрут · 4 скоро",
+    "meta": "Италия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "rome-capitol-forums-layers"
+    ],
+    "countryId": "italy",
+    "photo": {
+      "id": "rome-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/rome/rome-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/rome/rome-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Рим"
+    },
+    "identity": {
+      "accent": "#9A6A32",
+      "soft": "#F1E8DD",
+      "deep": "#6D4A22",
+      "ink": "#553A1E",
+      "glyph": "РИМ",
+      "hook": "Капитолий, Форумы и власть",
+      "motif": "axis"
+    }
+  },
+  {
+    "id": "salzburg",
+    "slug": "salzburg",
+    "title": "Зальцбург",
+    "subtitle": "Зальцбург · 1 маршрут · 4 скоро",
+    "meta": "Австрия · маршруты в подготовке",
+    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "salzburg-altstadt-fortress-archbishops"
+    ],
+    "countryId": "austria",
+    "photo": {
+      "id": "salzburg-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Зальцбург"
+    },
+    "identity": {
+      "accent": "#718044",
+      "soft": "#ECF0E1",
+      "deep": "#4E5B2E",
+      "ink": "#3F4A27",
+      "glyph": "ЗАЛ",
+      "hook": "Соборный квартал и крепость",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "san-francisco",
     "slug": "san-francisco",
     "title": "Сан-Франциско",
@@ -1602,40 +1854,6 @@
       "glyph": "СЕВ",
       "hook": "Триумф, Алькасар и Индии: Севилья как",
       "motif": "axis"
-    }
-  },
-  {
-    "id": "hanoi",
-    "slug": "hanoi",
-    "title": "Hanoi",
-    "subtitle": "Hanoi · 5 walks coming soon",
-    "meta": "Vietnam · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "vietnam",
-    "photo": {
-      "id": "hanoi-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/hanoi/hanoi-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Ханой"
-    }
-  },
-  {
-    "id": "helsinki",
-    "slug": "helsinki",
-    "title": "Helsinki",
-    "subtitle": "Helsinki · 5 walks coming soon",
-    "meta": "Finland · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "finland",
-    "photo": {
-      "id": "helsinki-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/helsinki/helsinki-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Хельсинки"
     }
   },
   {
@@ -1942,125 +2160,6 @@
       "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
       "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Мельбурн"
-    }
-  },
-  {
-    "id": "milan",
-    "slug": "milan",
-    "title": "Milan",
-    "subtitle": "Milan · 5 walks coming soon",
-    "meta": "Italy · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "italy",
-    "photo": {
-      "id": "milan-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Милан"
-    }
-  },
-  {
-    "id": "mumbai",
-    "slug": "mumbai",
-    "title": "Mumbai",
-    "subtitle": "Mumbai · 5 walks coming soon",
-    "meta": "India · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "india",
-    "photo": {
-      "id": "mumbai-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/mumbai/mumbai-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Мумбаи"
-    }
-  },
-  {
-    "id": "munich",
-    "slug": "munich",
-    "title": "Munich",
-    "subtitle": "Munich · 5 walks coming soon",
-    "meta": "Germany · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "germany",
-    "photo": {
-      "id": "munich-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Мюнхен"
-    }
-  },
-  {
-    "id": "naples",
-    "slug": "naples",
-    "title": "Naples",
-    "subtitle": "Naples · 5 walks coming soon",
-    "meta": "Italy · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "italy",
-    "photo": {
-      "id": "naples-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/naples/naples-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/naples/naples-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Неаполь"
-    }
-  },
-  {
-    "id": "paris",
-    "slug": "paris",
-    "title": "Paris",
-    "subtitle": "Paris · 5 walks coming soon",
-    "meta": "France · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "france",
-    "photo": {
-      "id": "paris-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/paris/paris-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/paris/paris-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Париж"
-    }
-  },
-  {
-    "id": "rome",
-    "slug": "rome",
-    "title": "Rome",
-    "subtitle": "Rome · 5 walks coming soon",
-    "meta": "Italy · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "italy",
-    "photo": {
-      "id": "rome-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/rome/rome-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/rome/rome-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Рим"
-    }
-  },
-  {
-    "id": "salzburg",
-    "slug": "salzburg",
-    "title": "Salzburg",
-    "subtitle": "Salzburg · 5 walks coming soon",
-    "meta": "Austria · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "austria",
-    "photo": {
-      "id": "salzburg-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/salzburg/salzburg-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Зальцбург"
     }
   },
   {
