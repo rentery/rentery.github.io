@@ -37,7 +37,7 @@
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
-      "packHash": "4e4a4a18485a",
+      "packHash": "baa382d6b37b",
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
@@ -77,19 +77,19 @@
       "packPath": "cities/cusco/offline-pack.json"
     },
     "bruges": {
-      "packHash": "9b09560db9bb",
+      "packHash": "cc2f1262f5b2",
       "packPath": "cities/bruges/offline-pack.json"
     },
     "boston": {
-      "packHash": "5d081a52e561",
+      "packHash": "f97ef5af607e",
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
-      "packHash": "689a27d8345b",
+      "packHash": "3b61f20c4284",
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
-      "packHash": "4624ccc5ede5",
+      "packHash": "be48d838df43",
       "packPath": "cities/fes/offline-pack.json"
     },
     "george-town-malaysia": {
@@ -101,11 +101,11 @@
       "packPath": "cities/athens/offline-pack.json"
     },
     "auckland": {
-      "packHash": "70d34ac7881e",
+      "packHash": "e9ff528e9831",
       "packPath": "cities/auckland/offline-pack.json"
     },
     "bangkok": {
-      "packHash": "b62520bd08a4",
+      "packHash": "d84bc4f7ef13",
       "packPath": "cities/bangkok/offline-pack.json"
     },
     "barcelona": {
@@ -145,7 +145,7 @@
       "packPath": "cities/copenhagen/offline-pack.json"
     },
     "dublin": {
-      "packHash": "1ed9384fcd21",
+      "packHash": "7f4d9a66dfc8",
       "packPath": "cities/dublin/offline-pack.json"
     },
     "dubrovnik": {
@@ -161,7 +161,7 @@
       "packPath": "cities/havana/offline-pack.json"
     },
     "helsinki": {
-      "packHash": "6ab708554687",
+      "packHash": "ab6ad869a65c",
       "packPath": "cities/helsinki/offline-pack.json"
     },
     "mexico-city": {
@@ -261,7 +261,7 @@
       "packPath": "cities/seville/offline-pack.json"
     },
     "hong-kong": {
-      "packHash": "0b9b49f9ece4",
+      "packHash": "89f2c18e18b4",
       "packPath": "cities/hong-kong/offline-pack.json"
     },
     "istanbul": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-17T23:26:55.761Z",
+  "generatedAt": "2026-06-18T05:38:12.399Z",
   "locale": "en",
   "schemaVersion": 1
 }

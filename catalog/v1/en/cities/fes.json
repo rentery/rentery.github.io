@@ -2,11 +2,12 @@
   "id": "fes",
   "slug": "fes",
   "title": "Фес",
-  "subtitle": "Fez · 1 маршрут · 4 скоро",
+  "subtitle": "Фес · 2 маршрута · 3 скоро",
   "meta": "Марокко · медина, медресе, рынки и ремесло",
-  "practicalNote": "В Фесе опубликован первый маршрут по медине; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "fes-bab-boujloud-qarawiyyin-layers"
+    "fes-bab-boujloud-qarawiyyin-layers",
+    "fes-el-jdid-mellah-jnan-sbil"
   ],
   "countryId": "morocco",
   "photo": {

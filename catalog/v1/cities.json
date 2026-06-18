@@ -298,11 +298,12 @@
     "id": "cape-town",
     "slug": "cape-town",
     "title": "Кейптаун",
-    "subtitle": "Cape Town · 1 маршрут · 4 скоро",
-    "meta": "ЮАР · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Кейптаун · 2 маршрута · 3 скоро",
+    "meta": "ЮАР · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "cape-town-district-six-castle-garden"
+      "cape-town-district-six-castle-garden",
+      "cape-town-bo-kaap-colour-faith"
     ],
     "countryId": "south-africa",
     "photo": {
@@ -587,11 +588,12 @@
     "id": "bruges",
     "slug": "bruges",
     "title": "Брюгге",
-    "subtitle": "Брюгге · 1 маршрут · 4 скоро",
-    "meta": "Бельгия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Брюгге · 2 маршрута · 3 скоро",
+    "meta": "Бельгия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "bruges-markt-burg-civic-power"
+      "bruges-markt-burg-civic-power",
+      "bruges-hanseatic-canals-merchant-city"
     ],
     "countryId": "belgium",
     "photo": {
@@ -615,11 +617,12 @@
     "id": "boston",
     "slug": "boston",
     "title": "Бостон",
-    "subtitle": "Бостон · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Бостон · 2 маршрута · 3 скоро",
+    "meta": "США · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "boston-freedom-trail-revolution-city"
+      "boston-freedom-trail-revolution-city",
+      "boston-beacon-hill-black-heritage"
     ],
     "countryId": "united-states",
     "photo": {
@@ -643,11 +646,12 @@
     "id": "bogota",
     "slug": "bogota",
     "title": "Богота",
-    "subtitle": "Богота · 1 маршрут · 4 скоро",
-    "meta": "Колумбия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Богота · 2 маршрута · 3 скоро",
+    "meta": "Колумбия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "bogota-candelaria-gold-power"
+      "bogota-candelaria-gold-power",
+      "bogota-monserrate-eastern-hills"
     ],
     "countryId": "colombia",
     "photo": {
@@ -671,11 +675,12 @@
     "id": "fes",
     "slug": "fes",
     "title": "Фес",
-    "subtitle": "Fez · 1 маршрут · 4 скоро",
+    "subtitle": "Фес · 2 маршрута · 3 скоро",
     "meta": "Марокко · медина, медресе, рынки и ремесло",
-    "practicalNote": "В Фесе опубликован первый маршрут по медине; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "fes-bab-boujloud-qarawiyyin-layers"
+      "fes-bab-boujloud-qarawiyyin-layers",
+      "fes-el-jdid-mellah-jnan-sbil"
     ],
     "countryId": "morocco",
     "photo": {
@@ -757,11 +762,12 @@
     "id": "auckland",
     "slug": "auckland",
     "title": "Окленд",
-    "subtitle": "Окленд · 1 маршрут · 4 скоро",
-    "meta": "Новая Зеландия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Окленд · 2 маршрута · 3 скоро",
+    "meta": "Новая Зеландия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "auckland-waterfront-britomart-harbour-layers"
+      "auckland-waterfront-britomart-harbour-layers",
+      "auckland-maungawhau-volcano-city-view"
     ],
     "countryId": "new-zealand",
     "photo": {
@@ -785,11 +791,12 @@
     "id": "bangkok",
     "slug": "bangkok",
     "title": "Бангкок",
-    "subtitle": "Бангкок · 1 маршрут · 4 скоро",
-    "meta": "Таиланд · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Бангкок · 2 маршрута · 3 скоро",
+    "meta": "Таиланд · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "bangkok-rattanakosin-royal-river"
+      "bangkok-rattanakosin-royal-river",
+      "bangkok-yaowarat-talat-noi-trade"
     ],
     "countryId": "thailand",
     "photo": {
@@ -1074,11 +1081,12 @@
     "id": "dublin",
     "slug": "dublin",
     "title": "Дублин",
-    "subtitle": "Дублин · 1 маршрут · 4 скоро",
-    "meta": "Ирландия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дублин · 2 маршрута · 3 скоро",
+    "meta": "Ирландия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "dublin-castle-walls-trinity-power"
+      "dublin-castle-walls-trinity-power",
+      "dublin-georgian-south-literary"
     ],
     "countryId": "ireland",
     "photo": {
@@ -1189,11 +1197,12 @@
     "id": "helsinki",
     "slug": "helsinki",
     "title": "Хельсинки",
-    "subtitle": "Хельсинки · 1 маршрут · 4 скоро",
-    "meta": "Финляндия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Хельсинки · 2 маршрута · 3 скоро",
+    "meta": "Финляндия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "helsinki-senate-harbour-capital"
+      "helsinki-senate-harbour-capital",
+      "helsinki-suomenlinna-fortress-islands"
     ],
     "countryId": "finland",
     "photo": {
@@ -1889,11 +1898,12 @@
     "id": "hong-kong",
     "slug": "hong-kong",
     "title": "Гонконг",
-    "subtitle": "Гонконг · 1 маршрут · 4 скоро",
-    "meta": "Китай · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гонконг · 2 маршрута · 3 скоро",
+    "meta": "Китай · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "hong-kong-old-town-central-layers"
+      "hong-kong-old-town-central-layers",
+      "hong-kong-tsim-sha-tsui-harbour-stage"
     ],
     "countryId": "china",
     "photo": {

@@ -2,11 +2,12 @@
   "id": "helsinki",
   "slug": "helsinki",
   "title": "Хельсинки",
-  "subtitle": "Хельсинки · 1 маршрут · 4 скоро",
-  "meta": "Финляндия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Хельсинки · 2 маршрута · 3 скоро",
+  "meta": "Финляндия · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "helsinki-senate-harbour-capital"
+    "helsinki-senate-harbour-capital",
+    "helsinki-suomenlinna-fortress-islands"
   ],
   "countryId": "finland",
   "photo": {
