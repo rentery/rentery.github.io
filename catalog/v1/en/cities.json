@@ -1428,11 +1428,12 @@
     "id": "new-orleans",
     "slug": "new-orleans",
     "title": "Новый Орлеан",
-    "subtitle": "Новый Орлеан · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Новый Орлеан · 2 маршрута · 3 скоро",
+    "meta": "США · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "new-orleans-french-quarter-mississippi-layers"
+      "new-orleans-french-quarter-mississippi-layers",
+      "new-orleans-garden-district-st-charles-oaks"
     ],
     "countryId": "united-states",
     "photo": {
@@ -1456,11 +1457,12 @@
     "id": "new-york",
     "slug": "new-york",
     "title": "Нью-Йорк",
-    "subtitle": "Нью-Йорк · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Нью-Йорк · 2 маршрута · 3 скоро",
+    "meta": "США · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "new-york-lower-manhattan-harbor-power"
+      "new-york-lower-manhattan-harbor-power",
+      "new-york-central-park-designed-nature"
     ],
     "countryId": "united-states",
     "photo": {
@@ -1484,11 +1486,12 @@
     "id": "oaxaca",
     "slug": "oaxaca",
     "title": "Оахака",
-    "subtitle": "Оахака · 1 маршрут · 4 скоро",
-    "meta": "Мексика · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Оахака · 2 маршрута · 3 скоро",
+    "meta": "Мексика · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "oaxaca-zocalo-santo-domingo-layers"
+      "oaxaca-zocalo-santo-domingo-layers",
+      "oaxaca-monte-alban-sacred-topography"
     ],
     "countryId": "mexico",
     "photo": {
@@ -1512,11 +1515,12 @@
     "id": "osaka",
     "slug": "osaka",
     "title": "Осака",
-    "subtitle": "Осака · 1 маршрут · 4 скоро",
-    "meta": "Япония · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Осака · 2 маршрута · 3 скоро",
+    "meta": "Япония · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "osaka-castle-nakanoshima-water-power"
+      "osaka-castle-nakanoshima-water-power",
+      "osaka-dotonbori-namba-neon-food-theatre"
     ],
     "countryId": "japan",
     "photo": {
@@ -2048,11 +2052,12 @@
     "id": "kathmandu",
     "slug": "kathmandu",
     "title": "Катманду",
-    "subtitle": "Катманду · 1 маршрут · 4 скоро",
-    "meta": "Непал · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Катманду · 2 маршрута · 3 скоро",
+    "meta": "Непал · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "kathmandu-durbar-asan-newar-city"
+      "kathmandu-durbar-asan-newar-city",
+      "kathmandu-swayambhu-city-origin-hill"
     ],
     "countryId": "nepal",
     "photo": {

@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "bc46f9ce4c6a",
+      "packHash": "c1b134b14023",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -193,19 +193,19 @@
       "packPath": "cities/naples/offline-pack.json"
     },
     "new-orleans": {
-      "packHash": "ac89720d629a",
+      "packHash": "6d2a918746fe",
       "packPath": "cities/new-orleans/offline-pack.json"
     },
     "new-york": {
-      "packHash": "696901372dbd",
+      "packHash": "84965e2f711a",
       "packPath": "cities/new-york/offline-pack.json"
     },
     "oaxaca": {
-      "packHash": "5527f94c6cd3",
+      "packHash": "462a56faf1c1",
       "packPath": "cities/oaxaca/offline-pack.json"
     },
     "osaka": {
-      "packHash": "554d3dce1f49",
+      "packHash": "a746c9d95018",
       "packPath": "cities/osaka/offline-pack.json"
     },
     "oslo": {
@@ -281,7 +281,7 @@
       "packPath": "cities/jerusalem/offline-pack.json"
     },
     "kathmandu": {
-      "packHash": "4bb4a128288c",
+      "packHash": "17a3dc46b9b3",
       "packPath": "cities/kathmandu/offline-pack.json"
     },
     "krakow": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-18T14:03:36.084Z",
+  "generatedAt": "2026-06-18T15:17:47.230Z",
   "locale": "ru",
   "schemaVersion": 1
 }
