@@ -221,15 +221,15 @@
       "packPath": "cities/philadelphia/offline-pack.json"
     },
     "porto": {
-      "packHash": "d39a7afe3ca3",
+      "packHash": "a562ab215b7f",
       "packPath": "cities/porto/offline-pack.json"
     },
     "prague": {
-      "packHash": "ce5550210011",
+      "packHash": "74056ff53deb",
       "packPath": "cities/prague/offline-pack.json"
     },
     "quebec-city": {
-      "packHash": "af68d332bed5",
+      "packHash": "65c9701f34eb",
       "packPath": "cities/quebec-city/offline-pack.json"
     },
     "quito": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-18T15:17:47.821Z",
+  "generatedAt": "2026-06-18T16:01:16.753Z",
   "locale": "en",
   "schemaVersion": 1
 }

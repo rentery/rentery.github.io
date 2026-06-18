@@ -1628,11 +1628,12 @@
     "id": "porto",
     "slug": "porto",
     "title": "Порту",
-    "subtitle": "Порту · 1 маршрут · 4 скоро",
-    "meta": "Португалия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Порту · 2 маршрута · 3 скоро",
+    "meta": "Португалия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "porto-se-ribeira-layers"
+      "porto-se-ribeira-layers",
+      "porto-gaia-wine-river-views"
     ],
     "countryId": "portugal",
     "photo": {
@@ -1656,11 +1657,12 @@
     "id": "prague",
     "slug": "prague",
     "title": "Прага",
-    "subtitle": "Прага · 1 маршрут · 4 скоро",
-    "meta": "Чехия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Прага · 2 маршрута · 3 скоро",
+    "meta": "Чехия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "prague-royal-route-castle-layers"
+      "prague-royal-route-castle-layers",
+      "prague-josefov-old-town-memory"
     ],
     "countryId": "czechia",
     "photo": {
@@ -1684,11 +1686,12 @@
     "id": "quebec-city",
     "slug": "quebec-city",
     "title": "Квебек",
-    "subtitle": "Квебек · 1 маршрут · 4 скоро",
-    "meta": "Канада · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Квебек · 2 маршрута · 3 скоро",
+    "meta": "Канада · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "quebec-city-old-quebec-cliff-river"
+      "quebec-city-old-quebec-cliff-river",
+      "quebec-city-fortifications-walled-city"
     ],
     "countryId": "canada",
     "photo": {
