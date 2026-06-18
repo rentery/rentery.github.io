@@ -2064,7 +2064,7 @@
       "soft": "#EAE2D3",
       "deep": "#54402D",
       "ink": "#463728",
-      "motif": "ridge",
+      "motif": "axis",
       "duration": "2 ч 30 мин",
       "stops": 7,
       "distance": "3,8 км",
@@ -7613,5 +7613,5 @@
       "stopId": "belgrade-zemun-danube-town-8"
     }
   ],
-  "packHash": "c1b134b14023"
+  "packHash": "bc46f9ce4c6a"
 }
