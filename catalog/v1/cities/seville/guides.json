@@ -1,6 +1,536 @@
 [
   {
     "id": "seville-triunfo-alcazar-cathedral-indies",
+    "routePath": {
+      "coordinates": [
+        [
+          -5.992385,
+          37.385188
+        ],
+        [
+          -5.992725,
+          37.385163
+        ],
+        [
+          -5.992994,
+          37.385142
+        ],
+        [
+          -5.993126,
+          37.385132
+        ],
+        [
+          -5.993126,
+          37.385132
+        ],
+        [
+          -5.992994,
+          37.385142
+        ],
+        [
+          -5.992725,
+          37.385163
+        ],
+        [
+          -5.992385,
+          37.385188
+        ],
+        [
+          -5.992307,
+          37.385211
+        ],
+        [
+          -5.992155,
+          37.38528
+        ],
+        [
+          -5.992162,
+          37.385315
+        ],
+        [
+          -5.992226,
+          37.385639
+        ],
+        [
+          -5.992235,
+          37.385683
+        ],
+        [
+          -5.992312,
+          37.386073
+        ],
+        [
+          -5.992365,
+          37.386069
+        ],
+        [
+          -5.992416,
+          37.386064
+        ],
+        [
+          -5.992541,
+          37.386053
+        ],
+        [
+          -5.992541,
+          37.386053
+        ],
+        [
+          -5.992416,
+          37.386064
+        ],
+        [
+          -5.992365,
+          37.386069
+        ],
+        [
+          -5.992312,
+          37.386073
+        ],
+        [
+          -5.992235,
+          37.385683
+        ],
+        [
+          -5.992226,
+          37.385639
+        ],
+        [
+          -5.992162,
+          37.385315
+        ],
+        [
+          -5.992155,
+          37.38528
+        ],
+        [
+          -5.992307,
+          37.385211
+        ],
+        [
+          -5.992385,
+          37.385188
+        ],
+        [
+          -5.992725,
+          37.385163
+        ],
+        [
+          -5.992994,
+          37.385142
+        ],
+        [
+          -5.992995,
+          37.385169
+        ],
+        [
+          -5.993,
+          37.385203
+        ],
+        [
+          -5.99301,
+          37.385235
+        ],
+        [
+          -5.993074,
+          37.385306
+        ],
+        [
+          -5.993074,
+          37.385306
+        ],
+        [
+          -5.993074,
+          37.385306
+        ],
+        [
+          -5.99301,
+          37.385235
+        ],
+        [
+          -5.993,
+          37.385203
+        ],
+        [
+          -5.992995,
+          37.385169
+        ],
+        [
+          -5.992994,
+          37.385142
+        ],
+        [
+          -5.992725,
+          37.385163
+        ],
+        [
+          -5.992385,
+          37.385188
+        ],
+        [
+          -5.992307,
+          37.385211
+        ],
+        [
+          -5.992155,
+          37.38528
+        ],
+        [
+          -5.992162,
+          37.385315
+        ],
+        [
+          -5.992226,
+          37.385639
+        ],
+        [
+          -5.992235,
+          37.385683
+        ],
+        [
+          -5.992312,
+          37.386073
+        ],
+        [
+          -5.992315,
+          37.386089
+        ],
+        [
+          -5.992315,
+          37.386089
+        ],
+        [
+          -5.992312,
+          37.386073
+        ],
+        [
+          -5.992235,
+          37.385683
+        ],
+        [
+          -5.992226,
+          37.385639
+        ],
+        [
+          -5.992162,
+          37.385315
+        ],
+        [
+          -5.992155,
+          37.38528
+        ],
+        [
+          -5.992307,
+          37.385211
+        ],
+        [
+          -5.992385,
+          37.385188
+        ],
+        [
+          -5.992725,
+          37.385163
+        ],
+        [
+          -5.992443,
+          37.38477
+        ],
+        [
+          -5.992411,
+          37.384578
+        ],
+        [
+          -5.992284,
+          37.384637
+        ],
+        [
+          -5.992243,
+          37.38459
+        ],
+        [
+          -5.992243,
+          37.38459
+        ],
+        [
+          -5.992284,
+          37.384637
+        ],
+        [
+          -5.992411,
+          37.384578
+        ],
+        [
+          -5.992443,
+          37.38477
+        ],
+        [
+          -5.991807,
+          37.385112
+        ],
+        [
+          -5.991771,
+          37.38507
+        ],
+        [
+          -5.991734,
+          37.385027
+        ],
+        [
+          -5.991518,
+          37.384794
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            -5.992385,
+            37.385188
+          ],
+          "instruction": "Walk west on Calle Fray Ceferino González.",
+          "distanceM": 66,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.993126,
+            37.385132
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.993126,
+            37.385132
+          ],
+          "instruction": "Walk east on Calle Fray Ceferino González.",
+          "distanceM": 90,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992155,
+            37.38528
+          ],
+          "instruction": "Turn left onto Plaza Virgen de los Reyes.",
+          "distanceM": 89,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992312,
+            37.386073
+          ],
+          "instruction": "Turn left onto Puerta de Palos.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992541,
+            37.386053
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992541,
+            37.386053
+          ],
+          "instruction": "Walk east on Puerta de Palos.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992312,
+            37.386073
+          ],
+          "instruction": "Turn right onto Plaza Virgen de los Reyes.",
+          "distanceM": 89,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992155,
+            37.38528
+          ],
+          "instruction": "Turn right to stay on Plaza Virgen de los Reyes.",
+          "distanceM": 78,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992994,
+            37.385142
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.993074,
+            37.385306
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.993074,
+            37.385306
+          ],
+          "instruction": "Walk southeast on the walkway.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992994,
+            37.385142
+          ],
+          "instruction": "Turn left onto Calle Fray Ceferino González.",
+          "distanceM": 78,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992155,
+            37.38528
+          ],
+          "instruction": "Turn left onto Plaza Virgen de los Reyes.",
+          "distanceM": 90,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992315,
+            37.386089
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992315,
+            37.386089
+          ],
+          "instruction": "Walk south on Plaza Virgen de los Reyes.",
+          "distanceM": 90,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992155,
+            37.38528
+          ],
+          "instruction": "Turn right to stay on Plaza Virgen de los Reyes.",
+          "distanceM": 54,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992725,
+            37.385163
+          ],
+          "instruction": "Turn left onto Plaza del Triunfo.",
+          "distanceM": 72,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992411,
+            37.384578
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992243,
+            37.38459
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992243,
+            37.38459
+          ],
+          "instruction": "Walk northwest on the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992411,
+            37.384578
+          ],
+          "instruction": "Turn right onto Plaza del Triunfo.",
+          "distanceM": 22,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.992443,
+            37.38477
+          ],
+          "instruction": "Turn right to stay on Plaza del Triunfo.",
+          "distanceM": 68,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.991807,
+            37.385112
+          ],
+          "instruction": "Turn right to stay on Plaza del Triunfo.",
+          "distanceM": 6,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.991771,
+            37.38507
+          ],
+          "instruction": "Continue on the walkway.",
+          "distanceM": 6,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.991734,
+            37.385027
+          ],
+          "instruction": "Continue on Patio de Banderas.",
+          "distanceM": 31,
+          "type": ""
+        },
+        {
+          "location": [
+            -5.991518,
+            37.384794
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:26:46.146Z"
+      }
+    },
     "cityId": "seville",
     "category": "Маршрут",
     "title": "Триумф, Алькасар и Индии: Севилья как",

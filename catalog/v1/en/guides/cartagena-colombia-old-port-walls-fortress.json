@@ -1,5 +1,344 @@
 {
   "id": "cartagena-colombia-old-port-walls-fortress",
+  "routePath": {
+    "coordinates": [
+      [
+        -75.549149,
+        10.423084
+      ],
+      [
+        -75.549116,
+        10.423062
+      ],
+      [
+        -75.549046,
+        10.422891
+      ],
+      [
+        -75.548959,
+        10.422814
+      ],
+      [
+        -75.549078,
+        10.422678
+      ],
+      [
+        -75.549167,
+        10.422634
+      ],
+      [
+        -75.549234,
+        10.422589
+      ],
+      [
+        -75.549286,
+        10.422548
+      ],
+      [
+        -75.549349,
+        10.422478
+      ],
+      [
+        -75.549816,
+        10.42186
+      ],
+      [
+        -75.549931,
+        10.421944
+      ],
+      [
+        -75.549994,
+        10.421992
+      ],
+      [
+        -75.550118,
+        10.422078
+      ],
+      [
+        -75.55014,
+        10.422095
+      ],
+      [
+        -75.550099,
+        10.422154
+      ],
+      [
+        -75.550099,
+        10.422154
+      ],
+      [
+        -75.55014,
+        10.422095
+      ],
+      [
+        -75.550406,
+        10.421716
+      ],
+      [
+        -75.550441,
+        10.421672
+      ],
+      [
+        -75.550906,
+        10.421648
+      ],
+      [
+        -75.550936,
+        10.421961
+      ],
+      [
+        -75.550964,
+        10.42242
+      ],
+      [
+        -75.551189,
+        10.422399
+      ],
+      [
+        -75.551514,
+        10.422393
+      ],
+      [
+        -75.551514,
+        10.422393
+      ],
+      [
+        -75.551629,
+        10.422391
+      ],
+      [
+        -75.55232,
+        10.422536
+      ],
+      [
+        -75.552293,
+        10.422752
+      ],
+      [
+        -75.552293,
+        10.422752
+      ],
+      [
+        -75.552248,
+        10.423116
+      ],
+      [
+        -75.553362,
+        10.423482
+      ],
+      [
+        -75.553366,
+        10.423527
+      ],
+      [
+        -75.553398,
+        10.424065
+      ],
+      [
+        -75.553418,
+        10.424438
+      ],
+      [
+        -75.553755,
+        10.424458
+      ],
+      [
+        -75.553771,
+        10.424459
+      ],
+      [
+        -75.554015,
+        10.424458
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -75.549149,
+          10.423084
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.549116,
+          10.423062
+        ],
+        "instruction": "Keep right to take the walkway.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.548959,
+          10.422814
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 143,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.549816,
+          10.42186
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.55014,
+          10.422095
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.550099,
+          10.422154
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.550099,
+          10.422154
+        ],
+        "instruction": "Walk southwest on the walkway.",
+        "distanceM": 115,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.550906,
+          10.421648
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.550936,
+          10.421961
+        ],
+        "instruction": "Continue on Calle San Pedro Claver.",
+        "distanceM": 51,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.550964,
+          10.42242
+        ],
+        "instruction": "Turn left onto Calle de las Damas.",
+        "distanceM": 60,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.551514,
+          10.422393
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.551514,
+          10.422393
+        ],
+        "instruction": "Walk west on Calle de las Damas.",
+        "distanceM": 89,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.55232,
+          10.422536
+        ],
+        "instruction": "Turn right onto Calle de Santa Teresa.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.552293,
+          10.422752
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.552293,
+          10.422752
+        ],
+        "instruction": "Walk north on Calle de Santa Teresa.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.552248,
+          10.423116
+        ],
+        "instruction": "Turn left onto Calle Baloco.",
+        "distanceM": 129,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.553362,
+          10.423482
+        ],
+        "instruction": "Turn right onto Playa de la Artillería.",
+        "distanceM": 107,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.553418,
+          10.424438
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 39,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.553771,
+          10.424459
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 27,
+        "type": ""
+      },
+      {
+        "location": [
+          -75.554015,
+          10.424458
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:25:26.976Z"
+    }
+  },
   "cityId": "cartagena-colombia",
   "category": "История",
   "title": "Старый порт и стены: Картахена как креп…",

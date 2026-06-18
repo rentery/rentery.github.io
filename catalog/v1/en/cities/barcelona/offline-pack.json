@@ -306,6 +306,922 @@
     },
     {
       "id": "barcelona-gothic-roman-core",
+      "routePath": {
+        "coordinates": [
+          [
+            2.175913,
+            41.383637
+          ],
+          [
+            2.175997,
+            41.383577
+          ],
+          [
+            2.176204,
+            41.383433
+          ],
+          [
+            2.176509,
+            41.383686
+          ],
+          [
+            2.176655,
+            41.383588
+          ],
+          [
+            2.176894,
+            41.383588
+          ],
+          [
+            2.177174,
+            41.383826
+          ],
+          [
+            2.177059,
+            41.383911
+          ],
+          [
+            2.176985,
+            41.383971
+          ],
+          [
+            2.176911,
+            41.384025
+          ],
+          [
+            2.176765,
+            41.384128
+          ],
+          [
+            2.176681,
+            41.384178
+          ],
+          [
+            2.176637,
+            41.384208
+          ],
+          [
+            2.176637,
+            41.384208
+          ],
+          [
+            2.176681,
+            41.384178
+          ],
+          [
+            2.176765,
+            41.384128
+          ],
+          [
+            2.176911,
+            41.384025
+          ],
+          [
+            2.176985,
+            41.383971
+          ],
+          [
+            2.177059,
+            41.383911
+          ],
+          [
+            2.177174,
+            41.383826
+          ],
+          [
+            2.176894,
+            41.383588
+          ],
+          [
+            2.177033,
+            41.383471
+          ],
+          [
+            2.177158,
+            41.383354
+          ],
+          [
+            2.177077,
+            41.383286
+          ],
+          [
+            2.176895,
+            41.383153
+          ],
+          [
+            2.177086,
+            41.383005
+          ],
+          [
+            2.177101,
+            41.382993
+          ],
+          [
+            2.177008,
+            41.382912
+          ],
+          [
+            2.176978,
+            41.38293
+          ],
+          [
+            2.176788,
+            41.383048
+          ],
+          [
+            2.176788,
+            41.383048
+          ],
+          [
+            2.176694,
+            41.383107
+          ],
+          [
+            2.176476,
+            41.383256
+          ],
+          [
+            2.176412,
+            41.383299
+          ],
+          [
+            2.176204,
+            41.383433
+          ],
+          [
+            2.175997,
+            41.383577
+          ],
+          [
+            2.175778,
+            41.383734
+          ],
+          [
+            2.17576,
+            41.383721
+          ],
+          [
+            2.175667,
+            41.383658
+          ],
+          [
+            2.175517,
+            41.383559
+          ],
+          [
+            2.175424,
+            41.38358
+          ],
+          [
+            2.175404,
+            41.383581
+          ],
+          [
+            2.175321,
+            41.383549
+          ],
+          [
+            2.17529,
+            41.383545
+          ],
+          [
+            2.17529,
+            41.383545
+          ],
+          [
+            2.175321,
+            41.383549
+          ],
+          [
+            2.175404,
+            41.383581
+          ],
+          [
+            2.175424,
+            41.38358
+          ],
+          [
+            2.175517,
+            41.383559
+          ],
+          [
+            2.175667,
+            41.383658
+          ],
+          [
+            2.17576,
+            41.383721
+          ],
+          [
+            2.175778,
+            41.383734
+          ],
+          [
+            2.175997,
+            41.383577
+          ],
+          [
+            2.176204,
+            41.383433
+          ],
+          [
+            2.176412,
+            41.383299
+          ],
+          [
+            2.176476,
+            41.383256
+          ],
+          [
+            2.176694,
+            41.383107
+          ],
+          [
+            2.176978,
+            41.38293
+          ],
+          [
+            2.177008,
+            41.382912
+          ],
+          [
+            2.177101,
+            41.382993
+          ],
+          [
+            2.177429,
+            41.383234
+          ],
+          [
+            2.177738,
+            41.383501
+          ],
+          [
+            2.17793,
+            41.383644
+          ],
+          [
+            2.178231,
+            41.383885
+          ],
+          [
+            2.178069,
+            41.384005
+          ],
+          [
+            2.177877,
+            41.38415
+          ],
+          [
+            2.177787,
+            41.384221
+          ],
+          [
+            2.177787,
+            41.384221
+          ],
+          [
+            2.177877,
+            41.38415
+          ],
+          [
+            2.178069,
+            41.384005
+          ],
+          [
+            2.178231,
+            41.383885
+          ],
+          [
+            2.17793,
+            41.383644
+          ],
+          [
+            2.177738,
+            41.383501
+          ],
+          [
+            2.177429,
+            41.383234
+          ],
+          [
+            2.177101,
+            41.382993
+          ],
+          [
+            2.177008,
+            41.382912
+          ],
+          [
+            2.176664,
+            41.382612
+          ],
+          [
+            2.176635,
+            41.382632
+          ],
+          [
+            2.176434,
+            41.382765
+          ],
+          [
+            2.176322,
+            41.382808
+          ],
+          [
+            2.176221,
+            41.382865
+          ],
+          [
+            2.176221,
+            41.382865
+          ],
+          [
+            2.176322,
+            41.382808
+          ],
+          [
+            2.176434,
+            41.382765
+          ],
+          [
+            2.176635,
+            41.382632
+          ],
+          [
+            2.176664,
+            41.382612
+          ],
+          [
+            2.177008,
+            41.382912
+          ],
+          [
+            2.177231,
+            41.382767
+          ],
+          [
+            2.177367,
+            41.382679
+          ],
+          [
+            2.177537,
+            41.382552
+          ],
+          [
+            2.177916,
+            41.382785
+          ],
+          [
+            2.178162,
+            41.382903
+          ],
+          [
+            2.178179,
+            41.382909
+          ],
+          [
+            2.178406,
+            41.382999
+          ],
+          [
+            2.178488,
+            41.382941
+          ],
+          [
+            2.178512,
+            41.38292
+          ],
+          [
+            2.17852,
+            41.382914
+          ],
+          [
+            2.178607,
+            41.382847
+          ],
+          [
+            2.178751,
+            41.382754
+          ],
+          [
+            2.179102,
+            41.382955
+          ],
+          [
+            2.179138,
+            41.38297
+          ],
+          [
+            2.179367,
+            41.383062
+          ],
+          [
+            2.1794,
+            41.38304
+          ],
+          [
+            2.179502,
+            41.382973
+          ],
+          [
+            2.179591,
+            41.382814
+          ],
+          [
+            2.179643,
+            41.382721
+          ],
+          [
+            2.179724,
+            41.382668
+          ],
+          [
+            2.180089,
+            41.382383
+          ],
+          [
+            2.180129,
+            41.382351
+          ],
+          [
+            2.180314,
+            41.382214
+          ],
+          [
+            2.180584,
+            41.382011
+          ],
+          [
+            2.180642,
+            41.381968
+          ],
+          [
+            2.180812,
+            41.382186
+          ],
+          [
+            2.180838,
+            41.38222
+          ],
+          [
+            2.180867,
+            41.382251
+          ],
+          [
+            2.180879,
+            41.382266
+          ],
+          [
+            2.180902,
+            41.382303
+          ],
+          [
+            2.180927,
+            41.382339
+          ],
+          [
+            2.180946,
+            41.382359
+          ],
+          [
+            2.180965,
+            41.382386
+          ],
+          [
+            2.180971,
+            41.382398
+          ],
+          [
+            2.181169,
+            41.382671
+          ],
+          [
+            2.181331,
+            41.382604
+          ],
+          [
+            2.181416,
+            41.382679
+          ],
+          [
+            2.181639,
+            41.382864
+          ],
+          [
+            2.181828,
+            41.383025
+          ],
+          [
+            2.181924,
+            41.383122
+          ],
+          [
+            2.182076,
+            41.383015
+          ],
+          [
+            2.182324,
+            41.382874
+          ],
+          [
+            2.182564,
+            41.382785
+          ],
+          [
+            2.182571,
+            41.382837
+          ],
+          [
+            2.182785,
+            41.383101
+          ],
+          [
+            2.18273,
+            41.383124
+          ],
+          [
+            2.18259,
+            41.383183
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              2.175913,
+              41.383637
+            ],
+            "instruction": "Walk southeast on Carrer del Bisbe.",
+            "distanceM": 33,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176204,
+              41.383433
+            ],
+            "instruction": "Turn left onto Carrer de la Pietat.",
+            "distanceM": 74,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176894,
+              41.383588
+            ],
+            "instruction": "Turn left to stay on Carrer de la Pietat.",
+            "distanceM": 35,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177174,
+              41.383826
+            ],
+            "instruction": "Turn left onto Carrer dels Comtes.",
+            "distanceM": 62,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176637,
+              41.384208
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176637,
+              41.384208
+            ],
+            "instruction": "Walk southeast on Carrer dels Comtes.",
+            "distanceM": 62,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177174,
+              41.383826
+            ],
+            "instruction": "Turn right onto Carrer de la Pietat.",
+            "distanceM": 35,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176894,
+              41.383588
+            ],
+            "instruction": "Turn left onto Carrer del Paradís.",
+            "distanceM": 90,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177101,
+              41.382993
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177008,
+              41.382912
+            ],
+            "instruction": "Turn right onto Plaça de Sant Jaume.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176788,
+              41.383048
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176788,
+              41.383048
+            ],
+            "instruction": "Walk northwest on Carrer del Bisbe.",
+            "distanceM": 113,
+            "type": ""
+          },
+          {
+            "location": [
+              2.175778,
+              41.383734
+            ],
+            "instruction": "Turn left onto Carrer de Montjuïc del Bisbe.",
+            "distanceM": 49,
+            "type": ""
+          },
+          {
+            "location": [
+              2.17529,
+              41.383545
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              2.17529,
+              41.383545
+            ],
+            "instruction": "Walk east on Carrer de Montjuïc del Bisbe.",
+            "distanceM": 49,
+            "type": ""
+          },
+          {
+            "location": [
+              2.175778,
+              41.383734
+            ],
+            "instruction": "Turn right onto Carrer del Bisbe.",
+            "distanceM": 137,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177008,
+              41.382912
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177101,
+              41.382993
+            ],
+            "instruction": "Continue on Carrer de la Llibreteria.",
+            "distanceM": 137,
+            "type": ""
+          },
+          {
+            "location": [
+              2.178231,
+              41.383885
+            ],
+            "instruction": "Turn left onto Carrer de la Tapineria.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177787,
+              41.384221
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177787,
+              41.384221
+            ],
+            "instruction": "Walk southeast on Carrer de la Tapineria.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              2.178231,
+              41.383885
+            ],
+            "instruction": "Turn right onto Baixada de la Llibreteria.",
+            "distanceM": 137,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177101,
+              41.382993
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 56,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176664,
+              41.382612
+            ],
+            "instruction": "Turn right onto Plaça de Sant Jaume.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176221,
+              41.382865
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176221,
+              41.382865
+            ],
+            "instruction": "Walk southeast on Carrer de Sant Honorat.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              2.176664,
+              41.382612
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 44,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177008,
+              41.382912
+            ],
+            "instruction": "Turn right onto Plaça de Sant Jaume.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177367,
+              41.382679
+            ],
+            "instruction": "Continue on Carrer de la Ciutat.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              2.177537,
+              41.382552
+            ],
+            "instruction": "Turn left onto Carrer d'Hèrcules.",
+            "distanceM": 87,
+            "type": ""
+          },
+          {
+            "location": [
+              2.178406,
+              41.382999
+            ],
+            "instruction": "Turn right onto Carrer de Lledó.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              2.178751,
+              41.382754
+            ],
+            "instruction": "Turn left onto Baixada de Caçador.",
+            "distanceM": 62,
+            "type": ""
+          },
+          {
+            "location": [
+              2.179367,
+              41.383062
+            ],
+            "instruction": "Turn right onto Carrer del Sots-tinent Navarro.",
+            "distanceM": 164,
+            "type": ""
+          },
+          {
+            "location": [
+              2.180642,
+              41.381968
+            ],
+            "instruction": "Turn left onto Carrer d'Àngel J. Baixeras.",
+            "distanceM": 91,
+            "type": ""
+          },
+          {
+            "location": [
+              2.181169,
+              41.382671
+            ],
+            "instruction": "Turn right onto Carrer de la Nau.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              2.181331,
+              41.382604
+            ],
+            "instruction": "Turn left onto Carrer dels Canvis Nous.",
+            "distanceM": 75,
+            "type": ""
+          },
+          {
+            "location": [
+              2.181924,
+              41.383122
+            ],
+            "instruction": "Turn right onto Carrer dels Canvis Vells.",
+            "distanceM": 64,
+            "type": ""
+          },
+          {
+            "location": [
+              2.182564,
+              41.382785
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              2.182571,
+              41.382837
+            ],
+            "instruction": "Continue on Pla de Palau.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              2.182785,
+              41.383101
+            ],
+            "instruction": "Turn left onto Carrer d'Espaseria.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              2.18259,
+              41.383183
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:25:10.232Z"
+        }
+      },
       "cityId": "barcelona",
       "category": "history",
       "title": "Готический квартал и Барсино: слои истории",
@@ -1364,5 +2280,5 @@
       ]
     }
   ],
-  "packHash": "beb4921442c4"
+  "packHash": "6007c47a73d3"
 }

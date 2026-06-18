@@ -1,5 +1,730 @@
 {
   "id": "istanbul-sultanahmet-imperial-layers",
+  "routePath": {
+    "coordinates": [
+      [
+        28.976836,
+        41.005683
+      ],
+      [
+        28.976836,
+        41.005683
+      ],
+      [
+        28.976836,
+        41.005683
+      ],
+      [
+        28.976919,
+        41.005754
+      ],
+      [
+        28.976991,
+        41.005813
+      ],
+      [
+        28.977238,
+        41.006051
+      ],
+      [
+        28.977298,
+        41.006107
+      ],
+      [
+        28.977322,
+        41.00613
+      ],
+      [
+        28.977358,
+        41.006163
+      ],
+      [
+        28.977507,
+        41.006301
+      ],
+      [
+        28.977609,
+        41.006396
+      ],
+      [
+        28.977699,
+        41.006479
+      ],
+      [
+        28.977774,
+        41.006549
+      ],
+      [
+        28.977921,
+        41.006686
+      ],
+      [
+        28.977951,
+        41.006713
+      ],
+      [
+        28.97816,
+        41.006589
+      ],
+      [
+        28.978197,
+        41.006632
+      ],
+      [
+        28.978218,
+        41.006655
+      ],
+      [
+        28.978371,
+        41.006826
+      ],
+      [
+        28.978565,
+        41.007054
+      ],
+      [
+        28.9788,
+        41.007324
+      ],
+      [
+        28.978696,
+        41.007378
+      ],
+      [
+        28.978709,
+        41.007401
+      ],
+      [
+        28.978713,
+        41.00745
+      ],
+      [
+        28.978692,
+        41.007511
+      ],
+      [
+        28.978645,
+        41.007571
+      ],
+      [
+        28.978606,
+        41.007601
+      ],
+      [
+        28.978621,
+        41.007616
+      ],
+      [
+        28.978307,
+        41.007771
+      ],
+      [
+        28.978351,
+        41.007822
+      ],
+      [
+        28.978453,
+        41.007939
+      ],
+      [
+        28.978325,
+        41.008012
+      ],
+      [
+        28.978418,
+        41.008135
+      ],
+      [
+        28.978469,
+        41.008217
+      ],
+      [
+        28.978454,
+        41.008223
+      ],
+      [
+        28.978439,
+        41.008228
+      ],
+      [
+        28.978412,
+        41.008239
+      ],
+      [
+        28.978377,
+        41.008252
+      ],
+      [
+        28.978259,
+        41.008303
+      ],
+      [
+        28.978221,
+        41.008281
+      ],
+      [
+        28.978156,
+        41.008244
+      ],
+      [
+        28.977971,
+        41.00842
+      ],
+      [
+        28.977952,
+        41.008436
+      ],
+      [
+        28.977966,
+        41.008417
+      ],
+      [
+        28.977971,
+        41.00842
+      ],
+      [
+        28.978156,
+        41.008244
+      ],
+      [
+        28.978221,
+        41.008281
+      ],
+      [
+        28.978259,
+        41.008303
+      ],
+      [
+        28.978377,
+        41.008252
+      ],
+      [
+        28.978412,
+        41.008239
+      ],
+      [
+        28.978439,
+        41.008228
+      ],
+      [
+        28.978454,
+        41.008223
+      ],
+      [
+        28.978469,
+        41.008217
+      ],
+      [
+        28.978418,
+        41.008135
+      ],
+      [
+        28.978325,
+        41.008012
+      ],
+      [
+        28.978453,
+        41.007939
+      ],
+      [
+        28.978727,
+        41.007792
+      ],
+      [
+        28.979117,
+        41.007583
+      ],
+      [
+        28.979141,
+        41.007569
+      ],
+      [
+        28.979646,
+        41.007293
+      ],
+      [
+        28.979669,
+        41.00728
+      ],
+      [
+        28.979914,
+        41.007492
+      ],
+      [
+        28.98018,
+        41.007723
+      ],
+      [
+        28.980569,
+        41.008022
+      ],
+      [
+        28.980778,
+        41.008148
+      ],
+      [
+        28.981004,
+        41.008298
+      ],
+      [
+        28.980847,
+        41.008414
+      ],
+      [
+        28.980847,
+        41.008414
+      ],
+      [
+        28.981004,
+        41.008298
+      ],
+      [
+        28.981302,
+        41.008475
+      ],
+      [
+        28.981405,
+        41.008565
+      ],
+      [
+        28.981522,
+        41.008661
+      ],
+      [
+        28.981582,
+        41.008715
+      ],
+      [
+        28.98132,
+        41.008915
+      ],
+      [
+        28.980672,
+        41.009369
+      ],
+      [
+        28.980885,
+        41.00954
+      ],
+      [
+        28.980885,
+        41.00954
+      ],
+      [
+        28.980893,
+        41.009547
+      ],
+      [
+        28.98128,
+        41.009298
+      ],
+      [
+        28.981702,
+        41.00966
+      ],
+      [
+        28.981755,
+        41.009624
+      ],
+      [
+        28.981835,
+        41.00958
+      ],
+      [
+        28.98201,
+        41.009898
+      ],
+      [
+        28.982324,
+        41.010471
+      ],
+      [
+        28.982846,
+        41.011027
+      ],
+      [
+        28.983122,
+        41.011322
+      ],
+      [
+        28.98325,
+        41.011512
+      ],
+      [
+        28.983286,
+        41.011545
+      ],
+      [
+        28.983217,
+        41.011572
+      ],
+      [
+        28.983179,
+        41.011586
+      ],
+      [
+        28.983064,
+        41.011615
+      ],
+      [
+        28.982978,
+        41.011497
+      ],
+      [
+        28.982978,
+        41.011497
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          28.976836,
+          41.005683
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          28.976836,
+          41.005683
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          28.976836,
+          41.005683
+        ],
+        "instruction": "Walk northeast on the walkway.",
+        "distanceM": 65,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977322,
+          41.00613
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977358,
+          41.006163
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 80,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977951,
+          41.006713
+        ],
+        "instruction": "Turn right onto Dalbastı Sokağı.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          28.97816,
+          41.006589
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 98,
+        "type": ""
+      },
+      {
+        "location": [
+          28.9788,
+          41.007324
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978606,
+          41.007601
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978621,
+          41.007616
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978453,
+          41.007939
+        ],
+        "instruction": "Turn left onto Ayasofya Meydanı.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978325,
+          41.008012
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978469,
+          41.008217
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 20,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978259,
+          41.008303
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978156,
+          41.008244
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 27,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977952,
+          41.008436
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977966,
+          41.008417
+        ],
+        "instruction": "Walk northeast on the walkway.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          28.977971,
+          41.00842
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978156,
+          41.008244
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978259,
+          41.008303
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 20,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978469,
+          41.008217
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          28.978325,
+          41.008012
+        ],
+        "instruction": "Turn left onto Ayasofya Meydanı.",
+        "distanceM": 137,
+        "type": ""
+      },
+      {
+        "location": [
+          28.979669,
+          41.00728
+        ],
+        "instruction": "Turn left onto Bab-I Hümayun Caddesi.",
+        "distanceM": 134,
+        "type": ""
+      },
+      {
+        "location": [
+          28.980778,
+          41.008148
+        ],
+        "instruction": "Keep left to stay on Bab-I Hümayun Caddesi.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981004,
+          41.008298
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          28.980847,
+          41.008414
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          28.980847,
+          41.008414
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981004,
+          41.008298
+        ],
+        "instruction": "Turn left onto Bab-I Hümayun Caddesi.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981302,
+          41.008475
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 36,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981582,
+          41.008715
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 131,
+        "type": ""
+      },
+      {
+        "location": [
+          28.980885,
+          41.00954
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          28.980885,
+          41.00954
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          28.98128,
+          41.009298
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981702,
+          41.00966
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          28.981835,
+          41.00958
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 252,
+        "type": ""
+      },
+      {
+        "location": [
+          28.983286,
+          41.011545
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          28.983064,
+          41.011615
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          28.982978,
+          41.011497
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:26:53.040Z"
+    }
+  },
   "cityId": "istanbul",
   "category": "Район",
   "title": "Султанахмет: империи на одном холме",

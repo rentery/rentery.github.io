@@ -1,5 +1,1502 @@
 {
   "id": "granada-albaicin-darro-viewpoints",
+  "routePath": {
+    "coordinates": [
+      [
+        -3.595861,
+        37.176839
+      ],
+      [
+        -3.595842,
+        37.176849
+      ],
+      [
+        -3.59583,
+        37.176866
+      ],
+      [
+        -3.595827,
+        37.176897
+      ],
+      [
+        -3.595833,
+        37.176922
+      ],
+      [
+        -3.59586,
+        37.176987
+      ],
+      [
+        -3.595852,
+        37.176989
+      ],
+      [
+        -3.595838,
+        37.176993
+      ],
+      [
+        -3.595824,
+        37.176997
+      ],
+      [
+        -3.595802,
+        37.177004
+      ],
+      [
+        -3.595775,
+        37.176938
+      ],
+      [
+        -3.595746,
+        37.176923
+      ],
+      [
+        -3.595712,
+        37.176922
+      ],
+      [
+        -3.5955,
+        37.177035
+      ],
+      [
+        -3.5953,
+        37.177141
+      ],
+      [
+        -3.59511,
+        37.177233
+      ],
+      [
+        -3.595083,
+        37.17727
+      ],
+      [
+        -3.595063,
+        37.177323
+      ],
+      [
+        -3.59506,
+        37.177396
+      ],
+      [
+        -3.595038,
+        37.177417
+      ],
+      [
+        -3.595019,
+        37.177429
+      ],
+      [
+        -3.594884,
+        37.177504
+      ],
+      [
+        -3.594867,
+        37.177489
+      ],
+      [
+        -3.594867,
+        37.177489
+      ],
+      [
+        -3.594758,
+        37.177565
+      ],
+      [
+        -3.594532,
+        37.177711
+      ],
+      [
+        -3.594277,
+        37.177858
+      ],
+      [
+        -3.594178,
+        37.177903
+      ],
+      [
+        -3.593862,
+        37.177986
+      ],
+      [
+        -3.593734,
+        37.178025
+      ],
+      [
+        -3.59355,
+        37.178082
+      ],
+      [
+        -3.593126,
+        37.178215
+      ],
+      [
+        -3.592954,
+        37.178274
+      ],
+      [
+        -3.592845,
+        37.178327
+      ],
+      [
+        -3.592845,
+        37.178327
+      ],
+      [
+        -3.592715,
+        37.178391
+      ],
+      [
+        -3.592637,
+        37.178428
+      ],
+      [
+        -3.592464,
+        37.178496
+      ],
+      [
+        -3.592474,
+        37.178513
+      ],
+      [
+        -3.592698,
+        37.178848
+      ],
+      [
+        -3.592698,
+        37.178848
+      ],
+      [
+        -3.592771,
+        37.178957
+      ],
+      [
+        -3.593078,
+        37.178828
+      ],
+      [
+        -3.593082,
+        37.178817
+      ],
+      [
+        -3.593144,
+        37.178821
+      ],
+      [
+        -3.59333,
+        37.178739
+      ],
+      [
+        -3.593754,
+        37.178591
+      ],
+      [
+        -3.593919,
+        37.178548
+      ],
+      [
+        -3.593974,
+        37.178642
+      ],
+      [
+        -3.594088,
+        37.178591
+      ],
+      [
+        -3.594202,
+        37.178515
+      ],
+      [
+        -3.59434,
+        37.178437
+      ],
+      [
+        -3.594357,
+        37.178453
+      ],
+      [
+        -3.594395,
+        37.178425
+      ],
+      [
+        -3.594526,
+        37.178357
+      ],
+      [
+        -3.594543,
+        37.178388
+      ],
+      [
+        -3.594478,
+        37.178416
+      ],
+      [
+        -3.59462,
+        37.178509
+      ],
+      [
+        -3.594463,
+        37.178619
+      ],
+      [
+        -3.594468,
+        37.178624
+      ],
+      [
+        -3.594304,
+        37.178756
+      ],
+      [
+        -3.594298,
+        37.17875
+      ],
+      [
+        -3.594209,
+        37.178825
+      ],
+      [
+        -3.594266,
+        37.178879
+      ],
+      [
+        -3.594232,
+        37.178899
+      ],
+      [
+        -3.594154,
+        37.178905
+      ],
+      [
+        -3.594108,
+        37.178931
+      ],
+      [
+        -3.594151,
+        37.178977
+      ],
+      [
+        -3.594205,
+        37.179008
+      ],
+      [
+        -3.594205,
+        37.179008
+      ],
+      [
+        -3.594206,
+        37.179008
+      ],
+      [
+        -3.594308,
+        37.179116
+      ],
+      [
+        -3.594177,
+        37.179179
+      ],
+      [
+        -3.594106,
+        37.179207
+      ],
+      [
+        -3.594215,
+        37.179442
+      ],
+      [
+        -3.594217,
+        37.179474
+      ],
+      [
+        -3.594249,
+        37.179545
+      ],
+      [
+        -3.594271,
+        37.179551
+      ],
+      [
+        -3.594363,
+        37.179526
+      ],
+      [
+        -3.594485,
+        37.179504
+      ],
+      [
+        -3.594561,
+        37.17961
+      ],
+      [
+        -3.594429,
+        37.179669
+      ],
+      [
+        -3.59413,
+        37.17988
+      ],
+      [
+        -3.593878,
+        37.179987
+      ],
+      [
+        -3.593848,
+        37.18
+      ],
+      [
+        -3.593728,
+        37.180041
+      ],
+      [
+        -3.59358,
+        37.180092
+      ],
+      [
+        -3.593384,
+        37.180135
+      ],
+      [
+        -3.593117,
+        37.180193
+      ],
+      [
+        -3.592989,
+        37.180225
+      ],
+      [
+        -3.592875,
+        37.180242
+      ],
+      [
+        -3.592858,
+        37.180263
+      ],
+      [
+        -3.592856,
+        37.180405
+      ],
+      [
+        -3.59267,
+        37.180423
+      ],
+      [
+        -3.59262,
+        37.180441
+      ],
+      [
+        -3.592455,
+        37.180476
+      ],
+      [
+        -3.592325,
+        37.180516
+      ],
+      [
+        -3.592333,
+        37.180544
+      ],
+      [
+        -3.592259,
+        37.180628
+      ],
+      [
+        -3.591978,
+        37.18067
+      ],
+      [
+        -3.591829,
+        37.180725
+      ],
+      [
+        -3.591728,
+        37.18078
+      ],
+      [
+        -3.59168,
+        37.180828
+      ],
+      [
+        -3.59165,
+        37.180889
+      ],
+      [
+        -3.591601,
+        37.18095
+      ],
+      [
+        -3.591581,
+        37.18096
+      ],
+      [
+        -3.591508,
+        37.181016
+      ],
+      [
+        -3.591468,
+        37.181026
+      ],
+      [
+        -3.591469,
+        37.181041
+      ],
+      [
+        -3.591396,
+        37.181046
+      ],
+      [
+        -3.591285,
+        37.18106
+      ],
+      [
+        -3.591253,
+        37.181077
+      ],
+      [
+        -3.591257,
+        37.181094
+      ],
+      [
+        -3.591316,
+        37.181523
+      ],
+      [
+        -3.591326,
+        37.181596
+      ],
+      [
+        -3.591324,
+        37.181707
+      ],
+      [
+        -3.591303,
+        37.181758
+      ],
+      [
+        -3.591287,
+        37.181794
+      ],
+      [
+        -3.591259,
+        37.181859
+      ],
+      [
+        -3.591187,
+        37.181965
+      ],
+      [
+        -3.591102,
+        37.182056
+      ],
+      [
+        -3.590965,
+        37.182174
+      ],
+      [
+        -3.590963,
+        37.182181
+      ],
+      [
+        -3.590962,
+        37.182226
+      ],
+      [
+        -3.590954,
+        37.182219
+      ],
+      [
+        -3.590942,
+        37.182217
+      ],
+      [
+        -3.590855,
+        37.182241
+      ],
+      [
+        -3.590939,
+        37.182155
+      ],
+      [
+        -3.591071,
+        37.182035
+      ],
+      [
+        -3.591092,
+        37.181991
+      ],
+      [
+        -3.591112,
+        37.181931
+      ],
+      [
+        -3.591119,
+        37.18192
+      ],
+      [
+        -3.591119,
+        37.18192
+      ],
+      [
+        -3.591112,
+        37.181931
+      ],
+      [
+        -3.591092,
+        37.181991
+      ],
+      [
+        -3.591071,
+        37.182035
+      ],
+      [
+        -3.590939,
+        37.182155
+      ],
+      [
+        -3.590855,
+        37.182241
+      ],
+      [
+        -3.590942,
+        37.182217
+      ],
+      [
+        -3.590954,
+        37.182219
+      ],
+      [
+        -3.590962,
+        37.182226
+      ],
+      [
+        -3.590963,
+        37.182181
+      ],
+      [
+        -3.590965,
+        37.182174
+      ],
+      [
+        -3.591102,
+        37.182056
+      ],
+      [
+        -3.591187,
+        37.181965
+      ],
+      [
+        -3.591259,
+        37.181859
+      ],
+      [
+        -3.591287,
+        37.181794
+      ],
+      [
+        -3.59138,
+        37.181823
+      ],
+      [
+        -3.591389,
+        37.181818
+      ],
+      [
+        -3.59157,
+        37.181682
+      ],
+      [
+        -3.591643,
+        37.181749
+      ],
+      [
+        -3.591792,
+        37.181886
+      ],
+      [
+        -3.592021,
+        37.181697
+      ],
+      [
+        -3.592066,
+        37.181656
+      ],
+      [
+        -3.592075,
+        37.181508
+      ],
+      [
+        -3.59222,
+        37.181492
+      ],
+      [
+        -3.592315,
+        37.18148
+      ],
+      [
+        -3.592349,
+        37.181476
+      ],
+      [
+        -3.592344,
+        37.181457
+      ],
+      [
+        -3.592303,
+        37.181278
+      ],
+      [
+        -3.592294,
+        37.181238
+      ],
+      [
+        -3.592302,
+        37.181237
+      ],
+      [
+        -3.592317,
+        37.181297
+      ],
+      [
+        -3.592367,
+        37.181291
+      ],
+      [
+        -3.592377,
+        37.181275
+      ],
+      [
+        -3.592405,
+        37.181267
+      ],
+      [
+        -3.59241,
+        37.181258
+      ],
+      [
+        -3.592436,
+        37.181254
+      ],
+      [
+        -3.592435,
+        37.181248
+      ],
+      [
+        -3.592488,
+        37.181241
+      ],
+      [
+        -3.592488,
+        37.181241
+      ],
+      [
+        -3.592435,
+        37.181248
+      ],
+      [
+        -3.592436,
+        37.181254
+      ],
+      [
+        -3.59241,
+        37.181258
+      ],
+      [
+        -3.592405,
+        37.181267
+      ],
+      [
+        -3.592377,
+        37.181275
+      ],
+      [
+        -3.592367,
+        37.181291
+      ],
+      [
+        -3.592317,
+        37.181297
+      ],
+      [
+        -3.592302,
+        37.181237
+      ],
+      [
+        -3.592294,
+        37.181238
+      ],
+      [
+        -3.592303,
+        37.181278
+      ],
+      [
+        -3.59227,
+        37.181282
+      ],
+      [
+        -3.592258,
+        37.181234
+      ],
+      [
+        -3.592212,
+        37.181084
+      ],
+      [
+        -3.591887,
+        37.18111
+      ],
+      [
+        -3.591679,
+        37.181118
+      ],
+      [
+        -3.591589,
+        37.181122
+      ],
+      [
+        -3.591556,
+        37.181107
+      ],
+      [
+        -3.591541,
+        37.181072
+      ],
+      [
+        -3.591471,
+        37.181061
+      ],
+      [
+        -3.591469,
+        37.181041
+      ],
+      [
+        -3.591396,
+        37.181046
+      ],
+      [
+        -3.591285,
+        37.18106
+      ],
+      [
+        -3.591253,
+        37.181077
+      ],
+      [
+        -3.591229,
+        37.180997
+      ],
+      [
+        -3.591203,
+        37.180877
+      ],
+      [
+        -3.591169,
+        37.180906
+      ],
+      [
+        -3.591134,
+        37.180901
+      ],
+      [
+        -3.59051,
+        37.18099
+      ],
+      [
+        -3.590268,
+        37.181017
+      ],
+      [
+        -3.589996,
+        37.181085
+      ],
+      [
+        -3.589508,
+        37.181203
+      ],
+      [
+        -3.589553,
+        37.181158
+      ],
+      [
+        -3.589687,
+        37.181062
+      ],
+      [
+        -3.589372,
+        37.181082
+      ],
+      [
+        -3.589119,
+        37.181115
+      ],
+      [
+        -3.589041,
+        37.181129
+      ],
+      [
+        -3.588934,
+        37.181174
+      ],
+      [
+        -3.588739,
+        37.181204
+      ],
+      [
+        -3.588736,
+        37.181176
+      ],
+      [
+        -3.588706,
+        37.181106
+      ],
+      [
+        -3.588666,
+        37.181115
+      ],
+      [
+        -3.588638,
+        37.181121
+      ],
+      [
+        -3.588623,
+        37.181082
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -3.595861,
+          37.176839
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59586,
+          37.176987
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.595802,
+          37.177004
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 119,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594867,
+          37.177489
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594867,
+          37.177489
+        ],
+        "instruction": "Walk northeast on Calle Carrera del Darro.",
+        "distanceM": 204,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592845,
+          37.178327
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592845,
+          37.178327
+        ],
+        "instruction": "Walk northeast on Calle Carrera del Darro.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592464,
+          37.178496
+        ],
+        "instruction": "Turn left onto Calle Concepción de Zafra.",
+        "distanceM": 44,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592698,
+          37.178848
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592698,
+          37.178848
+        ],
+        "instruction": "Walk northwest on Calle Concepción de Zafra.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592771,
+          37.178957
+        ],
+        "instruction": "Turn left onto Calle Portería Concepción.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.593078,
+          37.178828
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.593082,
+          37.178817
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.593144,
+          37.178821
+        ],
+        "instruction": "Bear left onto Calle Carnero.",
+        "distanceM": 75,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.593919,
+          37.178548
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594088,
+          37.178591
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594357,
+          37.178453
+        ],
+        "instruction": "Turn left onto Calle San Juan de los Reyes.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594526,
+          37.178357
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 45,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594463,
+          37.178619
+        ],
+        "instruction": "Bear left to stay on Placeta de Santa Inés Alta.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594209,
+          37.178825
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594266,
+          37.178879
+        ],
+        "instruction": "Turn right onto Placeta de los Carvajales.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594154,
+          37.178905
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594205,
+          37.179008
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594205,
+          37.179008
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594308,
+          37.179116
+        ],
+        "instruction": "Turn right onto Calle Rosal de San Pedro.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594106,
+          37.179207
+        ],
+        "instruction": "Turn left onto Calle Virgen del Carmen.",
+        "distanceM": 28,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594215,
+          37.179442
+        ],
+        "instruction": "Bear right onto the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594249,
+          37.179545
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594271,
+          37.179551
+        ],
+        "instruction": "Bear left onto Callejón de Echevarría.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.594561,
+          37.17961
+        ],
+        "instruction": "Turn right onto Calle Aljibe de Trillo.",
+        "distanceM": 166,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592875,
+          37.180242
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59267,
+          37.180423
+        ],
+        "instruction": "Continue on Placeta Comino.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592325,
+          37.180516
+        ],
+        "instruction": "Turn left to stay on Placeta Comino.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592333,
+          37.180544
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592259,
+          37.180628
+        ],
+        "instruction": "Bear right onto Cuesta de las Tomasas.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591978,
+          37.18067
+        ],
+        "instruction": "Keep left to stay on Cuesta de las Tomasas.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59168,
+          37.180828
+        ],
+        "instruction": "Keep left to stay on Cuesta de las Tomasas.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59165,
+          37.180889
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591601,
+          37.18095
+        ],
+        "instruction": "Continue on Cuesta de las Tomasas.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591468,
+          37.181026
+        ],
+        "instruction": "Turn left onto the crosswalk.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591469,
+          37.181041
+        ],
+        "instruction": "Turn right onto Callejón de las Tomasas.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591253,
+          37.181077
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 138,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.590962,
+          37.182226
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.590855,
+          37.182241
+        ],
+        "instruction": "Make a sharp right onto the walkway.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591119,
+          37.18192
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591119,
+          37.18192
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.590855,
+          37.182241
+        ],
+        "instruction": "Make a sharp left onto the crosswalk.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.590942,
+          37.182217
+        ],
+        "instruction": "Bear right onto the crosswalk.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.590962,
+          37.182226
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 58,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591287,
+          37.181794
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59157,
+          37.181682
+        ],
+        "instruction": "Turn right onto Calle Horno San Agustín.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591792,
+          37.181886
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 76,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592349,
+          37.181476
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 28,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592302,
+          37.181237
+        ],
+        "instruction": "Turn right onto Plaza Mirador de San Nicolás.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592488,
+          37.181241
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592488,
+          37.181241
+        ],
+        "instruction": "Walk east on Plaza Mirador de San Nicolás.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592302,
+          37.181237
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592303,
+          37.181278
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.59227,
+          37.181282
+        ],
+        "instruction": "Turn right onto Cuesta de las Cabras.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.592212,
+          37.181084
+        ],
+        "instruction": "Turn left to stay on Cuesta de las Cabras.",
+        "distanceM": 69,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591471,
+          37.181061
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591469,
+          37.181041
+        ],
+        "instruction": "Turn left onto Callejón de las Tomasas.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591253,
+          37.181077
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 27,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.591169,
+          37.180906
+        ],
+        "instruction": "Bear right onto Carril de San Agustín.",
+        "distanceM": 152,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.589508,
+          37.181203
+        ],
+        "instruction": "Make a sharp right to stay on Carril de San Agustín.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.589687,
+          37.181062
+        ],
+        "instruction": "Make a sharp left onto Cuesta de San Agustín.",
+        "distanceM": 86,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.588739,
+          37.181204
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.588706,
+          37.181106
+        ],
+        "instruction": "Turn left onto the crosswalk.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.588638,
+          37.181121
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          -3.588623,
+          37.181082
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:25.585Z"
+    }
+  },
   "cityId": "granada",
   "category": "Район",
   "title": "Альбайсин над Дарро: белый лабиринт и виды",

@@ -1,5 +1,497 @@
 {
   "id": "ghent-gravensteen-patershol-power",
+  "routePath": {
+    "coordinates": [
+      [
+        3.721198,
+        51.056809
+      ],
+      [
+        3.721148,
+        51.056804
+      ],
+      [
+        3.720967,
+        51.056771
+      ],
+      [
+        3.720967,
+        51.056771
+      ],
+      [
+        3.720823,
+        51.056744
+      ],
+      [
+        3.720787,
+        51.056739
+      ],
+      [
+        3.720787,
+        51.056739
+      ],
+      [
+        3.720823,
+        51.056744
+      ],
+      [
+        3.721148,
+        51.056804
+      ],
+      [
+        3.721262,
+        51.056816
+      ],
+      [
+        3.721317,
+        51.056816
+      ],
+      [
+        3.721409,
+        51.056803
+      ],
+      [
+        3.721482,
+        51.056779
+      ],
+      [
+        3.721542,
+        51.056753
+      ],
+      [
+        3.72157,
+        51.05674
+      ],
+      [
+        3.72161,
+        51.056716
+      ],
+      [
+        3.721631,
+        51.056706
+      ],
+      [
+        3.721646,
+        51.056699
+      ],
+      [
+        3.721677,
+        51.056702
+      ],
+      [
+        3.721757,
+        51.056708
+      ],
+      [
+        3.721942,
+        51.056729
+      ],
+      [
+        3.722111,
+        51.056749
+      ],
+      [
+        3.722278,
+        51.056788
+      ],
+      [
+        3.722354,
+        51.056808
+      ],
+      [
+        3.72237,
+        51.056813
+      ],
+      [
+        3.72256,
+        51.056908
+      ],
+      [
+        3.722642,
+        51.056946
+      ],
+      [
+        3.723113,
+        51.057176
+      ],
+      [
+        3.723205,
+        51.057228
+      ],
+      [
+        3.723314,
+        51.05729
+      ],
+      [
+        3.723314,
+        51.05729
+      ],
+      [
+        3.723387,
+        51.057332
+      ],
+      [
+        3.723558,
+        51.057473
+      ],
+      [
+        3.723593,
+        51.057501
+      ],
+      [
+        3.723776,
+        51.057729
+      ],
+      [
+        3.723804,
+        51.057762
+      ],
+      [
+        3.724048,
+        51.057673
+      ],
+      [
+        3.724138,
+        51.057663
+      ],
+      [
+        3.72415,
+        51.057659
+      ],
+      [
+        3.724386,
+        51.057564
+      ],
+      [
+        3.724424,
+        51.057547
+      ],
+      [
+        3.724456,
+        51.057532
+      ],
+      [
+        3.724511,
+        51.057512
+      ],
+      [
+        3.724511,
+        51.057512
+      ],
+      [
+        3.724456,
+        51.057532
+      ],
+      [
+        3.724424,
+        51.057547
+      ],
+      [
+        3.724232,
+        51.05737
+      ],
+      [
+        3.724204,
+        51.057334
+      ],
+      [
+        3.724193,
+        51.057302
+      ],
+      [
+        3.724193,
+        51.057302
+      ],
+      [
+        3.724193,
+        51.057302
+      ],
+      [
+        3.724198,
+        51.057275
+      ],
+      [
+        3.724237,
+        51.057242
+      ],
+      [
+        3.724908,
+        51.056975
+      ],
+      [
+        3.724921,
+        51.056925
+      ],
+      [
+        3.724961,
+        51.056883
+      ],
+      [
+        3.725105,
+        51.056819
+      ],
+      [
+        3.725754,
+        51.056531
+      ],
+      [
+        3.725806,
+        51.056507
+      ],
+      [
+        3.725894,
+        51.056463
+      ],
+      [
+        3.726091,
+        51.056364
+      ],
+      [
+        3.726205,
+        51.056303
+      ],
+      [
+        3.726258,
+        51.056334
+      ],
+      [
+        3.726285,
+        51.05635
+      ],
+      [
+        3.726536,
+        51.056497
+      ],
+      [
+        3.726661,
+        51.056524
+      ],
+      [
+        3.727037,
+        51.056356
+      ],
+      [
+        3.727075,
+        51.056319
+      ],
+      [
+        3.727115,
+        51.05628
+      ],
+      [
+        3.728186,
+        51.05634
+      ],
+      [
+        3.728255,
+        51.056344
+      ],
+      [
+        3.728242,
+        51.056162
+      ],
+      [
+        3.728243,
+        51.056098
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          3.721198,
+          51.056809
+        ],
+        "instruction": "Walk west on Sint-Veerleplein.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          3.720967,
+          51.056771
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.720967,
+          51.056771
+        ],
+        "instruction": "Walk west on Sint-Veerleplein.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          3.720787,
+          51.056739
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.720787,
+          51.056739
+        ],
+        "instruction": "Walk east on Rekelingestraat.",
+        "distanceM": 45,
+        "type": ""
+      },
+      {
+        "location": [
+          3.721409,
+          51.056803
+        ],
+        "instruction": "Bear right onto Geldmunt.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          3.72161,
+          51.056716
+        ],
+        "instruction": "Keep left to take Kraanlei.",
+        "distanceM": 139,
+        "type": ""
+      },
+      {
+        "location": [
+          3.723314,
+          51.05729
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.723314,
+          51.05729
+        ],
+        "instruction": "Walk northeast on Kraanlei.",
+        "distanceM": 63,
+        "type": ""
+      },
+      {
+        "location": [
+          3.723804,
+          51.057762
+        ],
+        "instruction": "Turn right onto Zuivelbrugstraat.",
+        "distanceM": 56,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724511,
+          51.057512
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724511,
+          51.057512
+        ],
+        "instruction": "Walk northwest on Meerseniersstraat.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724424,
+          51.057547
+        ],
+        "instruction": "Turn left onto Grootkanonplein.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724193,
+          51.057302
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724193,
+          51.057302
+        ],
+        "instruction": "Walk southeast on Grootkanonplein.",
+        "distanceM": 64,
+        "type": ""
+      },
+      {
+        "location": [
+          3.724908,
+          51.056975
+        ],
+        "instruction": "Bear right onto Vrijdagmarkt.",
+        "distanceM": 119,
+        "type": ""
+      },
+      {
+        "location": [
+          3.726205,
+          51.056303
+        ],
+        "instruction": "Turn left onto Bij Sint-Jacobs.",
+        "distanceM": 41,
+        "type": ""
+      },
+      {
+        "location": [
+          3.726661,
+          51.056524
+        ],
+        "instruction": "Turn right to stay on Bij Sint-Jacobs.",
+        "distanceM": 42,
+        "type": ""
+      },
+      {
+        "location": [
+          3.727115,
+          51.05628
+        ],
+        "instruction": "Bear left onto Walter De Buckplein.",
+        "distanceM": 80,
+        "type": ""
+      },
+      {
+        "location": [
+          3.728255,
+          51.056344
+        ],
+        "instruction": "Turn right onto Vlasmarkt.",
+        "distanceM": 27,
+        "type": ""
+      },
+      {
+        "location": [
+          3.728243,
+          51.056098
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:28.556Z"
+    }
+  },
   "cityId": "ghent",
   "category": "Район",
   "title": "Гравенстен и Патерсхол: крепость над тесными улицами",

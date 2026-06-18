@@ -1223,6 +1223,34 @@
     }
   },
   {
+    "id": "ho-chi-minh-city",
+    "slug": "ho-chi-minh-city",
+    "title": "Ho Chi Minh City",
+    "subtitle": "Ho Chi Minh City · 5 walks coming soon",
+    "meta": "Vietnam · routes in progress",
+    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
+    "guideIds": [
+      "ho-chi-minh-city-cholon-markets-temples"
+    ],
+    "countryId": "vietnam",
+    "photo": {
+      "id": "ho-chi-minh-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Хошимин"
+    },
+    "identity": {
+      "accent": "#B35B2E",
+      "soft": "#F3E7DD",
+      "deep": "#7A3F22",
+      "ink": "#5C321F",
+      "glyph": "HCM",
+      "hook": "Чолон, рынки и река",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "mexico-city",
     "slug": "mexico-city",
     "title": "Мехико",
@@ -1927,11 +1955,12 @@
     "id": "istanbul",
     "slug": "istanbul",
     "title": "Стамбул",
-    "subtitle": "Стамбул · 1 маршрут · 4 скоро",
-    "meta": "Турция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Стамбул · 2 маршрута · 3 скоро",
+    "meta": "Турция · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "istanbul-sultanahmet-imperial-layers"
+      "istanbul-sultanahmet-imperial-layers",
+      "istanbul-galata-beyoglu-pera-stage"
     ],
     "countryId": "turkey",
     "photo": {
@@ -1955,11 +1984,12 @@
     "id": "jaipur",
     "slug": "jaipur",
     "title": "Джайпур",
-    "subtitle": "Джайпур · 1 маршрут · 4 скоро",
-    "meta": "Индия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Джайпур · 2 маршрута · 3 скоро",
+    "meta": "Индия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "jaipur-walled-city-royal-grid"
+      "jaipur-walled-city-royal-grid",
+      "jaipur-amer-fort-old-amer"
     ],
     "countryId": "india",
     "photo": {
@@ -1983,11 +2013,12 @@
     "id": "jerusalem",
     "slug": "jerusalem",
     "title": "Иерусалим",
-    "subtitle": "Иерусалим · 1 маршрут · 4 скоро",
-    "meta": "Израиль · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Иерусалим · 2 маршрута · 3 скоро",
+    "meta": "Израиль · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "jerusalem-old-city-gates-faith-layers"
+      "jerusalem-old-city-gates-faith-layers",
+      "jerusalem-mount-of-olives-kidron-view"
     ],
     "countryId": "israel",
     "photo": {
@@ -2039,11 +2070,12 @@
     "id": "krakow",
     "slug": "krakow",
     "title": "Краков",
-    "subtitle": "Краков · 1 маршрут · 4 скоро",
-    "meta": "Польша · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Краков · 2 маршрута · 3 скоро",
+    "meta": "Польша · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "krakow-royal-route-wawel-old-town"
+      "krakow-royal-route-wawel-old-town",
+      "krakow-kazimierz-jewish-city"
     ],
     "countryId": "poland",
     "photo": {
@@ -2067,11 +2099,12 @@
     "id": "kuala-lumpur",
     "slug": "kuala-lumpur",
     "title": "Куала-Лумпур",
-    "subtitle": "Куала-Лумпур · 1 маршрут · 4 скоро",
-    "meta": "Малайзия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Куала-Лумпур · 2 маршрута · 3 скоро",
+    "meta": "Малайзия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "kuala-lumpur-merdeka-river-of-life"
+      "kuala-lumpur-merdeka-river-of-life",
+      "kuala-lumpur-klcc-kampung-baru"
     ],
     "countryId": "malaysia",
     "photo": {
@@ -2095,11 +2128,12 @@
     "id": "kyoto",
     "slug": "kyoto",
     "title": "Киото",
-    "subtitle": "Киото · 1 маршрут · 4 скоро",
-    "meta": "Япония · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Киото · 2 маршрута · 3 скоро",
+    "meta": "Япония · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "kyoto-kiyomizu-gion-slope"
+      "kyoto-kiyomizu-gion-slope",
+      "kyoto-fushimi-inari-mountain"
     ],
     "countryId": "japan",
     "photo": {
@@ -2123,11 +2157,12 @@
     "id": "lima",
     "slug": "lima",
     "title": "Лима",
-    "subtitle": "Лима · 1 маршрут · 4 скоро",
-    "meta": "Перу · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лима · 2 маршрута · 3 скоро",
+    "meta": "Перу · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "lima-centro-historico-power-layers"
+      "lima-centro-historico-power-layers",
+      "lima-miraflores-huaca-cliffs"
     ],
     "countryId": "peru",
     "photo": {
@@ -2151,11 +2186,12 @@
     "id": "lisbon",
     "slug": "lisbon",
     "title": "Лиссабон",
-    "subtitle": "Лиссабон · 1 маршрут · 4 скоро",
-    "meta": "Португалия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лиссабон · 2 маршрута · 3 скоро",
+    "meta": "Португалия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "lisbon-baixa-chiado-earthquake-city"
+      "lisbon-baixa-chiado-earthquake-city",
+      "lisbon-alfama-castle-old-hill"
     ],
     "countryId": "portugal",
     "photo": {
@@ -2179,11 +2215,12 @@
     "id": "london",
     "slug": "london",
     "title": "Лондон",
-    "subtitle": "London · 1 маршрут · 4 скоро",
-    "meta": "Великобритания · 1 маршрут опубликован",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лондон · 2 маршрута · 3 скоро",
+    "meta": "Великобритания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "london-westminster-whitehall-power"
+      "london-westminster-whitehall-power",
+      "london-city-tower-st-pauls-layers"
     ],
     "countryId": "united-kingdom",
     "photo": {
@@ -2207,11 +2244,12 @@
     "id": "lyon",
     "slug": "lyon",
     "title": "Лион",
-    "subtitle": "Лион · 1 маршрут · 4 скоро",
-    "meta": "Франция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лион · 2 маршрута · 3 скоро",
+    "meta": "Франция · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "lyon-fourviere-vieux-lyon-layers"
+      "lyon-fourviere-vieux-lyon-layers",
+      "lyon-presquile-civic-stage"
     ],
     "countryId": "france",
     "photo": {
@@ -2235,11 +2273,12 @@
     "id": "macao",
     "slug": "macao",
     "title": "Макао",
-    "subtitle": "Макао · 1 маршрут · 4 скоро",
-    "meta": "Китай · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Макао · 2 маршрута · 3 скоро",
+    "meta": "Китай · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "macao-barra-st-pauls-east-west-spine"
+      "macao-barra-st-pauls-east-west-spine",
+      "macao-taipa-cotai-island-to-reclamation"
     ],
     "countryId": "china",
     "photo": {
@@ -2263,11 +2302,12 @@
     "id": "madrid",
     "slug": "madrid",
     "title": "Мадрид",
-    "subtitle": "Мадрид · 1 маршрут · 4 скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мадрид · 2 маршрута · 3 скоро",
+    "meta": "Испания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "madrid-sol-mayor-palace-capital"
+      "madrid-sol-mayor-palace-capital",
+      "madrid-prado-retiro-landscape-of-light"
     ],
     "countryId": "spain",
     "photo": {
@@ -2901,23 +2941,6 @@
       "glyph": "ЦЮР",
       "hook": "Цюрих",
       "motif": "axis"
-    }
-  },
-  {
-    "id": "ho-chi-minh-city",
-    "slug": "ho-chi-minh-city",
-    "title": "Ho Chi Minh City",
-    "subtitle": "Ho Chi Minh City · 5 walks coming soon",
-    "meta": "Vietnam · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "vietnam",
-    "photo": {
-      "id": "ho-chi-minh-city-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Хошимин"
     }
   },
   {

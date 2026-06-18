@@ -1,6 +1,664 @@
 [
   {
     "id": "florence-duomo-signoria-renaissance-engine",
+    "routePath": {
+      "coordinates": [
+        [
+          11.255297,
+          43.773143
+        ],
+        [
+          11.255349,
+          43.773145
+        ],
+        [
+          11.255398,
+          43.773147
+        ],
+        [
+          11.255386,
+          43.772893
+        ],
+        [
+          11.255383,
+          43.772834
+        ],
+        [
+          11.255379,
+          43.772729
+        ],
+        [
+          11.255822,
+          43.772718
+        ],
+        [
+          11.255851,
+          43.772718
+        ],
+        [
+          11.255853,
+          43.772841
+        ],
+        [
+          11.255778,
+          43.772866
+        ],
+        [
+          11.255778,
+          43.772866
+        ],
+        [
+          11.255853,
+          43.772841
+        ],
+        [
+          11.255851,
+          43.772718
+        ],
+        [
+          11.256308,
+          43.772706
+        ],
+        [
+          11.256564,
+          43.7727
+        ],
+        [
+          11.256563,
+          43.772934
+        ],
+        [
+          11.256563,
+          43.772934
+        ],
+        [
+          11.256564,
+          43.7727
+        ],
+        [
+          11.256308,
+          43.772706
+        ],
+        [
+          11.255851,
+          43.772718
+        ],
+        [
+          11.255822,
+          43.772718
+        ],
+        [
+          11.255379,
+          43.772729
+        ],
+        [
+          11.255374,
+          43.77262
+        ],
+        [
+          11.255369,
+          43.772499
+        ],
+        [
+          11.255359,
+          43.772245
+        ],
+        [
+          11.255358,
+          43.772215
+        ],
+        [
+          11.255357,
+          43.772181
+        ],
+        [
+          11.255332,
+          43.771553
+        ],
+        [
+          11.255331,
+          43.771525
+        ],
+        [
+          11.25533,
+          43.771514
+        ],
+        [
+          11.255328,
+          43.771471
+        ],
+        [
+          11.255317,
+          43.771236
+        ],
+        [
+          11.255304,
+          43.770864
+        ],
+        [
+          11.255294,
+          43.770596
+        ],
+        [
+          11.255293,
+          43.770573
+        ],
+        [
+          11.255279,
+          43.770213
+        ],
+        [
+          11.255272,
+          43.770013
+        ],
+        [
+          11.255276,
+          43.770002
+        ],
+        [
+          11.255296,
+          43.769887
+        ],
+        [
+          11.255215,
+          43.769892
+        ],
+        [
+          11.255194,
+          43.769754
+        ],
+        [
+          11.255182,
+          43.769692
+        ],
+        [
+          11.255182,
+          43.769692
+        ],
+        [
+          11.255194,
+          43.769754
+        ],
+        [
+          11.255215,
+          43.769892
+        ],
+        [
+          11.255296,
+          43.769887
+        ],
+        [
+          11.25544,
+          43.769848
+        ],
+        [
+          11.255642,
+          43.769806
+        ],
+        [
+          11.255642,
+          43.769806
+        ],
+        [
+          11.25544,
+          43.769848
+        ],
+        [
+          11.25539,
+          43.769517
+        ],
+        [
+          11.25539,
+          43.769517
+        ],
+        [
+          11.255371,
+          43.769395
+        ],
+        [
+          11.255859,
+          43.769223
+        ],
+        [
+          11.255845,
+          43.769176
+        ],
+        [
+          11.255837,
+          43.769157
+        ],
+        [
+          11.255827,
+          43.769133
+        ],
+        [
+          11.255872,
+          43.769119
+        ],
+        [
+          11.255857,
+          43.769088
+        ],
+        [
+          11.255922,
+          43.769069
+        ],
+        [
+          11.25597,
+          43.769056
+        ],
+        [
+          11.255968,
+          43.769051
+        ],
+        [
+          11.255964,
+          43.769043
+        ],
+        [
+          11.255817,
+          43.76872
+        ],
+        [
+          11.255817,
+          43.76872
+        ],
+        [
+          11.255398,
+          43.767797
+        ],
+        [
+          11.255275,
+          43.767827
+        ],
+        [
+          11.255246,
+          43.767764
+        ],
+        [
+          11.255236,
+          43.767745
+        ],
+        [
+          11.255231,
+          43.76773
+        ],
+        [
+          11.255161,
+          43.76775
+        ],
+        [
+          11.255086,
+          43.767772
+        ],
+        [
+          11.255021,
+          43.76779
+        ],
+        [
+          11.254771,
+          43.767939
+        ],
+        [
+          11.254696,
+          43.767963
+        ],
+        [
+          11.25466,
+          43.767975
+        ],
+        [
+          11.253502,
+          43.76842
+        ],
+        [
+          11.253481,
+          43.768428
+        ],
+        [
+          11.253455,
+          43.768438
+        ],
+        [
+          11.253433,
+          43.768447
+        ],
+        [
+          11.253424,
+          43.768433
+        ],
+        [
+          11.253143,
+          43.768043
+        ],
+        [
+          11.25311,
+          43.767996
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            11.255297,
+            43.773143
+          ],
+          "instruction": "Walk east on the walkway.",
+          "distanceM": 8,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255398,
+            43.773147
+          ],
+          "instruction": "Turn right onto Piazza del Duomo.",
+          "distanceM": 47,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255379,
+            43.772729
+          ],
+          "instruction": "Turn left to stay on Piazza del Duomo.",
+          "distanceM": 38,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255851,
+            43.772718
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255778,
+            43.772866
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255778,
+            43.772866
+          ],
+          "instruction": "Walk southeast on the walkway.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255851,
+            43.772718
+          ],
+          "instruction": "Turn left onto Piazza del Duomo.",
+          "distanceM": 58,
+          "type": ""
+        },
+        {
+          "location": [
+            11.256564,
+            43.7727
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 26,
+          "type": ""
+        },
+        {
+          "location": [
+            11.256563,
+            43.772934
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.256563,
+            43.772934
+          ],
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 26,
+          "type": ""
+        },
+        {
+          "location": [
+            11.256564,
+            43.7727
+          ],
+          "instruction": "Turn right onto Piazza del Duomo.",
+          "distanceM": 96,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255379,
+            43.772729
+          ],
+          "instruction": "Turn left onto Via dei Calzaiuoli.",
+          "distanceM": 303,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255272,
+            43.770013
+          ],
+          "instruction": "Continue on the walkway.",
+          "distanceM": 14,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255296,
+            43.769887
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 6,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255215,
+            43.769892
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 22,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255182,
+            43.769692
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255182,
+            43.769692
+          ],
+          "instruction": "Walk north on the walkway.",
+          "distanceM": 22,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255215,
+            43.769892
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255642,
+            43.769806
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255642,
+            43.769806
+          ],
+          "instruction": "Walk west on the walkway.",
+          "distanceM": 16,
+          "type": ""
+        },
+        {
+          "location": [
+            11.25544,
+            43.769848
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 37,
+          "type": ""
+        },
+        {
+          "location": [
+            11.25539,
+            43.769517
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.25539,
+            43.769517
+          ],
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255371,
+            43.769395
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 44,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255859,
+            43.769223
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255845,
+            43.769176
+          ],
+          "instruction": "Continue on Piazzale degli Uffizi.",
+          "distanceM": 9,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255872,
+            43.769119
+          ],
+          "instruction": "Turn right to stay on Piazzale degli Uffizi.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255857,
+            43.769088
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 10,
+          "type": ""
+        },
+        {
+          "location": [
+            11.25597,
+            43.769056
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 39,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255817,
+            43.76872
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255817,
+            43.76872
+          ],
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 118,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255275,
+            43.767827
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 10,
+          "type": ""
+        },
+        {
+          "location": [
+            11.255231,
+            43.76773
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 165,
+          "type": ""
+        },
+        {
+          "location": [
+            11.253433,
+            43.768447
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 57,
+          "type": ""
+        },
+        {
+          "location": [
+            11.25311,
+            43.767996
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:24:30.083Z"
+      }
+    },
     "cityId": "florence",
     "category": "История",
     "title": "Дуомо и Синьория: Флоренция как машина",
@@ -445,6 +1103,1158 @@
   },
   {
     "id": "florence-oltrarno-pitti-santo-spirito",
+    "routePath": {
+      "coordinates": [
+        [
+          11.254237,
+          43.767829
+        ],
+        [
+          11.255654,
+          43.767253
+        ],
+        [
+          11.256821,
+          43.766989
+        ],
+        [
+          11.257357,
+          43.767035
+        ],
+        [
+          11.257373,
+          43.767083
+        ],
+        [
+          11.257318,
+          43.767102
+        ],
+        [
+          11.257273,
+          43.767179
+        ],
+        [
+          11.257788,
+          43.767086
+        ],
+        [
+          11.25788,
+          43.767082
+        ],
+        [
+          11.257909,
+          43.76708
+        ],
+        [
+          11.257947,
+          43.767103
+        ],
+        [
+          11.257802,
+          43.767133
+        ],
+        [
+          11.257549,
+          43.767185
+        ],
+        [
+          11.257573,
+          43.767237
+        ],
+        [
+          11.257511,
+          43.76725
+        ],
+        [
+          11.256432,
+          43.76745
+        ],
+        [
+          11.256241,
+          43.767523
+        ],
+        [
+          11.256146,
+          43.767542
+        ],
+        [
+          11.256097,
+          43.767553
+        ],
+        [
+          11.256067,
+          43.767528
+        ],
+        [
+          11.256021,
+          43.767524
+        ],
+        [
+          11.255962,
+          43.767543
+        ],
+        [
+          11.255903,
+          43.767565
+        ],
+        [
+          11.255631,
+          43.767665
+        ],
+        [
+          11.255574,
+          43.767678
+        ],
+        [
+          11.255414,
+          43.767716
+        ],
+        [
+          11.255435,
+          43.76776
+        ],
+        [
+          11.254993,
+          43.767862
+        ],
+        [
+          11.254885,
+          43.767924
+        ],
+        [
+          11.254748,
+          43.768001
+        ],
+        [
+          11.25472,
+          43.768017
+        ],
+        [
+          11.254611,
+          43.768056
+        ],
+        [
+          11.254548,
+          43.768081
+        ],
+        [
+          11.25437,
+          43.768147
+        ],
+        [
+          11.254192,
+          43.768215
+        ],
+        [
+          11.253657,
+          43.768427
+        ],
+        [
+          11.253512,
+          43.768484
+        ],
+        [
+          11.253502,
+          43.768466
+        ],
+        [
+          11.253481,
+          43.768428
+        ],
+        [
+          11.253468,
+          43.768405
+        ],
+        [
+          11.253057,
+          43.767856
+        ],
+        [
+          11.253057,
+          43.767856
+        ],
+        [
+          11.252867,
+          43.767603
+        ],
+        [
+          11.252807,
+          43.767517
+        ],
+        [
+          11.252783,
+          43.767527
+        ],
+        [
+          11.252762,
+          43.767535
+        ],
+        [
+          11.25271,
+          43.767485
+        ],
+        [
+          11.252683,
+          43.76746
+        ],
+        [
+          11.252545,
+          43.767543
+        ],
+        [
+          11.252543,
+          43.767558
+        ],
+        [
+          11.251566,
+          43.767779
+        ],
+        [
+          11.25155,
+          43.767783
+        ],
+        [
+          11.251534,
+          43.767787
+        ],
+        [
+          11.251412,
+          43.767815
+        ],
+        [
+          11.251404,
+          43.767818
+        ],
+        [
+          11.251002,
+          43.767912
+        ],
+        [
+          11.250983,
+          43.767869
+        ],
+        [
+          11.250967,
+          43.767831
+        ],
+        [
+          11.250945,
+          43.767782
+        ],
+        [
+          11.250758,
+          43.767423
+        ],
+        [
+          11.250748,
+          43.767404
+        ],
+        [
+          11.250748,
+          43.767404
+        ],
+        [
+          11.250631,
+          43.767195
+        ],
+        [
+          11.250627,
+          43.767187
+        ],
+        [
+          11.250634,
+          43.767184
+        ],
+        [
+          11.25062,
+          43.76716
+        ],
+        [
+          11.250839,
+          43.767028
+        ],
+        [
+          11.251068,
+          43.766878
+        ],
+        [
+          11.251207,
+          43.766752
+        ],
+        [
+          11.251188,
+          43.766743
+        ],
+        [
+          11.251171,
+          43.766736
+        ],
+        [
+          11.251183,
+          43.766717
+        ],
+        [
+          11.251059,
+          43.766652
+        ],
+        [
+          11.250922,
+          43.766579
+        ],
+        [
+          11.250935,
+          43.766565
+        ],
+        [
+          11.250836,
+          43.7665
+        ],
+        [
+          11.250714,
+          43.766424
+        ],
+        [
+          11.250549,
+          43.76632
+        ],
+        [
+          11.250296,
+          43.766178
+        ],
+        [
+          11.250346,
+          43.766126
+        ],
+        [
+          11.250366,
+          43.766106
+        ],
+        [
+          11.250394,
+          43.766078
+        ],
+        [
+          11.250343,
+          43.766055
+        ],
+        [
+          11.250361,
+          43.766037
+        ],
+        [
+          11.250415,
+          43.765962
+        ],
+        [
+          11.25045,
+          43.765902
+        ],
+        [
+          11.250464,
+          43.76585
+        ],
+        [
+          11.250462,
+          43.765799
+        ],
+        [
+          11.250447,
+          43.765761
+        ],
+        [
+          11.250425,
+          43.765722
+        ],
+        [
+          11.250376,
+          43.765677
+        ],
+        [
+          11.250278,
+          43.76559
+        ],
+        [
+          11.250222,
+          43.765542
+        ],
+        [
+          11.250152,
+          43.765481
+        ],
+        [
+          11.250115,
+          43.765451
+        ],
+        [
+          11.250067,
+          43.765418
+        ],
+        [
+          11.249989,
+          43.765379
+        ],
+        [
+          11.249887,
+          43.765335
+        ],
+        [
+          11.249935,
+          43.765277
+        ],
+        [
+          11.249945,
+          43.765265
+        ],
+        [
+          11.250033,
+          43.765168
+        ],
+        [
+          11.250033,
+          43.765168
+        ],
+        [
+          11.249945,
+          43.765265
+        ],
+        [
+          11.249935,
+          43.765277
+        ],
+        [
+          11.249047,
+          43.764886
+        ],
+        [
+          11.248751,
+          43.765245
+        ],
+        [
+          11.248766,
+          43.765319
+        ],
+        [
+          11.248818,
+          43.765364
+        ],
+        [
+          11.248794,
+          43.765398
+        ],
+        [
+          11.248927,
+          43.765464
+        ],
+        [
+          11.248873,
+          43.765496
+        ],
+        [
+          11.24889,
+          43.765505
+        ],
+        [
+          11.248635,
+          43.765667
+        ],
+        [
+          11.24845,
+          43.765771
+        ],
+        [
+          11.248434,
+          43.76578
+        ],
+        [
+          11.248537,
+          43.765965
+        ],
+        [
+          11.248749,
+          43.766319
+        ],
+        [
+          11.248845,
+          43.766497
+        ],
+        [
+          11.248811,
+          43.766509
+        ],
+        [
+          11.248788,
+          43.766517
+        ],
+        [
+          11.248802,
+          43.76654
+        ],
+        [
+          11.248779,
+          43.766549
+        ],
+        [
+          11.248303,
+          43.766717
+        ],
+        [
+          11.248296,
+          43.766708
+        ],
+        [
+          11.24828,
+          43.766716
+        ],
+        [
+          11.248271,
+          43.76672
+        ],
+        [
+          11.248277,
+          43.766729
+        ],
+        [
+          11.248034,
+          43.766841
+        ],
+        [
+          11.248052,
+          43.766858
+        ],
+        [
+          11.24809,
+          43.766893
+        ],
+        [
+          11.248014,
+          43.766922
+        ],
+        [
+          11.248027,
+          43.766939
+        ],
+        [
+          11.248054,
+          43.766974
+        ],
+        [
+          11.248064,
+          43.766987
+        ],
+        [
+          11.248076,
+          43.767001
+        ],
+        [
+          11.248076,
+          43.767001
+        ],
+        [
+          11.248076,
+          43.767001
+        ],
+        [
+          11.248076,
+          43.767001
+        ],
+        [
+          11.248064,
+          43.766987
+        ],
+        [
+          11.248054,
+          43.766974
+        ],
+        [
+          11.248027,
+          43.766939
+        ],
+        [
+          11.248014,
+          43.766922
+        ],
+        [
+          11.247741,
+          43.767028
+        ],
+        [
+          11.24767,
+          43.766933
+        ],
+        [
+          11.247539,
+          43.766991
+        ],
+        [
+          11.246858,
+          43.766542
+        ],
+        [
+          11.246843,
+          43.766534
+        ],
+        [
+          11.246858,
+          43.76652
+        ],
+        [
+          11.246801,
+          43.766488
+        ],
+        [
+          11.246764,
+          43.766494
+        ],
+        [
+          11.24673,
+          43.766538
+        ],
+        [
+          11.246265,
+          43.767131
+        ],
+        [
+          11.246281,
+          43.76716
+        ],
+        [
+          11.246267,
+          43.767167
+        ],
+        [
+          11.24625,
+          43.767174
+        ],
+        [
+          11.246307,
+          43.767255
+        ],
+        [
+          11.24647,
+          43.767499
+        ],
+        [
+          11.246611,
+          43.767702
+        ],
+        [
+          11.246709,
+          43.76785
+        ],
+        [
+          11.24683,
+          43.768024
+        ],
+        [
+          11.24695,
+          43.768204
+        ],
+        [
+          11.247089,
+          43.768408
+        ],
+        [
+          11.247257,
+          43.768663
+        ],
+        [
+          11.247354,
+          43.768818
+        ],
+        [
+          11.24705,
+          43.768932
+        ],
+        [
+          11.246928,
+          43.768961
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            11.254237,
+            43.767829
+          ],
+          "instruction": "Walk southeast on Arno Boat.",
+          "distanceM": 272,
+          "type": ""
+        },
+        {
+          "location": [
+            11.257357,
+            43.767035
+          ],
+          "instruction": "Walk north.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            11.257273,
+            43.767179
+          ],
+          "instruction": "Turn right.",
+          "distanceM": 56,
+          "type": ""
+        },
+        {
+          "location": [
+            11.257947,
+            43.767103
+          ],
+          "instruction": "Make a sharp left onto Lungarno Generale Diaz.",
+          "distanceM": 32,
+          "type": ""
+        },
+        {
+          "location": [
+            11.257549,
+            43.767185
+          ],
+          "instruction": "Make a sharp right onto Piazza Mentana.",
+          "distanceM": 6,
+          "type": ""
+        },
+        {
+          "location": [
+            11.257573,
+            43.767237
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 351,
+          "type": ""
+        },
+        {
+          "location": [
+            11.253657,
+            43.768427
+          ],
+          "instruction": "Keep right to take the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            11.253512,
+            43.768484
+          ],
+          "instruction": "Turn left onto the crosswalk.",
+          "distanceM": 79,
+          "type": ""
+        },
+        {
+          "location": [
+            11.253057,
+            43.767856
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.253057,
+            43.767856
+          ],
+          "instruction": "Walk southwest on the walkway.",
+          "distanceM": 42,
+          "type": ""
+        },
+        {
+          "location": [
+            11.252807,
+            43.767517
+          ],
+          "instruction": "Turn right onto Borgo San Iacopo.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.252762,
+            43.767535
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 9,
+          "type": ""
+        },
+        {
+          "location": [
+            11.252683,
+            43.76746
+          ],
+          "instruction": "Turn right onto Borgo San Iacopo.",
+          "distanceM": 112,
+          "type": ""
+        },
+        {
+          "location": [
+            11.251404,
+            43.767818
+          ],
+          "instruction": "Continue on the crosswalk.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            11.251002,
+            43.767912
+          ],
+          "instruction": "Turn left onto Via Toscanella.",
+          "distanceM": 59,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250748,
+            43.767404
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250748,
+            43.767404
+          ],
+          "instruction": "Walk south on Via Toscanella.",
+          "distanceM": 26,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250627,
+            43.767187
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 69,
+          "type": ""
+        },
+        {
+          "location": [
+            11.251207,
+            43.766752
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.251171,
+            43.766736
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 96,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250296,
+            43.766178
+          ],
+          "instruction": "Turn left onto the crosswalk.",
+          "distanceM": 14,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250394,
+            43.766078
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250343,
+            43.766055
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 102,
+          "type": ""
+        },
+        {
+          "location": [
+            11.249887,
+            43.765335
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 22,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250033,
+            43.765168
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.250033,
+            43.765168
+          ],
+          "instruction": "Walk northwest on the walkway.",
+          "distanceM": 14,
+          "type": ""
+        },
+        {
+          "location": [
+            11.249935,
+            43.765277
+          ],
+          "instruction": "Turn left onto Piazza dei Pitti.",
+          "distanceM": 145,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248818,
+            43.765364
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248794,
+            43.765398
+          ],
+          "instruction": "Turn right onto Piazza dei Pitti.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248927,
+            43.765464
+          ],
+          "instruction": "Turn left onto Via dei Marsili.",
+          "distanceM": 6,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248873,
+            43.765496
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 2,
+          "type": ""
+        },
+        {
+          "location": [
+            11.24889,
+            43.765505
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 46,
+          "type": ""
+        },
+        {
+          "location": [
+            11.24845,
+            43.765771
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 88,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248845,
+            43.766497
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248788,
+            43.766517
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 48,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248296,
+            43.766708
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 3,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248271,
+            43.76672
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 24,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248034,
+            43.766841
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            11.24809,
+            43.766893
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248014,
+            43.766922
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 2,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248027,
+            43.766939
+          ],
+          "instruction": "Take the stairs.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248054,
+            43.766974
+          ],
+          "instruction": "Continue on the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248076,
+            43.767001
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248076,
+            43.767001
+          ],
+          "instruction": "Walk north on the walkway.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248076,
+            43.767001
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248076,
+            43.767001
+          ],
+          "instruction": "Walk southwest on the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248054,
+            43.766974
+          ],
+          "instruction": "Take the stairs.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248027,
+            43.766939
+          ],
+          "instruction": "Continue on the walkway.",
+          "distanceM": 2,
+          "type": ""
+        },
+        {
+          "location": [
+            11.248014,
+            43.766922
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 221,
+          "type": ""
+        },
+        {
+          "location": [
+            11.246281,
+            43.76716
+          ],
+          "instruction": "Turn left onto the crosswalk.",
+          "distanceM": 3,
+          "type": ""
+        },
+        {
+          "location": [
+            11.24625,
+            43.767174
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 203,
+          "type": ""
+        },
+        {
+          "location": [
+            11.247354,
+            43.768818
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 38,
+          "type": ""
+        },
+        {
+          "location": [
+            11.246928,
+            43.768961
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:24:31.711Z"
+      }
+    },
     "cityId": "florence",
     "category": "Район",
     "title": "Ольтрарно: Питти, мастерские и площадь после заката",

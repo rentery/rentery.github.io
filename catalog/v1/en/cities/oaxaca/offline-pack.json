@@ -31,6 +31,276 @@
   "guides": [
     {
       "id": "oaxaca-zocalo-santo-domingo-layers",
+      "routePath": {
+        "coordinates": [
+          [
+            -96.724838,
+            17.060744
+          ],
+          [
+            -96.724796,
+            17.060937
+          ],
+          [
+            -96.725265,
+            17.061042
+          ],
+          [
+            -96.725198,
+            17.061371
+          ],
+          [
+            -96.725198,
+            17.061371
+          ],
+          [
+            -96.725265,
+            17.061042
+          ],
+          [
+            -96.725725,
+            17.061144
+          ],
+          [
+            -96.725684,
+            17.061352
+          ],
+          [
+            -96.725684,
+            17.061352
+          ],
+          [
+            -96.725725,
+            17.061144
+          ],
+          [
+            -96.725265,
+            17.061042
+          ],
+          [
+            -96.724796,
+            17.060937
+          ],
+          [
+            -96.724777,
+            17.06096
+          ],
+          [
+            -96.724607,
+            17.061802
+          ],
+          [
+            -96.724607,
+            17.061802
+          ],
+          [
+            -96.724594,
+            17.061869
+          ],
+          [
+            -96.724587,
+            17.061904
+          ],
+          [
+            -96.724577,
+            17.061948
+          ],
+          [
+            -96.724383,
+            17.062825
+          ],
+          [
+            -96.723951,
+            17.062739
+          ],
+          [
+            -96.723951,
+            17.062739
+          ],
+          [
+            -96.723525,
+            17.062654
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -96.724838,
+              17.060744
+            ],
+            "instruction": "Walk north on Portal Benito Juárez.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724796,
+              17.060937
+            ],
+            "instruction": "Turn left onto Portal de Clavería.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725265,
+              17.061042
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725198,
+              17.061371
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725198,
+              17.061371
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725265,
+              17.061042
+            ],
+            "instruction": "Turn right onto Portal de Clavería.",
+            "distanceM": 50,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725725,
+              17.061144
+            ],
+            "instruction": "Turn right onto Calle de Manuel García Vigil.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725684,
+              17.061352
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725684,
+              17.061352
+            ],
+            "instruction": "Walk south on Calle de Manuel García Vigil.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.725725,
+              17.061144
+            ],
+            "instruction": "Turn left onto Portal de Clavería.",
+            "distanceM": 101,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724796,
+              17.060937
+            ],
+            "instruction": "Turn left to stay on Portal de Clavería.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724777,
+              17.06096
+            ],
+            "instruction": "Bear left onto Calle de Doctor Aurelio Valdivieso.",
+            "distanceM": 95,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724607,
+              17.061802
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724607,
+              17.061802
+            ],
+            "instruction": "Walk north on Calle de Doctor Aurelio Valdivieso.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724587,
+              17.061904
+            ],
+            "instruction": "Continue on Calle de Macedonio Alcalá.",
+            "distanceM": 105,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.724383,
+              17.062825
+            ],
+            "instruction": "Turn right onto Avenida de José María Morelos.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.723951,
+              17.062739
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.723951,
+              17.062739
+            ],
+            "instruction": "Walk east on Avenida de José María Morelos.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              -96.723525,
+              17.062654
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:26:19.409Z"
+        }
+      },
       "cityId": "oaxaca",
       "category": "Маршрут",
       "title": "От Сокало к Санто-Доминго: Оахака",
@@ -540,5 +810,5 @@
       }
     }
   ],
-  "packHash": "e9ef60071805"
+  "packHash": "d2fa25200093"
 }

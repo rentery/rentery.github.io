@@ -31,6 +31,1011 @@
   "guides": [
     {
       "id": "quebec-city-old-quebec-cliff-river",
+      "routePath": {
+        "coordinates": [
+          [
+            -71.204319,
+            46.811099
+          ],
+          [
+            -71.204319,
+            46.811101
+          ],
+          [
+            -71.204308,
+            46.811001
+          ],
+          [
+            -71.204291,
+            46.810837
+          ],
+          [
+            -71.204438,
+            46.810826
+          ],
+          [
+            -71.204573,
+            46.810794
+          ],
+          [
+            -71.204668,
+            46.810771
+          ],
+          [
+            -71.204691,
+            46.810768
+          ],
+          [
+            -71.204908,
+            46.811147
+          ],
+          [
+            -71.204954,
+            46.811135
+          ],
+          [
+            -71.205011,
+            46.811119
+          ],
+          [
+            -71.205074,
+            46.811102
+          ],
+          [
+            -71.205115,
+            46.811171
+          ],
+          [
+            -71.20524,
+            46.811383
+          ],
+          [
+            -71.205214,
+            46.81142
+          ],
+          [
+            -71.205171,
+            46.811482
+          ],
+          [
+            -71.205194,
+            46.811526
+          ],
+          [
+            -71.205203,
+            46.811543
+          ],
+          [
+            -71.205297,
+            46.811661
+          ],
+          [
+            -71.205401,
+            46.811795
+          ],
+          [
+            -71.205401,
+            46.811795
+          ],
+          [
+            -71.205569,
+            46.812014
+          ],
+          [
+            -71.205685,
+            46.812168
+          ],
+          [
+            -71.2057,
+            46.812187
+          ],
+          [
+            -71.205597,
+            46.812223
+          ],
+          [
+            -71.20562,
+            46.812251
+          ],
+          [
+            -71.205673,
+            46.812312
+          ],
+          [
+            -71.20597,
+            46.812213
+          ],
+          [
+            -71.206006,
+            46.812209
+          ],
+          [
+            -71.206034,
+            46.812216
+          ],
+          [
+            -71.206063,
+            46.812228
+          ],
+          [
+            -71.206083,
+            46.812252
+          ],
+          [
+            -71.206083,
+            46.812366
+          ],
+          [
+            -71.206017,
+            46.812365
+          ],
+          [
+            -71.205978,
+            46.812385
+          ],
+          [
+            -71.20586,
+            46.812552
+          ],
+          [
+            -71.205882,
+            46.812581
+          ],
+          [
+            -71.205884,
+            46.812591
+          ],
+          [
+            -71.205884,
+            46.812591
+          ],
+          [
+            -71.205889,
+            46.812613
+          ],
+          [
+            -71.20588,
+            46.812644
+          ],
+          [
+            -71.205856,
+            46.812672
+          ],
+          [
+            -71.205819,
+            46.812692
+          ],
+          [
+            -71.20601,
+            46.812935
+          ],
+          [
+            -71.206036,
+            46.812967
+          ],
+          [
+            -71.206168,
+            46.813023
+          ],
+          [
+            -71.206996,
+            46.813052
+          ],
+          [
+            -71.206996,
+            46.813052
+          ],
+          [
+            -71.206168,
+            46.813023
+          ],
+          [
+            -71.206036,
+            46.812967
+          ],
+          [
+            -71.20601,
+            46.812935
+          ],
+          [
+            -71.205852,
+            46.812956
+          ],
+          [
+            -71.205708,
+            46.81295
+          ],
+          [
+            -71.205461,
+            46.812935
+          ],
+          [
+            -71.20543,
+            46.812986
+          ],
+          [
+            -71.205361,
+            46.812984
+          ],
+          [
+            -71.205272,
+            46.812981
+          ],
+          [
+            -71.205265,
+            46.812962
+          ],
+          [
+            -71.20525,
+            46.812922
+          ],
+          [
+            -71.205001,
+            46.812869
+          ],
+          [
+            -71.204776,
+            46.812822
+          ],
+          [
+            -71.204761,
+            46.812807
+          ],
+          [
+            -71.20472,
+            46.812765
+          ],
+          [
+            -71.204672,
+            46.812782
+          ],
+          [
+            -71.204638,
+            46.812773
+          ],
+          [
+            -71.204597,
+            46.812734
+          ],
+          [
+            -71.204573,
+            46.812711
+          ],
+          [
+            -71.204496,
+            46.812623
+          ],
+          [
+            -71.204398,
+            46.812536
+          ],
+          [
+            -71.204396,
+            46.812299
+          ],
+          [
+            -71.204396,
+            46.812299
+          ],
+          [
+            -71.204398,
+            46.812536
+          ],
+          [
+            -71.204496,
+            46.812623
+          ],
+          [
+            -71.204573,
+            46.812711
+          ],
+          [
+            -71.204597,
+            46.812734
+          ],
+          [
+            -71.204638,
+            46.812773
+          ],
+          [
+            -71.204672,
+            46.812782
+          ],
+          [
+            -71.20472,
+            46.812765
+          ],
+          [
+            -71.204761,
+            46.812807
+          ],
+          [
+            -71.204776,
+            46.812822
+          ],
+          [
+            -71.205001,
+            46.812869
+          ],
+          [
+            -71.204995,
+            46.812899
+          ],
+          [
+            -71.204981,
+            46.812975
+          ],
+          [
+            -71.20468,
+            46.812962
+          ],
+          [
+            -71.204604,
+            46.812998
+          ],
+          [
+            -71.204576,
+            46.813087
+          ],
+          [
+            -71.204552,
+            46.813135
+          ],
+          [
+            -71.204466,
+            46.813191
+          ],
+          [
+            -71.204419,
+            46.813216
+          ],
+          [
+            -71.204329,
+            46.813141
+          ],
+          [
+            -71.204189,
+            46.813035
+          ],
+          [
+            -71.204086,
+            46.812969
+          ],
+          [
+            -71.20405,
+            46.812957
+          ],
+          [
+            -71.204005,
+            46.812943
+          ],
+          [
+            -71.20393,
+            46.812934
+          ],
+          [
+            -71.203864,
+            46.81293
+          ],
+          [
+            -71.203668,
+            46.81292
+          ],
+          [
+            -71.203622,
+            46.812934
+          ],
+          [
+            -71.203577,
+            46.812935
+          ],
+          [
+            -71.203536,
+            46.812934
+          ],
+          [
+            -71.203499,
+            46.812919
+          ],
+          [
+            -71.203453,
+            46.81292
+          ],
+          [
+            -71.203375,
+            46.812954
+          ],
+          [
+            -71.203331,
+            46.812997
+          ],
+          [
+            -71.203323,
+            46.813058
+          ],
+          [
+            -71.203335,
+            46.813097
+          ],
+          [
+            -71.202983,
+            46.813162
+          ],
+          [
+            -71.202927,
+            46.813171
+          ],
+          [
+            -71.202766,
+            46.81307
+          ],
+          [
+            -71.202601,
+            46.812966
+          ],
+          [
+            -71.202587,
+            46.812804
+          ],
+          [
+            -71.202587,
+            46.812804
+          ],
+          [
+            -71.202577,
+            46.812684
+          ],
+          [
+            -71.202492,
+            46.81269
+          ],
+          [
+            -71.202399,
+            46.812696
+          ],
+          [
+            -71.202399,
+            46.812696
+          ],
+          [
+            -71.202492,
+            46.81269
+          ],
+          [
+            -71.202577,
+            46.812684
+          ],
+          [
+            -71.202907,
+            46.812659
+          ],
+          [
+            -71.2029,
+            46.812505
+          ],
+          [
+            -71.20317,
+            46.812475
+          ],
+          [
+            -71.203216,
+            46.812464
+          ],
+          [
+            -71.203247,
+            46.812451
+          ],
+          [
+            -71.203273,
+            46.812431
+          ],
+          [
+            -71.203296,
+            46.812408
+          ],
+          [
+            -71.203326,
+            46.812368
+          ],
+          [
+            -71.203342,
+            46.812329
+          ],
+          [
+            -71.203352,
+            46.812294
+          ],
+          [
+            -71.203351,
+            46.812265
+          ],
+          [
+            -71.203336,
+            46.812241
+          ],
+          [
+            -71.203239,
+            46.81216
+          ],
+          [
+            -71.203298,
+            46.812104
+          ],
+          [
+            -71.203325,
+            46.812027
+          ],
+          [
+            -71.203357,
+            46.811933
+          ],
+          [
+            -71.203556,
+            46.811928
+          ],
+          [
+            -71.203559,
+            46.811999
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -71.204319,
+              46.811099
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204291,
+              46.810837
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204573,
+              46.810794
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204668,
+              46.810771
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204691,
+              46.810768
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204908,
+              46.811147
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205074,
+              46.811102
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205171,
+              46.811482
+            ],
+            "instruction": "Turn left onto Rue des Carrières.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205401,
+              46.811795
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205401,
+              46.811795
+            ],
+            "instruction": "Walk northwest on Rue des Carrières.",
+            "distanceM": 48,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.2057,
+              46.812187
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205597,
+              46.812223
+            ],
+            "instruction": "Turn left onto the crosswalk.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205673,
+              46.812312
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 30,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.206034,
+              46.812216
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.206083,
+              46.812366
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 29,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20586,
+              46.812552
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205884,
+              46.812591
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205884,
+              46.812591
+            ],
+            "instruction": "Walk north on the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205819,
+              46.812692
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20601,
+              46.812935
+            ],
+            "instruction": "Continue on Rue Sainte-Anne.",
+            "distanceM": 79,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.206996,
+              46.813052
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.206996,
+              46.813052
+            ],
+            "instruction": "Walk east on Rue Sainte-Anne.",
+            "distanceM": 79,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20601,
+              46.812935
+            ],
+            "instruction": "Turn left to stay on Rue Sainte-Anne.",
+            "distanceM": 42,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205461,
+              46.812935
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20543,
+              46.812986
+            ],
+            "instruction": "Turn right onto the crosswalk.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205272,
+              46.812981
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20525,
+              46.812922
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20472,
+              46.812765
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 64,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204396,
+              46.812299
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204396,
+              46.812299
+            ],
+            "instruction": "Walk north on the walkway.",
+            "distanceM": 64,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20472,
+              46.812765
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.205001,
+              46.812869
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204981,
+              46.812975
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.20468,
+              46.812962
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.204419,
+              46.813216
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 111,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.203335,
+              46.813097
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202983,
+              46.813162
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202927,
+              46.813171
+            ],
+            "instruction": "Bear right onto the walkway.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202601,
+              46.812966
+            ],
+            "instruction": "Bear right onto Rue des Pains-Bénits.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202587,
+              46.812804
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202587,
+              46.812804
+            ],
+            "instruction": "Walk south on Rue des Pains-Bénits.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202577,
+              46.812684
+            ],
+            "instruction": "Turn left onto Rue Sous-le-Fort.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202399,
+              46.812696
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202399,
+              46.812696
+            ],
+            "instruction": "Walk west on Rue Sous-le-Fort.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.202907,
+              46.812659
+            ],
+            "instruction": "Turn left onto Rue Notre-Dame.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.2029,
+              46.812505
+            ],
+            "instruction": "Turn right onto Rue du Cul-de-Sac.",
+            "distanceM": 65,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.203239,
+              46.81216
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 27,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.203357,
+              46.811933
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.203556,
+              46.811928
+            ],
+            "instruction": "Turn right onto Rue du Petit-Champlain.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.203559,
+              46.811999
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:26:31.977Z"
+        }
+      },
       "cityId": "quebec-city",
       "category": "Маршрут",
       "title": "Старый Квебек: город на скале и у реки",
@@ -518,5 +1523,5 @@
       }
     }
   ],
-  "packHash": "d826381c76b2"
+  "packHash": "af68d332bed5"
 }

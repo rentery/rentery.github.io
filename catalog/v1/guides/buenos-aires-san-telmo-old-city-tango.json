@@ -1,5 +1,584 @@
 {
   "id": "buenos-aires-san-telmo-old-city-tango",
+  "routePath": {
+    "coordinates": [
+      [
+        -58.369586,
+        -34.626436
+      ],
+      [
+        -58.369915,
+        -34.626462
+      ],
+      [
+        -58.370424,
+        -34.626538
+      ],
+      [
+        -58.370455,
+        -34.626515
+      ],
+      [
+        -58.370799,
+        -34.626546
+      ],
+      [
+        -58.370788,
+        -34.62663
+      ],
+      [
+        -58.370432,
+        -34.626597
+      ],
+      [
+        -58.37041,
+        -34.626754
+      ],
+      [
+        -58.37041,
+        -34.626754
+      ],
+      [
+        -58.370432,
+        -34.626597
+      ],
+      [
+        -58.370788,
+        -34.62663
+      ],
+      [
+        -58.370799,
+        -34.626546
+      ],
+      [
+        -58.370455,
+        -34.626515
+      ],
+      [
+        -58.370505,
+        -34.626477
+      ],
+      [
+        -58.370607,
+        -34.626399
+      ],
+      [
+        -58.370696,
+        -34.626306
+      ],
+      [
+        -58.370762,
+        -34.626214
+      ],
+      [
+        -58.370808,
+        -34.62616
+      ],
+      [
+        -58.370866,
+        -34.626068
+      ],
+      [
+        -58.370886,
+        -34.626014
+      ],
+      [
+        -58.370889,
+        -34.625977
+      ],
+      [
+        -58.370899,
+        -34.625886
+      ],
+      [
+        -58.370866,
+        -34.62574
+      ],
+      [
+        -58.370831,
+        -34.625633
+      ],
+      [
+        -58.370852,
+        -34.625617
+      ],
+      [
+        -58.370898,
+        -34.625512
+      ],
+      [
+        -58.370898,
+        -34.625512
+      ],
+      [
+        -58.370985,
+        -34.625431
+      ],
+      [
+        -58.371014,
+        -34.62543
+      ],
+      [
+        -58.371086,
+        -34.625432
+      ],
+      [
+        -58.371094,
+        -34.625362
+      ],
+      [
+        -58.371118,
+        -34.625279
+      ],
+      [
+        -58.371193,
+        -34.624227
+      ],
+      [
+        -58.371271,
+        -34.623063
+      ],
+      [
+        -58.37128,
+        -34.622919
+      ],
+      [
+        -58.371291,
+        -34.622676
+      ],
+      [
+        -58.371309,
+        -34.62227
+      ],
+      [
+        -58.371329,
+        -34.62184
+      ],
+      [
+        -58.371246,
+        -34.621836
+      ],
+      [
+        -58.370763,
+        -34.621812
+      ],
+      [
+        -58.370763,
+        -34.621812
+      ],
+      [
+        -58.370209,
+        -34.621785
+      ],
+      [
+        -58.370209,
+        -34.621785
+      ],
+      [
+        -58.371246,
+        -34.621836
+      ],
+      [
+        -58.371329,
+        -34.62184
+      ],
+      [
+        -58.371432,
+        -34.620689
+      ],
+      [
+        -58.371457,
+        -34.620276
+      ],
+      [
+        -58.371523,
+        -34.619515
+      ],
+      [
+        -58.371552,
+        -34.619157
+      ],
+      [
+        -58.371608,
+        -34.618467
+      ],
+      [
+        -58.371638,
+        -34.617849
+      ],
+      [
+        -58.371673,
+        -34.617187
+      ],
+      [
+        -58.371694,
+        -34.616665
+      ],
+      [
+        -58.371694,
+        -34.616665
+      ],
+      [
+        -58.371695,
+        -34.616652
+      ],
+      [
+        -58.371324,
+        -34.616643
+      ],
+      [
+        -58.371324,
+        -34.616643
+      ],
+      [
+        -58.371695,
+        -34.616652
+      ],
+      [
+        -58.371673,
+        -34.617187
+      ],
+      [
+        -58.371638,
+        -34.617849
+      ],
+      [
+        -58.371608,
+        -34.618467
+      ],
+      [
+        -58.371552,
+        -34.619157
+      ],
+      [
+        -58.371523,
+        -34.619515
+      ],
+      [
+        -58.372943,
+        -34.61961
+      ],
+      [
+        -58.373128,
+        -34.619616
+      ],
+      [
+        -58.373128,
+        -34.619616
+      ],
+      [
+        -58.372943,
+        -34.61961
+      ],
+      [
+        -58.372855,
+        -34.62072
+      ],
+      [
+        -58.372038,
+        -34.620695
+      ],
+      [
+        -58.371665,
+        -34.620691
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -58.369586,
+          -34.626436
+        ],
+        "instruction": "Walk west on the walkway.",
+        "distanceM": 77,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370424,
+          -34.626538
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370455,
+          -34.626515
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370799,
+          -34.626546
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370788,
+          -34.62663
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.37041,
+          -34.626754
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.37041,
+          -34.626754
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370788,
+          -34.62663
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370799,
+          -34.626546
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370455,
+          -34.626515
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 127,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370898,
+          -34.625512
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370898,
+          -34.625512
+        ],
+        "instruction": "Walk northwest on the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370985,
+          -34.625431
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371086,
+          -34.625432
+        ],
+        "instruction": "Turn right onto Defensa.",
+        "distanceM": 401,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371329,
+          -34.62184
+        ],
+        "instruction": "Turn right onto Avenida San Juan.",
+        "distanceM": 51,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370763,
+          -34.621812
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370763,
+          -34.621812
+        ],
+        "instruction": "Walk east on Avenida San Juan.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370209,
+          -34.621785
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.370209,
+          -34.621785
+        ],
+        "instruction": "Walk west on Avenida San Juan.",
+        "distanceM": 102,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371329,
+          -34.62184
+        ],
+        "instruction": "Turn right onto Defensa.",
+        "distanceM": 577,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371694,
+          -34.616665
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371694,
+          -34.616665
+        ],
+        "instruction": "Walk north on Defensa.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371695,
+          -34.616652
+        ],
+        "instruction": "Turn right onto San Lorenzo.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371324,
+          -34.616643
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371324,
+          -34.616643
+        ],
+        "instruction": "Walk west on San Lorenzo.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371695,
+          -34.616652
+        ],
+        "instruction": "Turn left onto Defensa.",
+        "distanceM": 320,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371523,
+          -34.619515
+        ],
+        "instruction": "Turn right onto Carlos Calvo.",
+        "distanceM": 147,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.373128,
+          -34.619616
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.373128,
+          -34.619616
+        ],
+        "instruction": "Walk east on Carlos Calvo.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.372943,
+          -34.61961
+        ],
+        "instruction": "Turn right onto Bolívar.",
+        "distanceM": 124,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.372855,
+          -34.62072
+        ],
+        "instruction": "Turn left onto Humberto I.",
+        "distanceM": 109,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.371665,
+          -34.620691
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:25:20.934Z"
+    }
+  },
   "cityId": "buenos-aires",
   "category": "Район",
   "title": "Сан‑Тельмо: брусчатка, рынок и тень танго",

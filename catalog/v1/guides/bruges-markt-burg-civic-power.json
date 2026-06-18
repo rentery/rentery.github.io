@@ -1,5 +1,468 @@
 {
   "id": "bruges-markt-burg-civic-power",
+  "routePath": {
+    "coordinates": [
+      [
+        3.224502,
+        51.208482
+      ],
+      [
+        3.224687,
+        51.208316
+      ],
+      [
+        3.224687,
+        51.208316
+      ],
+      [
+        3.224502,
+        51.208482
+      ],
+      [
+        3.224624,
+        51.208508
+      ],
+      [
+        3.224725,
+        51.208518
+      ],
+      [
+        3.224836,
+        51.208518
+      ],
+      [
+        3.224833,
+        51.208615
+      ],
+      [
+        3.224759,
+        51.208844
+      ],
+      [
+        3.224759,
+        51.208844
+      ],
+      [
+        3.224833,
+        51.208615
+      ],
+      [
+        3.224836,
+        51.208518
+      ],
+      [
+        3.224943,
+        51.208496
+      ],
+      [
+        3.225007,
+        51.208461
+      ],
+      [
+        3.225097,
+        51.20847
+      ],
+      [
+        3.225576,
+        51.208518
+      ],
+      [
+        3.22573,
+        51.208539
+      ],
+      [
+        3.226136,
+        51.208593
+      ],
+      [
+        3.226332,
+        51.208618
+      ],
+      [
+        3.22656,
+        51.208655
+      ],
+      [
+        3.226613,
+        51.208664
+      ],
+      [
+        3.226888,
+        51.208717
+      ],
+      [
+        3.226984,
+        51.208628
+      ],
+      [
+        3.226984,
+        51.208628
+      ],
+      [
+        3.227123,
+        51.208499
+      ],
+      [
+        3.227227,
+        51.208402
+      ],
+      [
+        3.227237,
+        51.208395
+      ],
+      [
+        3.227293,
+        51.20835
+      ],
+      [
+        3.227372,
+        51.20829
+      ],
+      [
+        3.227372,
+        51.20829
+      ],
+      [
+        3.227293,
+        51.20835
+      ],
+      [
+        3.227237,
+        51.208395
+      ],
+      [
+        3.227227,
+        51.208402
+      ],
+      [
+        3.227123,
+        51.208499
+      ],
+      [
+        3.226873,
+        51.208438
+      ],
+      [
+        3.226873,
+        51.208438
+      ],
+      [
+        3.227123,
+        51.208499
+      ],
+      [
+        3.227227,
+        51.208402
+      ],
+      [
+        3.227237,
+        51.208395
+      ],
+      [
+        3.227293,
+        51.20835
+      ],
+      [
+        3.227604,
+        51.208115
+      ],
+      [
+        3.227717,
+        51.208033
+      ],
+      [
+        3.227802,
+        51.207974
+      ],
+      [
+        3.227862,
+        51.20801
+      ],
+      [
+        3.227969,
+        51.208072
+      ],
+      [
+        3.228123,
+        51.208161
+      ],
+      [
+        3.228218,
+        51.208216
+      ],
+      [
+        3.228455,
+        51.208038
+      ],
+      [
+        3.228455,
+        51.208038
+      ],
+      [
+        3.228504,
+        51.208001
+      ],
+      [
+        3.228771,
+        51.207806
+      ],
+      [
+        3.228756,
+        51.207798
+      ],
+      [
+        3.228593,
+        51.207714
+      ],
+      [
+        3.228451,
+        51.207639
+      ],
+      [
+        3.228392,
+        51.207609
+      ],
+      [
+        3.228343,
+        51.207583
+      ],
+      [
+        3.227929,
+        51.207375
+      ],
+      [
+        3.227731,
+        51.20728
+      ],
+      [
+        3.227691,
+        51.207263
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          3.224502,
+          51.208482
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224687,
+          51.208316
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224687,
+          51.208316
+        ],
+        "instruction": "Walk northwest on the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224502,
+          51.208482
+        ],
+        "instruction": "Turn right onto Markt.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224836,
+          51.208518
+        ],
+        "instruction": "Turn left to stay on Markt.",
+        "distanceM": 36,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224759,
+          51.208844
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224759,
+          51.208844
+        ],
+        "instruction": "Walk south on Markt.",
+        "distanceM": 36,
+        "type": ""
+      },
+      {
+        "location": [
+          3.224836,
+          51.208518
+        ],
+        "instruction": "Turn left to stay on Markt.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          3.225007,
+          51.208461
+        ],
+        "instruction": "Bear left onto Breidelstraat.",
+        "distanceM": 134,
+        "type": ""
+      },
+      {
+        "location": [
+          3.226888,
+          51.208717
+        ],
+        "instruction": "Turn right onto Burg.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          3.226984,
+          51.208628
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.226984,
+          51.208628
+        ],
+        "instruction": "Walk southeast on Burg.",
+        "distanceM": 46,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227372,
+          51.20829
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227372,
+          51.20829
+        ],
+        "instruction": "Walk northwest on Blinde-Ezelstraat.",
+        "distanceM": 28,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227123,
+          51.208499
+        ],
+        "instruction": "Turn left onto Burg.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          3.226873,
+          51.208438
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.226873,
+          51.208438
+        ],
+        "instruction": "Walk east on Burg.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227123,
+          51.208499
+        ],
+        "instruction": "Turn right to stay on Burg.",
+        "distanceM": 75,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227802,
+          51.207974
+        ],
+        "instruction": "Turn left onto Steenhouwersdijk.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          3.228218,
+          51.208216
+        ],
+        "instruction": "Turn right onto Vismarkt.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          3.228455,
+          51.208038
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          3.228455,
+          51.208038
+        ],
+        "instruction": "Walk southeast on Vismarkt.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          3.228771,
+          51.207806
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 95,
+        "type": ""
+      },
+      {
+        "location": [
+          3.227691,
+          51.207263
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:44.516Z"
+    }
+  },
   "cityId": "bruges",
   "category": "Маршрут",
   "title": "Маркт и Бург: город, который правил тор",

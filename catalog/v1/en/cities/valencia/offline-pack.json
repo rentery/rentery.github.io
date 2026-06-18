@@ -31,6 +31,790 @@
   "guides": [
     {
       "id": "valencia-old-town-silk-power",
+      "routePath": {
+        "coordinates": [
+          [
+            -0.376037,
+            39.479211
+          ],
+          [
+            -0.376009,
+            39.479267
+          ],
+          [
+            -0.375989,
+            39.479405
+          ],
+          [
+            -0.375969,
+            39.479474
+          ],
+          [
+            -0.375773,
+            39.479407
+          ],
+          [
+            -0.375694,
+            39.479378
+          ],
+          [
+            -0.375634,
+            39.479354
+          ],
+          [
+            -0.375523,
+            39.479304
+          ],
+          [
+            -0.375085,
+            39.479103
+          ],
+          [
+            -0.375039,
+            39.479083
+          ],
+          [
+            -0.374886,
+            39.479013
+          ],
+          [
+            -0.374797,
+            39.478977
+          ],
+          [
+            -0.374744,
+            39.478956
+          ],
+          [
+            -0.374692,
+            39.478935
+          ],
+          [
+            -0.374792,
+            39.47817
+          ],
+          [
+            -0.374805,
+            39.478086
+          ],
+          [
+            -0.374915,
+            39.477617
+          ],
+          [
+            -0.374982,
+            39.477338
+          ],
+          [
+            -0.375046,
+            39.477098
+          ],
+          [
+            -0.375055,
+            39.477064
+          ],
+          [
+            -0.375129,
+            39.476794
+          ],
+          [
+            -0.375139,
+            39.476755
+          ],
+          [
+            -0.375161,
+            39.476666
+          ],
+          [
+            -0.375133,
+            39.476663
+          ],
+          [
+            -0.375073,
+            39.476644
+          ],
+          [
+            -0.375001,
+            39.476621
+          ],
+          [
+            -0.375044,
+            39.47609
+          ],
+          [
+            -0.375106,
+            39.476093
+          ],
+          [
+            -0.375154,
+            39.476058
+          ],
+          [
+            -0.375259,
+            39.475982
+          ],
+          [
+            -0.375282,
+            39.475953
+          ],
+          [
+            -0.375351,
+            39.475862
+          ],
+          [
+            -0.375399,
+            39.4758
+          ],
+          [
+            -0.375399,
+            39.4758
+          ],
+          [
+            -0.375466,
+            39.475713
+          ],
+          [
+            -0.375715,
+            39.475411
+          ],
+          [
+            -0.375781,
+            39.475273
+          ],
+          [
+            -0.37558,
+            39.475195
+          ],
+          [
+            -0.375533,
+            39.475179
+          ],
+          [
+            -0.375266,
+            39.47511
+          ],
+          [
+            -0.375025,
+            39.475047
+          ],
+          [
+            -0.375062,
+            39.474767
+          ],
+          [
+            -0.375094,
+            39.474507
+          ],
+          [
+            -0.375094,
+            39.474507
+          ],
+          [
+            -0.375113,
+            39.474357
+          ],
+          [
+            -0.37514,
+            39.474152
+          ],
+          [
+            -0.375161,
+            39.473989
+          ],
+          [
+            -0.375246,
+            39.473783
+          ],
+          [
+            -0.375346,
+            39.473803
+          ],
+          [
+            -0.375598,
+            39.473854
+          ],
+          [
+            -0.375721,
+            39.473824
+          ],
+          [
+            -0.37585,
+            39.473843
+          ],
+          [
+            -0.375908,
+            39.473851
+          ],
+          [
+            -0.376094,
+            39.473877
+          ],
+          [
+            -0.376334,
+            39.473896
+          ],
+          [
+            -0.376592,
+            39.473917
+          ],
+          [
+            -0.376574,
+            39.473735
+          ],
+          [
+            -0.376591,
+            39.473735
+          ],
+          [
+            -0.376609,
+            39.473734
+          ],
+          [
+            -0.376609,
+            39.473734
+          ],
+          [
+            -0.376642,
+            39.473733
+          ],
+          [
+            -0.376704,
+            39.473714
+          ],
+          [
+            -0.376841,
+            39.473858
+          ],
+          [
+            -0.376885,
+            39.473757
+          ],
+          [
+            -0.377059,
+            39.473642
+          ],
+          [
+            -0.377176,
+            39.473566
+          ],
+          [
+            -0.377553,
+            39.473314
+          ],
+          [
+            -0.377575,
+            39.473334
+          ],
+          [
+            -0.377696,
+            39.47345
+          ],
+          [
+            -0.377744,
+            39.473497
+          ],
+          [
+            -0.377771,
+            39.473518
+          ],
+          [
+            -0.377785,
+            39.473531
+          ],
+          [
+            -0.377853,
+            39.473597
+          ],
+          [
+            -0.377888,
+            39.47363
+          ],
+          [
+            -0.378009,
+            39.473747
+          ],
+          [
+            -0.378037,
+            39.473773
+          ],
+          [
+            -0.378069,
+            39.473804
+          ],
+          [
+            -0.378106,
+            39.473836
+          ],
+          [
+            -0.378188,
+            39.473916
+          ],
+          [
+            -0.378209,
+            39.473934
+          ],
+          [
+            -0.378243,
+            39.473953
+          ],
+          [
+            -0.37828,
+            39.473992
+          ],
+          [
+            -0.378327,
+            39.47404
+          ],
+          [
+            -0.378361,
+            39.474075
+          ],
+          [
+            -0.378387,
+            39.474101
+          ],
+          [
+            -0.378406,
+            39.47412
+          ],
+          [
+            -0.378469,
+            39.474176
+          ],
+          [
+            -0.378472,
+            39.474177
+          ],
+          [
+            -0.378499,
+            39.474201
+          ],
+          [
+            -0.378499,
+            39.474201
+          ],
+          [
+            -0.378472,
+            39.474177
+          ],
+          [
+            -0.378469,
+            39.474176
+          ],
+          [
+            -0.378406,
+            39.47412
+          ],
+          [
+            -0.378387,
+            39.474101
+          ],
+          [
+            -0.378361,
+            39.474075
+          ],
+          [
+            -0.378327,
+            39.47404
+          ],
+          [
+            -0.37828,
+            39.473992
+          ],
+          [
+            -0.378243,
+            39.473953
+          ],
+          [
+            -0.378209,
+            39.473934
+          ],
+          [
+            -0.378296,
+            39.473887
+          ],
+          [
+            -0.378307,
+            39.473877
+          ],
+          [
+            -0.378298,
+            39.473854
+          ],
+          [
+            -0.378374,
+            39.473807
+          ],
+          [
+            -0.37839,
+            39.473797
+          ],
+          [
+            -0.378466,
+            39.473749
+          ],
+          [
+            -0.378816,
+            39.473525
+          ],
+          [
+            -0.378944,
+            39.473446
+          ],
+          [
+            -0.378944,
+            39.473446
+          ],
+          [
+            -0.378816,
+            39.473525
+          ],
+          [
+            -0.379168,
+            39.473857
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -0.376037,
+              39.479211
+            ],
+            "instruction": "Walk north on Plaça dels Furs/Plaza de los Fueros.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376009,
+              39.479267
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375969,
+              39.479474
+            ],
+            "instruction": "Turn right onto Carrer del Comte de Trénor/Calle Conde de Trénor.",
+            "distanceM": 125,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.374692,
+              39.478935
+            ],
+            "instruction": "Turn right onto Carrer del Mur de Santa Anna/Calle del Muro de Santa Ana.",
+            "distanceM": 256,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375161,
+              39.476666
+            ],
+            "instruction": "Turn left onto Plaça de la Mare de Déu/Plaza de la Virgen.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375001,
+              39.476621
+            ],
+            "instruction": "Turn right to stay on Plaça de la Mare de Déu/Plaza de la Virgen.",
+            "distanceM": 59,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375044,
+              39.47609
+            ],
+            "instruction": "Turn right to stay on Plaça de la Mare de Déu/Plaza de la Virgen.",
+            "distanceM": 47,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375399,
+              39.4758
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375399,
+              39.4758
+            ],
+            "instruction": "Walk southwest on Carrer del Micalet/Calle del Miguelete.",
+            "distanceM": 50,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375715,
+              39.475411
+            ],
+            "instruction": "Bear left onto Carrer dels Bordadors/Calle de Bordadores.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375781,
+              39.475273
+            ],
+            "instruction": "Turn left to stay on Carrer dels Bordadors/Calle de Bordadores.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375533,
+              39.475179
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375025,
+              39.475047
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 60,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375094,
+              39.474507
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375094,
+              39.474507
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375246,
+              39.473783
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 41,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.375721,
+              39.473824
+            ],
+            "instruction": "Bear right onto Plaça de Santa Catalina/Plaza de Santa Catalina.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376094,
+              39.473877
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376334,
+              39.473896
+            ],
+            "instruction": "Continue on Carrer de la Sombreria/Calle Sombrerería.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376592,
+              39.473917
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376574,
+              39.473735
+            ],
+            "instruction": "Turn right onto Plaça Redona/Plaza Redonda.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376609,
+              39.473734
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376609,
+              39.473734
+            ],
+            "instruction": "Walk west on Plaça Redona/Plaza Redonda.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376704,
+              39.473714
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.376841,
+              39.473858
+            ],
+            "instruction": "Turn left onto Plaça de Lope de Vega/Plaza de Lope de Vega.",
+            "distanceM": 88,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.377553,
+              39.473314
+            ],
+            "instruction": "Turn right onto Plaça del Mercat/Plaza del Mercado.",
+            "distanceM": 127,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378499,
+              39.474201
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378499,
+              39.474201
+            ],
+            "instruction": "Walk southeast on Plaça del Mercat/Plaza del Mercado.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378209,
+              39.473934
+            ],
+            "instruction": "Turn right onto Carrer d'Ercilla/Calle Ercilla.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378307,
+              39.473877
+            ],
+            "instruction": "Turn left onto Plaça del Mercat/Plaza del Mercado.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378298,
+              39.473854
+            ],
+            "instruction": "Turn right onto Avenida Maria Cristina.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378374,
+              39.473807
+            ],
+            "instruction": "Take the stairs to Level 0.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378466,
+              39.473749
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378944,
+              39.473446
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378944,
+              39.473446
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.378816,
+              39.473525
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 47,
+            "type": ""
+          },
+          {
+            "location": [
+              -0.379168,
+              39.473857
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:28:14.879Z"
+        }
+      },
       "cityId": "valencia",
       "category": "Район",
       "title": "Старая Валенсия: собор, шелк и рынок",
@@ -687,5 +1471,5 @@
       }
     }
   ],
-  "packHash": "9e539af1bbab"
+  "packHash": "e6fa96b1e41b"
 }

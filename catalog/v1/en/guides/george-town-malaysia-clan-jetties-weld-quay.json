@@ -1,5 +1,395 @@
 {
   "id": "george-town-malaysia-clan-jetties-weld-quay",
+  "routePath": {
+    "coordinates": [
+      [
+        100.338919,
+        5.413148
+      ],
+      [
+        100.338736,
+        5.413388
+      ],
+      [
+        100.338698,
+        5.413436
+      ],
+      [
+        100.339031,
+        5.413641
+      ],
+      [
+        100.339519,
+        5.412962
+      ],
+      [
+        100.339546,
+        5.412977
+      ],
+      [
+        100.339824,
+        5.413128
+      ],
+      [
+        100.339862,
+        5.413149
+      ],
+      [
+        100.340021,
+        5.413234
+      ],
+      [
+        100.340084,
+        5.41327
+      ],
+      [
+        100.340185,
+        5.413045
+      ],
+      [
+        100.340205,
+        5.413032
+      ],
+      [
+        100.340223,
+        5.413029
+      ],
+      [
+        100.340316,
+        5.413078
+      ],
+      [
+        100.340435,
+        5.413145
+      ],
+      [
+        100.340445,
+        5.41316
+      ],
+      [
+        100.340445,
+        5.41316
+      ],
+      [
+        100.340445,
+        5.41316
+      ],
+      [
+        100.340435,
+        5.413145
+      ],
+      [
+        100.340316,
+        5.413078
+      ],
+      [
+        100.340223,
+        5.413029
+      ],
+      [
+        100.340205,
+        5.413032
+      ],
+      [
+        100.340185,
+        5.413045
+      ],
+      [
+        100.340084,
+        5.41327
+      ],
+      [
+        100.340021,
+        5.413234
+      ],
+      [
+        100.339862,
+        5.413149
+      ],
+      [
+        100.339824,
+        5.413128
+      ],
+      [
+        100.339546,
+        5.412977
+      ],
+      [
+        100.339575,
+        5.412913
+      ],
+      [
+        100.339632,
+        5.412808
+      ],
+      [
+        100.33965,
+        5.412798
+      ],
+      [
+        100.339687,
+        5.4128
+      ],
+      [
+        100.339702,
+        5.412793
+      ],
+      [
+        100.339716,
+        5.412776
+      ],
+      [
+        100.339789,
+        5.412818
+      ],
+      [
+        100.339789,
+        5.412818
+      ],
+      [
+        100.339716,
+        5.412776
+      ],
+      [
+        100.339728,
+        5.41276
+      ],
+      [
+        100.339732,
+        5.412745
+      ],
+      [
+        100.339728,
+        5.412727
+      ],
+      [
+        100.339723,
+        5.412678
+      ],
+      [
+        100.339725,
+        5.412662
+      ],
+      [
+        100.339738,
+        5.412623
+      ],
+      [
+        100.339798,
+        5.412574
+      ],
+      [
+        100.3399,
+        5.4125
+      ],
+      [
+        100.3399,
+        5.4125
+      ],
+      [
+        100.339901,
+        5.4125
+      ],
+      [
+        100.340001,
+        5.4124
+      ],
+      [
+        100.340001,
+        5.4124
+      ],
+      [
+        100.340008,
+        5.412393
+      ],
+      [
+        100.340114,
+        5.412259
+      ],
+      [
+        100.340137,
+        5.41223
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          100.338919,
+          5.413148
+        ],
+        "instruction": "Walk northwest.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          100.338698,
+          5.413436
+        ],
+        "instruction": "Turn right onto Lebuh Victoria.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339031,
+          5.413641
+        ],
+        "instruction": "Turn right onto Gat Lebuh Armenian.",
+        "distanceM": 93,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339519,
+          5.412962
+        ],
+        "instruction": "Turn left onto Pengkalan Weld.",
+        "distanceM": 71,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340084,
+          5.41327
+        ],
+        "instruction": "Turn right.",
+        "distanceM": 61,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340445,
+          5.41316
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340445,
+          5.41316
+        ],
+        "instruction": "Walk southwest.",
+        "distanceM": 61,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340084,
+          5.41327
+        ],
+        "instruction": "Turn left onto Pengkalan Weld.",
+        "distanceM": 68,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339546,
+          5.412977
+        ],
+        "instruction": "Turn left.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339716,
+          5.412776
+        ],
+        "instruction": "Turn left.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339789,
+          5.412818
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339789,
+          5.412818
+        ],
+        "instruction": "Walk southwest.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339716,
+          5.412776
+        ],
+        "instruction": "Turn left.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          100.339738,
+          5.412623
+        ],
+        "instruction": "Bear left onto the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          100.3399,
+          5.4125
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          100.3399,
+          5.4125
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340001,
+          5.4124
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340001,
+          5.4124
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          100.340137,
+          5.41223
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:58.052Z"
+    }
+  },
   "cityId": "george-town-malaysia",
   "category": "Район",
   "title": "Пристани кланов: Джорджтаун над водой",

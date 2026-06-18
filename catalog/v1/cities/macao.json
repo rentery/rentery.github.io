@@ -2,11 +2,12 @@
   "id": "macao",
   "slug": "macao",
   "title": "Макао",
-  "subtitle": "Макао · 1 маршрут · 4 скоро",
-  "meta": "Китай · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Макао · 2 маршрута · 3 скоро",
+  "meta": "Китай · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "macao-barra-st-pauls-east-west-spine"
+    "macao-barra-st-pauls-east-west-spine",
+    "macao-taipa-cotai-island-to-reclamation"
   ],
   "countryId": "china",
   "photo": {

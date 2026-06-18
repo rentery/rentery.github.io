@@ -1,5 +1,1395 @@
 {
   "id": "hong-kong-old-town-central-layers",
+  "routePath": {
+    "coordinates": [
+      [
+        114.15443,
+        22.285645
+      ],
+      [
+        114.154737,
+        22.285466
+      ],
+      [
+        114.154724,
+        22.285447
+      ],
+      [
+        114.154711,
+        22.285427
+      ],
+      [
+        114.154697,
+        22.285406
+      ],
+      [
+        114.154674,
+        22.285371
+      ],
+      [
+        114.154655,
+        22.285343
+      ],
+      [
+        114.154733,
+        22.285297
+      ],
+      [
+        114.154853,
+        22.285226
+      ],
+      [
+        114.155038,
+        22.285117
+      ],
+      [
+        114.155079,
+        22.285093
+      ],
+      [
+        114.155215,
+        22.285013
+      ],
+      [
+        114.155294,
+        22.284936
+      ],
+      [
+        114.155602,
+        22.284581
+      ],
+      [
+        114.155637,
+        22.284543
+      ],
+      [
+        114.155595,
+        22.284512
+      ],
+      [
+        114.155625,
+        22.284483
+      ],
+      [
+        114.155654,
+        22.284448
+      ],
+      [
+        114.155324,
+        22.284203
+      ],
+      [
+        114.154848,
+        22.283852
+      ],
+      [
+        114.15484,
+        22.283841
+      ],
+      [
+        114.154835,
+        22.283826
+      ],
+      [
+        114.154836,
+        22.283784
+      ],
+      [
+        114.154828,
+        22.283775
+      ],
+      [
+        114.154806,
+        22.283751
+      ],
+      [
+        114.154781,
+        22.283723
+      ],
+      [
+        114.15477,
+        22.283711
+      ],
+      [
+        114.15486,
+        22.283645
+      ],
+      [
+        114.154779,
+        22.28356
+      ],
+      [
+        114.154801,
+        22.28354
+      ],
+      [
+        114.154856,
+        22.283599
+      ],
+      [
+        114.154881,
+        22.283569
+      ],
+      [
+        114.154464,
+        22.283162
+      ],
+      [
+        114.154396,
+        22.283103
+      ],
+      [
+        114.153941,
+        22.282651
+      ],
+      [
+        114.153933,
+        22.282629
+      ],
+      [
+        114.153932,
+        22.282485
+      ],
+      [
+        114.153927,
+        22.282445
+      ],
+      [
+        114.153889,
+        22.282449
+      ],
+      [
+        114.153885,
+        22.282422
+      ],
+      [
+        114.153891,
+        22.282484
+      ],
+      [
+        114.15392,
+        22.282482
+      ],
+      [
+        114.154304,
+        22.282459
+      ],
+      [
+        114.154304,
+        22.282459
+      ],
+      [
+        114.15392,
+        22.282482
+      ],
+      [
+        114.153891,
+        22.282484
+      ],
+      [
+        114.153867,
+        22.282485
+      ],
+      [
+        114.153866,
+        22.282476
+      ],
+      [
+        114.153853,
+        22.282357
+      ],
+      [
+        114.153843,
+        22.282277
+      ],
+      [
+        114.1539,
+        22.282271
+      ],
+      [
+        114.153893,
+        22.282193
+      ],
+      [
+        114.154058,
+        22.282169
+      ],
+      [
+        114.154138,
+        22.282157
+      ],
+      [
+        114.154638,
+        22.281996
+      ],
+      [
+        114.154542,
+        22.281888
+      ],
+      [
+        114.154521,
+        22.281861
+      ],
+      [
+        114.154509,
+        22.281864
+      ],
+      [
+        114.154441,
+        22.281882
+      ],
+      [
+        114.154438,
+        22.281872
+      ],
+      [
+        114.154432,
+        22.281854
+      ],
+      [
+        114.154426,
+        22.281835
+      ],
+      [
+        114.154423,
+        22.281826
+      ],
+      [
+        114.154258,
+        22.281873
+      ],
+      [
+        114.154258,
+        22.281873
+      ],
+      [
+        114.154423,
+        22.281826
+      ],
+      [
+        114.154426,
+        22.281835
+      ],
+      [
+        114.154432,
+        22.281854
+      ],
+      [
+        114.154388,
+        22.281867
+      ],
+      [
+        114.154244,
+        22.281908
+      ],
+      [
+        114.153868,
+        22.282016
+      ],
+      [
+        114.153529,
+        22.282166
+      ],
+      [
+        114.153466,
+        22.282195
+      ],
+      [
+        114.153439,
+        22.282209
+      ],
+      [
+        114.153382,
+        22.282241
+      ],
+      [
+        114.15333,
+        22.282277
+      ],
+      [
+        114.153265,
+        22.282332
+      ],
+      [
+        114.153181,
+        22.282404
+      ],
+      [
+        114.15315,
+        22.28244
+      ],
+      [
+        114.153061,
+        22.282559
+      ],
+      [
+        114.153006,
+        22.282654
+      ],
+      [
+        114.152966,
+        22.282723
+      ],
+      [
+        114.152885,
+        22.282862
+      ],
+      [
+        114.152862,
+        22.282843
+      ],
+      [
+        114.152458,
+        22.282463
+      ],
+      [
+        114.152443,
+        22.282476
+      ],
+      [
+        114.152361,
+        22.282399
+      ],
+      [
+        114.152343,
+        22.282415
+      ],
+      [
+        114.15229,
+        22.282463
+      ],
+      [
+        114.152201,
+        22.282544
+      ],
+      [
+        114.15211,
+        22.282635
+      ],
+      [
+        114.151874,
+        22.282872
+      ],
+      [
+        114.151865,
+        22.28289
+      ],
+      [
+        114.151857,
+        22.282906
+      ],
+      [
+        114.152112,
+        22.283154
+      ],
+      [
+        114.152105,
+        22.28316
+      ],
+      [
+        114.152064,
+        22.283195
+      ],
+      [
+        114.152031,
+        22.283223
+      ],
+      [
+        114.151876,
+        22.283354
+      ],
+      [
+        114.151864,
+        22.283364
+      ],
+      [
+        114.151864,
+        22.283364
+      ],
+      [
+        114.151876,
+        22.283354
+      ],
+      [
+        114.152031,
+        22.283223
+      ],
+      [
+        114.152064,
+        22.283195
+      ],
+      [
+        114.152105,
+        22.28316
+      ],
+      [
+        114.152112,
+        22.283154
+      ],
+      [
+        114.152121,
+        22.283146
+      ],
+      [
+        114.151865,
+        22.28289
+      ],
+      [
+        114.151857,
+        22.282906
+      ],
+      [
+        114.151654,
+        22.2831
+      ],
+      [
+        114.151575,
+        22.283168
+      ],
+      [
+        114.151403,
+        22.283322
+      ],
+      [
+        114.151381,
+        22.283296
+      ],
+      [
+        114.151344,
+        22.283258
+      ],
+      [
+        114.151211,
+        22.283374
+      ],
+      [
+        114.15078,
+        22.283445
+      ],
+      [
+        114.15058,
+        22.283475
+      ],
+      [
+        114.150586,
+        22.283502
+      ],
+      [
+        114.150591,
+        22.283532
+      ],
+      [
+        114.150609,
+        22.283598
+      ],
+      [
+        114.150578,
+        22.283606
+      ],
+      [
+        114.150379,
+        22.283663
+      ],
+      [
+        114.150371,
+        22.28364
+      ],
+      [
+        114.150354,
+        22.283644
+      ],
+      [
+        114.150467,
+        22.283981
+      ],
+      [
+        114.15045,
+        22.283985
+      ],
+      [
+        114.150287,
+        22.284056
+      ],
+      [
+        114.150248,
+        22.284077
+      ],
+      [
+        114.150248,
+        22.284077
+      ],
+      [
+        114.150124,
+        22.284143
+      ],
+      [
+        114.150105,
+        22.284157
+      ],
+      [
+        114.150093,
+        22.284169
+      ],
+      [
+        114.150078,
+        22.284182
+      ],
+      [
+        114.149625,
+        22.284542
+      ],
+      [
+        114.149648,
+        22.284567
+      ],
+      [
+        114.149671,
+        22.284592
+      ],
+      [
+        114.14968,
+        22.284603
+      ],
+      [
+        114.14971,
+        22.284637
+      ],
+      [
+        114.149817,
+        22.284756
+      ],
+      [
+        114.149891,
+        22.284836
+      ],
+      [
+        114.14992,
+        22.284867
+      ],
+      [
+        114.149933,
+        22.284895
+      ],
+      [
+        114.149946,
+        22.284907
+      ],
+      [
+        114.149964,
+        22.284949
+      ],
+      [
+        114.149991,
+        22.284926
+      ],
+      [
+        114.150228,
+        22.284738
+      ],
+      [
+        114.150277,
+        22.284713
+      ],
+      [
+        114.150318,
+        22.284708
+      ],
+      [
+        114.150361,
+        22.284715
+      ],
+      [
+        114.150384,
+        22.284725
+      ],
+      [
+        114.150407,
+        22.284742
+      ],
+      [
+        114.150426,
+        22.284768
+      ],
+      [
+        114.150443,
+        22.284793
+      ],
+      [
+        114.150461,
+        22.284803
+      ],
+      [
+        114.150476,
+        22.2848
+      ],
+      [
+        114.150513,
+        22.284774
+      ],
+      [
+        114.150537,
+        22.284822
+      ],
+      [
+        114.150563,
+        22.284865
+      ],
+      [
+        114.150494,
+        22.284928
+      ],
+      [
+        114.150404,
+        22.285051
+      ],
+      [
+        114.150229,
+        22.285287
+      ],
+      [
+        114.149921,
+        22.285707
+      ],
+      [
+        114.149918,
+        22.285729
+      ],
+      [
+        114.149878,
+        22.285756
+      ],
+      [
+        114.149808,
+        22.285812
+      ],
+      [
+        114.149823,
+        22.285818
+      ],
+      [
+        114.150139,
+        22.286271
+      ],
+      [
+        114.150179,
+        22.286328
+      ],
+      [
+        114.150115,
+        22.286363
+      ],
+      [
+        114.150129,
+        22.286387
+      ],
+      [
+        114.150155,
+        22.28643
+      ],
+      [
+        114.150181,
+        22.28647
+      ],
+      [
+        114.150225,
+        22.286446
+      ],
+      [
+        114.15025,
+        22.286496
+      ],
+      [
+        114.150283,
+        22.286557
+      ],
+      [
+        114.15033,
+        22.286546
+      ],
+      [
+        114.15034,
+        22.286572
+      ],
+      [
+        114.150408,
+        22.28681
+      ],
+      [
+        114.150411,
+        22.286844
+      ],
+      [
+        114.15041,
+        22.28686
+      ],
+      [
+        114.150395,
+        22.286872
+      ],
+      [
+        114.150409,
+        22.286921
+      ],
+      [
+        114.150421,
+        22.28696
+      ],
+      [
+        114.150445,
+        22.287045
+      ],
+      [
+        114.150482,
+        22.287181
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          114.15443,
+          22.285645
+        ],
+        "instruction": "Walk southeast on 德輔道中 Des Voeux Road Central/德輔道中.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154737,
+          22.285466
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154655,
+          22.285343
+        ],
+        "instruction": "Turn left onto 德輔道中 Des Voeux Road Central/德輔道中.",
+        "distanceM": 138,
+        "type": ""
+      },
+      {
+        "location": [
+          114.155637,
+          22.284543
+        ],
+        "instruction": "Turn right onto 租庇利街 Jubilee Street/租庇利街.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          114.155595,
+          22.284512
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          114.155654,
+          22.284448
+        ],
+        "instruction": "Turn right onto 租庇利街 Jubilee Street/租庇利街.",
+        "distanceM": 115,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154836,
+          22.283784
+        ],
+        "instruction": "Bear right onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          114.15477,
+          22.283711
+        ],
+        "instruction": "Turn left onto 皇后大道中 Queen's Road Central/皇后大道中.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          114.15486,
+          22.283645
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154856,
+          22.283599
+        ],
+        "instruction": "Turn right to stay on 中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System/中環至半山自動扶手電梯系統/中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator and Walkway System.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154881,
+          22.283569
+        ],
+        "instruction": "Turn right onto 中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System/中環至半山自動扶手電梯系統/5T/中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator and Walkway System. Continue on 中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System/中環至半山自動扶手電梯系統/中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator and Walkway System.",
+        "distanceM": 164,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153927,
+          22.282445
+        ],
+        "instruction": "Turn right to stay on 中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System/中環至半山自動扶手電梯系統/中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator and Walkway System.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153885,
+          22.282422
+        ],
+        "instruction": "Take the elevator.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153891,
+          22.282484
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 42,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154304,
+          22.282459
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154304,
+          22.282459
+        ],
+        "instruction": "Walk west on the walkway.",
+        "distanceM": 44,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153867,
+          22.282485
+        ],
+        "instruction": "Turn left onto 閣麟街 Cochrane Street/閣麟街.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153843,
+          22.282277
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          114.1539,
+          22.282271
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          114.153893,
+          22.282193
+        ],
+        "instruction": "Turn left onto 伊沙里 Ezra's Lane/伊沙里.",
+        "distanceM": 79,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154638,
+          22.281996
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154542,
+          22.281888
+        ],
+        "instruction": "Continue on 砵典乍街 Pottinger Street/砵典乍街.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154521,
+          22.281861
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154441,
+          22.281882
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154423,
+          22.281826
+        ],
+        "instruction": "Turn right onto 荷李活道 Hollywood Road/荷李活道.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154258,
+          22.281873
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154258,
+          22.281873
+        ],
+        "instruction": "Walk east on 荷李活道 Hollywood Road/荷李活道.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154423,
+          22.281826
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          114.154432,
+          22.281854
+        ],
+        "instruction": "Turn left onto 荷李活道 Hollywood Road/荷李活道.",
+        "distanceM": 205,
+        "type": ""
+      },
+      {
+        "location": [
+          114.152885,
+          22.282862
+        ],
+        "instruction": "Turn left onto 卑利街 Peel Street/卑利街.",
+        "distanceM": 64,
+        "type": ""
+      },
+      {
+        "location": [
+          114.152443,
+          22.282476
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          114.152361,
+          22.282399
+        ],
+        "instruction": "Turn right onto 士丹頓街 Staunton Street/士丹頓街.",
+        "distanceM": 76,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151857,
+          22.282906
+        ],
+        "instruction": "Turn right onto 鴨巴甸街 Aberdeen Street/鴨巴甸街.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          114.152112,
+          22.283154
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151864,
+          22.283364
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151864,
+          22.283364
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          114.152121,
+          22.283146
+        ],
+        "instruction": "Turn right onto 鴨巴甸街 Aberdeen Street/鴨巴甸街.",
+        "distanceM": 39,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151865,
+          22.28289
+        ],
+        "instruction": "Turn right onto 士丹頓街 Staunton Street/士丹頓街.",
+        "distanceM": 67,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151403,
+          22.283322
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151344,
+          22.283258
+        ],
+        "instruction": "Turn right onto 士丹頓街 Staunton Street/士丹頓街.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          114.151211,
+          22.283374
+        ],
+        "instruction": "Bear left onto 必列者士街 Bridges Street/必列者士街.",
+        "distanceM": 65,
+        "type": ""
+      },
+      {
+        "location": [
+          114.15058,
+          22.283475
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150591,
+          22.283532
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150578,
+          22.283606
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150379,
+          22.283663
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 44,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150467,
+          22.283981
+        ],
+        "instruction": "Turn left onto 荷李活道 Hollywood Road/荷李活道.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150248,
+          22.284077
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150248,
+          22.284077
+        ],
+        "instruction": "Walk northwest on 荷李活道 Hollywood Road/荷李活道.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150078,
+          22.284182
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 61,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149625,
+          22.284542
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149671,
+          22.284592
+        ],
+        "instruction": "Continue on 水池巷 Tank Lane/水池巷.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          114.14968,
+          22.284603
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          114.14971,
+          22.284637
+        ],
+        "instruction": "Continue on 水池巷 Tank Lane/水池巷.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149891,
+          22.284836
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          114.14992,
+          22.284867
+        ],
+        "instruction": "Bear left to stay on 水池巷 Tank Lane/水池巷.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149946,
+          22.284907
+        ],
+        "instruction": "Continue on 水池巷 Tank Lane/水池巷.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149964,
+          22.284949
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 63,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150443,
+          22.284793
+        ],
+        "instruction": "Turn right onto 皇后大道中 Queen's Road Central/皇后大道中.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150513,
+          22.284774
+        ],
+        "instruction": "Turn left onto the crosswalk.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150563,
+          22.284865
+        ],
+        "instruction": "Turn left onto 皇后大道中 Queen's Road Central/皇后大道中.",
+        "distanceM": 133,
+        "type": ""
+      },
+      {
+        "location": [
+          114.149808,
+          22.285812
+        ],
+        "instruction": "Turn right onto 摩利臣街 Morrison Street/摩利臣街.",
+        "distanceM": 70,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150179,
+          22.286328
+        ],
+        "instruction": "Turn left onto 文咸東街 Bonham Strand/文咸東街.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150115,
+          22.286363
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150181,
+          22.28647
+        ],
+        "instruction": "Turn right onto 文咸東街 Bonham Strand/文咸東街.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150225,
+          22.286446
+        ],
+        "instruction": "Turn left onto 摩利臣街 Morrison Street/摩利臣街.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150283,
+          22.286557
+        ],
+        "instruction": "Turn right.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          114.15033,
+          22.286546
+        ],
+        "instruction": "Turn left onto 摩利臣街 Morrison Street/摩利臣街.",
+        "distanceM": 36,
+        "type": ""
+      },
+      {
+        "location": [
+          114.15041,
+          22.28686
+        ],
+        "instruction": "Turn left onto 德輔道中 Des Voeux Road Central/德輔道中.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150395,
+          22.286872
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150421,
+          22.28696
+        ],
+        "instruction": "Continue on 摩利臣街 Morrison Street/摩利臣街.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          114.150482,
+          22.287181
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:26:49.677Z"
+    }
+  },
   "cityId": "hong-kong",
   "category": "Район",
   "title": "Сентрал и Шёнвань: город на уступах",

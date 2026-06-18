@@ -1,6 +1,1019 @@
 [
   {
     "id": "paris-ile-de-la-cite-seine-origin",
+    "routePath": {
+      "coordinates": [
+        [
+          2.349728,
+          48.852763
+        ],
+        [
+          2.348907,
+          48.853021
+        ],
+        [
+          2.348782,
+          48.85306
+        ],
+        [
+          2.348886,
+          48.853204
+        ],
+        [
+          2.349069,
+          48.853457
+        ],
+        [
+          2.34898,
+          48.853485
+        ],
+        [
+          2.349047,
+          48.853574
+        ],
+        [
+          2.349075,
+          48.85361
+        ],
+        [
+          2.348293,
+          48.853855
+        ],
+        [
+          2.348032,
+          48.853942
+        ],
+        [
+          2.348032,
+          48.853942
+        ],
+        [
+          2.347919,
+          48.85398
+        ],
+        [
+          2.347789,
+          48.854024
+        ],
+        [
+          2.347515,
+          48.854109
+        ],
+        [
+          2.347548,
+          48.854174
+        ],
+        [
+          2.347564,
+          48.854205
+        ],
+        [
+          2.347597,
+          48.85426
+        ],
+        [
+          2.347647,
+          48.854342
+        ],
+        [
+          2.347731,
+          48.85444
+        ],
+        [
+          2.347755,
+          48.854481
+        ],
+        [
+          2.348132,
+          48.855134
+        ],
+        [
+          2.348387,
+          48.855574
+        ],
+        [
+          2.348362,
+          48.85558
+        ],
+        [
+          2.348296,
+          48.855596
+        ],
+        [
+          2.348207,
+          48.85562
+        ],
+        [
+          2.348175,
+          48.855629
+        ],
+        [
+          2.348176,
+          48.855644
+        ],
+        [
+          2.348106,
+          48.855664
+        ],
+        [
+          2.347983,
+          48.855695
+        ],
+        [
+          2.347964,
+          48.8557
+        ],
+        [
+          2.347944,
+          48.855705
+        ],
+        [
+          2.347833,
+          48.855735
+        ],
+        [
+          2.347761,
+          48.855758
+        ],
+        [
+          2.347729,
+          48.855772
+        ],
+        [
+          2.347713,
+          48.855777
+        ],
+        [
+          2.347692,
+          48.855782
+        ],
+        [
+          2.347663,
+          48.855795
+        ],
+        [
+          2.347563,
+          48.855822
+        ],
+        [
+          2.347478,
+          48.85585
+        ],
+        [
+          2.347432,
+          48.855862
+        ],
+        [
+          2.347404,
+          48.855814
+        ],
+        [
+          2.347204,
+          48.855499
+        ],
+        [
+          2.347204,
+          48.855499
+        ],
+        [
+          2.347404,
+          48.855814
+        ],
+        [
+          2.347432,
+          48.855862
+        ],
+        [
+          2.347478,
+          48.85585
+        ],
+        [
+          2.347563,
+          48.855822
+        ],
+        [
+          2.347546,
+          48.855794
+        ],
+        [
+          2.347468,
+          48.855668
+        ],
+        [
+          2.347417,
+          48.855588
+        ],
+        [
+          2.347407,
+          48.855573
+        ],
+        [
+          2.347225,
+          48.855279
+        ],
+        [
+          2.347206,
+          48.855246
+        ],
+        [
+          2.347174,
+          48.855255
+        ],
+        [
+          2.347129,
+          48.855267
+        ],
+        [
+          2.347106,
+          48.855231
+        ],
+        [
+          2.347088,
+          48.855203
+        ],
+        [
+          2.347068,
+          48.85521
+        ],
+        [
+          2.346234,
+          48.855493
+        ],
+        [
+          2.346168,
+          48.855423
+        ],
+        [
+          2.346061,
+          48.85531
+        ],
+        [
+          2.346035,
+          48.855284
+        ],
+        [
+          2.345975,
+          48.85522
+        ],
+        [
+          2.345931,
+          48.855235
+        ],
+        [
+          2.34585,
+          48.855265
+        ],
+        [
+          2.345774,
+          48.855292
+        ],
+        [
+          2.345745,
+          48.855302
+        ],
+        [
+          2.345703,
+          48.855317
+        ],
+        [
+          2.345631,
+          48.855222
+        ],
+        [
+          2.345412,
+          48.855011
+        ],
+        [
+          2.345356,
+          48.855037
+        ],
+        [
+          2.345284,
+          48.85507
+        ],
+        [
+          2.345202,
+          48.855108
+        ],
+        [
+          2.345066,
+          48.855484
+        ],
+        [
+          2.344932,
+          48.85553
+        ],
+        [
+          2.344408,
+          48.855708
+        ],
+        [
+          2.344327,
+          48.855736
+        ],
+        [
+          2.344614,
+          48.85611
+        ],
+        [
+          2.344946,
+          48.856001
+        ],
+        [
+          2.34513,
+          48.85594
+        ],
+        [
+          2.345937,
+          48.855625
+        ],
+        [
+          2.345936,
+          48.855623
+        ],
+        [
+          2.345724,
+          48.855344
+        ],
+        [
+          2.345703,
+          48.855317
+        ],
+        [
+          2.345631,
+          48.855222
+        ],
+        [
+          2.345412,
+          48.855011
+        ],
+        [
+          2.34486,
+          48.854478
+        ],
+        [
+          2.344799,
+          48.854456
+        ],
+        [
+          2.344692,
+          48.854488
+        ],
+        [
+          2.343893,
+          48.854846
+        ],
+        [
+          2.343981,
+          48.854934
+        ],
+        [
+          2.343013,
+          48.855433
+        ],
+        [
+          2.342968,
+          48.855472
+        ],
+        [
+          2.342955,
+          48.855489
+        ],
+        [
+          2.342949,
+          48.855509
+        ],
+        [
+          2.342903,
+          48.855533
+        ],
+        [
+          2.342771,
+          48.855651
+        ],
+        [
+          2.342663,
+          48.855752
+        ],
+        [
+          2.342652,
+          48.855797
+        ],
+        [
+          2.342638,
+          48.855805
+        ],
+        [
+          2.342602,
+          48.855823
+        ],
+        [
+          2.342571,
+          48.855839
+        ],
+        [
+          2.342532,
+          48.855867
+        ],
+        [
+          2.34255,
+          48.855878
+        ],
+        [
+          2.342721,
+          48.856101
+        ],
+        [
+          2.34274,
+          48.856116
+        ],
+        [
+          2.342751,
+          48.856129
+        ],
+        [
+          2.342547,
+          48.856204
+        ],
+        [
+          2.342511,
+          48.856224
+        ],
+        [
+          2.342272,
+          48.856438
+        ],
+        [
+          2.342272,
+          48.856438
+        ],
+        [
+          2.342511,
+          48.856224
+        ],
+        [
+          2.342547,
+          48.856204
+        ],
+        [
+          2.342751,
+          48.856129
+        ],
+        [
+          2.342765,
+          48.856147
+        ],
+        [
+          2.342772,
+          48.856156
+        ],
+        [
+          2.342778,
+          48.856162
+        ],
+        [
+          2.342817,
+          48.856153
+        ],
+        [
+          2.342859,
+          48.856144
+        ],
+        [
+          2.342901,
+          48.856135
+        ],
+        [
+          2.342963,
+          48.856114
+        ],
+        [
+          2.343035,
+          48.856203
+        ],
+        [
+          2.343044,
+          48.856254
+        ],
+        [
+          2.343252,
+          48.856518
+        ],
+        [
+          2.343309,
+          48.85655
+        ],
+        [
+          2.343387,
+          48.856646
+        ],
+        [
+          2.34338,
+          48.856672
+        ],
+        [
+          2.343492,
+          48.856813
+        ],
+        [
+          2.34345,
+          48.856824
+        ],
+        [
+          2.34341,
+          48.856837
+        ],
+        [
+          2.343374,
+          48.856849
+        ],
+        [
+          2.343354,
+          48.856856
+        ],
+        [
+          2.34336,
+          48.856869
+        ],
+        [
+          2.343365,
+          48.85692
+        ],
+        [
+          2.343368,
+          48.85695
+        ],
+        [
+          2.343369,
+          48.856971
+        ],
+        [
+          2.343321,
+          48.856973
+        ],
+        [
+          2.343271,
+          48.856981
+        ],
+        [
+          2.343048,
+          48.857008
+        ],
+        [
+          2.343029,
+          48.857014
+        ],
+        [
+          2.343019,
+          48.857024
+        ],
+        [
+          2.343022,
+          48.857037
+        ],
+        [
+          2.343003,
+          48.85705
+        ],
+        [
+          2.341701,
+          48.857218
+        ],
+        [
+          2.341701,
+          48.857218
+        ],
+        [
+          2.34128,
+          48.857253
+        ],
+        [
+          2.340965,
+          48.857351
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            2.349728,
+            48.852763
+          ],
+          "instruction": "Walk northwest.",
+          "distanceM": 66,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348907,
+            48.853021
+          ],
+          "instruction": "Continue on Parvis Notre-Dame - Place Jean-Paul II.",
+          "distanceM": 10,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348782,
+            48.85306
+          ],
+          "instruction": "Turn right to stay on Parvis Notre-Dame - Place Jean-Paul II.",
+          "distanceM": 49,
+          "type": ""
+        },
+        {
+          "location": [
+            2.349069,
+            48.853457
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            2.34898,
+            48.853485
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 16,
+          "type": ""
+        },
+        {
+          "location": [
+            2.349075,
+            48.85361
+          ],
+          "instruction": "Turn left onto Parvis Notre-Dame - Place Jean-Paul II.",
+          "distanceM": 84,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348032,
+            48.853942
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348032,
+            48.853942
+          ],
+          "instruction": "Walk northwest on Parvis Notre-Dame - Place Jean-Paul II.",
+          "distanceM": 42,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347515,
+            48.854109
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 174,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348387,
+            48.855574
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 17,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348175,
+            48.855629
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 2,
+          "type": ""
+        },
+        {
+          "location": [
+            2.348176,
+            48.855644
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 62,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347432,
+            48.855862
+          ],
+          "instruction": "Turn left onto Rue Aubé.",
+          "distanceM": 44,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347204,
+            48.855499
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347204,
+            48.855499
+          ],
+          "instruction": "Walk north on Rue Aubé.",
+          "distanceM": 44,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347432,
+            48.855862
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 10,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347563,
+            48.855822
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 71,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347174,
+            48.855255
+          ],
+          "instruction": "Keep right to take the walkway.",
+          "distanceM": 11,
+          "type": ""
+        },
+        {
+          "location": [
+            2.347088,
+            48.855203
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 70,
+          "type": ""
+        },
+        {
+          "location": [
+            2.346234,
+            48.855493
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 35,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345975,
+            48.85522
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 23,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345703,
+            48.855317
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 40,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345412,
+            48.855011
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 18,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345202,
+            48.855108
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345066,
+            48.855484
+          ],
+          "instruction": "Walk northwest on the walkway.",
+          "distanceM": 61,
+          "type": ""
+        },
+        {
+          "location": [
+            2.344327,
+            48.855736
+          ],
+          "instruction": "Turn right onto Galerie Duo.",
+          "distanceM": 47,
+          "type": ""
+        },
+        {
+          "location": [
+            2.344614,
+            48.85611
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 41,
+          "type": ""
+        },
+        {
+          "location": [
+            2.34513,
+            48.85594
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.345937,
+            48.855625
+          ],
+          "instruction": "Walk southwest on the walkway.",
+          "distanceM": 155,
+          "type": ""
+        },
+        {
+          "location": [
+            2.344799,
+            48.854456
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 242,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342532,
+            48.855867
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342751,
+            48.856129
+          ],
+          "instruction": "Turn left onto Place Dauphine.",
+          "distanceM": 49,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342272,
+            48.856438
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342272,
+            48.856438
+          ],
+          "instruction": "Walk southeast on Place Dauphine.",
+          "distanceM": 49,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342751,
+            48.856129
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342778,
+            48.856162
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 14,
+          "type": ""
+        },
+        {
+          "location": [
+            2.342963,
+            48.856114
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 89,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343492,
+            48.856813
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 10,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343354,
+            48.856856
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343369,
+            48.856971
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343321,
+            48.856973
+          ],
+          "instruction": "Keep right to take the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343271,
+            48.856981
+          ],
+          "instruction": "Take the stairs.",
+          "distanceM": 17,
+          "type": ""
+        },
+        {
+          "location": [
+            2.343048,
+            48.857008
+          ],
+          "instruction": "Bear right onto the walkway.",
+          "distanceM": 104,
+          "type": ""
+        },
+        {
+          "location": [
+            2.341701,
+            48.857218
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            2.341701,
+            48.857218
+          ],
+          "instruction": "Walk west on the walkway.",
+          "distanceM": 56,
+          "type": ""
+        },
+        {
+          "location": [
+            2.340965,
+            48.857351
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:26:24.964Z"
+      }
+    },
     "cityId": "paris",
     "category": "Маршрут",
     "title": "Остров Сите и Сена",

@@ -1,5 +1,1258 @@
 {
   "id": "stockholm-gamla-stan-riddarholmen",
+  "routePath": {
+    "coordinates": [
+      [
+        18.070936,
+        59.326078
+      ],
+      [
+        18.071231,
+        59.325857
+      ],
+      [
+        18.071275,
+        59.3258
+      ],
+      [
+        18.071432,
+        59.325776
+      ],
+      [
+        18.072641,
+        59.326079
+      ],
+      [
+        18.072828,
+        59.326234
+      ],
+      [
+        18.074032,
+        59.326514
+      ],
+      [
+        18.074237,
+        59.326485
+      ],
+      [
+        18.074291,
+        59.326503
+      ],
+      [
+        18.074338,
+        59.326518
+      ],
+      [
+        18.07418,
+        59.326623
+      ],
+      [
+        18.074131,
+        59.326656
+      ],
+      [
+        18.074116,
+        59.326679
+      ],
+      [
+        18.073515,
+        59.32719
+      ],
+      [
+        18.073182,
+        59.327461
+      ],
+      [
+        18.072793,
+        59.327788
+      ],
+      [
+        18.072713,
+        59.327837
+      ],
+      [
+        18.071964,
+        59.327607
+      ],
+      [
+        18.07104,
+        59.327324
+      ],
+      [
+        18.071113,
+        59.327268
+      ],
+      [
+        18.071257,
+        59.327152
+      ],
+      [
+        18.071345,
+        59.327082
+      ],
+      [
+        18.071413,
+        59.327103
+      ],
+      [
+        18.071625,
+        59.326926
+      ],
+      [
+        18.071625,
+        59.326926
+      ],
+      [
+        18.071413,
+        59.327103
+      ],
+      [
+        18.071345,
+        59.327082
+      ],
+      [
+        18.071257,
+        59.327152
+      ],
+      [
+        18.071113,
+        59.327268
+      ],
+      [
+        18.07104,
+        59.327324
+      ],
+      [
+        18.070215,
+        59.327071
+      ],
+      [
+        18.07014,
+        59.327136
+      ],
+      [
+        18.070829,
+        59.327347
+      ],
+      [
+        18.070789,
+        59.327381
+      ],
+      [
+        18.070729,
+        59.327431
+      ],
+      [
+        18.070397,
+        59.327324
+      ],
+      [
+        18.070357,
+        59.327311
+      ],
+      [
+        18.069394,
+        59.327001
+      ],
+      [
+        18.069297,
+        59.326971
+      ],
+      [
+        18.068623,
+        59.326728
+      ],
+      [
+        18.068728,
+        59.326548
+      ],
+      [
+        18.068728,
+        59.32628
+      ],
+      [
+        18.068772,
+        59.326077
+      ],
+      [
+        18.06879,
+        59.326007
+      ],
+      [
+        18.068819,
+        59.325868
+      ],
+      [
+        18.068848,
+        59.325736
+      ],
+      [
+        18.069121,
+        59.325756
+      ],
+      [
+        18.069516,
+        59.3258
+      ],
+      [
+        18.069688,
+        59.325833
+      ],
+      [
+        18.069803,
+        59.325867
+      ],
+      [
+        18.069949,
+        59.325911
+      ],
+      [
+        18.070452,
+        59.325996
+      ],
+      [
+        18.070452,
+        59.325996
+      ],
+      [
+        18.070808,
+        59.326056
+      ],
+      [
+        18.070936,
+        59.326078
+      ],
+      [
+        18.071231,
+        59.325857
+      ],
+      [
+        18.071275,
+        59.3258
+      ],
+      [
+        18.071141,
+        59.325662
+      ],
+      [
+        18.071225,
+        59.32541
+      ],
+      [
+        18.07204,
+        59.325408
+      ],
+      [
+        18.072118,
+        59.325408
+      ],
+      [
+        18.072613,
+        59.325409
+      ],
+      [
+        18.072599,
+        59.325182
+      ],
+      [
+        18.072603,
+        59.325119
+      ],
+      [
+        18.072601,
+        59.325098
+      ],
+      [
+        18.072842,
+        59.325093
+      ],
+      [
+        18.073052,
+        59.325089
+      ],
+      [
+        18.073027,
+        59.324918
+      ],
+      [
+        18.072817,
+        59.324841
+      ],
+      [
+        18.072503,
+        59.324708
+      ],
+      [
+        18.071765,
+        59.324334
+      ],
+      [
+        18.0715,
+        59.324542
+      ],
+      [
+        18.071282,
+        59.324744
+      ],
+      [
+        18.071101,
+        59.324953
+      ],
+      [
+        18.070427,
+        59.324863
+      ],
+      [
+        18.069955,
+        59.324741
+      ],
+      [
+        18.069782,
+        59.324902
+      ],
+      [
+        18.069573,
+        59.325109
+      ],
+      [
+        18.069435,
+        59.325251
+      ],
+      [
+        18.069333,
+        59.325353
+      ],
+      [
+        18.069283,
+        59.325413
+      ],
+      [
+        18.069219,
+        59.325508
+      ],
+      [
+        18.069121,
+        59.325756
+      ],
+      [
+        18.069516,
+        59.3258
+      ],
+      [
+        18.069688,
+        59.325833
+      ],
+      [
+        18.069803,
+        59.325867
+      ],
+      [
+        18.069949,
+        59.325911
+      ],
+      [
+        18.070808,
+        59.326056
+      ],
+      [
+        18.070936,
+        59.326078
+      ],
+      [
+        18.071231,
+        59.325857
+      ],
+      [
+        18.071275,
+        59.3258
+      ],
+      [
+        18.071141,
+        59.325662
+      ],
+      [
+        18.071225,
+        59.32541
+      ],
+      [
+        18.07204,
+        59.325408
+      ],
+      [
+        18.072118,
+        59.325408
+      ],
+      [
+        18.072112,
+        59.325327
+      ],
+      [
+        18.072088,
+        59.325106
+      ],
+      [
+        18.072331,
+        59.325102
+      ],
+      [
+        18.072331,
+        59.325102
+      ],
+      [
+        18.072601,
+        59.325098
+      ],
+      [
+        18.072842,
+        59.325093
+      ],
+      [
+        18.073052,
+        59.325089
+      ],
+      [
+        18.073027,
+        59.324918
+      ],
+      [
+        18.072817,
+        59.324841
+      ],
+      [
+        18.072503,
+        59.324708
+      ],
+      [
+        18.071765,
+        59.324334
+      ],
+      [
+        18.071553,
+        59.324235
+      ],
+      [
+        18.071553,
+        59.324235
+      ],
+      [
+        18.07138,
+        59.324153
+      ],
+      [
+        18.071305,
+        59.324102
+      ],
+      [
+        18.071246,
+        59.324075
+      ],
+      [
+        18.07108,
+        59.323999
+      ],
+      [
+        18.071108,
+        59.323988
+      ],
+      [
+        18.071824,
+        59.323546
+      ],
+      [
+        18.072182,
+        59.323331
+      ],
+      [
+        18.072508,
+        59.32319
+      ],
+      [
+        18.072642,
+        59.323167
+      ],
+      [
+        18.072841,
+        59.323137
+      ],
+      [
+        18.072742,
+        59.322974
+      ],
+      [
+        18.072742,
+        59.322974
+      ],
+      [
+        18.072841,
+        59.323137
+      ],
+      [
+        18.072642,
+        59.323167
+      ],
+      [
+        18.072508,
+        59.32319
+      ],
+      [
+        18.072182,
+        59.323331
+      ],
+      [
+        18.071824,
+        59.323546
+      ],
+      [
+        18.071108,
+        59.323988
+      ],
+      [
+        18.07108,
+        59.323999
+      ],
+      [
+        18.07091,
+        59.323926
+      ],
+      [
+        18.070601,
+        59.324079
+      ],
+      [
+        18.07029,
+        59.324267
+      ],
+      [
+        18.070014,
+        59.324431
+      ],
+      [
+        18.069812,
+        59.324565
+      ],
+      [
+        18.069713,
+        59.324653
+      ],
+      [
+        18.069502,
+        59.324836
+      ],
+      [
+        18.06939,
+        59.324949
+      ],
+      [
+        18.0693,
+        59.325047
+      ],
+      [
+        18.069238,
+        59.325114
+      ],
+      [
+        18.069127,
+        59.325221
+      ],
+      [
+        18.069067,
+        59.32529
+      ],
+      [
+        18.069018,
+        59.325354
+      ],
+      [
+        18.068953,
+        59.325444
+      ],
+      [
+        18.06891,
+        59.325521
+      ],
+      [
+        18.068848,
+        59.325736
+      ],
+      [
+        18.068819,
+        59.325868
+      ],
+      [
+        18.06879,
+        59.326007
+      ],
+      [
+        18.068772,
+        59.326077
+      ],
+      [
+        18.068728,
+        59.32628
+      ],
+      [
+        18.068078,
+        59.326375
+      ],
+      [
+        18.068028,
+        59.326343
+      ],
+      [
+        18.067758,
+        59.326222
+      ],
+      [
+        18.067419,
+        59.326065
+      ],
+      [
+        18.067326,
+        59.326021
+      ],
+      [
+        18.067124,
+        59.325835
+      ],
+      [
+        18.067083,
+        59.325777
+      ],
+      [
+        18.067043,
+        59.325733
+      ],
+      [
+        18.066966,
+        59.325719
+      ],
+      [
+        18.066871,
+        59.325783
+      ],
+      [
+        18.066729,
+        59.32588
+      ],
+      [
+        18.066617,
+        59.325831
+      ],
+      [
+        18.066542,
+        59.325758
+      ],
+      [
+        18.066248,
+        59.325635
+      ],
+      [
+        18.065948,
+        59.325542
+      ],
+      [
+        18.065806,
+        59.32549
+      ],
+      [
+        18.065772,
+        59.325473
+      ],
+      [
+        18.065672,
+        59.325427
+      ],
+      [
+        18.065651,
+        59.325394
+      ],
+      [
+        18.065199,
+        59.325195
+      ],
+      [
+        18.065102,
+        59.325148
+      ],
+      [
+        18.064935,
+        59.325054
+      ],
+      [
+        18.064858,
+        59.32503
+      ],
+      [
+        18.065093,
+        59.324841
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          18.070936,
+          59.326078
+        ],
+        "instruction": "Walk southeast on the walkway.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071231,
+          59.325857
+        ],
+        "instruction": "Bear right onto Slottsbacken.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071275,
+          59.3258
+        ],
+        "instruction": "Turn left to stay on Slottsbacken.",
+        "distanceM": 193,
+        "type": ""
+      },
+      {
+        "location": [
+          18.074237,
+          59.326485
+        ],
+        "instruction": "Turn left to stay on Slottsbacken.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          18.074338,
+          59.326518
+        ],
+        "instruction": "Turn left onto the crosswalk.",
+        "distanceM": 175,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072713,
+          59.327837
+        ],
+        "instruction": "Turn left onto Lejonbacken.",
+        "distanceM": 111,
+        "type": ""
+      },
+      {
+        "location": [
+          18.07104,
+          59.327324
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071345,
+          59.327082
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071413,
+          59.327103
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071625,
+          59.326926
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071625,
+          59.326926
+        ],
+        "instruction": "Walk northwest on the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071413,
+          59.327103
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071345,
+          59.327082
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          18.07104,
+          59.327324
+        ],
+        "instruction": "Turn left onto Lejonbacken.",
+        "distanceM": 55,
+        "type": ""
+      },
+      {
+        "location": [
+          18.070215,
+          59.327071
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 64,
+        "type": ""
+      },
+      {
+        "location": [
+          18.070729,
+          59.327431
+        ],
+        "instruction": "Turn left onto Slottskajen.",
+        "distanceM": 143,
+        "type": ""
+      },
+      {
+        "location": [
+          18.068623,
+          59.326728
+        ],
+        "instruction": "Turn left onto Västerlånggatan.",
+        "distanceM": 113,
+        "type": ""
+      },
+      {
+        "location": [
+          18.068848,
+          59.325736
+        ],
+        "instruction": "Turn left onto Storkyrkobrinken.",
+        "distanceM": 57,
+        "type": ""
+      },
+      {
+        "location": [
+          18.069803,
+          59.325867
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 39,
+        "type": ""
+      },
+      {
+        "location": [
+          18.070452,
+          59.325996
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.070452,
+          59.325996
+        ],
+        "instruction": "Walk east on the walkway.",
+        "distanceM": 58,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071231,
+          59.325857
+        ],
+        "instruction": "Bear right onto Slottsbacken.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071275,
+          59.3258
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071141,
+          59.325662
+        ],
+        "instruction": "Bear left onto Källargränd.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071225,
+          59.32541
+        ],
+        "instruction": "Turn left onto Trädgårdsgatan.",
+        "distanceM": 78,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072613,
+          59.325409
+        ],
+        "instruction": "Turn right onto Skeppar Olofs Gränd.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072601,
+          59.325098
+        ],
+        "instruction": "Turn left onto Köpmangatan.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          18.073052,
+          59.325089
+        ],
+        "instruction": "Turn right onto Själagårdsgatan.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          18.073027,
+          59.324918
+        ],
+        "instruction": "Turn right onto Kindstugatan.",
+        "distanceM": 97,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071765,
+          59.324334
+        ],
+        "instruction": "Turn right onto Svartmangatan.",
+        "distanceM": 79,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071101,
+          59.324953
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.070427,
+          59.324863
+        ],
+        "instruction": "Walk southwest on Kåkbrinken.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          18.069955,
+          59.324741
+        ],
+        "instruction": "Turn right onto Prästgatan.",
+        "distanceM": 123,
+        "type": ""
+      },
+      {
+        "location": [
+          18.069121,
+          59.325756
+        ],
+        "instruction": "Turn right onto Storkyrkobrinken.",
+        "distanceM": 41,
+        "type": ""
+      },
+      {
+        "location": [
+          18.069803,
+          59.325867
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 98,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071231,
+          59.325857
+        ],
+        "instruction": "Bear right onto Slottsbacken.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071275,
+          59.3258
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071141,
+          59.325662
+        ],
+        "instruction": "Bear left onto Källargränd.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071225,
+          59.32541
+        ],
+        "instruction": "Turn left onto Trädgårdsgatan.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072118,
+          59.325408
+        ],
+        "instruction": "Turn right onto Trädgårdstvärgränd.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072088,
+          59.325106
+        ],
+        "instruction": "Turn left onto Köpmangatan.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072331,
+          59.325102
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072331,
+          59.325102
+        ],
+        "instruction": "Walk east on Köpmangatan.",
+        "distanceM": 41,
+        "type": ""
+      },
+      {
+        "location": [
+          18.073052,
+          59.325089
+        ],
+        "instruction": "Turn right onto Själagårdsgatan.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          18.073027,
+          59.324918
+        ],
+        "instruction": "Turn right onto Kindstugatan.",
+        "distanceM": 113,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071553,
+          59.324235
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.071553,
+          59.324235
+        ],
+        "instruction": "Walk southwest on Tyska Brinken.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          18.07108,
+          59.323999
+        ],
+        "instruction": "Turn left onto Prästgatan.",
+        "distanceM": 142,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072841,
+          59.323137
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072742,
+          59.322974
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072742,
+          59.322974
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 19,
+        "type": ""
+      },
+      {
+        "location": [
+          18.072841,
+          59.323137
+        ],
+        "instruction": "Turn left onto Prästgatan.",
+        "distanceM": 142,
+        "type": ""
+      },
+      {
+        "location": [
+          18.07108,
+          59.323999
+        ],
+        "instruction": "Turn left onto Tyska Brinken.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          18.07091,
+          59.323926
+        ],
+        "instruction": "Turn right onto Västerlånggatan.",
+        "distanceM": 299,
+        "type": ""
+      },
+      {
+        "location": [
+          18.068728,
+          59.32628
+        ],
+        "instruction": "Turn left onto Salviigränd.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          18.068078,
+          59.326375
+        ],
+        "instruction": "Turn left onto Myntgatan.",
+        "distanceM": 82,
+        "type": ""
+      },
+      {
+        "location": [
+          18.067124,
+          59.325835
+        ],
+        "instruction": "Continue on the crosswalk.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          18.066966,
+          59.325719
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          18.066729,
+          59.32588
+        ],
+        "instruction": "Turn left onto Riddarhustorget.",
+        "distanceM": 39,
+        "type": ""
+      },
+      {
+        "location": [
+          18.066248,
+          59.325635
+        ],
+        "instruction": "Keep right to stay on Riddarhustorget.",
+        "distanceM": 106,
+        "type": ""
+      },
+      {
+        "location": [
+          18.064858,
+          59.32503
+        ],
+        "instruction": "Turn left onto Birger Jarls Torg.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          18.065093,
+          59.324841
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:28:01.930Z"
+    }
+  },
   "cityId": "stockholm",
   "category": "Район",
   "title": "Гамла Стан и Риддархольмен: где город стал столицей",

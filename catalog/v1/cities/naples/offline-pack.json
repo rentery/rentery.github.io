@@ -31,6 +31,510 @@
   "guides": [
     {
       "id": "naples-spaccanapoli-decumani-layers",
+      "routePath": {
+        "coordinates": [
+          [
+            14.251898,
+            40.846972
+          ],
+          [
+            14.251925,
+            40.846986
+          ],
+          [
+            14.252014,
+            40.847063
+          ],
+          [
+            14.252019,
+            40.847153
+          ],
+          [
+            14.251946,
+            40.847271
+          ],
+          [
+            14.252136,
+            40.847336
+          ],
+          [
+            14.252437,
+            40.847436
+          ],
+          [
+            14.253054,
+            40.847639
+          ],
+          [
+            14.25338,
+            40.846973
+          ],
+          [
+            14.25338,
+            40.846973
+          ],
+          [
+            14.254174,
+            40.847513
+          ],
+          [
+            14.253882,
+            40.847919
+          ],
+          [
+            14.254328,
+            40.848071
+          ],
+          [
+            14.254754,
+            40.848215
+          ],
+          [
+            14.255309,
+            40.848403
+          ],
+          [
+            14.255043,
+            40.848602
+          ],
+          [
+            14.255043,
+            40.848602
+          ],
+          [
+            14.255309,
+            40.848403
+          ],
+          [
+            14.25533,
+            40.848406
+          ],
+          [
+            14.255743,
+            40.848547
+          ],
+          [
+            14.256075,
+            40.848658
+          ],
+          [
+            14.256158,
+            40.848688
+          ],
+          [
+            14.256126,
+            40.848757
+          ],
+          [
+            14.256126,
+            40.848757
+          ],
+          [
+            14.256158,
+            40.848688
+          ],
+          [
+            14.256272,
+            40.848725
+          ],
+          [
+            14.256578,
+            40.848828
+          ],
+          [
+            14.256989,
+            40.848968
+          ],
+          [
+            14.257393,
+            40.849106
+          ],
+          [
+            14.25724,
+            40.849358
+          ],
+          [
+            14.257575,
+            40.849505
+          ],
+          [
+            14.257559,
+            40.849558
+          ],
+          [
+            14.258017,
+            40.849714
+          ],
+          [
+            14.257771,
+            40.850144
+          ],
+          [
+            14.257749,
+            40.850184
+          ],
+          [
+            14.257717,
+            40.850238
+          ],
+          [
+            14.257717,
+            40.850238
+          ],
+          [
+            14.257516,
+            40.850575
+          ],
+          [
+            14.257491,
+            40.850676
+          ],
+          [
+            14.257345,
+            40.850922
+          ],
+          [
+            14.257345,
+            40.850922
+          ],
+          [
+            14.257302,
+            40.850995
+          ],
+          [
+            14.25748,
+            40.851055
+          ],
+          [
+            14.257714,
+            40.851123
+          ],
+          [
+            14.258108,
+            40.851256
+          ],
+          [
+            14.258494,
+            40.851389
+          ],
+          [
+            14.258505,
+            40.851393
+          ],
+          [
+            14.258854,
+            40.851512
+          ],
+          [
+            14.258896,
+            40.851525
+          ],
+          [
+            14.259357,
+            40.851685
+          ],
+          [
+            14.259579,
+            40.851303
+          ],
+          [
+            14.259579,
+            40.851303
+          ],
+          [
+            14.259357,
+            40.851685
+          ],
+          [
+            14.260136,
+            40.851931
+          ],
+          [
+            14.260175,
+            40.851944
+          ],
+          [
+            14.2603,
+            40.851985
+          ],
+          [
+            14.260079,
+            40.852392
+          ],
+          [
+            14.260009,
+            40.852529
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              14.251898,
+              40.846972
+            ],
+            "instruction": "Walk northeast on Piazza del Gesù Nuovo.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              14.251946,
+              40.847271
+            ],
+            "instruction": "Turn right onto Via Benedetto Croce.",
+            "distanceM": 102,
+            "type": ""
+          },
+          {
+            "location": [
+              14.253054,
+              40.847639
+            ],
+            "instruction": "Turn right onto Via Santa Chiara.",
+            "distanceM": 79,
+            "type": ""
+          },
+          {
+            "location": [
+              14.25338,
+              40.846973
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.25338,
+              40.846973
+            ],
+            "instruction": "Walk northeast on Vico Pallonetto Santa Chiara.",
+            "distanceM": 90,
+            "type": ""
+          },
+          {
+            "location": [
+              14.254174,
+              40.847513
+            ],
+            "instruction": "Turn left onto Via San Giovanni Maggiore Pignatelli.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              14.253882,
+              40.847919
+            ],
+            "instruction": "Turn right onto Via Benedetto Croce.",
+            "distanceM": 131,
+            "type": ""
+          },
+          {
+            "location": [
+              14.255309,
+              40.848403
+            ],
+            "instruction": "Turn left onto Vico San Domenico Maggiore.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              14.255043,
+              40.848602
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.255043,
+              40.848602
+            ],
+            "instruction": "Walk southeast on Vico San Domenico Maggiore.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              14.255309,
+              40.848403
+            ],
+            "instruction": "Turn left onto Piazzetta del Nilo.",
+            "distanceM": 78,
+            "type": ""
+          },
+          {
+            "location": [
+              14.256158,
+              40.848688
+            ],
+            "instruction": "Turn left onto Via Nilo.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              14.256126,
+              40.848757
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.256126,
+              40.848757
+            ],
+            "instruction": "Walk south on Via Nilo.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              14.256158,
+              40.848688
+            ],
+            "instruction": "Turn left onto Largo Corpo di Napoli.",
+            "distanceM": 112,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257393,
+              40.849106
+            ],
+            "instruction": "Turn left onto Vico Santa Luciella.",
+            "distanceM": 112,
+            "type": ""
+          },
+          {
+            "location": [
+              14.258017,
+              40.849714
+            ],
+            "instruction": "Turn left onto Via San Gregorio Armeno.",
+            "distanceM": 64,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257717,
+              40.850238
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257717,
+              40.850238
+            ],
+            "instruction": "Walk northwest on Via San Gregorio Armeno.",
+            "distanceM": 82,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257345,
+              40.850922
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257345,
+              40.850922
+            ],
+            "instruction": "Walk northwest on Via San Gregorio Armeno.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              14.257302,
+              40.850995
+            ],
+            "instruction": "Turn right onto Via dei Tribunali.",
+            "distanceM": 189,
+            "type": ""
+          },
+          {
+            "location": [
+              14.259357,
+              40.851685
+            ],
+            "instruction": "Turn right onto Via Duomo.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              14.259579,
+              40.851303
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              14.259579,
+              40.851303
+            ],
+            "instruction": "Walk northwest on Via Duomo.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              14.259357,
+              40.851685
+            ],
+            "instruction": "Turn right onto Via dei Tribunali.",
+            "distanceM": 86,
+            "type": ""
+          },
+          {
+            "location": [
+              14.2603,
+              40.851985
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 49,
+            "type": ""
+          },
+          {
+            "location": [
+              14.260079,
+              40.852392
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              14.260009,
+              40.852529
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T11:03:42.829Z"
+        }
+      },
       "cityId": "naples",
       "category": "Район",
       "title": "Спакканаполи и Декуманы",
@@ -120,8 +624,8 @@
           "time": "15 мин",
           "walk": "5 мин",
           "coordinates": {
-            "latitude": 40.84688,
-            "longitude": 14.25287
+            "latitude": 40.8469708,
+            "longitude": 14.2533483
           },
           "hours": {
             "summary": "Официально указано: пн–сб 09:30–17:00, вс 10:00–14:00.",
@@ -163,8 +667,8 @@
           "time": "15 мин",
           "walk": "5 мин",
           "coordinates": {
-            "latitude": 40.84856,
-            "longitude": 14.25486
+            "latitude": 40.8484967,
+            "longitude": 14.2549043
           },
           "hours": {
             "summary": "Площадь доступна в любое время; церковь и соседние комплексы могут ограничивать вход в часы служб и мероприятий.",
@@ -442,8 +946,8 @@
       "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
-        "latitude": 40.84688,
-        "longitude": 14.25287
+        "latitude": 40.8469708,
+        "longitude": 14.2533483
       },
       "hours": {
         "summary": "Официально указано: пн–сб 09:30–17:00, вс 10:00–14:00.",
@@ -485,8 +989,8 @@
       "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
-        "latitude": 40.84856,
-        "longitude": 14.25486
+        "latitude": 40.8484967,
+        "longitude": 14.2549043
       },
       "hours": {
         "summary": "Площадь доступна в любое время; церковь и соседние комплексы могут ограничивать вход в часы служб и мероприятий.",
@@ -695,5 +1199,5 @@
       }
     }
   ],
-  "packHash": "ea0a7e100c3d"
+  "packHash": "f9612633dd2c"
 }

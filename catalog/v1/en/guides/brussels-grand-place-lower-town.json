@@ -1,5 +1,736 @@
 {
   "id": "brussels-grand-place-lower-town",
+  "routePath": {
+    "coordinates": [
+      [
+        4.352517,
+        50.846696
+      ],
+      [
+        4.352433,
+        50.846756
+      ],
+      [
+        4.352027,
+        50.846652
+      ],
+      [
+        4.352013,
+        50.846645
+      ],
+      [
+        4.351828,
+        50.846563
+      ],
+      [
+        4.351591,
+        50.846456
+      ],
+      [
+        4.351591,
+        50.846456
+      ],
+      [
+        4.351828,
+        50.846563
+      ],
+      [
+        4.352013,
+        50.846645
+      ],
+      [
+        4.352027,
+        50.846652
+      ],
+      [
+        4.352433,
+        50.846756
+      ],
+      [
+        4.352863,
+        50.8468
+      ],
+      [
+        4.352907,
+        50.846826
+      ],
+      [
+        4.352941,
+        50.846848
+      ],
+      [
+        4.352941,
+        50.846848
+      ],
+      [
+        4.353161,
+        50.846989
+      ],
+      [
+        4.353368,
+        50.847126
+      ],
+      [
+        4.353383,
+        50.847139
+      ],
+      [
+        4.353447,
+        50.847197
+      ],
+      [
+        4.353396,
+        50.847214
+      ],
+      [
+        4.352921,
+        50.847408
+      ],
+      [
+        4.352865,
+        50.847354
+      ],
+      [
+        4.352695,
+        50.847187
+      ],
+      [
+        4.352552,
+        50.847055
+      ],
+      [
+        4.352497,
+        50.847011
+      ],
+      [
+        4.352433,
+        50.846756
+      ],
+      [
+        4.352863,
+        50.8468
+      ],
+      [
+        4.352907,
+        50.846826
+      ],
+      [
+        4.352907,
+        50.846826
+      ],
+      [
+        4.352863,
+        50.8468
+      ],
+      [
+        4.352433,
+        50.846756
+      ],
+      [
+        4.352027,
+        50.846652
+      ],
+      [
+        4.352013,
+        50.846645
+      ],
+      [
+        4.351828,
+        50.846563
+      ],
+      [
+        4.35159,
+        50.846456
+      ],
+      [
+        4.35146,
+        50.846398
+      ],
+      [
+        4.351405,
+        50.846377
+      ],
+      [
+        4.351172,
+        50.846606
+      ],
+      [
+        4.35117,
+        50.846611
+      ],
+      [
+        4.351138,
+        50.846675
+      ],
+      [
+        4.350343,
+        50.84641
+      ],
+      [
+        4.350059,
+        50.846321
+      ],
+      [
+        4.350009,
+        50.846318
+      ],
+      [
+        4.349954,
+        50.846327
+      ],
+      [
+        4.349906,
+        50.84634
+      ],
+      [
+        4.34969,
+        50.846107
+      ],
+      [
+        4.349677,
+        50.846094
+      ],
+      [
+        4.349648,
+        50.846106
+      ],
+      [
+        4.349607,
+        50.846123
+      ],
+      [
+        4.349596,
+        50.846113
+      ],
+      [
+        4.349222,
+        50.84634
+      ],
+      [
+        4.349172,
+        50.84638
+      ],
+      [
+        4.349147,
+        50.846414
+      ],
+      [
+        4.349187,
+        50.84643
+      ],
+      [
+        4.349221,
+        50.846437
+      ],
+      [
+        4.34932,
+        50.846457
+      ],
+      [
+        4.349387,
+        50.846472
+      ],
+      [
+        4.349444,
+        50.846479
+      ],
+      [
+        4.349495,
+        50.846482
+      ],
+      [
+        4.349557,
+        50.846482
+      ],
+      [
+        4.349545,
+        50.8465
+      ],
+      [
+        4.349522,
+        50.846532
+      ],
+      [
+        4.349512,
+        50.846543
+      ],
+      [
+        4.349503,
+        50.846552
+      ],
+      [
+        4.349446,
+        50.846605
+      ],
+      [
+        4.349464,
+        50.846621
+      ],
+      [
+        4.349701,
+        50.846839
+      ],
+      [
+        4.349719,
+        50.84686
+      ],
+      [
+        4.349725,
+        50.846917
+      ],
+      [
+        4.349725,
+        50.846917
+      ],
+      [
+        4.349719,
+        50.84686
+      ],
+      [
+        4.349701,
+        50.846839
+      ],
+      [
+        4.349464,
+        50.846621
+      ],
+      [
+        4.349446,
+        50.846605
+      ],
+      [
+        4.349503,
+        50.846552
+      ],
+      [
+        4.349512,
+        50.846543
+      ],
+      [
+        4.349522,
+        50.846532
+      ],
+      [
+        4.349545,
+        50.8465
+      ],
+      [
+        4.349557,
+        50.846482
+      ],
+      [
+        4.349597,
+        50.84648
+      ],
+      [
+        4.349658,
+        50.846473
+      ],
+      [
+        4.349732,
+        50.846457
+      ],
+      [
+        4.349842,
+        50.846432
+      ],
+      [
+        4.349872,
+        50.846421
+      ],
+      [
+        4.349957,
+        50.846395
+      ],
+      [
+        4.349906,
+        50.84634
+      ],
+      [
+        4.34969,
+        50.846107
+      ],
+      [
+        4.349677,
+        50.846094
+      ],
+      [
+        4.349708,
+        50.846081
+      ],
+      [
+        4.349791,
+        50.846046
+      ],
+      [
+        4.349767,
+        50.846019
+      ],
+      [
+        4.34974,
+        50.84599
+      ],
+      [
+        4.349709,
+        50.845956
+      ],
+      [
+        4.349681,
+        50.845927
+      ],
+      [
+        4.349999,
+        50.845819
+      ],
+      [
+        4.350237,
+        50.845738
+      ],
+      [
+        4.350312,
+        50.845713
+      ],
+      [
+        4.350624,
+        50.84558
+      ],
+      [
+        4.350668,
+        50.845558
+      ],
+      [
+        4.350719,
+        50.845532
+      ],
+      [
+        4.350701,
+        50.845521
+      ],
+      [
+        4.350691,
+        50.845514
+      ],
+      [
+        4.350644,
+        50.845485
+      ],
+      [
+        4.350388,
+        50.845327
+      ],
+      [
+        4.350269,
+        50.845254
+      ],
+      [
+        4.350238,
+        50.845235
+      ],
+      [
+        4.350018,
+        50.8451
+      ],
+      [
+        4.349943,
+        50.845051
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          4.352517,
+          50.846696
+        ],
+        "instruction": "Walk northwest on the walkway.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352433,
+          50.846756
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 68,
+        "type": ""
+      },
+      {
+        "location": [
+          4.351591,
+          50.846456
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          4.351591,
+          50.846456
+        ],
+        "instruction": "Walk northeast on the walkway.",
+        "distanceM": 103,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352907,
+          50.846826
+        ],
+        "instruction": "Continue on Rue des Harengs/Haringstraat.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352941,
+          50.846848
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352941,
+          50.846848
+        ],
+        "instruction": "Walk northeast on Rue des Harengs/Haringstraat.",
+        "distanceM": 52,
+        "type": ""
+      },
+      {
+        "location": [
+          4.353447,
+          50.847197
+        ],
+        "instruction": "Turn left onto Rue du Marché aux Herbes/Grasmarkt.",
+        "distanceM": 44,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352921,
+          50.847408
+        ],
+        "instruction": "Turn left onto Rue Chair et Pain/Vlees-en-Broodstraat.",
+        "distanceM": 47,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352552,
+          50.847055
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352433,
+          50.846756
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352907,
+          50.846826
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          4.352907,
+          50.846826
+        ],
+        "instruction": "Walk southwest on the walkway.",
+        "distanceM": 120,
+        "type": ""
+      },
+      {
+        "location": [
+          4.351405,
+          50.846377
+        ],
+        "instruction": "Turn right onto Rue de l'Amigo/Vruntstraat.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          4.351138,
+          50.846675
+        ],
+        "instruction": "Turn left onto Rue du Marché au Charbon/Kolenmarkt.",
+        "distanceM": 97,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349906,
+          50.84634
+        ],
+        "instruction": "Turn left onto Rue du Midi/Zuidstraat.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349677,
+          50.846094
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 53,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349147,
+          50.846414
+        ],
+        "instruction": "Turn right onto Rue du Marché au Charbon/Kolenmarkt.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349557,
+          50.846482
+        ],
+        "instruction": "Turn left onto Rue de la Chaufferette/Lollepotstraat.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349446,
+          50.846605
+        ],
+        "instruction": "Turn right onto Impasse aux Huîtres/Oestersgang.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349701,
+          50.846839
+        ],
+        "instruction": "Continue.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349725,
+          50.846917
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349725,
+          50.846917
+        ],
+        "instruction": "Continue.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349701,
+          50.846839
+        ],
+        "instruction": "Continue on Impasse aux Huîtres/Oestersgang.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349446,
+          50.846605
+        ],
+        "instruction": "Turn left onto Rue de la Chaufferette/Lollepotstraat.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349557,
+          50.846482
+        ],
+        "instruction": "Turn left onto Rue du Marché au Charbon/Kolenmarkt.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349957,
+          50.846395
+        ],
+        "instruction": "Turn right onto Rue du Midi/Zuidstraat.",
+        "distanceM": 39,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349677,
+          50.846094
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349791,
+          50.846046
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349681,
+          50.845927
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 85,
+        "type": ""
+      },
+      {
+        "location": [
+          4.350719,
+          50.845532
+        ],
+        "instruction": "Turn right onto Rue de l'Étuve/Stoofstraat.",
+        "distanceM": 76,
+        "type": ""
+      },
+      {
+        "location": [
+          4.349943,
+          50.845051
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:25:15.845Z"
+    }
+  },
   "cityId": "brussels",
   "category": "Архитектура",
   "title": "Гран-Плас и Нижний город: Брюссель у ви…",

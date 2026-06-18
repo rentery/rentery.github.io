@@ -1,5 +1,1318 @@
 {
   "id": "beijing-central-axis-forbidden-city",
+  "routePath": {
+    "coordinates": [
+      [
+        116.391386,
+        39.905243
+      ],
+      [
+        116.39223,
+        39.905263
+      ],
+      [
+        116.39221,
+        39.905658
+      ],
+      [
+        116.39276,
+        39.905668
+      ],
+      [
+        116.392751,
+        39.905791
+      ],
+      [
+        116.392749,
+        39.905912
+      ],
+      [
+        116.39378,
+        39.905935
+      ],
+      [
+        116.393764,
+        39.906582
+      ],
+      [
+        116.393551,
+        39.906576
+      ],
+      [
+        116.393274,
+        39.906569
+      ],
+      [
+        116.39309,
+        39.906564
+      ],
+      [
+        116.393084,
+        39.906609
+      ],
+      [
+        116.391546,
+        39.906562
+      ],
+      [
+        116.391539,
+        39.906639
+      ],
+      [
+        116.391527,
+        39.906936
+      ],
+      [
+        116.391524,
+        39.907088
+      ],
+      [
+        116.391393,
+        39.907085
+      ],
+      [
+        116.391227,
+        39.90708
+      ],
+      [
+        116.391221,
+        39.907162
+      ],
+      [
+        116.391212,
+        39.907347
+      ],
+      [
+        116.39121,
+        39.9074
+      ],
+      [
+        116.39121,
+        39.9074
+      ],
+      [
+        116.391207,
+        39.90751
+      ],
+      [
+        116.391195,
+        39.907599
+      ],
+      [
+        116.391189,
+        39.907737
+      ],
+      [
+        116.391166,
+        39.908254
+      ],
+      [
+        116.391137,
+        39.908827
+      ],
+      [
+        116.391117,
+        39.909175
+      ],
+      [
+        116.391033,
+        39.911228
+      ],
+      [
+        116.391032,
+        39.911266
+      ],
+      [
+        116.391028,
+        39.911353
+      ],
+      [
+        116.391019,
+        39.911492
+      ],
+      [
+        116.390995,
+        39.911866
+      ],
+      [
+        116.391054,
+        39.911867
+      ],
+      [
+        116.391294,
+        39.911872
+      ],
+      [
+        116.391291,
+        39.911962
+      ],
+      [
+        116.391287,
+        39.912074
+      ],
+      [
+        116.391286,
+        39.912098
+      ],
+      [
+        116.391285,
+        39.912124
+      ],
+      [
+        116.391282,
+        39.912209
+      ],
+      [
+        116.391129,
+        39.912206
+      ],
+      [
+        116.391033,
+        39.912204
+      ],
+      [
+        116.390975,
+        39.912202
+      ],
+      [
+        116.390966,
+        39.912358
+      ],
+      [
+        116.390953,
+        39.912602
+      ],
+      [
+        116.390948,
+        39.912747
+      ],
+      [
+        116.390944,
+        39.912902
+      ],
+      [
+        116.390945,
+        39.912996
+      ],
+      [
+        116.390938,
+        39.913201
+      ],
+      [
+        116.390896,
+        39.913627
+      ],
+      [
+        116.390894,
+        39.913729
+      ],
+      [
+        116.39089,
+        39.913828
+      ],
+      [
+        116.390889,
+        39.913847
+      ],
+      [
+        116.390887,
+        39.9139
+      ],
+      [
+        116.390887,
+        39.9139
+      ],
+      [
+        116.390879,
+        39.914083
+      ],
+      [
+        116.390879,
+        39.914095
+      ],
+      [
+        116.390873,
+        39.914208
+      ],
+      [
+        116.390862,
+        39.914471
+      ],
+      [
+        116.390845,
+        39.914901
+      ],
+      [
+        116.390838,
+        39.915078
+      ],
+      [
+        116.39083,
+        39.915362
+      ],
+      [
+        116.390824,
+        39.915608
+      ],
+      [
+        116.390685,
+        39.915606
+      ],
+      [
+        116.390681,
+        39.915715
+      ],
+      [
+        116.390681,
+        39.915715
+      ],
+      [
+        116.390685,
+        39.915606
+      ],
+      [
+        116.390445,
+        39.915602
+      ],
+      [
+        116.390392,
+        39.915601
+      ],
+      [
+        116.390333,
+        39.9156
+      ],
+      [
+        116.390335,
+        39.915567
+      ],
+      [
+        116.390336,
+        39.915518
+      ],
+      [
+        116.390336,
+        39.915496
+      ],
+      [
+        116.390308,
+        39.915494
+      ],
+      [
+        116.390155,
+        39.915492
+      ],
+      [
+        116.390105,
+        39.915493
+      ],
+      [
+        116.390108,
+        39.915395
+      ],
+      [
+        116.389892,
+        39.915392
+      ],
+      [
+        116.389888,
+        39.915513
+      ],
+      [
+        116.389882,
+        39.915666
+      ],
+      [
+        116.389882,
+        39.915684
+      ],
+      [
+        116.389876,
+        39.915843
+      ],
+      [
+        116.389875,
+        39.91586
+      ],
+      [
+        116.38987,
+        39.916013
+      ],
+      [
+        116.389862,
+        39.916155
+      ],
+      [
+        116.389854,
+        39.916327
+      ],
+      [
+        116.38985,
+        39.916404
+      ],
+      [
+        116.389845,
+        39.9165
+      ],
+      [
+        116.389838,
+        39.916665
+      ],
+      [
+        116.389835,
+        39.916725
+      ],
+      [
+        116.38983,
+        39.916878
+      ],
+      [
+        116.389829,
+        39.916895
+      ],
+      [
+        116.389824,
+        39.917054
+      ],
+      [
+        116.389823,
+        39.917072
+      ],
+      [
+        116.389817,
+        39.917225
+      ],
+      [
+        116.389817,
+        39.917242
+      ],
+      [
+        116.389812,
+        39.917442
+      ],
+      [
+        116.389972,
+        39.917446
+      ],
+      [
+        116.390586,
+        39.917462
+      ],
+      [
+        116.390675,
+        39.917463
+      ],
+      [
+        116.39071,
+        39.917463
+      ],
+      [
+        116.390701,
+        39.917689
+      ],
+      [
+        116.390699,
+        39.917755
+      ],
+      [
+        116.390699,
+        39.917765
+      ],
+      [
+        116.390695,
+        39.917926
+      ],
+      [
+        116.390695,
+        39.917936
+      ],
+      [
+        116.390686,
+        39.918078
+      ],
+      [
+        116.390685,
+        39.9181
+      ],
+      [
+        116.390685,
+        39.9181
+      ],
+      [
+        116.390678,
+        39.918298
+      ],
+      [
+        116.390673,
+        39.91843
+      ],
+      [
+        116.39067,
+        39.918525
+      ],
+      [
+        116.390666,
+        39.918618
+      ],
+      [
+        116.390666,
+        39.918624
+      ],
+      [
+        116.390653,
+        39.91887
+      ],
+      [
+        116.390651,
+        39.918959
+      ],
+      [
+        116.390784,
+        39.918961
+      ],
+      [
+        116.390781,
+        39.919097
+      ],
+      [
+        116.390778,
+        39.919212
+      ],
+      [
+        116.390647,
+        39.91921
+      ],
+      [
+        116.390646,
+        39.919244
+      ],
+      [
+        116.390645,
+        39.919267
+      ],
+      [
+        116.390631,
+        39.919381
+      ],
+      [
+        116.390621,
+        39.919475
+      ],
+      [
+        116.39062,
+        39.919498
+      ],
+      [
+        116.39062,
+        39.919593
+      ],
+      [
+        116.390619,
+        39.919634
+      ],
+      [
+        116.390618,
+        39.919659
+      ],
+      [
+        116.390616,
+        39.919745
+      ],
+      [
+        116.390615,
+        39.919765
+      ],
+      [
+        116.390614,
+        39.919817
+      ],
+      [
+        116.390363,
+        39.91981
+      ],
+      [
+        116.390356,
+        39.919954
+      ],
+      [
+        116.390347,
+        39.920129
+      ],
+      [
+        116.390343,
+        39.920231
+      ],
+      [
+        116.390335,
+        39.920401
+      ],
+      [
+        116.390593,
+        39.920409
+      ],
+      [
+        116.390591,
+        39.920448
+      ],
+      [
+        116.390589,
+        39.920481
+      ],
+      [
+        116.390585,
+        39.920514
+      ],
+      [
+        116.390582,
+        39.920543
+      ],
+      [
+        116.39058,
+        39.920577
+      ],
+      [
+        116.39058,
+        39.920603
+      ],
+      [
+        116.390574,
+        39.920808
+      ],
+      [
+        116.390565,
+        39.92104
+      ],
+      [
+        116.390564,
+        39.921066
+      ],
+      [
+        116.39056,
+        39.921213
+      ],
+      [
+        116.390538,
+        39.921699
+      ],
+      [
+        116.390535,
+        39.921777
+      ],
+      [
+        116.390164,
+        39.921765
+      ],
+      [
+        116.389839,
+        39.921756
+      ],
+      [
+        116.387339,
+        39.921688
+      ],
+      [
+        116.38734,
+        39.92178
+      ],
+      [
+        116.387537,
+        39.921783
+      ],
+      [
+        116.388879,
+        39.921833
+      ],
+      [
+        116.389302,
+        39.92184
+      ],
+      [
+        116.389532,
+        39.921846
+      ],
+      [
+        116.389778,
+        39.921852
+      ],
+      [
+        116.390601,
+        39.921885
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          116.391386,
+          39.905243
+        ],
+        "instruction": "Walk east on the walkway.",
+        "distanceM": 72,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39223,
+          39.905263
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 91,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39276,
+          39.905668
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          116.392751,
+          39.905791
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 101,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39378,
+          39.905935
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 72,
+        "type": ""
+      },
+      {
+        "location": [
+          116.393764,
+          39.906582
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          116.393551,
+          39.906576
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          116.393274,
+          39.906569
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          116.393084,
+          39.906609
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 131,
+        "type": ""
+      },
+      {
+        "location": [
+          116.391546,
+          39.906562
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          116.391539,
+          39.906639
+        ],
+        "instruction": "Continue on 外金水桥.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          116.391527,
+          39.906936
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          116.391524,
+          39.907088
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          116.391227,
+          39.90708
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 35,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39121,
+          39.9074
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39121,
+          39.9074
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 498,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390995,
+          39.911866
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 90,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390975,
+          39.912202
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 87,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390945,
+          39.912996
+        ],
+        "instruction": "Continue on 内金水桥.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390938,
+          39.913201
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 58,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390894,
+          39.913729
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39089,
+          39.913828
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390887,
+          39.9139
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390887,
+          39.9139
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390879,
+          39.914095
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390873,
+          39.914208
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 97,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390838,
+          39.915078
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39083,
+          39.915362
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 27,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390824,
+          39.915608
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390685,
+          39.915606
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390681,
+          39.915715
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390681,
+          39.915715
+        ],
+        "instruction": "Walk south on the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390685,
+          39.915606
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390445,
+          39.915602
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390392,
+          39.915601
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390333,
+          39.9156
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390335,
+          39.915567
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390336,
+          39.915518
+        ],
+        "instruction": "Bear right onto the walkway.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390308,
+          39.915494
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390155,
+          39.915492
+        ],
+        "instruction": "Bear left onto the walkway.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390108,
+          39.915395
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389892,
+          39.915392
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389888,
+          39.915513
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389882,
+          39.915666
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389875,
+          39.91586
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          116.38987,
+          39.916013
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 80,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389835,
+          39.916725
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          116.38983,
+          39.916878
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389823,
+          39.917072
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389817,
+          39.917225
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          116.389812,
+          39.917442
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 78,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39071,
+          39.917463
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390701,
+          39.917689
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390699,
+          39.917755
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 38,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390685,
+          39.9181
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390685,
+          39.9181
+        ],
+        "instruction": "Walk north on the walkway.",
+        "distanceM": 95,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390651,
+          39.918959
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390647,
+          39.91921
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39062,
+          39.919498
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39062,
+          39.919593
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390619,
+          39.919634
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390618,
+          39.919659
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390616,
+          39.919745
+        ],
+        "instruction": "Continue.",
+        "distanceM": 2,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390615,
+          39.919765
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390614,
+          39.919817
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390363,
+          39.91981
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 66,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390335,
+          39.920401
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 22,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390593,
+          39.920409
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 90,
+        "type": ""
+      },
+      {
+        "location": [
+          116.39056,
+          39.921213
+        ],
+        "instruction": "Continue.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390538,
+          39.921699
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390535,
+          39.921777
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 274,
+        "type": ""
+      },
+      {
+        "location": [
+          116.387339,
+          39.921688
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          116.38734,
+          39.92178
+        ],
+        "instruction": "Turn right onto 景山前街.",
+        "distanceM": 278,
+        "type": ""
+      },
+      {
+        "location": [
+          116.390601,
+          39.921885
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:23:53.892Z"
+    }
+  },
   "cityId": "beijing",
   "category": "История",
   "title": "Центральная ось: Пекин как город власти",

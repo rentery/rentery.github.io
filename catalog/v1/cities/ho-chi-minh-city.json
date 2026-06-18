@@ -2,10 +2,12 @@
   "id": "ho-chi-minh-city",
   "slug": "ho-chi-minh-city",
   "title": "Хошимин",
-  "subtitle": "Ho Chi Minh City · 5 прогулок скоро",
-  "meta": "Вьетнам · маршруты в подготовке",
-  "practicalNote": "Гид по городу собирается: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
-  "guideIds": [],
+  "subtitle": "Хошимин · 1 маршрут · 4 скоро",
+  "meta": "Вьетнам · 1 маршрут опубликовано",
+  "practicalNote": "Опубликовано 1 маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "ho-chi-minh-city-cholon-markets-temples"
+  ],
   "countryId": "vietnam",
   "photo": {
     "id": "ho-chi-minh-city-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Хошимин"
+  },
+  "identity": {
+    "accent": "#B35B2E",
+    "soft": "#F3E7DD",
+    "deep": "#7A3F22",
+    "ink": "#5C321F",
+    "glyph": "HCM",
+    "hook": "Чолон, рынки и река",
+    "motif": "axis"
   }
 }

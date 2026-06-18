@@ -5,7 +5,9 @@
   "subtitle": "Ho Chi Minh City · 5 walks coming soon",
   "meta": "Vietnam · routes in progress",
   "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "guideIds": [
+    "ho-chi-minh-city-cholon-markets-temples"
+  ],
   "countryId": "vietnam",
   "photo": {
     "id": "ho-chi-minh-city-city-hero",
@@ -13,5 +15,14 @@
     "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Хошимин"
+  },
+  "identity": {
+    "accent": "#B35B2E",
+    "soft": "#F3E7DD",
+    "deep": "#7A3F22",
+    "ink": "#5C321F",
+    "glyph": "HCM",
+    "hook": "Чолон, рынки и река",
+    "motif": "axis"
   }
 }

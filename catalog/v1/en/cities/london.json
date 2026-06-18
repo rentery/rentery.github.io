@@ -2,11 +2,12 @@
   "id": "london",
   "slug": "london",
   "title": "Лондон",
-  "subtitle": "London · 1 маршрут · 4 скоро",
-  "meta": "Великобритания · 1 маршрут опубликован",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Лондон · 2 маршрута · 3 скоро",
+  "meta": "Великобритания · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "london-westminster-whitehall-power"
+    "london-westminster-whitehall-power",
+    "london-city-tower-st-pauls-layers"
   ],
   "countryId": "united-kingdom",
   "photo": {

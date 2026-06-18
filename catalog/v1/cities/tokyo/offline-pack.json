@@ -31,6 +31,822 @@
   "guides": [
     {
       "id": "tokyo-asakusa-edo-river",
+      "routePath": {
+        "coordinates": [
+          [
+            139.796639,
+            35.710816
+          ],
+          [
+            139.796548,
+            35.710828
+          ],
+          [
+            139.796561,
+            35.7109
+          ],
+          [
+            139.796565,
+            35.710922
+          ],
+          [
+            139.796569,
+            35.710946
+          ],
+          [
+            139.796552,
+            35.710949
+          ],
+          [
+            139.796527,
+            35.710952
+          ],
+          [
+            139.79649,
+            35.710958
+          ],
+          [
+            139.7965,
+            35.711056
+          ],
+          [
+            139.796521,
+            35.711218
+          ],
+          [
+            139.796502,
+            35.711219
+          ],
+          [
+            139.79651,
+            35.711302
+          ],
+          [
+            139.796525,
+            35.711456
+          ],
+          [
+            139.796528,
+            35.711484
+          ],
+          [
+            139.796562,
+            35.711819
+          ],
+          [
+            139.796722,
+            35.7118
+          ],
+          [
+            139.796747,
+            35.711988
+          ],
+          [
+            139.796887,
+            35.711973
+          ],
+          [
+            139.796894,
+            35.712031
+          ],
+          [
+            139.796898,
+            35.712067
+          ],
+          [
+            139.796898,
+            35.712067
+          ],
+          [
+            139.796894,
+            35.712031
+          ],
+          [
+            139.797104,
+            35.712018
+          ],
+          [
+            139.797113,
+            35.712102
+          ],
+          [
+            139.797141,
+            35.712349
+          ],
+          [
+            139.797145,
+            35.712379
+          ],
+          [
+            139.796749,
+            35.712406
+          ],
+          [
+            139.796622,
+            35.712415
+          ],
+          [
+            139.796661,
+            35.7128
+          ],
+          [
+            139.796666,
+            35.712839
+          ],
+          [
+            139.796669,
+            35.712877
+          ],
+          [
+            139.796695,
+            35.713134
+          ],
+          [
+            139.796703,
+            35.713215
+          ],
+          [
+            139.796712,
+            35.7133
+          ],
+          [
+            139.796738,
+            35.713556
+          ],
+          [
+            139.796723,
+            35.71356
+          ],
+          [
+            139.796712,
+            35.713563
+          ],
+          [
+            139.796618,
+            35.713568
+          ],
+          [
+            139.796619,
+            35.713581
+          ],
+          [
+            139.796637,
+            35.713742
+          ],
+          [
+            139.796643,
+            35.7138
+          ],
+          [
+            139.796649,
+            35.713852
+          ],
+          [
+            139.796665,
+            35.714014
+          ],
+          [
+            139.796665,
+            35.714014
+          ],
+          [
+            139.796671,
+            35.714058
+          ],
+          [
+            139.796696,
+            35.714261
+          ],
+          [
+            139.79672,
+            35.714447
+          ],
+          [
+            139.796722,
+            35.714465
+          ],
+          [
+            139.796723,
+            35.714478
+          ],
+          [
+            139.796725,
+            35.714488
+          ],
+          [
+            139.796725,
+            35.714488
+          ],
+          [
+            139.796723,
+            35.714478
+          ],
+          [
+            139.796722,
+            35.714465
+          ],
+          [
+            139.79672,
+            35.714447
+          ],
+          [
+            139.796752,
+            35.714449
+          ],
+          [
+            139.796888,
+            35.714436
+          ],
+          [
+            139.796996,
+            35.714429
+          ],
+          [
+            139.797076,
+            35.71444
+          ],
+          [
+            139.797106,
+            35.714678
+          ],
+          [
+            139.797107,
+            35.714695
+          ],
+          [
+            139.797131,
+            35.714933
+          ],
+          [
+            139.797132,
+            35.714948
+          ],
+          [
+            139.797136,
+            35.714982
+          ],
+          [
+            139.797162,
+            35.715185
+          ],
+          [
+            139.797152,
+            35.71535
+          ],
+          [
+            139.79719,
+            35.715345
+          ],
+          [
+            139.79724,
+            35.715341
+          ],
+          [
+            139.797452,
+            35.715316
+          ],
+          [
+            139.79746,
+            35.715315
+          ],
+          [
+            139.79746,
+            35.715315
+          ],
+          [
+            139.797665,
+            35.715292
+          ],
+          [
+            139.79766,
+            35.715264
+          ],
+          [
+            139.797731,
+            35.715239
+          ],
+          [
+            139.797759,
+            35.715236
+          ],
+          [
+            139.797762,
+            35.715204
+          ],
+          [
+            139.797767,
+            35.715122
+          ],
+          [
+            139.797697,
+            35.714972
+          ],
+          [
+            139.797697,
+            35.714972
+          ],
+          [
+            139.797873,
+            35.714969
+          ],
+          [
+            139.797876,
+            35.714985
+          ],
+          [
+            139.798279,
+            35.714908
+          ],
+          [
+            139.79815,
+            35.714384
+          ],
+          [
+            139.798123,
+            35.714353
+          ],
+          [
+            139.798104,
+            35.714296
+          ],
+          [
+            139.798094,
+            35.714264
+          ],
+          [
+            139.798122,
+            35.714218
+          ],
+          [
+            139.798173,
+            35.714205
+          ],
+          [
+            139.798254,
+            35.714185
+          ],
+          [
+            139.798302,
+            35.714173
+          ],
+          [
+            139.798106,
+            35.713451
+          ],
+          [
+            139.798508,
+            35.713393
+          ],
+          [
+            139.798814,
+            35.713346
+          ],
+          [
+            139.799323,
+            35.713247
+          ],
+          [
+            139.799372,
+            35.713233
+          ],
+          [
+            139.799615,
+            35.713056
+          ],
+          [
+            139.799643,
+            35.713036
+          ],
+          [
+            139.79945,
+            35.712856
+          ],
+          [
+            139.799412,
+            35.712819
+          ],
+          [
+            139.799477,
+            35.712777
+          ],
+          [
+            139.799387,
+            35.712697
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              139.796639,
+              35.710816
+            ],
+            "instruction": "Walk west on 雷門通り/Kaminarimon-dori.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796548,
+              35.710828
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796569,
+              35.710946
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796527,
+              35.710952
+            ],
+            "instruction": "Keep right to take the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              139.79649,
+              35.710958
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 97,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796562,
+              35.711819
+            ],
+            "instruction": "Turn right onto 新仲見世/New Nakamido.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796722,
+              35.7118
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796747,
+              35.711988
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796887,
+              35.711973
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796898,
+              35.712067
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796898,
+              35.712067
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796894,
+              35.712031
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797104,
+              35.712018
+            ],
+            "instruction": "Turn left onto 観音通り/Kannon Street.",
+            "distanceM": 40,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797145,
+              35.712379
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 48,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796622,
+              35.712415
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 127,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796738,
+              35.713556
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796618,
+              35.713568
+            ],
+            "instruction": "Turn right onto 仲見世通り/Nakamise Street.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796649,
+              35.713852
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796665,
+              35.714014
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796665,
+              35.714014
+            ],
+            "instruction": "Walk north on the walkway.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796722,
+              35.714465
+            ],
+            "instruction": "Continue.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796723,
+              35.714478
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796725,
+              35.714488
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796725,
+              35.714488
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796723,
+              35.714478
+            ],
+            "instruction": "Continue.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              139.796722,
+              35.714465
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              139.79672,
+              35.714447
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797076,
+              35.71444
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 102,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797152,
+              35.71535
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              139.79746,
+              35.715315
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              139.79746,
+              35.715315
+            ],
+            "instruction": "Walk east.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797665,
+              35.715292
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797759,
+              35.715236
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797697,
+              35.714972
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797697,
+              35.714972
+            ],
+            "instruction": "Walk east on the walkway.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797873,
+              35.714969
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              139.797876,
+              35.714985
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              139.798279,
+              35.714908
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              139.798122,
+              35.714218
+            ],
+            "instruction": "Turn left onto the crosswalk.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              139.798302,
+              35.714173
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 82,
+            "type": ""
+          },
+          {
+            "location": [
+              139.798106,
+              35.713451
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 150,
+            "type": ""
+          },
+          {
+            "location": [
+              139.799643,
+              35.713036
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              139.799412,
+              35.712819
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              139.799477,
+              35.712777
+            ],
+            "instruction": "Turn right onto 6/江戸通り/Edo Street/一般国道6号.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              139.799387,
+              35.712697
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:28:11.520Z"
+        }
+      },
       "cityId": "tokyo",
       "category": "Район",
       "title": "Асакуса: старый Эдо у реки",
@@ -730,5 +1546,5 @@
       }
     }
   ],
-  "packHash": "97dc714c7f6e"
+  "packHash": "75ef36f1e40c"
 }

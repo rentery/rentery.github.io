@@ -32,6 +32,553 @@
   "guides": [
     {
       "id": "cusco-plaza-qorikancha-layers",
+      "routePath": {
+        "coordinates": [
+          [
+            -71.978845,
+            -13.516669
+          ],
+          [
+            -71.978834,
+            -13.516663
+          ],
+          [
+            -71.978799,
+            -13.516656
+          ],
+          [
+            -71.978764,
+            -13.516661
+          ],
+          [
+            -71.978731,
+            -13.516676
+          ],
+          [
+            -71.978719,
+            -13.516685
+          ],
+          [
+            -71.97856,
+            -13.516563
+          ],
+          [
+            -71.978659,
+            -13.516435
+          ],
+          [
+            -71.978624,
+            -13.51641
+          ],
+          [
+            -71.97856,
+            -13.516365
+          ],
+          [
+            -71.978519,
+            -13.516337
+          ],
+          [
+            -71.978381,
+            -13.516511
+          ],
+          [
+            -71.978381,
+            -13.516511
+          ],
+          [
+            -71.978088,
+            -13.516881
+          ],
+          [
+            -71.978144,
+            -13.516918
+          ],
+          [
+            -71.978205,
+            -13.516958
+          ],
+          [
+            -71.978237,
+            -13.516979
+          ],
+          [
+            -71.978199,
+            -13.517029
+          ],
+          [
+            -71.978189,
+            -13.517046
+          ],
+          [
+            -71.978128,
+            -13.51715
+          ],
+          [
+            -71.978082,
+            -13.517226
+          ],
+          [
+            -71.978246,
+            -13.517332
+          ],
+          [
+            -71.978246,
+            -13.517332
+          ],
+          [
+            -71.978082,
+            -13.517226
+          ],
+          [
+            -71.97804,
+            -13.517201
+          ],
+          [
+            -71.978026,
+            -13.517191
+          ],
+          [
+            -71.977654,
+            -13.517752
+          ],
+          [
+            -71.977548,
+            -13.517923
+          ],
+          [
+            -71.977548,
+            -13.517923
+          ],
+          [
+            -71.97692,
+            -13.518935
+          ],
+          [
+            -71.976915,
+            -13.518972
+          ],
+          [
+            -71.976549,
+            -13.519493
+          ],
+          [
+            -71.97611,
+            -13.520014
+          ],
+          [
+            -71.976071,
+            -13.520049
+          ],
+          [
+            -71.976027,
+            -13.520065
+          ],
+          [
+            -71.976,
+            -13.520063
+          ],
+          [
+            -71.975885,
+            -13.52001
+          ],
+          [
+            -71.975885,
+            -13.52001
+          ],
+          [
+            -71.975728,
+            -13.519937
+          ],
+          [
+            -71.975614,
+            -13.519906
+          ],
+          [
+            -71.975783,
+            -13.520036
+          ],
+          [
+            -71.975783,
+            -13.520036
+          ],
+          [
+            -71.975614,
+            -13.519906
+          ],
+          [
+            -71.975687,
+            -13.519869
+          ],
+          [
+            -71.975424,
+            -13.519734
+          ],
+          [
+            -71.975218,
+            -13.519629
+          ],
+          [
+            -71.975182,
+            -13.519607
+          ],
+          [
+            -71.975632,
+            -13.518765
+          ],
+          [
+            -71.975831,
+            -13.518413
+          ],
+          [
+            -71.975474,
+            -13.51823
+          ],
+          [
+            -71.975436,
+            -13.518212
+          ],
+          [
+            -71.975462,
+            -13.518166
+          ],
+          [
+            -71.975915,
+            -13.517342
+          ],
+          [
+            -71.97619,
+            -13.516875
+          ],
+          [
+            -71.976208,
+            -13.516845
+          ],
+          [
+            -71.976236,
+            -13.516791
+          ],
+          [
+            -71.976352,
+            -13.51657
+          ],
+          [
+            -71.976496,
+            -13.516314
+          ],
+          [
+            -71.976577,
+            -13.516177
+          ],
+          [
+            -71.976262,
+            -13.516006
+          ],
+          [
+            -71.976262,
+            -13.516006
+          ],
+          [
+            -71.976405,
+            -13.516083
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -71.978845,
+              -13.516669
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978719,
+              -13.516685
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.97856,
+              -13.516563
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978659,
+              -13.516435
+            ],
+            "instruction": "Turn right onto the crosswalk.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978519,
+              -13.516337
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978381,
+              -13.516511
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978381,
+              -13.516511
+            ],
+            "instruction": "Walk southeast on the walkway.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978088,
+              -13.516881
+            ],
+            "instruction": "Turn right onto the crosswalk.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978237,
+              -13.516979
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978082,
+              -13.517226
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978246,
+              -13.517332
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978246,
+              -13.517332
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.978026,
+              -13.517191
+            ],
+            "instruction": "Turn right onto Loreto.",
+            "distanceM": 96,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.977548,
+              -13.517923
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.977548,
+              -13.517923
+            ],
+            "instruction": "Walk southeast on Loreto.",
+            "distanceM": 131,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.97692,
+              -13.518935
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 159,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.976027,
+              -13.520065
+            ],
+            "instruction": "Turn left onto Pampa del Castillo.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975885,
+              -13.52001
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975885,
+              -13.52001
+            ],
+            "instruction": "Walk northeast on Pampa del Castillo.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975614,
+              -13.519906
+            ],
+            "instruction": "Make a sharp right onto Mut'uchaka.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975783,
+              -13.520036
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975783,
+              -13.520036
+            ],
+            "instruction": "Walk northeast on Mut'uchaka.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975614,
+              -13.519906
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975687,
+              -13.519869
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975424,
+              -13.519734
+            ],
+            "instruction": "Keep left to take the walkway.",
+            "distanceM": 30,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975182,
+              -13.519607
+            ],
+            "instruction": "Turn left onto Romeritos.",
+            "distanceM": 150,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975831,
+              -13.518413
+            ],
+            "instruction": "Turn right onto Maruri.",
+            "distanceM": 48,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.975436,
+              -13.518212
+            ],
+            "instruction": "Turn left onto San Agustín.",
+            "distanceM": 258,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.976577,
+              -13.516177
+            ],
+            "instruction": "Turn right onto Hatunrumiyoc.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.976262,
+              -13.516006
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.976262,
+              -13.516006
+            ],
+            "instruction": "Walk southwest on Hatunrumiyoc.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              -71.976405,
+              -13.516083
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:24:43.066Z"
+        }
+      },
       "cityId": "cusco",
       "category": "Маршрут",
       "title": "Пласа-де-Армас и Кориканча: город повер",
@@ -1551,5 +2098,5 @@
       "sourceIds": []
     }
   ],
-  "packHash": "157ed31cfe5e"
+  "packHash": "bc8c494fa79c"
 }

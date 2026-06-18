@@ -1,6 +1,345 @@
 [
   {
     "id": "cartagena-colombia-old-port-walls-fortress",
+    "routePath": {
+      "coordinates": [
+        [
+          -75.549149,
+          10.423084
+        ],
+        [
+          -75.549116,
+          10.423062
+        ],
+        [
+          -75.549046,
+          10.422891
+        ],
+        [
+          -75.548959,
+          10.422814
+        ],
+        [
+          -75.549078,
+          10.422678
+        ],
+        [
+          -75.549167,
+          10.422634
+        ],
+        [
+          -75.549234,
+          10.422589
+        ],
+        [
+          -75.549286,
+          10.422548
+        ],
+        [
+          -75.549349,
+          10.422478
+        ],
+        [
+          -75.549816,
+          10.42186
+        ],
+        [
+          -75.549931,
+          10.421944
+        ],
+        [
+          -75.549994,
+          10.421992
+        ],
+        [
+          -75.550118,
+          10.422078
+        ],
+        [
+          -75.55014,
+          10.422095
+        ],
+        [
+          -75.550099,
+          10.422154
+        ],
+        [
+          -75.550099,
+          10.422154
+        ],
+        [
+          -75.55014,
+          10.422095
+        ],
+        [
+          -75.550406,
+          10.421716
+        ],
+        [
+          -75.550441,
+          10.421672
+        ],
+        [
+          -75.550906,
+          10.421648
+        ],
+        [
+          -75.550936,
+          10.421961
+        ],
+        [
+          -75.550964,
+          10.42242
+        ],
+        [
+          -75.551189,
+          10.422399
+        ],
+        [
+          -75.551514,
+          10.422393
+        ],
+        [
+          -75.551514,
+          10.422393
+        ],
+        [
+          -75.551629,
+          10.422391
+        ],
+        [
+          -75.55232,
+          10.422536
+        ],
+        [
+          -75.552293,
+          10.422752
+        ],
+        [
+          -75.552293,
+          10.422752
+        ],
+        [
+          -75.552248,
+          10.423116
+        ],
+        [
+          -75.553362,
+          10.423482
+        ],
+        [
+          -75.553366,
+          10.423527
+        ],
+        [
+          -75.553398,
+          10.424065
+        ],
+        [
+          -75.553418,
+          10.424438
+        ],
+        [
+          -75.553755,
+          10.424458
+        ],
+        [
+          -75.553771,
+          10.424459
+        ],
+        [
+          -75.554015,
+          10.424458
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            -75.549149,
+            10.423084
+          ],
+          "instruction": "Walk southeast on the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.549116,
+            10.423062
+          ],
+          "instruction": "Keep right to take the walkway.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.548959,
+            10.422814
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 143,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.549816,
+            10.42186
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 43,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.55014,
+            10.422095
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.550099,
+            10.422154
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.550099,
+            10.422154
+          ],
+          "instruction": "Walk southwest on the walkway.",
+          "distanceM": 115,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.550906,
+            10.421648
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 35,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.550936,
+            10.421961
+          ],
+          "instruction": "Continue on Calle San Pedro Claver.",
+          "distanceM": 51,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.550964,
+            10.42242
+          ],
+          "instruction": "Turn left onto Calle de las Damas.",
+          "distanceM": 60,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.551514,
+            10.422393
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.551514,
+            10.422393
+          ],
+          "instruction": "Walk west on Calle de las Damas.",
+          "distanceM": 89,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.55232,
+            10.422536
+          ],
+          "instruction": "Turn right onto Calle de Santa Teresa.",
+          "distanceM": 24,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.552293,
+            10.422752
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.552293,
+            10.422752
+          ],
+          "instruction": "Walk north on Calle de Santa Teresa.",
+          "distanceM": 40,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.552248,
+            10.423116
+          ],
+          "instruction": "Turn left onto Calle Baloco.",
+          "distanceM": 129,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.553362,
+            10.423482
+          ],
+          "instruction": "Turn right onto Playa de la Artillería.",
+          "distanceM": 107,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.553418,
+            10.424438
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 39,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.553771,
+            10.424459
+          ],
+          "instruction": "Take the stairs.",
+          "distanceM": 27,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.554015,
+            10.424458
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:25:26.976Z"
+      }
+    },
     "cityId": "cartagena-colombia",
     "category": "История",
     "title": "Старый порт и стены: Картахена как креп…",
@@ -267,6 +606,544 @@
   },
   {
     "id": "cartagena-colombia-getsemani-popular-quarter",
+    "routePath": {
+      "coordinates": [
+        [
+          -75.548232,
+          10.422376
+        ],
+        [
+          -75.547778,
+          10.421986
+        ],
+        [
+          -75.547724,
+          10.421953
+        ],
+        [
+          -75.547669,
+          10.421921
+        ],
+        [
+          -75.547548,
+          10.421921
+        ],
+        [
+          -75.54696,
+          10.421983
+        ],
+        [
+          -75.546978,
+          10.422044
+        ],
+        [
+          -75.546994,
+          10.422066
+        ],
+        [
+          -75.547013,
+          10.422092
+        ],
+        [
+          -75.547092,
+          10.422237
+        ],
+        [
+          -75.547119,
+          10.42229
+        ],
+        [
+          -75.547119,
+          10.42229
+        ],
+        [
+          -75.547092,
+          10.422237
+        ],
+        [
+          -75.547013,
+          10.422092
+        ],
+        [
+          -75.546994,
+          10.422066
+        ],
+        [
+          -75.546978,
+          10.422044
+        ],
+        [
+          -75.54696,
+          10.421983
+        ],
+        [
+          -75.546399,
+          10.422032
+        ],
+        [
+          -75.546486,
+          10.421304
+        ],
+        [
+          -75.546484,
+          10.421233
+        ],
+        [
+          -75.546443,
+          10.421196
+        ],
+        [
+          -75.546365,
+          10.421157
+        ],
+        [
+          -75.546307,
+          10.421126
+        ],
+        [
+          -75.546295,
+          10.421152
+        ],
+        [
+          -75.546284,
+          10.421185
+        ],
+        [
+          -75.546209,
+          10.42139
+        ],
+        [
+          -75.546179,
+          10.421417
+        ],
+        [
+          -75.546124,
+          10.421431
+        ],
+        [
+          -75.546077,
+          10.421661
+        ],
+        [
+          -75.546048,
+          10.421717
+        ],
+        [
+          -75.545981,
+          10.421745
+        ],
+        [
+          -75.545946,
+          10.42175
+        ],
+        [
+          -75.545946,
+          10.42175
+        ],
+        [
+          -75.545981,
+          10.421745
+        ],
+        [
+          -75.546048,
+          10.421717
+        ],
+        [
+          -75.546077,
+          10.421661
+        ],
+        [
+          -75.546124,
+          10.421431
+        ],
+        [
+          -75.546179,
+          10.421417
+        ],
+        [
+          -75.546209,
+          10.42139
+        ],
+        [
+          -75.546284,
+          10.421185
+        ],
+        [
+          -75.546295,
+          10.421152
+        ],
+        [
+          -75.546307,
+          10.421126
+        ],
+        [
+          -75.546365,
+          10.421157
+        ],
+        [
+          -75.546443,
+          10.421196
+        ],
+        [
+          -75.546484,
+          10.421233
+        ],
+        [
+          -75.546486,
+          10.421304
+        ],
+        [
+          -75.546399,
+          10.422032
+        ],
+        [
+          -75.546391,
+          10.422167
+        ],
+        [
+          -75.546432,
+          10.422174
+        ],
+        [
+          -75.546422,
+          10.422833
+        ],
+        [
+          -75.546481,
+          10.422824
+        ],
+        [
+          -75.546504,
+          10.422821
+        ],
+        [
+          -75.546498,
+          10.423421
+        ],
+        [
+          -75.547447,
+          10.423053
+        ],
+        [
+          -75.54731,
+          10.422768
+        ],
+        [
+          -75.547496,
+          10.42262
+        ],
+        [
+          -75.547496,
+          10.42262
+        ],
+        [
+          -75.54731,
+          10.422768
+        ],
+        [
+          -75.547447,
+          10.423053
+        ],
+        [
+          -75.54746,
+          10.423081
+        ],
+        [
+          -75.547464,
+          10.423088
+        ],
+        [
+          -75.5475,
+          10.42316
+        ],
+        [
+          -75.546559,
+          10.423529
+        ],
+        [
+          -75.546421,
+          10.423583
+        ],
+        [
+          -75.546417,
+          10.423413
+        ],
+        [
+          -75.546418,
+          10.4233
+        ],
+        [
+          -75.546418,
+          10.4233
+        ],
+        [
+          -75.546422,
+          10.422833
+        ],
+        [
+          -75.546385,
+          10.422838
+        ],
+        [
+          -75.54555,
+          10.423042
+        ],
+        [
+          -75.545497,
+          10.422612
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            -75.548232,
+            10.422376
+          ],
+          "instruction": "Walk southeast on Calle de la Media Luna.",
+          "distanceM": 157,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.54696,
+            10.421983
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 38,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.547119,
+            10.42229
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.547119,
+            10.42229
+          ],
+          "instruction": "Walk southeast on the walkway.",
+          "distanceM": 38,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.54696,
+            10.421983
+          ],
+          "instruction": "Turn left onto Calle de la Media Luna.",
+          "distanceM": 62,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546399,
+            10.422032
+          ],
+          "instruction": "Turn right onto Calle de la Sierpe.",
+          "distanceM": 112,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546307,
+            10.421126
+          ],
+          "instruction": "Turn left.",
+          "distanceM": 86,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.545946,
+            10.42175
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.545946,
+            10.42175
+          ],
+          "instruction": "Walk southwest.",
+          "distanceM": 86,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546307,
+            10.421126
+          ],
+          "instruction": "Turn right onto Calle de la Sierpe.",
+          "distanceM": 127,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546391,
+            10.422167
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546432,
+            10.422174
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 73,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546422,
+            10.422833
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 8,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546504,
+            10.422821
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 179,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.547447,
+            10.423053
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 35,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.54731,
+            10.422768
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.547496,
+            10.42262
+          ],
+          "instruction": "Walk north on the walkway.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.547496,
+            10.42262
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.54731,
+            10.422768
+          ],
+          "instruction": "Walk northwest on the walkway.",
+          "distanceM": 48,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.5475,
+            10.42316
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 127,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546421,
+            10.423583
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 30,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546418,
+            10.4233
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546418,
+            10.4233
+          ],
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 52,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546422,
+            10.422833
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.546385,
+            10.422838
+          ],
+          "instruction": "Continue on Calle de la Magdalena.",
+          "distanceM": 94,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.54555,
+            10.423042
+          ],
+          "instruction": "Turn right onto Calle de San Andrés.",
+          "distanceM": 48,
+          "type": ""
+        },
+        {
+          "location": [
+            -75.545497,
+            10.422612
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:25:28.711Z"
+      }
+    },
     "cityId": "cartagena-colombia",
     "category": "Район",
     "title": "Гетсемани: квартал свободы и уличного голоса",

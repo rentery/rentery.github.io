@@ -32,6 +32,469 @@
   "guides": [
     {
       "id": "bruges-markt-burg-civic-power",
+      "routePath": {
+        "coordinates": [
+          [
+            3.224502,
+            51.208482
+          ],
+          [
+            3.224687,
+            51.208316
+          ],
+          [
+            3.224687,
+            51.208316
+          ],
+          [
+            3.224502,
+            51.208482
+          ],
+          [
+            3.224624,
+            51.208508
+          ],
+          [
+            3.224725,
+            51.208518
+          ],
+          [
+            3.224836,
+            51.208518
+          ],
+          [
+            3.224833,
+            51.208615
+          ],
+          [
+            3.224759,
+            51.208844
+          ],
+          [
+            3.224759,
+            51.208844
+          ],
+          [
+            3.224833,
+            51.208615
+          ],
+          [
+            3.224836,
+            51.208518
+          ],
+          [
+            3.224943,
+            51.208496
+          ],
+          [
+            3.225007,
+            51.208461
+          ],
+          [
+            3.225097,
+            51.20847
+          ],
+          [
+            3.225576,
+            51.208518
+          ],
+          [
+            3.22573,
+            51.208539
+          ],
+          [
+            3.226136,
+            51.208593
+          ],
+          [
+            3.226332,
+            51.208618
+          ],
+          [
+            3.22656,
+            51.208655
+          ],
+          [
+            3.226613,
+            51.208664
+          ],
+          [
+            3.226888,
+            51.208717
+          ],
+          [
+            3.226984,
+            51.208628
+          ],
+          [
+            3.226984,
+            51.208628
+          ],
+          [
+            3.227123,
+            51.208499
+          ],
+          [
+            3.227227,
+            51.208402
+          ],
+          [
+            3.227237,
+            51.208395
+          ],
+          [
+            3.227293,
+            51.20835
+          ],
+          [
+            3.227372,
+            51.20829
+          ],
+          [
+            3.227372,
+            51.20829
+          ],
+          [
+            3.227293,
+            51.20835
+          ],
+          [
+            3.227237,
+            51.208395
+          ],
+          [
+            3.227227,
+            51.208402
+          ],
+          [
+            3.227123,
+            51.208499
+          ],
+          [
+            3.226873,
+            51.208438
+          ],
+          [
+            3.226873,
+            51.208438
+          ],
+          [
+            3.227123,
+            51.208499
+          ],
+          [
+            3.227227,
+            51.208402
+          ],
+          [
+            3.227237,
+            51.208395
+          ],
+          [
+            3.227293,
+            51.20835
+          ],
+          [
+            3.227604,
+            51.208115
+          ],
+          [
+            3.227717,
+            51.208033
+          ],
+          [
+            3.227802,
+            51.207974
+          ],
+          [
+            3.227862,
+            51.20801
+          ],
+          [
+            3.227969,
+            51.208072
+          ],
+          [
+            3.228123,
+            51.208161
+          ],
+          [
+            3.228218,
+            51.208216
+          ],
+          [
+            3.228455,
+            51.208038
+          ],
+          [
+            3.228455,
+            51.208038
+          ],
+          [
+            3.228504,
+            51.208001
+          ],
+          [
+            3.228771,
+            51.207806
+          ],
+          [
+            3.228756,
+            51.207798
+          ],
+          [
+            3.228593,
+            51.207714
+          ],
+          [
+            3.228451,
+            51.207639
+          ],
+          [
+            3.228392,
+            51.207609
+          ],
+          [
+            3.228343,
+            51.207583
+          ],
+          [
+            3.227929,
+            51.207375
+          ],
+          [
+            3.227731,
+            51.20728
+          ],
+          [
+            3.227691,
+            51.207263
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              3.224502,
+              51.208482
+            ],
+            "instruction": "Walk southeast on the walkway.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224687,
+              51.208316
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224687,
+              51.208316
+            ],
+            "instruction": "Walk northwest on the walkway.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224502,
+              51.208482
+            ],
+            "instruction": "Turn right onto Markt.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224836,
+              51.208518
+            ],
+            "instruction": "Turn left to stay on Markt.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224759,
+              51.208844
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224759,
+              51.208844
+            ],
+            "instruction": "Walk south on Markt.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224836,
+              51.208518
+            ],
+            "instruction": "Turn left to stay on Markt.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225007,
+              51.208461
+            ],
+            "instruction": "Bear left onto Breidelstraat.",
+            "distanceM": 134,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226888,
+              51.208717
+            ],
+            "instruction": "Turn right onto Burg.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226984,
+              51.208628
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226984,
+              51.208628
+            ],
+            "instruction": "Walk southeast on Burg.",
+            "distanceM": 46,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227372,
+              51.20829
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227372,
+              51.20829
+            ],
+            "instruction": "Walk northwest on Blinde-Ezelstraat.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227123,
+              51.208499
+            ],
+            "instruction": "Turn left onto Burg.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226873,
+              51.208438
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226873,
+              51.208438
+            ],
+            "instruction": "Walk east on Burg.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227123,
+              51.208499
+            ],
+            "instruction": "Turn right to stay on Burg.",
+            "distanceM": 75,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227802,
+              51.207974
+            ],
+            "instruction": "Turn left onto Steenhouwersdijk.",
+            "distanceM": 40,
+            "type": ""
+          },
+          {
+            "location": [
+              3.228218,
+              51.208216
+            ],
+            "instruction": "Turn right onto Vismarkt.",
+            "distanceM": 25,
+            "type": ""
+          },
+          {
+            "location": [
+              3.228455,
+              51.208038
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.228455,
+              51.208038
+            ],
+            "instruction": "Walk southeast on Vismarkt.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              3.228771,
+              51.207806
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 95,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227691,
+              51.207263
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:24:44.516Z"
+        }
+      },
       "cityId": "bruges",
       "category": "Маршрут",
       "title": "Маркт и Бург: город, который правил тор",
@@ -395,6 +858,853 @@
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city",
+      "routePath": {
+        "coordinates": [
+          [
+            3.226047,
+            51.211803
+          ],
+          [
+            3.226033,
+            51.211799
+          ],
+          [
+            3.226029,
+            51.211812
+          ],
+          [
+            3.226037,
+            51.211829
+          ],
+          [
+            3.22601,
+            51.211837
+          ],
+          [
+            3.225966,
+            51.211852
+          ],
+          [
+            3.225903,
+            51.211806
+          ],
+          [
+            3.225893,
+            51.211799
+          ],
+          [
+            3.225685,
+            51.211704
+          ],
+          [
+            3.22557,
+            51.211652
+          ],
+          [
+            3.225586,
+            51.211631
+          ],
+          [
+            3.225593,
+            51.211623
+          ],
+          [
+            3.225609,
+            51.211603
+          ],
+          [
+            3.225631,
+            51.211575
+          ],
+          [
+            3.225635,
+            51.211571
+          ],
+          [
+            3.225599,
+            51.21156
+          ],
+          [
+            3.22555,
+            51.211544
+          ],
+          [
+            3.2255,
+            51.211528
+          ],
+          [
+            3.225418,
+            51.211501
+          ],
+          [
+            3.225331,
+            51.211473
+          ],
+          [
+            3.225279,
+            51.211456
+          ],
+          [
+            3.225279,
+            51.211456
+          ],
+          [
+            3.225331,
+            51.211473
+          ],
+          [
+            3.225418,
+            51.211501
+          ],
+          [
+            3.2255,
+            51.211528
+          ],
+          [
+            3.22555,
+            51.211544
+          ],
+          [
+            3.225599,
+            51.21156
+          ],
+          [
+            3.225635,
+            51.211571
+          ],
+          [
+            3.225631,
+            51.211575
+          ],
+          [
+            3.225609,
+            51.211603
+          ],
+          [
+            3.225593,
+            51.211623
+          ],
+          [
+            3.225586,
+            51.211631
+          ],
+          [
+            3.22557,
+            51.211652
+          ],
+          [
+            3.225685,
+            51.211704
+          ],
+          [
+            3.225702,
+            51.211712
+          ],
+          [
+            3.225702,
+            51.211712
+          ],
+          [
+            3.225893,
+            51.211799
+          ],
+          [
+            3.225903,
+            51.211806
+          ],
+          [
+            3.225966,
+            51.211852
+          ],
+          [
+            3.22601,
+            51.211837
+          ],
+          [
+            3.226037,
+            51.211829
+          ],
+          [
+            3.226029,
+            51.211812
+          ],
+          [
+            3.226033,
+            51.211799
+          ],
+          [
+            3.226043,
+            51.211789
+          ],
+          [
+            3.226065,
+            51.211775
+          ],
+          [
+            3.2261,
+            51.211765
+          ],
+          [
+            3.226103,
+            51.211761
+          ],
+          [
+            3.226113,
+            51.211747
+          ],
+          [
+            3.226144,
+            51.211754
+          ],
+          [
+            3.227014,
+            51.21199
+          ],
+          [
+            3.227864,
+            51.212281
+          ],
+          [
+            3.227926,
+            51.212212
+          ],
+          [
+            3.227961,
+            51.212163
+          ],
+          [
+            3.227961,
+            51.212163
+          ],
+          [
+            3.227926,
+            51.212212
+          ],
+          [
+            3.227864,
+            51.212281
+          ],
+          [
+            3.227014,
+            51.21199
+          ],
+          [
+            3.226144,
+            51.211754
+          ],
+          [
+            3.226113,
+            51.211747
+          ],
+          [
+            3.226103,
+            51.211761
+          ],
+          [
+            3.2261,
+            51.211765
+          ],
+          [
+            3.226065,
+            51.211775
+          ],
+          [
+            3.226043,
+            51.211789
+          ],
+          [
+            3.226033,
+            51.211799
+          ],
+          [
+            3.226029,
+            51.211812
+          ],
+          [
+            3.226037,
+            51.211829
+          ],
+          [
+            3.226068,
+            51.211862
+          ],
+          [
+            3.226148,
+            51.211926
+          ],
+          [
+            3.226312,
+            51.212112
+          ],
+          [
+            3.226279,
+            51.212136
+          ],
+          [
+            3.226254,
+            51.212153
+          ],
+          [
+            3.226241,
+            51.212163
+          ],
+          [
+            3.226246,
+            51.212183
+          ],
+          [
+            3.226256,
+            51.212198
+          ],
+          [
+            3.226286,
+            51.212242
+          ],
+          [
+            3.226303,
+            51.21226
+          ],
+          [
+            3.226331,
+            51.212286
+          ],
+          [
+            3.226367,
+            51.21231
+          ],
+          [
+            3.22642,
+            51.212336
+          ],
+          [
+            3.226427,
+            51.212339
+          ],
+          [
+            3.226467,
+            51.212359
+          ],
+          [
+            3.226179,
+            51.212634
+          ],
+          [
+            3.22622,
+            51.212679
+          ],
+          [
+            3.226208,
+            51.212705
+          ],
+          [
+            3.226167,
+            51.212797
+          ],
+          [
+            3.226152,
+            51.212832
+          ],
+          [
+            3.226086,
+            51.213002
+          ],
+          [
+            3.226038,
+            51.213188
+          ],
+          [
+            3.226031,
+            51.213213
+          ],
+          [
+            3.226031,
+            51.213213
+          ],
+          [
+            3.225659,
+            51.213155
+          ],
+          [
+            3.225029,
+            51.213046
+          ],
+          [
+            3.224908,
+            51.213042
+          ],
+          [
+            3.224869,
+            51.213073
+          ],
+          [
+            3.224859,
+            51.213081
+          ],
+          [
+            3.224809,
+            51.213141
+          ],
+          [
+            3.224752,
+            51.213208
+          ],
+          [
+            3.224648,
+            51.213193
+          ],
+          [
+            3.224414,
+            51.213132
+          ],
+          [
+            3.224148,
+            51.21302
+          ],
+          [
+            3.224148,
+            51.21302
+          ],
+          [
+            3.223742,
+            51.212849
+          ],
+          [
+            3.22345,
+            51.212726
+          ],
+          [
+            3.223144,
+            51.212605
+          ],
+          [
+            3.223123,
+            51.212626
+          ],
+          [
+            3.222691,
+            51.212433
+          ],
+          [
+            3.222647,
+            51.212413
+          ],
+          [
+            3.222694,
+            51.212393
+          ],
+          [
+            3.222785,
+            51.212339
+          ],
+          [
+            3.223092,
+            51.212216
+          ],
+          [
+            3.223172,
+            51.212193
+          ],
+          [
+            3.223233,
+            51.212176
+          ],
+          [
+            3.223281,
+            51.212154
+          ],
+          [
+            3.22348,
+            51.212009
+          ],
+          [
+            3.2236,
+            51.211911
+          ],
+          [
+            3.223745,
+            51.211781
+          ],
+          [
+            3.223871,
+            51.211644
+          ],
+          [
+            3.22408,
+            51.211353
+          ],
+          [
+            3.224158,
+            51.21124
+          ],
+          [
+            3.224167,
+            51.211234
+          ],
+          [
+            3.224155,
+            51.21123
+          ],
+          [
+            3.224127,
+            51.211221
+          ],
+          [
+            3.224107,
+            51.211214
+          ],
+          [
+            3.224095,
+            51.211211
+          ],
+          [
+            3.224097,
+            51.211183
+          ],
+          [
+            3.224096,
+            51.211158
+          ],
+          [
+            3.224067,
+            51.211129
+          ],
+          [
+            3.22389,
+            51.211133
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              3.226047,
+              51.211803
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226033,
+              51.211799
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226037,
+              51.211829
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225966,
+              51.211852
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225586,
+              51.211631
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225279,
+              51.211456
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225279,
+              51.211456
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225586,
+              51.211631
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225702,
+              51.211712
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225702,
+              51.211712
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              3.225966,
+              51.211852
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226037,
+              51.211829
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226033,
+              51.211799
+            ],
+            "instruction": "Bear left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226113,
+              51.211747
+            ],
+            "instruction": "Turn left onto Spiegelrei.",
+            "distanceM": 136,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227864,
+              51.212281
+            ],
+            "instruction": "Turn right onto Koningstraat.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227961,
+              51.212163
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227961,
+              51.212163
+            ],
+            "instruction": "Walk northwest on Koningsbrug.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              3.227864,
+              51.212281
+            ],
+            "instruction": "Turn left onto Spiegelrei.",
+            "distanceM": 136,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226113,
+              51.211747
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226033,
+              51.211799
+            ],
+            "instruction": "Bear right onto the walkway.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226312,
+              51.212112
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226241,
+              51.212163
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 28,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226467,
+              51.212359
+            ],
+            "instruction": "Turn left onto Woensdagmarkt.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226179,
+              51.212634
+            ],
+            "instruction": "Bear right onto Oosterlingenplein.",
+            "distanceM": 65,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226031,
+              51.213213
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.226031,
+              51.213213
+            ],
+            "instruction": "Walk west on Spaanse Loskaai.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224908,
+              51.213042
+            ],
+            "instruction": "Turn right onto Spanjaardstraat.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224752,
+              51.213208
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 47,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224148,
+              51.21302
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224148,
+              51.21302
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 86,
+            "type": ""
+          },
+          {
+            "location": [
+              3.223123,
+              51.212626
+            ],
+            "instruction": "Turn left onto Augustijnenrei.",
+            "distanceM": 41,
+            "type": ""
+          },
+          {
+            "location": [
+              3.222647,
+              51.212413
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 175,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224167,
+              51.211234
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224095,
+              51.211211
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              3.224067,
+              51.211129
+            ],
+            "instruction": "Turn right onto Grauwwerkersstraat.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              3.22389,
+              51.211133
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:24:46.056Z"
+        }
+      },
       "cityId": "bruges",
       "category": "Район",
       "title": "Каналы Ганзы: северный рынок Европы",
@@ -1408,5 +2718,5 @@
       ]
     }
   ],
-  "packHash": "44bc350df9fa"
+  "packHash": "295d7931a5e9"
 }

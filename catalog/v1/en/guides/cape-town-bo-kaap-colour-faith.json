@@ -1,5 +1,481 @@
 {
   "id": "cape-town-bo-kaap-colour-faith",
+  "routePath": {
+    "coordinates": [
+      [
+        18.413305,
+        -33.920523
+      ],
+      [
+        18.413448,
+        -33.920504
+      ],
+      [
+        18.413896,
+        -33.920444
+      ],
+      [
+        18.41397,
+        -33.920523
+      ],
+      [
+        18.414381,
+        -33.920823
+      ],
+      [
+        18.414381,
+        -33.920823
+      ],
+      [
+        18.414388,
+        -33.920828
+      ],
+      [
+        18.414619,
+        -33.921004
+      ],
+      [
+        18.41408,
+        -33.921492
+      ],
+      [
+        18.414471,
+        -33.921794
+      ],
+      [
+        18.414735,
+        -33.921987
+      ],
+      [
+        18.41492,
+        -33.921806
+      ],
+      [
+        18.414829,
+        -33.921713
+      ],
+      [
+        18.414627,
+        -33.921568
+      ],
+      [
+        18.414737,
+        -33.921471
+      ],
+      [
+        18.414737,
+        -33.921471
+      ],
+      [
+        18.414627,
+        -33.921568
+      ],
+      [
+        18.414829,
+        -33.921713
+      ],
+      [
+        18.41492,
+        -33.921806
+      ],
+      [
+        18.414735,
+        -33.921987
+      ],
+      [
+        18.414471,
+        -33.921794
+      ],
+      [
+        18.41408,
+        -33.921492
+      ],
+      [
+        18.414619,
+        -33.921004
+      ],
+      [
+        18.414388,
+        -33.920828
+      ],
+      [
+        18.414784,
+        -33.920478
+      ],
+      [
+        18.414982,
+        -33.920622
+      ],
+      [
+        18.414982,
+        -33.920622
+      ],
+      [
+        18.415429,
+        -33.920948
+      ],
+      [
+        18.415057,
+        -33.921293
+      ],
+      [
+        18.415738,
+        -33.921806
+      ],
+      [
+        18.415688,
+        -33.921852
+      ],
+      [
+        18.415684,
+        -33.921886
+      ],
+      [
+        18.415708,
+        -33.921909
+      ],
+      [
+        18.415676,
+        -33.921936
+      ],
+      [
+        18.415543,
+        -33.922061
+      ],
+      [
+        18.41523,
+        -33.92235
+      ],
+      [
+        18.415015,
+        -33.922192
+      ],
+      [
+        18.415015,
+        -33.922192
+      ],
+      [
+        18.41523,
+        -33.92235
+      ],
+      [
+        18.415543,
+        -33.922061
+      ],
+      [
+        18.415676,
+        -33.921936
+      ],
+      [
+        18.415708,
+        -33.921909
+      ],
+      [
+        18.415684,
+        -33.921886
+      ],
+      [
+        18.415688,
+        -33.921852
+      ],
+      [
+        18.415738,
+        -33.921806
+      ],
+      [
+        18.415788,
+        -33.92176
+      ],
+      [
+        18.415933,
+        -33.921732
+      ],
+      [
+        18.41599,
+        -33.921763
+      ],
+      [
+        18.416203,
+        -33.921514
+      ],
+      [
+        18.415429,
+        -33.920948
+      ],
+      [
+        18.41549,
+        -33.920893
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          18.413305,
+          -33.920523
+        ],
+        "instruction": "Walk east on Pentz Street.",
+        "distanceM": 55,
+        "type": ""
+      },
+      {
+        "location": [
+          18.413896,
+          -33.920444
+        ],
+        "instruction": "Turn right onto Wale Street.",
+        "distanceM": 61,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414381,
+          -33.920823
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414381,
+          -33.920823
+        ],
+        "instruction": "Walk southeast on Wale Street.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414619,
+          -33.921004
+        ],
+        "instruction": "Turn right onto Van der Meulen Street.",
+        "distanceM": 74,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41408,
+          -33.921492
+        ],
+        "instruction": "Turn left onto Dorp Street.",
+        "distanceM": 82,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414735,
+          -33.921987
+        ],
+        "instruction": "Turn left.",
+        "distanceM": 79,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414737,
+          -33.921471
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414737,
+          -33.921471
+        ],
+        "instruction": "Walk southwest.",
+        "distanceM": 79,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414735,
+          -33.921987
+        ],
+        "instruction": "Turn right onto Dorp Street.",
+        "distanceM": 82,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41408,
+          -33.921492
+        ],
+        "instruction": "Turn right onto Van der Meulen Street.",
+        "distanceM": 74,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414619,
+          -33.921004
+        ],
+        "instruction": "Turn left onto Wale Street.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414388,
+          -33.920828
+        ],
+        "instruction": "Turn right onto Chiappini Street.",
+        "distanceM": 53,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414784,
+          -33.920478
+        ],
+        "instruction": "Turn right onto Helliger Lane.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414982,
+          -33.920622
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.414982,
+          -33.920622
+        ],
+        "instruction": "Walk southeast on Helliger Lane.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415429,
+          -33.920948
+        ],
+        "instruction": "Turn right onto Rose Street.",
+        "distanceM": 52,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415057,
+          -33.921293
+        ],
+        "instruction": "Turn left onto Wale Street.",
+        "distanceM": 85,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415738,
+          -33.921806
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415708,
+          -33.921909
+        ],
+        "instruction": "Turn right onto Buitengracht Street.",
+        "distanceM": 65,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41523,
+          -33.92235
+        ],
+        "instruction": "Turn right onto Dorp Street.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415015,
+          -33.922192
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415015,
+          -33.922192
+        ],
+        "instruction": "Walk southeast on Dorp Street.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41523,
+          -33.92235
+        ],
+        "instruction": "Turn left onto Buitengracht Street.",
+        "distanceM": 65,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415708,
+          -33.921909
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41599,
+          -33.921763
+        ],
+        "instruction": "Turn left onto Buitengracht Street/M62.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          18.416203,
+          -33.921514
+        ],
+        "instruction": "Turn left onto Helliger Lane.",
+        "distanceM": 95,
+        "type": ""
+      },
+      {
+        "location": [
+          18.415429,
+          -33.920948
+        ],
+        "instruction": "Turn right onto Rose Street.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41549,
+          -33.920893
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:15.951Z"
+    }
+  },
   "cityId": "cape-town",
   "category": "Район",
   "title": "Bo‑Kaap: цвет, вера и улицы над центром",

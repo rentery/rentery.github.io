@@ -1,5 +1,845 @@
 {
   "id": "cape-town-district-six-castle-garden",
+  "routePath": {
+    "coordinates": [
+      [
+        18.42366,
+        -33.927553
+      ],
+      [
+        18.424022,
+        -33.927214
+      ],
+      [
+        18.424113,
+        -33.927158
+      ],
+      [
+        18.424192,
+        -33.927087
+      ],
+      [
+        18.424238,
+        -33.927047
+      ],
+      [
+        18.424294,
+        -33.926995
+      ],
+      [
+        18.424467,
+        -33.926842
+      ],
+      [
+        18.424467,
+        -33.926842
+      ],
+      [
+        18.424809,
+        -33.92654
+      ],
+      [
+        18.424855,
+        -33.926497
+      ],
+      [
+        18.42523,
+        -33.926147
+      ],
+      [
+        18.425307,
+        -33.926072
+      ],
+      [
+        18.425405,
+        -33.925985
+      ],
+      [
+        18.425477,
+        -33.926028
+      ],
+      [
+        18.425647,
+        -33.925824
+      ],
+      [
+        18.4258,
+        -33.925669
+      ],
+      [
+        18.425948,
+        -33.92553
+      ],
+      [
+        18.425966,
+        -33.925541
+      ],
+      [
+        18.426041,
+        -33.92552
+      ],
+      [
+        18.426224,
+        -33.925399
+      ],
+      [
+        18.426286,
+        -33.925378
+      ],
+      [
+        18.426295,
+        -33.925375
+      ],
+      [
+        18.426337,
+        -33.92536
+      ],
+      [
+        18.426604,
+        -33.925272
+      ],
+      [
+        18.426678,
+        -33.925257
+      ],
+      [
+        18.426753,
+        -33.92526
+      ],
+      [
+        18.426802,
+        -33.925275
+      ],
+      [
+        18.426825,
+        -33.925283
+      ],
+      [
+        18.426885,
+        -33.925321
+      ],
+      [
+        18.426936,
+        -33.925356
+      ],
+      [
+        18.427064,
+        -33.925444
+      ],
+      [
+        18.427099,
+        -33.925469
+      ],
+      [
+        18.427148,
+        -33.925504
+      ],
+      [
+        18.427212,
+        -33.925551
+      ],
+      [
+        18.427248,
+        -33.925581
+      ],
+      [
+        18.42754,
+        -33.925304
+      ],
+      [
+        18.42754,
+        -33.925304
+      ],
+      [
+        18.427248,
+        -33.925581
+      ],
+      [
+        18.427212,
+        -33.925551
+      ],
+      [
+        18.427148,
+        -33.925504
+      ],
+      [
+        18.427099,
+        -33.925469
+      ],
+      [
+        18.427064,
+        -33.925444
+      ],
+      [
+        18.426936,
+        -33.925356
+      ],
+      [
+        18.426885,
+        -33.925321
+      ],
+      [
+        18.426825,
+        -33.925283
+      ],
+      [
+        18.426802,
+        -33.925275
+      ],
+      [
+        18.426753,
+        -33.92526
+      ],
+      [
+        18.426678,
+        -33.925257
+      ],
+      [
+        18.426604,
+        -33.925272
+      ],
+      [
+        18.426337,
+        -33.92536
+      ],
+      [
+        18.426295,
+        -33.925375
+      ],
+      [
+        18.426286,
+        -33.925378
+      ],
+      [
+        18.426224,
+        -33.925399
+      ],
+      [
+        18.426041,
+        -33.92552
+      ],
+      [
+        18.425966,
+        -33.925541
+      ],
+      [
+        18.425948,
+        -33.92553
+      ],
+      [
+        18.4258,
+        -33.925669
+      ],
+      [
+        18.425647,
+        -33.925824
+      ],
+      [
+        18.425477,
+        -33.926028
+      ],
+      [
+        18.425405,
+        -33.925985
+      ],
+      [
+        18.425307,
+        -33.926072
+      ],
+      [
+        18.425239,
+        -33.926021
+      ],
+      [
+        18.425172,
+        -33.925974
+      ],
+      [
+        18.42458,
+        -33.925547
+      ],
+      [
+        18.424442,
+        -33.925447
+      ],
+      [
+        18.423752,
+        -33.92495
+      ],
+      [
+        18.423752,
+        -33.92495
+      ],
+      [
+        18.423598,
+        -33.924839
+      ],
+      [
+        18.42311,
+        -33.925306
+      ],
+      [
+        18.422687,
+        -33.92572
+      ],
+      [
+        18.422532,
+        -33.925872
+      ],
+      [
+        18.422384,
+        -33.926005
+      ],
+      [
+        18.42229,
+        -33.926089
+      ],
+      [
+        18.422139,
+        -33.926232
+      ],
+      [
+        18.422119,
+        -33.926177
+      ],
+      [
+        18.422099,
+        -33.926126
+      ],
+      [
+        18.422066,
+        -33.926068
+      ],
+      [
+        18.422014,
+        -33.926016
+      ],
+      [
+        18.421695,
+        -33.92578
+      ],
+      [
+        18.421631,
+        -33.925733
+      ],
+      [
+        18.421571,
+        -33.92569
+      ],
+      [
+        18.421644,
+        -33.925618
+      ],
+      [
+        18.421382,
+        -33.925425
+      ],
+      [
+        18.42132,
+        -33.925375
+      ],
+      [
+        18.42132,
+        -33.925375
+      ],
+      [
+        18.421292,
+        -33.925352
+      ],
+      [
+        18.421201,
+        -33.925277
+      ],
+      [
+        18.421135,
+        -33.925215
+      ],
+      [
+        18.421086,
+        -33.925168
+      ],
+      [
+        18.421034,
+        -33.925213
+      ],
+      [
+        18.42099,
+        -33.925254
+      ],
+      [
+        18.420691,
+        -33.925529
+      ],
+      [
+        18.42014,
+        -33.92512
+      ],
+      [
+        18.42001,
+        -33.925026
+      ],
+      [
+        18.41994,
+        -33.924974
+      ],
+      [
+        18.419045,
+        -33.925834
+      ],
+      [
+        18.418792,
+        -33.925804
+      ],
+      [
+        18.418646,
+        -33.925702
+      ],
+      [
+        18.418646,
+        -33.925702
+      ],
+      [
+        18.41855,
+        -33.925636
+      ],
+      [
+        18.418499,
+        -33.92563
+      ],
+      [
+        18.418249,
+        -33.925864
+      ],
+      [
+        18.417936,
+        -33.926157
+      ],
+      [
+        18.417499,
+        -33.926566
+      ],
+      [
+        18.417472,
+        -33.926555
+      ],
+      [
+        18.417441,
+        -33.926552
+      ],
+      [
+        18.417412,
+        -33.92656
+      ],
+      [
+        18.417389,
+        -33.926577
+      ],
+      [
+        18.417215,
+        -33.926444
+      ],
+      [
+        18.416969,
+        -33.926274
+      ],
+      [
+        18.416793,
+        -33.926446
+      ],
+      [
+        18.416236,
+        -33.926052
+      ],
+      [
+        18.416998,
+        -33.925351
+      ],
+      [
+        18.417465,
+        -33.924922
+      ],
+      [
+        18.417198,
+        -33.92472
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          18.42366,
+          -33.927553
+        ],
+        "instruction": "Walk northeast on Buitenkant Street/M59.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          18.424022,
+          -33.927214
+        ],
+        "instruction": "Keep right to stay on Buitenkant Street/M59.",
+        "distanceM": 58,
+        "type": ""
+      },
+      {
+        "location": [
+          18.424467,
+          -33.926842
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.424467,
+          -33.926842
+        ],
+        "instruction": "Walk northeast on Buitenkant Street/M59. Continue on M59.",
+        "distanceM": 128,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425405,
+          -33.925985
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425477,
+          -33.926028
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 71,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425948,
+          -33.92553
+        ],
+        "instruction": "Turn right.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          18.426224,
+          -33.925399
+        ],
+        "instruction": "Bear right onto the walkway.",
+        "distanceM": 109,
+        "type": ""
+      },
+      {
+        "location": [
+          18.427248,
+          -33.925581
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          18.42754,
+          -33.925304
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.42754,
+          -33.925304
+        ],
+        "instruction": "Walk southwest on the walkway.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          18.427248,
+          -33.925581
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 109,
+        "type": ""
+      },
+      {
+        "location": [
+          18.426224,
+          -33.925399
+        ],
+        "instruction": "Bear left.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425948,
+          -33.92553
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 71,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425477,
+          -33.926028
+        ],
+        "instruction": "Turn right onto the crosswalk.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425405,
+          -33.925985
+        ],
+        "instruction": "Turn left onto Castle Street/M59.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          18.425307,
+          -33.926072
+        ],
+        "instruction": "Turn right onto Darling Street/M4.",
+        "distanceM": 189,
+        "type": ""
+      },
+      {
+        "location": [
+          18.423752,
+          -33.92495
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.423752,
+          -33.92495
+        ],
+        "instruction": "Walk northwest on Darling Street/M4.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          18.423598,
+          -33.924839
+        ],
+        "instruction": "Turn left onto Corporation Street.",
+        "distanceM": 129,
+        "type": ""
+      },
+      {
+        "location": [
+          18.422687,
+          -33.92572
+        ],
+        "instruction": "Keep right to stay on Corporation Street.",
+        "distanceM": 76,
+        "type": ""
+      },
+      {
+        "location": [
+          18.422139,
+          -33.926232
+        ],
+        "instruction": "Make a sharp right onto Mostert Street.",
+        "distanceM": 81,
+        "type": ""
+      },
+      {
+        "location": [
+          18.421571,
+          -33.92569
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          18.421644,
+          -33.925618
+        ],
+        "instruction": "Turn left onto Spin Street.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          18.42132,
+          -33.925375
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.42132,
+          -33.925375
+        ],
+        "instruction": "Walk northwest on Spin Street.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          18.421086,
+          -33.925168
+        ],
+        "instruction": "Turn left onto Parliament Street.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          18.420691,
+          -33.925529
+        ],
+        "instruction": "Turn right onto Parliament Lane.",
+        "distanceM": 93,
+        "type": ""
+      },
+      {
+        "location": [
+          18.41994,
+          -33.924974
+        ],
+        "instruction": "Turn left onto Government Avenue.",
+        "distanceM": 126,
+        "type": ""
+      },
+      {
+        "location": [
+          18.419045,
+          -33.925834
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 24,
+        "type": ""
+      },
+      {
+        "location": [
+          18.418792,
+          -33.925804
+        ],
+        "instruction": "Keep right to take the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          18.418646,
+          -33.925702
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          18.418646,
+          -33.925702
+        ],
+        "instruction": "Walk northwest on the walkway.",
+        "distanceM": 16,
+        "type": ""
+      },
+      {
+        "location": [
+          18.418499,
+          -33.92563
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 140,
+        "type": ""
+      },
+      {
+        "location": [
+          18.417499,
+          -33.926566
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          18.417389,
+          -33.926577
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 52,
+        "type": ""
+      },
+      {
+        "location": [
+          18.416969,
+          -33.926274
+        ],
+        "instruction": "Turn left onto Queen Victoria Street.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          18.416793,
+          -33.926446
+        ],
+        "instruction": "Turn right onto Bloem Street.",
+        "distanceM": 68,
+        "type": ""
+      },
+      {
+        "location": [
+          18.416236,
+          -33.926052
+        ],
+        "instruction": "Turn right onto Keerom Street.",
+        "distanceM": 168,
+        "type": ""
+      },
+      {
+        "location": [
+          18.417465,
+          -33.924922
+        ],
+        "instruction": "Turn left onto Leeuwen Street.",
+        "distanceM": 33,
+        "type": ""
+      },
+      {
+        "location": [
+          18.417198,
+          -33.92472
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:14.473Z"
+    }
+  },
   "cityId": "cape-town",
   "category": "Район",
   "title": "District Six, крепость и Сад",

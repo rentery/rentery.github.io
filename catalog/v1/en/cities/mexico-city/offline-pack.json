@@ -31,6 +31,1412 @@
   "guides": [
     {
       "id": "mexico-city-centro-tenochtitlan-layers",
+      "routePath": {
+        "coordinates": [
+          [
+            -99.133268,
+            19.433218
+          ],
+          [
+            -99.13367,
+            19.433269
+          ],
+          [
+            -99.133706,
+            19.433269
+          ],
+          [
+            -99.133742,
+            19.433264
+          ],
+          [
+            -99.133777,
+            19.433245
+          ],
+          [
+            -99.133809,
+            19.433302
+          ],
+          [
+            -99.13383,
+            19.43334
+          ],
+          [
+            -99.133848,
+            19.433372
+          ],
+          [
+            -99.133964,
+            19.433578
+          ],
+          [
+            -99.133939,
+            19.433594
+          ],
+          [
+            -99.133882,
+            19.433636
+          ],
+          [
+            -99.133818,
+            19.433681
+          ],
+          [
+            -99.133784,
+            19.433705
+          ],
+          [
+            -99.133675,
+            19.433783
+          ],
+          [
+            -99.13357,
+            19.434458
+          ],
+          [
+            -99.13357,
+            19.434458
+          ],
+          [
+            -99.133479,
+            19.435047
+          ],
+          [
+            -99.133473,
+            19.435092
+          ],
+          [
+            -99.133353,
+            19.435076
+          ],
+          [
+            -99.132147,
+            19.434917
+          ],
+          [
+            -99.132161,
+            19.434831
+          ],
+          [
+            -99.1322,
+            19.434554
+          ],
+          [
+            -99.132215,
+            19.434439
+          ],
+          [
+            -99.132236,
+            19.434292
+          ],
+          [
+            -99.132078,
+            19.434274
+          ],
+          [
+            -99.132072,
+            19.434318
+          ],
+          [
+            -99.13206,
+            19.434408
+          ],
+          [
+            -99.13206,
+            19.434408
+          ],
+          [
+            -99.132072,
+            19.434318
+          ],
+          [
+            -99.132078,
+            19.434274
+          ],
+          [
+            -99.132058,
+            19.434271
+          ],
+          [
+            -99.131855,
+            19.434248
+          ],
+          [
+            -99.13188,
+            19.434056
+          ],
+          [
+            -99.131907,
+            19.433848
+          ],
+          [
+            -99.131931,
+            19.433665
+          ],
+          [
+            -99.131934,
+            19.433648
+          ],
+          [
+            -99.131939,
+            19.433605
+          ],
+          [
+            -99.131944,
+            19.433566
+          ],
+          [
+            -99.131946,
+            19.433554
+          ],
+          [
+            -99.131997,
+            19.433198
+          ],
+          [
+            -99.132078,
+            19.432568
+          ],
+          [
+            -99.132016,
+            19.432562
+          ],
+          [
+            -99.131863,
+            19.432547
+          ],
+          [
+            -99.131853,
+            19.432546
+          ],
+          [
+            -99.131861,
+            19.432482
+          ],
+          [
+            -99.131692,
+            19.43253
+          ],
+          [
+            -99.131664,
+            19.432499
+          ],
+          [
+            -99.131624,
+            19.432497
+          ],
+          [
+            -99.131593,
+            19.432519
+          ],
+          [
+            -99.131439,
+            19.432437
+          ],
+          [
+            -99.131431,
+            19.432501
+          ],
+          [
+            -99.13142,
+            19.4325
+          ],
+          [
+            -99.13142,
+            19.4325
+          ],
+          [
+            -99.131431,
+            19.432501
+          ],
+          [
+            -99.131439,
+            19.432437
+          ],
+          [
+            -99.131593,
+            19.432519
+          ],
+          [
+            -99.131624,
+            19.432497
+          ],
+          [
+            -99.131664,
+            19.432499
+          ],
+          [
+            -99.131692,
+            19.43253
+          ],
+          [
+            -99.131861,
+            19.432482
+          ],
+          [
+            -99.131853,
+            19.432546
+          ],
+          [
+            -99.131863,
+            19.432547
+          ],
+          [
+            -99.132016,
+            19.432562
+          ],
+          [
+            -99.132078,
+            19.432568
+          ],
+          [
+            -99.131997,
+            19.433198
+          ],
+          [
+            -99.131946,
+            19.433554
+          ],
+          [
+            -99.131944,
+            19.433566
+          ],
+          [
+            -99.131939,
+            19.433605
+          ],
+          [
+            -99.131934,
+            19.433648
+          ],
+          [
+            -99.131931,
+            19.433665
+          ],
+          [
+            -99.131907,
+            19.433848
+          ],
+          [
+            -99.13188,
+            19.434056
+          ],
+          [
+            -99.131855,
+            19.434248
+          ],
+          [
+            -99.132058,
+            19.434271
+          ],
+          [
+            -99.132078,
+            19.434274
+          ],
+          [
+            -99.132236,
+            19.434292
+          ],
+          [
+            -99.132215,
+            19.434439
+          ],
+          [
+            -99.1322,
+            19.434554
+          ],
+          [
+            -99.132161,
+            19.434831
+          ],
+          [
+            -99.132147,
+            19.434917
+          ],
+          [
+            -99.133353,
+            19.435076
+          ],
+          [
+            -99.133473,
+            19.435092
+          ],
+          [
+            -99.133875,
+            19.435144
+          ],
+          [
+            -99.133917,
+            19.435149
+          ],
+          [
+            -99.134941,
+            19.435275
+          ],
+          [
+            -99.135033,
+            19.434656
+          ],
+          [
+            -99.135104,
+            19.434102
+          ],
+          [
+            -99.135611,
+            19.434163
+          ],
+          [
+            -99.136133,
+            19.434231
+          ],
+          [
+            -99.136863,
+            19.434322
+          ],
+          [
+            -99.137169,
+            19.43436
+          ],
+          [
+            -99.137282,
+            19.43365
+          ],
+          [
+            -99.137288,
+            19.433612
+          ],
+          [
+            -99.138299,
+            19.433759
+          ],
+          [
+            -99.138299,
+            19.433759
+          ],
+          [
+            -99.139403,
+            19.433917
+          ],
+          [
+            -99.140046,
+            19.434008
+          ],
+          [
+            -99.14033,
+            19.434047
+          ],
+          [
+            -99.140372,
+            19.434055
+          ],
+          [
+            -99.140755,
+            19.434118
+          ],
+          [
+            -99.140869,
+            19.434136
+          ],
+          [
+            -99.140851,
+            19.434237
+          ],
+          [
+            -99.140992,
+            19.434259
+          ],
+          [
+            -99.14183,
+            19.434387
+          ],
+          [
+            -99.14192,
+            19.434402
+          ],
+          [
+            -99.141974,
+            19.434411
+          ],
+          [
+            -99.14201,
+            19.434416
+          ],
+          [
+            -99.141995,
+            19.434515
+          ],
+          [
+            -99.14212,
+            19.434535
+          ],
+          [
+            -99.142106,
+            19.434621
+          ],
+          [
+            -99.142174,
+            19.434663
+          ],
+          [
+            -99.142185,
+            19.434651
+          ],
+          [
+            -99.142199,
+            19.434642
+          ],
+          [
+            -99.142215,
+            19.434637
+          ],
+          [
+            -99.142231,
+            19.434636
+          ],
+          [
+            -99.142248,
+            19.434639
+          ],
+          [
+            -99.142263,
+            19.434645
+          ],
+          [
+            -99.142275,
+            19.434655
+          ],
+          [
+            -99.142285,
+            19.434668
+          ],
+          [
+            -99.142291,
+            19.434683
+          ],
+          [
+            -99.142293,
+            19.434698
+          ],
+          [
+            -99.14229,
+            19.434714
+          ],
+          [
+            -99.142283,
+            19.434728
+          ],
+          [
+            -99.142995,
+            19.435157
+          ],
+          [
+            -99.142982,
+            19.435185
+          ],
+          [
+            -99.142979,
+            19.435201
+          ],
+          [
+            -99.14298,
+            19.435218
+          ],
+          [
+            -99.142989,
+            19.435245
+          ],
+          [
+            -99.143007,
+            19.435269
+          ],
+          [
+            -99.143031,
+            19.435286
+          ],
+          [
+            -99.143059,
+            19.435295
+          ],
+          [
+            -99.14302,
+            19.435498
+          ],
+          [
+            -99.143038,
+            19.435503
+          ],
+          [
+            -99.143054,
+            19.435513
+          ],
+          [
+            -99.143067,
+            19.435526
+          ],
+          [
+            -99.143075,
+            19.435542
+          ],
+          [
+            -99.143079,
+            19.435559
+          ],
+          [
+            -99.143078,
+            19.435577
+          ],
+          [
+            -99.143808,
+            19.435703
+          ],
+          [
+            -99.143826,
+            19.435657
+          ],
+          [
+            -99.143851,
+            19.435624
+          ],
+          [
+            -99.143891,
+            19.435597
+          ],
+          [
+            -99.143901,
+            19.435594
+          ],
+          [
+            -99.143901,
+            19.435594
+          ],
+          [
+            -99.143891,
+            19.435597
+          ],
+          [
+            -99.143851,
+            19.435624
+          ],
+          [
+            -99.143826,
+            19.435657
+          ],
+          [
+            -99.143157,
+            19.435255
+          ],
+          [
+            -99.143164,
+            19.435243
+          ],
+          [
+            -99.14317,
+            19.435228
+          ],
+          [
+            -99.143173,
+            19.435212
+          ],
+          [
+            -99.143173,
+            19.435196
+          ],
+          [
+            -99.14317,
+            19.435183
+          ],
+          [
+            -99.143161,
+            19.435161
+          ],
+          [
+            -99.143149,
+            19.435145
+          ],
+          [
+            -99.143133,
+            19.435131
+          ],
+          [
+            -99.143115,
+            19.435121
+          ],
+          [
+            -99.143095,
+            19.435115
+          ],
+          [
+            -99.143069,
+            19.435114
+          ],
+          [
+            -99.143043,
+            19.435119
+          ],
+          [
+            -99.14302,
+            19.435131
+          ],
+          [
+            -99.143001,
+            19.435148
+          ],
+          [
+            -99.142995,
+            19.435157
+          ],
+          [
+            -99.142283,
+            19.434728
+          ],
+          [
+            -99.14229,
+            19.434714
+          ],
+          [
+            -99.142293,
+            19.434698
+          ],
+          [
+            -99.142291,
+            19.434683
+          ],
+          [
+            -99.142285,
+            19.434668
+          ],
+          [
+            -99.142275,
+            19.434655
+          ],
+          [
+            -99.142263,
+            19.434645
+          ],
+          [
+            -99.142248,
+            19.434639
+          ],
+          [
+            -99.142231,
+            19.434636
+          ],
+          [
+            -99.142215,
+            19.434637
+          ],
+          [
+            -99.142199,
+            19.434642
+          ],
+          [
+            -99.142185,
+            19.434651
+          ],
+          [
+            -99.142174,
+            19.434663
+          ],
+          [
+            -99.142106,
+            19.434621
+          ],
+          [
+            -99.14212,
+            19.434535
+          ],
+          [
+            -99.141995,
+            19.434515
+          ],
+          [
+            -99.14201,
+            19.434416
+          ],
+          [
+            -99.141974,
+            19.434411
+          ],
+          [
+            -99.14192,
+            19.434402
+          ],
+          [
+            -99.141911,
+            19.434457
+          ],
+          [
+            -99.141819,
+            19.435032
+          ],
+          [
+            -99.141542,
+            19.434994
+          ],
+          [
+            -99.141487,
+            19.434915
+          ],
+          [
+            -99.141339,
+            19.434895
+          ],
+          [
+            -99.141202,
+            19.43488
+          ],
+          [
+            -99.141147,
+            19.434932
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -99.133268,
+              19.433218
+            ],
+            "instruction": "Walk west on the walkway.",
+            "distanceM": 54,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.133777,
+              19.433245
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.133848,
+              19.433372
+            ],
+            "instruction": "Keep straight to take the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.133964,
+              19.433578
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.133675,
+              19.433783
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 75,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13357,
+              19.434458
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13357,
+              19.434458
+            ],
+            "instruction": "Walk north on the walkway.",
+            "distanceM": 71,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.133473,
+              19.435092
+            ],
+            "instruction": "Turn right onto Calle República de Guatemala.",
+            "distanceM": 141,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132147,
+              19.434917
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 71,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132236,
+              19.434292
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132078,
+              19.434274
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13206,
+              19.434408
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13206,
+              19.434408
+            ],
+            "instruction": "Walk south on the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132078,
+              19.434274
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131855,
+              19.434248
+            ],
+            "instruction": "Turn right onto Seminario.",
+            "distanceM": 72,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131939,
+              19.433605
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 116,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132078,
+              19.432568
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131853,
+              19.432546
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131861,
+              19.432482
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131692,
+              19.43253
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131664,
+              19.432499
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131593,
+              19.432519
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131439,
+              19.432437
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131431,
+              19.432501
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13142,
+              19.4325
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.13142,
+              19.4325
+            ],
+            "instruction": "Walk west on the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131431,
+              19.432501
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131439,
+              19.432437
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131593,
+              19.432519
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131664,
+              19.432499
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131692,
+              19.43253
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131861,
+              19.432482
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131853,
+              19.432546
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132078,
+              19.432568
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 117,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131939,
+              19.433605
+            ],
+            "instruction": "Continue on Seminario.",
+            "distanceM": 72,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.131855,
+              19.434248
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 40,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132236,
+              19.434292
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 71,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.132147,
+              19.434917
+            ],
+            "instruction": "Turn left onto Calle República de Guatemala.",
+            "distanceM": 296,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.134941,
+              19.435275
+            ],
+            "instruction": "Turn left onto Calle de la Palma.",
+            "distanceM": 131,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.135104,
+              19.434102
+            ],
+            "instruction": "Turn right onto Avenida 5 de Mayo.",
+            "distanceM": 218,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.137169,
+              19.43436
+            ],
+            "instruction": "Turn left onto Calle Motolinia.",
+            "distanceM": 84,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.137288,
+              19.433612
+            ],
+            "instruction": "Turn right onto Calle Francisco I. Madero.",
+            "distanceM": 107,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.138299,
+              19.433759
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.138299,
+              19.433759
+            ],
+            "instruction": "Walk west on Calle Francisco I. Madero.",
+            "distanceM": 272,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.140869,
+              19.434136
+            ],
+            "instruction": "Turn right onto Avenida Lázaro Cárdenas/EJE CENTRAL.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.140851,
+              19.434237
+            ],
+            "instruction": "Turn left onto Avenida Juárez.",
+            "distanceM": 123,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14201,
+              19.434416
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.141995,
+              19.434515
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14212,
+              19.434535
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142106,
+              19.434621
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142174,
+              19.434663
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142283,
+              19.434728
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 89,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142995,
+              19.435157
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143059,
+              19.435295
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14302,
+              19.435498
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143078,
+              19.435577
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 78,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143808,
+              19.435703
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143901,
+              19.435594
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143901,
+              19.435594
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143826,
+              19.435657
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 83,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.143157,
+              19.435255
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 32,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142995,
+              19.435157
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 89,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142283,
+              19.434728
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142174,
+              19.434663
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.142106,
+              19.434621
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14212,
+              19.434535
+            ],
+            "instruction": "Turn left onto the crosswalk.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.141995,
+              19.434515
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14201,
+              19.434416
+            ],
+            "instruction": "Turn left onto Avenida Juárez.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.14192,
+              19.434402
+            ],
+            "instruction": "Bear left.",
+            "distanceM": 71,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.141819,
+              19.435032
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 78,
+            "type": ""
+          },
+          {
+            "location": [
+              -99.141147,
+              19.434932
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-18T10:25:48.212Z"
+        }
+      },
       "cityId": "mexico-city",
       "category": "Маршрут",
       "title": "Центр: Теночтитлан под столицей",
@@ -605,5 +2011,5 @@
       }
     }
   ],
-  "packHash": "5083e1941c62"
+  "packHash": "381e76e34702"
 }

@@ -1,5 +1,530 @@
 {
   "id": "bogota-candelaria-gold-power",
+  "routePath": {
+    "coordinates": [
+      [
+        -74.072883,
+        4.60219
+      ],
+      [
+        -74.072693,
+        4.602518
+      ],
+      [
+        -74.072178,
+        4.602214
+      ],
+      [
+        -74.072052,
+        4.602139
+      ],
+      [
+        -74.072187,
+        4.601908
+      ],
+      [
+        -74.072187,
+        4.601908
+      ],
+      [
+        -74.072434,
+        4.601485
+      ],
+      [
+        -74.073076,
+        4.601858
+      ],
+      [
+        -74.073191,
+        4.601659
+      ],
+      [
+        -74.073237,
+        4.6016
+      ],
+      [
+        -74.073302,
+        4.601515
+      ],
+      [
+        -74.073333,
+        4.601474
+      ],
+      [
+        -74.073362,
+        4.601435
+      ],
+      [
+        -74.073389,
+        4.6014
+      ],
+      [
+        -74.073411,
+        4.601374
+      ],
+      [
+        -74.073499,
+        4.601255
+      ],
+      [
+        -74.073524,
+        4.601216
+      ],
+      [
+        -74.073524,
+        4.601216
+      ],
+      [
+        -74.073739,
+        4.600881
+      ],
+      [
+        -74.073297,
+        4.600605
+      ],
+      [
+        -74.072855,
+        4.600331
+      ],
+      [
+        -74.072806,
+        4.6003
+      ],
+      [
+        -74.072557,
+        4.600135
+      ],
+      [
+        -74.072548,
+        4.600129
+      ],
+      [
+        -74.072548,
+        4.600129
+      ],
+      [
+        -74.072557,
+        4.600135
+      ],
+      [
+        -74.072806,
+        4.6003
+      ],
+      [
+        -74.072855,
+        4.600331
+      ],
+      [
+        -74.073173,
+        4.599816
+      ],
+      [
+        -74.073408,
+        4.599437
+      ],
+      [
+        -74.073419,
+        4.599418
+      ],
+      [
+        -74.07343,
+        4.599425
+      ],
+      [
+        -74.073722,
+        4.599621
+      ],
+      [
+        -74.074238,
+        4.599967
+      ],
+      [
+        -74.074272,
+        4.59999
+      ],
+      [
+        -74.074287,
+        4.599964
+      ],
+      [
+        -74.074543,
+        4.599548
+      ],
+      [
+        -74.074769,
+        4.59921
+      ],
+      [
+        -74.074788,
+        4.599181
+      ],
+      [
+        -74.074808,
+        4.599148
+      ],
+      [
+        -74.075287,
+        4.598379
+      ],
+      [
+        -74.075307,
+        4.598356
+      ],
+      [
+        -74.075335,
+        4.598334
+      ],
+      [
+        -74.075368,
+        4.598318
+      ],
+      [
+        -74.075395,
+        4.598301
+      ],
+      [
+        -74.075424,
+        4.598277
+      ],
+      [
+        -74.075456,
+        4.598242
+      ],
+      [
+        -74.075488,
+        4.598197
+      ],
+      [
+        -74.075658,
+        4.597903
+      ],
+      [
+        -74.075658,
+        4.597903
+      ],
+      [
+        -74.075488,
+        4.598197
+      ],
+      [
+        -74.075456,
+        4.598242
+      ],
+      [
+        -74.075424,
+        4.598277
+      ],
+      [
+        -74.075395,
+        4.598301
+      ],
+      [
+        -74.075029,
+        4.598073
+      ],
+      [
+        -74.075029,
+        4.598073
+      ],
+      [
+        -74.074449,
+        4.597712
+      ],
+      [
+        -74.074342,
+        4.597645
+      ],
+      [
+        -74.074139,
+        4.597517
+      ],
+      [
+        -74.073941,
+        4.5974
+      ],
+      [
+        -74.073941,
+        4.5974
+      ],
+      [
+        -74.073555,
+        4.597174
+      ],
+      [
+        -74.073026,
+        4.598037
+      ],
+      [
+        -74.072191,
+        4.597506
+      ],
+      [
+        -74.072181,
+        4.597499
+      ],
+      [
+        -74.072163,
+        4.597488
+      ],
+      [
+        -74.071872,
+        4.597304
+      ],
+      [
+        -74.071255,
+        4.596919
+      ],
+      [
+        -74.070349,
+        4.596329
+      ],
+      [
+        -74.069872,
+        4.597068
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -74.072883,
+          4.60219
+        ],
+        "instruction": "Walk northeast on Avenida Carrera 7.",
+        "distanceM": 42,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072693,
+          4.602518
+        ],
+        "instruction": "Turn right onto Calle 16.",
+        "distanceM": 83,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072052,
+          4.602139
+        ],
+        "instruction": "Turn right onto Carrera 6.",
+        "distanceM": 29,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072187,
+          4.601908
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072187,
+          4.601908
+        ],
+        "instruction": "Walk southwest on Carrera 6.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072434,
+          4.601485
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 82,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073076,
+          4.601858
+        ],
+        "instruction": "Turn left onto Avenida Carrera 7.",
+        "distanceM": 87,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073524,
+          4.601216
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073524,
+          4.601216
+        ],
+        "instruction": "Walk southwest on Avenida Carrera 7.",
+        "distanceM": 44,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073739,
+          4.600881
+        ],
+        "instruction": "Turn left onto Calle 12C.",
+        "distanceM": 156,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072548,
+          4.600129
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072548,
+          4.600129
+        ],
+        "instruction": "Walk northwest on Calle 12C.",
+        "distanceM": 40,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.072855,
+          4.600331
+        ],
+        "instruction": "Turn left onto Carrera 6.",
+        "distanceM": 119,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073419,
+          4.599418
+        ],
+        "instruction": "Turn right onto Calle 12B.",
+        "distanceM": 114,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.074272,
+          4.59999
+        ],
+        "instruction": "Turn left onto Avenida Carrera 7.",
+        "distanceM": 279,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.075658,
+          4.597903
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.075658,
+          4.597903
+        ],
+        "instruction": "Walk northeast on Avenida Carrera 7.",
+        "distanceM": 53,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.075395,
+          4.598301
+        ],
+        "instruction": "Turn right onto Calle 11.",
+        "distanceM": 47,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.075029,
+          4.598073
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.075029,
+          4.598073
+        ],
+        "instruction": "Walk southeast on Calle 11.",
+        "distanceM": 142,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073941,
+          4.5974
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073941,
+          4.5974
+        ],
+        "instruction": "Walk southeast on Calle 11.",
+        "distanceM": 49,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073555,
+          4.597174
+        ],
+        "instruction": "Turn left onto Carrera 5.",
+        "distanceM": 113,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.073026,
+          4.598037
+        ],
+        "instruction": "Turn right onto Calle 12.",
+        "distanceM": 352,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.070349,
+          4.596329
+        ],
+        "instruction": "Turn left onto Carrera 2.",
+        "distanceM": 98,
+        "type": ""
+      },
+      {
+        "location": [
+          -74.069872,
+          4.597068
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:24:51.448Z"
+    }
+  },
   "cityId": "bogota",
   "category": "Маршрут",
   "title": "Ла-Канделария: золото, площадь и город",

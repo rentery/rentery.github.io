@@ -1,6 +1,850 @@
 [
   {
     "id": "vienna-stephansdom-hofburg-power-core",
+    "routePath": {
+      "coordinates": [
+        [
+          16.373657,
+          48.208563
+        ],
+        [
+          16.373636,
+          48.208681
+        ],
+        [
+          16.372691,
+          48.209066
+        ],
+        [
+          16.37245,
+          48.20881
+        ],
+        [
+          16.372407,
+          48.208766
+        ],
+        [
+          16.372317,
+          48.208676
+        ],
+        [
+          16.37225,
+          48.208705
+        ],
+        [
+          16.372212,
+          48.208702
+        ],
+        [
+          16.372208,
+          48.208672
+        ],
+        [
+          16.372127,
+          48.208596
+        ],
+        [
+          16.372102,
+          48.208573
+        ],
+        [
+          16.372064,
+          48.208564
+        ],
+        [
+          16.371941,
+          48.208444
+        ],
+        [
+          16.371801,
+          48.208474
+        ],
+        [
+          16.371754,
+          48.208406
+        ],
+        [
+          16.371838,
+          48.208383
+        ],
+        [
+          16.371869,
+          48.208374
+        ],
+        [
+          16.37182,
+          48.208261
+        ],
+        [
+          16.371803,
+          48.208196
+        ],
+        [
+          16.37179,
+          48.208114
+        ],
+        [
+          16.371784,
+          48.208077
+        ],
+        [
+          16.371753,
+          48.207896
+        ],
+        [
+          16.371753,
+          48.207896
+        ],
+        [
+          16.371784,
+          48.208077
+        ],
+        [
+          16.371412,
+          48.208143
+        ],
+        [
+          16.371375,
+          48.208166
+        ],
+        [
+          16.371318,
+          48.208178
+        ],
+        [
+          16.371202,
+          48.208201
+        ],
+        [
+          16.371173,
+          48.208191
+        ],
+        [
+          16.371119,
+          48.208201
+        ],
+        [
+          16.37113,
+          48.20823
+        ],
+        [
+          16.371078,
+          48.208243
+        ],
+        [
+          16.370688,
+          48.208323
+        ],
+        [
+          16.370511,
+          48.208385
+        ],
+        [
+          16.37035,
+          48.208463
+        ],
+        [
+          16.369863,
+          48.208761
+        ],
+        [
+          16.369772,
+          48.208816
+        ],
+        [
+          16.369712,
+          48.208773
+        ],
+        [
+          16.369694,
+          48.208714
+        ],
+        [
+          16.369694,
+          48.208714
+        ],
+        [
+          16.369712,
+          48.208773
+        ],
+        [
+          16.369772,
+          48.208816
+        ],
+        [
+          16.369399,
+          48.209063
+        ],
+        [
+          16.369288,
+          48.209133
+        ],
+        [
+          16.369158,
+          48.209215
+        ],
+        [
+          16.368656,
+          48.209537
+        ],
+        [
+          16.368638,
+          48.209572
+        ],
+        [
+          16.368681,
+          48.209613
+        ],
+        [
+          16.368852,
+          48.209694
+        ],
+        [
+          16.36939,
+          48.209911
+        ],
+        [
+          16.36939,
+          48.209911
+        ],
+        [
+          16.369756,
+          48.210059
+        ],
+        [
+          16.369706,
+          48.210084
+        ],
+        [
+          16.369161,
+          48.210376
+        ],
+        [
+          16.369031,
+          48.210443
+        ],
+        [
+          16.368961,
+          48.210472
+        ],
+        [
+          16.368619,
+          48.20997
+        ],
+        [
+          16.368852,
+          48.209694
+        ],
+        [
+          16.368681,
+          48.209613
+        ],
+        [
+          16.368678,
+          48.20961
+        ],
+        [
+          16.368678,
+          48.20961
+        ],
+        [
+          16.368638,
+          48.209572
+        ],
+        [
+          16.368656,
+          48.209537
+        ],
+        [
+          16.368503,
+          48.209419
+        ],
+        [
+          16.367857,
+          48.208954
+        ],
+        [
+          16.3669,
+          48.208261
+        ],
+        [
+          16.366749,
+          48.208145
+        ],
+        [
+          16.36668,
+          48.208176
+        ],
+        [
+          16.366609,
+          48.208193
+        ],
+        [
+          16.366534,
+          48.208198
+        ],
+        [
+          16.366503,
+          48.208199
+        ],
+        [
+          16.366457,
+          48.208194
+        ],
+        [
+          16.366413,
+          48.208184
+        ],
+        [
+          16.366457,
+          48.208123
+        ],
+        [
+          16.366501,
+          48.208076
+        ],
+        [
+          16.366525,
+          48.208029
+        ],
+        [
+          16.366525,
+          48.208029
+        ],
+        [
+          16.366501,
+          48.208076
+        ],
+        [
+          16.366457,
+          48.208123
+        ],
+        [
+          16.366413,
+          48.208184
+        ],
+        [
+          16.366379,
+          48.208174
+        ],
+        [
+          16.366351,
+          48.208163
+        ],
+        [
+          16.366291,
+          48.208129
+        ],
+        [
+          16.366232,
+          48.208068
+        ],
+        [
+          16.366211,
+          48.208024
+        ],
+        [
+          16.366205,
+          48.207968
+        ],
+        [
+          16.36622,
+          48.207916
+        ],
+        [
+          16.366255,
+          48.207865
+        ],
+        [
+          16.366309,
+          48.207822
+        ],
+        [
+          16.366141,
+          48.207809
+        ],
+        [
+          16.366137,
+          48.207807
+        ],
+        [
+          16.365966,
+          48.207704
+        ],
+        [
+          16.365966,
+          48.207704
+        ],
+        [
+          16.365668,
+          48.207525
+        ],
+        [
+          16.365122,
+          48.207168
+        ],
+        [
+          16.36505,
+          48.207121
+        ],
+        [
+          16.364835,
+          48.206993
+        ],
+        [
+          16.364492,
+          48.206841
+        ],
+        [
+          16.36367,
+          48.206351
+        ],
+        [
+          16.363337,
+          48.206595
+        ],
+        [
+          16.363285,
+          48.206573
+        ],
+        [
+          16.363226,
+          48.206563
+        ],
+        [
+          16.363164,
+          48.206566
+        ],
+        [
+          16.363107,
+          48.206582
+        ],
+        [
+          16.363061,
+          48.206608
+        ],
+        [
+          16.363029,
+          48.206644
+        ],
+        [
+          16.363029,
+          48.206644
+        ]
+      ],
+      "maneuvers": [
+        {
+          "location": [
+            16.373657,
+            48.208563
+          ],
+          "instruction": "Walk north on Stephansplatz.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.373636,
+            48.208681
+          ],
+          "instruction": "Turn left to stay on Stephansplatz.",
+          "distanceM": 82,
+          "type": ""
+        },
+        {
+          "location": [
+            16.372691,
+            48.209066
+          ],
+          "instruction": "Turn left to stay on Stephansplatz.",
+          "distanceM": 52,
+          "type": ""
+        },
+        {
+          "location": [
+            16.372317,
+            48.208676
+          ],
+          "instruction": "Turn right to stay on Stephansplatz.",
+          "distanceM": 9,
+          "type": ""
+        },
+        {
+          "location": [
+            16.372212,
+            48.208702
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 3,
+          "type": ""
+        },
+        {
+          "location": [
+            16.372208,
+            48.208672
+          ],
+          "instruction": "Take the escalator to Level -1.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.372102,
+            48.208573
+          ],
+          "instruction": "Bear right onto the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371941,
+            48.208444
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371754,
+            48.208406
+          ],
+          "instruction": "Take the elevator to Level -1.",
+          "distanceM": 9,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371869,
+            48.208374
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.37182,
+            48.208261
+          ],
+          "instruction": "Keep left to take the walkway.",
+          "distanceM": 40,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371753,
+            48.207896
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371753,
+            48.207896
+          ],
+          "instruction": "Walk north on the walkway.",
+          "distanceM": 20,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371784,
+            48.208077
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 29,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371412,
+            48.208143
+          ],
+          "instruction": "Keep right to take the walkway.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371375,
+            48.208166
+          ],
+          "instruction": "Take the escalator to Level 0.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371202,
+            48.208201
+          ],
+          "instruction": "Bear left onto the walkway.",
+          "distanceM": 14,
+          "type": ""
+        },
+        {
+          "location": [
+            16.371078,
+            48.208243
+          ],
+          "instruction": "Keep left to take the walkway.",
+          "distanceM": 118,
+          "type": ""
+        },
+        {
+          "location": [
+            16.369772,
+            48.208816
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.369694,
+            48.208714
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.369694,
+            48.208714
+          ],
+          "instruction": "Walk north on the walkway.",
+          "distanceM": 13,
+          "type": ""
+        },
+        {
+          "location": [
+            16.369772,
+            48.208816
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 114,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368656,
+            48.209537
+          ],
+          "instruction": "Bear right onto Tuchlauben.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368638,
+            48.209572
+          ],
+          "instruction": "Turn right to stay on Tuchlauben.",
+          "distanceM": 67,
+          "type": ""
+        },
+        {
+          "location": [
+            16.36939,
+            48.209911
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.36939,
+            48.209911
+          ],
+          "instruction": "Walk northeast on Tuchlauben.",
+          "distanceM": 31,
+          "type": ""
+        },
+        {
+          "location": [
+            16.369756,
+            48.210059
+          ],
+          "instruction": "Turn left onto Tuchlaubenhof.",
+          "distanceM": 75,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368961,
+            48.210472
+          ],
+          "instruction": "Turn left onto Seitzergasse.",
+          "distanceM": 61,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368619,
+            48.20997
+          ],
+          "instruction": "Turn left onto Bognergasse.",
+          "distanceM": 35,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368852,
+            48.209694
+          ],
+          "instruction": "Turn right onto Tuchlauben.",
+          "distanceM": 15,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368678,
+            48.20961
+          ],
+          "instruction": "You have arrived at your destination.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368678,
+            48.20961
+          ],
+          "instruction": "Walk southwest on Tuchlauben.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368638,
+            48.209572
+          ],
+          "instruction": "Turn left to stay on Tuchlauben.",
+          "distanceM": 4,
+          "type": ""
+        },
+        {
+          "location": [
+            16.368656,
+            48.209537
+          ],
+          "instruction": "Turn right to stay on Tuchlauben.",
+          "distanceM": 210,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366749,
+            48.208145
+          ],
+          "instruction": "Turn right onto Michaelerplatz.",
+          "distanceM": 26,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366413,
+            48.208184
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366525,
+            48.208029
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366525,
+            48.208029
+          ],
+          "instruction": "Walk northwest on the walkway.",
+          "distanceM": 19,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366413,
+            48.208184
+          ],
+          "instruction": "Turn left onto Michaelerplatz.",
+          "distanceM": 49,
+          "type": ""
+        },
+        {
+          "location": [
+            16.366309,
+            48.207822
+          ],
+          "instruction": "Make a sharp right onto the walkway.",
+          "distanceM": 30,
+          "type": ""
+        },
+        {
+          "location": [
+            16.365966,
+            48.207704
+          ],
+          "instruction": "Your destination is on the right.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            16.365966,
+            48.207704
+          ],
+          "instruction": "Walk southwest on the walkway.",
+          "distanceM": 227,
+          "type": ""
+        },
+        {
+          "location": [
+            16.36367,
+            48.206351
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 37,
+          "type": ""
+        },
+        {
+          "location": [
+            16.363337,
+            48.206595
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 27,
+          "type": ""
+        },
+        {
+          "location": [
+            16.363029,
+            48.206644
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        }
+      ],
+      "source": {
+        "engine": "geoapify",
+        "profile": "walk",
+        "generatedAt": "2026-06-18T10:28:20.042Z"
+      }
+    },
     "cityId": "vienna",
     "category": "Район",
     "title": "Стефансдом и Хофбург: центр власти",

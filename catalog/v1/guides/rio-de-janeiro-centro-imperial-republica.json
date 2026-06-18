@@ -1,5 +1,1340 @@
 {
   "id": "rio-de-janeiro-centro-imperial-republica",
+  "routePath": {
+    "coordinates": [
+      [
+        -43.172376,
+        -22.90381
+      ],
+      [
+        -43.172427,
+        -22.903846
+      ],
+      [
+        -43.172496,
+        -22.903749
+      ],
+      [
+        -43.172473,
+        -22.903728
+      ],
+      [
+        -43.172487,
+        -22.903711
+      ],
+      [
+        -43.172503,
+        -22.903693
+      ],
+      [
+        -43.172697,
+        -22.903462
+      ],
+      [
+        -43.172926,
+        -22.903594
+      ],
+      [
+        -43.172951,
+        -22.90361
+      ],
+      [
+        -43.172956,
+        -22.903614
+      ],
+      [
+        -43.172967,
+        -22.903621
+      ],
+      [
+        -43.172967,
+        -22.903621
+      ],
+      [
+        -43.172956,
+        -22.903614
+      ],
+      [
+        -43.172951,
+        -22.90361
+      ],
+      [
+        -43.172926,
+        -22.903594
+      ],
+      [
+        -43.172697,
+        -22.903462
+      ],
+      [
+        -43.17252,
+        -22.903368
+      ],
+      [
+        -43.17252,
+        -22.903368
+      ],
+      [
+        -43.17244,
+        -22.903325
+      ],
+      [
+        -43.172623,
+        -22.903119
+      ],
+      [
+        -43.172767,
+        -22.902965
+      ],
+      [
+        -43.173137,
+        -22.902594
+      ],
+      [
+        -43.173222,
+        -22.9025
+      ],
+      [
+        -43.173425,
+        -22.902259
+      ],
+      [
+        -43.173625,
+        -22.902356
+      ],
+      [
+        -43.173653,
+        -22.902324
+      ],
+      [
+        -43.173671,
+        -22.902302
+      ],
+      [
+        -43.17369,
+        -22.902279
+      ],
+      [
+        -43.173705,
+        -22.902257
+      ],
+      [
+        -43.173798,
+        -22.902122
+      ],
+      [
+        -43.173824,
+        -22.902136
+      ],
+      [
+        -43.173871,
+        -22.902065
+      ],
+      [
+        -43.173917,
+        -22.901997
+      ],
+      [
+        -43.17399,
+        -22.90189
+      ],
+      [
+        -43.17406,
+        -22.901786
+      ],
+      [
+        -43.174109,
+        -22.901713
+      ],
+      [
+        -43.174153,
+        -22.901649
+      ],
+      [
+        -43.174209,
+        -22.901565
+      ],
+      [
+        -43.174247,
+        -22.901509
+      ],
+      [
+        -43.174275,
+        -22.901468
+      ],
+      [
+        -43.174318,
+        -22.901403
+      ],
+      [
+        -43.174364,
+        -22.901336
+      ],
+      [
+        -43.174413,
+        -22.901264
+      ],
+      [
+        -43.174573,
+        -22.901356
+      ],
+      [
+        -43.174706,
+        -22.901433
+      ],
+      [
+        -43.174781,
+        -22.901346
+      ],
+      [
+        -43.174841,
+        -22.901276
+      ],
+      [
+        -43.174895,
+        -22.901212
+      ],
+      [
+        -43.175083,
+        -22.901037
+      ],
+      [
+        -43.175142,
+        -22.900987
+      ],
+      [
+        -43.175363,
+        -22.900799
+      ],
+      [
+        -43.175407,
+        -22.900694
+      ],
+      [
+        -43.17547,
+        -22.900668
+      ],
+      [
+        -43.175517,
+        -22.900624
+      ],
+      [
+        -43.175714,
+        -22.900356
+      ],
+      [
+        -43.175813,
+        -22.900234
+      ],
+      [
+        -43.175934,
+        -22.900077
+      ],
+      [
+        -43.176087,
+        -22.90012
+      ],
+      [
+        -43.176234,
+        -22.900165
+      ],
+      [
+        -43.17634,
+        -22.900054
+      ],
+      [
+        -43.176393,
+        -22.900069
+      ],
+      [
+        -43.17639,
+        -22.899983
+      ],
+      [
+        -43.17639,
+        -22.89996
+      ],
+      [
+        -43.176414,
+        -22.899893
+      ],
+      [
+        -43.176472,
+        -22.899908
+      ],
+      [
+        -43.176575,
+        -22.899644
+      ],
+      [
+        -43.176809,
+        -22.899043
+      ],
+      [
+        -43.177063,
+        -22.899126
+      ],
+      [
+        -43.177243,
+        -22.899185
+      ],
+      [
+        -43.177784,
+        -22.899339
+      ],
+      [
+        -43.177643,
+        -22.899811
+      ],
+      [
+        -43.177643,
+        -22.899811
+      ],
+      [
+        -43.177784,
+        -22.899339
+      ],
+      [
+        -43.177243,
+        -22.899185
+      ],
+      [
+        -43.177063,
+        -22.899126
+      ],
+      [
+        -43.176809,
+        -22.899043
+      ],
+      [
+        -43.176575,
+        -22.899644
+      ],
+      [
+        -43.176472,
+        -22.899908
+      ],
+      [
+        -43.176414,
+        -22.899893
+      ],
+      [
+        -43.17639,
+        -22.89996
+      ],
+      [
+        -43.17639,
+        -22.899983
+      ],
+      [
+        -43.176393,
+        -22.900069
+      ],
+      [
+        -43.176345,
+        -22.900201
+      ],
+      [
+        -43.176278,
+        -22.900387
+      ],
+      [
+        -43.176205,
+        -22.900602
+      ],
+      [
+        -43.176161,
+        -22.900655
+      ],
+      [
+        -43.175894,
+        -22.901284
+      ],
+      [
+        -43.175851,
+        -22.901344
+      ],
+      [
+        -43.175708,
+        -22.901692
+      ],
+      [
+        -43.175839,
+        -22.901753
+      ],
+      [
+        -43.176058,
+        -22.901872
+      ],
+      [
+        -43.176071,
+        -22.901907
+      ],
+      [
+        -43.176076,
+        -22.901942
+      ],
+      [
+        -43.176076,
+        -22.901958
+      ],
+      [
+        -43.176081,
+        -22.901966
+      ],
+      [
+        -43.176122,
+        -22.901988
+      ],
+      [
+        -43.176093,
+        -22.902035
+      ],
+      [
+        -43.17594,
+        -22.902266
+      ],
+      [
+        -43.17594,
+        -22.902266
+      ],
+      [
+        -43.175853,
+        -22.902396
+      ],
+      [
+        -43.175806,
+        -22.902467
+      ],
+      [
+        -43.17576,
+        -22.90253
+      ],
+      [
+        -43.175466,
+        -22.902908
+      ],
+      [
+        -43.175541,
+        -22.902945
+      ],
+      [
+        -43.17612,
+        -22.903273
+      ],
+      [
+        -43.176208,
+        -22.903315
+      ],
+      [
+        -43.1759,
+        -22.903813
+      ],
+      [
+        -43.176543,
+        -22.904185
+      ],
+      [
+        -43.176537,
+        -22.904196
+      ],
+      [
+        -43.176519,
+        -22.904226
+      ],
+      [
+        -43.17648,
+        -22.904292
+      ],
+      [
+        -43.176249,
+        -22.904753
+      ],
+      [
+        -43.176157,
+        -22.90493
+      ],
+      [
+        -43.17613,
+        -22.904981
+      ],
+      [
+        -43.175875,
+        -22.905475
+      ],
+      [
+        -43.175851,
+        -22.905523
+      ],
+      [
+        -43.176168,
+        -22.905771
+      ],
+      [
+        -43.176185,
+        -22.905784
+      ],
+      [
+        -43.176503,
+        -22.906031
+      ],
+      [
+        -43.17655,
+        -22.906065
+      ],
+      [
+        -43.176581,
+        -22.906026
+      ],
+      [
+        -43.176842,
+        -22.905694
+      ],
+      [
+        -43.176842,
+        -22.905694
+      ],
+      [
+        -43.176939,
+        -22.905571
+      ],
+      [
+        -43.176985,
+        -22.905505
+      ],
+      [
+        -43.177217,
+        -22.905644
+      ],
+      [
+        -43.177267,
+        -22.905672
+      ],
+      [
+        -43.177334,
+        -22.905725
+      ],
+      [
+        -43.177369,
+        -22.905741
+      ],
+      [
+        -43.177443,
+        -22.905779
+      ],
+      [
+        -43.177539,
+        -22.905837
+      ],
+      [
+        -43.178254,
+        -22.906253
+      ],
+      [
+        -43.178467,
+        -22.906353
+      ],
+      [
+        -43.178496,
+        -22.906366
+      ],
+      [
+        -43.178606,
+        -22.906363
+      ],
+      [
+        -43.178759,
+        -22.906382
+      ],
+      [
+        -43.178822,
+        -22.90639
+      ],
+      [
+        -43.179473,
+        -22.906484
+      ],
+      [
+        -43.180385,
+        -22.906646
+      ],
+      [
+        -43.180952,
+        -22.906776
+      ],
+      [
+        -43.180936,
+        -22.906834
+      ],
+      [
+        -43.180609,
+        -22.906764
+      ],
+      [
+        -43.180609,
+        -22.906764
+      ],
+      [
+        -43.180936,
+        -22.906834
+      ],
+      [
+        -43.180941,
+        -22.906845
+      ],
+      [
+        -43.18096,
+        -22.906885
+      ],
+      [
+        -43.180738,
+        -22.907504
+      ],
+      [
+        -43.180717,
+        -22.907554
+      ],
+      [
+        -43.180528,
+        -22.907999
+      ],
+      [
+        -43.180549,
+        -22.908028
+      ],
+      [
+        -43.180571,
+        -22.908051
+      ],
+      [
+        -43.180559,
+        -22.908108
+      ],
+      [
+        -43.180536,
+        -22.908185
+      ],
+      [
+        -43.180256,
+        -22.908948
+      ],
+      [
+        -43.180091,
+        -22.908896
+      ],
+      [
+        -43.180072,
+        -22.908934
+      ],
+      [
+        -43.180214,
+        -22.908981
+      ],
+      [
+        -43.180207,
+        -22.908999
+      ],
+      [
+        -43.180199,
+        -22.909019
+      ],
+      [
+        -43.180126,
+        -22.908995
+      ],
+      [
+        -43.18009,
+        -22.909096
+      ],
+      [
+        -43.179363,
+        -22.908853
+      ],
+      [
+        -43.178711,
+        -22.908647
+      ],
+      [
+        -43.178689,
+        -22.908705
+      ],
+      [
+        -43.178544,
+        -22.908662
+      ],
+      [
+        -43.178531,
+        -22.908676
+      ],
+      [
+        -43.178499,
+        -22.90871
+      ],
+      [
+        -43.178404,
+        -22.908677
+      ],
+      [
+        -43.178335,
+        -22.908719
+      ],
+      [
+        -43.178304,
+        -22.908755
+      ],
+      [
+        -43.177933,
+        -22.909423
+      ],
+      [
+        -43.177724,
+        -22.909778
+      ],
+      [
+        -43.177487,
+        -22.910184
+      ],
+      [
+        -43.177464,
+        -22.910227
+      ],
+      [
+        -43.177404,
+        -22.910351
+      ],
+      [
+        -43.177211,
+        -22.910689
+      ],
+      [
+        -43.176596,
+        -22.910342
+      ],
+      [
+        -43.176485,
+        -22.910629
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -43.172376,
+          -22.90381
+        ],
+        "instruction": "Walk southwest.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172427,
+          -22.903846
+        ],
+        "instruction": "Turn right.",
+        "distanceM": 13,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172496,
+          -22.903749
+        ],
+        "instruction": "Turn right onto Praça Marechal Âncora.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172473,
+          -22.903728
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172697,
+          -22.903462
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 31,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172951,
+          -22.90361
+        ],
+        "instruction": "Continue.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172956,
+          -22.903614
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172967,
+          -22.903621
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172967,
+          -22.903621
+        ],
+        "instruction": "Walk northeast on the walkway.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172956,
+          -22.903614
+        ],
+        "instruction": "Continue.",
+        "distanceM": 1,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.172951,
+          -22.90361
+        ],
+        "instruction": "Continue on the walkway.",
+        "distanceM": 51,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17252,
+          -22.903368
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17252,
+          -22.903368
+        ],
+        "instruction": "Walk northeast on the walkway.",
+        "distanceM": 9,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17244,
+          -22.903325
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 157,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.173425,
+          -22.902259
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.173625,
+          -22.902356
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17369,
+          -22.902279
+        ],
+        "instruction": "Continue on Orla da Guanabara Prefeito Luiz Paulo Conde.",
+        "distanceM": 21,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.173798,
+          -22.902122
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.173824,
+          -22.902136
+        ],
+        "instruction": "Turn right onto Orla Prefeito Luiz Paulo Conde.",
+        "distanceM": 149,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.174706,
+          -22.901433
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 109,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.175407,
+          -22.900694
+        ],
+        "instruction": "Keep left to take the walkway.",
+        "distanceM": 87,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.175934,
+          -22.900077
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 32,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176234,
+          -22.900165
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17634,
+          -22.900054
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 6,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176393,
+          -22.900069
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176472,
+          -22.899908
+        ],
+        "instruction": "Turn right onto Rua Visconde de Itaboraí.",
+        "distanceM": 102,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176809,
+          -22.899043
+        ],
+        "instruction": "Turn left onto Rua Visconde de Inhaúma.",
+        "distanceM": 106,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.177784,
+          -22.899339
+        ],
+        "instruction": "Turn left onto Rua Candelária.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.177643,
+          -22.899811
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.177643,
+          -22.899811
+        ],
+        "instruction": "Walk north on Rua Candelária.",
+        "distanceM": 54,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.177784,
+          -22.899339
+        ],
+        "instruction": "Turn right onto Rua Visconde de Inhaúma.",
+        "distanceM": 106,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176809,
+          -22.899043
+        ],
+        "instruction": "Turn right onto Rua Visconde de Itaboraí.",
+        "distanceM": 102,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176472,
+          -22.899908
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 26,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176393,
+          -22.900069
+        ],
+        "instruction": "Continue on Rua Visconde de Itaboraí.",
+        "distanceM": 194,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.175708,
+          -22.901692
+        ],
+        "instruction": "Turn right onto Rua do Rosário.",
+        "distanceM": 57,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176122,
+          -22.901988
+        ],
+        "instruction": "Turn left onto Rua Primeiro de Março.",
+        "distanceM": 36,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17594,
+          -22.902266
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17594,
+          -22.902266
+        ],
+        "instruction": "Walk southeast on Rua Primeiro de Março.",
+        "distanceM": 86,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.175466,
+          -22.902908
+        ],
+        "instruction": "Turn right onto Beco dos Barbeiros.",
+        "distanceM": 89,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176208,
+          -22.903315
+        ],
+        "instruction": "Turn left onto Rua do Carmo.",
+        "distanceM": 64,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.1759,
+          -22.903813
+        ],
+        "instruction": "Turn right onto Rua Sete de Setembro.",
+        "distanceM": 78,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176543,
+          -22.904185
+        ],
+        "instruction": "Turn left onto Rua da Quitanda.",
+        "distanceM": 164,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.175851,
+          -22.905523
+        ],
+        "instruction": "Turn right onto Rua São José.",
+        "distanceM": 94,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.17655,
+          -22.906065
+        ],
+        "instruction": "Turn right onto Rua Rodrigo Silva.",
+        "distanceM": 50,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176842,
+          -22.905694
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176842,
+          -22.905694
+        ],
+        "instruction": "Walk northwest on Rua Rodrigo Silva.",
+        "distanceM": 25,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176985,
+          -22.905505
+        ],
+        "instruction": "Turn left onto Rua da Assembléia.",
+        "distanceM": 182,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.178496,
+          -22.906366
+        ],
+        "instruction": "Bear right onto Avenida Nilo Peçanha.",
+        "distanceM": 256,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180952,
+          -22.906776
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 7,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180936,
+          -22.906834
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180609,
+          -22.906764
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180609,
+          -22.906764
+        ],
+        "instruction": "Walk west on the walkway.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180936,
+          -22.906834
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 142,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180549,
+          -22.908028
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180571,
+          -22.908051
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 106,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180256,
+          -22.908948
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 18,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180091,
+          -22.908896
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 5,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180072,
+          -22.908934
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 15,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180214,
+          -22.908981
+        ],
+        "instruction": "Turn left onto the walkway.",
+        "distanceM": 4,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180199,
+          -22.909019
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.180126,
+          -22.908995
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.18009,
+          -22.909096
+        ],
+        "instruction": "Turn left onto Avenida República do Chile.",
+        "distanceM": 150,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.178711,
+          -22.908647
+        ],
+        "instruction": "Turn right onto the walkway.",
+        "distanceM": 30,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.178499,
+          -22.90871
+        ],
+        "instruction": "Turn left onto Avenida República do Chile.",
+        "distanceM": 10,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.178404,
+          -22.908677
+        ],
+        "instruction": "Turn right onto Rua Senador Dantas.",
+        "distanceM": 257,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.177211,
+          -22.910689
+        ],
+        "instruction": "Turn left onto Rua Alcindo Guanabara.",
+        "distanceM": 74,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176596,
+          -22.910342
+        ],
+        "instruction": "Turn right onto Rua Álvaro Alvim.",
+        "distanceM": 33,
+        "type": ""
+      },
+      {
+        "location": [
+          -43.176485,
+          -22.910629
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-18T10:26:36.925Z"
+    }
+  },
   "cityId": "rio-de-janeiro",
   "category": "Маршрут",
   "title": "Центр: империя, республика и городские",
