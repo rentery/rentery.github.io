@@ -1254,11 +1254,12 @@
     "id": "mexico-city",
     "slug": "mexico-city",
     "title": "Мехико",
-    "subtitle": "Мехико · 1 маршрут · 4 скоро",
-    "meta": "Мексика · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мехико · 2 маршрута · 3 скоро",
+    "meta": "Мексика · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "mexico-city-centro-tenochtitlan-layers"
+      "mexico-city-centro-tenochtitlan-layers",
+      "mexico-city-chapultepec-memory-forest"
     ],
     "countryId": "mexico",
     "photo": {
@@ -1282,11 +1283,12 @@
     "id": "milan",
     "slug": "milan",
     "title": "Милан",
-    "subtitle": "Милан · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Милан · 2 маршрута · 3 скоро",
+    "meta": "Италия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "milan-duomo-scala-brera-stage"
+      "milan-duomo-scala-brera-stage",
+      "milan-leonardo-sforza-renaissance-line"
     ],
     "countryId": "italy",
     "photo": {
@@ -1310,11 +1312,12 @@
     "id": "montreal",
     "slug": "montreal",
     "title": "Монреаль",
-    "subtitle": "Монреаль · 1 маршрут · 4 скоро",
-    "meta": "Канада · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Монреаль · 2 маршрута · 3 скоро",
+    "meta": "Канада · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "montreal-old-montreal-port-foundation"
+      "montreal-old-montreal-port-foundation",
+      "montreal-mount-royal-golden-square-mile"
     ],
     "countryId": "canada",
     "photo": {
@@ -1338,11 +1341,12 @@
     "id": "mumbai",
     "slug": "mumbai",
     "title": "Мумбаи",
-    "subtitle": "Мумбаи · 1 маршрут · 4 скоро",
-    "meta": "Индия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мумбаи · 2 маршрута · 3 скоро",
+    "meta": "Индия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "mumbai-fort-gateway-port-city"
+      "mumbai-fort-gateway-port-city",
+      "mumbai-oval-maidan-art-deco-gothic"
     ],
     "countryId": "india",
     "photo": {
@@ -1366,11 +1370,12 @@
     "id": "munich",
     "slug": "munich",
     "title": "Мюнхен",
-    "subtitle": "Мюнхен · 1 маршрут · 4 скоро",
-    "meta": "Германия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мюнхен · 2 маршрута · 3 скоро",
+    "meta": "Германия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "munich-altstadt-marienplatz-residenz"
+      "munich-altstadt-marienplatz-residenz",
+      "munich-nymphenburg-palace-park"
     ],
     "countryId": "germany",
     "photo": {
@@ -1394,11 +1399,12 @@
     "id": "naples",
     "slug": "naples",
     "title": "Неаполь",
-    "subtitle": "Неаполь · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Неаполь · 2 маршрута · 3 скоро",
+    "meta": "Италия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "naples-spaccanapoli-decumani-layers"
+      "naples-spaccanapoli-decumani-layers",
+      "naples-via-toledo-quartieri-spagnoli"
     ],
     "countryId": "italy",
     "photo": {
@@ -2331,11 +2337,12 @@
     "id": "marrakesh",
     "slug": "marrakesh",
     "title": "Марракеш",
-    "subtitle": "Марракеш · 1 маршрут · 4 скоро",
-    "meta": "Марокко · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Марракеш · 2 маршрута · 3 скоро",
+    "meta": "Марокко · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "marrakesh-jemaa-koutoubia-souks-stage"
+      "marrakesh-jemaa-koutoubia-souks-stage",
+      "marrakesh-kasbah-palaces-power"
     ],
     "countryId": "morocco",
     "photo": {
@@ -2359,11 +2366,12 @@
     "id": "marseille",
     "slug": "marseille",
     "title": "Марсель",
-    "subtitle": "Марсель · 1 маршрут · 4 скоро",
-    "meta": "Франция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Марсель · 2 маршрута · 3 скоро",
+    "meta": "Франция · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "marseille-vieux-port-panier-mucem"
+      "marseille-vieux-port-panier-mucem",
+      "marseille-bonne-mere-vallon-des-auffes"
     ],
     "countryId": "france",
     "photo": {
@@ -2387,11 +2395,12 @@
     "id": "melbourne",
     "slug": "melbourne",
     "title": "Мельбурн",
-    "subtitle": "Мельбурн · 1 маршрут · 4 скоро",
-    "meta": "Австралия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мельбурн · 2 маршрута · 3 скоро",
+    "meta": "Австралия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "melbourne-laneways-arcades-cbd"
+      "melbourne-laneways-arcades-cbd",
+      "melbourne-birrarung-aboriginal-river-edge"
     ],
     "countryId": "australia",
     "photo": {

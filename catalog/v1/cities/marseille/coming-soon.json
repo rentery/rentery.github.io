@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "С высоты базилики Марсель раскрывается вниз: крыши, бухты, лодки и дорога вдоль моря.",
-    "cityId": "marseille",
-    "dayTrip": false,
-    "id": "marseille-bonne-mere-vallon-des-auffes",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Нотр-Дам-де-ла-Гард, Вобан, Рукас-Блан, Корниш, Валлон-де-Оф.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Спуск от главного силуэта Марселя к рыбацкой бухте и Корниш.",
-    "title": "От Доброй Матери к Валлон-де-Оф: город над морем",
-    "walkType": "viewpoints"
-  },
-  {
     "blurb": "Рынок Ноай и стены Кур-Жюльен показывают Марсель как город запахов, языков и быстрых перемен.",
     "cityId": "marseille",
     "dayTrip": false,

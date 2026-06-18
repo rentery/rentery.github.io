@@ -65,7 +65,7 @@
       "packPath": "cities/edinburgh/offline-pack.json"
     },
     "dubai": {
-      "packHash": "1c54b839a299",
+      "packHash": "b2ee088ebb81",
       "packPath": "cities/dubai/offline-pack.json"
     },
     "delhi": {
@@ -169,27 +169,27 @@
       "packPath": "cities/ho-chi-minh-city/offline-pack.json"
     },
     "mexico-city": {
-      "packHash": "d54573042dca",
+      "packHash": "2b53f0573061",
       "packPath": "cities/mexico-city/offline-pack.json"
     },
     "milan": {
-      "packHash": "03848dcdfcad",
+      "packHash": "4413a7d3a395",
       "packPath": "cities/milan/offline-pack.json"
     },
     "montreal": {
-      "packHash": "39093a8f5192",
+      "packHash": "edaeef2ca653",
       "packPath": "cities/montreal/offline-pack.json"
     },
     "mumbai": {
-      "packHash": "940de4832f06",
+      "packHash": "b155c4658ce6",
       "packPath": "cities/mumbai/offline-pack.json"
     },
     "munich": {
-      "packHash": "5827e29b595d",
+      "packHash": "f3cf23b68e6d",
       "packPath": "cities/munich/offline-pack.json"
     },
     "naples": {
-      "packHash": "f9612633dd2c",
+      "packHash": "fc3b1da1c733",
       "packPath": "cities/naples/offline-pack.json"
     },
     "new-orleans": {
@@ -321,19 +321,19 @@
       "packPath": "cities/madrid/offline-pack.json"
     },
     "marrakesh": {
-      "packHash": "00d441e3b547",
+      "packHash": "2ebc4a6c6b64",
       "packPath": "cities/marrakesh/offline-pack.json"
     },
     "marseille": {
-      "packHash": "ad8773def327",
+      "packHash": "614dd0b6bed8",
       "packPath": "cities/marseille/offline-pack.json"
     },
     "melbourne": {
-      "packHash": "87c51631afbf",
+      "packHash": "279aea4d8de6",
       "packPath": "cities/melbourne/offline-pack.json"
     },
     "shanghai": {
-      "packHash": "138648a89b66",
+      "packHash": "65d8bfe3ebe1",
       "packPath": "cities/shanghai/offline-pack.json"
     },
     "singapore": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-18T11:55:12.483Z",
+  "generatedAt": "2026-06-18T14:03:36.084Z",
   "locale": "ru",
   "schemaVersion": 1
 }

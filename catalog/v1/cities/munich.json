@@ -2,11 +2,12 @@
   "id": "munich",
   "slug": "munich",
   "title": "Мюнхен",
-  "subtitle": "Мюнхен · 1 маршрут · 4 скоро",
-  "meta": "Германия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Мюнхен · 2 маршрута · 3 скоро",
+  "meta": "Германия · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "munich-altstadt-marienplatz-residenz"
+    "munich-altstadt-marienplatz-residenz",
+    "munich-nymphenburg-palace-park"
   ],
   "countryId": "germany",
   "photo": {

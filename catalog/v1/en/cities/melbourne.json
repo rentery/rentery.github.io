@@ -2,11 +2,12 @@
   "id": "melbourne",
   "slug": "melbourne",
   "title": "Мельбурн",
-  "subtitle": "Мельбурн · 1 маршрут · 4 скоро",
-  "meta": "Австралия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Мельбурн · 2 маршрута · 3 скоро",
+  "meta": "Австралия · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "melbourne-laneways-arcades-cbd"
+    "melbourne-laneways-arcades-cbd",
+    "melbourne-birrarung-aboriginal-river-edge"
   ],
   "countryId": "australia",
   "photo": {
