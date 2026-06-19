@@ -1329,10 +1329,10 @@
       },
       "cityId": "berlin",
       "category": "Маршрут",
-      "title": "Бранденбургские ворота и новый центр: в…",
-      "subtitle": "Короткая ось по Берлину, где парламент, граница, мемориал и новая деловая витрина спорят друг с другом на расстоянии…",
+      "title": "Бранденбургские ворота и новый центр: власть, память, пустоты",
+      "subtitle": "Маршрут для первой, но не поверхностной встречи с центральным Берлином. Здесь город не раскладывается на открытки. Он собирается из несовместимых слоев: имперского фасада, нацистского разрыва, пространства памяти Холокоста, пустоты бывшей границы и нового центра, выросшего там, где еще недавно был городской обрыв.",
       "blurb": "Маршрут для первой, но не поверхностной встречи с центральным Берлином. Здесь город не раскладывается на открытки.",
-      "mood": "власть память граница пустота послевоенное переизобре…",
+      "mood": "власть, память, граница, пустота",
       "accent": "#3398A3",
       "soft": "#E3F1F2",
       "deep": "#236E76",
@@ -1532,8 +1532,8 @@
         },
         {
           "entry": "снаружи",
-          "name": "Niederkirchnerstraße, остаток с…",
-          "note": "Сначала здесь планировали террор, потом вдоль него провели гран…",
+          "name": "Niederkirchnerstraße, остаток стены и Topographie des Terrors",
+          "note": "Сначала здесь планировали террор, потом вдоль него провели границу.",
           "time": "30 мин",
           "walk": "5 мин",
           "content": {
@@ -1557,7 +1557,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-wide.jpg",
             "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-square.jpg",
-            "alt": "Niederkirchnerstraße, остаток с…",
+            "alt": "Niederkirchnerstraße, остаток стены и Topographie des Terrors",
             "attribution": {
               "author": "Ank Kumar",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -3632,8 +3632,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Niederkirchnerstraße, остаток с…",
-      "note": "Сначала здесь планировали террор, потом вдоль него провели гран…",
+      "name": "Niederkirchnerstraße, остаток стены и Topographie des Terrors",
+      "note": "Сначала здесь планировали террор, потом вдоль него провели границу.",
       "time": "30 мин",
       "walk": "5 мин",
       "content": {
@@ -3657,7 +3657,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-square.jpg",
-        "alt": "Niederkirchnerstraße, остаток с…",
+        "alt": "Niederkirchnerstraße, остаток стены и Topographie des Terrors",
         "attribution": {
           "author": "Ank Kumar",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -4051,5 +4051,5 @@
       ]
     }
   ],
-  "packHash": "4edc25c18a9c"
+  "packHash": "9e85371d8646"
 }

@@ -706,7 +706,7 @@
         }
       ],
       "cover": {
-        "id": "cover-generated",
+        "id": "riga-old-town-hanseatic-layers-cover",
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/riga/cover-generated-wide.jpg",
         "square": "https://rentery.github.io/images/v1/riga/cover-generated-square.jpg",
@@ -872,5 +872,5 @@
       }
     }
   ],
-  "packHash": "46351e61acea"
+  "packHash": "bed1b3ebc0fd"
 }

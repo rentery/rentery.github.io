@@ -1675,7 +1675,7 @@
         },
         {
           "entry": "снаружи",
-          "name": "Lawnmarket: Gladstone’s Land и",
+          "name": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
           "nameLocal": "Lawnmarket, Gladstone’s Land and Lady Sta",
           "note": "Здесь улица перестаёт быть просто осью и становится плотной жил",
           "time": "20 мин",
@@ -1710,7 +1710,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-royal-mile-power-and-closes-stop-2-wide.jpg",
             "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-royal-mile-power-and-closes-stop-2-square.jpg",
-            "alt": "Lawnmarket: Gladstone’s Land и",
+            "alt": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
             "attribution": {
               "author": "Kim Traynor",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -3884,7 +3884,7 @@
     },
     {
       "entry": "снаружи",
-      "name": "Lawnmarket: Gladstone’s Land и",
+      "name": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
       "nameLocal": "Lawnmarket, Gladstone’s Land and Lady Sta",
       "note": "Здесь улица перестаёт быть просто осью и становится плотной жил",
       "time": "20 мин",
@@ -3919,7 +3919,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/edinburgh/edinburgh-royal-mile-power-and-closes-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/edinburgh/edinburgh-royal-mile-power-and-closes-stop-2-square.jpg",
-        "alt": "Lawnmarket: Gladstone’s Land и",
+        "alt": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
         "attribution": {
           "author": "Kim Traynor",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -4635,5 +4635,5 @@
       }
     }
   ],
-  "packHash": "843a19948119"
+  "packHash": "4125db4d2cca"
 }

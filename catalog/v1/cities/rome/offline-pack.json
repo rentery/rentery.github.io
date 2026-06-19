@@ -2023,7 +2023,7 @@
           "guideId": "rome-capitol-forums-layers",
           "order": 5,
           "entry": "по месту",
-          "name": "Виа Сакра, священный ритм и",
+          "name": "Виа Сакра, священный ритм и Арка Тита",
           "note": "Священная дорога умеет быть жесткой",
           "time": "2 ч",
           "walk": "5 мин",
@@ -2048,7 +2048,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/rome/rome-capitol-forums-layers-stop-5-wide.jpg",
             "square": "https://rentery.github.io/images/v1/rome/rome-capitol-forums-layers-stop-5-square.jpg",
-            "alt": "Виа Сакра, священный ритм и",
+            "alt": "Виа Сакра, священный ритм и Арка Тита",
             "attribution": {
               "author": "Sonse",
               "license": "CC BY 2.0; cropped/resized for app",
@@ -2287,7 +2287,7 @@
       "guideId": "rome-capitol-forums-layers",
       "order": 5,
       "entry": "по месту",
-      "name": "Виа Сакра, священный ритм и",
+      "name": "Виа Сакра, священный ритм и Арка Тита",
       "note": "Священная дорога умеет быть жесткой",
       "time": "2 ч",
       "walk": "5 мин",
@@ -2312,7 +2312,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/rome/rome-capitol-forums-layers-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/rome/rome-capitol-forums-layers-stop-5-square.jpg",
-        "alt": "Виа Сакра, священный ритм и",
+        "alt": "Виа Сакра, священный ритм и Арка Тита",
         "attribution": {
           "author": "Sonse",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -2387,5 +2387,5 @@
       }
     }
   ],
-  "packHash": "49d05706540f"
+  "packHash": "03e291760ef7"
 }

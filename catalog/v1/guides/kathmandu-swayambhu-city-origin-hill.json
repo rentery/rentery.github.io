@@ -1,5 +1,372 @@
 {
   "id": "kathmandu-swayambhu-city-origin-hill",
+  "routePath": {
+    "coordinates": [
+      [
+        85.291115,
+        27.713375
+      ],
+      [
+        85.29114,
+        27.713383
+      ],
+      [
+        85.291425,
+        27.71348
+      ],
+      [
+        85.291531,
+        27.713517
+      ],
+      [
+        85.291961,
+        27.71362
+      ],
+      [
+        85.292349,
+        27.713726
+      ],
+      [
+        85.292724,
+        27.71382
+      ],
+      [
+        85.292952,
+        27.71394
+      ],
+      [
+        85.292947,
+        27.713949
+      ],
+      [
+        85.292745,
+        27.714363
+      ],
+      [
+        85.292415,
+        27.714426
+      ],
+      [
+        85.2921,
+        27.714491
+      ],
+      [
+        85.29179,
+        27.714567
+      ],
+      [
+        85.291698,
+        27.714692
+      ],
+      [
+        85.291617,
+        27.714726
+      ],
+      [
+        85.291598,
+        27.714734
+      ],
+      [
+        85.291519,
+        27.714766
+      ],
+      [
+        85.291394,
+        27.714781
+      ],
+      [
+        85.290974,
+        27.714833
+      ],
+      [
+        85.290747,
+        27.714869
+      ],
+      [
+        85.290683,
+        27.714882
+      ],
+      [
+        85.290545,
+        27.71491
+      ],
+      [
+        85.290545,
+        27.714947
+      ],
+      [
+        85.290533,
+        27.714982
+      ],
+      [
+        85.290533,
+        27.714982
+      ],
+      [
+        85.290533,
+        27.714982
+      ],
+      [
+        85.290516,
+        27.715008
+      ],
+      [
+        85.290516,
+        27.715008
+      ],
+      [
+        85.290533,
+        27.714982
+      ],
+      [
+        85.290545,
+        27.714947
+      ],
+      [
+        85.290545,
+        27.71491
+      ],
+      [
+        85.290545,
+        27.71491
+      ],
+      [
+        85.290531,
+        27.714868
+      ],
+      [
+        85.290504,
+        27.714832
+      ],
+      [
+        85.290465,
+        27.714805
+      ],
+      [
+        85.290419,
+        27.71479
+      ],
+      [
+        85.29037,
+        27.714788
+      ],
+      [
+        85.290323,
+        27.7148
+      ],
+      [
+        85.290282,
+        27.714824
+      ],
+      [
+        85.290251,
+        27.714858
+      ],
+      [
+        85.290234,
+        27.714899
+      ],
+      [
+        85.290232,
+        27.714819
+      ],
+      [
+        85.290202,
+        27.714798
+      ],
+      [
+        85.290202,
+        27.714798
+      ],
+      [
+        85.290184,
+        27.714785
+      ],
+      [
+        85.290075,
+        27.714733
+      ],
+      [
+        85.290006,
+        27.714767
+      ],
+      [
+        85.289925,
+        27.71488
+      ],
+      [
+        85.289826,
+        27.714999
+      ],
+      [
+        85.289797,
+        27.715035
+      ],
+      [
+        85.289797,
+        27.715035
+      ],
+      [
+        85.289703,
+        27.715153
+      ],
+      [
+        85.289683,
+        27.715194
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          85.291115,
+          27.713375
+        ],
+        "instruction": "Walk east.",
+        "distanceM": 192,
+        "type": ""
+      },
+      {
+        "location": [
+          85.292952,
+          27.71394
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 280,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290545,
+          27.71491
+        ],
+        "instruction": "Turn right.",
+        "distanceM": 8,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290533,
+          27.714982
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290533,
+          27.714982
+        ],
+        "instruction": "Walk northwest.",
+        "distanceM": 3,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290516,
+          27.715008
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290516,
+          27.715008
+        ],
+        "instruction": "Walk south.",
+        "distanceM": 11,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290545,
+          27.71491
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290545,
+          27.71491
+        ],
+        "instruction": "Walk south.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290234,
+          27.714899
+        ],
+        "instruction": "Make a sharp left.",
+        "distanceM": 12,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290202,
+          27.714798
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290202,
+          27.714798
+        ],
+        "instruction": "Walk southwest.",
+        "distanceM": 14,
+        "type": ""
+      },
+      {
+        "location": [
+          85.290075,
+          27.714733
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 43,
+        "type": ""
+      },
+      {
+        "location": [
+          85.289797,
+          27.715035
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          85.289797,
+          27.715035
+        ],
+        "instruction": "Take the stairs.",
+        "distanceM": 20,
+        "type": ""
+      },
+      {
+        "location": [
+          85.289683,
+          27.715194
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-19T18:55:34.005Z"
+    }
+  },
   "cityId": "kathmandu",
   "category": "Район",
   "title": "Сваямбху: холм, с которого начинается долина",
@@ -304,7 +671,7 @@
     }
   ],
   "cover": {
-    "id": "cover",
+    "id": "kathmandu-swayambhu-city-origin-hill-cover",
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/kathmandu/kathmandu-swayambhu-city-origin-hill-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/kathmandu/kathmandu-swayambhu-city-origin-hill-cover-square.jpg",

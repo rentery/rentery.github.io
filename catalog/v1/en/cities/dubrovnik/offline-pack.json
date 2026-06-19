@@ -1271,7 +1271,7 @@
       "title": "Внутри стен: Дубровник как республика",
       "subtitle": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей.",
       "blurb": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей. Она идёт за тем, как Дубровник объяснял сам себя, когда был республикой.",
-      "mood": "город как политическое устройство порог и контроль во…",
+      "mood": "порог и контроль, торговля, порядок, память",
       "accent": "#33A36F",
       "soft": "#E3F2EB",
       "deep": "#23764F",
@@ -1510,7 +1510,7 @@
         },
         {
           "entry": "снаружи",
-          "name": "Кафедральный собор Вознесения Б…",
+          "name": "Кафедральный собор Вознесения Богородицы",
           "note": "Память города говорит тише",
           "time": "15 мин",
           "walk": "5 мин",
@@ -1535,7 +1535,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-wide.jpg",
             "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-square.jpg",
-            "alt": "Кафедральный собор Вознесения Б…",
+            "alt": "Кафедральный собор Вознесения Богородицы",
             "attribution": {
               "author": "Joanbanjo",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -2102,7 +2102,7 @@
     },
     {
       "entry": "снаружи",
-      "name": "Кафедральный собор Вознесения Б…",
+      "name": "Кафедральный собор Вознесения Богородицы",
       "note": "Память города говорит тише",
       "time": "15 мин",
       "walk": "5 мин",
@@ -2127,7 +2127,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-square.jpg",
-        "alt": "Кафедральный собор Вознесения Б…",
+        "alt": "Кафедральный собор Вознесения Богородицы",
         "attribution": {
           "author": "Joanbanjo",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -2452,5 +2452,5 @@
       }
     }
   ],
-  "packHash": "d233ca7418cb"
+  "packHash": "92645521746f"
 }

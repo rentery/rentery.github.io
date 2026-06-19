@@ -1014,10 +1014,10 @@
   },
   "cityId": "auckland",
   "category": "Маршрут",
-  "title": "Набережная и Бритомарт: город у Waitema…",
+  "title": "Набережная и Бритомарт: город у Waitematā",
   "subtitle": "Эта прогулка идет не вдоль воды как по открытке, а вдоль границы между сушей и тем, что когда-то было морем.",
   "blurb": "Эта прогулка идет не вдоль воды как по открытке, а вдоль границы между сушей и тем, что когда-то было морем.",
-  "mood": "Waitematā Harbour насыпная земля порт и паромы железн…",
+  "mood": "Waitematā Harbour, порт, паромы, железная дорога",
   "accent": "#7C33A3",
   "soft": "#EDE3F2",
   "deep": "#592376",
@@ -1061,7 +1061,7 @@
   "stopList": [
     {
       "entry": "Открытая городская площадь и вестибюль транспортного узла",
-      "name": "Те Комититанга и бывший Главпоч…",
+      "name": "Те Комититанга и бывший Главпочтамт",
       "note": "Море здесь спрятано под городом",
       "time": "10 мин",
       "walk": "5 мин",
@@ -1086,7 +1086,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-stop-1-square.jpg",
-        "alt": "Те Комититанга и бывший Главпоч…",
+        "alt": "Те Комититанга и бывший Главпочтамт",
         "attribution": {
           "author": "Ingolfson at English Wikipedia",
           "license": "Public domain (self-released); cropped/resized for app",
@@ -1100,7 +1100,7 @@
     },
     {
       "entry": "Наружный осмотр у терминала и фасада здания",
-      "name": "Ferry Building и городской поро…",
+      "name": "Ferry Building и городской порог у воды",
       "note": "Здесь Waitematā работает как улица",
       "time": "8 мин",
       "walk": "5 мин",
@@ -1125,7 +1125,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-stop-2-square.jpg",
-        "alt": "Ferry Building и городской поро…",
+        "alt": "Ferry Building и городской порог у воды",
         "attribution": {
           "author": "Ingolfson",
           "license": "Public domain (self-released); cropped/resized for app",
