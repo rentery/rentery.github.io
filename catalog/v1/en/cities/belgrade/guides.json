@@ -2021,7 +2021,7 @@
     "soft": "#EAE2D3",
     "deep": "#54402D",
     "ink": "#463728",
-    "motif": "ridge",
+    "motif": "axis",
     "duration": "2 hr 30 min",
     "stops": 7,
     "distance": "3.8 km",
@@ -2032,16 +2032,22 @@
       "line": "First the square, then the ridge, then the edge above two rivers."
     },
     "cover": {
-      "id": "belgrade-fortress-rivers-first-city-stop-5",
-      "kind": "photo",
-      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-stop-5-square.jpg",
-      "alt": "Силуэт Победника на вершине крепости.",
-      "attribution": {
-        "author": "Sasa Micic",
-        "license": "CC BY-SA 3.0; cropped/resized for app",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pobednik_Beograda.JPG",
-        "retrievedAt": "2026-06-13"
+      "id": "belgrade-fortress-rivers-first-city-cover",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-cover-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/belgrade/belgrade-fortress-rivers-first-city-cover-square.jpg",
+      "alt": "Сгенерированная editorial-обложка маршрута: стены Белградской крепости, дорожка по валу и вид на реки.",
+      "blurhash": "LgFYooRPs8xZ.TIpWBR-p0SibHjs",
+      "metadata": {
+        "centralLuminance": 0.4405,
+        "wide": {
+          "height": 1067,
+          "width": 1600
+        },
+        "square": {
+          "height": 1000,
+          "width": 1000
+        }
       }
     },
     "basemap": {

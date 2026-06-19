@@ -1143,7 +1143,7 @@
       "soft": "#E4EEE9",
       "deep": "#21514D",
       "ink": "#173A38",
-      "motif": "lane",
+      "motif": "axis",
       "duration": "2 ч 15 мин",
       "stops": 7,
       "distance": "2.1 км",
@@ -2741,5 +2741,5 @@
       }
     }
   ],
-  "packHash": "cc2df461c4ad"
+  "packHash": "a1575c6dfb78"
 }

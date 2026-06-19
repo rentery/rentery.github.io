@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "c1b134b14023",
+      "packHash": "3206e0c46c08",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -41,7 +41,7 @@
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
-      "packHash": "f79f6833f316",
+      "packHash": "eada7a22d113",
       "packPath": "cities/charleston-sc/offline-pack.json"
     },
     "chicago": {
@@ -93,7 +93,7 @@
       "packPath": "cities/fes/offline-pack.json"
     },
     "george-town-malaysia": {
-      "packHash": "4fa2ac64d934",
+      "packHash": "758696eb6750",
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
@@ -109,7 +109,7 @@
       "packPath": "cities/bangkok/offline-pack.json"
     },
     "barcelona": {
-      "packHash": "b962087a7f0c",
+      "packHash": "11325b84e884",
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
@@ -133,7 +133,7 @@
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "32d020570160",
+      "packHash": "9fe10fa195a5",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
@@ -185,7 +185,7 @@
       "packPath": "cities/mumbai/offline-pack.json"
     },
     "munich": {
-      "packHash": "f3cf23b68e6d",
+      "packHash": "d3771618be9d",
       "packPath": "cities/munich/offline-pack.json"
     },
     "naples": {
@@ -285,7 +285,7 @@
       "packPath": "cities/kathmandu/offline-pack.json"
     },
     "krakow": {
-      "packHash": "f9f1540c3039",
+      "packHash": "c19eab7a2262",
       "packPath": "cities/krakow/offline-pack.json"
     },
     "kuala-lumpur": {
@@ -317,7 +317,7 @@
       "packPath": "cities/macao/offline-pack.json"
     },
     "madrid": {
-      "packHash": "40be3ce2cdc1",
+      "packHash": "8ee28e58b51a",
       "packPath": "cities/madrid/offline-pack.json"
     },
     "marrakesh": {
@@ -401,7 +401,7 @@
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
-      "packHash": "1555bef18b16",
+      "packHash": "ce49000614fb",
       "packPath": "cities/xian/offline-pack.json"
     },
     "zurich": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-18T16:01:16.194Z",
+  "generatedAt": "2026-06-19T16:14:40.642Z",
   "locale": "ru",
   "schemaVersion": 1
 }
