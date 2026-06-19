@@ -3130,8 +3130,8 @@
   "stopList": [
     {
       "entry": "снаружи",
-      "name": "Аль-Фахиди: вход в квартал ветр",
-      "note": "Поймайте тень барджиля, прежде чем смотреть по сторонам",
+      "name": "Аль-Фахиди: вход в квартал ветровых башен",
+      "note": "Поймайте тень барджиля, прежде чем смотреть по сторонам.",
       "time": "18 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3169,8 +3169,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Дом 26 SMCCU: двор, где старый",
-      "note": "Это не просто красивый двор, а место разговора",
+      "name": "Дом 26 SMCCU: двор, где старый Дубай начинает говорить",
+      "note": "Это не просто красивый двор, а место разговора.",
       "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3208,8 +3208,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Текстильный рынок: ткань как пе",
-      "note": "Смотрите не на сувениры, а на саму логику показа товара",
+      "name": "Текстильный рынок: ткань как первый язык торговли",
+      "note": "Смотрите не на сувениры, а на саму логику показа товара.",
       "time": "20 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3247,8 +3247,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Bur Dubai Old Souk Abra Station",
-      "note": "Здесь прогулка садится в лодку",
+      "name": "Bur Dubai Old Souk Abra Station: вода как общественный транспорт и сюжет",
+      "note": "Здесь прогулка садится в лодку.",
       "time": "12 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3286,8 +3286,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Высадка в Дейре: другой ритм то",
-      "note": "Один берег продаёт ткань, другой — аромат и металл",
+      "name": "Высадка в Дейре: другой ритм того же города",
+      "note": "Один берег продаёт ткань, другой — аромат и металл.",
       "time": "10 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3308,12 +3308,25 @@
       },
       "id": "dubai-creek-al-fahidi-deira-souks-5",
       "guideId": "dubai-creek-al-fahidi-deira-souks",
-      "order": 5
+      "order": 5,
+      "photo": {
+        "id": "dubai-creek-al-fahidi-deira-souks-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-5-square.jpg",
+        "alt": "Высадка в Дейре: другой ритм того же города",
+        "attribution": {
+          "author": "Iwona Rege",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deira_Old_Souq.jpg",
+          "retrievedAt": "2026-06-19"
+        }
+      }
     },
     {
       "entry": "снаружи",
-      "name": "Spice Souk: рынок, который снач",
-      "note": "Сначала вдохните, потом читайте ценник",
+      "name": "Spice Souk: рынок, который сначала объясняет Дубай носом",
+      "note": "Сначала вдохните, потом читайте ценник.",
       "time": "20 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3351,8 +3364,8 @@
     },
     {
       "entry": "снаружи",
-      "name": "Gold Souk: финал про масштаб, д",
-      "note": "Финал не о роскоши, а о том, как рынок становится идентичностью",
+      "name": "Gold Souk: финал про масштаб, доверие и городской блеск",
+      "note": "Финал не о роскоши, а о том, как рынок становится идентичностью города.",
       "time": "25 мин",
       "walk": "-",
       "coordinates": {

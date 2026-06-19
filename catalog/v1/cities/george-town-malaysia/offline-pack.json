@@ -1188,7 +1188,7 @@
           "entry": "свободно",
           "name": "Padang Kota Lama",
           "nameLocal": "Esplanade / Padang Kota Lama",
-          "note": "Здесь город ещё выглядит как горизонт и приказ",
+          "note": "Здесь город ещё выглядит как горизонт и приказ.",
           "time": "12 мин",
           "walk": "5 мин",
           "coordinates": {
@@ -1234,7 +1234,7 @@
           "entry": "по билету",
           "name": "Fort Cornwallis",
           "nameLocal": "Fort Cornwallis / Kota Cornwallis",
-          "note": "Первый бастион говорит не о битве, а о праве стоять здесь",
+          "note": "Первый бастион говорит не о битве, а о праве стоять здесь.",
           "time": "20 мин",
           "walk": "4 мин",
           "coordinates": {
@@ -1278,9 +1278,9 @@
           "guideId": "george-town-malaysia-fort-clans-port-layers",
           "order": 3,
           "entry": "снаружи",
-          "name": "Башня и муниципальный фасад",
+          "name": "Часовая башня и муниципальный фасад",
           "nameLocal": "Queen Victoria Memorial Clock Tower / City Hall / Town Hall",
-          "note": "Берег здесь превращается в официальный фасад города",
+          "note": "Берег здесь превращается в официальный фасад города.",
           "time": "15 мин",
           "walk": "6 мин",
           "coordinates": {
@@ -1326,7 +1326,7 @@
           "entry": "по месту",
           "name": "St. George’s Church",
           "nameLocal": "St. George’s Church",
-          "note": "Белый портик показывает, что лагерь решил остаться надолго",
+          "note": "Белый портик показывает, что лагерь решил остаться надолго.",
           "time": "15 мин",
           "walk": "8 мин",
           "coordinates": {
@@ -1372,7 +1372,7 @@
           "entry": "по месту",
           "name": "Kapitan Keling Mosque",
           "nameLocal": "Masjid Kapitan Keling",
-          "note": "Под куполом слышно, как порт говорил по-тамильски",
+          "note": "Под куполом слышно, как порт говорил по-тамильски и по-арабски.",
           "time": "18 мин",
           "walk": "4 мин",
           "coordinates": {
@@ -1418,7 +1418,7 @@
           "entry": "по месту",
           "name": "Goddess of Mercy Temple",
           "nameLocal": "Kong Hock Keong / Kuan Im Teng",
-          "note": "К морю здесь обращались не только за прибылью",
+          "note": "К морю здесь обращались не только за прибылью, но и за милостью.",
           "time": "15 мин",
           "walk": "10 мин",
           "coordinates": {
@@ -1464,7 +1464,7 @@
           "entry": "по билету",
           "name": "Khoo Kongsi и Cannon Square",
           "nameLocal": "Leong San Tong Khoo Kongsi / Cannon Square",
-          "note": "Фамилия, двор и храм собирают порт в плотную общину",
+          "note": "Фамилия, двор и храм собирают торговый город в плотную общину.",
           "time": "25 мин",
           "walk": "-",
           "coordinates": {
@@ -2191,7 +2191,7 @@
       "entry": "свободно",
       "name": "Padang Kota Lama",
       "nameLocal": "Esplanade / Padang Kota Lama",
-      "note": "Здесь город ещё выглядит как горизонт и приказ",
+      "note": "Здесь город ещё выглядит как горизонт и приказ.",
       "time": "12 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -2237,7 +2237,7 @@
       "entry": "по билету",
       "name": "Fort Cornwallis",
       "nameLocal": "Fort Cornwallis / Kota Cornwallis",
-      "note": "Первый бастион говорит не о битве, а о праве стоять здесь",
+      "note": "Первый бастион говорит не о битве, а о праве стоять здесь.",
       "time": "20 мин",
       "walk": "4 мин",
       "coordinates": {
@@ -2281,9 +2281,9 @@
       "guideId": "george-town-malaysia-fort-clans-port-layers",
       "order": 3,
       "entry": "снаружи",
-      "name": "Башня и муниципальный фасад",
+      "name": "Часовая башня и муниципальный фасад",
       "nameLocal": "Queen Victoria Memorial Clock Tower / City Hall / Town Hall",
-      "note": "Берег здесь превращается в официальный фасад города",
+      "note": "Берег здесь превращается в официальный фасад города.",
       "time": "15 мин",
       "walk": "6 мин",
       "coordinates": {
@@ -2329,7 +2329,7 @@
       "entry": "по месту",
       "name": "St. George’s Church",
       "nameLocal": "St. George’s Church",
-      "note": "Белый портик показывает, что лагерь решил остаться надолго",
+      "note": "Белый портик показывает, что лагерь решил остаться надолго.",
       "time": "15 мин",
       "walk": "8 мин",
       "coordinates": {
@@ -2375,7 +2375,7 @@
       "entry": "по месту",
       "name": "Kapitan Keling Mosque",
       "nameLocal": "Masjid Kapitan Keling",
-      "note": "Под куполом слышно, как порт говорил по-тамильски",
+      "note": "Под куполом слышно, как порт говорил по-тамильски и по-арабски.",
       "time": "18 мин",
       "walk": "4 мин",
       "coordinates": {
@@ -2421,7 +2421,7 @@
       "entry": "по месту",
       "name": "Goddess of Mercy Temple",
       "nameLocal": "Kong Hock Keong / Kuan Im Teng",
-      "note": "К морю здесь обращались не только за прибылью",
+      "note": "К морю здесь обращались не только за прибылью, но и за милостью.",
       "time": "15 мин",
       "walk": "10 мин",
       "coordinates": {
@@ -2467,7 +2467,7 @@
       "entry": "по билету",
       "name": "Khoo Kongsi и Cannon Square",
       "nameLocal": "Leong San Tong Khoo Kongsi / Cannon Square",
-      "note": "Фамилия, двор и храм собирают порт в плотную общину",
+      "note": "Фамилия, двор и храм собирают торговый город в плотную общину.",
       "time": "25 мин",
       "walk": "-",
       "coordinates": {
@@ -2741,5 +2741,5 @@
       }
     }
   ],
-  "packHash": "758696eb6750"
+  "packHash": "74b94747d6bd"
 }

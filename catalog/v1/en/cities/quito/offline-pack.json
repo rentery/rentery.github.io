@@ -1075,7 +1075,7 @@
           "entry": "снаружи / по билету на башни",
           "name": "Basílica del Voto Nacional",
           "nameLocal": "Basílica del Voto Nacional",
-          "note": "Здесь Кито сначала нужно не изучать, а поймать целиком",
+          "note": "Здесь Кито сначала нужно не изучать, а поймать целиком.",
           "time": "20 мин",
           "walk": "15 мин",
           "coordinates": {
@@ -1121,7 +1121,7 @@
           "entry": "свободно",
           "name": "Plaza Grande",
           "nameLocal": "Plaza de la Independencia",
-          "note": "Здесь Кито перестаёт быть декорацией и становится столицей",
+          "note": "Здесь Кито перестаёт быть декорацией и становится столицей.",
           "time": "20 мин",
           "walk": "3 мин",
           "coordinates": {
@@ -1167,7 +1167,7 @@
           "entry": "снаружи / по месту",
           "name": "Catedral Metropolitana de Quito",
           "nameLocal": "Catedral Metropolitana de Quito",
-          "note": "Боковой вес Cathedral подчиняет площадь",
+          "note": "Не парадная фронтальность, а боковой вес — так Cathedral подчиняет площадь.",
           "time": "15 мин",
           "walk": "4 мин",
           "coordinates": {
@@ -1193,14 +1193,27 @@
             "sourceNote": "Проверено по сайту Архиепархии Кито, UNESCO и открытым метаданным Wikimedia Commons по Cathedral; дата проверки 2026-06-15."
           },
           "guideId": "quito-historic-center-barroco-la-ronda",
-          "order": 3
+          "order": 3,
+          "photo": {
+            "id": "quito-historic-center-barroco-la-ronda-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-3-square.jpg",
+            "alt": "Catedral Metropolitana de Quito",
+            "attribution": {
+              "author": "Diego Delso",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Quito,_Quito,_Ecuador,_2015-07-22,_DD_75-77_HDR.JPG",
+              "retrievedAt": "2026-06-19"
+            }
+          }
         },
         {
           "id": "quito-historic-center-barroco-la-ronda-4",
           "entry": "по билету / снаружи",
           "name": "Iglesia de la Compañía de Jesús",
           "nameLocal": "Iglesia de la Compañía de Jesús",
-          "note": "Здесь начинается чистая барочная убеждённость",
+          "note": "После площади власти здесь начинается чистая барочная убеждённость.",
           "time": "25 мин",
           "walk": "7 мин",
           "coordinates": {
@@ -1246,7 +1259,7 @@
           "entry": "снаружи / по месту",
           "name": "Plaza de San Francisco",
           "nameLocal": "Plaza de San Francisco",
-          "note": "Центр делает вдох и становится шире",
+          "note": "Здесь центр Кито делает вдох и впервые кажется по-настоящему широким.",
           "time": "20 мин",
           "walk": "8 мин",
           "coordinates": {
@@ -1272,14 +1285,27 @@
             "sourceNote": "Проверено по UNESCO; практическая логика стопа выстроена как наружный визит без обязательного внутреннего доступа. Дата проверки 2026-06-15."
           },
           "guideId": "quito-historic-center-barroco-la-ronda",
-          "order": 5
+          "order": 5,
+          "photo": {
+            "id": "quito-historic-center-barroco-la-ronda-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-5-square.jpg",
+            "alt": "Plaza de San Francisco",
+            "attribution": {
+              "author": "Bernard Gagnon",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_San_Francisco_(Quito).jpg",
+              "retrievedAt": "2026-06-19"
+            }
+          }
         },
         {
           "id": "quito-historic-center-barroco-la-ronda-6",
           "entry": "свободно",
           "name": "La Ronda",
           "nameLocal": "Calle La Ronda",
-          "note": "История столицы снова становится уличной и человеческой",
+          "note": "Финал не парадный: здесь история столицы снова становится уличной и человеческой.",
           "time": "30 мин",
           "walk": "-",
           "coordinates": {
@@ -1305,7 +1331,20 @@
             "sourceNote": "Проверено по туристическому профилю La Ronda от Pichincha es Turismo и общему контексту UNESCO; дата проверки 2026-06-15."
           },
           "guideId": "quito-historic-center-barroco-la-ronda",
-          "order": 6
+          "order": 6,
+          "photo": {
+            "id": "quito-historic-center-barroco-la-ronda-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-6-square.jpg",
+            "alt": "La Ronda",
+            "attribution": {
+              "author": "David Adam Kess",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Ronda,_Quito,_street_signs.jpg",
+              "retrievedAt": "2026-06-19"
+            }
+          }
         }
       ],
       "cover": {
@@ -1336,7 +1375,7 @@
       "entry": "снаружи / по билету на башни",
       "name": "Basílica del Voto Nacional",
       "nameLocal": "Basílica del Voto Nacional",
-      "note": "Здесь Кито сначала нужно не изучать, а поймать целиком",
+      "note": "Здесь Кито сначала нужно не изучать, а поймать целиком.",
       "time": "20 мин",
       "walk": "15 мин",
       "coordinates": {
@@ -1382,7 +1421,7 @@
       "entry": "свободно",
       "name": "Plaza Grande",
       "nameLocal": "Plaza de la Independencia",
-      "note": "Здесь Кито перестаёт быть декорацией и становится столицей",
+      "note": "Здесь Кито перестаёт быть декорацией и становится столицей.",
       "time": "20 мин",
       "walk": "3 мин",
       "coordinates": {
@@ -1428,7 +1467,7 @@
       "entry": "снаружи / по месту",
       "name": "Catedral Metropolitana de Quito",
       "nameLocal": "Catedral Metropolitana de Quito",
-      "note": "Боковой вес Cathedral подчиняет площадь",
+      "note": "Не парадная фронтальность, а боковой вес — так Cathedral подчиняет площадь.",
       "time": "15 мин",
       "walk": "4 мин",
       "coordinates": {
@@ -1454,14 +1493,27 @@
         "sourceNote": "Проверено по сайту Архиепархии Кито, UNESCO и открытым метаданным Wikimedia Commons по Cathedral; дата проверки 2026-06-15."
       },
       "guideId": "quito-historic-center-barroco-la-ronda",
-      "order": 3
+      "order": 3,
+      "photo": {
+        "id": "quito-historic-center-barroco-la-ronda-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-3-square.jpg",
+        "alt": "Catedral Metropolitana de Quito",
+        "attribution": {
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Quito,_Quito,_Ecuador,_2015-07-22,_DD_75-77_HDR.JPG",
+          "retrievedAt": "2026-06-19"
+        }
+      }
     },
     {
       "id": "quito-historic-center-barroco-la-ronda-4",
       "entry": "по билету / снаружи",
       "name": "Iglesia de la Compañía de Jesús",
       "nameLocal": "Iglesia de la Compañía de Jesús",
-      "note": "Здесь начинается чистая барочная убеждённость",
+      "note": "После площади власти здесь начинается чистая барочная убеждённость.",
       "time": "25 мин",
       "walk": "7 мин",
       "coordinates": {
@@ -1507,7 +1559,7 @@
       "entry": "снаружи / по месту",
       "name": "Plaza de San Francisco",
       "nameLocal": "Plaza de San Francisco",
-      "note": "Центр делает вдох и становится шире",
+      "note": "Здесь центр Кито делает вдох и впервые кажется по-настоящему широким.",
       "time": "20 мин",
       "walk": "8 мин",
       "coordinates": {
@@ -1533,14 +1585,27 @@
         "sourceNote": "Проверено по UNESCO; практическая логика стопа выстроена как наружный визит без обязательного внутреннего доступа. Дата проверки 2026-06-15."
       },
       "guideId": "quito-historic-center-barroco-la-ronda",
-      "order": 5
+      "order": 5,
+      "photo": {
+        "id": "quito-historic-center-barroco-la-ronda-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-5-square.jpg",
+        "alt": "Plaza de San Francisco",
+        "attribution": {
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_San_Francisco_(Quito).jpg",
+          "retrievedAt": "2026-06-19"
+        }
+      }
     },
     {
       "id": "quito-historic-center-barroco-la-ronda-6",
       "entry": "свободно",
       "name": "La Ronda",
       "nameLocal": "Calle La Ronda",
-      "note": "История столицы снова становится уличной и человеческой",
+      "note": "Финал не парадный: здесь история столицы снова становится уличной и человеческой.",
       "time": "30 мин",
       "walk": "-",
       "coordinates": {
@@ -1566,8 +1631,21 @@
         "sourceNote": "Проверено по туристическому профилю La Ronda от Pichincha es Turismo и общему контексту UNESCO; дата проверки 2026-06-15."
       },
       "guideId": "quito-historic-center-barroco-la-ronda",
-      "order": 6
+      "order": 6,
+      "photo": {
+        "id": "quito-historic-center-barroco-la-ronda-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/quito/quito-historic-center-barroco-la-ronda-stop-6-square.jpg",
+        "alt": "La Ronda",
+        "attribution": {
+          "author": "David Adam Kess",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Ronda,_Quito,_street_signs.jpg",
+          "retrievedAt": "2026-06-19"
+        }
+      }
     }
   ],
-  "packHash": "2b40679a7c39"
+  "packHash": "0f965ff0fbeb"
 }

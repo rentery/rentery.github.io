@@ -1371,9 +1371,9 @@
         "guideId": "rio-de-janeiro-centro-imperial-republica",
         "order": 1,
         "entry": "свободно",
-        "name": "Praça XV и Chafariz do Mestre",
+        "name": "Praça XV и Chafariz do Mestre Valentim",
         "nameLocal": "Praça XV de Novembro / Chafariz do Mestre Valentim",
-        "note": "Начните там, где в город входили с воды, а не с проспекта",
+        "note": "Начните там, где в город входили с воды, а не с проспекта.",
         "time": "15 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1391,6 +1391,19 @@
               "body": "У центра Рио долго был морской фасад. Когда вы стартуете на Praça XV, вы читаете город не как набор кварталов, а как бывшую столицу, которая сначала показывала себя прибывающим с бухты. Это меняет весь дальнейший маршрут: паузы, улицы и площади дальше воспринимаются как слои, выросшие от этого входа. Встаньте так, чтобы одним взглядом ловить и воду, и строгую линию зданий за спиной. Тогда Praça XV перестаёт быть просто транспортным узлом с паромами и начинает работать как старый вход в город. Это место долго читалось не изнутри кварталов, а со стороны бухты: сюда приближались, здесь высаживались, здесь власть впервые показывала себя тем, кто входил в Рио. Частая ошибка на этой площади — смотреть только на отдельные объекты. Лучше сначала прочитать всю сцену целиком. Фонтан здесь не капризная декорация, а напоминание о практическом городе, который кормил корабли водой и связывал берег с повседневной жизнью. А простор вокруг нужен не ради пустоты: перед вами пространство, где морской, административный и церемониальный Рио долго существовали одновременно."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-square.jpg",
+          "alt": "Praça XV и Chafariz do Mestre Valentim",
+          "attribution": {
+            "author": "Carlos Luis M C da Cruz",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pca_xv_chafariz_mestre_valentim.JPG",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1400,7 +1413,7 @@
         "entry": "свободно",
         "name": "Paço Imperial",
         "nameLocal": "Paço Imperial",
-        "note": "Один из главных адресов власти выглядит удивительно сдержанно",
+        "note": "Один из главных адресов власти выглядит удивительно сдержанно.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1418,6 +1431,19 @@
               "body": "Paço Imperial важен именно тем, что не ведёт себя как избыточно декоративный символ. Для понимания центра это ключ: имперский Рио был не только театром статуса, но и рабочим механизмом власти. Сдержанный фасад помогает это увидеть лучше любой торжественной формулы. Подойдите ближе к фасаду и задержитесь на секунду перед тем, как искать парадность. В этом доме важнее всего не роскошь, а тон. После площади он кажется почти нарочно спокойным: власть здесь долго была не только церемонией, но и повседневной работой. Именно поэтому Paço Imperial так полезен для глаза. Он сбивает ожидание, что центр бывшей империи должен говорить сплошным золотом. Смотреть лучше не только на портал, а на общую меру здания. В нём чувствуется дворец, который долго был рабочим адресом государства: решения, приёмы, бумаги, формулы власти. Такая сдержанность особенно важна для Рио, потому что она напоминает: имперский город здесь строился не только как витрина, но и как аппарат. Это не резиденция-мечта, а место, где политика долго выглядела почти административно. Если двор открыт, зайдите хотя бы на минуту и почувствуйте смену акустики."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-square.jpg",
+          "alt": "Paço Imperial",
+          "attribution": {
+            "author": "Alexandrecataldo",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_Imperial_2.JPG",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1425,9 +1451,9 @@
         "guideId": "rio-de-janeiro-centro-imperial-republica",
         "order": 3,
         "entry": "свободно",
-        "name": "Arco do Teles и Travessa do",
+        "name": "Arco do Teles и Travessa do Comércio",
         "nameLocal": "Arco do Teles / Travessa do Comércio",
-        "note": "Здесь центр вдруг сжимается и начинает говорить голосом торговли",
+        "note": "Здесь центр вдруг сжимается и начинает говорить голосом торговли.",
         "time": "15 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1445,6 +1471,19 @@
               "body": "Без Arco do Teles центр легко превратить в набор фасадов власти. Арка ломает эту ошибку. Она показывает, что рядом с дворцами и церемониями всегда существовал плотный городской слой торговли и проходов, в котором столица жила каждый день. Сделайте здесь не обычный проход, а сознательный переход масштаба. После площади и дворца арка должна подействовать почти физически: город вдруг перестаёт быть широкой государственной декорацией и становится тесным, деловым, чуть шершавым. Это важный момент маршрута, потому что именно так центр и жил большую часть времени — не церемонией, а постоянным движением между домами, лавками, проходами и короткими сделками. Лучше всего стоять не точно под аркой, а чуть в стороне, чтобы видеть её как шов между двумя типами города. С одной стороны остаётся площадь, где власть показывала себя лицом к воде. С другой начинается среда, где больше значат аренда, обмен, близость дверей и плотность повседневной жизни. За несколько шагов вы переходите из официального пространства в торговую ткань. Не спешите. У этой остановки сила не в большом памятнике, а в ощущении сжатия. Старый центр здесь работает как машина контакта: узко, быстро, с пересекающимися маршрутами."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-square.jpg",
+          "alt": "Arco do Teles и Travessa do Comércio",
+          "attribution": {
+            "author": "Ricardo Deutsch Junior",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_do_Teles_-_RJ.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1454,7 +1493,7 @@
         "entry": "свободно",
         "name": "Igreja da Candelária",
         "nameLocal": "Igreja da Candelária",
-        "note": "Церковь здесь работает как морской ориентир и как память о",
+        "note": "Церковь здесь работает как морской ориентир и как память о гражданском городе.",
         "time": "15 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1472,6 +1511,19 @@
               "body": "Одна из сил Candelária в том, что она не спрятана в «историческом квартале». Её приходится читать на фоне современного делового Рио. Поэтому остановка не уводит из городской драмы, а делает её сложнее: старый сакральный центр не исчез, а продолжает жить внутри коммерческого и транспортного города. Подойдите так, чтобы купол и фасад не растворялись в потоке машин. У Candelária нужно сначала поймать не детали, а её роль в городской линии горизонта. Она стоит здесь не как укромная приходская церковь, а как знак, который долго был заметен с подступов к центру и держал вертикаль там, где торговый и портовый Рио обычно расползается по низкой кромке. После Arco do Teles эта остановка снова раскрывает вам пространство. Глазу становится легче дышать: впереди больше не щель и не проход, а крупная масса, которая собирает вокруг себя историю веры, городской репрезентации и публичной памяти. В Рио многие красивые фасады легко прочитать как просто живописные. Candelária лучше читать иначе: как здание, которое годами участвовало в том, как центр показывал себя и себе, и прибывающим с воды. Останьтесь на несколько минут перед входом и посмотрите, как церковь спорит с деловым окружением."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-4",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-square.jpg",
+          "alt": "Igreja da Candelária",
+          "attribution": {
+            "author": "Stegop",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_da_Candel%C3%A1ria_26-1.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1479,9 +1531,9 @@
         "guideId": "rio-de-janeiro-centro-imperial-republica",
         "order": 5,
         "entry": "свободно",
-        "name": "Rua do Ouvidor и Igreja da Lapa",
+        "name": "Rua do Ouvidor и Igreja da Lapa dos Mercadores",
         "nameLocal": "Rua do Ouvidor / Igreja de Nossa Senhora da Lapa dos Mercadores",
-        "note": "Улица, где Рио учился витринам, слухам и городской моде",
+        "note": "Улица, где Рио учился витринам, слухам и городской моде.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1499,6 +1551,19 @@
               "body": "Rua do Ouvidor помогает понять, как центр перестал быть только местом власти и стал местом публичной циркуляции вкуса. Здесь модерность входила не указом, а через магазин, кафе, печать, моду и привычку смотреть на других. На Rua do Ouvidor не пытайтесь идти быстро. Её нужно читать в темпе улицы, а не в темпе маршрута. Она узкая, и в этом её сила: здесь новости, мода, разговоры, книги, сладости и политика исторически оказывались слишком близко друг к другу, чтобы жить порознь. Лучше всего поймать это ощущение не по вывескам, а по самому масштабу — улице почти тесно от собственной памяти. Представьте не «главную старую улицу», а городской интерфейс. Здесь Рио учился смотреть в витрину и одновременно смотреть на прохожего. Эта улица стала не просто торговой артерией, а машиной городского самонаблюдения: кто пришёл, что надел, что обсуждают, где открылось, где читают, где спорят. Именно поэтому про неё так много писали. В литературной памяти она часто звучит как живая, болтливая, любопытная, почти человеческая сущность. У Igreja da Lapa dos Mercadores на углу стоит задержаться на минуту, потому что она возвращает в этот витринный мир старый купеческий нерв."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-5",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-square.jpg",
+          "alt": "Rua do Ouvidor и Igreja da Lapa dos Mercadores",
+          "attribution": {
+            "author": "Halley Pacheco de Oliveira",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Lapa_dos_Mercadores_Fachada_II.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1508,7 +1573,7 @@
         "entry": "по месту",
         "name": "Confeitaria Colombo",
         "nameLocal": "Confeitaria Colombo",
-        "note": "Здесь городской показ превращается в зеркало, дерево и сахарную",
+        "note": "Здесь городской показ превращается в зеркало, дерево и сахарную паузу.",
         "time": "30 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1526,6 +1591,19 @@
               "body": "Без Colombo история центра рискует остаться только политической и религиозной. Это место добавляет третий важный слой: город как пространство показа, вкуса и социальной игры. После него легче понять, что модерный центр строился не только указами и фасадами, но и привычкой к городской сцене. Если вам нужен один интерьер, который объясняет, как центр Рио любил городскую витрину, — вот он. Войдите не спеша и дайте глазам привыкнуть к зеркалам, деревянной отделке и общей плотности зала. Colombo работает не как музейный кадр, а как живое продолжение Rua do Ouvidor: там люди учились ходить, встречаться и смотреть друг на друга в уличном потоке, а здесь та же энергия стала интерьером. Важно не свести место к красивому потолку и фотографиям. Смысл Colombo в ритуале появления. Это не просто старое кафе, а пространство городской самопрезентации, где еда, разговор, деловая встреча, пауза между адресами и желание «быть в центре» когда-то складывались в один жест. Даже сегодня, когда очередь и телефоны меняют темп, зал всё равно работает как машина видимости. Сядьте, если есть возможность, но даже стоячий взгляд по первому залу уже даёт нужный эффект."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-square.jpg",
+          "alt": "Confeitaria Colombo",
+          "attribution": {
+            "author": "Eugenio Hansen, OFS",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confeitaria_Colombo.JPG",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1533,9 +1611,9 @@
         "guideId": "rio-de-janeiro-centro-imperial-republica",
         "order": 7,
         "entry": "свободно",
-        "name": "Largo da Carioca и Rua da",
+        "name": "Largo da Carioca и Rua da Carioca",
         "nameLocal": "Largo da Carioca / Rua da Carioca",
-        "note": "Здесь центр уже не позирует — он работает, торопится и всё",
+        "note": "Здесь центр уже не позирует — он работает, торопится и всё равно помнит старые фасады.",
         "time": "15 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1553,6 +1631,19 @@
               "body": "Маршрут о центре легко сделать слишком красивым. Largo da Carioca возвращает правду масштаба: бывшая столица — это не только памятники, но и ежедневная машина движения. На этом фоне финальная театральность Cinelândia ощущается сильнее и честнее. После Colombo это место сначала может показаться просто шумным пересадочным узлом. Именно так его и нужно встретить — без разочарования. Largo da Carioca важен потому, что он выдёргивает вас из красивой городской витрины обратно в работающий центр. Здесь меньше эффектных жестов и больше настоящего метаболизма города: люди выходят из метро, пересекают площадь, сворачивают на Rua da Carioca, исчезают в офисах, магазинах и коротких делах. Посмотрите на это как на смену регистра. В первой половине маршрута вы читали центр через площадь, дворец, церковь и легендарную торговую улицу. Здесь центр уже не столько рассказывает про себя, сколько функционирует. Но именно на этом фоне особенно важны уцелевшие фасады и торговый ряд Rua da Carioca. Они не дают площади превратиться в безликий узел и удерживают память о старом коммерческом городе внутри совсем другого ритма."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-square.jpg",
+          "alt": "Largo da Carioca и Rua da Carioca",
+          "attribution": {
+            "author": "Rodrigo_Soldon",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largo_da_Carioca_-_Rio_de_Janeiro,_Brasil.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -1562,7 +1653,7 @@
         "entry": "снаружи",
         "name": "Cinelândia и Theatro Municipal",
         "nameLocal": "Cinelândia / Theatro Municipal do Rio de Janeiro",
-        "note": "Финал нужен ради масштаба: республика здесь уже говорит широким",
+        "note": "Финал нужен ради масштаба: республика здесь уже говорит широким фасадом.",
         "time": "25 мин",
         "walk": "-",
         "coordinates": {
@@ -1580,6 +1671,19 @@
               "body": "Главная внутренняя рифма прогулки — между Praça XV и Cinelândia. Первая встречает городом, который долго жил лицом к морю и государству старого типа. Вторая завершает его городом, который хочет быть сценой модерной республики. Между ними и помещается человеческий центр — с улицами, витринами, верой и кофе. После тесных улиц и делового узла Largo da Carioca выход в Cinelândia должен сработать как раскрытие грудной клетки. Здесь центр опять становится широкой городской декорацией, но уже другой природы. Если Praça XV была старой сценой морского и имперского Рио, то Cinelândia — это жест республиканского города, который хочет казаться современным, представительным и культурно уверенным в себе. Смотрите на Theatro Municipal не как на отдельный «красивый объект», а как на часть площади. Его сила именно в фронтальном присутствии: лестница, купола, общий вес фасада и соседние институции вместе собирают пространство в большую гражданскую декорацию. После всех предыдущих остановок становится ясно, что это не случайная красивость."
             }
           ]
+        },
+        "photo": {
+          "id": "rio-de-janeiro-centro-imperial-republica-stop-8",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-square.jpg",
+          "alt": "Cinelândia и Theatro Municipal",
+          "attribution": {
+            "author": "Antonio Donioli",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_do_Rio_de_Janeiro_Cinel%C3%A2ndia.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       }
     ],

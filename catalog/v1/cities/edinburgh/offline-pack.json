@@ -1628,7 +1628,7 @@
           "entry": "снаружи",
           "name": "Эспланада Эдинбургского замка",
           "nameLocal": "Edinburgh Castle Esplanade",
-          "note": "Самая знаменитая улица города сначала выглядит как военный плац",
+          "note": "Самая знаменитая улица города сначала выглядит как военный плац.",
           "time": "15 мин",
           "walk": "5 мин",
           "coordinates": {
@@ -1677,7 +1677,7 @@
           "entry": "снаружи",
           "name": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
           "nameLocal": "Lawnmarket, Gladstone’s Land and Lady Sta",
-          "note": "Здесь улица перестаёт быть просто осью и становится плотной жил",
+          "note": "Здесь улица перестаёт быть просто осью и становится плотной жилой машиной.",
           "time": "20 мин",
           "walk": "5 мин",
           "coordinates": {
@@ -1726,7 +1726,7 @@
           "entry": "свободно",
           "name": "Собор Святого Джайлса",
           "nameLocal": "St Giles' Cathedral",
-          "note": "Сердце Mile — не музей тишины, а рабочее место шотландской публ",
+          "note": "Сердце Mile — не музей тишины, а рабочее место шотландской публичной веры.",
           "time": "20 мин",
           "walk": "2 мин",
           "coordinates": {
@@ -1775,7 +1775,7 @@
           "entry": "снаружи",
           "name": "Parliament Square и Mercat Cross",
           "nameLocal": "Parliament Square and Mercat Cross",
-          "note": "Здесь улица меняет регистр: от церковной речи к правовой и госу",
+          "note": "Здесь улица меняет регистр: от церковной речи к правовой и государственной.",
           "time": "15 мин",
           "walk": "3 мин",
           "coordinates": {
@@ -1824,7 +1824,7 @@
           "entry": "снаружи",
           "name": "Advocates Close",
           "nameLocal": "Advocates Close",
-          "note": "Лучший момент этой прогулки — увидеть, что у Эдинбурга есть не",
+          "note": "Лучший момент этой прогулки — увидеть, что у Эдинбурга есть не только фасад, но и глубина.",
           "time": "15 мин",
           "walk": "7 мин",
           "coordinates": {
@@ -1873,7 +1873,7 @@
           "entry": "снаружи",
           "name": "Canongate Tolbooth",
           "nameLocal": "Canongate Tolbooth",
-          "note": "Здесь становится ясно, что нижняя Royal Mile — не хвост улицы",
+          "note": "Здесь становится ясно, что нижняя Royal Mile — не хвост улицы, а отдельная политическая территория.",
           "time": "15 мин",
           "walk": "3 мин",
           "coordinates": {
@@ -1922,7 +1922,7 @@
           "entry": "свободно",
           "name": "Canongate Kirk и kirkyard",
           "nameLocal": "Canongate Kirk and Kirkyard",
-          "note": "Тихая точка маршрута, где власть уже не кричит, а держится в си",
+          "note": "Тихая точка маршрута, где власть уже не кричит, а держится в символах и памяти.",
           "time": "20 мин",
           "walk": "5 мин",
           "coordinates": {
@@ -1969,9 +1969,9 @@
         },
         {
           "entry": "свободно",
-          "name": "Scottish Parliament и Queensber",
+          "name": "Scottish Parliament и Queensberry House",
           "nameLocal": "Scottish Parliament and Queensberry House",
-          "note": "Внизу Mile история не заканчивается — она меняет форму и матери",
+          "note": "Внизу Mile история не заканчивается — она меняет форму и материал.",
           "time": "20 мин",
           "walk": "4 мин",
           "coordinates": {
@@ -2018,9 +2018,9 @@
         },
         {
           "entry": "по билету",
-          "name": "Palace of Holyroodhouse и Abbey",
+          "name": "Palace of Holyroodhouse и Abbey Strand",
           "nameLocal": "Palace of Holyroodhouse and Abbey Strand",
-          "note": "Королевская Миля заканчивается не площадью свободы, а управляем",
+          "note": "Королевская Миля заканчивается не площадью свободы, а управляемым порогом.",
           "time": "20 мин",
           "walk": "-",
           "coordinates": {
@@ -3837,7 +3837,7 @@
       "entry": "снаружи",
       "name": "Эспланада Эдинбургского замка",
       "nameLocal": "Edinburgh Castle Esplanade",
-      "note": "Самая знаменитая улица города сначала выглядит как военный плац",
+      "note": "Самая знаменитая улица города сначала выглядит как военный плац.",
       "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3886,7 +3886,7 @@
       "entry": "снаружи",
       "name": "Lawnmarket: Gladstone’s Land и Lady Stair’s Close",
       "nameLocal": "Lawnmarket, Gladstone’s Land and Lady Sta",
-      "note": "Здесь улица перестаёт быть просто осью и становится плотной жил",
+      "note": "Здесь улица перестаёт быть просто осью и становится плотной жилой машиной.",
       "time": "20 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3935,7 +3935,7 @@
       "entry": "свободно",
       "name": "Собор Святого Джайлса",
       "nameLocal": "St Giles' Cathedral",
-      "note": "Сердце Mile — не музей тишины, а рабочее место шотландской публ",
+      "note": "Сердце Mile — не музей тишины, а рабочее место шотландской публичной веры.",
       "time": "20 мин",
       "walk": "2 мин",
       "coordinates": {
@@ -3984,7 +3984,7 @@
       "entry": "снаружи",
       "name": "Parliament Square и Mercat Cross",
       "nameLocal": "Parliament Square and Mercat Cross",
-      "note": "Здесь улица меняет регистр: от церковной речи к правовой и госу",
+      "note": "Здесь улица меняет регистр: от церковной речи к правовой и государственной.",
       "time": "15 мин",
       "walk": "3 мин",
       "coordinates": {
@@ -4033,7 +4033,7 @@
       "entry": "снаружи",
       "name": "Advocates Close",
       "nameLocal": "Advocates Close",
-      "note": "Лучший момент этой прогулки — увидеть, что у Эдинбурга есть не",
+      "note": "Лучший момент этой прогулки — увидеть, что у Эдинбурга есть не только фасад, но и глубина.",
       "time": "15 мин",
       "walk": "7 мин",
       "coordinates": {
@@ -4082,7 +4082,7 @@
       "entry": "снаружи",
       "name": "Canongate Tolbooth",
       "nameLocal": "Canongate Tolbooth",
-      "note": "Здесь становится ясно, что нижняя Royal Mile — не хвост улицы",
+      "note": "Здесь становится ясно, что нижняя Royal Mile — не хвост улицы, а отдельная политическая территория.",
       "time": "15 мин",
       "walk": "3 мин",
       "coordinates": {
@@ -4131,7 +4131,7 @@
       "entry": "свободно",
       "name": "Canongate Kirk и kirkyard",
       "nameLocal": "Canongate Kirk and Kirkyard",
-      "note": "Тихая точка маршрута, где власть уже не кричит, а держится в си",
+      "note": "Тихая точка маршрута, где власть уже не кричит, а держится в символах и памяти.",
       "time": "20 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -4178,9 +4178,9 @@
     },
     {
       "entry": "свободно",
-      "name": "Scottish Parliament и Queensber",
+      "name": "Scottish Parliament и Queensberry House",
       "nameLocal": "Scottish Parliament and Queensberry House",
-      "note": "Внизу Mile история не заканчивается — она меняет форму и матери",
+      "note": "Внизу Mile история не заканчивается — она меняет форму и материал.",
       "time": "20 мин",
       "walk": "4 мин",
       "coordinates": {
@@ -4227,9 +4227,9 @@
     },
     {
       "entry": "по билету",
-      "name": "Palace of Holyroodhouse и Abbey",
+      "name": "Palace of Holyroodhouse и Abbey Strand",
       "nameLocal": "Palace of Holyroodhouse and Abbey Strand",
-      "note": "Королевская Миля заканчивается не площадью свободы, а управляем",
+      "note": "Королевская Миля заканчивается не площадью свободы, а управляемым порогом.",
       "time": "20 мин",
       "walk": "-",
       "coordinates": {
@@ -4635,5 +4635,5 @@
       }
     }
   ],
-  "packHash": "f8bfc96d1203"
+  "packHash": "528e94bcf359"
 }

@@ -1007,8 +1007,8 @@
           "guideId": "mumbai-fort-gateway-port-city",
           "order": 1,
           "entry": "снаружи",
-          "name": "Chhatrapati Shivaji Maharaj",
-          "note": "Город начинает рассказ не с бухты, а с расписания",
+          "name": "Chhatrapati Shivaji Maharaj Terminus",
+          "note": "Город начинает рассказ не с бухты, а с расписания.",
           "time": "20 мин",
           "walk": "12 мин",
           "coordinates": {
@@ -1031,6 +1031,19 @@
                 "body": "CSMT стал символом не только архитектуры, но и масштаба связей. Для Бомбея это был не край карты, а узел, где товар, капитал и люди пересаживались с суши на море и обратно."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-1-square.jpg",
+            "alt": "Chhatrapati Shivaji Maharaj Terminus",
+            "attribution": {
+              "author": "Joe Ravi",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         },
         {
@@ -1039,7 +1052,7 @@
           "order": 2,
           "entry": "свободно",
           "name": "Hutatma Chowk и Flora Fountain",
-          "note": "Там, где сегодня фонтан и мемориал, когда-то проходила",
+          "note": "Там, где сегодня фонтан и мемориал, когда-то проходила городская черта.",
           "time": "18 мин",
           "walk": "5 мин",
           "coordinates": {
@@ -1083,7 +1096,7 @@
           "order": 3,
           "entry": "по месту",
           "name": "St. Thomas Cathedral",
-          "note": "Самая тихая stop маршрута и один из старейших голосов города",
+          "note": "Самая тихая stop маршрута и один из старейших голосов города.",
           "time": "20 мин",
           "walk": "6 мин",
           "coordinates": {
@@ -1106,6 +1119,19 @@
                 "body": "В Южном Мумбаи многие названия кажутся просто наследием прошлого. Но у собора видно, что топонимы здесь выросли из физического города: ворот, дорог и направлений, а не из позднейшей романтизации."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-3-square.jpg",
+            "alt": "St. Thomas Cathedral",
+            "attribution": {
+              "author": "Rangan Datta Wiki",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Thomas_Cathedral_2.jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         },
         {
@@ -1114,7 +1140,7 @@
           "order": 4,
           "entry": "свободно",
           "name": "Horniman Circle",
-          "note": "Здесь бывший Green превращается в круг денег, тени и фасадной",
+          "note": "Здесь бывший Green превращается в круг денег, тени и фасадной дисциплины.",
           "time": "20 мин",
           "walk": "10 мин",
           "coordinates": {
@@ -1137,6 +1163,19 @@
                 "body": "Horniman Circle сильнее всего работает не как один объект, а как городской жест. Именно непрерывность фасадов показывает, что Fort когда-то создавал не просто набор построек, а целую деловую сцену."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-4-square.jpg",
+            "alt": "Horniman Circle",
+            "attribution": {
+              "author": "AroundTheGlobe",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horniman_Circle_Mumbai_6.jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         },
         {
@@ -1145,7 +1184,7 @@
           "order": 5,
           "entry": "свободно",
           "name": "Kala Ghoda",
-          "note": "Там, где деловой центр делает вдох и начинает говорить языком",
+          "note": "Там, где деловой центр делает вдох и начинает говорить языком искусства.",
           "time": "25 мин",
           "walk": "6 мин",
           "coordinates": {
@@ -1168,6 +1207,19 @@
                 "body": "Культурный квартал здесь не альтернатива торговому городу, а его позднее превращение. Сначала порт и бизнес создали плотный центр, а уже потом этот центр начал производить новую, более публичную культурную жизнь."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-5-square.jpg",
+            "alt": "Kala Ghoda",
+            "attribution": {
+              "author": "AroundTheGlobe",
+              "license": "CC0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kala_Ghoda_Art_District.jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         },
         {
@@ -1175,8 +1227,8 @@
           "guideId": "mumbai-fort-gateway-port-city",
           "order": 6,
           "entry": "по билету",
-          "name": "Chhatrapati Shivaji Maharaj",
-          "note": "Музей, в котором портовый город показывает, что умеет не только",
+          "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+          "note": "Музей, в котором портовый город показывает, что умеет не только торговать, но и собирать мир.",
           "time": "30 мин",
           "walk": "12 мин",
           "coordinates": {
@@ -1199,6 +1251,19 @@
                 "body": "CSMVS стоит не на периферии культурной жизни, а в самой ткани старого центра. Это важно: в Мумбаи культура не вынесена из истории торговли, а буквально встроена в неё."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-6-square.jpg",
+            "alt": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+            "attribution": {
+              "author": "ThePerfectYellow",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Building_&_Campus.jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         },
         {
@@ -1207,7 +1272,7 @@
           "order": 7,
           "entry": "свободно",
           "name": "Gateway of India",
-          "note": "Финальная арка маршрута и самый прямой разговор Мумбаи с морем",
+          "note": "Финальная арка маршрута и самый прямой разговор Мумбаи с морем.",
           "time": "25 мин",
           "walk": "-",
           "coordinates": {
@@ -1230,6 +1295,19 @@
                 "body": "Gateway собирает весь путь в одно движение. CSMT дал вам вход с суши, а здесь появляется ответ со стороны моря. В этом смысле маршрут не просто красивый: он объясняет географию власти, торговли и воображения города."
               }
             ]
+          },
+          "photo": {
+            "id": "mumbai-fort-gateway-port-city-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-7-square.jpg",
+            "alt": "Gateway of India",
+            "attribution": {
+              "author": "Kushared (Mohammed Sardar)",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India,_Mumbai_(Night).jpg",
+              "retrievedAt": "2026-06-19"
+            }
           }
         }
       ],
@@ -2926,8 +3004,8 @@
       "guideId": "mumbai-fort-gateway-port-city",
       "order": 1,
       "entry": "снаружи",
-      "name": "Chhatrapati Shivaji Maharaj",
-      "note": "Город начинает рассказ не с бухты, а с расписания",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "note": "Город начинает рассказ не с бухты, а с расписания.",
       "time": "20 мин",
       "walk": "12 мин",
       "coordinates": {
@@ -2950,6 +3028,19 @@
             "body": "CSMT стал символом не только архитектуры, но и масштаба связей. Для Бомбея это был не край карты, а узел, где товар, капитал и люди пересаживались с суши на море и обратно."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-1-square.jpg",
+        "alt": "Chhatrapati Shivaji Maharaj Terminus",
+        "attribution": {
+          "author": "Joe Ravi",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -2958,7 +3049,7 @@
       "order": 2,
       "entry": "свободно",
       "name": "Hutatma Chowk и Flora Fountain",
-      "note": "Там, где сегодня фонтан и мемориал, когда-то проходила",
+      "note": "Там, где сегодня фонтан и мемориал, когда-то проходила городская черта.",
       "time": "18 мин",
       "walk": "5 мин",
       "coordinates": {
@@ -3002,7 +3093,7 @@
       "order": 3,
       "entry": "по месту",
       "name": "St. Thomas Cathedral",
-      "note": "Самая тихая stop маршрута и один из старейших голосов города",
+      "note": "Самая тихая stop маршрута и один из старейших голосов города.",
       "time": "20 мин",
       "walk": "6 мин",
       "coordinates": {
@@ -3025,6 +3116,19 @@
             "body": "В Южном Мумбаи многие названия кажутся просто наследием прошлого. Но у собора видно, что топонимы здесь выросли из физического города: ворот, дорог и направлений, а не из позднейшей романтизации."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-3-square.jpg",
+        "alt": "St. Thomas Cathedral",
+        "attribution": {
+          "author": "Rangan Datta Wiki",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Thomas_Cathedral_2.jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -3033,7 +3137,7 @@
       "order": 4,
       "entry": "свободно",
       "name": "Horniman Circle",
-      "note": "Здесь бывший Green превращается в круг денег, тени и фасадной",
+      "note": "Здесь бывший Green превращается в круг денег, тени и фасадной дисциплины.",
       "time": "20 мин",
       "walk": "10 мин",
       "coordinates": {
@@ -3056,6 +3160,19 @@
             "body": "Horniman Circle сильнее всего работает не как один объект, а как городской жест. Именно непрерывность фасадов показывает, что Fort когда-то создавал не просто набор построек, а целую деловую сцену."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-4-square.jpg",
+        "alt": "Horniman Circle",
+        "attribution": {
+          "author": "AroundTheGlobe",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horniman_Circle_Mumbai_6.jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -3064,7 +3181,7 @@
       "order": 5,
       "entry": "свободно",
       "name": "Kala Ghoda",
-      "note": "Там, где деловой центр делает вдох и начинает говорить языком",
+      "note": "Там, где деловой центр делает вдох и начинает говорить языком искусства.",
       "time": "25 мин",
       "walk": "6 мин",
       "coordinates": {
@@ -3087,6 +3204,19 @@
             "body": "Культурный квартал здесь не альтернатива торговому городу, а его позднее превращение. Сначала порт и бизнес создали плотный центр, а уже потом этот центр начал производить новую, более публичную культурную жизнь."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-5-square.jpg",
+        "alt": "Kala Ghoda",
+        "attribution": {
+          "author": "AroundTheGlobe",
+          "license": "CC0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kala_Ghoda_Art_District.jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -3094,8 +3224,8 @@
       "guideId": "mumbai-fort-gateway-port-city",
       "order": 6,
       "entry": "по билету",
-      "name": "Chhatrapati Shivaji Maharaj",
-      "note": "Музей, в котором портовый город показывает, что умеет не только",
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "note": "Музей, в котором портовый город показывает, что умеет не только торговать, но и собирать мир.",
       "time": "30 мин",
       "walk": "12 мин",
       "coordinates": {
@@ -3118,6 +3248,19 @@
             "body": "CSMVS стоит не на периферии культурной жизни, а в самой ткани старого центра. Это важно: в Мумбаи культура не вынесена из истории торговли, а буквально встроена в неё."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-6-square.jpg",
+        "alt": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+        "attribution": {
+          "author": "ThePerfectYellow",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Building_&_Campus.jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -3126,7 +3269,7 @@
       "order": 7,
       "entry": "свободно",
       "name": "Gateway of India",
-      "note": "Финальная арка маршрута и самый прямой разговор Мумбаи с морем",
+      "note": "Финальная арка маршрута и самый прямой разговор Мумбаи с морем.",
       "time": "25 мин",
       "walk": "-",
       "coordinates": {
@@ -3149,6 +3292,19 @@
             "body": "Gateway собирает весь путь в одно движение. CSMT дал вам вход с суши, а здесь появляется ответ со стороны моря. В этом смысле маршрут не просто красивый: он объясняет географию власти, торговли и воображения города."
           }
         ]
+      },
+      "photo": {
+        "id": "mumbai-fort-gateway-port-city-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/mumbai/mumbai-fort-gateway-port-city-stop-7-square.jpg",
+        "alt": "Gateway of India",
+        "attribution": {
+          "author": "Kushared (Mohammed Sardar)",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_of_India,_Mumbai_(Night).jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -3480,5 +3636,5 @@
       "sourceIds": []
     }
   ],
-  "packHash": "b155c4658ce6"
+  "packHash": "4ea63837cba1"
 }

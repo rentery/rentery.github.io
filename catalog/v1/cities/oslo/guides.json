@@ -2362,7 +2362,7 @@
         "entry": "свободно",
         "name": "Rådhusplassen",
         "nameLocal": "Rådhusplassen",
-        "note": "Здесь Осло впервые разворачивает к вам и ратушу, и воду",
+        "note": "Здесь Осло впервые разворачивает к вам и ратушу, и воду одновременно.",
         "time": "15 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2380,6 +2380,19 @@
               "body": "Если начать прямо у Акерхуса, крепость может показаться автономным историческим островом. Старт на Rådhusplassen важен именно потому, что он сразу ставит рядом гражданскую власть, общественное пространство и воду. Тогда крепость читается не как отдельный музейный фрагмент, а как предыдущий способ организовать тот же самый берег. Лучше всего встать так, чтобы за спиной была вода, а перед вами — две кирпичные башни ратуши. Тогда сразу понятно, что эта площадь работает не как пустой промежуток, а как городской разворот. Ещё не так давно в центре Осло берег был не парадным залом, а сложной кромкой движения, портовой работы и транспорта. Сейчас здесь чувствуешь совсем другой жест: город как будто намеренно делает паузу между собой и фьордом, чтобы вы успели увидеть оба лица сразу. Не спешите идти дальше. Посмотрите, как ратуша держит северную границу площади, а юг остаётся открытым к воде и причалам. Это важная установка на всю прогулку: Осло не прячет фьорд за зданиями, а выставляет его как соучастника городского пространства. Даже звон карильона здесь читается иначе — не только как муниципальный ритуал, но и как способ собрать разный городской шум в один ритм."
             }
           ]
+        },
+        "photo": {
+          "id": "oslo-akershus-bjorvika-fjord-layers-stop-1",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-1-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-1-square.jpg",
+          "alt": "Rådhusplassen",
+          "attribution": {
+            "author": "Helge Høifødt",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:R%C3%A5dhusplassen_Oslo.JPG",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -2389,7 +2402,7 @@
         "entry": "свободно",
         "name": "Акерхус с внешних площадок",
         "nameLocal": "Akershus festning",
-        "note": "У этих стен вода ещё читается не пейзажем, а линией контроля",
+        "note": "У этих стен вода ещё читается не пейзажем, а линией контроля.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2407,6 +2420,19 @@
               "body": "У Акерхуса важнее не заучивать очередность осад и перестроек, а понять повторяющуюся задачу места: видеть раньше, занимать выше, контролировать подход. Именно поэтому даже сегодняшний туристический взгляд с валов легко совпадает с прежней военной логикой пространства. Когда вы подходите к Акерхусу после открытой площади, Осло резко подтягивается. Здесь полезно задержаться не у первого красивого вида, а у мысли о том, зачем крепость вообще поставлена именно так близко к воде. С валов и внешних кромок становится видно, что фьорд в средневековом и раннем новом времени был не романтическим горизонтом, а главным подступом к городу. Камень, высота и обзор здесь объясняют себя почти без текста. Попробуйте посмотреть назад в сторону центра и вперёд к воде. Тогда хорошо чувствуется контраст, на котором строится вся прогулка. Современный Осло приглашает выйти к берегу и задержаться, а Акерхус родился из необходимости этот берег держать и защищать. Поэтому крепость не отменяется новой набережной и не выглядит лишней: наоборот, именно здесь становится понятно, почему позднее город пришлось заново переговаривать с фьордом."
             }
           ]
+        },
+        "photo": {
+          "id": "oslo-akershus-bjorvika-fjord-layers-stop-2",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-2-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-2-square.jpg",
+          "alt": "Акерхус с внешних площадок",
+          "attribution": {
+            "author": "Aksel Lian",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akershus_fortress_in_Oslo_Norway.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -2414,9 +2440,9 @@
         "guideId": "oslo-akershus-bjorvika-fjord-layers",
         "order": 3,
         "entry": "свободно",
-        "name": "Christiania torv и старый",
+        "name": "Christiania torv и старый административный слой",
         "nameLocal": "Christiania torv / Rådmannsgården / Gamle Raadhus",
-        "note": "После крепости город вдруг становится не стеной, а чертежом",
+        "note": "После крепости город вдруг становится не стеной, а чертежом.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2434,6 +2460,19 @@
               "body": "Если Акерхус показывает, как город защищали, то Christiania torv показывает, как его потом дисциплинировали. Это не просто «исторический центр», а место, где пожар, монархическая воля и близость крепости превратились в новый городской порядок. Без этой остановки Бьёрвика дальше выглядела бы слишком резким скачком. На Christiania torv лучше не вставать в самый центр сразу. Сначала сделайте полшага к фасадам и посмотрите, как площадь собирает вокруг себя старые дома, а улицы уходят прямыми углами. После крепости это ощущается почти физически: город только что был тяжёлой кромкой над водой, а здесь превращается в меру, сетку и правило. Именно такой Осло, тогда Кристианию, стали строить после пожара 1624 года — ближе к крепости и гораздо строже по рисунку. Смысл этой остановки не в том, чтобы перечитать каждую табличку, а в том, чтобы уловить смену городской психологии. Rådmannsgården, старое ратушное здание и соседние старые фасады удерживают память о городе, который заново собирали не для прогулки, а для управления, представительства и контроля."
             }
           ]
+        },
+        "photo": {
+          "id": "oslo-akershus-bjorvika-fjord-layers-stop-3",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-3-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-3-square.jpg",
+          "alt": "Christiania torv и старый административный слой",
+          "attribution": {
+            "author": "NataliyaKochergova",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christiania_torv.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -2443,7 +2482,7 @@
         "entry": "свободно",
         "name": "Оперный дом",
         "nameLocal": "Operahuset / Oslo Opera House",
-        "note": "Это момент, когда культурное здание ведёт себя не как фасад, а",
+        "note": "Это момент, когда культурное здание ведёт себя не как фасад, а как улица.",
         "time": "25 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2483,7 +2522,7 @@
         "entry": "свободно",
         "name": "Deichman Bjørvika",
         "nameLocal": "Deichman Bjørvika",
-        "note": "После большого жеста Оперы город отвечает не монументом, а",
+        "note": "После большого жеста Оперы город отвечает не монументом, а общественной гостиной.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2523,7 +2562,7 @@
         "entry": "по билету",
         "name": "MUNCH",
         "nameLocal": "MUNCH",
-        "note": "Тут наследие Мунка перестаёт быть тихим музеем и становится",
+        "note": "Тут наследие Мунка перестаёт быть тихим музеем и становится частью городского неба.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -2541,6 +2580,19 @@
               "body": "Перенос большого художественного наследия на новую набережную — это не только музейная логистика. Это городское заявление. Осло буквально вынес часть своей культурной самоидентификации к фьорду, туда, где раньше доминировали порт и инфраструктура. Поэтому здание читается как решение о центре города, а не просто о хранении коллекции. У MUNCH лучше всего сначала посмотреть не на вход, а на силуэт. Башня чуть отклонена, и это отклонение важно не как каприз формы, а как способ войти в разговор с горизонтом, водой и соседними зданиями. После библиотеки здесь снова возрастает масштаб. Но если Опера приглашала растворить институт в прогулке, то MUNCH, наоборот, даёт почувствовать музей как вертикальный знак — почти новый городской ориентир. Это особенно интересно в логике всего маршрута. Вы уже прошли оборонительный Осло и административный Осло, увидели открытый культурный берег и общественную библиотеку. Теперь на этой же линии стоит музей, выросший из одного из самых сильных художественных наследий страны. Важно не сводить место к одной-единственной картине."
             }
           ]
+        },
+        "photo": {
+          "id": "oslo-akershus-bjorvika-fjord-layers-stop-6",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-6-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-6-square.jpg",
+          "alt": "MUNCH",
+          "attribution": {
+            "author": "This image is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, credit me as described in the Licensing information below. I would appreciate being notified ( wikimail , talk page , email , Social Media ) if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. More of my work can be found in my personal gallery or at my Peertube channel . A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied here",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neues_Munch_Museum.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       },
       {
@@ -2568,6 +2620,19 @@
               "body": "В отрыве от контекста Barcode легко любить или ненавидеть по картинке. Но после маршрута они читаются как ответ на старую проблему Осло: как вернуть берег городу и одновременно не превратить его в пустой декоративный фронт. Финал хорош тем, что не прячет компромисс. Вы видите и успех нового центра, и его неизбежную жёсткость. Финал лучше читать с Akrobaten, потому что отсюда вся линия Barcode работает не как отдельные башни, а как ритм. Постойте так, чтобы видеть и рельсы, и разрывы между зданиями, и фрагменты воды. Тогда спор вокруг этого места становится почти наглядным без длинной лекции. Для одних Barcode — живая новая кромка центра, для других — слишком плотная стена между городом и фьордом. И именно поэтому здесь хорошо заканчивать прогулку: маршрут не пытается выдать одну правильную мораль. После Акерхуса, Christiania torv, Оперы, библиотеки и MUNCH этот ряд зданий выглядит уже не случайным вторжением, а последней, до сих пор спорной фазой большого разворота к воде. На этой точке Осло показывает цену своего нового берега: больше работы, плотности, образа, движения, выше ставки в споре о панораме и доступности. Посмотрите через промежутки между корпусами назад и вбок."
             }
           ]
+        },
+        "photo": {
+          "id": "oslo-akershus-bjorvika-fjord-layers-stop-7",
+          "kind": "photo",
+          "wide": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-7-wide.jpg",
+          "square": "https://rentery.github.io/images/v1/oslo/oslo-akershus-bjorvika-fjord-layers-stop-7-square.jpg",
+          "alt": "Akrobaten и Barcode",
+          "attribution": {
+            "author": "Premeditated",
+            "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barcode_with_view_to_Akrobaten_bridge.jpg",
+            "retrievedAt": "2026-06-19"
+          }
         }
       }
     ],

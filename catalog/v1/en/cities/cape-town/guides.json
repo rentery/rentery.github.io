@@ -893,7 +893,7 @@
         "entry": "по билету",
         "name": "District Six Museum",
         "nameLocal": "District Six Museum",
-        "note": "Карта на полу, по которой здесь до сих пор ищут дом",
+        "note": "Карта на полу, по которой здесь до сих пор ищут дом.",
         "time": "35 мин",
         "walk": "3 мин",
         "coordinates": {
@@ -937,9 +937,9 @@
       },
       {
         "entry": "снаружи",
-        "name": "Край District Six",
+        "name": "Край District Six у Homecoming Centre",
         "nameLocal": "District Six Museum Homecoming Centre",
-        "note": "Здесь память выходит из здания и становится городским рельефом",
+        "note": "Здесь память выходит из здания и становится городским рельефом.",
         "time": "15 мин",
         "walk": "14 мин",
         "coordinates": {
@@ -985,7 +985,7 @@
         "entry": "по билету",
         "name": "Castle of Good Hope",
         "nameLocal": "Castle of Good Hope",
-        "note": "Каменный каркас города без безобидной старины",
+        "note": "Каменный каркас города, который слишком легко принять за безобидную старину.",
         "time": "35 мин",
         "walk": "6 мин",
         "coordinates": {
@@ -1031,7 +1031,7 @@
         "entry": "снаружи",
         "name": "Grand Parade",
         "nameLocal": "Grand Parade",
-        "note": "Площадь между строевым плацем и публичным голосом города",
+        "note": "Площадь между строевым плацем и публичным голосом города.",
         "time": "20 мин",
         "walk": "6 мин",
         "coordinates": {
@@ -1077,7 +1077,7 @@
         "entry": "по билету",
         "name": "Iziko Slave Lodge",
         "nameLocal": "Slave Lodge",
-        "note": "Самое тяжёлое здание маршрута — и одно из самых тихих снаружи",
+        "note": "Самое тяжёлое здание маршрута — и одно из самых тихих снаружи.",
         "time": "35 мин",
         "walk": "4 мин",
         "coordinates": {
@@ -1123,7 +1123,7 @@
         "entry": "снаружи/по месту",
         "name": "St George’s Cathedral",
         "nameLocal": "St George’s Cathedral",
-        "note": "Собор, где центр города учился говорить языком совести",
+        "note": "Собор, где центр города учился говорить языком совести.",
         "time": "20 мин",
         "walk": "5 мин",
         "coordinates": {
@@ -1169,7 +1169,7 @@
         "entry": "снаружи",
         "name": "Company’s Garden",
         "nameLocal": "Company’s Garden",
-        "note": "Не финальный покой, а зелёный слой того же самого города",
+        "note": "Не финальный покой, а зелёный слой того же самого города.",
         "time": "30 мин",
         "walk": "-",
         "coordinates": {

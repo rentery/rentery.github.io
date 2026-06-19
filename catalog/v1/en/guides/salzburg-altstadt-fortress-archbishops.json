@@ -990,7 +990,7 @@
       "order": 1,
       "entry": "снаружи",
       "name": "Residenzplatz",
-      "note": "Здесь власть впервые становится городской декорацией",
+      "note": "Здесь власть впервые становится городской декорацией.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1028,8 +1028,8 @@
       "guideId": "salzburg-altstadt-fortress-archbishops",
       "order": 2,
       "entry": "снаружи",
-      "name": "Domplatz и фасад Зальцбургского",
-      "note": "Арки смыкают собор, дворец и город в одну сцену",
+      "name": "Domplatz и фасад Зальцбургского собора",
+      "note": "Арки смыкают собор, дворец и город в одну сцену.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1068,7 +1068,7 @@
       "order": 3,
       "entry": "снаружи",
       "name": "DomQuartier Salzburg",
-      "note": "Здесь князь-архиепископ ходил по собственной системе власти",
+      "note": "Здесь князь-архиепископ ходил по собственной системе власти.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1086,6 +1086,19 @@
       "coordinates": {
         "latitude": 47.79802,
         "longitude": 13.04651
+      },
+      "photo": {
+        "id": "salzburg-altstadt-fortress-archbishops-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-altstadt-fortress-archbishops-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/salzburg/salzburg-altstadt-fortress-archbishops-stop-3-square.jpg",
+        "alt": "DomQuartier Salzburg",
+        "attribution": {
+          "author": "Maskaravivek",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:DomQuartier_Salzburg.jpg",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -1094,7 +1107,7 @@
       "order": 4,
       "entry": "снаружи",
       "name": "St. Peter и Petersfriedhof",
-      "note": "Тишина здесь хранит историю города прочнее, чем парадные фасады",
+      "note": "Тишина здесь хранит историю города прочнее, чем парадные фасады.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1133,7 +1146,7 @@
       "order": 5,
       "entry": "снаружи",
       "name": "Kapitelplatz",
-      "note": "На этой пустоте особенно ясно видно, кто в городе смотрел",
+      "note": "На этой пустоте особенно ясно видно, кто в городе смотрел сверху вниз.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1151,6 +1164,19 @@
       "coordinates": {
         "latitude": 47.79745,
         "longitude": 13.04755
+      },
+      "photo": {
+        "id": "salzburg-altstadt-fortress-archbishops-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-altstadt-fortress-archbishops-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/salzburg/salzburg-altstadt-fortress-archbishops-stop-5-square.jpg",
+        "alt": "Kapitelplatz",
+        "attribution": {
+          "author": "Peter g at szg ( talk )",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapitelplatz_2a.JPG",
+          "retrievedAt": "2026-06-19"
+        }
       }
     },
     {
@@ -1159,7 +1185,7 @@
       "order": 6,
       "entry": "снаружи",
       "name": "Аббатство Nonnberg",
-      "note": "Под крепостью живет очень древний женский монастырь, а не",
+      "note": "Под крепостью живет очень древний женский монастырь, а не просто красивый сюжет из кино.",
       "time": "15 мин",
       "walk": "5 мин",
       "content": {
@@ -1198,7 +1224,7 @@
       "order": 7,
       "entry": "снаружи",
       "name": "Крепость Hohensalzburg",
-      "note": "Финал не о панораме, а о том, как город жил под постоянным",
+      "note": "Финал не о панораме, а о том, как город жил под постоянным напоминанием о силе.",
       "time": "15 мин",
       "walk": "-",
       "content": {
