@@ -1339,7 +1339,18 @@
         "src-market",
         "src-tob"
       ],
-      "stopId": "belgrade-zemun-danube-town-1"
+      "stopId": "belgrade-zemun-danube-town-1",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:cfa0e29665522cc4c658fa20902039d2c60848a2cd2f904070bbf444a4534d9c",
+          "contentLocale": "ru",
+          "durationSeconds": 119.76,
+          "generatedAt": "2026-06-21T17:06:59Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-1-ru-e175a01a1ea5cba5.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-1-ru-e175a01a1ea5cba5.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-2",
@@ -1395,7 +1406,18 @@
         "src-zemun-heritage",
         "src-beat-magistratski"
       ],
-      "stopId": "belgrade-zemun-danube-town-2"
+      "stopId": "belgrade-zemun-danube-town-2",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:64241d94066dca49bc57e44ddaa4663c3f753d3f51c99f6c3d64fa14fa5de2e4",
+          "contentLocale": "ru",
+          "durationSeconds": 137.52,
+          "generatedAt": "2026-06-21T17:06:59Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-3",
@@ -1447,7 +1469,18 @@
         "src-zemun-heritage",
         "src-beat-magistratski"
       ],
-      "stopId": "belgrade-zemun-danube-town-3"
+      "stopId": "belgrade-zemun-danube-town-3",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:4fee02e5e41fa2f264075c18e2e686da45860b2b8039e426379c5df044bb639e",
+          "contentLocale": "ru",
+          "durationSeconds": 94.08,
+          "generatedAt": "2026-06-21T17:13:13Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-3-ru-c55d45b2b6340481.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-3-ru-c55d45b2b6340481.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-4",
@@ -1502,7 +1535,18 @@
       "sourceIds": [
         "src-municipal-church"
       ],
-      "stopId": "belgrade-zemun-danube-town-4"
+      "stopId": "belgrade-zemun-danube-town-4",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:60e9db46a3f1d4592abf1fed03464eb079d05f7e60f38b035fc75a71e39d9eb0",
+          "contentLocale": "ru",
+          "durationSeconds": 132,
+          "generatedAt": "2026-06-21T17:13:13Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-4-ru-3b36470d9423d368.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-4-ru-3b36470d9423d368.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-5",
@@ -1553,7 +1597,18 @@
       "sourceIds": [
         "src-serbia-gardos"
       ],
-      "stopId": "belgrade-zemun-danube-town-5"
+      "stopId": "belgrade-zemun-danube-town-5",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:5a14fba8503c01640b0780fde38c025f8d805c10c5d377710a907b6d8e448466",
+          "contentLocale": "ru",
+          "durationSeconds": 95.44,
+          "generatedAt": "2026-06-21T17:13:14Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-5-ru-92515eacbd772f6c.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-5-ru-92515eacbd772f6c.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-6",
@@ -1605,7 +1660,18 @@
         "src-serbia-gardos",
         "src-gardos-hours"
       ],
-      "stopId": "belgrade-zemun-danube-town-6"
+      "stopId": "belgrade-zemun-danube-town-6",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:cd25f357d60809b0fee9a1a9d0354e5424048b29a7e5bf41fc339c5516a0d17b",
+          "contentLocale": "ru",
+          "durationSeconds": 117.2,
+          "generatedAt": "2026-06-21T17:13:14Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-6-ru-be28ad65f1ef3898.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-6-ru-be28ad65f1ef3898.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-7",
@@ -1657,7 +1723,18 @@
         "src-beat-kej",
         "src-tob"
       ],
-      "stopId": "belgrade-zemun-danube-town-7"
+      "stopId": "belgrade-zemun-danube-town-7",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:b67b0c37da693d94defff1bb748ea7551d232ac2a328883f4079f341881d4be4",
+          "contentLocale": "ru",
+          "durationSeconds": 119.28,
+          "generatedAt": "2026-06-21T17:13:14Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-7-ru-c899f61f84b6df33.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-7-ru-c899f61f84b6df33.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     },
     {
       "id": "belgrade-zemun-danube-town-8",
@@ -1713,7 +1790,18 @@
         "src-archdaily-hotel",
         "src-beat-kej"
       ],
-      "stopId": "belgrade-zemun-danube-town-8"
+      "stopId": "belgrade-zemun-danube-town-8",
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:bab58f565db1ccc6304cb6844c65aa602d8154582443e8761bbc0ebbaee9fee9",
+          "contentLocale": "ru",
+          "durationSeconds": 124.8,
+          "generatedAt": "2026-06-21T17:13:15Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-8-ru-4a3b61f169bc8ca2.json",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-8-ru-4a3b61f169bc8ca2.opus",
+          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
+        }
+      }
     }
   ],
   "cover": {

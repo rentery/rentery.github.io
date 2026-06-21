@@ -1,0 +1,21 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "generated",
+  "cityId": "belgrade",
+  "guideId": "belgrade-novi-beograd-federal-concrete",
+  "stopId": "belgrade-novi-beograd-federal-concrete-1",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
+  "voiceMode": "voice_design_no_human_reference",
+  "sourceTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
+  "speechTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
+  "durationSeconds": 125.2,
+  "sampleRate": 24000,
+  "checksum": "sha256:68b8f01d946c6d0a6faddacbf09763be2445383a95bb97b7de27167d8619ef94",
+  "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.json",
+  "createdAt": "2026-06-21T17:06:56Z",
+  "generatedAt": "2026-06-21T17:06:56Z"
+}

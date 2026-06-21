@@ -1,0 +1,21 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "generated",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-1",
+  "locale": "en",
+  "contentLocale": "en",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "voiceProfile": "en-classic-guide-female-qwen3-v1",
+  "voiceMode": "voice_design_no_human_reference",
+  "sourceTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
+  "speechTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
+  "durationSeconds": 64.96,
+  "sampleRate": 24000,
+  "checksum": "sha256:07e5ecd8c4d3fd493e67ab046c7aa8615be6a27e4cf75ccd16f607a58d5b88dc",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.json",
+  "createdAt": "2026-06-21T17:13:15Z",
+  "generatedAt": "2026-06-21T17:13:15Z"
+}

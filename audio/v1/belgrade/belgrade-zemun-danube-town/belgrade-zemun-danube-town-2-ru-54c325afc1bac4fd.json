@@ -1,0 +1,21 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "generated",
+  "cityId": "belgrade",
+  "guideId": "belgrade-zemun-danube-town",
+  "stopId": "belgrade-zemun-danube-town-2",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
+  "voiceMode": "voice_design_no_human_reference",
+  "sourceTextHash": "sha256:48dafac6af03b919add293e4f7b0c9b7afb2cc6fc3528112254d85095d27a0ac",
+  "speechTextHash": "sha256:48dafac6af03b919add293e4f7b0c9b7afb2cc6fc3528112254d85095d27a0ac",
+  "durationSeconds": 137.52,
+  "sampleRate": 24000,
+  "checksum": "sha256:64241d94066dca49bc57e44ddaa4663c3f753d3f51c99f6c3d64fa14fa5de2e4",
+  "publicPath": "audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.json",
+  "createdAt": "2026-06-21T17:06:59Z",
+  "generatedAt": "2026-06-21T17:06:59Z"
+}
