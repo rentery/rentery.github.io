@@ -2189,8 +2189,8 @@
         },
         "audioAssets": {
           "ru": {
-            "url": "https://rentery.github.io/audio/v1/_fixture/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru.opus",
-            "manifestUrl": "https://rentery.github.io/audio/v1/_fixture/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru.json",
+            "url": "https://rentery.github.io/audio/v1/fixtures/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru.opus",
+            "manifestUrl": "https://rentery.github.io/audio/v1/fixtures/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru.json",
             "contentLocale": "ru",
             "durationSeconds": 94.48,
             "voiceProfile": "ru-fixture-classic-guide-female-qwen3",
@@ -2198,8 +2198,8 @@
             "checksum": "sha256:31c1d67eb7b08692b8f8bc3e4ba47848391adea41d18d322385580c5e72fcddb"
           },
           "en": {
-            "url": "https://rentery.github.io/audio/v1/_fixture/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en.opus",
-            "manifestUrl": "https://rentery.github.io/audio/v1/_fixture/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en.json",
+            "url": "https://rentery.github.io/audio/v1/fixtures/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en.opus",
+            "manifestUrl": "https://rentery.github.io/audio/v1/fixtures/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en.json",
             "contentLocale": "en",
             "durationSeconds": 64.88,
             "voiceProfile": "en-fixture-classic-guide-female-qwen3",
