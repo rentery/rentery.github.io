@@ -2109,21 +2109,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-1",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 1,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:07e5ecd8c4d3fd493e67ab046c7aa8615be6a27e4cf75ccd16f607a58d5b88dc",
-            "contentLocale": "en",
-            "durationSeconds": 64.96,
-            "generatedAt": "2026-06-21T17:13:15Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
-            "speechTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 1
       },
       {
         "entry": "free",
@@ -2163,21 +2149,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-2",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 2,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:c51c24f7d335ab74bbf5cbc2aeb00f2574881da4ea1849e40f3b606df93f9b97",
-            "contentLocale": "en",
-            "durationSeconds": 68.88,
-            "generatedAt": "2026-06-21T17:13:15Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-520a49df8f883014.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:a056cf2d7a8aee0f2b5ff3944b7a03807aefe7155f2781d9652728dc5fc3f696",
-            "speechTextHash": "sha256:a056cf2d7a8aee0f2b5ff3944b7a03807aefe7155f2781d9652728dc5fc3f696",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-520a49df8f883014.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 2
       },
       {
         "entry": "free",
@@ -2213,20 +2185,6 @@
             "license": "CC BY-SA 3.0; cropped/resized for app",
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kosan%C4%8Di%C4%87ev_venac_u_Beogradu.jpg",
             "retrievedAt": "2026-06-13"
-          }
-        },
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:6bb84a2e2806edaefdeef8ead2705bb4a74ab6e15dfe50a8a6fe06bcafabb9cd",
-            "contentLocale": "en",
-            "durationSeconds": 57.76,
-            "generatedAt": "2026-06-21T17:13:15Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-483a365e022cc9c1.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:e2f8487abfe63d1d893b25d03fb840a069890f52d4e7cfa6f7b533609da0cbbe",
-            "speechTextHash": "sha256:e2f8487abfe63d1d893b25d03fb840a069890f52d4e7cfa6f7b533609da0cbbe",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-483a365e022cc9c1.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
           }
         },
         "id": "belgrade-fortress-rivers-first-city-3",
@@ -2271,21 +2229,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-4",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 4,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:62d23c415d9414a8c7384e878105b4006de87ae4ac1220f67b0e7484d0b930cb",
-            "contentLocale": "en",
-            "durationSeconds": 65.04,
-            "generatedAt": "2026-06-21T17:13:16Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-5adf02ae04c58ba2.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
-            "speechTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-5adf02ae04c58ba2.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 4
       },
       {
         "entry": "free",
@@ -2325,21 +2269,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-5",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 5,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:409228f1cb5effcd4557203332a0f6df21289c84156fc30995434120a8be6b94",
-            "contentLocale": "en",
-            "durationSeconds": 65.2,
-            "generatedAt": "2026-06-21T17:13:16Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-b2b105a258403302.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
-            "speechTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-b2b105a258403302.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 5
       },
       {
         "entry": "outside",
@@ -2379,21 +2309,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-6",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 6,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:0bb69fa8414de40d326f2524caa1cbefe08bf2c9420270c5704fe6b8feb5e556",
-            "contentLocale": "en",
-            "durationSeconds": 70.08,
-            "generatedAt": "2026-06-21T17:13:16Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-a59bb31d5c0e3f7a.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:c32ce5d6973e41d186c9f2f3f632163adea4443cc69c3b59181cda0a734ecf98",
-            "speechTextHash": "sha256:c32ce5d6973e41d186c9f2f3f632163adea4443cc69c3b59181cda0a734ecf98",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-a59bb31d5c0e3f7a.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 6
       },
       {
         "entry": "outside",
@@ -2433,21 +2349,7 @@
         },
         "id": "belgrade-fortress-rivers-first-city-7",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 7,
-        "audioAssets": {
-          "en": {
-            "checksum": "sha256:616c416d7a6738841a296cdb39ddeefbb7980517b5fda4dc7c378e18348e72be",
-            "contentLocale": "en",
-            "durationSeconds": 75.36,
-            "generatedAt": "2026-06-21T17:13:16Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-c2f823d744be5c22.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
-            "speechTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-c2f823d744be5c22.opus",
-            "voiceProfile": "en-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 7
       }
     ]
   },
@@ -4623,21 +4525,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-1",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 1,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:68b8f01d946c6d0a6faddacbf09763be2445383a95bb97b7de27167d8619ef94",
-            "contentLocale": "ru",
-            "durationSeconds": 125.2,
-            "generatedAt": "2026-06-21T17:06:56Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-            "speechTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 1
       },
       {
         "entry": "по билету",
@@ -4683,21 +4571,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-2",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 2,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:735eacae4833c5043d8c9449ad6ecc6a34f8d9003630e5d220276f4ba02abe96",
-            "contentLocale": "ru",
-            "durationSeconds": 108.32,
-            "generatedAt": "2026-06-21T17:06:56Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-            "speechTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 2
       },
       {
         "entry": "снаружи",
@@ -4743,21 +4617,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-3",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 3,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:307653d94117e63b86270a6d2d6cd5e28f71480dd1c3da17c1e360c88b751b35",
-            "contentLocale": "ru",
-            "durationSeconds": 129.2,
-            "generatedAt": "2026-06-21T17:06:57Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-            "speechTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 3
       },
       {
         "entry": "по записи",
@@ -4803,21 +4663,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-4",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 4,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:2d9eb507fe8c7b7d552fa773ce45ff95aeaec27861fb6788a95a90fe2aaca61d",
-            "contentLocale": "ru",
-            "durationSeconds": 118.88,
-            "generatedAt": "2026-06-21T17:06:57Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-            "speechTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 4
       },
       {
         "entry": "по месту",
@@ -4863,21 +4709,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-5",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 5,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:7b0567b706df27d4585c689cf635f28c6120a119c98e7abbd09ff202613ffa12",
-            "contentLocale": "ru",
-            "durationSeconds": 115.92,
-            "generatedAt": "2026-06-21T17:06:58Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-            "speechTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 5
       },
       {
         "entry": "снаружи",
@@ -4923,21 +4755,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-6",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 6,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:7b4a201da5aed28d0373c8515f32249abeec4ea810819696ec90e15ef5ef5087",
-            "contentLocale": "ru",
-            "durationSeconds": 148.16,
-            "generatedAt": "2026-06-21T17:06:58Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-            "speechTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 6
       },
       {
         "entry": "снаружи",
@@ -4983,21 +4801,7 @@
         },
         "id": "belgrade-novi-beograd-federal-concrete-7",
         "guideId": "belgrade-novi-beograd-federal-concrete",
-        "order": 7,
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:fe2935ca482ec984174e96c40291250e84e30b8aa6bd4823c3ab109fa86910dd",
-            "contentLocale": "ru",
-            "durationSeconds": 143.2,
-            "generatedAt": "2026-06-21T17:06:59Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-            "speechTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "order": 7
       }
     ]
   },
@@ -6342,21 +6146,7 @@
           "src-market",
           "src-tob"
         ],
-        "stopId": "belgrade-zemun-danube-town-1",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:cfa0e29665522cc4c658fa20902039d2c60848a2cd2f904070bbf444a4534d9c",
-            "contentLocale": "ru",
-            "durationSeconds": 119.76,
-            "generatedAt": "2026-06-21T17:06:59Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-1-ru-e175a01a1ea5cba5.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:d1945ee7913249e64f925bbbe6d5fa19879e18d510ec02062bce3919f3ef5c0e",
-            "speechTextHash": "sha256:d1945ee7913249e64f925bbbe6d5fa19879e18d510ec02062bce3919f3ef5c0e",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-1-ru-e175a01a1ea5cba5.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-1"
       },
       {
         "id": "belgrade-zemun-danube-town-2",
@@ -6412,21 +6202,7 @@
           "src-zemun-heritage",
           "src-beat-magistratski"
         ],
-        "stopId": "belgrade-zemun-danube-town-2",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:64241d94066dca49bc57e44ddaa4663c3f753d3f51c99f6c3d64fa14fa5de2e4",
-            "contentLocale": "ru",
-            "durationSeconds": 137.52,
-            "generatedAt": "2026-06-21T17:06:59Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:48dafac6af03b919add293e4f7b0c9b7afb2cc6fc3528112254d85095d27a0ac",
-            "speechTextHash": "sha256:48dafac6af03b919add293e4f7b0c9b7afb2cc6fc3528112254d85095d27a0ac",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-2-ru-54c325afc1bac4fd.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-2"
       },
       {
         "id": "belgrade-zemun-danube-town-3",
@@ -6478,21 +6254,7 @@
           "src-zemun-heritage",
           "src-beat-magistratski"
         ],
-        "stopId": "belgrade-zemun-danube-town-3",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:4fee02e5e41fa2f264075c18e2e686da45860b2b8039e426379c5df044bb639e",
-            "contentLocale": "ru",
-            "durationSeconds": 94.08,
-            "generatedAt": "2026-06-21T17:13:13Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-3-ru-c55d45b2b6340481.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:08037b9d5395ae93b3e52388bcf134836b266aef5214b3e34482a72b4b50cbc2",
-            "speechTextHash": "sha256:08037b9d5395ae93b3e52388bcf134836b266aef5214b3e34482a72b4b50cbc2",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-3-ru-c55d45b2b6340481.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-3"
       },
       {
         "id": "belgrade-zemun-danube-town-4",
@@ -6547,21 +6309,7 @@
         "sourceIds": [
           "src-municipal-church"
         ],
-        "stopId": "belgrade-zemun-danube-town-4",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:60e9db46a3f1d4592abf1fed03464eb079d05f7e60f38b035fc75a71e39d9eb0",
-            "contentLocale": "ru",
-            "durationSeconds": 132,
-            "generatedAt": "2026-06-21T17:13:13Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-4-ru-3b36470d9423d368.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:44b3d8dc8b7bbca86d02ea852481db8c5424b49aba4696ae26bcba8eef8f4c05",
-            "speechTextHash": "sha256:44b3d8dc8b7bbca86d02ea852481db8c5424b49aba4696ae26bcba8eef8f4c05",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-4-ru-3b36470d9423d368.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-4"
       },
       {
         "id": "belgrade-zemun-danube-town-5",
@@ -6612,21 +6360,7 @@
         "sourceIds": [
           "src-serbia-gardos"
         ],
-        "stopId": "belgrade-zemun-danube-town-5",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:5a14fba8503c01640b0780fde38c025f8d805c10c5d377710a907b6d8e448466",
-            "contentLocale": "ru",
-            "durationSeconds": 95.44,
-            "generatedAt": "2026-06-21T17:13:14Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-5-ru-92515eacbd772f6c.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:2648e643feb332b17e6cda006528ba93c247ae336b102d2f4e9a0c54cea3d846",
-            "speechTextHash": "sha256:2648e643feb332b17e6cda006528ba93c247ae336b102d2f4e9a0c54cea3d846",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-5-ru-92515eacbd772f6c.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-5"
       },
       {
         "id": "belgrade-zemun-danube-town-6",
@@ -6678,21 +6412,7 @@
           "src-serbia-gardos",
           "src-gardos-hours"
         ],
-        "stopId": "belgrade-zemun-danube-town-6",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:cd25f357d60809b0fee9a1a9d0354e5424048b29a7e5bf41fc339c5516a0d17b",
-            "contentLocale": "ru",
-            "durationSeconds": 117.2,
-            "generatedAt": "2026-06-21T17:13:14Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-6-ru-be28ad65f1ef3898.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:c6f9ff489b92f276ff16a338e3d63ba330d2862af908816747a85264cf538974",
-            "speechTextHash": "sha256:c6f9ff489b92f276ff16a338e3d63ba330d2862af908816747a85264cf538974",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-6-ru-be28ad65f1ef3898.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-6"
       },
       {
         "id": "belgrade-zemun-danube-town-7",
@@ -6744,21 +6464,7 @@
           "src-beat-kej",
           "src-tob"
         ],
-        "stopId": "belgrade-zemun-danube-town-7",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:b67b0c37da693d94defff1bb748ea7551d232ac2a328883f4079f341881d4be4",
-            "contentLocale": "ru",
-            "durationSeconds": 119.28,
-            "generatedAt": "2026-06-21T17:13:14Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-7-ru-c899f61f84b6df33.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:41a0ee6581191ab9712c695e7a7816fdbac023e17405f985ab87bb050a9f2ab8",
-            "speechTextHash": "sha256:41a0ee6581191ab9712c695e7a7816fdbac023e17405f985ab87bb050a9f2ab8",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-7-ru-c899f61f84b6df33.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-7"
       },
       {
         "id": "belgrade-zemun-danube-town-8",
@@ -6814,21 +6520,7 @@
           "src-archdaily-hotel",
           "src-beat-kej"
         ],
-        "stopId": "belgrade-zemun-danube-town-8",
-        "audioAssets": {
-          "ru": {
-            "checksum": "sha256:bab58f565db1ccc6304cb6844c65aa602d8154582443e8761bbc0ebbaee9fee9",
-            "contentLocale": "ru",
-            "durationSeconds": 124.8,
-            "generatedAt": "2026-06-21T17:13:15Z",
-            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-8-ru-4a3b61f169bc8ca2.json",
-            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-            "sourceTextHash": "sha256:e9e46f7bce0288d1c2b5f9f86709c5aca9f7bcd982f2ebd62a459453db0fd226",
-            "speechTextHash": "sha256:e9e46f7bce0288d1c2b5f9f86709c5aca9f7bcd982f2ebd62a459453db0fd226",
-            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-zemun-danube-town/belgrade-zemun-danube-town-8-ru-4a3b61f169bc8ca2.opus",
-            "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-          }
-        }
+        "stopId": "belgrade-zemun-danube-town-8"
       }
     ],
     "cover": {

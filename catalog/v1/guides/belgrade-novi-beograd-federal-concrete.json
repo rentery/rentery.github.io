@@ -2170,21 +2170,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-1",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 1,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:68b8f01d946c6d0a6faddacbf09763be2445383a95bb97b7de27167d8619ef94",
-          "contentLocale": "ru",
-          "durationSeconds": 125.2,
-          "generatedAt": "2026-06-21T17:06:56Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-          "speechTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 1
     },
     {
       "entry": "по билету",
@@ -2230,21 +2216,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-2",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 2,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:735eacae4833c5043d8c9449ad6ecc6a34f8d9003630e5d220276f4ba02abe96",
-          "contentLocale": "ru",
-          "durationSeconds": 108.32,
-          "generatedAt": "2026-06-21T17:06:56Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-          "speechTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 2
     },
     {
       "entry": "снаружи",
@@ -2290,21 +2262,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-3",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 3,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:307653d94117e63b86270a6d2d6cd5e28f71480dd1c3da17c1e360c88b751b35",
-          "contentLocale": "ru",
-          "durationSeconds": 129.2,
-          "generatedAt": "2026-06-21T17:06:57Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-          "speechTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 3
     },
     {
       "entry": "по записи",
@@ -2350,21 +2308,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-4",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 4,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:2d9eb507fe8c7b7d552fa773ce45ff95aeaec27861fb6788a95a90fe2aaca61d",
-          "contentLocale": "ru",
-          "durationSeconds": 118.88,
-          "generatedAt": "2026-06-21T17:06:57Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-          "speechTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 4
     },
     {
       "entry": "по месту",
@@ -2410,21 +2354,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-5",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 5,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:7b0567b706df27d4585c689cf635f28c6120a119c98e7abbd09ff202613ffa12",
-          "contentLocale": "ru",
-          "durationSeconds": 115.92,
-          "generatedAt": "2026-06-21T17:06:58Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-          "speechTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 5
     },
     {
       "entry": "снаружи",
@@ -2470,21 +2400,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-6",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 6,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:7b4a201da5aed28d0373c8515f32249abeec4ea810819696ec90e15ef5ef5087",
-          "contentLocale": "ru",
-          "durationSeconds": 148.16,
-          "generatedAt": "2026-06-21T17:06:58Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-          "speechTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 6
     },
     {
       "entry": "снаружи",
@@ -2530,21 +2446,7 @@
       },
       "id": "belgrade-novi-beograd-federal-concrete-7",
       "guideId": "belgrade-novi-beograd-federal-concrete",
-      "order": 7,
-      "audioAssets": {
-        "ru": {
-          "checksum": "sha256:fe2935ca482ec984174e96c40291250e84e30b8aa6bd4823c3ab109fa86910dd",
-          "contentLocale": "ru",
-          "durationSeconds": 143.2,
-          "generatedAt": "2026-06-21T17:06:59Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.json",
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "sourceTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-          "speechTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        }
-      }
+      "order": 7
     }
   ]
 }
