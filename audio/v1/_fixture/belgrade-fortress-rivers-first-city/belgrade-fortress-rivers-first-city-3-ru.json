@@ -1,0 +1,18 @@
+{
+  "status": "fixture_generated",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-3",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "voiceProfile": "ru-fixture-classic-guide-female-qwen3",
+  "voiceMode": "voice_design_no_human_reference",
+  "speechTextHash": "sha256:5a6514b789cb330209459ee8f27ac017c6f5aa83119c31e87b5a39ae2c833380",
+  "durationSeconds": 94.48,
+  "sampleRate": 24000,
+  "publicPath": "audio/v1/_fixture/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru.opus",
+  "checksum": "sha256:31c1d67eb7b08692b8f8bc3e4ba47848391adea41d18d322385580c5e72fcddb",
+  "createdAt": "2026-06-21T15:39:09Z",
+  "source": "Qwen3 fixture for app audioAssets wiring gate"
+}
