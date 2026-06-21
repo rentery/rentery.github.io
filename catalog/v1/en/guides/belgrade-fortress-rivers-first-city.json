@@ -2110,21 +2110,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 1,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:322b75e5725de179aa7bfa5f72e8aee1a9534463edb3142afcec3639adaccd50",
-          "contentLocale": "ru",
-          "durationSeconds": 104.4,
-          "generatedAt": "2026-06-21T17:06:53Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-2923ee73fce75fdd.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-2923ee73fce75fdd.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:07e5ecd8c4d3fd493e67ab046c7aa8615be6a27e4cf75ccd16f607a58d5b88dc",
           "contentLocale": "en",
           "durationSeconds": 64.96,
           "generatedAt": "2026-06-21T17:13:15Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
+          "speechTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-617ae1dab93c18ea.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2170,21 +2164,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 2,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:869b0265b9b9b1ad084af45bcca1e66c755f0706debea00c23ae16471d497a3e",
-          "contentLocale": "ru",
-          "durationSeconds": 117.52,
-          "generatedAt": "2026-06-21T17:06:54Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-a512525df49f3fdd.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-a512525df49f3fdd.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:c51c24f7d335ab74bbf5cbc2aeb00f2574881da4ea1849e40f3b606df93f9b97",
           "contentLocale": "en",
           "durationSeconds": 68.88,
           "generatedAt": "2026-06-21T17:13:15Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-520a49df8f883014.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:a056cf2d7a8aee0f2b5ff3944b7a03807aefe7155f2781d9652728dc5fc3f696",
+          "speechTextHash": "sha256:a056cf2d7a8aee0f2b5ff3944b7a03807aefe7155f2781d9652728dc5fc3f696",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-520a49df8f883014.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2227,21 +2215,15 @@
         }
       },
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:14e22b86ad217fcdf6c841501580c5d45737ddb1862db290c89c169709bb8288",
-          "contentLocale": "ru",
-          "durationSeconds": 111.04,
-          "generatedAt": "2026-06-21T17:06:54Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-c29b61306b95e487.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-c29b61306b95e487.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:6bb84a2e2806edaefdeef8ead2705bb4a74ab6e15dfe50a8a6fe06bcafabb9cd",
           "contentLocale": "en",
           "durationSeconds": 57.76,
           "generatedAt": "2026-06-21T17:13:15Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-483a365e022cc9c1.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:e2f8487abfe63d1d893b25d03fb840a069890f52d4e7cfa6f7b533609da0cbbe",
+          "speechTextHash": "sha256:e2f8487abfe63d1d893b25d03fb840a069890f52d4e7cfa6f7b533609da0cbbe",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-483a365e022cc9c1.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2290,21 +2272,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 4,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:74f1ebc0b5a7249fda1a19c7634386e3038456b4e6e827b01ebdf133ef6a087d",
-          "contentLocale": "ru",
-          "durationSeconds": 98,
-          "generatedAt": "2026-06-21T17:06:55Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-5a9862d9ad926543.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-5a9862d9ad926543.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:62d23c415d9414a8c7384e878105b4006de87ae4ac1220f67b0e7484d0b930cb",
           "contentLocale": "en",
           "durationSeconds": 65.04,
           "generatedAt": "2026-06-21T17:13:16Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-5adf02ae04c58ba2.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
+          "speechTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-5adf02ae04c58ba2.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2350,21 +2326,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 5,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:0f336b60a3e3485757303a5eeae345fa2a2c3122f1282f40d691f8a9b9dcb4aa",
-          "contentLocale": "ru",
-          "durationSeconds": 104.56,
-          "generatedAt": "2026-06-21T17:06:55Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-c802fb07b95288df.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-c802fb07b95288df.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:409228f1cb5effcd4557203332a0f6df21289c84156fc30995434120a8be6b94",
           "contentLocale": "en",
           "durationSeconds": 65.2,
           "generatedAt": "2026-06-21T17:13:16Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-b2b105a258403302.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
+          "speechTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-b2b105a258403302.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2410,21 +2380,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 6,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:e7add5e449237dd3540167fdc6d0adb05d0c750e50e049cbd9b2fe238184f745",
-          "contentLocale": "ru",
-          "durationSeconds": 108.8,
-          "generatedAt": "2026-06-21T17:06:55Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-6d94905308333d83.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-6d94905308333d83.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:0bb69fa8414de40d326f2524caa1cbefe08bf2c9420270c5704fe6b8feb5e556",
           "contentLocale": "en",
           "durationSeconds": 70.08,
           "generatedAt": "2026-06-21T17:13:16Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-a59bb31d5c0e3f7a.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:c32ce5d6973e41d186c9f2f3f632163adea4443cc69c3b59181cda0a734ecf98",
+          "speechTextHash": "sha256:c32ce5d6973e41d186c9f2f3f632163adea4443cc69c3b59181cda0a734ecf98",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-a59bb31d5c0e3f7a.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }
@@ -2470,21 +2434,15 @@
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 7,
       "audioAssets": {
-        "ru": {
-          "checksum": "sha256:e952ad975f3ba98ccff3173d42d1e8a4bc4a71d3953e78f8685672726c0464dc",
-          "contentLocale": "ru",
-          "durationSeconds": 130.08,
-          "generatedAt": "2026-06-21T17:06:56Z",
-          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-41481a7259a60aec.json",
-          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-41481a7259a60aec.opus",
-          "voiceProfile": "ru-classic-guide-female-qwen3-v1"
-        },
         "en": {
           "checksum": "sha256:616c416d7a6738841a296cdb39ddeefbb7980517b5fda4dc7c378e18348e72be",
           "contentLocale": "en",
           "durationSeconds": 75.36,
           "generatedAt": "2026-06-21T17:13:16Z",
           "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-c2f823d744be5c22.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "sourceTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
+          "speechTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
           "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-c2f823d744be5c22.opus",
           "voiceProfile": "en-classic-guide-female-qwen3-v1"
         }

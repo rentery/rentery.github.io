@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "a5bc54501f11",
+      "packHash": "16d8d3cab2f3",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-21T17:22:37.889Z",
+  "generatedAt": "2026-06-21T17:40:58.382Z",
   "locale": "en",
   "schemaVersion": 1
 }
