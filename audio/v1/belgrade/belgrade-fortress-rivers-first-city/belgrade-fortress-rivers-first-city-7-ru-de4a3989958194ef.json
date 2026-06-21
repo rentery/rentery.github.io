@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-7",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "sourceTextHash": "sha256:0a02d2f4b41a36f4568f69a6235876aaa2b5fff3876817d72c62208f9322e8de",
+  "speechTextHash": "sha256:89c240fc3187b8b87507216a4547617d33706946db4e0731f31fed623adff459",
+  "durationSeconds": 112.64,
+  "sampleRate": 24000,
+  "checksum": "sha256:a1d82686938818375c9a66e4b617cdb88a95191d2acde120adffda9e38adbbeb",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 112.647,
+      "words": 245,
+      "wpm": 130.5,
+      "meanVolumeDb": -22.4,
+      "maxVolumeDb": -3.6
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 21,
+      "totalSilenceSeconds": 8.708,
+      "silenceRatio": 0.077,
+      "maxSilenceSeconds": 0.633
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 112.64,
+      "transcript": "Речная башня у воды. Финал у воды, где город держит речной удар. Подойдите так, чтобы башня читалась на фоне воды, а потом посмотрите назад на плато. Это один из самых точных финалов для первого знакомства с Белградом. Высокий центр уже позади. Здесь начинается другая правда города. Пропорт, подступы, слабое место и последнюю линию напряжения у самой воды. Официальная история башни особенно сильна тем, что она не дает романтизировать это место. Башня была построена около 1460 года для защиты входа в Нижнегородский порт. Позже она стала печально известной тюрьмой и местом казней. То есть одна и та же точка была и обороной, и контролем, и памятью о насилии. На речном краю Белград всегда читается гуще, чем в центре. Здесь география сразу превращается в политику и человеческую судьбу. Если посмотреть отсюда назад на весь маршрут, его форма становится ясной. Площадь дала современный центр, улица, городской хребет, край крепости, ответ про высоту и две реки, а башня у воды закрывает круг. Первый Белград – это город, который поднял голову на высоту и все равно никогда не мог перестать жить у реки. Насколько низко по отношению к плато стоит башня? Воду как подступ, а не как фон разницу между обзорной крепостью наверху и портовой обороной здесь. Если силы заканчиваются, это лучшая точка для финальной паузы. Смысл маршрута уже собран полностью. Если возвращаетесь пешком в центр, добавьте отдельное время на обратный подъем. Финиш. Постойте еще минуту у воды и посмотрите назад на высоту. Так маршрут лучше всего закрывается в голове.",
+      "similarity": 99.9,
+      "wer": 0.012
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+      "similarity": 0.9945,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:42:18Z",
+  "generatedAt": "2026-06-21T19:42:18Z"
+}

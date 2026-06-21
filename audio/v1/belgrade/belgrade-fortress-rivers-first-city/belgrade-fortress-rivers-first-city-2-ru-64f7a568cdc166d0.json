@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-2",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "sourceTextHash": "sha256:36a56c6cca4f4defc06dd985b0af5f4550e5015d242b27d76c2586df993f77c5",
+  "speechTextHash": "sha256:e7cd89caaa03861e5025bc2dff68c2063f38e8b45779b89a6ad15a124e1bb7e1",
+  "durationSeconds": 100.96,
+  "sampleRate": 24000,
+  "checksum": "sha256:f63e1853a802d8b71dc2841c83e864f1ab60eff7bf3db167de5cd8882dd47976",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 100.966,
+      "words": 210,
+      "wpm": 124.8,
+      "meanVolumeDb": -22.0,
+      "maxVolumeDb": -4.0
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 22,
+      "totalSilenceSeconds": 10.46,
+      "silenceRatio": 0.104,
+      "maxSilenceSeconds": 0.777
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 100.96,
+      "transcript": "Улица князя Михаила. Это не просто витрины, это хребет, который тянет город к краю. Лучше всего читать улицу князя Михаила не как торговую улицу, а как направленную линию. Встаньте посередине и посмотрите вперед, она будто сама тянет вас к Калимикдану. Это не случайный комфорт, а очень старая городская логика. Под ногами чувствуется устойчивая верхняя полка центра, линия, по которой проще всего идти к крепости. Отсюда Белград выглядит удивительно спокойным и почти европейски ровным. Фасады, окна, витрины, музыканты, разговоры. Но именно эта нормальность и важна. Она показывает, как пограничный город научился жить не только войной и высотой, но и гражданской жизнью. На поверхности улица на глубине рельеф, который все еще упрямо ведет к краю крепости. Не ищите здесь реку глазами. Ее специально еще не видно. Улица князя Михаила работает как длинный вдох перед выходом на обрыв. Вы еще в городе, но уже идете туда, где город перестанет быть фасадом и станет географией, как улица постепенно тянет взгляд к Калимикдану. Смену ощущения от центра к направлению, фасады, которые делают пограничный город удивительно собранным. Смотрите не в витрины, а вдоль общей оси улицы. Если толпа плотная, остановитесь на более широком участке и посмотрите вдаль. Продолжайте на запад. Затем уходите к Косанчищеву-Венцу и смотровому краю над Савой. Там рельеф скажет больше, чем фасады.",
+      "similarity": 99.5,
+      "wer": 0.014
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+      "similarity": 0.9961,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:37:27Z",
+  "generatedAt": "2026-06-21T19:37:27Z"
+}

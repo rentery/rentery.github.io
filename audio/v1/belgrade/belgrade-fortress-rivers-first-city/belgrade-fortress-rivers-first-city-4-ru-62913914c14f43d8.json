@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-4",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "sourceTextHash": "sha256:394d161348ff1ab7d227d2687723ea05120fafb92143f57d1dabf1e6bc8f59a6",
+  "speechTextHash": "sha256:f2b47b81faa8cf30c93616dfafefb6e7a742a054037a3ded668aca6324e1ff71",
+  "durationSeconds": 101.92,
+  "sampleRate": 24000,
+  "checksum": "sha256:14da8bf74c8b7d009d1f8e0b7c09c1d8bd9b0a31b357167b76391dd3e7982961",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 101.927,
+      "words": 218,
+      "wpm": 128.3,
+      "meanVolumeDb": -22.7,
+      "maxVolumeDb": -4.4
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 20,
+      "totalSilenceSeconds": 9.201,
+      "silenceRatio": 0.09,
+      "maxSilenceSeconds": 0.679
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 101.92,
+      "transcript": "Сахат, капия – крепостной проход, который замедляет вход. Остановитесь перед мостом и воротами так, чтобы видеть и сам проем, и башню с часами над стеной. Здесь особенно ясно чувствуется разница между городской и крепостной логикой. Пока вы были на площади и улице, Белград приглашал. Здесь он начинает фильтровать мост, ров, толщина стены и сам рисунок прохода, созданный не для удобства, а для задержки. И в этом месте есть прекрасный контраст. Сама Сахат Копия хранит след более старого прохода в средневековом бедеме, а башня с часами над ней – редкая для крепости вещь, уже не только военная, но и городская. Башня говорит языком времени и повседневности, но она стоит прямо над системой контроля доступа. Оборона и мирный городской ритм буквально наложены друг на друга. Постойте здесь чуть дольше. После косанчищего венца вы входите уже не просто на видовую площадку, а в пространство, где высота была превращена в дисциплину и защиту. Белград здесь читается как город слоев, а не одного красивого пейзажа. Мост и ров перед стеной чувство, что вход устроен не слишком прямым. Часы над военной оболочкой ворот. Лучшая точка. Чуть отступить назад, чтобы целиком видеть ворота и башню. Не спешите проходить сразу внутрь. Смысл стоп именно в ощущении задержки. Пройдите в верхний город и держите путь к победнику. После контролируемого входа вас ждет точка, где вид раскрывается уже без сдерживания.",
+      "similarity": 99.2,
+      "wer": 0.018
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+      "similarity": 0.9953,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:37:34Z",
+  "generatedAt": "2026-06-21T19:37:34Z"
+}

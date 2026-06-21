@@ -2075,6 +2075,16 @@
         "entry": "free",
         "name": "Republic Square",
         "nameLocal": "Трг Републике",
+        "audioGuide": {
+          "replacements": {
+            "en": [
+              {
+                "from": "Knez Mihailova",
+                "to": "Prince Michael Street"
+              }
+            ]
+          }
+        },
         "note": "Belgrade meets here, but it was not born here",
         "time": "15 min",
         "walk": "6 min",
@@ -2109,12 +2119,88 @@
         },
         "id": "belgrade-fortress-rivers-first-city-1",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 1
+        "order": 1,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:9bd408539fbe962a8a9ba19c389c91b317ceb532857a54d8b355239435fc19da",
+            "contentLocale": "en",
+            "durationSeconds": 53.68,
+            "generatedAt": "2026-06-21T19:42:22Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-5ae6d73639702d97.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 53.687,
+                "words": 158,
+                "wpm": 176.6,
+                "meanVolumeDb": -22.2,
+                "maxVolumeDb": -3.5
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 16,
+                "totalSilenceSeconds": 8.293,
+                "silenceRatio": 0.154,
+                "maxSilenceSeconds": 0.771
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 53.68,
+                "transcript": "Republic Square. Belgrade meets here but it was not born here. Begin with a question, not a facade. Stand where you can see Prince Mihailo, the theater, the museum and the stream of people using the square as an obvious center. Belgrade looks civic and gathered here. That is the trap. The square explains modern Belgrade but not why the city arose here. You cannot yet feel the plateau edge or the closeness of the two rivers. Treat the monument as a meeting point before the real conversation starts. How flat the square feels. The monument axis between museum and theater, the flow of people that makes the place civic, not frontier-like, stands slightly away from the pedestal rather than right under it. This is a useful starting point, but do not stay too long. The route opens farther west. Walk west along Prince Michael Street toward Kalamegdan. Notice how the square becomes a long urban axis.",
+                "similarity": 99.8,
+                "wer": 0.013
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9924,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
+            "speechTextHash": "sha256:026cabc5b7f7bb3ae2f67cd1eecad3f13236545564e69b84afe8e510a8933c66",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-5ae6d73639702d97.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       },
       {
         "entry": "free",
         "name": "Knez Mihailova",
         "nameLocal": "Кнез Михаилова",
+        "audioGuide": {
+          "replacements": {
+            "en": [
+              {
+                "from": "Knez Mihailova",
+                "to": "Prince Michael Street"
+              }
+            ]
+          },
+          "speechName": {
+            "en": "Prince Michael Street"
+          }
+        },
         "note": "Not just shopfronts, but the ridge pulling the city west",
         "time": "15 min",
         "walk": "12 min",
@@ -2149,12 +2235,92 @@
         },
         "id": "belgrade-fortress-rivers-first-city-2",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 2
+        "order": 2,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:2e2b86cc5c91324b6bf50838be8dc6bfc4c8526f5e83e0f8d80df0e9dba198d3",
+            "contentLocale": "en",
+            "durationSeconds": 54.48,
+            "generatedAt": "2026-06-21T19:44:44Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-745f65efc0d21a16.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 54.486,
+                "words": 165,
+                "wpm": 181.7,
+                "meanVolumeDb": -21.8,
+                "maxVolumeDb": -3.1
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 10,
+                "totalSilenceSeconds": 4.695,
+                "silenceRatio": 0.086,
+                "maxSilenceSeconds": 0.604
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 54.48,
+                "transcript": "Prince Michael Street. Not just shopfronts, but the ridge pulling the city west. Read Prince Michael Street less as a shopping street and more as a line. Stand in the middle and look ahead. The street seems to pull you toward Kalamegdan. Under the easy surface is an older logic, the stable upper shelf of the center. The facades, windows, musicians, and cafe noise make Belgrade feel almost calm here. That calm matters. It shows how a border city learned to live not only through war and height, but through civic everyday life. The river is still hidden. The street is the breath before the edge. How the street draws the eye toward Kalamegdan. The shift from center to direction. Fatads that make a frontier city feel composed. Look along the street axis more than into the windows. If the crowd is thick, pause on a wider stretch and look west. Continue west, then turn toward Kozantsev-Venak and the viewpoint edge above the Sava.",
+                "similarity": 99.1,
+                "wer": 0.03
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9909,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:a056cf2d7a8aee0f2b5ff3944b7a03807aefe7155f2781d9652728dc5fc3f696",
+            "speechTextHash": "sha256:32cff7b14c063fb86c65ec2ae81ba994d9a93ad7da3136fbaa1ed0e62beb0671",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-en-745f65efc0d21a16.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       },
       {
         "entry": "free",
         "name": "Kosancicev Venac",
         "nameLocal": "Косанчићев венац",
+        "audioGuide": {
+          "replacements": {
+            "en": [
+              {
+                "from": "Kosancicev venac",
+                "to": "this overlook"
+              },
+              {
+                "from": "Kosancicev Venac",
+                "to": "Kosanchichev overlook"
+              }
+            ]
+          },
+          "speechName": {
+            "en": "Kosanchichev overlook"
+          }
+        },
         "note": "Belgrade first becomes a city on an edge above water",
         "time": "15 min",
         "walk": "10 min",
@@ -2187,6 +2353,69 @@
             "retrievedAt": "2026-06-13"
           }
         },
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:d1df7690e77116d47bdbc432abc666097d89aaf64e931cd61ee238f8ffb50ba2",
+            "contentLocale": "en",
+            "durationSeconds": 55.04,
+            "generatedAt": "2026-06-21T19:44:46Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-3a685e92dd84827c.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 55.047,
+                "words": 165,
+                "wpm": 179.8,
+                "meanVolumeDb": -21.8,
+                "maxVolumeDb": -2.9
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 15,
+                "totalSilenceSeconds": 8.196,
+                "silenceRatio": 0.149,
+                "maxSilenceSeconds": 0.948
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 55.04,
+                "transcript": "Kosanchychov Overlook Belgrade first becomes a city on an edge above water. Come to the edge and first look down, not out for famous objects. The city changes shape here. What was just an old center becomes the rim of a high plateau. The Sava is not beside you, it is below you. This overlook is still urban, with cobbles, houses and quiet courtyards, but it works like a balcony over the river. Here it becomes easier to understand Old Belgrade as a city held above the water, Protected by height yet always pulled downward to docks, cargo and river work. The sharp drop between street and river, the Sava below rather than beside you. Old houses almost on the plateau edge. Choose a spot where you can see both slope and river, not only the far horizon. This is a good short pause before the fortress. Walk toward Kalamegden and Sahat Gate. After the open edge, you enter the place where terrain became defense.",
+                "similarity": 99.6,
+                "wer": 0.012
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.991,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:e2f8487abfe63d1d893b25d03fb840a069890f52d4e7cfa6f7b533609da0cbbe",
+            "speechTextHash": "sha256:f670107fb29f137b2f0fda9fa73962f9f4edca67eca5b7378e1c943187098172",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-en-3a685e92dd84827c.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        },
         "id": "belgrade-fortress-rivers-first-city-3",
         "guideId": "belgrade-fortress-rivers-first-city",
         "order": 3
@@ -2195,6 +2424,11 @@
         "entry": "free",
         "name": "Sahat Gate",
         "nameLocal": "Сахат капија",
+        "audioGuide": {
+          "speechName": {
+            "ru": "Сахат-капия"
+          }
+        },
         "note": "A fortress passage built to slow the entrance",
         "time": "18 min",
         "walk": "6 min",
@@ -2229,7 +2463,70 @@
         },
         "id": "belgrade-fortress-rivers-first-city-4",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 4
+        "order": 4,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:d2291d73752c23c014e6fe2c1d672f3bfc0dd0e06e4ad0f09817cbf182b9bd65",
+            "contentLocale": "en",
+            "durationSeconds": 49.68,
+            "generatedAt": "2026-06-21T19:44:49Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-84bdf56667905528.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 49.687,
+                "words": 160,
+                "wpm": 193.2,
+                "meanVolumeDb": -21.3,
+                "maxVolumeDb": -3
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 13,
+                "totalSilenceSeconds": 5.703,
+                "silenceRatio": 0.115,
+                "maxSilenceSeconds": 0.55
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 49.68,
+                "transcript": "Sahat Gate, a fortress passage built to slow the entrance. Stop before the bridge and gate so you can see both the opening and the clock tower above the wall. Until now, Belgrade has invited you along streets and views. Here, it begins to filter you. Bridge, ditch, wall thickness, and the angled passage are not designed for ease. They are designed to delay. The contrast is beautiful. The clock tower speaks the language of urban time, but it stands over a system of control. Everyday rhythm and military defense sit directly on top of each other, the bridge and ditch before the wall, the entrance not being too direct, the clock above the military shell of the gate. Step back enough to see the gate and tower together. Do not rush through at once. This stop is about the feeling of being slowed. Pass into the upper town and head toward the Victor, where the view opens without restraint.",
+                "similarity": 100,
+                "wer": 0
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9928,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
+            "speechTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-84bdf56667905528.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       },
       {
         "entry": "free",
@@ -2269,12 +2566,85 @@
         },
         "id": "belgrade-fortress-rivers-first-city-5",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 5
+        "order": 5,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:da828c23a7355d94772862e1f0db8b1d228d3fe6f379f2c69e5e6f2704be2161",
+            "contentLocale": "en",
+            "durationSeconds": 58.96,
+            "generatedAt": "2026-06-21T19:44:51Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-20c3c0f2e5d258cb.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 58.967,
+                "words": 168,
+                "wpm": 170.9,
+                "meanVolumeDb": -21.5,
+                "maxVolumeDb": -3.5
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 12,
+                "totalSilenceSeconds": 6.297,
+                "silenceRatio": 0.107,
+                "maxSilenceSeconds": 0.595
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 58.96,
+                "transcript": "The Victor and the Confluence Edge, the point that explains why Belgrade stands here. Do not stand only under the column. Step back so the Victor, the open platform edge, and the far banks sit in one field of view. Here the route answers its main question without a map. Belgrade grew here because this edge could watch and control movement on water. The monument was once imagined for Teresige in the city center. But it became stronger on the fortress ridge. Instead of a civic decoration, it became a sign of Belgrade geography. The Sava and Danube as two different directions. The open platform edge, not only the statue modern city across the water and older walls underfoot. Do not cling to the pedestal. The geography matters more than a close-up of the statue. In clear weather, this stop almost always takes more time than expected. Start descending toward the lower town and Ruzika. After the main overview, it helps to see the fortress from below.",
+                "similarity": 99.6,
+                "wer": 0.012
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9933,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
+            "speechTextHash": "sha256:3ae4e70b41746c3dba869c44c0bc30af93555cceff3d81bd40caca781e2d65f5",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-en-20c3c0f2e5d258cb.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       },
       {
         "entry": "outside",
         "name": "Lower Town At Ruzica",
         "nameLocal": "Доњи град код цркве Ружице",
+        "audioGuide": {
+          "replacements": {
+            "en": [
+              {
+                "from": "Nebojsa Tower",
+                "to": "the riverside tower"
+              }
+            ]
+          }
+        },
         "note": "From below, the fortress becomes heavy again by the water",
         "time": "18 min",
         "walk": "10 min",
@@ -2309,12 +2679,80 @@
         },
         "id": "belgrade-fortress-rivers-first-city-6",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 6
+        "order": 6,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:e050a5d58b8ff1ced11a2fbd6892966c8d5740fa900c98555ec419345e88d6bf",
+            "contentLocale": "en",
+            "durationSeconds": 59.2,
+            "generatedAt": "2026-06-21T19:47:20Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-90cbfaf95639c25a.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 59.206,
+                "words": 165,
+                "wpm": 167.2,
+                "meanVolumeDb": -22.5,
+                "maxVolumeDb": -2.6
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 17,
+                "totalSilenceSeconds": 8.751,
+                "silenceRatio": 0.148,
+                "maxSilenceSeconds": 0.687
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 59.2,
+                "transcript": "Lower town at Ruzika. From below, the fortress becomes heavy again by the water. In the lower town, turn around and look up. The same fortress that felt broad and almost walkable from above regains weight. Walls become higher, stone feels heavier, and the beautiful view turns back into mass, height, and descent. At Ruzika, the contrast is especially sharp. The quiet church sits inside military stone, with a story tied to an 18th century powder magazine later turned into a church. This corner keeps two memories together, defense and the human need for shelter, silence, and ritual. How high the upper walls now feel. Military stone beside a quiet church corner. The difference between panoramic fortress above and life below. This is a good place for a short rest on a quieter part of the route. After rain, the paths and descent feel heavier than they did above. Continue east toward the Riverside Tower, where the lower town reaches its most river-bound point.",
+                "similarity": 99.3,
+                "wer": 0.018
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9918,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:c32ce5d6973e41d186c9f2f3f632163adea4443cc69c3b59181cda0a734ecf98",
+            "speechTextHash": "sha256:d87f0a5cfe3d4b86cc7a58a1071fd847ca7e46436b004e5ede7cac48d76a0a49",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-en-90cbfaf95639c25a.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       },
       {
         "entry": "outside",
         "name": "Nebojsa Tower",
         "nameLocal": "Кула Небојша",
+        "audioGuide": {
+          "speechName": {
+            "en": "The Riverside Tower"
+          }
+        },
         "note": "The waterside finish where the city meets the river hit",
         "time": "18 min",
         "walk": "-",
@@ -2349,7 +2787,70 @@
         },
         "id": "belgrade-fortress-rivers-first-city-7",
         "guideId": "belgrade-fortress-rivers-first-city",
-        "order": 7
+        "order": 7,
+        "audioAssets": {
+          "en": {
+            "checksum": "sha256:376aeaaaf7b13e72b0d574ac9fe3bee2c6d4a320207ff6316bcb599af6022767",
+            "contentLocale": "en",
+            "durationSeconds": 61.84,
+            "generatedAt": "2026-06-21T19:47:23Z",
+            "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-9ba134081777fb81.json",
+            "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+            "qa": {
+              "technical": {
+                "status": "pass",
+                "durationSeconds": 61.846,
+                "words": 185,
+                "wpm": 179.5,
+                "meanVolumeDb": -20.6,
+                "maxVolumeDb": -2.4
+              },
+              "vad": {
+                "status": "pass",
+                "tool": "ffmpeg_silencedetect",
+                "silenceCount": 19,
+                "totalSilenceSeconds": 9.395,
+                "silenceRatio": 0.152,
+                "maxSilenceSeconds": 0.713
+              },
+              "asr": {
+                "status": "pass",
+                "tool": "faster-whisper",
+                "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+                "device": "cuda",
+                "deviceIndex": 1,
+                "computeType": "float16",
+                "durationSeconds": 61.84,
+                "transcript": "The Riverside Tower, the waterside finish where the city meets the river hit, approach so the tower reads against the water, then look back toward the plateau. This is a precise finish for a first Belgrade walk. The high center is behind you, here begins another truth of the city. Port, approach, weak point, and the last line of tension by the river. The official history of the tower keeps the place from becoming romantic. Built around 1460 to defend the entrance to the lower town port, it later became known as a prison and execution site. At the river edge, geography quickly becomes power and human fate. How low the tower stands compared with the plateau. Water is approach, not background, the difference between the viewpoint fortress above and port defense here. If you are tired, this is the right final pause. The route has already gathered its meaning. If you walk back to the center, add time for the climb. Finish here. Stay by the water for one more minute and look back at the height. That is how the walk closes best.",
+                "similarity": 99.9,
+                "wer": 0.005
+              },
+              "voiceStability": {
+                "status": "pass",
+                "tool": "qwen_speaker_embedding_cosine",
+                "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+                "similarity": 0.9927,
+                "threshold": 0.55
+              },
+              "repeatDetection": {
+                "status": "pass",
+                "flags": []
+              },
+              "overall": {
+                "status": "pass",
+                "flags": []
+              }
+            },
+            "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+            "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+            "sourceTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
+            "speechTextHash": "sha256:0123f3a45dca9963ed4f15e36d80f246b04f831d08dfe9b934bf1862bcd73809",
+            "status": "audio_accepted",
+            "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-9ba134081777fb81.opus",
+            "voiceMode": "reference_voice",
+            "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07"
+          }
+        }
       }
     ]
   },

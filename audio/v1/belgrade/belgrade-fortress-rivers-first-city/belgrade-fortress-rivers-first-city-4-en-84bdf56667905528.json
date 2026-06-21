@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-4",
+  "locale": "en",
+  "contentLocale": "en",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+  "sourceTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
+  "speechTextHash": "sha256:6988130825bea1f064fc280a753a1cdb31168e58b69c8e42d9e47fcb30e46e42",
+  "durationSeconds": 49.68,
+  "sampleRate": 24000,
+  "checksum": "sha256:d2291d73752c23c014e6fe2c1d672f3bfc0dd0e06e4ad0f09817cbf182b9bd65",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-84bdf56667905528.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-en-84bdf56667905528.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 49.687,
+      "words": 160,
+      "wpm": 193.2,
+      "meanVolumeDb": -21.3,
+      "maxVolumeDb": -3.0
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 13,
+      "totalSilenceSeconds": 5.703,
+      "silenceRatio": 0.115,
+      "maxSilenceSeconds": 0.55
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 49.68,
+      "transcript": "Sahat Gate, a fortress passage built to slow the entrance. Stop before the bridge and gate so you can see both the opening and the clock tower above the wall. Until now, Belgrade has invited you along streets and views. Here, it begins to filter you. Bridge, ditch, wall thickness, and the angled passage are not designed for ease. They are designed to delay. The contrast is beautiful. The clock tower speaks the language of urban time, but it stands over a system of control. Everyday rhythm and military defense sit directly on top of each other, the bridge and ditch before the wall, the entrance not being too direct, the clock above the military shell of the gate. Step back enough to see the gate and tower together. Do not rush through at once. This stop is about the feeling of being slowed. Pass into the upper town and head toward the Victor, where the view opens without restraint.",
+      "similarity": 100.0,
+      "wer": 0.0
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+      "similarity": 0.9928,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:44:49Z",
+  "generatedAt": "2026-06-21T19:44:49Z"
+}

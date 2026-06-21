@@ -2074,6 +2074,19 @@
       "entry": "свободно",
       "name": "Трг Републике",
       "nameLocal": "Трг Републике",
+      "audioGuide": {
+        "replacements": {
+          "ru": [
+            {
+              "from": "Кнез-Михайловой",
+              "to": "улице князя Михаила"
+            }
+          ]
+        },
+        "speechName": {
+          "ru": "Площадь Республики"
+        }
+      },
       "note": "Белград любит встречаться здесь, но рождается не здесь",
       "time": "15 мин",
       "walk": "6 мин",
@@ -2108,12 +2121,92 @@
       },
       "id": "belgrade-fortress-rivers-first-city-1",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 1
+      "order": 1,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:046ff9cd52115361792f8e044e903f87c277921116227f5aad4eb694c6a5f005",
+          "contentLocale": "ru",
+          "durationSeconds": 93.2,
+          "generatedAt": "2026-06-21T19:37:23Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 93.207,
+              "words": 207,
+              "wpm": 133.3,
+              "meanVolumeDb": -22.6,
+              "maxVolumeDb": -5.6
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 14,
+              "totalSilenceSeconds": 5.766,
+              "silenceRatio": 0.062,
+              "maxSilenceSeconds": 0.642
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 93.2,
+              "transcript": "Площадь Республики. Белград любит встречаться здесь, но рождается не здесь. Начните не с фасадов, а с вопроса. Встаньте так, чтобы видеть памятник князю Михаилу, театр, музей и поток людей, который проходит через площадь, как через очевидный центр. Здесь Белград кажется собранным и гражданским. Официальная сцена – привычное место встреч, начало городского дня, но именно в этом месте есть ловушка. Площадь отлично объясняет современный Белград, но почти не говорит, почему город вообще возник здесь. Отсюда не чувствуется край плато и не видно, как близко центр подходит к высоте над двумя реками. Город сначала показывает себя как нормальную столицу, а уже потом выпускает вас к месту, где рельеф объясняет его лучше любых символов. Смотрите на памятник, как на точку сбора перед настоящим разговором. Белград здесь не раскрывается полностью, он только назначает встречу. Настоящая логика начнет проступать, когда вы пойдете по оси старого центра на запад. Как площадь кажется почти плоской, ось памятника между музеем и театром. Поток людей, который делает место привычным, а не пограничным. Лучше стоять чуть в стороне от постамента, а не прямо под ним. Это удобная стартовая точка, но не задерживайтесь слишком долго. Смысл маршрута раскрывается дальше. Идите по улице князя Михаила на запад, в сторону Калимигдана. Сейчас важно почувствовать, как площадь превращается в вытянутую городскую ось.",
+              "similarity": 99.9,
+              "wer": 0.005
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.995,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:a526905723292db19615ebc60deb252563100c11de207bb249bf5f7b8e482eee",
+          "speechTextHash": "sha256:eaefd0c35f47dbe7b3d9edc702b41053e838ce4262bb2b317553a4f5d57439d1",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     },
     {
       "entry": "свободно",
       "name": "Кнез-Михайлова",
       "nameLocal": "Кнез Михаилова",
+      "audioGuide": {
+        "replacements": {
+          "ru": [
+            {
+              "from": "Кнез-Михайлову",
+              "to": "улицу князя Михаила"
+            },
+            {
+              "from": "Кнез-Михайлова",
+              "to": "улица князя Михаила"
+            }
+          ]
+        },
+        "speechName": {
+          "ru": "Улица князя Михаила"
+        }
+      },
       "note": "Это не просто витрины: это хребет, который тянет город к краю",
       "time": "15 мин",
       "walk": "12 мин",
@@ -2148,12 +2241,80 @@
       },
       "id": "belgrade-fortress-rivers-first-city-2",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 2
+      "order": 2,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:f63e1853a802d8b71dc2841c83e864f1ab60eff7bf3db167de5cd8882dd47976",
+          "contentLocale": "ru",
+          "durationSeconds": 100.96,
+          "generatedAt": "2026-06-21T19:37:27Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 100.966,
+              "words": 210,
+              "wpm": 124.8,
+              "meanVolumeDb": -22,
+              "maxVolumeDb": -4
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 22,
+              "totalSilenceSeconds": 10.46,
+              "silenceRatio": 0.104,
+              "maxSilenceSeconds": 0.777
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 100.96,
+              "transcript": "Улица князя Михаила. Это не просто витрины, это хребет, который тянет город к краю. Лучше всего читать улицу князя Михаила не как торговую улицу, а как направленную линию. Встаньте посередине и посмотрите вперед, она будто сама тянет вас к Калимикдану. Это не случайный комфорт, а очень старая городская логика. Под ногами чувствуется устойчивая верхняя полка центра, линия, по которой проще всего идти к крепости. Отсюда Белград выглядит удивительно спокойным и почти европейски ровным. Фасады, окна, витрины, музыканты, разговоры. Но именно эта нормальность и важна. Она показывает, как пограничный город научился жить не только войной и высотой, но и гражданской жизнью. На поверхности улица на глубине рельеф, который все еще упрямо ведет к краю крепости. Не ищите здесь реку глазами. Ее специально еще не видно. Улица князя Михаила работает как длинный вдох перед выходом на обрыв. Вы еще в городе, но уже идете туда, где город перестанет быть фасадом и станет географией, как улица постепенно тянет взгляд к Калимикдану. Смену ощущения от центра к направлению, фасады, которые делают пограничный город удивительно собранным. Смотрите не в витрины, а вдоль общей оси улицы. Если толпа плотная, остановитесь на более широком участке и посмотрите вдаль. Продолжайте на запад. Затем уходите к Косанчищеву-Венцу и смотровому краю над Савой. Там рельеф скажет больше, чем фасады.",
+              "similarity": 99.5,
+              "wer": 0.014
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9961,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:36a56c6cca4f4defc06dd985b0af5f4550e5015d242b27d76c2586df993f77c5",
+          "speechTextHash": "sha256:e7cd89caaa03861e5025bc2dff68c2063f38e8b45779b89a6ad15a124e1bb7e1",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     },
     {
       "entry": "свободно",
       "name": "Косанчићев венац",
       "nameLocal": "Косанчићев венац",
+      "audioGuide": {
+        "speechName": {
+          "ru": "Косанчичев венец"
+        }
+      },
       "note": "Здесь Белград впервые становится городом на краю над водой",
       "time": "15 мин",
       "walk": "10 мин",
@@ -2186,6 +2347,69 @@
           "retrievedAt": "2026-06-13"
         }
       },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:d09b1b60a8998782be0cddb5a0f8a9d9f880debf76a973d934b13bfcb0ea65d8",
+          "contentLocale": "ru",
+          "durationSeconds": 89.2,
+          "generatedAt": "2026-06-21T19:37:31Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 89.207,
+              "words": 210,
+              "wpm": 141.2,
+              "meanVolumeDb": -22.3,
+              "maxVolumeDb": -4.4
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 10,
+              "totalSilenceSeconds": 4.422,
+              "silenceRatio": 0.05,
+              "maxSilenceSeconds": 0.776
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 89.2,
+              "transcript": "Касанчичев Венец. Здесь Белград впервые становится городом на краю над водой. Подойдите к краю и сначала не ищите известные объекты. Смотрите вниз. В этот момент город резко меняет форму. То, что еще минуту назад было просто старым центром, оказывается кромкой высокого плато. Савва лежит ниже не рядом с вами, а под вами и это меняет все. Касанчичев Венец важен именно как место перехода. Он еще городской, с калдромой, домами и тихими дворами, но уже работает как балкон над рекой. Отсюда легче понять старый Белград как город, который не стоял у воды напрямую, а держался над ней на безопасной высоте и все время должен был спускаться к берегу. Если на площади Белград скрывал свой рельеф, то здесь он, наконец, его признает. Вы увидели не просто красивый вид, а физическую правду города. Центр держится над рекой на расстоянии, которая одновременно защищает и постоянно тянет вниз к пристаниям, грузу и воде. Резкий перепад между улицей и берегом. Коксава читается снизу, а не рядом старые дома, которые стоят уже почти на краю плато. Выберите точку, где видно и склон, и реку, а не только дальний горизонт. Это хорошее место для короткой паузы перед крепостью. Идите к Калимигдану и входу у Сахат-Копии. После открытого края вы войдете туда, где рельеф превращен в оборону.",
+              "similarity": 98.9,
+              "wer": 0.052
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9957,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:e28ae7b9e2291b7b97311ef11c99bcdee3c9e56feb1349daa3215eb66964c3f9",
+          "speechTextHash": "sha256:a710c7c5be2d77283625ba9e2e13c79a04235bddcfec769bf6aea69a1d0e9736",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      },
       "id": "belgrade-fortress-rivers-first-city-3",
       "guideId": "belgrade-fortress-rivers-first-city",
       "order": 3
@@ -2194,6 +2418,11 @@
       "entry": "свободно",
       "name": "Сахат-капија",
       "nameLocal": "Сахат капија",
+      "audioGuide": {
+        "speechName": {
+          "ru": "Сахат-капия"
+        }
+      },
       "note": "Крепостной проход, который замедляет вход",
       "time": "18 мин",
       "walk": "6 мин",
@@ -2228,7 +2457,70 @@
       },
       "id": "belgrade-fortress-rivers-first-city-4",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 4
+      "order": 4,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:14da8bf74c8b7d009d1f8e0b7c09c1d8bd9b0a31b357167b76391dd3e7982961",
+          "contentLocale": "ru",
+          "durationSeconds": 101.92,
+          "generatedAt": "2026-06-21T19:37:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 101.927,
+              "words": 218,
+              "wpm": 128.3,
+              "meanVolumeDb": -22.7,
+              "maxVolumeDb": -4.4
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 20,
+              "totalSilenceSeconds": 9.201,
+              "silenceRatio": 0.09,
+              "maxSilenceSeconds": 0.679
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 101.92,
+              "transcript": "Сахат, капия – крепостной проход, который замедляет вход. Остановитесь перед мостом и воротами так, чтобы видеть и сам проем, и башню с часами над стеной. Здесь особенно ясно чувствуется разница между городской и крепостной логикой. Пока вы были на площади и улице, Белград приглашал. Здесь он начинает фильтровать мост, ров, толщина стены и сам рисунок прохода, созданный не для удобства, а для задержки. И в этом месте есть прекрасный контраст. Сама Сахат Копия хранит след более старого прохода в средневековом бедеме, а башня с часами над ней – редкая для крепости вещь, уже не только военная, но и городская. Башня говорит языком времени и повседневности, но она стоит прямо над системой контроля доступа. Оборона и мирный городской ритм буквально наложены друг на друга. Постойте здесь чуть дольше. После косанчищего венца вы входите уже не просто на видовую площадку, а в пространство, где высота была превращена в дисциплину и защиту. Белград здесь читается как город слоев, а не одного красивого пейзажа. Мост и ров перед стеной чувство, что вход устроен не слишком прямым. Часы над военной оболочкой ворот. Лучшая точка. Чуть отступить назад, чтобы целиком видеть ворота и башню. Не спешите проходить сразу внутрь. Смысл стоп именно в ощущении задержки. Пройдите в верхний город и держите путь к победнику. После контролируемого входа вас ждет точка, где вид раскрывается уже без сдерживания.",
+              "similarity": 99.2,
+              "wer": 0.018
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9953,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:394d161348ff1ab7d227d2687723ea05120fafb92143f57d1dabf1e6bc8f59a6",
+          "speechTextHash": "sha256:f2b47b81faa8cf30c93616dfafefb6e7a742a054037a3ded668aca6324e1ff71",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     },
     {
       "entry": "свободно",
@@ -2268,12 +2560,85 @@
       },
       "id": "belgrade-fortress-rivers-first-city-5",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 5
+      "order": 5,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:429d02b272a85547bb0aa24910c1d23c73cdbdc575e86277630dc11f9ecf1574",
+          "contentLocale": "ru",
+          "durationSeconds": 101.44,
+          "generatedAt": "2026-06-21T19:42:10Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 101.447,
+              "words": 221,
+              "wpm": 130.7,
+              "meanVolumeDb": -22.2,
+              "maxVolumeDb": -3.3
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 13,
+              "totalSilenceSeconds": 5.511,
+              "silenceRatio": 0.054,
+              "maxSilenceSeconds": 0.761
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 101.44,
+              "transcript": "Победник и край над слиянием. Вот точка, ради которой Белград вообще стоит именно здесь. Не стойте строго под колонной. Отойдите так, чтобы в поле зрения были и сам Победник, и свободный край площадки, и дальние берега. Здесь маршрут отвечает на свой главный вопрос без всякой карты. Белград возник не потому, что место было уютным, а потому, что с этого края можно было видеть, ждать и контролировать движение по воде. И есть еще одна важная деталь. Победник вообще не должен был стоять здесь. Он задумывался как часть фонтана для Тиразии в самом центре города, но в итоге оказался на вершине гребня над слиянием. Это неожиданно сделало памятник сильнее. Вместо городской декорации он стал знаком самой географии Белграда. Отсюда особенно ясно, что речь идет не об одной реке, а о встрече двух направлений. Савва подводит к городу, Дунай открывает его дальше. Белгород здесь неуютная середина долины, а наблюдательная точка на краю большого водного узла. Как Савва и Дунай читаются как разные направления. Свободный край площадки, а не только сам памятник, современный город на дальних берегах и старые стены под ногами. Не прилипайте к пьедесталу. География важнее крупного плана статуи В ясную погоду это место почти всегда съедает больше времени, чем кажется Начинайте спуск в нижний город по дорожке в сторону Ружицы После главного обзора важно увидеть ту же крепость снизу, у воды",
+              "similarity": 99.6,
+              "wer": 0.027
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9954,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
+          "speechTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     },
     {
       "entry": "снаружи",
       "name": "Нижний город у Ружицы",
       "nameLocal": "Доњи град код цркве Ружице",
+      "audioGuide": {
+        "replacements": {
+          "ru": [
+            {
+              "from": "Куле Небойша",
+              "to": "речной башне"
+            }
+          ]
+        }
+      },
       "note": "Снизу крепость снова становится тяжёлой вещью у воды",
       "time": "18 мин",
       "walk": "10 мин",
@@ -2308,12 +2673,80 @@
       },
       "id": "belgrade-fortress-rivers-first-city-6",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 6
+      "order": 6,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:853bbacaa25cc78c264734fc72965bc7257037abf1a5fce3da06f98b34e02249",
+          "contentLocale": "ru",
+          "durationSeconds": 104.96,
+          "generatedAt": "2026-06-21T19:42:14Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 104.966,
+              "words": 208,
+              "wpm": 118.9,
+              "meanVolumeDb": -22.5,
+              "maxVolumeDb": -3.8
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 14,
+              "totalSilenceSeconds": 5.846,
+              "silenceRatio": 0.056,
+              "maxSilenceSeconds": 0.504
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 104.96,
+              "transcript": "Нижний город у Ружицы. Снизу крепость снова становится тяжелой вещью у воды. В нижнем городе полезно сразу обернуться назад и посмотреть вверх. Та же крепость, которая наверху казалась широкой и почти прогулочной, снизу снова набирает вес. Стены становятся выше, камень тяжелее, а весь красивый обзор вдруг превращается в давление массы. Высоты и спуска. У Ружицы этот контраст чувствуется особенно сильно. Сегодня это тихое и очень любимое святилище внутри крепостных стен, но здание выросло из бывшего австрийского порохового магазина до XVII века, переделанного в церковь в 1867 году. Поэтому в этом углу нижнего города всегда живут сразу две памяти – военная и человеческая. Камень здесь помнит не только оборону, но и привычку искать укрытие, тишину и ритуал прямо внутри крепости. Если остановиться на победнике, Белград легко понять слишком торжественно, как город обзора и символа. Нижний город возвращает другую правду. Порт, мастерские, воду, влажность, уязвимость и ежедневный труд под верхней линией защиты. Как высоко теперь кажутся верхние стены? Соседство военного камня и тихого церковного угла. Разницу между обзорной крепостью наверху и жизнью внизу. Это хороший момент для короткой передышки на более тихом участке маршрута. После дождя дорожки и спуск здесь ощущаются тяжелее, чем наверху. Продолжайте на восток, к речной башне. Там нижний город дойдет до своей самой речной и самой уязвимой точки.",
+              "similarity": 99.9,
+              "wer": 0.01
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9954,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:4e8516cf069b08221a7e58880188e8486c0887c4045f4dfd67cadde0bc3ac1d5",
+          "speechTextHash": "sha256:1356330e2ffa24a1eeddce6a9d176afb5b387be49981a5b79a3b48d1fd93dfe4",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     },
     {
       "entry": "снаружи",
       "name": "Кула Небойша",
       "nameLocal": "Кула Небојша",
+      "audioGuide": {
+        "speechName": {
+          "ru": "Речная башня у воды"
+        }
+      },
       "note": "Финал у воды, где город держит речной удар",
       "time": "18 мин",
       "walk": "-",
@@ -2348,7 +2781,70 @@
       },
       "id": "belgrade-fortress-rivers-first-city-7",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 7
+      "order": 7,
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:a1d82686938818375c9a66e4b617cdb88a95191d2acde120adffda9e38adbbeb",
+          "contentLocale": "ru",
+          "durationSeconds": 112.64,
+          "generatedAt": "2026-06-21T19:42:18Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.json",
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 112.647,
+              "words": 245,
+              "wpm": 130.5,
+              "meanVolumeDb": -22.4,
+              "maxVolumeDb": -3.6
+            },
+            "vad": {
+              "status": "pass",
+              "tool": "ffmpeg_silencedetect",
+              "silenceCount": 21,
+              "totalSilenceSeconds": 8.708,
+              "silenceRatio": 0.077,
+              "maxSilenceSeconds": 0.633
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "device": "cuda",
+              "deviceIndex": 1,
+              "computeType": "float16",
+              "durationSeconds": 112.64,
+              "transcript": "Речная башня у воды. Финал у воды, где город держит речной удар. Подойдите так, чтобы башня читалась на фоне воды, а потом посмотрите назад на плато. Это один из самых точных финалов для первого знакомства с Белградом. Высокий центр уже позади. Здесь начинается другая правда города. Пропорт, подступы, слабое место и последнюю линию напряжения у самой воды. Официальная история башни особенно сильна тем, что она не дает романтизировать это место. Башня была построена около 1460 года для защиты входа в Нижнегородский порт. Позже она стала печально известной тюрьмой и местом казней. То есть одна и та же точка была и обороной, и контролем, и памятью о насилии. На речном краю Белград всегда читается гуще, чем в центре. Здесь география сразу превращается в политику и человеческую судьбу. Если посмотреть отсюда назад на весь маршрут, его форма становится ясной. Площадь дала современный центр, улица, городской хребет, край крепости, ответ про высоту и две реки, а башня у воды закрывает круг. Первый Белград – это город, который поднял голову на высоту и все равно никогда не мог перестать жить у реки. Насколько низко по отношению к плато стоит башня? Воду как подступ, а не как фон разницу между обзорной крепостью наверху и портовой обороной здесь. Если силы заканчиваются, это лучшая точка для финальной паузы. Смысл маршрута уже собран полностью. Если возвращаетесь пешком в центр, добавьте отдельное время на обратный подъем. Финиш. Постойте еще минуту у воды и посмотрите назад на высоту. Так маршрут лучше всего закрывается в голове.",
+              "similarity": 99.9,
+              "wer": 0.012
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "qwen_speaker_embedding_cosine",
+              "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+              "similarity": 0.9945,
+              "threshold": 0.55
+            },
+            "repeatDetection": {
+              "status": "pass",
+              "flags": []
+            },
+            "overall": {
+              "status": "pass",
+              "flags": []
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+          "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+          "sourceTextHash": "sha256:0a02d2f4b41a36f4568f69a6235876aaa2b5fff3876817d72c62208f9322e8de",
+          "speechTextHash": "sha256:89c240fc3187b8b87507216a4547617d33706946db4e0731f31fed623adff459",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07"
+        }
+      }
     }
   ]
 }

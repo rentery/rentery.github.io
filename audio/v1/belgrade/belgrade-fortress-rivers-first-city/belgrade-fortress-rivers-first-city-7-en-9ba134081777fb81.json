@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-7",
+  "locale": "en",
+  "contentLocale": "en",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+  "sourceTextHash": "sha256:1554d334f6ec6220ae46b715a735a21a6b4da70fe32492845be3a80d4d689125",
+  "speechTextHash": "sha256:0123f3a45dca9963ed4f15e36d80f246b04f831d08dfe9b934bf1862bcd73809",
+  "durationSeconds": 61.84,
+  "sampleRate": 24000,
+  "checksum": "sha256:376aeaaaf7b13e72b0d574ac9fe3bee2c6d4a320207ff6316bcb599af6022767",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-9ba134081777fb81.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-en-9ba134081777fb81.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 61.846,
+      "words": 185,
+      "wpm": 179.5,
+      "meanVolumeDb": -20.6,
+      "maxVolumeDb": -2.4
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 19,
+      "totalSilenceSeconds": 9.395,
+      "silenceRatio": 0.152,
+      "maxSilenceSeconds": 0.713
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 61.84,
+      "transcript": "The Riverside Tower, the waterside finish where the city meets the river hit, approach so the tower reads against the water, then look back toward the plateau. This is a precise finish for a first Belgrade walk. The high center is behind you, here begins another truth of the city. Port, approach, weak point, and the last line of tension by the river. The official history of the tower keeps the place from becoming romantic. Built around 1460 to defend the entrance to the lower town port, it later became known as a prison and execution site. At the river edge, geography quickly becomes power and human fate. How low the tower stands compared with the plateau. Water is approach, not background, the difference between the viewpoint fortress above and port defense here. If you are tired, this is the right final pause. The route has already gathered its meaning. If you walk back to the center, add time for the climb. Finish here. Stay by the water for one more minute and look back at the height. That is how the walk closes best.",
+      "similarity": 99.9,
+      "wer": 0.005
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+      "similarity": 0.9927,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:47:23Z",
+  "generatedAt": "2026-06-21T19:47:23Z"
+}

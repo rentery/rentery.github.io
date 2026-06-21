@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-1",
+  "locale": "en",
+  "contentLocale": "en",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "en-classic-guide-male-from-en-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\en\\family_light\\male\\en-family-light-male-07.wav",
+  "sourceTextHash": "sha256:4d23531de2ca1c458027a203900e764b16fc264013d3c0fc0cecc4991d4e358f",
+  "speechTextHash": "sha256:026cabc5b7f7bb3ae2f67cd1eecad3f13236545564e69b84afe8e510a8933c66",
+  "durationSeconds": 53.68,
+  "sampleRate": 24000,
+  "checksum": "sha256:9bd408539fbe962a8a9ba19c389c91b317ceb532857a54d8b355239435fc19da",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-5ae6d73639702d97.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-en-5ae6d73639702d97.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 53.687,
+      "words": 158,
+      "wpm": 176.6,
+      "meanVolumeDb": -22.2,
+      "maxVolumeDb": -3.5
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 16,
+      "totalSilenceSeconds": 8.293,
+      "silenceRatio": 0.154,
+      "maxSilenceSeconds": 0.771
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 53.68,
+      "transcript": "Republic Square. Belgrade meets here but it was not born here. Begin with a question, not a facade. Stand where you can see Prince Mihailo, the theater, the museum and the stream of people using the square as an obvious center. Belgrade looks civic and gathered here. That is the trap. The square explains modern Belgrade but not why the city arose here. You cannot yet feel the plateau edge or the closeness of the two rivers. Treat the monument as a meeting point before the real conversation starts. How flat the square feels. The monument axis between museum and theater, the flow of people that makes the place civic, not frontier-like, stands slightly away from the pedestal rather than right under it. This is a useful starting point, but do not stay too long. The route opens farther west. Walk west along Prince Michael Street toward Kalamegdan. Notice how the square becomes a long urban axis.",
+      "similarity": 99.8,
+      "wer": 0.013
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "en-classic-guide-male-from-en-family-light-male-07",
+      "similarity": 0.9924,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:42:22Z",
+  "generatedAt": "2026-06-21T19:42:22Z"
+}

@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-5",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "sourceTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
+  "speechTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
+  "durationSeconds": 101.44,
+  "sampleRate": 24000,
+  "checksum": "sha256:429d02b272a85547bb0aa24910c1d23c73cdbdc575e86277630dc11f9ecf1574",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 101.447,
+      "words": 221,
+      "wpm": 130.7,
+      "meanVolumeDb": -22.2,
+      "maxVolumeDb": -3.3
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 13,
+      "totalSilenceSeconds": 5.511,
+      "silenceRatio": 0.054,
+      "maxSilenceSeconds": 0.761
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 101.44,
+      "transcript": "Победник и край над слиянием. Вот точка, ради которой Белград вообще стоит именно здесь. Не стойте строго под колонной. Отойдите так, чтобы в поле зрения были и сам Победник, и свободный край площадки, и дальние берега. Здесь маршрут отвечает на свой главный вопрос без всякой карты. Белград возник не потому, что место было уютным, а потому, что с этого края можно было видеть, ждать и контролировать движение по воде. И есть еще одна важная деталь. Победник вообще не должен был стоять здесь. Он задумывался как часть фонтана для Тиразии в самом центре города, но в итоге оказался на вершине гребня над слиянием. Это неожиданно сделало памятник сильнее. Вместо городской декорации он стал знаком самой географии Белграда. Отсюда особенно ясно, что речь идет не об одной реке, а о встрече двух направлений. Савва подводит к городу, Дунай открывает его дальше. Белгород здесь неуютная середина долины, а наблюдательная точка на краю большого водного узла. Как Савва и Дунай читаются как разные направления. Свободный край площадки, а не только сам памятник, современный город на дальних берегах и старые стены под ногами. Не прилипайте к пьедесталу. География важнее крупного плана статуи В ясную погоду это место почти всегда съедает больше времени, чем кажется Начинайте спуск в нижний город по дорожке в сторону Ружицы После главного обзора важно увидеть ту же крепость снизу, у воды",
+      "similarity": 99.6,
+      "wer": 0.027
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+      "similarity": 0.9954,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:42:10Z",
+  "generatedAt": "2026-06-21T19:42:10Z"
+}

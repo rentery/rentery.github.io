@@ -1,0 +1,68 @@
+{
+  "schema": "travel-guides.audioAsset.v1",
+  "status": "audio_accepted",
+  "cityId": "belgrade",
+  "guideId": "belgrade-fortress-rivers-first-city",
+  "stopId": "belgrade-fortress-rivers-first-city-6",
+  "locale": "ru",
+  "contentLocale": "ru",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "sourceTextHash": "sha256:4e8516cf069b08221a7e58880188e8486c0887c4045f4dfd67cadde0bc3ac1d5",
+  "speechTextHash": "sha256:1356330e2ffa24a1eeddce6a9d176afb5b387be49981a5b79a3b48d1fd93dfe4",
+  "durationSeconds": 104.96,
+  "sampleRate": 24000,
+  "checksum": "sha256:853bbacaa25cc78c264734fc72965bc7257037abf1a5fce3da06f98b34e02249",
+  "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.opus",
+  "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.json",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 104.966,
+      "words": 208,
+      "wpm": 118.9,
+      "meanVolumeDb": -22.5,
+      "maxVolumeDb": -3.8
+    },
+    "vad": {
+      "status": "pass",
+      "tool": "ffmpeg_silencedetect",
+      "silenceCount": 14,
+      "totalSilenceSeconds": 5.846,
+      "silenceRatio": 0.056,
+      "maxSilenceSeconds": 0.504
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "device": "cuda",
+      "deviceIndex": 1,
+      "computeType": "float16",
+      "durationSeconds": 104.96,
+      "transcript": "Нижний город у Ружицы. Снизу крепость снова становится тяжелой вещью у воды. В нижнем городе полезно сразу обернуться назад и посмотреть вверх. Та же крепость, которая наверху казалась широкой и почти прогулочной, снизу снова набирает вес. Стены становятся выше, камень тяжелее, а весь красивый обзор вдруг превращается в давление массы. Высоты и спуска. У Ружицы этот контраст чувствуется особенно сильно. Сегодня это тихое и очень любимое святилище внутри крепостных стен, но здание выросло из бывшего австрийского порохового магазина до XVII века, переделанного в церковь в 1867 году. Поэтому в этом углу нижнего города всегда живут сразу две памяти – военная и человеческая. Камень здесь помнит не только оборону, но и привычку искать укрытие, тишину и ритуал прямо внутри крепости. Если остановиться на победнике, Белград легко понять слишком торжественно, как город обзора и символа. Нижний город возвращает другую правду. Порт, мастерские, воду, влажность, уязвимость и ежедневный труд под верхней линией защиты. Как высоко теперь кажутся верхние стены? Соседство военного камня и тихого церковного угла. Разницу между обзорной крепостью наверху и жизнью внизу. Это хороший момент для короткой передышки на более тихом участке маршрута. После дождя дорожки и спуск здесь ощущаются тяжелее, чем наверху. Продолжайте на восток, к речной башне. Там нижний город дойдет до своей самой речной и самой уязвимой точки.",
+      "similarity": 99.9,
+      "wer": 0.01
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "qwen_speaker_embedding_cosine",
+      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+      "similarity": 0.9954,
+      "threshold": 0.55
+    },
+    "repeatDetection": {
+      "status": "pass",
+      "flags": []
+    },
+    "overall": {
+      "status": "pass",
+      "flags": []
+    }
+  },
+  "createdAt": "2026-06-21T19:42:14Z",
+  "generatedAt": "2026-06-21T19:42:14Z"
+}
