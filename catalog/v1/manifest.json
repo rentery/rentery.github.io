@@ -25,7 +25,7 @@
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
-      "packHash": "f9a19d5d1be4",
+      "packHash": "fc08697c1846",
       "packPath": "cities/bologna/offline-pack.json"
     },
     "bordeaux": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-22T11:21:01.631Z",
+  "generatedAt": "2026-06-22T17:24:37.236Z",
   "locale": "ru",
   "schemaVersion": 1
 }

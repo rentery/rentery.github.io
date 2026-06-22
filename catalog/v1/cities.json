@@ -211,12 +211,13 @@
     "id": "bologna",
     "slug": "bologna",
     "title": "Болонья",
-    "subtitle": "Болонья · 2 маршрута · 3 скоро",
-    "meta": "Италия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Болонья · 3 маршрута · 2 скоро",
+    "meta": "Италия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bologna-piazza-maggiore-towers-santo-stefano",
-      "bologna-san-luca-portico-hill"
+      "bologna-san-luca-portico-hill",
+      "bologna-quadrilatero-mercato-food-evening"
     ],
     "countryId": "italy",
     "photo": {
