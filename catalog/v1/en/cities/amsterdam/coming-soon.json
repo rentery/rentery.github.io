@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Plantage соединяет зелёные бульвары, старые институты знания и места городской памяти.",
-    "cityId": "amsterdam",
-    "dayTrip": false,
-    "id": "amsterdam-plantage-jewish-quarter-memory",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Waterlooplein, Mr. Visserplein, Nieuwe Amstelstraat и Plantage Middenlaan до ARTIS.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Компактный восточный маршрут между ботаникой, культурой и трудной историей XX века.",
-    "title": "Plantage и Еврейский квартал: сад, знание и память",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Юг города показывает Амстердам вне центра: музейные фасады, широкая площадь и шум рынка.",
-    "cityId": "amsterdam",
-    "dayTrip": false,
-    "id": "amsterdam-museumplein-de-pijp-culture-everyday",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Museumplein, Rijksmuseum, Concertgebouw, Albert Cuypmarkt и Sarphatipark в De Pijp.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Южная прогулка от национальных музеев к плотной повседневной жизни De Pijp.",
-    "title": "Museumplein и De Pijp: высокая культура рядом с рынком",
-    "walkType": "museum_walk"
-  },
-  {
     "blurb": "Северный берег раскрывает другой город: паром, ржавые конструкции, ангары и новая жизнь у IJ.",
     "cityId": "amsterdam",
     "dayTrip": false,

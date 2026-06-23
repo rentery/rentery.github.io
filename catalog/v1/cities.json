@@ -177,12 +177,14 @@
     "id": "amsterdam",
     "slug": "amsterdam",
     "title": "Амстердам",
-    "subtitle": "Amsterdam · 2 маршрута · 3 скоро",
+    "subtitle": "Амстердам · 4 маршрута · 1 скоро",
     "meta": "Нидерланды · каналы, мосты, дворы и водная геометрия",
-    "practicalNote": "В Амстердаме опубликованы два маршрута: канальное кольцо и старый порт; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "amsterdam-canal-ring-water-plan",
-      "amsterdam-old-port-medieval-centre"
+      "amsterdam-old-port-medieval-centre",
+      "amsterdam-museumplein-de-pijp-culture-everyday",
+      "amsterdam-plantage-jewish-quarter-memory"
     ],
     "countryId": "netherlands",
     "coordinates": {
