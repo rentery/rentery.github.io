@@ -2,13 +2,14 @@
   "id": "belgrade",
   "slug": "belgrade",
   "title": "Белград",
-  "subtitle": "Белград · 3 маршрута · 3 скоро",
+  "subtitle": "Белград · 4 маршрута · 3 скоро",
   "meta": "Сербия · крепость, реки, Земун и модернизм",
-  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "belgrade-fortress-rivers-first-city",
     "belgrade-novi-beograd-federal-concrete",
-    "belgrade-zemun-danube-town"
+    "belgrade-zemun-danube-town",
+    "belgrade-skadarlija-dorcol-evening"
   ],
   "coordinates": {
     "latitude": 44.80401,

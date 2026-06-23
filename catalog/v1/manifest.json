@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "40e7b7420aca",
+      "packHash": "fca3699d69c1",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -85,7 +85,7 @@
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
-      "packHash": "dbfa88293961",
+      "packHash": "5dfee23ed908",
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
@@ -113,7 +113,7 @@
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
-      "packHash": "fa112d3a59a7",
+      "packHash": "e5698b75d73f",
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-23T18:14:37.919Z",
+  "generatedAt": "2026-06-23T20:02:26.039Z",
   "locale": "ru",
   "schemaVersion": 1
 }

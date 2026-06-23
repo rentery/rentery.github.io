@@ -2,12 +2,14 @@
   "id": "berlin",
   "slug": "berlin",
   "title": "Берлин",
-  "subtitle": "Берлин · 2 маршрута · 3 скоро",
-  "meta": "Германия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Берлин · 4 маршрута · 1 скоро",
+  "meta": "Германия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "berlin-brandenburg-gate-memory-axis",
-    "berlin-bernauer-strasse-wall"
+    "berlin-bernauer-strasse-wall",
+    "berlin-east-side-kreuzberg-river",
+    "berlin-unter-den-linden-museum-island"
   ],
   "countryId": "germany",
   "photo": {

@@ -77,7 +77,8 @@
     "guideIds": [
       "belgrade-fortress-rivers-first-city",
       "belgrade-novi-beograd-federal-concrete",
-      "belgrade-zemun-danube-town"
+      "belgrade-zemun-danube-town",
+      "belgrade-skadarlija-dorcol-evening"
     ],
     "coordinates": {
       "latitude": 44.80401,
@@ -651,12 +652,13 @@
     "id": "bogota",
     "slug": "bogota",
     "title": "Богота",
-    "subtitle": "Богота · 2 маршрута · 3 скоро",
-    "meta": "Колумбия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Богота · 3 маршрута · 2 скоро",
+    "meta": "Колумбия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bogota-candelaria-gold-power",
-      "bogota-monserrate-eastern-hills"
+      "bogota-monserrate-eastern-hills",
+      "bogota-centro-internacional-macarena"
     ],
     "countryId": "colombia",
     "photo": {
@@ -860,12 +862,14 @@
     "id": "berlin",
     "slug": "berlin",
     "title": "Берлин",
-    "subtitle": "Берлин · 2 маршрута · 3 скоро",
-    "meta": "Германия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Берлин · 4 маршрута · 1 скоро",
+    "meta": "Германия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "berlin-brandenburg-gate-memory-axis",
-      "berlin-bernauer-strasse-wall"
+      "berlin-bernauer-strasse-wall",
+      "berlin-east-side-kreuzberg-river",
+      "berlin-unter-den-linden-museum-island"
     ],
     "countryId": "germany",
     "photo": {
