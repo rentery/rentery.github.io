@@ -2,12 +2,13 @@
   "id": "athens",
   "slug": "athens",
   "title": "Афины",
-  "subtitle": "Афины · 2 маршрута · 3 скоро",
-  "meta": "Греция · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Афины · 3 маршрута · 2 скоро",
+  "meta": "Греция · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "athens-acropolis-agora-layers",
-    "athens-plaka-anafiotika-old-city"
+    "athens-plaka-anafiotika-old-city",
+    "athens-syntagma-garden-stadium-state"
   ],
   "countryId": "greece",
   "photo": {

@@ -736,12 +736,13 @@
     "id": "athens",
     "slug": "athens",
     "title": "Афины",
-    "subtitle": "Афины · 2 маршрута · 3 скоро",
-    "meta": "Греция · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Афины · 3 маршрута · 2 скоро",
+    "meta": "Греция · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "athens-acropolis-agora-layers",
-      "athens-plaka-anafiotika-old-city"
+      "athens-plaka-anafiotika-old-city",
+      "athens-syntagma-garden-stadium-state"
     ],
     "countryId": "greece",
     "photo": {
@@ -765,12 +766,14 @@
     "id": "auckland",
     "slug": "auckland",
     "title": "Окленд",
-    "subtitle": "Окленд · 2 маршрута · 3 скоро",
-    "meta": "Новая Зеландия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Окленд · 4 маршрута · 1 скоро",
+    "meta": "Новая Зеландия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "auckland-waterfront-britomart-harbour-layers",
-      "auckland-maungawhau-volcano-city-view"
+      "auckland-maungawhau-volcano-city-view",
+      "auckland-domain-parnell-memory-park",
+      "auckland-karangahape-road-night-culture"
     ],
     "countryId": "new-zealand",
     "photo": {

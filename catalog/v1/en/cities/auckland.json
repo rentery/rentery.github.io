@@ -2,12 +2,14 @@
   "id": "auckland",
   "slug": "auckland",
   "title": "Окленд",
-  "subtitle": "Окленд · 2 маршрута · 3 скоро",
-  "meta": "Новая Зеландия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Окленд · 4 маршрута · 1 скоро",
+  "meta": "Новая Зеландия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "auckland-waterfront-britomart-harbour-layers",
-    "auckland-maungawhau-volcano-city-view"
+    "auckland-maungawhau-volcano-city-view",
+    "auckland-domain-parnell-memory-park",
+    "auckland-karangahape-road-night-culture"
   ],
   "countryId": "new-zealand",
   "photo": {
