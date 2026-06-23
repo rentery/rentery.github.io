@@ -14,34 +14,6 @@
     "walkType": "classic"
   },
   {
-    "blurb": "Мкуназини показывает, как память о невольничьем рынке встроена в центр сегодняшнего города.",
-    "cityId": "zanzibar-city",
-    "dayTrip": false,
-    "id": "zanzibar-city-mkunazini-slave-market-memory",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Mkunazini Road, Anglican Cathedral, former slave market site, Hamamni и центральные переулки Stone Town.",
-    "roughDuration": "1,5-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Серьезная прогулка вокруг Cathedral, бывшего рынка и мест городской памяти.",
-    "title": "Мкуназини: невольничий рынок и трудная память",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Рынок и порт объясняют Занзибар лучше вывесок: специи, лодки, мечети и шум торговых улиц.",
-    "cityId": "zanzibar-city",
-    "dayTrip": false,
-    "id": "zanzibar-city-darajani-malindi-market-port",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Darajani Market, Darajani Street, Creek Road edge, Malindi и северная часть Mizingani Road.",
-    "roughDuration": "1,5-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Маршрут по живой экономике Stone Town от рыночного шума к северной набережной.",
-    "title": "Дараджани и Малинди: рынок, порт и город обмена",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Двери, балконы и дворы учат читать город как сплав суахилийских, индийских и арабских форм.",
     "cityId": "zanzibar-city",
     "dayTrip": false,

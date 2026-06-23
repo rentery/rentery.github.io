@@ -1,11 +1,14 @@
 {
   "id": "zanzibar-city",
   "slug": "zanzibar-city",
-  "title": "Zanzibar City",
-  "subtitle": "Zanzibar City · 5 walks coming soon",
-  "meta": "Tanzania · routes in progress",
-  "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-  "guideIds": [],
+  "title": "Занзибар-Сити",
+  "subtitle": "Занзибар-Сити · 2 маршрута · 3 скоро",
+  "meta": "Танзания · 2 маршрута опубликовано",
+  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "guideIds": [
+    "zanzibar-city-mkunazini-slave-market-memory",
+    "zanzibar-city-darajani-malindi-market-port"
+  ],
   "countryId": "tanzania",
   "photo": {
     "id": "zanzibar-city-city-hero",
@@ -13,5 +16,14 @@
     "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-wide.jpg",
     "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-square.jpg",
     "alt": "Сгенерированный editorial hero города Занзибар-Сити"
+  },
+  "identity": {
+    "accent": "#A36D33",
+    "soft": "#F2EBE3",
+    "deep": "#765123",
+    "ink": "#624522",
+    "glyph": "ЗАН",
+    "hook": "Занзибар-Сити",
+    "motif": "axis"
   }
 }

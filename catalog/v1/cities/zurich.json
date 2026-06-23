@@ -2,11 +2,13 @@
   "id": "zurich",
   "slug": "zurich",
   "title": "Цюрих",
-  "subtitle": "Цюрих · 1 маршрут · 4 скоро",
-  "meta": "Швейцария · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Цюрих · 3 маршрута · 2 скоро",
+  "meta": "Швейцария · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "zurich-old-town-limmat-layers"
+    "zurich-old-town-limmat-layers",
+    "zurich-west-industrial-reuse",
+    "zurich-lake-bellevue-zurichhorn"
   ],
   "countryId": "switzerland",
   "photo": {

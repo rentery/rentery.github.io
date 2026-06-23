@@ -401,20 +401,20 @@
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
-      "packHash": "ce49000614fb",
+      "packHash": "17c034628cd9",
       "packPath": "cities/xian/offline-pack.json"
     },
-    "zurich": {
-      "packHash": "8b5e54b407f8",
-      "packPath": "cities/zurich/offline-pack.json"
-    },
     "zanzibar-city": {
-      "packHash": "cbbb9364b852",
+      "packHash": "89e377a101c4",
       "packPath": "cities/zanzibar-city/offline-pack.json"
+    },
+    "zurich": {
+      "packHash": "0306afdf7e6c",
+      "packPath": "cities/zurich/offline-pack.json"
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-23T20:02:26.039Z",
+  "generatedAt": "2026-06-23T21:13:58.879Z",
   "locale": "ru",
   "schemaVersion": 1
 }

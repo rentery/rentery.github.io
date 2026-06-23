@@ -2923,11 +2923,12 @@
     "id": "xian",
     "slug": "xian",
     "title": "Сиань",
-    "subtitle": "Сиань · 1 маршрут · 4 скоро",
-    "meta": "Китай · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сиань · 2 маршрута · 3 скоро",
+    "meta": "Китай · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "xian-city-wall-bell-drum"
+      "xian-city-wall-bell-drum",
+      "xian-terracotta-qin-mausoleum"
     ],
     "countryId": "china",
     "photo": {
@@ -2948,14 +2949,45 @@
     }
   },
   {
+    "id": "zanzibar-city",
+    "slug": "zanzibar-city",
+    "title": "Занзибар-Сити",
+    "subtitle": "Занзибар-Сити · 2 маршрута · 3 скоро",
+    "meta": "Танзания · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "guideIds": [
+      "zanzibar-city-mkunazini-slave-market-memory",
+      "zanzibar-city-darajani-malindi-market-port"
+    ],
+    "countryId": "tanzania",
+    "photo": {
+      "id": "zanzibar-city-city-hero",
+      "kind": "generated",
+      "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-square.jpg",
+      "alt": "Сгенерированный editorial hero города Занзибар-Сити"
+    },
+    "identity": {
+      "accent": "#A36D33",
+      "soft": "#F2EBE3",
+      "deep": "#765123",
+      "ink": "#624522",
+      "glyph": "ЗАН",
+      "hook": "Занзибар-Сити",
+      "motif": "axis"
+    }
+  },
+  {
     "id": "zurich",
     "slug": "zurich",
     "title": "Цюрих",
-    "subtitle": "Цюрих · 1 маршрут · 4 скоро",
-    "meta": "Швейцария · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Цюрих · 3 маршрута · 2 скоро",
+    "meta": "Швейцария · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "zurich-old-town-limmat-layers"
+      "zurich-old-town-limmat-layers",
+      "zurich-west-industrial-reuse",
+      "zurich-lake-bellevue-zurichhorn"
     ],
     "countryId": "switzerland",
     "photo": {
@@ -2973,23 +3005,6 @@
       "glyph": "ЦЮР",
       "hook": "Цюрих",
       "motif": "axis"
-    }
-  },
-  {
-    "id": "zanzibar-city",
-    "slug": "zanzibar-city",
-    "title": "Zanzibar City",
-    "subtitle": "Zanzibar City · 5 walks coming soon",
-    "meta": "Tanzania · routes in progress",
-    "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
-    "guideIds": [],
-    "countryId": "tanzania",
-    "photo": {
-      "id": "zanzibar-city-city-hero",
-      "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-city-hero-square.jpg",
-      "alt": "Сгенерированный editorial hero города Занзибар-Сити"
     }
   }
 ]
