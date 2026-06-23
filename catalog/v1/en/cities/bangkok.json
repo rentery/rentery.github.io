@@ -2,12 +2,14 @@
   "id": "bangkok",
   "slug": "bangkok",
   "title": "Бангкок",
-  "subtitle": "Бангкок · 2 маршрута · 3 скоро",
-  "meta": "Таиланд · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Бангкок · 4 маршрута · 1 скоро",
+  "meta": "Таиланд · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "bangkok-rattanakosin-royal-river",
-    "bangkok-yaowarat-talat-noi-trade"
+    "bangkok-yaowarat-talat-noi-trade",
+    "bangkok-banglamphu-walls-river",
+    "bangkok-siam-ban-khrua-silk-modern"
   ],
   "countryId": "thailand",
   "photo": {

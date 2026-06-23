@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "У северной стены старого города соседствуют монастырская тишина, речной ветер и легенда Кхаосан.",
-    "cityId": "bangkok",
-    "dayTrip": false,
-    "id": "bangkok-banglamphu-walls-river",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Памятник демократии, Ват Бовоннивет, Кхаосан, Phra Athit и форт Пхра Сумен.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Северная кромка старого города между стеной, рекой и туристической легендой.",
-    "title": "Банглампху: крепость, монастыри и миф Кхаосан",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Канал и торговый центр в одном кадре: шелковые дворы, дом Томпсона и стеклянный Сиам.",
-    "cityId": "bangkok",
-    "dayTrip": false,
-    "id": "bangkok-siam-ban-khrua-silk-modern",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Ban Khrua, Khlong Saen Saep, Jim Thompson House, National Stadium и Siam Square.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Канал, дом Джима Томпсона и современный центр вокруг Rama I Road.",
-    "title": "Сиам и Бан Круа: шелк, искусство и торговые этажи",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "Первая современная дорога города держит вместе склады, собор, граффити и новый дизайн у реки.",
     "cityId": "bangkok",
     "dayTrip": false,

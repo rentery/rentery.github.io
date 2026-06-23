@@ -8,7 +8,9 @@
     "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
     "guideIds": [
       "beijing-central-axis-forbidden-city",
-      "beijing-mutianyu-great-wall-ridge"
+      "beijing-mutianyu-great-wall-ridge",
+      "beijing-shichahai-drum-towers-hutongs",
+      "beijing-temple-of-heaven-ritual-axis"
     ],
     "coordinates": {
       "latitude": 39.9075,
@@ -797,12 +799,14 @@
     "id": "bangkok",
     "slug": "bangkok",
     "title": "Бангкок",
-    "subtitle": "Бангкок · 2 маршрута · 3 скоро",
-    "meta": "Таиланд · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Бангкок · 4 маршрута · 1 скоро",
+    "meta": "Таиланд · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bangkok-rattanakosin-royal-river",
-      "bangkok-yaowarat-talat-noi-trade"
+      "bangkok-yaowarat-talat-noi-trade",
+      "bangkok-banglamphu-walls-river",
+      "bangkok-siam-ban-khrua-silk-modern"
     ],
     "countryId": "thailand",
     "photo": {
@@ -826,12 +830,13 @@
     "id": "barcelona",
     "slug": "barcelona",
     "title": "Барселона",
-    "subtitle": "Барселона · 2 маршрута · 3 скоро",
-    "meta": "Испания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Барселона · 3 маршрута · 2 скоро",
+    "meta": "Испания · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "barcelona-modernist-eixample",
-      "barcelona-gothic-roman-core"
+      "barcelona-gothic-roman-core",
+      "barcelona-maritime-waterfront"
     ],
     "countryId": "spain",
     "photo": {
