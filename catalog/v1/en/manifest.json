@@ -117,7 +117,7 @@
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
-      "packHash": "7c9f82599002",
+      "packHash": "f260725123a4",
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-24T23:11:01.662Z",
+  "generatedAt": "2026-06-24T23:29:38.939Z",
   "locale": "en",
   "schemaVersion": 1
 }
