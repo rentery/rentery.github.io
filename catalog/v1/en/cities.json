@@ -2783,11 +2783,12 @@
     "id": "venice",
     "slug": "venice",
     "title": "Венеция",
-    "subtitle": "Венеция · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Венеция · 2 маршрута · 3 скоро",
+    "meta": "Италия · 2 маршрута опубликовано",
+    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "venice-san-marco-rialto-republic"
+      "venice-san-marco-rialto-republic",
+      "venice-dorsoduro-lagoon-art"
     ],
     "countryId": "italy",
     "photo": {
@@ -2811,11 +2812,13 @@
     "id": "vienna",
     "slug": "vienna",
     "title": "Вена",
-    "subtitle": "Вена · 1 маршрут · 4 скоро",
-    "meta": "Австрия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Вена · 3 маршрута · 2 скоро",
+    "meta": "Австрия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "vienna-stephansdom-hofburg-power-core"
+      "vienna-stephansdom-hofburg-power-core",
+      "vienna-schonbrunn-summer-empire-garden",
+      "vienna-ringstrasse-boulevard-empire"
     ],
     "countryId": "austria",
     "photo": {
@@ -2839,11 +2842,13 @@
     "id": "warsaw",
     "slug": "warsaw",
     "title": "Варшава",
-    "subtitle": "Варшава · 1 маршрут · 4 скоро",
-    "meta": "Польша · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Варшава · 3 маршрута · 2 скоро",
+    "meta": "Польша · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "warsaw-old-town-royal-route-rebuilt-city"
+      "warsaw-old-town-royal-route-rebuilt-city",
+      "warsaw-north-praga-right-bank",
+      "warsaw-muranow-jewish-memory-rebuilt-district"
     ],
     "countryId": "poland",
     "photo": {
@@ -2867,11 +2872,13 @@
     "id": "washington-dc",
     "slug": "washington-dc",
     "title": "Вашингтон, округ Колумбия",
-    "subtitle": "Вашингтон, округ Колумбия · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Вашингтон, округ Колумбия · 3 маршрута · 2 скоро",
+    "meta": "США · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "washington-dc-national-mall-memory-axis"
+      "washington-dc-national-mall-memory-axis",
+      "washington-dc-pennsylvania-avenue-republic-stage",
+      "washington-dc-capitol-hill-law-neighborhood"
     ],
     "countryId": "united-states",
     "photo": {
@@ -2895,11 +2902,13 @@
     "id": "wellington",
     "slug": "wellington",
     "title": "Веллингтон",
-    "subtitle": "Веллингтон · 1 маршрут · 4 скоро",
-    "meta": "Новая Зеландия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Веллингтон · 3 маршрута · 2 скоро",
+    "meta": "Новая Зеландия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "wellington-waterfront-te-papa-harbour-city"
+      "wellington-waterfront-te-papa-harbour-city",
+      "wellington-thorndon-parliament-wooden-capital",
+      "wellington-cable-car-botanic-garden-descent"
     ],
     "countryId": "new-zealand",
     "photo": {
@@ -2923,12 +2932,13 @@
     "id": "xian",
     "slug": "xian",
     "title": "Сиань",
-    "subtitle": "Сиань · 2 маршрута · 3 скоро",
-    "meta": "Китай · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сиань · 3 маршрута · 2 скоро",
+    "meta": "Китай · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "xian-city-wall-bell-drum",
-      "xian-terracotta-qin-mausoleum"
+      "xian-terracotta-qin-mausoleum",
+      "xian-giant-goose-tang-axis"
     ],
     "countryId": "china",
     "photo": {

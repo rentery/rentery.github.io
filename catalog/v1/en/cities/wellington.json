@@ -2,11 +2,13 @@
   "id": "wellington",
   "slug": "wellington",
   "title": "Веллингтон",
-  "subtitle": "Веллингтон · 1 маршрут · 4 скоро",
-  "meta": "Новая Зеландия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Веллингтон · 3 маршрута · 2 скоро",
+  "meta": "Новая Зеландия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "wellington-waterfront-te-papa-harbour-city"
+    "wellington-waterfront-te-papa-harbour-city",
+    "wellington-thorndon-parliament-wooden-capital",
+    "wellington-cable-car-botanic-garden-descent"
   ],
   "countryId": "new-zealand",
   "photo": {

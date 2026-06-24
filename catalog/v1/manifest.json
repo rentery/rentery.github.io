@@ -381,27 +381,27 @@
       "packPath": "cities/varanasi/offline-pack.json"
     },
     "venice": {
-      "packHash": "9dbb7f86bd19",
+      "packHash": "c63119798ebb",
       "packPath": "cities/venice/offline-pack.json"
     },
     "vienna": {
-      "packHash": "64f9741b2d65",
+      "packHash": "9ce1fec01b9c",
       "packPath": "cities/vienna/offline-pack.json"
     },
     "warsaw": {
-      "packHash": "891769fec93c",
+      "packHash": "f15e3c312eac",
       "packPath": "cities/warsaw/offline-pack.json"
     },
     "washington-dc": {
-      "packHash": "10567939f498",
+      "packHash": "69d8af86472a",
       "packPath": "cities/washington-dc/offline-pack.json"
     },
     "wellington": {
-      "packHash": "1fa513ab754c",
+      "packHash": "d4f81d5509d8",
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
-      "packHash": "17c034628cd9",
+      "packHash": "16e96ef3c638",
       "packPath": "cities/xian/offline-pack.json"
     },
     "zanzibar-city": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-23T21:13:58.879Z",
+  "generatedAt": "2026-06-24T00:30:03.235Z",
   "locale": "ru",
   "schemaVersion": 1
 }

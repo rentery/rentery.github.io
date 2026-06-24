@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Муранув ведет по району, где под послевоенными кварталами слышна старая еврейская Варшава.",
-    "cityId": "warsaw",
-    "dayTrip": false,
-    "id": "warsaw-muranow-jewish-memory-rebuilt-district",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Муранув между садом Красиньских, POLIN, улицами Anielewicza, Miła, Stawki и Nalewki.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Еврейская Варшава, гетто и послевоенный город на его месте.",
-    "title": "Муранув: память под новым районом",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Правый берег раскрывает другую Варшаву: торг, фабрики, дворы и улицы, пережившие левый берег.",
-    "cityId": "warsaw",
-    "dayTrip": false,
-    "id": "warsaw-north-praga-right-bank",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Прага-Север вокруг Plac Wileński, Targowa, Ząbkowska, базара Ружицкого и Koneser.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Торговый район, старые дворы, фабрики и улицы, пережившие войну иначе.",
-    "title": "Прага-Север: город на правом берегу",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Лазенки собирают парк, дворцовую сцену и тихую политику последнего короля Польши.",
     "cityId": "warsaw",
     "dayTrip": false,

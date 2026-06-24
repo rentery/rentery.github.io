@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Холм показывает, как федеральная сцена соседствует с рынком, рядовыми домами и повседневной жизнью DC.",
-    "cityId": "washington-dc",
-    "dayTrip": false,
-    "id": "washington-dc-capitol-hill-law-neighborhood",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "От Union Station и Capitol Grounds к Eastern Market и Barracks Row.",
-    "roughDuration": "1.5-2.5 часа",
-    "status": "coming_soon",
-    "subtitle": "Конгресс, библиотеки, суд и рядовые дома в одном компактном холме.",
-    "title": "Капитолийский холм: закон и квартал",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Церемониальная улица связывает Белый дом с архивами, театрами и городскими площадями.",
-    "cityId": "washington-dc",
-    "dayTrip": false,
-    "id": "washington-dc-pennsylvania-avenue-republic-stage",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Lafayette Square, Pennsylvania Avenue, Federal Triangle и Penn Quarter.",
-    "roughDuration": "1.5-2.5 часа",
-    "status": "coming_soon",
-    "subtitle": "Президентская улица, архивы, театры и площади между властью и городом.",
-    "title": "Пенсильвания-авеню: сцена республики",
-    "walkType": "history"
-  },
-  {
     "blurb": "U Street раскрывает другой центр столицы: клубы, театр, стены памяти и долгую историю черного Вашингтона.",
     "cityId": "washington-dc",
     "dayTrip": false,

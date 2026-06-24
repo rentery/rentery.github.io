@@ -2,11 +2,13 @@
   "id": "washington-dc",
   "slug": "washington-dc",
   "title": "Вашингтон, округ Колумбия",
-  "subtitle": "Вашингтон, округ Колумбия · 1 маршрут · 4 скоро",
-  "meta": "США · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Вашингтон, округ Колумбия · 3 маршрута · 2 скоро",
+  "meta": "США · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "washington-dc-national-mall-memory-axis"
+    "washington-dc-national-mall-memory-axis",
+    "washington-dc-pennsylvania-avenue-republic-stage",
+    "washington-dc-capitol-hill-law-neighborhood"
   ],
   "countryId": "united-states",
   "photo": {

@@ -2,11 +2,13 @@
   "id": "warsaw",
   "slug": "warsaw",
   "title": "Варшава",
-  "subtitle": "Варшава · 1 маршрут · 4 скоро",
-  "meta": "Польша · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Варшава · 3 маршрута · 2 скоро",
+  "meta": "Польша · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "warsaw-old-town-royal-route-rebuilt-city"
+    "warsaw-old-town-royal-route-rebuilt-city",
+    "warsaw-north-praga-right-bank",
+    "warsaw-muranow-jewish-memory-rebuilt-district"
   ],
   "countryId": "poland",
   "photo": {

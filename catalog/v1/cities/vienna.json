@@ -2,11 +2,13 @@
   "id": "vienna",
   "slug": "vienna",
   "title": "Вена",
-  "subtitle": "Вена · 1 маршрут · 4 скоро",
-  "meta": "Австрия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Вена · 3 маршрута · 2 скоро",
+  "meta": "Австрия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "vienna-stephansdom-hofburg-power-core"
+    "vienna-stephansdom-hofburg-power-core",
+    "vienna-schonbrunn-summer-empire-garden",
+    "vienna-ringstrasse-boulevard-empire"
   ],
   "countryId": "austria",
   "photo": {

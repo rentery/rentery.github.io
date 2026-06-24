@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Ринг раскрывает Вену XIX века: ратуша, парламент, театры, музеи и большие парки на месте стен.",
-    "cityId": "vienna",
-    "dayTrip": false,
-    "id": "vienna-ringstrasse-boulevard-empire",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Северо-западная и южная часть Рингштрассе от Шоттентор до Оперы и Карлсплац.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Парадный круг XIX века как проект власти, культуры и города.",
-    "title": "Рингштрассе: бульвар, который строил империю заново",
-    "walkType": "architecture"
-  },
-  {
-    "blurb": "Сёнбрунн читается как сцена: дворец, партеры, фонтаны и высокий взгляд на летнюю империю.",
-    "cityId": "vienna",
-    "dayTrip": false,
-    "id": "vienna-schonbrunn-summer-empire-garden",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Дворец и сады Сёнбрунна в Хитцинге, без выезда за пределы комплекса.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Дворец, партеры и виды, где власть разыгрывала себя на открытом воздухе.",
-    "title": "Сёнбрунн: летняя империя и сад как театр",
-    "walkType": "classic"
-  },
-  {
     "blurb": "Вена 1900 года видна на короткой линии: павильоны Отто Вагнера, Сецессион, кофе и рынок.",
     "cityId": "vienna",
     "dayTrip": false,
