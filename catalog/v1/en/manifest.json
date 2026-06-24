@@ -405,7 +405,7 @@
       "packPath": "cities/xian/offline-pack.json"
     },
     "zanzibar-city": {
-      "packHash": "40e5e1fddc0c",
+      "packHash": "d4d0a86d95dd",
       "packPath": "cities/zanzibar-city/offline-pack.json"
     },
     "zurich": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-24T21:20:43.001Z",
+  "generatedAt": "2026-06-24T21:37:58.478Z",
   "locale": "en",
   "schemaVersion": 1
 }

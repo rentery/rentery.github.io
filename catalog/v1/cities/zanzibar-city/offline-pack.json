@@ -1750,8 +1750,8 @@
                 "width": 1600
               },
               "square": {
-                "width": 800,
-                "height": 800
+                "width": 1000,
+                "height": 1000
               }
             }
           }
@@ -3103,8 +3103,8 @@
             "width": 1600
           },
           "square": {
-            "width": 800,
-            "height": 800
+            "width": 1000,
+            "height": 1000
           }
         }
       }
@@ -3518,5 +3518,5 @@
       }
     }
   ],
-  "packHash": "3dea64aff50f"
+  "packHash": "482327e7b586"
 }
