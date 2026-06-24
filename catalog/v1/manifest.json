@@ -157,7 +157,7 @@
       "packPath": "cities/hanoi/offline-pack.json"
     },
     "havana": {
-      "packHash": "36d53afa3fa3",
+      "packHash": "8c2b7fba58c2",
       "packPath": "cities/havana/offline-pack.json"
     },
     "helsinki": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-24T22:07:07.953Z",
+  "generatedAt": "2026-06-24T22:31:06.806Z",
   "locale": "ru",
   "schemaVersion": 1
 }
