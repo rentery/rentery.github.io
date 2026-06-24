@@ -955,12 +955,12 @@
   "cover": {
     "id": "chiang-mai-old-city-lanna-moat-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Старый город: Ланна внутри рва»"
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-basemap.png",
+    "image": "",
     "center": {
       "latitude": 18.78859,
       "longitude": 98.98752999999999
@@ -975,7 +975,7 @@
     "routeLogic": "Старый Чиангмай удобно читать не как список «лучших храмов», а как цепочку городских жестов. Сначала он ставит перед вами порог — Тха Пхэ, где дорога к рынку и реке встречается со старым контуром стен. Потом вода объясняет, что Ланна любила не абстрактную красоту, а управляемую форму: ров, кирпич, свободное пространство перед стеной, узнаваемую границу мира внутри и мира снаружи. На площади Трёх королей эта форма получает политический смысл: город помнит себя как договор и совместное решение, даже если сам монумент гораздо моложе средневековой истории, к которой отсылает. Дальше прогулка сжимается к сердцу тяжести — Chedi Luang, громадной массе, пережившей амбицию, землетрясение и позднейшие реставрации. Рядом Wat Phan Tao переводит разговор из масштаба государства в масштаб дерева и руки мастера: бывший королевский зал здесь дышит тёмным тиком и ручной резьбой. И, наконец, Wat Phra Singh показывает Чиангмай тогда, когда он не обороняется и не доказывает силу, а доводит собственную декоративную речь до ясности: золото по лаку, многослойные крыши, роспись как медленный рассказ.",
     "bestFor": "спокойного первого знакомства с маршрутом",
     "notFor": "тем, кому нужен быстрый чеклист без остановок",
-    "beforeYouGo": "07:00–10:00 или 16:30–18:30.\nПолдень в жару; воскресенье после позднего дня, если нужен тихий старт у Тха Пхэ.\nДля храмовых остановок прикрытые плечи и колени; обувь снимается перед входом в священные помещения.\nВода, наличные на пожертвования и мелкие входные платежи по текущим правилам места, головной убор, тонкий платок.\nНаружные остановки устойчивы и просты. Доступ в храмовые интерьеры зависит от служб, локальных правил и иногда от состояния сохранения. Для Wat Phan Tao рассчитывайте прежде всего на сильный внешний опыт и проверяйте допуск внутрь уже на месте.\nПочти весь маршрут идёт по плоским городским кварталам и храмовым дворам. Главная помеха — солнце и обычный городской трафик у рва.",
+    "beforeYouGo": "07:00–10:00 или 16:30–18:30. Полдень в жару; воскресенье после позднего дня, если нужен тихий старт у Тха Пхэ. Для храмовых остановок прикрытые плечи и колени; обувь снимается перед входом в священные помещения. Вода, наличные на пожертвования и мелкие входные платежи по текущим правилам места, головной убор, тонкий платок. Наружные остановки устойчивы и просты. Доступ в храмовые интерьеры зависит от служб, локальных правил и иногда от состояния сохранения. Для Wat Phan Tao рассчитывайте прежде всего на сильный внешний опыт и проверяйте допуск внутрь уже на месте. Почти весь маршрут идёт по плоским городским кварталам и храмовым дворам. Главная помеха — солнце и обычный городской трафик у рва.",
     "timing": "Лучше идти в первой половине дня или ближе к вечеру."
   },
   "stopList": [
@@ -1009,13 +1009,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Ворота Тха Пхэ",
         "attribution": {
           "author": "Hartmann Linge",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:201703291109a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1053,13 +1053,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Восточный ров",
         "attribution": {
           "author": "Christophe95",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moat_in_the_east_of_Chiang_Mai.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1097,13 +1097,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Площадь Трёх королей",
         "attribution": {
           "author": "Sry85",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_kings_monument.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1141,13 +1141,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Wat Chedi Luang",
         "attribution": {
           "author": "Jakub Hałun",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1185,13 +1185,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Wat Phan Tao",
         "attribution": {
           "author": "Stefan Fussan",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phan_Tao_-_0001.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1229,13 +1229,13 @@
       "photo": {
         "id": "chiang-mai-old-city-lanna-moat-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-old-city-lanna-moat-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Wat Phra Singh",
         "attribution": {
           "author": "Stefan Fussan",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0001.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },

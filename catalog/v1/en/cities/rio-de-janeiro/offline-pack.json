@@ -3,18 +3,20 @@
     "id": "rio-de-janeiro",
     "slug": "rio-de-janeiro",
     "title": "Рио-де-Жанейро",
-    "subtitle": "Рио-де-Жанейро · 1 маршрут · 4 скоро",
-    "meta": "Бразилия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Рио-де-Жанейро · 3 маршрута · 2 скоро",
+    "meta": "Бразилия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "rio-de-janeiro-centro-imperial-republica"
+      "rio-de-janeiro-centro-imperial-republica",
+      "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "rio-de-janeiro-lapa-santa-teresa-hillside"
     ],
     "countryId": "brazil",
     "photo": {
       "id": "rio-de-janeiro-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
     },
     "identity": {
@@ -1425,13 +1427,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-1",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Praça XV и Chafariz do Mestre Valentim",
             "attribution": {
               "author": "Carlos Luis M C da Cruz",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pca_xv_chafariz_mestre_valentim.JPG",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1465,13 +1467,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-2",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Paço Imperial",
             "attribution": {
               "author": "Alexandrecataldo",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_Imperial_2.JPG",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1505,13 +1507,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-3",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Arco do Teles и Travessa do Comércio",
             "attribution": {
               "author": "Ricardo Deutsch Junior",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_do_Teles_-_RJ.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1545,13 +1547,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-4",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Igreja da Candelária",
             "attribution": {
               "author": "Stegop",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_da_Candel%C3%A1ria_26-1.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1585,13 +1587,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-5",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Rua do Ouvidor и Igreja da Lapa dos Mercadores",
             "attribution": {
               "author": "Halley Pacheco de Oliveira",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Lapa_dos_Mercadores_Fachada_II.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1625,13 +1627,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-6",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Confeitaria Colombo",
             "attribution": {
               "author": "Eugenio Hansen, OFS",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confeitaria_Colombo.JPG",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1665,13 +1667,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-7",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Largo da Carioca и Rua da Carioca",
             "attribution": {
               "author": "Rodrigo_Soldon",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largo_da_Carioca_-_Rio_de_Janeiro,_Brasil.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1705,13 +1707,13 @@
           "photo": {
             "id": "rio-de-janeiro-centro-imperial-republica-stop-8",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Cinelândia и Theatro Municipal",
             "attribution": {
               "author": "Antonio Donioli",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_do_Rio_de_Janeiro_Cinel%C3%A2ndia.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-19"
             }
           }
@@ -1720,12 +1722,12 @@
       "cover": {
         "id": "rio-de-janeiro-centro-imperial-republica-cover",
         "kind": "generated",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-cover-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-cover-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Исторический центр Рио как переход от Praça XV к республиканскому театральному фасаду Cinelândia."
       },
       "basemap": {
-        "image": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-basemap.png",
+        "image": "",
         "center": {
           "latitude": -22.90525,
           "longitude": -43.17645
@@ -1734,6 +1736,1714 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "basemap": {
+        "image": "",
+        "center": {
+          "latitude": -22.8975,
+          "longitude": -43.1811
+        },
+        "zoom": 15.54,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "cityId": "rio-de-janeiro",
+      "category": "Район",
+      "title": "Пекена‑Африка и порт: память под новой набережной",
+      "subtitle": "Район Сауде на окраине центрального Рио – это место, где во времена работорговли в порту формировалась бразильская культура. Сегодня гигантские здания нового порта и белоснежный Музей завтрашнего дня соседствуют с мощёными доками, каменными лестницами и площадями, где звучала первая самба. Этот маршрут приглашает пройтись по набережной Porto Maravilha, заглянуть на подвесной сад начала XX века, присесть на камень, по которому поднимались рабы и портовые рабочие, и посетить тихий мемориал, обнаруженный под полом обычного дома. По пути вы увидите, как город превратил места боли в пространства памяти и творчества. Небольшие музеи предлагают современный взгляд на науку и искусство, улицы с яркими барами хранят память о забастовках докеров, а на Largo da Prainha привычно идут танцы и играет живая музыка. Истории о жёстких рейдах против чернокожих объединяются с рассказами о женщинах, поставивших самбу на сцену и спасающих традиции. Прогулка комфортна даже в жару: маршрут тянется вдоль залива Гуанабара, по широким тротуарам и тенистым аллеям сада. Посетите музеи в дневное время, а вечером дождитесь уличного круга самбы. Наденьте удобную обувь и возьмите бутылку воды – в пути много ступеней и мощённых участков. Транспорт удобно организован: трамвай VLT и станция метро «Uruguaiana» проходят рядом, а набережная оборудована лифтами и пандусами.",
+      "blurb": "Район Сауде на окраине центрального Рио – это место, где во времена работорговли в порту формировалась бразильская культура. Сегодня гигантские здания нового порта и белоснежный Музей завтрашнего дня соседствуют с мощёными доками, каменными лестницами и площадями, где звучала первая самба. Этот маршрут приглашает пройтись по набережной Porto Maravilha, заглянуть на подвесной сад начала XX века, присесть на камень, по которому поднимались рабы и портовые рабочие, и посетить тихий мемориал, обнаруженный под полом обычного дома. По пути вы увидите, как город превратил места боли в пространства памяти и творчества. Небольшие музеи предлагают современный взгляд на науку и искусство, улицы с яркими барами хранят память о забастовках докеров, а на Largo da Prainha привычно идут танцы и играет живая музыка. Истории о жёстких рейдах против чернокожих объединяются с рассказами о женщинах, поставивших самбу на сцену и спасающих традиции. Прогулка комфортна даже в жару: маршрут тянется вдоль залива Гуанабара, по широким тротуарам и тенистым аллеям сада. Посетите музеи в дневное время, а вечером дождитесь уличного круга самбы. Наденьте удобную обувь и возьмите бутылку воды – в пути много ступеней и мощённых участков. Транспорт удобно организован: трамвай VLT и станция метро «Uruguaiana» проходят рядом, а набережная оборудована лифтами и пандусами.",
+      "mood": "history",
+      "accent": "#3340A3",
+      "soft": "#E3E5F2",
+      "deep": "#232D76",
+      "ink": "#222A62",
+      "motif": "lane",
+      "duration": "3–4 часы",
+      "stops": 8,
+      "distance": "≈2 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Район Сауде на окраине центрального Рио – это место, где во времена работорговли в порту формировалась бразильская культура. Сегодня гигантские здания нового порта и белоснежный Музей завтрашнего дня соседствуют с мощёными доками, каменными лестницами и площадями, где звучала первая самба. Этот маршрут приглашает пройтись по набережной Porto Maravilha, заглянуть на подвесной сад начала XX века, присесть на камень, по которому поднимались рабы и портовые рабочие, и посетить тихий мемориал, обнаруженный под полом обычного дома. По пути вы увидите, как город превратил места боли в пространства памяти и творчества. Небольшие музеи предлагают современный взгляд на науку и искусство, улицы с яркими барами хранят память о забастовках докеров, а на Largo da Prainha привычно идут танцы и играет живая музыка. Истории о жёстких рейдах против чернокожих объединяются с рассказами о женщинах, поставивших самбу на сцену и спасающих традиции. Прогулка комфортна даже в жару: маршрут тянется вдоль залива Гуанабара, по широким тротуарам и тенистым аллеям сада. Посетите музеи в дневное время, а вечером дождитесь уличного круга самбы. Наденьте удобную обувь и возьмите бутылку воды – в пути много ступеней и мощённых участков. Транспорт удобно организован: трамвай VLT и станция метро «Uruguaiana» проходят рядом, а набережная оборудована лифтами и пандусами."
+      },
+      "content": {
+        "intro": "Район Сауде на окраине центрального Рио – это место, где во времена работорговли в порту формировалась бразильская культура. Сегодня гигантские здания нового порта и белоснежный Музей завтрашнего дня соседствуют с мощёными доками, каменными лестницами и площадями, где звучала первая самба. Этот маршрут приглашает пройтись по набережной Porto Maravilha, заглянуть на подвесной сад начала XX века, присесть на камень, по которому поднимались рабы и портовые рабочие, и посетить тихий мемориал, обнаруженный под полом обычного дома. По пути вы увидите, как город превратил места боли в пространства памяти и творчества. Небольшие музеи предлагают современный взгляд на науку и искусство, улицы с яркими барами хранят память о забастовках докеров, а на Largo da Prainha привычно идут танцы и играет живая музыка. Истории о жёстких рейдах против чернокожих объединяются с рассказами о женщинах, поставивших самбу на сцену и спасающих традиции. Прогулка комфортна даже в жару: маршрут тянется вдоль залива Гуанабара, по широким тротуарам и тенистым аллеям сада. Посетите музеи в дневное время, а вечером дождитесь уличного круга самбы. Наденьте удобную обувь и возьмите бутылку воды – в пути много ступеней и мощённых участков. Транспорт удобно организован: трамвай VLT и станция метро «Uruguaiana» проходят рядом, а набережная оборудована лифтами и пандусами.",
+        "routeLogic": "Район Сауде на окраине центрального Рио – это место, где во времена работорговли в порту формировалась бразильская культура. Сегодня гигантские здания нового порта и белоснежный Музей завтрашнего дня соседствуют с мощёными доками, каменными лестницами и площадями, где звучала первая самба. Этот маршрут приглашает пройтись по набережной Porto Maravilha, заглянуть на подвесной сад начала XX века, присесть на камень, по которому поднимались рабы и портовые рабочие, и посетить тихий мемориал, обнаруженный под полом обычного дома. По пути вы увидите, как город превратил места боли в пространства памяти и творчества. Небольшие музеи предлагают современный взгляд на науку и искусство, улицы с яркими барами хранят память о забастовках докеров, а на Largo da Prainha привычно идут танцы и играет живая музыка. Истории о жёстких рейдах против чернокожих объединяются с рассказами о женщинах, поставивших самбу на сцену и спасающих традиции. Прогулка комфортна даже в жару: маршрут тянется вдоль залива Гуанабара, по широким тротуарам и тенистым аллеям сада. Посетите музеи в дневное время, а вечером дождитесь уличного круга самбы. Наденьте удобную обувь и возьмите бутылку воды – в пути много ступеней и мощённых участков. Транспорт удобно организован: трамвай VLT и станция метро «Uruguaiana» проходят рядом, а набережная оборудована лифтами и пандусами.",
+        "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
+        "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
+        "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
+        "timing": "3–4 часы"
+      },
+      "stopList": [
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-1",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 1,
+          "name": "Praça Mauá",
+          "note": "Начало прогулки на обновлённой площади и у футуристических музеев.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Эта просторная набережная в устье центра Рио была заложена ещё в XIX веке, но долгое время оставалась забытой и загруженной автомобильными эстакадами.",
+            "lookFor": "Начало прогулки на обновлённой площади и у футуристических музеев.",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Проект Porto Maravilha полностью изменил площадь: её очистили от потока машин, посадили пальмы, открыли вид на залив и построили морской трамвай. Сегодня здесь гуляют семьи, бегают дети и встречаются туристы – в кадр попадает белоснежный силуэт Музея завтрашнего дня и старинный здание MAR. Прислушайтесь к звукам: гудки трамвая напоминают о времени, когда сюда прибывали корабли, а уличные музыканты играют мелодии самбы, напоминающие о том, что за этой современной витриной скрываются слои афробразильской истории. На площади стоит памятник барону Мауá, промышленнику, который способствовал первым железным дорогам Бразилии. Обойдите постамент и почувствуйте, как старые и новые времена встречаются под вашим шагом."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8939,
+            "longitude": -43.177
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-1",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-1",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Praça Mauá, Rio de Janeiro, Brazil",
+            "attribution": {
+              "author": "Wilfredor",
+              "license": "CC0 1.0 Universal; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-2",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 2,
+          "name": "Музей завтрашнего дня",
+          "note": "Футуристический маяк науки на краю залива",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Строение испанского архитектора Сантьяго Калатравы напоминает гигантскую рыбу или космический корабль, нависающий над водой. Внутри выставки рассказывают о климате, технологиях и роли человека в биосфере: под куполом вы увидите огромную сферу, на которую проецируются изображения Вселенной, а интерактивные станции позволяют погрузиться в сценарии будущего.",
+            "lookFor": "Футуристический маяк науки на краю залива",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Лёгкость и прозрачность залов контрастируют с тяжёлой историей порта; музей предлагает задуматься, что будет с городом, который когда‑то являлся главным входом рабов в страну. Снаружи посетители прохаживаются по белым пандусам, любуясь панорамой Гуанабары и скульптурными садовыми прудами. Экологичный дизайн включает солнечные панели и систему охлаждения морской водой. Экспозиция регулярно обновляется: здесь проходят лекции, киносеансы и мастер‑классы для детей. Само здание уже стало современным символом Рио и поводом для гордости квартала Pequena África."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8939,
+            "longitude": -43.1761
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-2",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-2",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Museu do Amanhã – exterior 2018",
+            "attribution": {
+              "author": "Mateus Silva Figueiredo",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-3",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 3,
+          "name": "Музей искусства Рио (MAR)",
+          "note": "История города под волнообразной крышей",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "MAR разместился в неоклассическом дворце XIX века и современном здании ‘Escola do Olhar’, соединённых волнообразной крышей, напоминающей о движении океана.",
+            "lookFor": "История города под волнообразной крышей",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Постоянные и временные выставки рассказывают о Рио – от колониальных карт и фотографий портовых трущоб до работ современного искусства и инсталляций уличных художников. Отсюда открываются панорамные виды на музей завтрашнего дня, залив и заново обустроенную Praça Mauá. Часто здесь проходят встречи с художниками, лекции и мастер‑классы для детей, а на крыше работает кафе. Посетители также знакомятся с работами афробразильских авторов, посвящёнными Pequena África и культуре самбы. Музей стремится рассказать историю города глазами его жителей, в том числе жителей портовой зоны, и поэтому служит прекрасным мостом между прошлым и будущим."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.9011,
+            "longitude": -43.1758
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-3",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-3",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Museu de Arte do Rio 1",
+            "attribution": {
+              "author": "Mwaldeck",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-4",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 4,
+          "name": "Ларго де Сан‑Франсиску да Праинья",
+          "note": "Сердце рабочего квартала и его современный очаг жизни",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "До конца XIX века на месте площади была небольшая естественная бухточка, где разгружали рыбу и соль. Вдоль береговой линии селились портовые рабочие, преимущественно африканцы, здесь собирались зунгус – ночные встречи музыкантов и вольных чернокожих.",
+            "lookFor": "Сердце рабочего квартала и его современный очаг жизни",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "В 1883 году полиция жестоко разогнала одну из таких встреч, что породило ещё большую солидарность среди докеров. Позже бухту засыпали, а дома вокруг площади получили красочные фасады. Сегодня исторические здания стали барами и ресторанами, в центре установлена статуя балерины Мерседес Батисты – первой чернокожей солистки Театра Мунисипал, которая в 1950‑х возвела самбу на академическую сцену. Присев за столиком под старым миндальным деревом, вы можете услышать, как местные старожилы рассказывают о забастовках докеров и о том, как из окрестных домов вышли первые школы самбы. Ларго да Прейнья остаётся местом встреч: по выходным здесь играют хоры, проходят блошиные рынки и фестивали кухни. Но в то же время эта площадь напоминает о социальном неравенстве и борьбе за память, которая ещё продолжается."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8972,
+            "longitude": -43.1861
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-4",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-4",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Largo de São Francisco da Prainha – Rio de Janeiro – 20240914090706",
+            "attribution": {
+              "author": "Nelyfcrangel",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-5",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 5,
+          "name": "Pedra do Sal – колыбель самбы",
+          "note": "Священный камень, где музыка стала символом сопротивления",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Когда‑то этот крутой, вырубленный в скале склон использовали для разгрузки мешков соли. Здесь поселились первые свободные афробразильцы района, среди которых были знаменитые ‘Tias Baianas’ – женщины, оберегавшие традиции кандомбле и готовившие блюда, которые кормили портовых работников.",
+            "lookFor": "Священный камень, где музыка стала символом сопротивления",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "В тенистых переулках вокруг Pedra do Sal появились первые ‘ranchos’ и школы самбы, которые в итоге породили карнавал. Сегодня каменная лестница превращается в сцену: каждый понедельник с наступлением сумерек на площади João da Baiana проходит бесплатный круг самбы. Музыканты сидят на ступенях, а зрители заполняют переулок, распевая в унисон и танцуя босиком. Камень, признанный памятником культурного наследия, также служит святилищем – здесь проводят религиозные ритуалы кандомбле, так что относитесь к месту с уважением."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8975,
+            "longitude": -43.1864
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-5",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-5",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Pedra do Sal – Rio de Janeiro – 20240914162841",
+            "attribution": {
+              "author": "Teresacmatta",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-6",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 6,
+          "name": "Cais do Valongo",
+          "note": "Скрытый док, где начиналась бразильская диаспора",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Этот каменный причал, построенный в 1811 году, был главным местом высадки порабощенных африканцев в Южную Америку. За несколько десятилетий здесь прошли около 900 тысяч мужчин, женщин и детей.",
+            "lookFor": "Скрытый док, где начиналась бразильская диаспора",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "В 1843 году, к прибытию португальской принцессы Терезы Кристины, причал облицевали гранитом и переименовали в ‘Cais da Imperatriz’, но вскоре он был засыпан грунтом. В 2011 году при работах Porto Maravilha археологи нашли плиты дока и тысячи артефактов. В 2017 году Валонгу присвоен статус объекта Всемирного наследия ЮНЕСКО, а в 2024 году место превратилось в открытый музей с подсветкой, охраной и информационными табличками. Здесь тишина и простота – лишь стенная кладка и мощёный пол намекают на судьбы миллионов. Прочитайте панели, на которых приведены цитаты из описаний рабовладельцев и свидетельства современников, и представьте, как в это место приходили люди, у которых отняли свободу. Современные инициативы стремятся превратить Валонгу в пространство для диалога о расизме, культуре и идентичности."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8956,
+            "longitude": -43.1844
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-6",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-6",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Sítio Arqueológico do Cais do Valongo – Rio de Janeiro – 20220927160417",
+            "attribution": {
+              "author": "Donatas Dabravolskas",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-7",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 7,
+          "name": "Подвесной сад Валонгу",
+          "note": "Романтический сад, выросший над анкорой и доками",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Этот террасный парк был создан в 1906 году ландшафтным архитектором Луисом Реем по заказу мэра Переиры Пассуса. На высоте семи метров над улицей были устроены изогнутые дорожки, цветники и смотровые площадки, вдохновлённые французскими садами XIX века.",
+            "lookFor": "Романтический сад, выросший над анкорой и доками",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "На центральной площадке установили статуи римских богов Минервы, Марса, Цереры и Меркурия, символизирующих разум, войну, урожай и торговлю – своего рода аллегории для нового буржуазного Рио. Во время Porto Maravilha статуи восстановили, а в старой сторожке открыли культурный центр Pequena África, где проходят выставки и лекции. С верхней террасы открывается вид на исторические крыши Морро да Консейсао и на стройки нового порта. Сад остаётся тенистой передышкой между шумными улицами и символом того, как город намагнитил память: романтический оазис вырос буквально на слоях рабского дока."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8951,
+            "longitude": -43.1849
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-7",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-7",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Jardim Suspenso do Valongo – RJ",
+            "attribution": {
+              "author": "Arine Gaspar Filho",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-pequena-africa-porto-maravilha-8",
+          "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+          "order": 8,
+          "name": "Cemitério dos Pretos Novos",
+          "note": "Мемориал, найденный под полом кухни",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "В конце XVIII – начале XIX века в нескольких кварталах от порта существовало захоронение, куда свозили тела людей, умерших в пути или вскоре после высадки.",
+            "lookFor": "Мемориал, найденный под полом кухни",
+            "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+            "nextMove": "Маршрут завершён.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Место называли Cemitério dos Pretos Novos – ‘кладбище новых чёрных’. В 1830‑х кладбище закрыли и застроили, а о его существовании забыли. В 1996 году при ремонте дома на Rua Pedro Ernesto 36 хозяева нашли человеческие кости. Исследования доказали, что это останки порабощённых африканцев. С тех пор семейный дом превратился в мемориал и исследовательский институт, где хранятся и изучаются найденные останки, проводятся выставки, лекции и ритуалы памяти. Посетители видят археологические витрины с фрагментами посуды, бусы и ритуальные предметы, а в подвальной части – открытое захоронение. Экскурсоводы рассказывают об ужасных условиях ‘атлантического кладбища’ и о том, как жители района боролись за признание места памятником. Мемориал напоминает, что современный город воздвигнут на костях людей, утративших свободу, и призывает к исторической ответственности."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.8972,
+            "longitude": -43.1822
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-8",
+          "sourceIds": [],
+          "photo": {
+            "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-8",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Cemitério dos Pretos Novos – Rio de Janeiro – 20240914115916",
+            "attribution": {
+              "author": "Juliana Cunha Oliv",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-cover",
+        "kind": "generated",
+        "wide": "",
+        "square": "",
+        "alt": "Сгенерированная editorial-обложка маршрута «rio-de-janeiro-pequena-africa-porto-maravilha»"
+      },
+      "coverAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-cover"
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "routePath": {
+        "coordinates": [
+          [
+            -43.179895,
+            -22.913242
+          ],
+          [
+            -43.179896,
+            -22.913242
+          ],
+          [
+            -43.179863,
+            -22.913251
+          ],
+          [
+            -43.179832,
+            -22.91326
+          ],
+          [
+            -43.179684,
+            -22.913317
+          ],
+          [
+            -43.178944,
+            -22.913475
+          ],
+          [
+            -43.178895,
+            -22.913485
+          ],
+          [
+            -43.178732,
+            -22.913524
+          ],
+          [
+            -43.17872,
+            -22.913579
+          ],
+          [
+            -43.178712,
+            -22.913629
+          ],
+          [
+            -43.178706,
+            -22.913689
+          ],
+          [
+            -43.178712,
+            -22.913745
+          ],
+          [
+            -43.178759,
+            -22.913801
+          ],
+          [
+            -43.179522,
+            -22.914432
+          ],
+          [
+            -43.179065,
+            -22.915211
+          ],
+          [
+            -43.179043,
+            -22.915251
+          ],
+          [
+            -43.179403,
+            -22.915425
+          ],
+          [
+            -43.179403,
+            -22.915425
+          ],
+          [
+            -43.180041,
+            -22.915733
+          ],
+          [
+            -43.180233,
+            -22.915623
+          ],
+          [
+            -43.180372,
+            -22.915871
+          ],
+          [
+            -43.180477,
+            -22.916027
+          ],
+          [
+            -43.180511,
+            -22.916079
+          ],
+          [
+            -43.180529,
+            -22.916148
+          ],
+          [
+            -43.180542,
+            -22.916273
+          ],
+          [
+            -43.180601,
+            -22.916588
+          ],
+          [
+            -43.180642,
+            -22.916833
+          ],
+          [
+            -43.180647,
+            -22.917137
+          ],
+          [
+            -43.180666,
+            -22.917799
+          ],
+          [
+            -43.180898,
+            -22.917812
+          ],
+          [
+            -43.180963,
+            -22.917814
+          ],
+          [
+            -43.181097,
+            -22.917811
+          ],
+          [
+            -43.181153,
+            -22.91781
+          ],
+          [
+            -43.181194,
+            -22.917816
+          ],
+          [
+            -43.181231,
+            -22.917827
+          ],
+          [
+            -43.181271,
+            -22.917845
+          ],
+          [
+            -43.181367,
+            -22.91789
+          ],
+          [
+            -43.181458,
+            -22.917944
+          ],
+          [
+            -43.181569,
+            -22.918019
+          ],
+          [
+            -43.18164,
+            -22.91806
+          ],
+          [
+            -43.181711,
+            -22.918091
+          ],
+          [
+            -43.18195,
+            -22.918195
+          ],
+          [
+            -43.182006,
+            -22.918216
+          ],
+          [
+            -43.182156,
+            -22.918275
+          ],
+          [
+            -43.182415,
+            -22.918357
+          ],
+          [
+            -43.182459,
+            -22.918376
+          ],
+          [
+            -43.182539,
+            -22.918419
+          ],
+          [
+            -43.182606,
+            -22.918466
+          ],
+          [
+            -43.182681,
+            -22.918518
+          ],
+          [
+            -43.18278,
+            -22.918587
+          ],
+          [
+            -43.182834,
+            -22.918635
+          ],
+          [
+            -43.182917,
+            -22.918712
+          ],
+          [
+            -43.182933,
+            -22.918724
+          ],
+          [
+            -43.183013,
+            -22.918809
+          ],
+          [
+            -43.18305,
+            -22.918845
+          ],
+          [
+            -43.183073,
+            -22.918868
+          ],
+          [
+            -43.183118,
+            -22.918896
+          ],
+          [
+            -43.183192,
+            -22.918966
+          ],
+          [
+            -43.183299,
+            -22.919053
+          ],
+          [
+            -43.183319,
+            -22.919068
+          ],
+          [
+            -43.183428,
+            -22.919139
+          ],
+          [
+            -43.183428,
+            -22.919139
+          ],
+          [
+            -43.183319,
+            -22.919068
+          ],
+          [
+            -43.183299,
+            -22.919053
+          ],
+          [
+            -43.183192,
+            -22.918966
+          ],
+          [
+            -43.183118,
+            -22.918896
+          ],
+          [
+            -43.183073,
+            -22.918868
+          ],
+          [
+            -43.18305,
+            -22.918845
+          ],
+          [
+            -43.183013,
+            -22.918809
+          ],
+          [
+            -43.182933,
+            -22.918724
+          ],
+          [
+            -43.182917,
+            -22.918712
+          ],
+          [
+            -43.182834,
+            -22.918635
+          ],
+          [
+            -43.18278,
+            -22.918587
+          ],
+          [
+            -43.182681,
+            -22.918518
+          ],
+          [
+            -43.182606,
+            -22.918466
+          ],
+          [
+            -43.182539,
+            -22.918419
+          ],
+          [
+            -43.182459,
+            -22.918376
+          ],
+          [
+            -43.182415,
+            -22.918357
+          ],
+          [
+            -43.182156,
+            -22.918275
+          ],
+          [
+            -43.182006,
+            -22.918216
+          ],
+          [
+            -43.18195,
+            -22.918195
+          ],
+          [
+            -43.181711,
+            -22.918091
+          ],
+          [
+            -43.181687,
+            -22.918048
+          ],
+          [
+            -43.18166,
+            -22.918018
+          ],
+          [
+            -43.181538,
+            -22.917919
+          ],
+          [
+            -43.181481,
+            -22.917873
+          ],
+          [
+            -43.181312,
+            -22.917775
+          ],
+          [
+            -43.181256,
+            -22.917744
+          ],
+          [
+            -43.181239,
+            -22.917731
+          ],
+          [
+            -43.181234,
+            -22.917719
+          ],
+          [
+            -43.181231,
+            -22.917692
+          ],
+          [
+            -43.181231,
+            -22.917654
+          ],
+          [
+            -43.181237,
+            -22.917598
+          ],
+          [
+            -43.181262,
+            -22.917541
+          ],
+          [
+            -43.181268,
+            -22.917519
+          ],
+          [
+            -43.181283,
+            -22.917501
+          ],
+          [
+            -43.1813,
+            -22.917492
+          ],
+          [
+            -43.181324,
+            -22.917492
+          ],
+          [
+            -43.181395,
+            -22.917512
+          ],
+          [
+            -43.181472,
+            -22.917531
+          ],
+          [
+            -43.181561,
+            -22.917555
+          ],
+          [
+            -43.181853,
+            -22.917621
+          ],
+          [
+            -43.181901,
+            -22.917624
+          ],
+          [
+            -43.18194,
+            -22.917622
+          ],
+          [
+            -43.182114,
+            -22.917594
+          ],
+          [
+            -43.182996,
+            -22.917474
+          ],
+          [
+            -43.182996,
+            -22.917474
+          ],
+          [
+            -43.182667,
+            -22.917519
+          ],
+          [
+            -43.182667,
+            -22.917519
+          ],
+          [
+            -43.182114,
+            -22.917594
+          ],
+          [
+            -43.18194,
+            -22.917622
+          ],
+          [
+            -43.181901,
+            -22.917624
+          ],
+          [
+            -43.181853,
+            -22.917621
+          ],
+          [
+            -43.181561,
+            -22.917555
+          ],
+          [
+            -43.181472,
+            -22.917531
+          ],
+          [
+            -43.181395,
+            -22.917512
+          ],
+          [
+            -43.181324,
+            -22.917492
+          ],
+          [
+            -43.1813,
+            -22.917492
+          ],
+          [
+            -43.181283,
+            -22.917501
+          ],
+          [
+            -43.181268,
+            -22.917519
+          ],
+          [
+            -43.181262,
+            -22.917541
+          ],
+          [
+            -43.181237,
+            -22.917598
+          ],
+          [
+            -43.181231,
+            -22.917654
+          ],
+          [
+            -43.181231,
+            -22.917692
+          ],
+          [
+            -43.181234,
+            -22.917719
+          ],
+          [
+            -43.181239,
+            -22.917731
+          ],
+          [
+            -43.181256,
+            -22.917744
+          ],
+          [
+            -43.181312,
+            -22.917775
+          ],
+          [
+            -43.181481,
+            -22.917873
+          ],
+          [
+            -43.181538,
+            -22.917919
+          ],
+          [
+            -43.181562,
+            -22.917906
+          ],
+          [
+            -43.181657,
+            -22.917973
+          ],
+          [
+            -43.181689,
+            -22.918
+          ],
+          [
+            -43.181715,
+            -22.918032
+          ],
+          [
+            -43.18175,
+            -22.918061
+          ],
+          [
+            -43.181804,
+            -22.918087
+          ],
+          [
+            -43.18188,
+            -22.918123
+          ],
+          [
+            -43.181967,
+            -22.918158
+          ],
+          [
+            -43.182172,
+            -22.91824
+          ],
+          [
+            -43.182309,
+            -22.918287
+          ],
+          [
+            -43.182448,
+            -22.918339
+          ],
+          [
+            -43.182498,
+            -22.918361
+          ],
+          [
+            -43.18256,
+            -22.918395
+          ],
+          [
+            -43.182605,
+            -22.918425
+          ],
+          [
+            -43.182791,
+            -22.918563
+          ],
+          [
+            -43.182853,
+            -22.918615
+          ],
+          [
+            -43.183045,
+            -22.918801
+          ],
+          [
+            -43.183051,
+            -22.918817
+          ],
+          [
+            -43.18305,
+            -22.918845
+          ],
+          [
+            -43.183073,
+            -22.918868
+          ],
+          [
+            -43.183118,
+            -22.918896
+          ],
+          [
+            -43.183192,
+            -22.918966
+          ],
+          [
+            -43.183299,
+            -22.919053
+          ],
+          [
+            -43.183319,
+            -22.919068
+          ],
+          [
+            -43.183431,
+            -22.919141
+          ],
+          [
+            -43.183468,
+            -22.919171
+          ],
+          [
+            -43.183494,
+            -22.919201
+          ],
+          [
+            -43.183665,
+            -22.919472
+          ],
+          [
+            -43.18372,
+            -22.919528
+          ],
+          [
+            -43.183791,
+            -22.919583
+          ],
+          [
+            -43.183951,
+            -22.919658
+          ],
+          [
+            -43.18439,
+            -22.919839
+          ],
+          [
+            -43.184536,
+            -22.919879
+          ],
+          [
+            -43.184666,
+            -22.919928
+          ],
+          [
+            -43.184697,
+            -22.919944
+          ],
+          [
+            -43.184727,
+            -22.919964
+          ],
+          [
+            -43.184751,
+            -22.919984
+          ],
+          [
+            -43.184768,
+            -22.920004
+          ],
+          [
+            -43.18478,
+            -22.92002
+          ],
+          [
+            -43.184789,
+            -22.92004
+          ],
+          [
+            -43.184798,
+            -22.920066
+          ],
+          [
+            -43.184802,
+            -22.920094
+          ],
+          [
+            -43.184803,
+            -22.920151
+          ],
+          [
+            -43.184798,
+            -22.92028
+          ],
+          [
+            -43.184787,
+            -22.92049
+          ],
+          [
+            -43.184791,
+            -22.92068
+          ],
+          [
+            -43.184793,
+            -22.920766
+          ],
+          [
+            -43.184794,
+            -22.920859
+          ],
+          [
+            -43.184795,
+            -22.921004
+          ],
+          [
+            -43.184797,
+            -22.921023
+          ],
+          [
+            -43.184803,
+            -22.921046
+          ],
+          [
+            -43.184813,
+            -22.921074
+          ],
+          [
+            -43.184825,
+            -22.921098
+          ],
+          [
+            -43.184816,
+            -22.921115
+          ],
+          [
+            -43.184812,
+            -22.921123
+          ],
+          [
+            -43.184809,
+            -22.921135
+          ],
+          [
+            -43.18481,
+            -22.921146
+          ],
+          [
+            -43.184814,
+            -22.921163
+          ],
+          [
+            -43.184815,
+            -22.92117
+          ],
+          [
+            -43.184824,
+            -22.92119
+          ],
+          [
+            -43.184846,
+            -22.921221
+          ],
+          [
+            -43.184877,
+            -22.921256
+          ],
+          [
+            -43.18509,
+            -22.921425
+          ],
+          [
+            -43.185096,
+            -22.92143
+          ],
+          [
+            -43.185132,
+            -22.921452
+          ],
+          [
+            -43.185166,
+            -22.921469
+          ],
+          [
+            -43.185202,
+            -22.921491
+          ],
+          [
+            -43.185368,
+            -22.921611
+          ],
+          [
+            -43.185395,
+            -22.921625
+          ],
+          [
+            -43.185432,
+            -22.921637
+          ],
+          [
+            -43.185473,
+            -22.921645
+          ],
+          [
+            -43.185509,
+            -22.921647
+          ],
+          [
+            -43.185545,
+            -22.921645
+          ],
+          [
+            -43.185656,
+            -22.921628
+          ],
+          [
+            -43.185732,
+            -22.921616
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              -43.179895,
+              -22.913242
+            ],
+            "instruction": "Walk east on Avenida Mem de Sá.",
+            "distanceM": 123,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.178732,
+              -22.913524
+            ],
+            "instruction": "Turn right onto Travessa do Mosqueira.",
+            "distanceM": 138,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.179522,
+              -22.914432
+            ],
+            "instruction": "Turn left onto Rua Joaquim Silva.",
+            "distanceM": 104,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.179043,
+              -22.915251
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 41,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.179403,
+              -22.915425
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.179403,
+              -22.915425
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 97,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.180233,
+              -22.915623
+            ],
+            "instruction": "Turn left onto Ladeira de Santa Teresa.",
+            "distanceM": 250,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.180666,
+              -22.917799
+            ],
+            "instruction": "Turn right onto Rua Dias de Barros.",
+            "distanceM": 331,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.183428,
+              -22.919139
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.183428,
+              -22.919139
+            ],
+            "instruction": "Walk northeast on Rua Almirante Alexandrino.",
+            "distanceM": 215,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.181711,
+              -22.918091
+            ],
+            "instruction": "Keep left to take Rua Murtinho Nobre.",
+            "distanceM": 269,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.182996,
+              -22.917474
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.182996,
+              -22.917474
+            ],
+            "instruction": "Walk east on Rua Murtinho Nobre.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.182667,
+              -22.917519
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.182667,
+              -22.917519
+            ],
+            "instruction": "Walk east on Rua Murtinho Nobre.",
+            "distanceM": 209,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.181538,
+              -22.917919
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 192,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.18305,
+              -22.918845
+            ],
+            "instruction": "Bear right onto Rua Almirante Alexandrino.",
+            "distanceM": 349,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.184825,
+              -22.921098
+            ],
+            "instruction": "Turn left to stay on Rua Almirante Alexandrino.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.184812,
+              -22.921123
+            ],
+            "instruction": "Turn right to stay on Rua Almirante Alexandrino.",
+            "distanceM": 119,
+            "type": ""
+          },
+          {
+            "location": [
+              -43.185732,
+              -22.921616
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T03:40:29.323Z"
+        }
+      },
+      "cityId": "rio-de-janeiro",
+      "category": "Район",
+      "title": "Лапа и Санта-Тереза: арки, лестница и город на холме",
+      "subtitle": "Из ночного центра вверх к трамваю, мозаике и старым виллам.",
+      "blurb": "Лапа уводит к холму Санта-Терезы: арки, плитка, трамвай и другая скорость Рио.",
+      "mood": "history & culture",
+      "accent": "#3340A3",
+      "soft": "#E3E5F2",
+      "deep": "#232D76",
+      "ink": "#222A62",
+      "motif": "lane",
+      "duration": "150 мин",
+      "stops": 6,
+      "distance": "2 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Из ночного центра вверх к трамваю, мозаике и старым виллам."
+      },
+      "content": {
+        "intro": "Эта прогулка проведёт вас от шумных баров и фламенко квартала Лапа до творческого приюта на холмах Санта‑Тереза. Вы пройдёте под белоснежными арками старого акведука, подниметесь по цветной лестнице Жоржи Селарона, проедетесь на открытом вагончике исторического бонди и узнаете, как в заброшенных особняках появились парки и музеи. Район сочетает колониальное прошлое и богемное настоящее: узкие улицы, уличное искусство, кафе и панорамы, открывающиеся на залив Гуанабара, подскажут, почему сюда тянутся художники и мечтатели. Маршрут предполагает подъёмы по крутым улицам и лестницам, поэтому наденьте удобную обувь, захватите воду и избегайте похода в полуденную жару.",
+        "routeLogic": "Маршрут идет от Арки Лапы (Aqueduto da Carioca) к Ларгу дос Гимарайнс. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
+        "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
+        "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
+        "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
+        "timing": "150 мин"
+      },
+      "stopList": [
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-1",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 1,
+          "name": "Арки Лапы (Aqueduto da Carioca)",
+          "note": "Оглянитесь под арками: здесь пересекаются воды, трамваи и эпохи.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Перед вами возвышаются два ряда изящных арок, вытянувшихся на 270 метров и достигающих 17,6 м в высоту. Сначала может показаться, что это римские руины, но на самом деле вы стоите под Aqueduto da Carioca, построенным между 1719 и 1750 годами для подачи воды из реки Кариока в колониальный Рио.",
+            "lookFor": "Оглянитесь под арками: здесь пересекаются воды, трамваи и эпохи.",
+            "practical": "Ориентир на месте: Арки Лапы (Aqueduto da Carioca). Продолжайте к следующей точке маршрута.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Белая штукатурка укрывает камень, добытый местными рабочими и рабами; устойчивая конструкция связала холмы Морру‑ду‑Дестерру и Морру‑ду‑Санту‑Антониу. В XIX веке водопровод потерял значение, но вместо разборки его превратили в виадук для жёлтого трамвая Санта‑Тереза — и сегодня маленькие вагончики ещё гудят по верхнему ярусу, возвышаясь над шумными улицами и барочными фасадами Лапы. Внизу — оживлённая площадь, уличные музыканты и граффити, напоминающие, что район вечно меняется. Это место свободно для посещения в любое время суток, но безопаснее и приятнее приходить днём. Под арками тень и прохлада, а приглядевшись, вы увидите, как на другой стороне начинается крутая дорога на холм, по которой вы отправитесь далее."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.913161,
+            "longitude": -43.179869
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-1",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Aquadukt - Arcos da Lapa a stramvají do Santa Teresa - panoramio.jpg",
+            "attribution": {
+              "author": "Pavel Špindler",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-2",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 2,
+          "name": "Эскадария Селарон (Selarón Steps)",
+          "note": "Каждая плитка — письмо откуда‑то из мира.",
+          "time": "25 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "В узком переулке Rua Manoel Carneiro начинается один из самых ярких подъемов в городе. В начале 1990‑х чилийский художник Жоржи Селарон решил украсить разрушающуюся лестницу у своего дома плитками, собранными со всего мира.",
+            "lookFor": "Каждая плитка — письмо откуда‑то из мира.",
+            "practical": "Ориентир на месте: Эскадария Селарон (Selarón Steps). Продолжайте к следующей точке маршрута.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Он начал выкладывать ступени зелёными, жёлтыми и синими плитками — цветами бразильского флага. Соседи считали его затею безумной, но постепенно работа превратилась в одержимость. Туристы приносили мастеру керамику со всего мира, и сегодня 215 ступеней покрывает более 2 000 плиток из 60 странах, среди которых вы найдете фрагменты от немецких пивных до турецких хамамов. Красные панно, портреты индейцев, африканские маски и азиатские иероглифы рассказывают о Бразилии как о месте встречи культур. По словам художника, «работа закончится только с моей смертью», и в 2013 году его тело нашли у подножия лестницы. Сегодня сюда приходят женихи и невесты, музыканты и блогеры; лучше приехать рано утром, пока не жарко, чтобы спокойно разглядеть узоры. Лестница открыта круглосуточно и бесплатна, но будьте внимательны к карманникам и уважайте окружающих жителей."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.915406,
+            "longitude": -43.179414
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-2",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "BR-rio-esc-selaron-1.jpg",
+            "attribution": {
+              "author": "Balou46",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-3",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 3,
+          "name": "Ларгу ду Курвелу и трамвай Санта‑Тереза",
+          "note": "Прыгните в вагон с деревянными лавками и почувствуйте ветер в лицо.",
+          "time": "20 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "По крутой улице Ладейра‑ду‑Кастру вы подниметесь к Ларгу ду Курвелу — маленькой площади, откуда отправляются вагоны исторического бонди Санта‑Тереза. До 1890‑х по этому маршруту шла дорога бывшего акведука, а сегодня здесь стоит трамвайное депо и беседка с видом на город.",
+            "lookFor": "Прыгните в вагон с деревянными лавками и почувствуйте ветер в лицо.",
+            "practical": "Ориентир на месте: Ларгу ду Курвелу и трамвай Санта‑Тереза. Продолжайте к следующей точке маршрута.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Вы услышите грохот колес по рельсам и звонок кондуктора, предупреждающего пешеходов. Жёлтые вагончики с открытыми бортами соединяют центр города с холмами; по обновлённому расписанию они ходят с 8:00 до 17:00 по будням и с 9:00 до 17:00 по выходным, в среднем раз в час, а поездка туда‑обратно стоит около 20 реалов. Жители района, учащиеся государственных школ, пожилые и люди с инвалидностью ездят бесплатно. Сдержанные кондукторы охотно расскажут, где выходить. На площади есть киоск с водой и сладостями, а от остановки до Парка руин примерно 10 минут пешком. Дорога крутая и вымощена камнем, поэтому держитесь за поручни вагончика и оставайтесь внутри — ездить на подножке романтично, но запрещено."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.919142,
+            "longitude": -43.183425
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-3",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Bonde de Santa Teresa",
+            "attribution": {
+              "author": "Henrique Freire / Governo do Rio de Janeiro",
+              "license": "CC BY 2.0 BR; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-4",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 4,
+          "name": "Парк руин (Parque das Ruínas)",
+          "note": "Поднимитесь на металлический мостик ради круглого вида на Рио.",
+          "time": "30 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Парк руин расположен в бывшем особняке семьи Лобо. В 1920‑е годы хозяйка дома — меценатка Лауринда Сантос Лобо — устраивала здесь вечера, на которых собирались композитор Эйтор Вилла‑Лобос, художники модернисты и светская элита.",
+            "lookFor": "Поднимитесь на металлический мостик ради круглого вида на Рио.",
+            "practical": "Ориентир на месте: Парк руин (Parque das Ruínas). Продолжайте к следующей точке маршрута.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "После её смерти в 1946 году дом пришёл в запустение и превратился в живописные руины. В 1997 году городские власти решили сохранить наследие, добавив металлические лестницы и стеклянные платформы, чтобы посетители могли увидеть, как сквозь кирпичные проёмы открываются виды на центр, бухту Гуанабара, Арки Лапы, «Сахарную голову» и статую Христа. Сегодня Parque das Ruínas — это бесплатный культурный центр с выставками, театром и детскими представлениями; он открыт с четверга по воскресенье с 9:00 до 16:00 (время может продляться во время концертов). На территории есть лифты и пандусы, что делает комплекс доступным; также работает кафе с видом на лес. Стоя на верхней террасе, чувствуешь, как история, искусство и природа переплетаются между собой."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.9175,
+            "longitude": -43.183
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-4",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Parque de las Ruinas, Río de Janeiro",
+            "attribution": {
+              "author": "LBM1948",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-5",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 5,
+          "name": "Музей «Чакара ду Сеу» (Museu Chácara do Céu)",
+          "note": "Богатый интерьер и сады открывают другую сторону богемной Санта‑Терезы.",
+          "time": "45 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "По соседству с Парком руин стоит элегантный особняк, известный как Chácara do Céu («Усадьба небес»). Участок на склоне холма существует под этим названием с 1876 года; в 1936‑м его наследовал меценат и коллекционер Рэймонд Кастро Майя.",
+            "lookFor": "Богатый интерьер и сады открывают другую сторону богемной Санта‑Терезы.",
+            "practical": "Ориентир на месте: Музей «Чакара ду Сеу» (Museu Chácara do Céu). Продолжайте к следующей точке маршрута.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Старый дом был снесён в середине 1950‑х, и архитектор Владимир Алвес де Соуза спроектировал новую резиденцию — скромную, но современную, с панорамными окнами и террасой, плавно переходящей в сад. Внутри собраны картины Портинари, Ди Кавальканти, Дега и Моне, а также редкие книги, мебели и декоративно‑прикладное искусство. Две комнаты сохранены в первоначальном виде, чтобы передать атмосферу частного дома. Музей открыт ежедневно, кроме вторников, воскресений и праздничных дней, с 10:00 до 16:30; вход свободный (могут взиматься сборы за временные выставки). Обратите внимание на строгие правила безопасности: сумки сдают в гардероб, а фотографировать коллекцию нельзя. Наслаждайтесь видом на город с балкона; это одно из немногих мест, где современный дизайн и зелёные сады сходятся на вершине холма."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.9171,
+            "longitude": -43.1826
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-5",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Utensílios domésticos pertencentes ao acervo do Museu Chácara do Céu - Rio de Janeiro - foto Carlos Alkmin",
+            "attribution": {
+              "author": "Carlos Alkmin",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "rio-de-janeiro-lapa-santa-teresa-hillside-6",
+          "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+          "order": 6,
+          "name": "Ларгу дос Гимарайнс",
+          "note": "Завершите день в кафе на площади и почувствуйте ритм старого трамвая.",
+          "time": "20 мин",
+          "walk": "-",
+          "content": {
+            "context": "Финальная остановка маршрута — это живая площадь Ларгу дос Гимарайнс. Она сформировалась в 1857 году на земле, принадлежавшей землевладельцу Жуану Жоакину Маркишу ди Кастру, и вскоре была продана фирме Joaquim Fonseca Guimarães & Cia, чьё имя площадка носит по сей день.",
+            "lookFor": "Завершите день в кафе на площади и почувствуйте ритм старого трамвая.",
+            "practical": "Ориентир на месте: Ларгу дос Гимарайнс. -",
+            "nextMove": "Маршрут завершён.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Здесь всё ещё стоит главный дом Армaзéму Сан Жоаким, построенный в 1854 году, который часто запечатлевался фотографами и художниками как символ Санта‑Терезы. Вокруг – одноквартирные особняки с балконами, превратившиеся в рестораны, бары, галереи, кинотеатр и лавки по продаже антиквариата и сувениров. Площадь отражает путь района от элитной дачной окраины XIX века до богемного центра, наполненного музыкой, уличным искусством и разнообразной публикой. Здесь нет входных билетов: просто садитесь на террасу, слушайте струны чоро или самбы и наблюдайте за людьми. Ночью улицы оживают ещё больше, поэтому если хотите спокойствия — приходите днём. Рядом проходят трамваи, такси и автобусы. Помните, что улицы крутые и мощённые: выбирайте удобную обувь и будьте внимательны."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": -22.921672,
+            "longitude": -43.185742
+          },
+          "photo": {
+            "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-6",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Santa Teresa - Rio de Janeiro.jpg",
+            "attribution": {
+              "author": "Patrick Ruela (Ruela~commonswiki)",
+              "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "basemap": {
+        "image": "",
+        "center": {
+          "latitude": -22.9174165,
+          "longitude": -43.182578
+        },
+        "zoom": 15.29,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      },
+      "cover": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-cover",
+        "kind": "generated",
+        "wide": "",
+        "square": "",
+        "alt": "Сгенерированная editorial-обложка маршрута «rio-de-janeiro-lapa-santa-teresa-hillside»"
       }
     }
   ],
@@ -1769,13 +3479,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Praça XV и Chafariz do Mestre Valentim",
         "attribution": {
           "author": "Carlos Luis M C da Cruz",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pca_xv_chafariz_mestre_valentim.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1809,13 +3519,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Paço Imperial",
         "attribution": {
           "author": "Alexandrecataldo",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_Imperial_2.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1849,13 +3559,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Arco do Teles и Travessa do Comércio",
         "attribution": {
           "author": "Ricardo Deutsch Junior",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_do_Teles_-_RJ.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1889,13 +3599,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Igreja da Candelária",
         "attribution": {
           "author": "Stegop",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_da_Candel%C3%A1ria_26-1.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1929,13 +3639,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Rua do Ouvidor и Igreja da Lapa dos Mercadores",
         "attribution": {
           "author": "Halley Pacheco de Oliveira",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Lapa_dos_Mercadores_Fachada_II.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1969,13 +3679,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Confeitaria Colombo",
         "attribution": {
           "author": "Eugenio Hansen, OFS",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confeitaria_Colombo.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -2009,13 +3719,13 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Largo da Carioca и Rua da Carioca",
         "attribution": {
           "author": "Rodrigo_Soldon",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largo_da_Carioca_-_Rio_de_Janeiro,_Brasil.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -2049,17 +3759,611 @@
       "photo": {
         "id": "rio-de-janeiro-centro-imperial-republica-stop-8",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-centro-imperial-republica-stop-8-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Cinelândia и Theatro Municipal",
         "attribution": {
           "author": "Antonio Donioli",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_do_Rio_de_Janeiro_Cinel%C3%A2ndia.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-1",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 1,
+      "name": "Praça Mauá",
+      "note": "Начало прогулки на обновлённой площади и у футуристических музеев.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Эта просторная набережная в устье центра Рио была заложена ещё в XIX веке, но долгое время оставалась забытой и загруженной автомобильными эстакадами.",
+        "lookFor": "Начало прогулки на обновлённой площади и у футуристических музеев.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Проект Porto Maravilha полностью изменил площадь: её очистили от потока машин, посадили пальмы, открыли вид на залив и построили морской трамвай. Сегодня здесь гуляют семьи, бегают дети и встречаются туристы – в кадр попадает белоснежный силуэт Музея завтрашнего дня и старинный здание MAR. Прислушайтесь к звукам: гудки трамвая напоминают о времени, когда сюда прибывали корабли, а уличные музыканты играют мелодии самбы, напоминающие о том, что за этой современной витриной скрываются слои афробразильской истории. На площади стоит памятник барону Мауá, промышленнику, который способствовал первым железным дорогам Бразилии. Обойдите постамент и почувствуйте, как старые и новые времена встречаются под вашим шагом."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8939,
+        "longitude": -43.177
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-1",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-1",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Praça Mauá, Rio de Janeiro, Brazil",
+        "attribution": {
+          "author": "Wilfredor",
+          "license": "CC0 1.0 Universal; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-2",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 2,
+      "name": "Музей завтрашнего дня",
+      "note": "Футуристический маяк науки на краю залива",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Строение испанского архитектора Сантьяго Калатравы напоминает гигантскую рыбу или космический корабль, нависающий над водой. Внутри выставки рассказывают о климате, технологиях и роли человека в биосфере: под куполом вы увидите огромную сферу, на которую проецируются изображения Вселенной, а интерактивные станции позволяют погрузиться в сценарии будущего.",
+        "lookFor": "Футуристический маяк науки на краю залива",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Лёгкость и прозрачность залов контрастируют с тяжёлой историей порта; музей предлагает задуматься, что будет с городом, который когда‑то являлся главным входом рабов в страну. Снаружи посетители прохаживаются по белым пандусам, любуясь панорамой Гуанабары и скульптурными садовыми прудами. Экологичный дизайн включает солнечные панели и систему охлаждения морской водой. Экспозиция регулярно обновляется: здесь проходят лекции, киносеансы и мастер‑классы для детей. Само здание уже стало современным символом Рио и поводом для гордости квартала Pequena África."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8939,
+        "longitude": -43.1761
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-2",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-2",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Museu do Amanhã – exterior 2018",
+        "attribution": {
+          "author": "Mateus Silva Figueiredo",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-3",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 3,
+      "name": "Музей искусства Рио (MAR)",
+      "note": "История города под волнообразной крышей",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "MAR разместился в неоклассическом дворце XIX века и современном здании ‘Escola do Olhar’, соединённых волнообразной крышей, напоминающей о движении океана.",
+        "lookFor": "История города под волнообразной крышей",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Постоянные и временные выставки рассказывают о Рио – от колониальных карт и фотографий портовых трущоб до работ современного искусства и инсталляций уличных художников. Отсюда открываются панорамные виды на музей завтрашнего дня, залив и заново обустроенную Praça Mauá. Часто здесь проходят встречи с художниками, лекции и мастер‑классы для детей, а на крыше работает кафе. Посетители также знакомятся с работами афробразильских авторов, посвящёнными Pequena África и культуре самбы. Музей стремится рассказать историю города глазами его жителей, в том числе жителей портовой зоны, и поэтому служит прекрасным мостом между прошлым и будущим."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.9011,
+        "longitude": -43.1758
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-3",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-3",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Museu de Arte do Rio 1",
+        "attribution": {
+          "author": "Mwaldeck",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-4",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 4,
+      "name": "Ларго де Сан‑Франсиску да Праинья",
+      "note": "Сердце рабочего квартала и его современный очаг жизни",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "До конца XIX века на месте площади была небольшая естественная бухточка, где разгружали рыбу и соль. Вдоль береговой линии селились портовые рабочие, преимущественно африканцы, здесь собирались зунгус – ночные встречи музыкантов и вольных чернокожих.",
+        "lookFor": "Сердце рабочего квартала и его современный очаг жизни",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В 1883 году полиция жестоко разогнала одну из таких встреч, что породило ещё большую солидарность среди докеров. Позже бухту засыпали, а дома вокруг площади получили красочные фасады. Сегодня исторические здания стали барами и ресторанами, в центре установлена статуя балерины Мерседес Батисты – первой чернокожей солистки Театра Мунисипал, которая в 1950‑х возвела самбу на академическую сцену. Присев за столиком под старым миндальным деревом, вы можете услышать, как местные старожилы рассказывают о забастовках докеров и о том, как из окрестных домов вышли первые школы самбы. Ларго да Прейнья остаётся местом встреч: по выходным здесь играют хоры, проходят блошиные рынки и фестивали кухни. Но в то же время эта площадь напоминает о социальном неравенстве и борьбе за память, которая ещё продолжается."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8972,
+        "longitude": -43.1861
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-4",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-4",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Largo de São Francisco da Prainha – Rio de Janeiro – 20240914090706",
+        "attribution": {
+          "author": "Nelyfcrangel",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-5",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 5,
+      "name": "Pedra do Sal – колыбель самбы",
+      "note": "Священный камень, где музыка стала символом сопротивления",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Когда‑то этот крутой, вырубленный в скале склон использовали для разгрузки мешков соли. Здесь поселились первые свободные афробразильцы района, среди которых были знаменитые ‘Tias Baianas’ – женщины, оберегавшие традиции кандомбле и готовившие блюда, которые кормили портовых работников.",
+        "lookFor": "Священный камень, где музыка стала символом сопротивления",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В тенистых переулках вокруг Pedra do Sal появились первые ‘ranchos’ и школы самбы, которые в итоге породили карнавал. Сегодня каменная лестница превращается в сцену: каждый понедельник с наступлением сумерек на площади João da Baiana проходит бесплатный круг самбы. Музыканты сидят на ступенях, а зрители заполняют переулок, распевая в унисон и танцуя босиком. Камень, признанный памятником культурного наследия, также служит святилищем – здесь проводят религиозные ритуалы кандомбле, так что относитесь к месту с уважением."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8975,
+        "longitude": -43.1864
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-5",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-5",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Pedra do Sal – Rio de Janeiro – 20240914162841",
+        "attribution": {
+          "author": "Teresacmatta",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-6",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 6,
+      "name": "Cais do Valongo",
+      "note": "Скрытый док, где начиналась бразильская диаспора",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Этот каменный причал, построенный в 1811 году, был главным местом высадки порабощенных африканцев в Южную Америку. За несколько десятилетий здесь прошли около 900 тысяч мужчин, женщин и детей.",
+        "lookFor": "Скрытый док, где начиналась бразильская диаспора",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В 1843 году, к прибытию португальской принцессы Терезы Кристины, причал облицевали гранитом и переименовали в ‘Cais da Imperatriz’, но вскоре он был засыпан грунтом. В 2011 году при работах Porto Maravilha археологи нашли плиты дока и тысячи артефактов. В 2017 году Валонгу присвоен статус объекта Всемирного наследия ЮНЕСКО, а в 2024 году место превратилось в открытый музей с подсветкой, охраной и информационными табличками. Здесь тишина и простота – лишь стенная кладка и мощёный пол намекают на судьбы миллионов. Прочитайте панели, на которых приведены цитаты из описаний рабовладельцев и свидетельства современников, и представьте, как в это место приходили люди, у которых отняли свободу. Современные инициативы стремятся превратить Валонгу в пространство для диалога о расизме, культуре и идентичности."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8956,
+        "longitude": -43.1844
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-6",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-6",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Sítio Arqueológico do Cais do Valongo – Rio de Janeiro – 20220927160417",
+        "attribution": {
+          "author": "Donatas Dabravolskas",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-7",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 7,
+      "name": "Подвесной сад Валонгу",
+      "note": "Романтический сад, выросший над анкорой и доками",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Этот террасный парк был создан в 1906 году ландшафтным архитектором Луисом Реем по заказу мэра Переиры Пассуса. На высоте семи метров над улицей были устроены изогнутые дорожки, цветники и смотровые площадки, вдохновлённые французскими садами XIX века.",
+        "lookFor": "Романтический сад, выросший над анкорой и доками",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "На центральной площадке установили статуи римских богов Минервы, Марса, Цереры и Меркурия, символизирующих разум, войну, урожай и торговлю – своего рода аллегории для нового буржуазного Рио. Во время Porto Maravilha статуи восстановили, а в старой сторожке открыли культурный центр Pequena África, где проходят выставки и лекции. С верхней террасы открывается вид на исторические крыши Морро да Консейсао и на стройки нового порта. Сад остаётся тенистой передышкой между шумными улицами и символом того, как город намагнитил память: романтический оазис вырос буквально на слоях рабского дока."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8951,
+        "longitude": -43.1849
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-7",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-7",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Jardim Suspenso do Valongo – RJ",
+        "attribution": {
+          "author": "Arine Gaspar Filho",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-pequena-africa-porto-maravilha-8",
+      "guideId": "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "order": 8,
+      "name": "Cemitério dos Pretos Novos",
+      "note": "Мемориал, найденный под полом кухни",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "В конце XVIII – начале XIX века в нескольких кварталах от порта существовало захоронение, куда свозили тела людей, умерших в пути или вскоре после высадки.",
+        "lookFor": "Мемориал, найденный под полом кухни",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Место называли Cemitério dos Pretos Novos – ‘кладбище новых чёрных’. В 1830‑х кладбище закрыли и застроили, а о его существовании забыли. В 1996 году при ремонте дома на Rua Pedro Ernesto 36 хозяева нашли человеческие кости. Исследования доказали, что это останки порабощённых африканцев. С тех пор семейный дом превратился в мемориал и исследовательский институт, где хранятся и изучаются найденные останки, проводятся выставки, лекции и ритуалы памяти. Посетители видят археологические витрины с фрагментами посуды, бусы и ритуальные предметы, а в подвальной части – открытое захоронение. Экскурсоводы рассказывают об ужасных условиях ‘атлантического кладбища’ и о том, как жители района боролись за признание места памятником. Мемориал напоминает, что современный город воздвигнут на костях людей, утративших свободу, и призывает к исторической ответственности."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.8972,
+        "longitude": -43.1822
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-8",
+      "sourceIds": [],
+      "photo": {
+        "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-8",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Cemitério dos Pretos Novos – Rio de Janeiro – 20240914115916",
+        "attribution": {
+          "author": "Juliana Cunha Oliv",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-1",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 1,
+      "name": "Арки Лапы (Aqueduto da Carioca)",
+      "note": "Оглянитесь под арками: здесь пересекаются воды, трамваи и эпохи.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Перед вами возвышаются два ряда изящных арок, вытянувшихся на 270 метров и достигающих 17,6 м в высоту. Сначала может показаться, что это римские руины, но на самом деле вы стоите под Aqueduto da Carioca, построенным между 1719 и 1750 годами для подачи воды из реки Кариока в колониальный Рио.",
+        "lookFor": "Оглянитесь под арками: здесь пересекаются воды, трамваи и эпохи.",
+        "practical": "Ориентир на месте: Арки Лапы (Aqueduto da Carioca). Продолжайте к следующей точке маршрута.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Белая штукатурка укрывает камень, добытый местными рабочими и рабами; устойчивая конструкция связала холмы Морру‑ду‑Дестерру и Морру‑ду‑Санту‑Антониу. В XIX веке водопровод потерял значение, но вместо разборки его превратили в виадук для жёлтого трамвая Санта‑Тереза — и сегодня маленькие вагончики ещё гудят по верхнему ярусу, возвышаясь над шумными улицами и барочными фасадами Лапы. Внизу — оживлённая площадь, уличные музыканты и граффити, напоминающие, что район вечно меняется. Это место свободно для посещения в любое время суток, но безопаснее и приятнее приходить днём. Под арками тень и прохлада, а приглядевшись, вы увидите, как на другой стороне начинается крутая дорога на холм, по которой вы отправитесь далее."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.913161,
+        "longitude": -43.179869
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-1",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Aquadukt - Arcos da Lapa a stramvají do Santa Teresa - panoramio.jpg",
+        "attribution": {
+          "author": "Pavel Špindler",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-2",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 2,
+      "name": "Эскадария Селарон (Selarón Steps)",
+      "note": "Каждая плитка — письмо откуда‑то из мира.",
+      "time": "25 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "В узком переулке Rua Manoel Carneiro начинается один из самых ярких подъемов в городе. В начале 1990‑х чилийский художник Жоржи Селарон решил украсить разрушающуюся лестницу у своего дома плитками, собранными со всего мира.",
+        "lookFor": "Каждая плитка — письмо откуда‑то из мира.",
+        "practical": "Ориентир на месте: Эскадария Селарон (Selarón Steps). Продолжайте к следующей точке маршрута.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Он начал выкладывать ступени зелёными, жёлтыми и синими плитками — цветами бразильского флага. Соседи считали его затею безумной, но постепенно работа превратилась в одержимость. Туристы приносили мастеру керамику со всего мира, и сегодня 215 ступеней покрывает более 2 000 плиток из 60 странах, среди которых вы найдете фрагменты от немецких пивных до турецких хамамов. Красные панно, портреты индейцев, африканские маски и азиатские иероглифы рассказывают о Бразилии как о месте встречи культур. По словам художника, «работа закончится только с моей смертью», и в 2013 году его тело нашли у подножия лестницы. Сегодня сюда приходят женихи и невесты, музыканты и блогеры; лучше приехать рано утром, пока не жарко, чтобы спокойно разглядеть узоры. Лестница открыта круглосуточно и бесплатна, но будьте внимательны к карманникам и уважайте окружающих жителей."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.915406,
+        "longitude": -43.179414
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-2",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "BR-rio-esc-selaron-1.jpg",
+        "attribution": {
+          "author": "Balou46",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-3",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 3,
+      "name": "Ларгу ду Курвелу и трамвай Санта‑Тереза",
+      "note": "Прыгните в вагон с деревянными лавками и почувствуйте ветер в лицо.",
+      "time": "20 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "По крутой улице Ладейра‑ду‑Кастру вы подниметесь к Ларгу ду Курвелу — маленькой площади, откуда отправляются вагоны исторического бонди Санта‑Тереза. До 1890‑х по этому маршруту шла дорога бывшего акведука, а сегодня здесь стоит трамвайное депо и беседка с видом на город.",
+        "lookFor": "Прыгните в вагон с деревянными лавками и почувствуйте ветер в лицо.",
+        "practical": "Ориентир на месте: Ларгу ду Курвелу и трамвай Санта‑Тереза. Продолжайте к следующей точке маршрута.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Вы услышите грохот колес по рельсам и звонок кондуктора, предупреждающего пешеходов. Жёлтые вагончики с открытыми бортами соединяют центр города с холмами; по обновлённому расписанию они ходят с 8:00 до 17:00 по будням и с 9:00 до 17:00 по выходным, в среднем раз в час, а поездка туда‑обратно стоит около 20 реалов. Жители района, учащиеся государственных школ, пожилые и люди с инвалидностью ездят бесплатно. Сдержанные кондукторы охотно расскажут, где выходить. На площади есть киоск с водой и сладостями, а от остановки до Парка руин примерно 10 минут пешком. Дорога крутая и вымощена камнем, поэтому держитесь за поручни вагончика и оставайтесь внутри — ездить на подножке романтично, но запрещено."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.919142,
+        "longitude": -43.183425
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-3",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Bonde de Santa Teresa",
+        "attribution": {
+          "author": "Henrique Freire / Governo do Rio de Janeiro",
+          "license": "CC BY 2.0 BR; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-4",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 4,
+      "name": "Парк руин (Parque das Ruínas)",
+      "note": "Поднимитесь на металлический мостик ради круглого вида на Рио.",
+      "time": "30 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Парк руин расположен в бывшем особняке семьи Лобо. В 1920‑е годы хозяйка дома — меценатка Лауринда Сантос Лобо — устраивала здесь вечера, на которых собирались композитор Эйтор Вилла‑Лобос, художники модернисты и светская элита.",
+        "lookFor": "Поднимитесь на металлический мостик ради круглого вида на Рио.",
+        "practical": "Ориентир на месте: Парк руин (Parque das Ruínas). Продолжайте к следующей точке маршрута.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "После её смерти в 1946 году дом пришёл в запустение и превратился в живописные руины. В 1997 году городские власти решили сохранить наследие, добавив металлические лестницы и стеклянные платформы, чтобы посетители могли увидеть, как сквозь кирпичные проёмы открываются виды на центр, бухту Гуанабара, Арки Лапы, «Сахарную голову» и статую Христа. Сегодня Parque das Ruínas — это бесплатный культурный центр с выставками, театром и детскими представлениями; он открыт с четверга по воскресенье с 9:00 до 16:00 (время может продляться во время концертов). На территории есть лифты и пандусы, что делает комплекс доступным; также работает кафе с видом на лес. Стоя на верхней террасе, чувствуешь, как история, искусство и природа переплетаются между собой."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.9175,
+        "longitude": -43.183
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-4",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Parque de las Ruinas, Río de Janeiro",
+        "attribution": {
+          "author": "LBM1948",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-5",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 5,
+      "name": "Музей «Чакара ду Сеу» (Museu Chácara do Céu)",
+      "note": "Богатый интерьер и сады открывают другую сторону богемной Санта‑Терезы.",
+      "time": "45 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "По соседству с Парком руин стоит элегантный особняк, известный как Chácara do Céu («Усадьба небес»). Участок на склоне холма существует под этим названием с 1876 года; в 1936‑м его наследовал меценат и коллекционер Рэймонд Кастро Майя.",
+        "lookFor": "Богатый интерьер и сады открывают другую сторону богемной Санта‑Терезы.",
+        "practical": "Ориентир на месте: Музей «Чакара ду Сеу» (Museu Chácara do Céu). Продолжайте к следующей точке маршрута.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Старый дом был снесён в середине 1950‑х, и архитектор Владимир Алвес де Соуза спроектировал новую резиденцию — скромную, но современную, с панорамными окнами и террасой, плавно переходящей в сад. Внутри собраны картины Портинари, Ди Кавальканти, Дега и Моне, а также редкие книги, мебели и декоративно‑прикладное искусство. Две комнаты сохранены в первоначальном виде, чтобы передать атмосферу частного дома. Музей открыт ежедневно, кроме вторников, воскресений и праздничных дней, с 10:00 до 16:30; вход свободный (могут взиматься сборы за временные выставки). Обратите внимание на строгие правила безопасности: сумки сдают в гардероб, а фотографировать коллекцию нельзя. Наслаждайтесь видом на город с балкона; это одно из немногих мест, где современный дизайн и зелёные сады сходятся на вершине холма."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.9171,
+        "longitude": -43.1826
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-5",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Utensílios domésticos pertencentes ao acervo do Museu Chácara do Céu - Rio de Janeiro - foto Carlos Alkmin",
+        "attribution": {
+          "author": "Carlos Alkmin",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "rio-de-janeiro-lapa-santa-teresa-hillside-6",
+      "guideId": "rio-de-janeiro-lapa-santa-teresa-hillside",
+      "order": 6,
+      "name": "Ларгу дос Гимарайнс",
+      "note": "Завершите день в кафе на площади и почувствуйте ритм старого трамвая.",
+      "time": "20 мин",
+      "walk": "-",
+      "content": {
+        "context": "Финальная остановка маршрута — это живая площадь Ларгу дос Гимарайнс. Она сформировалась в 1857 году на земле, принадлежавшей землевладельцу Жуану Жоакину Маркишу ди Кастру, и вскоре была продана фирме Joaquim Fonseca Guimarães & Cia, чьё имя площадка носит по сей день.",
+        "lookFor": "Завершите день в кафе на площади и почувствуйте ритм старого трамвая.",
+        "practical": "Ориентир на месте: Ларгу дос Гимарайнс. -",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Здесь всё ещё стоит главный дом Армaзéму Сан Жоаким, построенный в 1854 году, который часто запечатлевался фотографами и художниками как символ Санта‑Терезы. Вокруг – одноквартирные особняки с балконами, превратившиеся в рестораны, бары, галереи, кинотеатр и лавки по продаже антиквариата и сувениров. Площадь отражает путь района от элитной дачной окраины XIX века до богемного центра, наполненного музыкой, уличным искусством и разнообразной публикой. Здесь нет входных билетов: просто садитесь на террасу, слушайте струны чоро или самбы и наблюдайте за людьми. Ночью улицы оживают ещё больше, поэтому если хотите спокойствия — приходите днём. Рядом проходят трамваи, такси и автобусы. Помните, что улицы крутые и мощённые: выбирайте удобную обувь и будьте внимательны."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -22.921672,
+        "longitude": -43.185742
+      },
+      "photo": {
+        "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-6",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Santa Teresa - Rio de Janeiro.jpg",
+        "attribution": {
+          "author": "Patrick Ruela (Ruela~commonswiki)",
+          "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "48d816d59a67"
+  "packHash": "fadb7b64453d"
 }

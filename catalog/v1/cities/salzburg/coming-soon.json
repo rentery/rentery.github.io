@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "За вывесками Гетрайдегассе проступает город Моцарта: тесные дома, дворы и путь через реку.",
-    "cityId": "salzburg",
-    "dayTrip": false,
-    "id": "salzburg-getreidegasse-mozart-courtyards",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Гетрайдегассе, Старый рынок, университетская зона и короткий переход к Макартплац.",
-    "roughDuration": "1-2 часа",
-    "status": "coming_soon",
-    "subtitle": "Музыкальная легенда на фоне лавок, дворов и буржуазных фасадов.",
-    "title": "Гетрайдегассе и Моцарт: город проходных домов",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Мирабель держит главный вид на город, а правый берег показывает Зальцбург без тесноты старых переулков.",
-    "cityId": "salzburg",
-    "dayTrip": false,
-    "id": "salzburg-mirabell-right-bank-baroque",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Мирабельгартен, Макартплац, Драйфальтигкайтсгассе и Линцергассе.",
-    "roughDuration": "1-2 часа",
-    "status": "coming_soon",
-    "subtitle": "Барочный сад, городской фасад и тихая сторона Зальцаха.",
-    "title": "Мирабель и правый берег: сад как сцена",
-    "walkType": "architecture"
-  },
-  {
     "blurb": "С верхней кромки Мёнхсберга Зальцбург читается как рельеф: река, башни, скалы и крыши.",
     "cityId": "salzburg",
     "dayTrip": false,

@@ -2,12 +2,14 @@
   "id": "kyoto",
   "slug": "kyoto",
   "title": "Киото",
-  "subtitle": "Киото · 2 маршрута · 3 скоро",
-  "meta": "Япония · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Киото · 4 маршрута · 1 скоро",
+  "meta": "Япония · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "kyoto-kiyomizu-gion-slope",
-    "kyoto-fushimi-inari-mountain"
+    "kyoto-fushimi-inari-mountain",
+    "kyoto-ginkakuji-philosophers-path",
+    "kyoto-arashiyama-river-bamboo"
   ],
   "countryId": "japan",
   "photo": {

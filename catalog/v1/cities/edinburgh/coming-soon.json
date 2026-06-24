@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Восточная кромка центра соединяет античные мечты, королевский парк и резкий силуэт скал.",
-    "cityId": "edinburgh",
-    "dayTrip": false,
-    "id": "edinburgh-calton-hill-holyrood-skyline",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Восточный центр: Waterloo Place, Calton Hill, Regent Terrace и нижняя часть Holyrood Park.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Монументы, панорамы и дикая кромка у подножия Royal Mile.",
-    "title": "Калтон-Хилл и Холируд: город на вулкане",
-    "walkType": "viewpoints"
-  },
-  {
-    "blurb": "Внизу под Новым городом течет другой Эдинбург: мельницы, мосты, зелень и Stockbridge.",
-    "cityId": "edinburgh",
-    "dayTrip": false,
-    "id": "edinburgh-dean-village-water-of-leith",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Dean Village, Water of Leith Walkway, St Bernard's Well, Stockbridge и Circus Lane.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Речной коридор мельниц, мостов и тихих кварталов под парадным центром.",
-    "title": "Дин-Виллидж и Уотер-оф-Лит: город внизу",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Лит показывает портовый Эдинбург: набережные, склады, доки и городскую жизнь у воды.",
     "cityId": "edinburgh",
     "dayTrip": false,

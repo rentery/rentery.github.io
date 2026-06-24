@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Кирпич, рельсы и гавань собирают историю города, выросшего из порта и железной дороги.",
-    "cityId": "vancouver",
-    "dayTrip": false,
-    "id": "vancouver-gastown-waterfront-rail-port",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Downtown waterfront, Waterfront Station, Water Street, Maple Tree Square и Victory Square.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Исторический центр как порт, вокзал, склады и новая публичная витрина.",
-    "title": "Гастаун и гавань: Ванкувер из рельсов и кирпича",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Чайнатаун и Страткона рассказывают о памяти, миграции и районах, которые город пытался стереть.",
-    "cityId": "vancouver",
-    "dayTrip": false,
-    "id": "vancouver-chinatown-strathcona-memory",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Исторический Чайнатаун, Pender Street corridor, Carrall Street и западная Страткона у Union Street.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Живое наследие, миграция и следы городского вытеснения.",
-    "title": "Чайнатаун и Страткона: район, который удержал память",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "False Creek показывает Ванкувер после заводов: рынок, мастерские и берега, отданные людям.",
     "cityId": "vancouver",
     "dayTrip": false,

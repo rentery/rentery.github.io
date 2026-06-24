@@ -2,18 +2,20 @@
   "id": "sydney",
   "slug": "sydney",
   "title": "Сидней",
-  "subtitle": "Сидней · 1 маршрут · 4 скоро",
-  "meta": "Австралия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Сидней · 3 маршрута · 2 скоро",
+  "meta": "Австралия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "sydney-harbour-rocks-sails"
+    "sydney-harbour-rocks-sails",
+    "sydney-macquarie-botanic-domain",
+    "sydney-bondi-coogee-coast"
   ],
   "countryId": "australia",
   "photo": {
     "id": "sydney-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Сидней"
   },
   "identity": {

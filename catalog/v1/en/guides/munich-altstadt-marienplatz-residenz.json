@@ -1086,7 +1086,7 @@
   "content": {
     "intro": "Эта прогулка собирает Мюнхен в плотную, почти театральную последовательность: от городских ворот и торговой оси — к собору, затем к ратушной сцене Марienplatz, дальше к старейшему приходскому холму, шумному рынку, первому двору Виттельсбахов и, наконец, к пространству Резиденции, где средневековый город внезапно расправляет плечи и становится столичным. Идти недолго, но смотреть хочется медленно: здесь несколько слоёв города стоят буквально в одном кадре. Для ритма прогулки удобно стартовать утром. Если хочется застать механический спектакль ратуши, проходите Marienplatz ближе к 11:00 или 12:00; с марта по октябрь есть ещё показ в 17:00. Башня Alter Peter — отдельная опция: это 306 ступеней, отдельный билет и сезонный режим работы с праздничными исключениями, поэтому в приложении стоит воспринимать подъём как бонус, а не как обязательную часть маршрута. Viktualienmarkt живёт в своём",
     "routeLogic": "Старый Мюнхен",
-    "bestFor": "первого знакомства с районом\nлюбителей городской истории\nсамостоятельной прогулки без спешки",
+    "bestFor": "первого знакомства с районом любителей городской истории самостоятельной прогулки без спешки",
     "notFor": "тех, кому нужен только быстрый проход без остановок",
     "beforeYouGo": "Держите маршрут гибким: отдельные входы, очереди и доступ внутрь зависят от текущего режима места.",
     "timing": "3 ч"
@@ -1094,8 +1094,8 @@
   "cover": {
     "id": "munich-altstadt-marienplatz-residenz-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Старый Мюнхен»"
   },
   "stopList": [
@@ -1127,13 +1127,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Karlstor",
         "attribution": {
           "author": "Avi1111",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karlstor_-_Munich.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       }
@@ -1166,13 +1166,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Фрауэнкирхе",
         "attribution": {
           "author": "Diliff",
           "license": "CC BY 2.5; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       }
@@ -1205,13 +1205,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Marienplatz и Neues Rathaus",
         "attribution": {
           "author": "Steffen Flor",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neues_Rathaus_M%C3%BCnchen_2018_(cropped).jpg",
+          "sourceUrl": ").jpg",
           "retrievedAt": "2026-06-16"
         }
       }
@@ -1244,13 +1244,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "St. Peter и холм Petersbergl",
         "attribution": {
           "author": "Richard Huber",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alter_Peter_%26_Christkindlmarkt.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       }
@@ -1283,13 +1283,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Viktualienmarkt",
         "attribution": {
           "author": "Helmlechner",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_Viktualienmarkt_2011.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       }
@@ -1322,13 +1322,13 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Alter Hof",
         "attribution": {
           "author": "Cezar Suceveanu",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alter_Hof_Munchen.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1361,20 +1361,20 @@
       "photo": {
         "id": "munich-altstadt-marienplatz-residenz-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Residenz и Odeonsplatz",
         "attribution": {
           "author": "Gryffindor",
           "license": "Public domain; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odeonsplatz_Blick_von_Residenz,_M%C3%BCnchen.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
     }
   ],
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/munich/munich-altstadt-marienplatz-residenz-basemap.png",
+    "image": "",
     "center": {
       "latitude": 48.138400000000004,
       "longitude": 11.573170000000001

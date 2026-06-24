@@ -2,11 +2,13 @@
   "id": "rome",
   "slug": "rome",
   "title": "Рим",
-  "subtitle": "Рим · 1 маршрут · 4 скоро",
-  "meta": "Италия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Рим · 3 маршрута · 2 скоро",
+  "meta": "Италия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "rome-capitol-forums-layers"
+    "rome-capitol-forums-layers",
+    "rome-navona-pantheon-trevi-stage",
+    "rome-borgo-vatican-power"
   ],
   "countryId": "italy",
   "photo": {

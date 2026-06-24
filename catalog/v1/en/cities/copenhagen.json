@@ -2,12 +2,14 @@
   "id": "copenhagen",
   "slug": "copenhagen",
   "title": "Копенгаген",
-  "subtitle": "Копенгаген · 2 маршрута · 3 скоро",
-  "meta": "Дания · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Копенгаген · 4 маршрута · 1 скоро",
+  "meta": "Дания · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "copenhagen-slotsholmen-old-harbour",
-    "copenhagen-rosenborg-amalienborg-kastellet"
+    "copenhagen-rosenborg-amalienborg-kastellet",
+    "copenhagen-harbour-architecture-bridges",
+    "copenhagen-christianshavn-christiania-canals"
   ],
   "countryId": "denmark",
   "photo": {

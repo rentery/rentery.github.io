@@ -1,34 +1,5 @@
 [
   {
-    "blurb": "Старый Каши держится на узких ходах: базар ведет к святыне, а святыня снова выводит к Ганге.",
-    "cityId": "varanasi",
-    "dayTrip": false,
-    "id": "varanasi-vishwanath-old-city-lanes",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Чоук, Вишванатх-гали, комплекс Каши Вишванатх Дхам и выход к Лалита-гхату.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Старый город как сеть проходов, храмов и речных выходов.",
-    "title": "Каши Вишванатх: лабиринт вокруг святыни",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Сарнатх раскрывает другой голос города: ступы, парк оленей и память о первой проповеди Будды.",
-    "cityId": "varanasi",
-    "dayTrip": true,
-    "id": "varanasi-sarnath-buddhist-beginnings",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Археологический парк Сарнатха, музей и соседние монастырские зоны.",
-    "roughDuration": "3-5 часов с дорогой",
-    "status": "coming_soon",
-    "subtitle": "Буддийская археология в тихом парке к северу от Варанаси.",
-    "title": "Сарнатх: место первой проповеди",
-    "walkType": "day_trip",
-    "nearbyPlace": "Сарнатх"
-  },
-  {
     "blurb": "Другой берег меняет масштаб Варанаси: форт смотрит на гхаты как дворцовая сцена у воды.",
     "cityId": "varanasi",
     "dayTrip": false,

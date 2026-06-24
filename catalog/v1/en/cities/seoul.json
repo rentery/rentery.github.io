@@ -6,7 +6,9 @@
   "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
   "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
   "guideIds": [
-    "seoul-gwanghwamun-bukchon-jongno-layers"
+    "seoul-gwanghwamun-bukchon-jongno-layers",
+    "seoul-cheonggyecheon-euljiro-ddp-transformation",
+    "seoul-changdeokgung-jongmyo-ritual-city"
   ],
   "coordinates": {
     "latitude": 37.566,
@@ -27,7 +29,7 @@
     "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
     "id": "seoul-hero",
     "kind": "generated",
-    "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
-    "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+    "square": "",
+    "wide": ""
   }
 }

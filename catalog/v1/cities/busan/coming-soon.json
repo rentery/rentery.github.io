@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Хэундэ показывает новый Пусан у моря: песок, сосны Тонбэксома, саммит APEC и зеркальные башни.",
-    "cityId": "busan",
-    "dayTrip": false,
-    "id": "busan-haeundae-dongbaekseom-coast",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Хэундэ: пляж, остров Тонбэксом, прибрежная тропа, Nurimaru APEC House и край Marine City.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Морская линия от песка к дипломатии и небоскрёбам.",
-    "title": "Хэундэ и Тонбэксом: пляж, саммит и стеклянный берег",
-    "walkType": "classic"
-  },
-  {
-    "blurb": "На Ёндо город сужается до аллей над обрывом, а внизу идут волны и корабли внешнего рейда.",
-    "cityId": "busan",
-    "dayTrip": false,
-    "id": "busan-yeongdo-huinnyeoul-cliff-village",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Остров Ёндо: Хуиннёуль-гиль, верхние аллеи, смотровые, лестницы и участок прибрежной тропы Чорён.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Прибрежная деревня на обрыве между аллеями, лестницами и кораблями.",
-    "title": "Ёндо и Хуиннёуль: белая тропа над морем",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "У северной горы шум города сменяется воротами храма, соснами и тропой, которой шли к Беомеоса.",
     "cityId": "busan",
     "dayTrip": false,

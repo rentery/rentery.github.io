@@ -2,12 +2,14 @@
   "id": "brussels",
   "slug": "brussels",
   "title": "Брюссель",
-  "subtitle": "Брюссель · 2 маршрута · 3 скоро",
-  "meta": "Бельгия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Брюссель · 4 маршрута · 1 скоро",
+  "meta": "Бельгия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "brussels-grand-place-lower-town",
-    "brussels-saint-gilles-ixelles-art-nouveau"
+    "brussels-saint-gilles-ixelles-art-nouveau",
+    "brussels-royal-quarter-mont-des-arts",
+    "brussels-sablon-marolles-justice"
   ],
   "countryId": "belgium",
   "photo": {

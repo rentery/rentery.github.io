@@ -870,7 +870,7 @@
   "content": {
     "intro": "Во времена расцвета ганзейского союза Брюгге был северным рынком Европы, куда со всего континента прибывали купцы, корабли и идеи. Этот маршрут знакомит вас с портовым кварталом: от площади Яна ван Эйка, где торговцы заключали сделки, до тихих каналов, скрывающих следы средневековой гаванской стены, и площади старой биржи, давшей миру само понятие \"биржа\". Вы увидите купеческие дома, сторожевую башню Буржесской ложи, первые боскетные мосты и узнаете, как торговые контакты влияли на искусство и культуру города.",
     "routeLogic": "Маршрут держится северной торговой части Брюгге и идет от площади Яна ван Эйка к каналам, мостам и старой биржевой зоне. Сначала вы видите публичный фасад купеческого города — ложу, таможню и гавань, затем переходите к воде, где Spiegelrei, Gouden-Handrei и Augustijnenrei показывают, как торговля жила в мостах, складах и тихих отражениях.",
-    "bestFor": "тем, кто хочет увидеть Брюгге не только как открытку, но и как торговый город\nтем, кому интересны каналы, ганзейские связи, купеческие дома и старая биржа\nтем, кто предпочитает спокойный маршрут с короткими переходами у воды",
+    "bestFor": "тем, кто хочет увидеть Брюгге не только как открытку, но и как торговый город тем, кому интересны каналы, ганзейские связи, купеческие дома и старая биржа тем, кто предпочитает спокойный маршрут с короткими переходами у воды",
     "notFor": "тем, кто не хочет идти пешком или сверять режимные точки по ситуации",
     "beforeYouGo": "Проверяйте текущий режим платных или режимных точек перед визитом; держите маршрут гибким.",
     "timing": "Заложите время с запасом и избегайте самого жаркого или перегруженного часа."
@@ -907,13 +907,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Jan-van-Eyckplein-view-from-canal",
         "attribution": {
           "author": "Chad K",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan-van-Eyckplein-view-from-canal.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -953,13 +953,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge - Poortersloge 1",
         "attribution": {
           "author": "User:LimoWreck",
           "license": "CC BY 2.5; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_-_Poortersloge_1.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -999,13 +999,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge Tolhuis R02",
         "attribution": {
           "author": "Marc Ryckaert",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Tolhuis_R02.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -1045,13 +1045,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge Koningsbrug R01",
         "attribution": {
           "author": "Marc Ryckaert ( MJJR )",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Koningsbrug_R01.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -1091,13 +1091,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge Goudenhandrei R03",
         "attribution": {
           "author": "Marc Ryckaert ( MJJR )",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Goudenhandrei_R03.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -1137,13 +1137,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge Augustijnenbrug R02",
         "attribution": {
           "author": "Marc Ryckaert ( MJJR )",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Augustijnenbrug_R02.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -1183,13 +1183,13 @@
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Brugge - Saaihalle en beurs",
         "attribution": {
           "author": "Flamenc",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_-_Saaihalle_en_beurs.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -1203,13 +1203,13 @@
   "cover": {
     "id": "bruges-hanseatic-canals-merchant-city-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «bruges-hanseatic-canals-merchant-city»"
   },
   "coverAssetId": "bruges-hanseatic-canals-merchant-city-cover",
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-basemap.png",
+    "image": "",
     "center": {
       "latitude": 51.212171,
       "longitude": 3.2258875

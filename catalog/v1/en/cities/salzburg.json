@@ -2,11 +2,13 @@
   "id": "salzburg",
   "slug": "salzburg",
   "title": "Зальцбург",
-  "subtitle": "Зальцбург · 1 маршрут · 4 скоро",
-  "meta": "Австрия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Зальцбург · 3 маршрута · 2 скоро",
+  "meta": "Австрия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "salzburg-altstadt-fortress-archbishops"
+    "salzburg-altstadt-fortress-archbishops",
+    "salzburg-mirabell-right-bank-baroque",
+    "salzburg-getreidegasse-mozart-courtyards"
   ],
   "countryId": "austria",
   "photo": {

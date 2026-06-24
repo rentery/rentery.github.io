@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Северные склоны старого города ведут от мечети Синана к школам, церквям и цветным улицам у залива.",
-    "cityId": "istanbul",
-    "dayTrip": false,
-    "id": "istanbul-golden-horn-suleymaniye-zeyrek-balat",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Сулеймание, Зейрек, Джибали, Фенер и Балат вдоль Золотого Рога.",
-    "roughDuration": "3-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От Сулеймание через Зейрек к Фенеру и Балату.",
-    "title": "Золотой Рог: холмы Синана и улицы общин",
-    "walkType": "history"
-  },
-  {
-    "blurb": "От пристаней к Большому базару тянется город обмена: запахи, дворы, уклоны, лавки и купола.",
-    "cityId": "istanbul",
-    "dayTrip": false,
-    "id": "istanbul-eminonu-grand-bazaar-trade-spine",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Эминёню, Египетский базар, Узунчаршы, Махмутпаша и Большой базар.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Специи, дворы, подъёмные улицы и крытый город ремёсел.",
-    "title": "Эминёню и базары: торговая ось старого города",
-    "walkType": "history"
-  },
-  {
     "blurb": "Азиатский берег раскрывает город через воду, чайные ступени, мечети Синана и тихие улицы Кузгунджука.",
     "cityId": "istanbul",
     "dayTrip": false,

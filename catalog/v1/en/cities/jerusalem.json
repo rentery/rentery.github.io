@@ -2,12 +2,14 @@
   "id": "jerusalem",
   "slug": "jerusalem",
   "title": "Иерусалим",
-  "subtitle": "Иерусалим · 2 маршрута · 3 скоро",
-  "meta": "Израиль · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Иерусалим · 4 маршрута · 1 скоро",
+  "meta": "Израиль · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "jerusalem-old-city-gates-faith-layers",
-    "jerusalem-mount-of-olives-kidron-view"
+    "jerusalem-mount-of-olives-kidron-view",
+    "jerusalem-machane-yehuda-nachlaot-courtyards",
+    "jerusalem-city-of-david-southern-wall"
   ],
   "countryId": "israel",
   "photo": {

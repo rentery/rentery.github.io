@@ -558,13 +558,13 @@
       "photo": {
         "id": "riga-old-town-hanseatic-layers-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "House of Blackheads at Dusk in Riga, Latvia",
         "attribution": {
           "author": "DAVID ILIFF / Diliff",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads_at_Dusk_3%2C_Riga%2C_Latvia_-_Diliff.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -597,13 +597,13 @@
       "photo": {
         "id": "riga-old-town-hanseatic-layers-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "St. Peter's Church facade, Riga, Latvia",
         "attribution": {
           "author": "DAVID ILIFF / Diliff",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Church_facade%2C_Riga%2C_Latvia_-_Diliff.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -636,13 +636,13 @@
       "photo": {
         "id": "riga-old-town-hanseatic-layers-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Residential building complex \"Trīs brāļi\"",
         "attribution": {
           "author": "Davisbarbars",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dz%C4%ABvojamo_namu_komplekss_%22Tr%C4%ABs_br%C4%81%C4%BCi%22.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -675,13 +675,13 @@
       "photo": {
         "id": "riga-old-town-hanseatic-layers-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Шведские ворота и линия стены",
         "attribution": {
           "author": "Ken Eckert",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swedish_Gate,_Old_Town,_Riga,_Latvia.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -690,12 +690,12 @@
   "cover": {
     "id": "riga-old-town-hanseatic-layers-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/riga/cover-generated-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/riga/cover-generated-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Вечерняя Старая Рига с фасадом Дома Черноголовых и шпилем Святого Петра."
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/riga/riga-old-town-hanseatic-layers-basemap.png",
+    "image": "",
     "center": {
       "latitude": 56.9492955,
       "longitude": 24.106758499999998

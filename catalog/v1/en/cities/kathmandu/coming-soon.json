@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Багмати раскрывает другой ритм Катманду: паломники, гхаты, храмы Шивы и тишина Мригасстали.",
-    "cityId": "kathmandu",
-    "dayTrip": false,
-    "id": "kathmandu-pashupati-bagmati-sacred-river",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Комплекс Пашупатинатх, берега Багмати, Гухьешвари и Мригасстали.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Храмовый район, гхаты и лесные святилища на востоке Катманду.",
-    "title": "Пашупати и Багмати: город у священной реки",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Один круг вокруг Будхи собирает молитвенные колеса, монастырские крыши и тибетские витрины у ступы.",
-    "cityId": "kathmandu",
-    "dayTrip": false,
-    "id": "kathmandu-boudha-kora-tibetan-quarter",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Ступа Будханатх, круг коры, ближайшие монастыри и улицы квартала Будха.",
-    "roughDuration": "1.5-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Кора, монастыри и тибетская жизнь вокруг белого купола.",
-    "title": "Будха: круг вокруг большой ступы",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Патан рядом с Катманду звучит как отдельный город мастеров: дворцы, хити, бронза и тихие монастырские дворы.",
     "cityId": "kathmandu",
     "dayTrip": true,

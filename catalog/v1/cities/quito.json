@@ -2,11 +2,13 @@
   "id": "quito",
   "slug": "quito",
   "title": "Кито",
-  "subtitle": "Кито · 1 маршрут · 4 скоро",
-  "meta": "Эквадор · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Кито · 3 маршрута · 2 скоро",
+  "meta": "Эквадор · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "quito-historic-center-barroco-la-ronda"
+    "quito-historic-center-barroco-la-ronda",
+    "quito-guapulo-valley-descent",
+    "quito-cruz-loma-teleferico-pichincha"
   ],
   "countryId": "ecuador",
   "photo": {

@@ -62,7 +62,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto.Dom_Luis_I_bridge_03.jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-1",
+      "sourceIds": [
+        "src-3",
+        "src-4"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-2",
@@ -97,7 +106,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_do_Morro_(14216545760).jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-2",
+      "sourceIds": [
+        "src-5"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-3",
@@ -132,7 +149,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Telef%C3%A9rico_de_Gaia_Gondola_(55243056928).jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-3",
+      "sourceIds": [
+        "src-6",
+        "src-7"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-4",
@@ -167,7 +193,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cais_de_Gaia_(55243311690).jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-4",
+      "sourceIds": [
+        "src-1",
+        "src-2"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-5",
@@ -202,7 +237,17 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramos_Pinto_Port_Wine_Cellars_Entrance,_Vila_Nova_de_Gaia,_Porto_(54814198436).jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-5",
+      "sourceIds": [
+        "src-8",
+        "src-9",
+        "src-10"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-6",
@@ -237,7 +282,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caves_C%C3%A1lem_(55243161254).jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-6",
+      "sourceIds": [
+        "src-11",
+        "src-12"
+      ]
     },
     {
       "id": "porto-gaia-wine-river-views-7",
@@ -272,7 +326,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Vista_do_Porto_a_partir_da_Serra_do_Pilar_IMG_7302.jpg",
           "retrievedAt": "2026-06-18"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "porto-gaia-wine-river-views-stop-7",
+      "sourceIds": [
+        "src-11",
+        "src-13"
+      ]
     }
   ],
   "cover": {
@@ -281,5 +344,6 @@
     "wide": "https://rentery.github.io/images/v1/porto/porto-gaia-wine-river-views-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/porto/porto-gaia-wine-river-views-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «porto-gaia-wine-river-views»"
-  }
+  },
+  "coverAssetId": "porto-gaia-wine-river-views-cover"
 }

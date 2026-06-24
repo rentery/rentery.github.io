@@ -1031,12 +1031,12 @@
   "cover": {
     "id": "dublin-castle-walls-trinity-power-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Дублин у власти: замок, стены и Тринити»"
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-basemap.png",
+    "image": "",
     "center": {
       "latitude": 53.34346,
       "longitude": -6.266491
@@ -1049,7 +1049,7 @@
   "content": {
     "intro": "Эта прогулка идёт не по самым приятным видам Дублина, а по его силовым линиям. Вы начинаете там, где город ещё думал о воротах и толще стены, проходите мимо церкви, которая была встроена в саму жизнь средневекового города, затем подходите к замку, где власть веками сидела уже не приходом, а аппаратом, и заканчиваете у Тринити, где знание выставлено как публичная архитектура.",
     "routeLogic": "У этой линии простой нерв. На западе камень всё ещё помнит, что должен задерживать. У Christ Church город показывает, как власть умеет становиться литургией. У замка тот же город чувствует, как его читают сверху вниз. Дальше, на Cork Hill и College Green, улица превращается в сцену, где институты начинают смотреть друг на друга в открытую. В финале Тринити предлагает не мягкий гуманизм, а очень собранную форму учёной власти.",
-    "bestFor": "средневековые стены\nангло-нормандское завоевание\nцерковная власть\nгосударственная власть\nгражданская сцена\nуниверситет как институт власти",
+    "bestFor": "средневековые стены англо-нормандское завоевание церковная власть государственная власть гражданская сцена университет как институт власти",
     "notFor": "тем, кому нужен быстрый маршрут без исторического чтения",
     "beforeYouGo": "Идите налегке. Не рассчитывайте на проход через территорию Dublin Castle в июне 2026. Этот маршрут специально собран так, чтобы работать снаружи: с кромки тротуара, через ось улицы, через ворота, через линию стены. Если в Trinity открыт главный вход, зайдите в Front Square на несколько минут; если нет, финальный текст можно читать прямо у ворот с College Green.",
     "timing": "Лучше идти утром или ближе к вечеру, когда городская ткань читается спокойнее."
@@ -1084,13 +1084,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Ворота Святого Одэна",
         "attribution": {
           "author": "Harold Strong",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Wall_and_Gate_-_geograph.org.uk_-_543055.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1127,13 +1127,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Церковь Святого Одэна",
         "attribution": {
           "author": "J.-H. Janßen",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_St_Audoens_Church_Cornmarket_01.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1170,13 +1170,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Christ Church Cathedral",
         "attribution": {
           "author": "Ingo Mehling",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral_(Dublin).jpg",
+          "sourceUrl": ").jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1213,13 +1213,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Кромка замка на Ship Street",
         "attribution": {
           "author": "William Murphy",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Castle_i11.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1256,13 +1256,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Cork Hill и City Hall",
         "attribution": {
           "author": "Zairon",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_City_Hall_Exterior.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1299,13 +1299,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "College Green",
         "attribution": {
           "author": "Eric Jones",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:College_Green%2C_Dublin_-_geograph.org.uk_-_1738143.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1342,13 +1342,13 @@
       "photo": {
         "id": "dublin-castle-walls-trinity-power-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dublin/dublin-castle-walls-trinity-power-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Trinity Front Square",
         "attribution": {
           "author": "The original uploader was Jasonm at English Wikipedia.",
           "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_College%2C_Dublin%2C_Ireland_(Front_Square).jpg",
+          "sourceUrl": ").jpg",
           "retrievedAt": "2026-06-17"
         }
       },

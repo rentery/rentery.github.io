@@ -1942,7 +1942,7 @@
   "content": {
     "intro": "Эта прогулка собирает Тбилиси не по музеям, а по его внутренней механике. Всё здесь сдвинуто очень плотно: на одном краю стояла городская торговля, ниже бьют горячие источники, над ними поднимается крепость, а между ними уживаются разные молитвенные языки и разные ритмы городской жизни. В этом маршруте важно не спешить. Старый Тбилиси лучше читается не как цепочка достопримечательностей, а как один рельефный организм: площадь тянет к рынку, банный пар — к ущелью, ступени — к стенам, а стены всё время возвращают взгляд к реке и мостам. Если вы захотите не только смотреть на бани, но и идти внутрь, планируйте это отдельно: внешняя прогулка и посещение купален живут по разным ритмам, а расписания и доступность отдельных купелей могут меняться в течение дня. В храмах и у мечети держитесь тише обычного, считайте приоритетом молитву и службу, а не удачный кадр. Финал у Нарикалы лучше всего работает на мягком свете: тогда город внизу снова становится понятным, и вся дорога — от Мейдана до куполов и гребня крепости — вдруг складывается в одну линию.",
     "routeLogic": "Торговая площадь, соборы, мечеть, серные купола, ущелье и крепостной гребень в одной прогулке",
-    "bestFor": "первого знакомства с городом\nлюбителей городской истории\nсамостоятельной прогулки без спешки",
+    "bestFor": "первого знакомства с городом любителей городской истории самостоятельной прогулки без спешки",
     "notFor": "тех, кому нужен только быстрый проход без остановок",
     "beforeYouGo": "Смотрите место по ходу маршрута и держите спокойный темп.",
     "timing": "2-3 часа"
@@ -1950,12 +1950,12 @@
   "cover": {
     "id": "tbilisi-old-town-sulfur-narikala-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «tbilisi-old-town-sulfur-narikala»"
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-basemap.png",
+    "image": "",
     "center": {
       "latitude": 41.6893,
       "longitude": 44.809
@@ -1994,13 +1994,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2018 - Saint George's Church in Tbilisi.jpg",
         "attribution": {
           "author": "Moahim",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2018_-_Saint_George%27s_Church_in_Tbilisi.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2033,13 +2033,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Katedra Sioni (08).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Katedra_Sioni_%2808%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2072,13 +2072,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Juma Mosque of Tbilisi.jpg",
         "attribution": {
           "author": "Reda Kerbouche",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJuma_Mosque_of_Tbilisi.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2111,13 +2111,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Łaźnie siarkowe w Abanotubani (04).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_%2804%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2150,13 +2150,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Abanotubani. View on Chreli Abano and Juma Masjid.jpg",
         "attribution": {
           "author": "Eka Samkharadze",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAbanotubani._View_on_Chreli_Abano_and_Juma_Masjid.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2189,13 +2189,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Leghvtakhevi or Abanotubani, Tbilisi ლეღვთახევი 02.jpg",
         "attribution": {
           "author": "Mostafa Meraji",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeghvtakhevi_or_Abanotubani%2C_Tbilisi_%E1%83%9A%E1%83%94%E1%83%A6%E1%83%95%E1%83%97%E1%83%90%E1%83%AE%E1%83%94%E1%83%95%E1%83%98_02.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2228,13 +2228,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Ruiny twierdzy Narikala (01).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Ruiny_twierdzy_Narikala_%2801%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }

@@ -2,11 +2,13 @@
   "id": "seoul",
   "slug": "seoul",
   "title": "Сеул",
-  "subtitle": "Seoul · 서울 · 1 маршрут · 4 скоро",
+  "subtitle": "Сеул · 3 маршрута · 2 скоро",
   "meta": "Республика Корея · дворцы, холмы, рынки, музеи и Ханган",
-  "practicalNote": "Гид по городу обновляется: сейчас доступны coming soon прогулки, полноценные маршруты будут добавляться постепенно.",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "seoul-gwanghwamun-bukchon-jongno-layers"
+    "seoul-gwanghwamun-bukchon-jongno-layers",
+    "seoul-cheonggyecheon-euljiro-ddp-transformation",
+    "seoul-changdeokgung-jongmyo-ritual-city"
   ],
   "coordinates": {
     "latitude": 37.566,
@@ -27,7 +29,7 @@
     "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
     "id": "seoul-hero",
     "kind": "generated",
-    "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
-    "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+    "square": "",
+    "wide": ""
   }
 }

@@ -3,12 +3,14 @@
     "id": "brussels",
     "slug": "brussels",
     "title": "Брюссель",
-    "subtitle": "Брюссель · 2 маршрута · 3 скоро",
-    "meta": "Бельгия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Брюссель · 4 маршрута · 1 скоро",
+    "meta": "Бельгия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "brussels-grand-place-lower-town",
-      "brussels-saint-gilles-ixelles-art-nouveau"
+      "brussels-saint-gilles-ixelles-art-nouveau",
+      "brussels-royal-quarter-mont-des-arts",
+      "brussels-sablon-marolles-justice"
     ],
     "countryId": "belgium",
     "photo": {
@@ -3019,6 +3021,3721 @@
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
       }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts",
+      "routePath": {
+        "coordinates": [
+          [
+            4.365026,
+            50.842594
+          ],
+          [
+            4.365004,
+            50.842553
+          ],
+          [
+            4.364943,
+            50.84244
+          ],
+          [
+            4.364863,
+            50.842295
+          ],
+          [
+            4.364704,
+            50.842266
+          ],
+          [
+            4.364532,
+            50.842234
+          ],
+          [
+            4.364325,
+            50.842277
+          ],
+          [
+            4.363044,
+            50.842543
+          ],
+          [
+            4.362212,
+            50.842715
+          ],
+          [
+            4.361257,
+            50.842913
+          ],
+          [
+            4.361003,
+            50.842859
+          ],
+          [
+            4.36089,
+            50.842876
+          ],
+          [
+            4.360854,
+            50.842842
+          ],
+          [
+            4.360784,
+            50.842857
+          ],
+          [
+            4.360687,
+            50.84287
+          ],
+          [
+            4.360591,
+            50.842871
+          ],
+          [
+            4.360477,
+            50.842855
+          ],
+          [
+            4.360405,
+            50.842832
+          ],
+          [
+            4.360062,
+            50.842589
+          ],
+          [
+            4.360322,
+            50.842449
+          ],
+          [
+            4.360305,
+            50.842435
+          ],
+          [
+            4.360346,
+            50.842415
+          ],
+          [
+            4.360381,
+            50.8424
+          ],
+          [
+            4.360519,
+            50.842319
+          ],
+          [
+            4.360872,
+            50.842113
+          ],
+          [
+            4.360872,
+            50.842113
+          ],
+          [
+            4.360519,
+            50.842319
+          ],
+          [
+            4.360381,
+            50.8424
+          ],
+          [
+            4.360346,
+            50.842415
+          ],
+          [
+            4.360305,
+            50.842435
+          ],
+          [
+            4.360096,
+            50.842535
+          ],
+          [
+            4.360014,
+            50.842568
+          ],
+          [
+            4.359946,
+            50.842582
+          ],
+          [
+            4.359909,
+            50.842588
+          ],
+          [
+            4.359882,
+            50.842591
+          ],
+          [
+            4.359824,
+            50.842562
+          ],
+          [
+            4.359761,
+            50.842536
+          ],
+          [
+            4.359695,
+            50.842515
+          ],
+          [
+            4.359626,
+            50.842498
+          ],
+          [
+            4.359554,
+            50.842478
+          ],
+          [
+            4.359486,
+            50.842453
+          ],
+          [
+            4.359422,
+            50.842424
+          ],
+          [
+            4.359363,
+            50.842391
+          ],
+          [
+            4.35931,
+            50.842355
+          ],
+          [
+            4.359263,
+            50.842315
+          ],
+          [
+            4.359222,
+            50.842272
+          ],
+          [
+            4.359189,
+            50.842227
+          ],
+          [
+            4.359164,
+            50.84218
+          ],
+          [
+            4.359148,
+            50.842131
+          ],
+          [
+            4.359139,
+            50.842111
+          ],
+          [
+            4.359139,
+            50.842111
+          ],
+          [
+            4.359128,
+            50.842086
+          ],
+          [
+            4.3591,
+            50.842043
+          ],
+          [
+            4.359066,
+            50.842002
+          ],
+          [
+            4.359032,
+            50.841996
+          ],
+          [
+            4.358892,
+            50.841973
+          ],
+          [
+            4.358873,
+            50.841983
+          ],
+          [
+            4.358675,
+            50.841843
+          ],
+          [
+            4.358523,
+            50.841735
+          ],
+          [
+            4.358355,
+            50.841615
+          ],
+          [
+            4.358337,
+            50.84157
+          ],
+          [
+            4.358225,
+            50.84149
+          ],
+          [
+            4.3582,
+            50.841504
+          ],
+          [
+            4.358156,
+            50.84153
+          ],
+          [
+            4.358027,
+            50.841606
+          ],
+          [
+            4.358108,
+            50.841661
+          ],
+          [
+            4.358205,
+            50.841726
+          ],
+          [
+            4.358233,
+            50.841745
+          ],
+          [
+            4.358233,
+            50.841745
+          ],
+          [
+            4.358359,
+            50.84183
+          ],
+          [
+            4.35843,
+            50.841879
+          ],
+          [
+            4.35855,
+            50.841807
+          ],
+          [
+            4.358636,
+            50.841865
+          ],
+          [
+            4.358655,
+            50.841854
+          ],
+          [
+            4.358675,
+            50.841843
+          ],
+          [
+            4.358523,
+            50.841735
+          ],
+          [
+            4.358355,
+            50.841615
+          ],
+          [
+            4.358337,
+            50.84157
+          ],
+          [
+            4.358225,
+            50.84149
+          ],
+          [
+            4.357817,
+            50.8412
+          ],
+          [
+            4.357765,
+            50.841193
+          ],
+          [
+            4.357719,
+            50.84116
+          ],
+          [
+            4.357696,
+            50.841173
+          ],
+          [
+            4.357649,
+            50.841226
+          ],
+          [
+            4.357602,
+            50.841293
+          ],
+          [
+            4.357596,
+            50.841312
+          ],
+          [
+            4.357545,
+            50.841383
+          ],
+          [
+            4.357546,
+            50.841441
+          ],
+          [
+            4.357564,
+            50.841463
+          ],
+          [
+            4.357497,
+            50.841506
+          ],
+          [
+            4.357508,
+            50.841546
+          ],
+          [
+            4.357425,
+            50.841594
+          ],
+          [
+            4.357221,
+            50.84171
+          ],
+          [
+            4.357149,
+            50.841747
+          ],
+          [
+            4.357123,
+            50.841767
+          ],
+          [
+            4.356977,
+            50.841888
+          ],
+          [
+            4.356913,
+            50.841944
+          ],
+          [
+            4.356887,
+            50.841943
+          ],
+          [
+            4.356833,
+            50.84192
+          ],
+          [
+            4.35679,
+            50.841903
+          ],
+          [
+            4.356749,
+            50.841893
+          ],
+          [
+            4.356634,
+            50.841997
+          ],
+          [
+            4.35656,
+            50.842067
+          ],
+          [
+            4.356536,
+            50.842086
+          ],
+          [
+            4.356523,
+            50.842096
+          ],
+          [
+            4.356523,
+            50.842096
+          ],
+          [
+            4.356536,
+            50.842086
+          ],
+          [
+            4.35656,
+            50.842067
+          ],
+          [
+            4.356634,
+            50.841997
+          ],
+          [
+            4.356749,
+            50.841893
+          ],
+          [
+            4.35679,
+            50.841903
+          ],
+          [
+            4.356833,
+            50.84192
+          ],
+          [
+            4.356887,
+            50.841943
+          ],
+          [
+            4.356913,
+            50.841944
+          ],
+          [
+            4.356977,
+            50.841888
+          ],
+          [
+            4.357123,
+            50.841767
+          ],
+          [
+            4.357149,
+            50.841747
+          ],
+          [
+            4.357221,
+            50.84171
+          ],
+          [
+            4.357425,
+            50.841594
+          ],
+          [
+            4.357508,
+            50.841546
+          ],
+          [
+            4.357497,
+            50.841506
+          ],
+          [
+            4.357564,
+            50.841463
+          ],
+          [
+            4.357546,
+            50.841441
+          ],
+          [
+            4.357545,
+            50.841383
+          ],
+          [
+            4.357596,
+            50.841312
+          ],
+          [
+            4.357602,
+            50.841293
+          ],
+          [
+            4.357649,
+            50.841226
+          ],
+          [
+            4.357696,
+            50.841173
+          ],
+          [
+            4.357719,
+            50.84116
+          ],
+          [
+            4.357765,
+            50.841193
+          ],
+          [
+            4.357817,
+            50.8412
+          ],
+          [
+            4.358225,
+            50.84149
+          ],
+          [
+            4.358337,
+            50.84157
+          ],
+          [
+            4.358355,
+            50.841615
+          ],
+          [
+            4.358523,
+            50.841735
+          ],
+          [
+            4.358675,
+            50.841843
+          ],
+          [
+            4.358873,
+            50.841983
+          ],
+          [
+            4.358711,
+            50.842075
+          ],
+          [
+            4.358596,
+            50.842139
+          ],
+          [
+            4.358634,
+            50.842166
+          ],
+          [
+            4.358597,
+            50.842188
+          ],
+          [
+            4.358343,
+            50.842342
+          ],
+          [
+            4.358249,
+            50.842398
+          ],
+          [
+            4.358091,
+            50.842494
+          ],
+          [
+            4.357883,
+            50.842631
+          ],
+          [
+            4.357767,
+            50.842708
+          ],
+          [
+            4.357591,
+            50.842624
+          ],
+          [
+            4.357591,
+            50.842624
+          ],
+          [
+            4.357767,
+            50.842708
+          ],
+          [
+            4.357571,
+            50.842838
+          ],
+          [
+            4.357747,
+            50.842934
+          ],
+          [
+            4.358004,
+            50.843074
+          ],
+          [
+            4.357968,
+            50.843095
+          ],
+          [
+            4.357857,
+            50.843161
+          ],
+          [
+            4.357821,
+            50.843182
+          ],
+          [
+            4.357887,
+            50.843223
+          ],
+          [
+            4.357752,
+            50.843296
+          ],
+          [
+            4.357711,
+            50.843319
+          ],
+          [
+            4.357677,
+            50.843336
+          ],
+          [
+            4.35764,
+            50.843357
+          ],
+          [
+            4.35753,
+            50.843416
+          ],
+          [
+            4.357492,
+            50.843439
+          ],
+          [
+            4.357473,
+            50.84345
+          ],
+          [
+            4.357432,
+            50.843473
+          ],
+          [
+            4.357506,
+            50.843525
+          ],
+          [
+            4.357563,
+            50.843566
+          ],
+          [
+            4.35761,
+            50.843599
+          ],
+          [
+            4.357663,
+            50.843635
+          ],
+          [
+            4.357699,
+            50.843663
+          ],
+          [
+            4.357663,
+            50.843681
+          ],
+          [
+            4.357639,
+            50.843692
+          ],
+          [
+            4.357605,
+            50.843709
+          ],
+          [
+            4.357469,
+            50.843618
+          ],
+          [
+            4.357327,
+            50.843699
+          ],
+          [
+            4.357276,
+            50.843663
+          ],
+          [
+            4.357237,
+            50.843636
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              4.365026,
+              50.842594
+            ],
+            "instruction": "Walk south on Rue Ducale/Hertogstraat.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              4.364863,
+              50.842295
+            ],
+            "instruction": "Turn right onto Place des Palais/Paleizenplein.",
+            "distanceM": 267,
+            "type": ""
+          },
+          {
+            "location": [
+              4.361257,
+              50.842913
+            ],
+            "instruction": "Keep left to stay on Place des Palais/Paleizenplein.",
+            "distanceM": 27,
+            "type": ""
+          },
+          {
+            "location": [
+              4.36089,
+              50.842876
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              4.360854,
+              50.842842
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 69,
+            "type": ""
+          },
+          {
+            "location": [
+              4.360062,
+              50.842589
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              4.360305,
+              50.842435
+            ],
+            "instruction": "Bear left onto Impasse du Borgendael/Borgendaalgang.",
+            "distanceM": 53,
+            "type": ""
+          },
+          {
+            "location": [
+              4.360872,
+              50.842113
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.360872,
+              50.842113
+            ],
+            "instruction": "Walk northwest on Impasse du Borgendael/Borgendaalgang.",
+            "distanceM": 88,
+            "type": ""
+          },
+          {
+            "location": [
+              4.359882,
+              50.842591
+            ],
+            "instruction": "Turn left onto Place Royale/Koningsplein.",
+            "distanceM": 79,
+            "type": ""
+          },
+          {
+            "location": [
+              4.359139,
+              50.842111
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.359139,
+              50.842111
+            ],
+            "instruction": "Walk south on Place Royale/Koningsplein.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              4.359066,
+              50.842002
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358892,
+              50.841973
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358873,
+              50.841983
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 72,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358225,
+              50.84149
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.3582,
+              50.841504
+            ],
+            "instruction": "Take the stairs to Level 1.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358156,
+              50.84153
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 33,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358233,
+              50.841745
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358233,
+              50.841745
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35843,
+              50.841879
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358636,
+              50.841865
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358655,
+              50.841854
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358675,
+              50.841843
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 103,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357719,
+              50.84116
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357696,
+              50.841173
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 35,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357564,
+              50.841463
+            ],
+            "instruction": "Turn left to stay on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357149,
+              50.841747
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357123,
+              50.841767
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356977,
+              50.841888
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356913,
+              50.841944
+            ],
+            "instruction": "Turn left to stay on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356887,
+              50.841943
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356833,
+              50.84192
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35679,
+              50.841903
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356749,
+              50.841893
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356634,
+              50.841997
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35656,
+              50.842067
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356536,
+              50.842086
+            ],
+            "instruction": "Continue.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356523,
+              50.842096
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356523,
+              50.842096
+            ],
+            "instruction": "Continue.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356536,
+              50.842086
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35656,
+              50.842067
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356634,
+              50.841997
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356749,
+              50.841893
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35679,
+              50.841903
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356833,
+              50.84192
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356887,
+              50.841943
+            ],
+            "instruction": "Bear right to stay on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356913,
+              50.841944
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356977,
+              50.841888
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357123,
+              50.841767
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357149,
+              50.841747
+            ],
+            "instruction": "Continue on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357564,
+              50.841463
+            ],
+            "instruction": "Turn right to stay on Chemin du Jardin de Sculptures/Beelhouwtuinweg.",
+            "distanceM": 35,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357696,
+              50.841173
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357719,
+              50.84116
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 64,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358337,
+              50.84157
+            ],
+            "instruction": "Keep left to take the walkway.",
+            "distanceM": 60,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358873,
+              50.841983
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 30,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358634,
+              50.842166
+            ],
+            "instruction": "Bear left onto Rue du Musée/Museumstraat.",
+            "distanceM": 86,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357767,
+              50.842708
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357591,
+              50.842624
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357591,
+              50.842624
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357767,
+              50.842708
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357571,
+              50.842838
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358004,
+              50.843074
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357821,
+              50.843182
+            ],
+            "instruction": "Turn right onto Petite rue du Musée/Korte Museumstraat.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357887,
+              50.843223
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357752,
+              50.843296
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357711,
+              50.843319
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357677,
+              50.843336
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35764,
+              50.843357
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357492,
+              50.843439
+            ],
+            "instruction": "Continue.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357473,
+              50.84345
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357432,
+              50.843473
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357506,
+              50.843525
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357563,
+              50.843566
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              4.35761,
+              50.843599
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357663,
+              50.843635
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357663,
+              50.843681
+            ],
+            "instruction": "Continue.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357639,
+              50.843692
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357605,
+              50.843709
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357469,
+              50.843618
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357327,
+              50.843699
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357237,
+              50.843636
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T10:52:07.118Z"
+        }
+      },
+      "cityId": "brussels",
+      "category": "Район",
+      "title": "Королевский квартал: холм искусства и власти",
+      "subtitle": "От королевского парка к террасным садам",
+      "blurb": "На узком холме между верхним и нижним городом соседствуют короли и художники. Эта прогулка по Королевскому кварталу соединяет зелёный парк, дворцы, подземные руины, музеи и террасные сады.",
+      "mood": "величественный и просветительский",
+      "accent": "#3344A3",
+      "soft": "#E3E5F2",
+      "deep": "#233076",
+      "ink": "#222C62",
+      "motif": "lane",
+      "duration": "2,5 часа",
+      "stops": 7,
+      "distance": "1,3 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Королевский квартал",
+        "line": "Холм, где власть встречает искусство"
+      },
+      "content": {
+        "intro": "Вы стоите на пороге Королевского квартала — невысокого холма, который отделяет средневековый низ города от новой столицы периода Просвещения. Здесь свобода гулять по аллеям дворцового парка уживается с блеском монарших приёмов и творчеством великих мастеров. За пару часов вы переходите от тенистых аллей и неоклассических площадей к подземным руинам, художественным музеям и террасным садам, открывающим панораму на весь Брюссель. Это маршрут о том, как власть и искусство веками определяли облик города и до сих пор живут по соседству.",
+        "routeLogic": "Маршрут поднимается по оси, соединяющей все символы Королевского квартала. Сначала вы гуляете по самому старому городскому парку, затем переходите площадь к рабочему дворцу короля. От неоклассической Площади Королевской спускаетесь под землю — в археологический музей Куденберг. Далее следуют музеи изящных искусств, архитектурный шедевр Виктора Орта и, наконец, подвесной сад Мон‑де‑Зар. Логика проста: от природы к власти, от прошлого к искусству, от глубины подземелья к вершине холма.",
+        "bestFor": "любителей истории и архитектуры ценителей живописи и дизайна путешественников, ищущих панорамы",
+        "notFor": "людей в инвалидных колясках — много лестниц тех, кто предпочитает шумные ночные развлечения туристов с ограниченным временем (понадобится не меньше 2 часов)",
+        "beforeYouGo": "Королевский дворец открыт только несколько недель летом, а музеи закрываются по понедельникам — проверьте даты заранее. На Площади Королевской ведутся работы по сокращению автомобильного движения; переходите улицы осторожно. Возьмите удобную обувь: маршрут проходит по булыжнику и крутым лестницам.",
+        "timing": "Начинайте утром, чтобы успеть попасть во дворец и музеи. В летние вечера задержитесь у Мон‑де‑Зар — закат над крышей Старого города впечатляет.",
+        "fallbackPlan": "Если дворец закрыт или очередь слишком длинная, пропустите визит внутрь и уделите больше времени археологическому сайту и музеям. В дождь укройтесь в Бозар или музеях: все объекты расположены в нескольких шагах друг от друга."
+      },
+      "stopList": [
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-1",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 1,
+          "name": "Брюссельский парк",
+          "note": "Самая старая зелёная сцена столицы",
+          "time": "15 мин",
+          "walk": "Перейдите площадь Place des Palais к Королевскому дворцу.",
+          "content": {
+            "context": "Начните прогулку со входа на угол Rue Royale и Place des Palais. Перед вами раскрывается строгая геометрия самого старого городского парка Брюсселя. Широкие аллеи, обсаженные липами, вытягиваются как коридоры, открывая перспективы на статуи античных богов. Этот парк был разбит в конце XVIII века на месте сада герцогов Бургундских и губернаторов Нидерландов — прежняя роскошь уступила место неоклассическому порядку. Слева через широкую аллею сияют крыши парламента, а впереди за деревьями угадывается фасад королевского дворца. Небольшие фонтаны и цветники напоминают о масштабной реставрации 2000–2002 годов, вернувшей аллеям первоначальные линии. Пройдитесь по центральной аллее, вдыхая аромат лип, и представьте, как после революций именно здесь горожане впервые получили свободный доступ к королевским садам.",
+            "lookFor": "длинные неоклассические аллеи скульптуры античных богов и муз вид на фасад парламента через деревья",
+            "practical": "Вход свободный. Дежурство охраны — 08:00–21:00, но парк открыт круглосуточно при хорошей погоде. Будьте готовы к возможному закрытию при штормовом ветре. Туалеты находятся у южной аллеи, вокруг площадей — кафе и киоски.",
+            "nextMove": "Перейдите площадь Place des Palais к Королевскому дворцу.",
+            "deepDive": [
+              {
+                "title": "От герцогского сада к общественному парку",
+                "body": "До середины XVIII века на этом месте находился частный сад герцогов Бургундских. После революций власти решили подарить городу открытое пространство, и в 1776–1783 годах здесь разбили парк по строгим планам французских архитекторов. Две прямые оси подчёркивают симметрию дворца и парламента. В XIX веке парк пережил бурную историю — здесь проходили парады, революционные митинги и народные гулянья."
+              }
+            ],
+            "sourceNote": "Часы и история подтверждены сайтом Brussels Gardens; проверено 18.06.2026"
+          },
+          "entry": "свободно",
+          "nameLocal": "Parc de Bruxelles",
+          "coordinates": {
+            "latitude": 50.8426,
+            "longitude": 4.365
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Круглосуточно; закрывается только при сильном ветре; охрана ежедневно 08:00–21:00",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-1",
+          "sourceIds": [
+            "src-park-info",
+            "src-park-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-1-square.jpg",
+            "alt": "Аллеи Парка Брюссель, обрамлённые деревьями",
+            "attribution": {
+              "author": "Giorgio Galeotti",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_de_Bruxelles_-_Bruxelles,_Belgium_-_October_31,_2010.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-2",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 2,
+          "name": "Королевский дворец",
+          "note": "Рабочий дворец бельгийского монарха",
+          "time": "45 мин",
+          "walk": "Поверните вправо к неоклассической Площади Королевской.",
+          "content": {
+            "context": "Стоя на площади перед дворцом, обратите внимание на зеркальную симметрию фасада. Широкий портик поддерживают колонны, а по сторонам тянутся длинные крылья XVIII века — одно из них по‑прежнему занимает королевская администрация, другое превратилось в музей BELvue. Дворец был построен после пожара 1731 года, который уничтожил старый замок Куденберг. Первые планы в стиле ампир реализовал король Вильгельм I в 1820‑х, а нынешний облик — строгий стиль Людовика XVI — появился при Леопольде II в начале XX века. Это не резиденция: король и его семья живут в замке Лакен, а здесь — его рабочие кабинеты и залы для аудиенций и приёмов. Ежегодно, вскоре после национального праздника 21 июля, дворец открывают для посетителей: вы можете пройти через зеркальные залы, тронный зал и кабинет короля, пока зелёно‑золотые интерьеры не затянут чехлами вновь. Если флаг над зданием поднят, монарх находится в стране.",
+            "lookFor": "королевский штандарт на крыше барельефы и колонны фасада перспектива на парк через Place des Palais",
+            "practical": "Билет 10 €; дети до 12 лет — бесплатно. Предварительное бронирование временного слота обязательно на официальном сайте. Вход через центральный портал на Place des Palais; охрана и контроль безопасности — как в аэропорту, возьмите удостоверение личности. Вне летнего периода дворец можно осмотреть только снаружи.",
+            "nextMove": "Поверните вправо к неоклассической Площади Королевской.",
+            "deepDive": [
+              {
+                "title": "Рабочий дворец при конституционной монархии",
+                "body": "В Бельгии король не правит единолично. Символическая ось между дворцом и парламентом через парк напоминает о балансе власти. Здание вмещает кабинеты короля, королевы и их двора, включая военное и гражданское ведомства. Здесь проходят церемонии присяги правительства и дипломатические приёмы. Жилая резиденция находится в Лакене, поэтому дворец в центре остаётся открытым для горожан."
+              }
+            ],
+            "sourceNote": "История и часы — по данным visit.brussels и официального дворцового сайта; цены подтверждены на 2026 год."
+          },
+          "entry": "по билету",
+          "nameLocal": "Palais Royal de Bruxelles",
+          "coordinates": {
+            "latitude": 50.8422,
+            "longitude": 4.361
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открыт для публики только летом: 3 июля – 16 августа 2026, вт–вс 10:30–17:00 (последний вход 16:00); закрыт по понедельникам и 15–16, 21–22 июля; остальное время доступен только снаружи.",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-2",
+          "sourceIds": [
+            "src-palace-info",
+            "src-palace-ticket",
+            "src-palace-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-2-square.jpg",
+            "alt": "Неоклассический фасад Королевского дворца Брюсселя",
+            "attribution": {
+              "author": "Michal Osmenda",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Brussels_(8132628822).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-3",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 3,
+          "name": "Площадь Королевская",
+          "note": "Неоклассическая площадь с тайной под землёй",
+          "time": "10 мин",
+          "walk": "Пройдите в сторону церкви Сен‑Жак и войдите в музей BELvue, где находится спуск к руинам Куденберга.",
+          "content": {
+            "context": "Подойдите к конной статуе Готфрида Бульонского — крестоносца, который впервые возглавил захват Иерусалима. Площадь Королевская, созданная в 1776–1782 годах на месте выгоревшего дворца Куденберг, стала примером французской королевской площади: симметричные фасады, строгие портики и одинаковые высоты. Архитекторы Жан‑Бенуа Винсан Барре, Иоахим Циннер и Барнабэ Гимар спроектировали комплекс так, чтобы он подчёркивал власть монарха и открывал доступ к парку. Сегодня под вашими ногами скрываются руины старого дворца, к которым ещё предстоит спуститься. В 2026 году площадь переживает обновление: автомобильное движение сведено к минимуму, новые фонари и гранитная мощёная поверхность делают пространство уютным для пешеходов. С разных сторон видны сразу несколько институтов: церковь Сен‑Жак‑сюр‑Куденберг, Белвью, дворец искусств и музеи. Это сердце королевского ансамбля.",
+            "lookFor": "конная статуя Готфрида Бульонского симметричные неоклассические фасады вход в подземный археологический музей",
+            "practical": "Площадь открыта всегда. Из-за реконструкции движение автомобилей ограничено; пешеходам предоставлены широкие зоны. Остерегайтесь трамваев 92 и 93, которые пересекают площадь.",
+            "nextMove": "Пройдите в сторону церкви Сен‑Жак и войдите в музей BELvue, где находится спуск к руинам Куденберга.",
+            "deepDive": [
+              {
+                "title": "Пожар, который создал новую площадь",
+                "body": "В 1731 году пожар уничтожил дворцовый комплекс на холме Куденберг. Городские власти приняли решение засыпать руины и создать новый ансамбль. Площадь получила единую высоту и фасады, чтобы подчеркнуть силу центральной власти. В центре поставили статую Готфрида Бульонского — героя Первого крестового похода, который стал символом новой европейской столицы."
+              }
+            ],
+            "sourceNote": "Исторические факты и сведения о реконструкции подтверждены публикацией Bruxelles Secrète."
+          },
+          "entry": "снаружи",
+          "nameLocal": "Place Royale / Koningsplein",
+          "coordinates": {
+            "latitude": 50.8421,
+            "longitude": 4.3592
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Доступна круглосуточно; в 2026 году ведётся реконструкция и сокращено движение автотранспорта",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-3",
+          "sourceIds": [
+            "src-place-royale-history",
+            "src-place-royale-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-3-square.jpg",
+            "alt": "Конная статуя на Площади Королевской с окружающими зданиями",
+            "attribution": {
+              "author": "-wuppertaler",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:BEL_Brussels,_Place_Royale_001.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-4",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 4,
+          "name": "Археологический сайт Куденберг",
+          "note": "Подземные руины двора Бургундских герцогов",
+          "time": "40 мин",
+          "walk": "Поднимитесь на поверхность и следуйте вдоль Rue de la Régence к Королевским музеям изящных искусств.",
+          "content": {
+            "context": "Через вход в музей BELvue вы попадаете под землю и буквально проходите по улицам, засыпанным почти три столетия назад. Узкие коридоры и сводчатые проходы — это бывшая улица Изабеллы, по которой некогда ездили кареты. Вы увидите фрагменты готической Аулы Магна, где в 1555 году император Карл V отрёкся от престола, погреба и кухни дворца. Подземелье прохладное и таинственное: мощные стены и каменные своды напоминают, что с XII века Куденберг был одной из главных резиденций Бургундских герцогов и Габсбургов. Пожар 1731 года превратил комплекс в руины, которые затем засыпали, чтобы выровнять холм для строительства нового района. Сегодня археологи вновь открывают эти пространства, а вы — один из немногих, кто может пройти по ним.",
+            "lookFor": "протяжённые своды улицы Изабеллы фрагменты керамики и витражей в витринах ниши древних винных погребов",
+            "practical": "Вход по билету 10 €; комбинированный билет с BELvue — 18 €. Скидки для студентов и пенсионеров; до 18 лет — бесплатно. Вход через музей BELvue. В прохладных подземельях иногда влажно — возьмите тёплую одежду. Закрыто по понедельникам и государственным праздникам.",
+            "nextMove": "Поднимитесь на поверхность и следуйте вдоль Rue de la Régence к Королевским музеям изящных искусств.",
+            "deepDive": [
+              {
+                "title": "Дворец Карла V и его исчезновение",
+                "body": "Куденберг был одним из центров Европейского двора: здесь принимали послов, проводили рыцарские турниры и устраивали пиры. В 1555 году в Ауле Магна Карл V передал власть своему сыну Филиппу II — событие, считающееся символом перехода мирового господства. После разрушительного пожара комплекс замело слоями земли, и лишь в конце XX века археологи восстановили подземные маршруты для публики."
+              }
+            ],
+            "sourceNote": "Часы, цены и история — по информации Brussels Museums и официального сайта археологического комплекса."
+          },
+          "entry": "по билету",
+          "nameLocal": "Coudenberg Archaeological Site",
+          "coordinates": {
+            "latitude": 50.842,
+            "longitude": 4.3578
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Вт–Пт 9:30–17:00; сб–вс и в июле–августе 10:00–18:00; закрыто по понедельникам; закрыто 1 янв, 21 июл, 25 дек; 24 и 31 дек — закрывается в 16:00.",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-4",
+          "sourceIds": [
+            "src-coudenberg-info",
+            "src-coudenberg-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-4-square.jpg",
+            "alt": "Исторические здания вдоль холма Куденберг",
+            "attribution": {
+              "author": "Julian Lupyan",
+              "license": "CC0 1.0 Public Domain; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_the_Coudenberg,_Brussels,_Belgium.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-5",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 5,
+          "name": "Королевские музеи изящных искусств",
+          "note": "Сокровищница старых мастеров и Магритта",
+          "time": "60 мин",
+          "walk": "Пройдите несколько шагов по улице к соседнему Центру изящных искусств (BOZAR).",
+          "content": {
+            "context": "У подножия Rue de la Régence стоит величественный комплекс Альфонса Балата — ученика Виктора Орта. Здание было построено к 1880 году как Дворец изящных искусств и вскоре превратилось в Музей древнего искусства. Сегодня в нём помещаются шесть музеев: от старых мастеров до современного искусства, отдельные пространства посвящены Брейгелю, Босху, Рубенсу, а также сюрреалисту Рене Магритту. В светлых залах с высокими окнами висят монументальные полотна, а нижние уровни соединены с подземным музеем Фин‑де‑Сиекль. Поднимитесь по величественной лестнице на второй этаж и найдите зал с полотнами Брейгеля — картина «Сенокос» поражает своим многофигурным рассказом. Затем зайдите в соседний корпус, где в трёх уровнях разворачивается мир Магритта: труба, которая не труба, и парадоксальные окна предлагают увидеть реальность по‑новому.",
+            "lookFor": "бронзовые барельефы фасада звонкую лестницу с мраморными колоннами зал Магритта с парадоксальными окнами",
+            "practical": "Стандартный билет 15 €; есть комбинированные билеты на несколько музеев. Дети и молодёжь до 18 лет — бесплатно; студенты и пенсионеры получают скидку. Музеи закрыты по понедельникам; кассы перестают продавать билеты за 30 мин до закрытия. В гардеробе есть шкафчики; крупные сумки запрещены.",
+            "nextMove": "Пройдите несколько шагов по улице к соседнему Центру изящных искусств (BOZAR).",
+            "deepDive": [
+              {
+                "title": "От дворца к музею",
+                "body": "Первоначально здание на Rue de la Régence было построено архитектором Альфонсом Балатом по заказу короля Леопольда II для Всемирной выставки 1880 года. Уже через семь лет оно утратило функцию выставочного дворца и стало хранилищем древнего искусства. В 1927 году все коллекции объединяют под названием Королевские музеи изящных искусств Бельгии. Сегодня это целый музейный квартал с постоянными и временными выставками."
+              }
+            ],
+            "sourceNote": "Часы и исторические сведения взяты с официального сайта Royal Museums of Fine Arts; фотография для этой остановки пока не найдена."
+          },
+          "entry": "по билету",
+          "nameLocal": "Musées royaux des Beaux-Arts de Belgique",
+          "coordinates": {
+            "latitude": 50.8423,
+            "longitude": 4.3568
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Музей старых мастеров и музей Магритта: вт–пт 10:00–17:00, сб–вс 11:00–18:00; кассы закрываются за 30 минут; закрыто по понедельникам и в праздники (1 янв, 1 май, 6 июн, 1 ноя); 24 и 31 дек — закрывается в 15:00.",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-5",
+          "sourceIds": [
+            "src-museum-history",
+            "src-museum-hours"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-5-square.jpg",
+            "alt": "Royal Museums of Fine Arts of Belgium facade",
+            "attribution": {
+              "author": "Yair Haklai",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Royal_Museums_of_Fine_Arts_of_Belgium.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-6",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 6,
+          "name": "Центр изящных искусств (BOZAR)",
+          "note": "Арт‑деко Виктора Орта",
+          "time": "30 мин",
+          "walk": "Спуститесь по лестнице вдоль Rue Montagne de la Cour к террасному саду Мон‑де‑Зар.",
+          "content": {
+            "context": "Серый фасад, частично спрятанный за магазинами на Rue Royale, скрывает один из самых смелых проектов Виктора Орта. В 1920‑е годы архитектор отошёл от изысканного ар‑нуво и создал геометричный Арт‑деко‑центр, который соединяет верхний и нижний город. Ограничения по высоте — король требовал, чтобы здание не загораживало обзор из дворца — заставили Орта зарыть половину объёма под землю. Внутри свет льётся сверху через стеклянные атриумы, освещая выставочные залы и лестницы. BOZAR сегодня — мультидисциплинарный центр: здесь проходят художественные выставки, кинопоказы, лекции, а в подземном зале ‘Henri Le Bœuf’ звучат концерты мирового уровня. Прогуляйтесь по галерее вдоль восточного фасада, почувствуйте игру света и бетона, а затем загляните на одну из временных экспозиций, чтобы увидеть, как современное искусство вписывается в исторический квартал.",
+            "lookFor": "геометрические линии ар‑деко на фасаде подземный концертный зал с деревянными акустическими панелями световой атриум с витражами",
+            "practical": "Входной билет зависит от конкретной выставки; фойе и кафе обычно свободны. Кассы работают 10:00–17:00. Закрыто по понедельникам; 24 и 31 дек — короткий день до 16:00. Гардероб обязателен для больших сумок; проверьте расписание концертов на сайте заранее.",
+            "nextMove": "Спуститесь по лестнице вдоль Rue Montagne de la Cour к террасному саду Мон‑де‑Зар.",
+            "deepDive": [
+              {
+                "title": "Хорта: от ар‑нуво к ар‑деко",
+                "body": "Виктор Орта прославился своими изысканными домами в стиле ар‑нуво, но в 1919 году принял вызов создать центр, который вместил бы выставки, концерты и конференции. Поскольку власти требовали не загораживать вид из дворца, архитектор разместил большую часть объёма под землёй. Он отказался от растительных узоров в пользу четких линий, но сохранил фирменную игру света. Его проект стал образцом бельгийского ар‑деко и до сих пор работает как культурный мост между кварталами."
+              }
+            ],
+            "sourceNote": "Часы и исторические сведения взяты с официального сайта BOZAR; изображение подтверждено благодаря свободе панорамы."
+          },
+          "entry": "по билету",
+          "nameLocal": "Palais des Beaux-Arts / BOZAR",
+          "coordinates": {
+            "latitude": 50.8427,
+            "longitude": 4.3575
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Выставки открыты вт–вс 10:00–18:00 (последний вход 17:00); закрыто по понедельникам; 24 и 31 дек — закрывается в 16:00; закрыто 25 дек и 1 янв.",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-6",
+          "sourceIds": [
+            "src-bozar-info",
+            "src-bozar-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-6-square.jpg",
+            "alt": "Фасад Центра изящных искусств (BOZAR) в Брюсселе",
+            "attribution": {
+              "author": "Zinneke",
+              "license": "CC BY‑SA 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_des_Beaux-Arts_Brussels_2012-06.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-royal-quarter-mont-des-arts-7",
+          "guideId": "brussels-royal-quarter-mont-des-arts",
+          "order": 7,
+          "name": "Сад Мон‑де‑Зар",
+          "note": "Панорама на исторический центр",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "Холм завершает маршрут висячим садом, который словно соединяет прошлое и будущее. Террасный парк Мон‑де‑Зар был изначально создан как временное украшение для Всемирной выставки 1910 года, а в 1950‑х архитектор Рене Пешер возвёл здесь современный комплекс: зелёные квадраты в геометрическом порядке, длинные лестницы, каскадный фонтан и площадки для отдыха. Все это расположено на бетонной плите — под садом скрываются парковка и хранилище Королевской библиотеки. Взгляните вниз: перед вами открывается вся панорама нижнего города с крышами Гран‑Пляс и шпилем Ратуши. Летом дети бегают по игривым фонтанам в нижнем уровне, а осенью террасы окрашиваются в золотой цвет. Это место показывает, как искусство и власть переплетаются: сверху возвышаются музеи и дворец, а под ногами — современный город.",
+            "lookFor": "каскадный фонтан и зеркальные бассейны вид на шпиль Городской ратуши абстрактные скульптуры и детские фонтаны на нижнем уровне",
+            "practical": "Вход свободный. Лестницы могут быть скользкими после дождя; часть склонов приспособлена для колясок, но подъём крутой. Освещение позволяет гулять до 22:00 летом. Лавочки и кафе находятся у верхнего и нижнего входов.",
+            "nextMove": "Прогулка завершается: спуститесь по лестнице к Центральному вокзалу или вернитесь обратно к музеям.",
+            "deepDive": [
+              {
+                "title": "От временной террасы к символу города",
+                "body": "Сад Мон‑де‑Зар возник как временная терраса Французского ландшафтного архитектора Луи Вашьеро для Всемирной выставки 1910 года. В 1950‑х годах архитектор Рене Пешер превратил его в постоянный комплекс с библиотекой, конференц‑дворцом и садами. С начала XXI века парк неоднократно обновляли: в 2001 году его перепланировали, а новые проекты предполагают создание единой пешеходной эспланады между дворцом и станцией Брюссель‑Центр."
+              }
+            ],
+            "sourceNote": "История и часы подтверждены сайтом Brussels Gardens; фотография — участник конкурса 'Wiki Loves Heritage 2018' с лицензией CC BY 4.0."
+          },
+          "entry": "свободно",
+          "nameLocal": "Jardin du Mont des Arts",
+          "coordinates": {
+            "latitude": 50.8436,
+            "longitude": 4.3573
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Парк открыт ежедневно: ноя–фев 07:00–19:00; мар–апр 06:00–21:00; май–авг 06:00–22:00; сен–окт 07:00–20:00; освещение работает до 22:00.",
+            "checkedAt": "2026-06-18"
+          },
+          "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-7",
+          "sourceIds": [
+            "src-mont-garden-info",
+            "src-mont-garden-photo"
+          ],
+          "photo": {
+            "id": "brussels-royal-quarter-mont-des-arts-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-7-square.jpg",
+            "alt": "Мон‑де‑Зар и вид на город в сумерках",
+            "attribution": {
+              "author": "Trougnouf (Benoit Brummer)",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_of_Kunstberg_viewed_from_Mont_des_Arts_during_nautical_twilight_(DSCF1028).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "brussels-royal-quarter-mont-des-arts-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-cover-square.jpg",
+        "alt": "Иллюстрация королевского холма с парком, дворцом и террасными садами в Брюсселе"
+      },
+      "coverAssetId": "brussels-royal-quarter-mont-des-arts-cover",
+      "basemap": {
+        "image": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-basemap.png",
+        "center": {
+          "latitude": 50.8428,
+          "longitude": 4.3609
+        },
+        "zoom": 16,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice",
+      "routePath": {
+        "coordinates": [
+          [
+            4.348887,
+            50.839471
+          ],
+          [
+            4.34882,
+            50.839504
+          ],
+          [
+            4.348186,
+            50.839821
+          ],
+          [
+            4.348111,
+            50.839858
+          ],
+          [
+            4.347997,
+            50.839914
+          ],
+          [
+            4.347928,
+            50.839949
+          ],
+          [
+            4.347693,
+            50.840068
+          ],
+          [
+            4.346921,
+            50.840457
+          ],
+          [
+            4.346873,
+            50.84048
+          ],
+          [
+            4.346806,
+            50.84051
+          ],
+          [
+            4.346744,
+            50.840689
+          ],
+          [
+            4.346987,
+            50.840722
+          ],
+          [
+            4.346966,
+            50.840776
+          ],
+          [
+            4.346986,
+            50.840813
+          ],
+          [
+            4.34739,
+            50.841171
+          ],
+          [
+            4.34742,
+            50.841211
+          ],
+          [
+            4.347463,
+            50.841289
+          ],
+          [
+            4.347756,
+            50.841453
+          ],
+          [
+            4.347825,
+            50.841511
+          ],
+          [
+            4.347887,
+            50.841585
+          ],
+          [
+            4.347916,
+            50.841581
+          ],
+          [
+            4.347989,
+            50.841573
+          ],
+          [
+            4.348089,
+            50.841559
+          ],
+          [
+            4.348167,
+            50.841548
+          ],
+          [
+            4.348292,
+            50.841521
+          ],
+          [
+            4.348405,
+            50.841506
+          ],
+          [
+            4.348499,
+            50.841506
+          ],
+          [
+            4.34857,
+            50.841514
+          ],
+          [
+            4.348673,
+            50.841537
+          ],
+          [
+            4.348798,
+            50.841572
+          ],
+          [
+            4.348996,
+            50.841675
+          ],
+          [
+            4.349233,
+            50.841771
+          ],
+          [
+            4.349233,
+            50.841771
+          ],
+          [
+            4.348996,
+            50.841675
+          ],
+          [
+            4.348798,
+            50.841572
+          ],
+          [
+            4.348833,
+            50.841537
+          ],
+          [
+            4.348671,
+            50.841499
+          ],
+          [
+            4.348574,
+            50.84148
+          ],
+          [
+            4.348476,
+            50.841461
+          ],
+          [
+            4.348174,
+            50.841403
+          ],
+          [
+            4.347834,
+            50.841328
+          ],
+          [
+            4.347623,
+            50.841306
+          ],
+          [
+            4.347463,
+            50.841289
+          ],
+          [
+            4.34742,
+            50.841211
+          ],
+          [
+            4.34739,
+            50.841171
+          ],
+          [
+            4.346986,
+            50.840813
+          ],
+          [
+            4.346966,
+            50.840776
+          ],
+          [
+            4.346987,
+            50.840722
+          ],
+          [
+            4.346744,
+            50.840689
+          ],
+          [
+            4.346806,
+            50.84051
+          ],
+          [
+            4.346873,
+            50.84048
+          ],
+          [
+            4.346921,
+            50.840457
+          ],
+          [
+            4.347693,
+            50.840068
+          ],
+          [
+            4.347928,
+            50.839949
+          ],
+          [
+            4.347997,
+            50.839914
+          ],
+          [
+            4.348111,
+            50.839858
+          ],
+          [
+            4.348186,
+            50.839821
+          ],
+          [
+            4.34882,
+            50.839504
+          ],
+          [
+            4.349024,
+            50.839405
+          ],
+          [
+            4.349088,
+            50.839375
+          ],
+          [
+            4.349031,
+            50.839314
+          ],
+          [
+            4.349078,
+            50.839296
+          ],
+          [
+            4.34919,
+            50.839253
+          ],
+          [
+            4.349209,
+            50.839241
+          ],
+          [
+            4.349235,
+            50.839204
+          ],
+          [
+            4.34925,
+            50.839191
+          ],
+          [
+            4.349521,
+            50.83904
+          ],
+          [
+            4.349546,
+            50.839032
+          ],
+          [
+            4.349571,
+            50.839029
+          ],
+          [
+            4.349588,
+            50.839027
+          ],
+          [
+            4.34962,
+            50.839017
+          ],
+          [
+            4.349638,
+            50.839003
+          ],
+          [
+            4.349646,
+            50.838994
+          ],
+          [
+            4.349658,
+            50.838978
+          ],
+          [
+            4.349679,
+            50.838956
+          ],
+          [
+            4.349699,
+            50.838944
+          ],
+          [
+            4.349891,
+            50.838851
+          ],
+          [
+            4.350215,
+            50.838694
+          ],
+          [
+            4.350202,
+            50.838676
+          ],
+          [
+            4.350198,
+            50.838673
+          ],
+          [
+            4.350168,
+            50.838637
+          ],
+          [
+            4.350138,
+            50.838601
+          ],
+          [
+            4.350117,
+            50.838609
+          ],
+          [
+            4.34992,
+            50.838697
+          ],
+          [
+            4.349839,
+            50.838734
+          ],
+          [
+            4.349839,
+            50.838734
+          ],
+          [
+            4.34992,
+            50.838697
+          ],
+          [
+            4.350117,
+            50.838609
+          ],
+          [
+            4.350138,
+            50.838601
+          ],
+          [
+            4.350168,
+            50.838637
+          ],
+          [
+            4.350204,
+            50.838624
+          ],
+          [
+            4.350233,
+            50.838614
+          ],
+          [
+            4.350272,
+            50.838666
+          ],
+          [
+            4.350348,
+            50.83876
+          ],
+          [
+            4.350495,
+            50.838976
+          ],
+          [
+            4.350653,
+            50.839282
+          ],
+          [
+            4.35078,
+            50.83952
+          ],
+          [
+            4.350872,
+            50.839688
+          ],
+          [
+            4.351011,
+            50.839929
+          ],
+          [
+            4.35205,
+            50.839591
+          ],
+          [
+            4.352326,
+            50.839502
+          ],
+          [
+            4.352553,
+            50.839409
+          ],
+          [
+            4.352569,
+            50.839409
+          ],
+          [
+            4.352668,
+            50.839412
+          ],
+          [
+            4.352727,
+            50.839426
+          ],
+          [
+            4.353577,
+            50.839435
+          ],
+          [
+            4.353813,
+            50.839441
+          ],
+          [
+            4.353963,
+            50.839561
+          ],
+          [
+            4.354547,
+            50.840032
+          ],
+          [
+            4.355052,
+            50.840434
+          ],
+          [
+            4.355081,
+            50.840408
+          ],
+          [
+            4.355096,
+            50.840393
+          ],
+          [
+            4.35512,
+            50.840388
+          ],
+          [
+            4.355143,
+            50.840365
+          ],
+          [
+            4.355163,
+            50.840374
+          ],
+          [
+            4.355225,
+            50.8404
+          ],
+          [
+            4.355333,
+            50.840447
+          ],
+          [
+            4.355354,
+            50.840456
+          ],
+          [
+            4.3554,
+            50.840381
+          ],
+          [
+            4.355586,
+            50.840233
+          ],
+          [
+            4.355671,
+            50.840168
+          ],
+          [
+            4.355876,
+            50.840046
+          ],
+          [
+            4.356029,
+            50.839968
+          ],
+          [
+            4.356082,
+            50.839992
+          ],
+          [
+            4.356324,
+            50.840166
+          ],
+          [
+            4.356339,
+            50.840158
+          ],
+          [
+            4.356351,
+            50.840151
+          ],
+          [
+            4.356876,
+            50.840523
+          ],
+          [
+            4.356885,
+            50.840518
+          ],
+          [
+            4.356902,
+            50.840508
+          ],
+          [
+            4.356918,
+            50.840499
+          ],
+          [
+            4.356931,
+            50.840492
+          ],
+          [
+            4.356938,
+            50.840488
+          ],
+          [
+            4.356967,
+            50.840472
+          ],
+          [
+            4.356993,
+            50.840457
+          ],
+          [
+            4.357015,
+            50.840445
+          ],
+          [
+            4.357051,
+            50.840425
+          ],
+          [
+            4.357069,
+            50.840438
+          ],
+          [
+            4.357099,
+            50.840459
+          ],
+          [
+            4.357128,
+            50.84048
+          ],
+          [
+            4.357383,
+            50.840668
+          ],
+          [
+            4.357884,
+            50.841025
+          ],
+          [
+            4.357884,
+            50.841025
+          ],
+          [
+            4.357383,
+            50.840668
+          ],
+          [
+            4.357128,
+            50.84048
+          ],
+          [
+            4.357099,
+            50.840459
+          ],
+          [
+            4.357069,
+            50.840438
+          ],
+          [
+            4.357051,
+            50.840425
+          ],
+          [
+            4.356905,
+            50.840321
+          ],
+          [
+            4.356867,
+            50.840314
+          ],
+          [
+            4.356846,
+            50.8403
+          ],
+          [
+            4.356823,
+            50.840284
+          ],
+          [
+            4.356824,
+            50.840264
+          ],
+          [
+            4.356579,
+            50.840089
+          ],
+          [
+            4.356463,
+            50.840005
+          ],
+          [
+            4.356389,
+            50.839973
+          ],
+          [
+            4.356352,
+            50.839944
+          ],
+          [
+            4.356372,
+            50.839931
+          ],
+          [
+            4.356589,
+            50.839793
+          ],
+          [
+            4.357203,
+            50.839417
+          ],
+          [
+            4.357295,
+            50.83936
+          ],
+          [
+            4.357352,
+            50.839399
+          ],
+          [
+            4.357662,
+            50.839609
+          ],
+          [
+            4.357728,
+            50.839567
+          ],
+          [
+            4.357909,
+            50.839455
+          ],
+          [
+            4.357988,
+            50.839406
+          ],
+          [
+            4.358121,
+            50.83932
+          ],
+          [
+            4.358161,
+            50.839266
+          ],
+          [
+            4.358356,
+            50.839145
+          ],
+          [
+            4.35855,
+            50.839026
+          ],
+          [
+            4.358831,
+            50.838855
+          ],
+          [
+            4.358831,
+            50.838855
+          ],
+          [
+            4.35855,
+            50.839026
+          ],
+          [
+            4.358356,
+            50.839145
+          ],
+          [
+            4.358161,
+            50.839266
+          ],
+          [
+            4.358121,
+            50.83932
+          ],
+          [
+            4.357988,
+            50.839406
+          ],
+          [
+            4.357909,
+            50.839455
+          ],
+          [
+            4.357728,
+            50.839567
+          ],
+          [
+            4.357662,
+            50.839609
+          ],
+          [
+            4.357352,
+            50.839399
+          ],
+          [
+            4.357295,
+            50.83936
+          ],
+          [
+            4.357203,
+            50.839417
+          ],
+          [
+            4.356589,
+            50.839793
+          ],
+          [
+            4.356372,
+            50.839931
+          ],
+          [
+            4.356352,
+            50.839944
+          ],
+          [
+            4.356389,
+            50.839973
+          ],
+          [
+            4.356463,
+            50.840005
+          ],
+          [
+            4.356579,
+            50.840089
+          ],
+          [
+            4.356824,
+            50.840264
+          ],
+          [
+            4.356823,
+            50.840284
+          ],
+          [
+            4.356846,
+            50.8403
+          ],
+          [
+            4.356867,
+            50.840314
+          ],
+          [
+            4.356905,
+            50.840321
+          ],
+          [
+            4.357051,
+            50.840425
+          ],
+          [
+            4.357069,
+            50.840438
+          ],
+          [
+            4.357099,
+            50.840459
+          ],
+          [
+            4.357128,
+            50.84048
+          ],
+          [
+            4.357383,
+            50.840668
+          ],
+          [
+            4.357705,
+            50.840897
+          ],
+          [
+            4.357705,
+            50.840897
+          ],
+          [
+            4.357383,
+            50.840668
+          ],
+          [
+            4.357353,
+            50.840684
+          ],
+          [
+            4.357329,
+            50.840696
+          ],
+          [
+            4.357296,
+            50.840713
+          ],
+          [
+            4.357266,
+            50.840728
+          ],
+          [
+            4.357239,
+            50.840743
+          ],
+          [
+            4.357216,
+            50.840755
+          ],
+          [
+            4.357186,
+            50.840771
+          ],
+          [
+            4.357156,
+            50.840744
+          ],
+          [
+            4.357134,
+            50.840728
+          ],
+          [
+            4.357113,
+            50.840712
+          ],
+          [
+            4.357089,
+            50.840695
+          ],
+          [
+            4.357057,
+            50.840681
+          ],
+          [
+            4.357013,
+            50.84065
+          ],
+          [
+            4.356969,
+            50.840619
+          ],
+          [
+            4.356933,
+            50.840601
+          ],
+          [
+            4.356847,
+            50.840539
+          ],
+          [
+            4.356463,
+            50.840265
+          ],
+          [
+            4.356463,
+            50.840265
+          ],
+          [
+            4.356324,
+            50.840166
+          ],
+          [
+            4.356339,
+            50.840158
+          ],
+          [
+            4.356351,
+            50.840151
+          ],
+          [
+            4.356107,
+            50.839979
+          ],
+          [
+            4.356119,
+            50.839972
+          ],
+          [
+            4.356153,
+            50.839953
+          ],
+          [
+            4.356164,
+            50.839947
+          ],
+          [
+            4.356173,
+            50.839942
+          ],
+          [
+            4.356201,
+            50.839926
+          ],
+          [
+            4.356231,
+            50.839909
+          ],
+          [
+            4.356249,
+            50.839899
+          ],
+          [
+            4.356274,
+            50.839885
+          ],
+          [
+            4.356297,
+            50.839901
+          ],
+          [
+            4.356363,
+            50.839853
+          ],
+          [
+            4.356371,
+            50.839804
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              4.348887,
+              50.839471
+            ],
+            "instruction": "Walk northwest on Rue du Miroir/Spiegelstraat.",
+            "distanceM": 186,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346806,
+              50.84051
+            ],
+            "instruction": "Bear right onto Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346744,
+              50.840689
+            ],
+            "instruction": "Turn right to stay on Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346987,
+              50.840722
+            ],
+            "instruction": "Turn left to stay on Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 74,
+            "type": ""
+          },
+          {
+            "location": [
+              4.347463,
+              50.841289
+            ],
+            "instruction": "Bear right onto Place des Wallons/Walenplein.",
+            "distanceM": 43,
+            "type": ""
+          },
+          {
+            "location": [
+              4.347887,
+              50.841585
+            ],
+            "instruction": "Turn right to stay on Place des Wallons/Walenplein.",
+            "distanceM": 105,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349233,
+              50.841771
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349233,
+              50.841771
+            ],
+            "instruction": "Walk southwest on Rue des Ursulines/Ursulinenstraat.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              4.348798,
+              50.841572
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 53,
+            "type": ""
+          },
+          {
+            "location": [
+              4.348174,
+              50.841403
+            ],
+            "instruction": "Keep straight to take the walkway.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              4.347463,
+              50.841289
+            ],
+            "instruction": "Turn left onto Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 74,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346987,
+              50.840722
+            ],
+            "instruction": "Turn right to stay on Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346744,
+              50.840689
+            ],
+            "instruction": "Turn left to stay on Rue des Tanneurs/Huidevettersstraat.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              4.346806,
+              50.84051
+            ],
+            "instruction": "Keep left to take Rue du Miroir/Spiegelstraat.",
+            "distanceM": 204,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349088,
+              50.839375
+            ],
+            "instruction": "Turn right onto Rue Blaes/Blaesstraat.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349031,
+              50.839314
+            ],
+            "instruction": "Turn left onto Rue du Miroir/Spiegelstraat.",
+            "distanceM": 109,
+            "type": ""
+          },
+          {
+            "location": [
+              4.350215,
+              50.838694
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              4.350138,
+              50.838601
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349839,
+              50.838734
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.349839,
+              50.838734
+            ],
+            "instruction": "Walk southeast on the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              4.350138,
+              50.838601
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.350168,
+              50.838637
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              4.350233,
+              50.838614
+            ],
+            "instruction": "Turn left onto Rue Haute/Hoogstraat.",
+            "distanceM": 157,
+            "type": ""
+          },
+          {
+            "location": [
+              4.351011,
+              50.839929
+            ],
+            "instruction": "Turn right onto Rue du Temple/Tempelstraat.",
+            "distanceM": 123,
+            "type": ""
+          },
+          {
+            "location": [
+              4.352553,
+              50.839409
+            ],
+            "instruction": "Bear left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              4.352668,
+              50.839412
+            ],
+            "instruction": "Continue on Rue Charles Hanssens/Charles Hanssensstraat.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              4.353813,
+              50.839441
+            ],
+            "instruction": "Bear left onto Rue Ernest Allard/Ernest Allardstraat.",
+            "distanceM": 141,
+            "type": ""
+          },
+          {
+            "location": [
+              4.355052,
+              50.840434
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              4.355143,
+              50.840365
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 91,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356029,
+              50.839968
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 31,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356324,
+              50.840166
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356351,
+              50.840151
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 55,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356876,
+              50.840523
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357051,
+              50.840425
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 89,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357884,
+              50.841025
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357884,
+              50.841025
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 161,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356352,
+              50.839944
+            ],
+            "instruction": "Turn left onto Place du Petit Sablon/Kleine Zavel.",
+            "distanceM": 93,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357295,
+              50.83936
+            ],
+            "instruction": "Turn left onto Rue des Petits Carmes/Karmelietenstraat.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357662,
+              50.839609
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 118,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358831,
+              50.838855
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.358831,
+              50.838855
+            ],
+            "instruction": "Walk northwest.",
+            "distanceM": 118,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357662,
+              50.839609
+            ],
+            "instruction": "Turn left onto Rue des Petits Carmes/Karmelietenstraat.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357295,
+              50.83936
+            ],
+            "instruction": "Turn right onto Place du Petit Sablon/Kleine Zavel.",
+            "distanceM": 93,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356352,
+              50.839944
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356463,
+              50.840005
+            ],
+            "instruction": "Keep left to take the walkway.",
+            "distanceM": 132,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357705,
+              50.840897
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357705,
+              50.840897
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357383,
+              50.840668
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              4.357186,
+              50.840771
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 76,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356463,
+              50.840265
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356463,
+              50.840265
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356324,
+              50.840166
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356351,
+              50.840151
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356107,
+              50.839979
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356274,
+              50.839885
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356297,
+              50.839901
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              4.356371,
+              50.839804
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T10:51:59.009Z"
+        }
+      },
+      "cityId": "brussels",
+      "category": "Маршрут",
+      "title": "Мароль и Саблон: рынок под дворцом правосудия",
+      "subtitle": "Народные улицы, антикварный Саблон и громадный дворец над кварталом.",
+      "blurb": "Мароль ведёт от рынка и старых улиц к огромному дворцу правосудия и спокойным площадям Саблона.",
+      "mood": "history",
+      "accent": "#3344A3",
+      "soft": "#E3E5F2",
+      "deep": "#233076",
+      "ink": "#222C62",
+      "motif": "steam",
+      "duration": "3.5 hours",
+      "stops": 8,
+      "distance": "около 1,9 км",
+      "pace": "day",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Мароль и Саблон: рынок под дворцом правосудия"
+      },
+      "content": {
+        "intro": "Этот маршрут добавляет к парадному Брюсселю социальный и районный слой: рынок, рабочие улицы, языковую смесь, антикварные витрины и резкий масштаб Дворца правосудия. Пользователь учится замечать, как в нескольких кварталах соседствуют низовая городская жизнь, антикварная витрина, религиозная память и архитектура государственной силы. Как рассказать контраст Мароля и Саблона без романтизации бедности и без превращения маршрута в шопинг по антикварным лавкам?",
+        "routeLogic": "Маршрут идет от Шапельская церковь (Notre‑Dame de la Chapelle) к Площадь Grand Sablon. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
+        "bestFor": "Любители блошиных рынков и антикварных лавок\nПутешественники, интересующиеся городской историей и архитектурой\nТе, кто хочет увидеть нетуристическую сторону Брюсселя",
+        "notFor": "Путешественники с ограниченной мобильностью – часть маршрута проходит по брусчатке и под гору\nТе, кто предпочитает современные торговые центры и минимализм",
+        "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
+        "timing": "3.5 hours"
+      },
+      "stopList": [
+        {
+          "id": "brussels-sablon-marolles-justice-1",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 1,
+          "name": "Шапельская церковь (Notre‑Dame de la Chapelle)",
+          "note": "Самая старая действующая церковь Брюсселя отмечает начало вашего путешествия.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Шапельская церковь (Notre‑Dame de la Chapelle)».",
+          "content": {
+            "context": "Первым на вашем пути будет храм, соединяющий более семи веков истории. Церковь Notre‑Dame de la Chapelle была основана в XII веке, позже разрушена пожаром и перестроена в XV веке в пышном стиле фламандской готики с романскими трансептами. В XVII веке добавлена барочная колокольня, а в конце XX века проведена масштабная реставрация.\n\nВнутри вы увидите сочетание строгих столпов и изящных стрельчатых сводов, а также памятники двум известным горожанам: жандарму Франсуа Анеессенсу, казненному за сопротивление австрийским властям, и художнику Питеру Брёйгелю Старшему, который здесь венчался и похоронен. Церковь служит польской католической общине, что придаёт ей живую атмосферу.\n\nСнаружи обратите внимание на темную крышу и контрастные каменные фасады, которые резко выделяются на фоне окружающих домов. Рядом начинается Rue Haute – древняя торговая артерия, по которой вы продолжите путь.",
+            "lookFor": "Романские трансепты в северном и южном крыле\nГотические витражи и капители с растительными мотивами\nПамятную плиту Питера Брёйгеля Старшего, установленную его сыном",
+            "practical": "Часы работы: понедельник–пятница 09:00–18:30, суббота–воскресенье 10:00–18:30\nВход свободный, во время служб посетители просят сохранять тишину\nАдрес: Rue de la Chapelle 10",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Шапельская церковь (Notre‑Dame de la Chapelle)».",
+            "deepDive": [
+              {
+                "title": "Шапельская церковь (Notre‑Dame de la Chapelle)",
+                "body": "Первым на вашем пути будет храм, соединяющий более семи веков истории. Церковь Notre‑Dame de la Chapelle была основана в XII веке, позже разрушена пожаром и перестроена в XV веке в пышном стиле фламандской готики с романскими трансептами. В XVII веке добавлена барочная колокольня, а в конце XX века проведена масштабная реставрация.\n\nВнутри вы увидите сочетание строгих столпов и изящных стрельчатых сводов, а также памятники двум известным горожанам: жандарму Франсуа Анеессенсу, казненному за сопротивление австрийским властям, и художнику Питеру Брёйгелю Старшему, который здесь венчался и похоронен. Церковь служит польской католической общине, что придаёт ей живую атмосферу.\n\nСнаружи обратите внимание на темную крышу и контрастные каменные фасады, которые резко выделяются на фоне окружающих домов. Рядом начинается Rue Haute – древняя торговая артерия, по которой вы продолжите путь."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.8394,
+            "longitude": 4.3488
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-1-square.jpg",
+            "alt": "Église Notre-Dame-de-la-Chapelle, Brussels (DSCF1071)",
+            "attribution": {
+              "author": "Trougnouf / Benoit Brummer",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Notre-Dame-de-la-Chapelle,_Brussels_(DSCF1071).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-2",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 2,
+          "name": "Улица Rue Haute",
+          "note": "Одно из старейших шоссе Брюсселя ведёт вас в самое сердце Маролей.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Улица Rue Haute».",
+          "content": {
+            "context": "Rue Haute – это старейшая и самая длинная улица Маролей, проложенная ещё в римские времена. Она тянется более километра от Шапельской церкви до площадей Jeu de Balle и Grand Sablon. В XVII веке в соседнем монастыре Мариколлес сестры заботились о бедных – от их латинского названия ‘mariam colentes’ произошло имя квартала.\n\nНа протяжении веков Rue Haute была населена ремесленниками, трактирщиками и кинотеатрами. Сегодня её фасады хранят смеси эпох: старые каменные дома соседствуют с арт-нуво и социальным жильём. Особое внимание заслуживает комплекс Cité Hellemans, построенный в 1915 году архитектором Шарлем Хеллемансом для переселения людей из перенаселённых трущоб. Его три кирпичных корпуса с зелёными двориками стали образцом социального жилья.\n\nПрогуливаясь, загляните в многочисленные антикварные магазины и бары, где ещё слышны местные легенды. Эта улица – настоящая артерия Маролей, в которой чувствуется дух сопротивления. Именно отсюда жители в 1960‑х годах выступали против сноса своих домов из-за расширения дворца правосудия.",
+            "lookFor": "Краснокирпичный комплекс Cité Hellemans и его декоративные изразцы\nФрески и граффити на стенах, посвящённые социальной борьбе Маролей\nМагазины с винтажной мебелью и пластинками",
+            "practical": "Улица открыта круглосуточно; большинство магазинов работают с 10:00 до 18:00\nПереходите улицу осторожно – движение может быть интенсивным\nБудьте готовы к подъёму по брусчатке – удобная обувь обязательна",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Улица Rue Haute».",
+            "deepDive": [
+              {
+                "title": "Улица Rue Haute",
+                "body": "Rue Haute – это старейшая и самая длинная улица Маролей, проложенная ещё в римские времена. Она тянется более километра от Шапельской церкви до площадей Jeu de Balle и Grand Sablon. В XVII веке в соседнем монастыре Мариколлес сестры заботились о бедных – от их латинского названия ‘mariam colentes’ произошло имя квартала.\n\nНа протяжении веков Rue Haute была населена ремесленниками, трактирщиками и кинотеатрами. Сегодня её фасады хранят смеси эпох: старые каменные дома соседствуют с арт-нуво и социальным жильём. Особое внимание заслуживает комплекс Cité Hellemans, построенный в 1915 году архитектором Шарлем Хеллемансом для переселения людей из перенаселённых трущоб. Его три кирпичных корпуса с зелёными двориками стали образцом социального жилья.\n\nПрогуливаясь, загляните в многочисленные антикварные магазины и бары, где ещё слышны местные легенды. Эта улица – настоящая артерия Маролей, в которой чувствуется дух сопротивления. Именно отсюда жители в 1960‑х годах выступали против сноса своих домов из-за расширения дворца правосудия."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.842,
+            "longitude": 4.349
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-2-square.jpg",
+            "alt": "Bruxelles-Rue Haute 184 (1)",
+            "attribution": {
+              "author": "Romaine",
+              "license": "CC0 1.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruxelles-Rue_Haute_184_(1).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-3",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 3,
+          "name": "Площадь Jeu de Balle и блошиный рынок",
+          "note": "Здесь каждый день с рассвета продавцы раскладывают свои сокровища, а посетители ищут неожиданные находки.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Площадь Jeu de Balle и блошиный рынок».",
+          "content": {
+            "context": "Площадь Jeu de Balle – сердце Маролей. Ещё в XIX веке здесь играли в бельгийскую игру ‘jeu de balle’, а с 1873 года площадь превращается в ежедневный блошиный рынок. Более трёхсот лотков открываются рано утром, и город просыпается под звон будильников торговцев. Этот рынок известен как ‘старый рынок’: здесь найдёте все – от пластинок, книг и мебели до велосипедов и фарфора.\n\nПлощадь окружена зданиями разных эпох; слева от вас – внушительный красный дом Hellemans, а под землёй скрывается противовоздушный бункер, построенный в 1942 году и заново открытый в 2014 году. Рядом находится барельеф ‘Monument aux Vivants’ скульптора Мориса Вольфа – аллегория радости жизни и памяти жителей, лишившихся домов из-за расширения дворца правосудия.\n\nВоздух пропитан ароматами кофе, горячего вина и жареных вафель. Здесь легко потерять счёт времени: даже если ничего не купите, наблюдать за торгом и слушать диалекты – настоящее удовольствие.",
+            "lookFor": "Необычные предметы, старинные игрушки и записи\nБарельеф ‘Monument aux Vivants’ на стене у южного выхода\nСледы старых игр на брусчатке – от игры в мяч, давшей название площади",
+            "practical": "Рынок работает ежедневно: понедельник–пятница 06:00–14:00, выходные до 15:00\nСделки заключаются наличными, банки рядом есть, но лучше подготовить мелкие купюры\nСледите за вещами – рынок очень оживлён",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Площадь Jeu de Balle и блошиный рынок».",
+            "deepDive": [
+              {
+                "title": "Площадь Jeu de Balle и блошиный рынок",
+                "body": "Площадь Jeu de Balle – сердце Маролей. Ещё в XIX веке здесь играли в бельгийскую игру ‘jeu de balle’, а с 1873 года площадь превращается в ежедневный блошиный рынок. Более трёхсот лотков открываются рано утром, и город просыпается под звон будильников торговцев. Этот рынок известен как ‘старый рынок’: здесь найдёте все – от пластинок, книг и мебели до велосипедов и фарфора.\n\nПлощадь окружена зданиями разных эпох; слева от вас – внушительный красный дом Hellemans, а под землёй скрывается противовоздушный бункер, построенный в 1942 году и заново открытый в 2014 году. Рядом находится барельеф ‘Monument aux Vivants’ скульптора Мориса Вольфа – аллегория радости жизни и памяти жителей, лишившихся домов из-за расширения дворца правосудия.\n\nВоздух пропитан ароматами кофе, горячего вина и жареных вафель. Здесь легко потерять счёт времени: даже если ничего не купите, наблюдать за торгом и слушать диалекты – настоящее удовольствие."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.8387,
+            "longitude": 4.3498
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-3-square.jpg",
+            "alt": "Place du Jeu de Balle flea market in Brussels",
+            "attribution": {
+              "author": "DimiTalen",
+              "license": "CC0 1.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flea_market_at_Place_du_Jeu_de_Balle,_Brussels,_2024_(2).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-4",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 4,
+          "name": "Лифт Poelaert и смотровая площадка",
+          "note": "За секунды вы подниметесь на 55 метров и увидите весь Брюссель как на ладони.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Лифт Poelaert и смотровая площадка».",
+          "content": {
+            "context": "Чтобы преодолеть крутой склон между нижним городом и площадью Poelaert, в 2002 году построили стеклянный лифт Poelaert. Он поднимает вас на высоту около 55 метров за считанные секунды. Лифт стал важной частью городской инфраструктуры, обеспечивая доступность районам Мароль и Саблон.\n\nНаверху находится открытая смотровая площадка, откуда открывается потрясающий вид на старый город, дворец правосудия и дальние районы. Стеклянные кабины создают ощущение полёта, а с верхней платформы видно даже башню Ратуши на Гран‑Плас.\n\nЭтот лифт напоминает о постоянных усилиях города соединить социально разные районы и облегчить жизнь местным жителям. Недалеко от выхода вы увидите памятник архитектору Жозефу Пуалаэрту, чьё имя носит площадь.",
+            "lookFor": "Панораму Маролей с крышами и дворцом правосудия\nСтеклянные кабины лифта с зеркальными отражениями\nБарельеф архитектора Жозефа Пуалаэрта у входа",
+            "practical": "Лифт работает ежедневно с 07:00 до 23:30; смотровая площадка открыта круглосуточно\nВход бесплатный; иногда может быть очередь\nЛифт оборудован для людей с ограниченной подвижностью",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Лифт Poelaert и смотровая площадка».",
+            "deepDive": [
+              {
+                "title": "Лифт Poelaert и смотровая площадка",
+                "body": "Чтобы преодолеть крутой склон между нижним городом и площадью Poelaert, в 2002 году построили стеклянный лифт Poelaert. Он поднимает вас на высоту около 55 метров за считанные секунды. Лифт стал важной частью городской инфраструктуры, обеспечивая доступность районам Мароль и Саблон.\n\nНаверху находится открытая смотровая площадка, откуда открывается потрясающий вид на старый город, дворец правосудия и дальние районы. Стеклянные кабины создают ощущение полёта, а с верхней платформы видно даже башню Ратуши на Гран‑Плас.\n\nЭтот лифт напоминает о постоянных усилиях города соединить социально разные районы и облегчить жизнь местным жителям. Недалеко от выхода вы увидите памятник архитектору Жозефу Пуалаэрту, чьё имя носит площадь."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.84096,
+            "longitude": 4.358
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-4-square.jpg",
+            "alt": "Brussels-Public elevator at Marolles (1)",
+            "attribution": {
+              "author": "Zairon",
+              "license": "CC0 1.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels-Public_elevator_at_Marolles_(1).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-5",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 5,
+          "name": "Дворец правосудия (Palais de Justice)",
+          "note": "Величественный храм закона до сих пор скрыт в строительных лесах – и в этом отражается судьба всего района.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Дворец правосудия (Palais de Justice)».",
+          "content": {
+            "context": "Дворец правосудия на холме Пуалаэрт – одно из крупнейших зданий своего времени. Его строительство началось в 1866 году при короле Леопольде I и завершилось в 1883 году уже после смерти архитектора Жозефа Пуалаэрта. Площадь здания составляет 26 000 м², а центральный купол высотой 104 метра делает его видимым практически из любого уголка Брюсселя.\n\nАрхитектура представляет собой смесь неоклассики и эклектики: массивный портик, огромные колонны и символические украшения отражают стремление Бельгии к независимости и правопорядку. Однако строительство сопровождалось скандалами: ради него снесли целый квартал Маролей, вызвав массовые протесты и ‘битву за Мароли’. Местные жители до сих пор называют его ‘монстром’ – за то, что он нависает над их домами.\n\nС 1984 года фасады дворца покрыты строительными лесами: начатая реставрация затянулась из-за технических сложностей. Внутри находится грандиозная лестница и залы суда, посещение которых возможно только в составе экскурсии. Тем не менее, даже снаружи дворец производит впечатление и напоминает о роли справедливости в истории города.",
+            "lookFor": "Грандиозная лестница у главного входа\nСтатуи, изображающие Закон и Правосудие\nВид на город через строительные леса",
+            "practical": "Здание открыто для публичных экскурсий по расписанию; уточняйте на официальном сайте\nБесплатно осмотреть внешний фасад можно в любое время\nБудьте готовы к реставрационным работам и ограниченному доступу",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Дворец правосудия (Palais de Justice)».",
+            "deepDive": [
+              {
+                "title": "Дворец правосудия (Palais de Justice)",
+                "body": "Дворец правосудия на холме Пуалаэрт – одно из крупнейших зданий своего времени. Его строительство началось в 1866 году при короле Леопольде I и завершилось в 1883 году уже после смерти архитектора Жозефа Пуалаэрта. Площадь здания составляет 26 000 м², а центральный купол высотой 104 метра делает его видимым практически из любого уголка Брюсселя.\n\nАрхитектура представляет собой смесь неоклассики и эклектики: массивный портик, огромные колонны и символические украшения отражают стремление Бельгии к независимости и правопорядку. Однако строительство сопровождалось скандалами: ради него снесли целый квартал Маролей, вызвав массовые протесты и ‘битву за Мароли’. Местные жители до сих пор называют его ‘монстром’ – за то, что он нависает над их домами.\n\nС 1984 года фасады дворца покрыты строительными лесами: начатая реставрация затянулась из-за технических сложностей. Внутри находится грандиозная лестница и залы суда, посещение которых возможно только в составе экскурсии. Тем не менее, даже снаружи дворец производит впечатление и напоминает о роли справедливости в истории города."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.8389,
+            "longitude": 4.3589
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-5-square.jpg",
+            "alt": "BEL Brussels, Palais de Justice 001",
+            "attribution": {
+              "author": "Marc Ryckaert",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:BEL_Brussels,_Palais_de_Justice_001.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-6",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 6,
+          "name": "Сквер Petit Sablon",
+          "note": "Уютный сад с 48 бронзовыми фигурами даёт передышку между двумя церквями.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Сквер Petit Sablon».",
+          "content": {
+            "context": "Этот ухоженный сад в фламандском неоренессансном стиле появился в 1890 году. Бургомистр Шарль Бюльс поручил архитектору Анри Беярту создать мемориальный парк на месте старого кладбища церковного прихода. Получился идеальный симметричный оазис с цветниками, газонами и фонтаном.\n\nСимволизм читается в каждой детали. Девять клумб из самшита представляют девять провинций Бельгии, а ещё одна, в форме короны, – самого короля. Вокруг ограды установлены 48 бронзовых статуй, изображающих средневековые гильдии Брюсселя, а по центру возвышается фонтан с фигурами графов Эгмонта и Горна – героев сопротивления испанскому владычеству.\n\nСквер окружён кованой оградой, внутри царит спокойствие. Здесь местные жители читают и обсуждают новости, а туристы любуются видом на соседнюю церковь Notre‑Dame du Sablon. Весной цветочные клумбы особенно красивы.",
+            "lookFor": "Фигуры ремесленников – от каменщиков до брадобреев\nФонтан с графами Эгмонтом и Гором\nСамшитовые клумбы, представляющие регионы Бельгии",
+            "practical": "Сквер открыт 1 октября – 31 марта с 09:30 до 16:45; 1 – 30 апреля с 08:15 до 18:30; 1 мая – 31 августа с 08:15 до 20:30; 1 – 30 сентября с 08:15 до 19:30\nПоследний вход за 15 минут до закрытия\nВход свободный, собаки не допускаются",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Сквер Petit Sablon».",
+            "deepDive": [
+              {
+                "title": "Сквер Petit Sablon",
+                "body": "Этот ухоженный сад в фламандском неоренессансном стиле появился в 1890 году. Бургомистр Шарль Бюльс поручил архитектору Анри Беярту создать мемориальный парк на месте старого кладбища церковного прихода. Получился идеальный симметричный оазис с цветниками, газонами и фонтаном.\n\nСимволизм читается в каждой детали. Девять клумб из самшита представляют девять провинций Бельгии, а ещё одна, в форме короны, – самого короля. Вокруг ограды установлены 48 бронзовых статуй, изображающих средневековые гильдии Брюсселя, а по центру возвышается фонтан с фигурами графов Эгмонта и Горна – героев сопротивления испанскому владычеству.\n\nСквер окружён кованой оградой, внутри царит спокойствие. Здесь местные жители читают и обсуждают новости, а туристы любуются видом на соседнюю церковь Notre‑Dame du Sablon. Весной цветочные клумбы особенно красивы."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.84076,
+            "longitude": 4.35795
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-6-square.jpg",
+            "alt": "Bruxelles - Square du Petit Sablon (48203310892)",
+            "attribution": {
+              "author": "Fred Romero",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Square_du_Petit_Sablon_(48203310892).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-7",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 7,
+          "name": "Церковь Notre‑Dame du Sablon",
+          "note": "Готический силуэт церкви на Саблоне напоминает о чудесной статуе Богоматери и привилегиях стрелков-копьеносцев.",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута после остановки «Церковь Notre‑Dame du Sablon».",
+          "content": {
+            "context": "Церковь Notre‑Dame du Sablon, или церковь Победы, – одна из трёх сохранившихся готических церквей Брюсселя. В 1304 году гильдия арбалетчиков построила здесь небольшую часовню, а спустя столетие, после прибытия в город чудотворной статуи Богоматери из Антверпена, началось строительство грандиозного храма. Работы растянулись почти на век, и в результате появился яркий пример брабантской готики: стройные колонны, ажурные контрфорсы и светлый камень.\n\nВнутри церковь поражает витиеватыми капеллами XVII века, где похоронены знатные семьи. Цветные витражи рассказывают историю арбалетчиков и шествия Ommegang, во время которого статую Богоматери ежегодно носили к Гранд‑Плас. В 1936 году храм получил статус исторического памятника, благодаря чему он избежал модернизаций.\n\nСегодня Notre‑Dame du Sablon – излюбленное место свадеб и концертов. Снаружи она служит ориентиром для многочисленных антикварных лавок, а в выходные вокруг кипит жизнь: торговцы съезжаются на антикварный рынок Grand Sablon.",
+            "lookFor": "Барочные капеллы с белым мрамором и позолотой\nВитражи, изображающие шествие Ommegang и арбалетчиков\nКаменную статую Богоматери – копию чудотворной фигуры",
+            "practical": "Церковь открыта ежедневно приблизительно с 09:00 до 18:00; вход свободный\nВо время свадеб доступ к боковым капеллам может быть ограничен\nАдрес: Rue des Sablons 30",
+            "nextMove": "Продолжайте к следующей точке маршрута после остановки «Церковь Notre‑Dame du Sablon».",
+            "deepDive": [
+              {
+                "title": "Церковь Notre‑Dame du Sablon",
+                "body": "Церковь Notre‑Dame du Sablon, или церковь Победы, – одна из трёх сохранившихся готических церквей Брюсселя. В 1304 году гильдия арбалетчиков построила здесь небольшую часовню, а спустя столетие, после прибытия в город чудотворной статуи Богоматери из Антверпена, началось строительство грандиозного храма. Работы растянулись почти на век, и в результате появился яркий пример брабантской готики: стройные колонны, ажурные контрфорсы и светлый камень.\n\nВнутри церковь поражает витиеватыми капеллами XVII века, где похоронены знатные семьи. Цветные витражи рассказывают историю арбалетчиков и шествия Ommegang, во время которого статую Богоматери ежегодно носили к Гранд‑Плас. В 1936 году храм получил статус исторического памятника, благодаря чему он избежал модернизаций.\n\nСегодня Notre‑Dame du Sablon – излюбленное место свадеб и концертов. Снаружи она служит ориентиром для многочисленных антикварных лавок, а в выходные вокруг кипит жизнь: торговцы съезжаются на антикварный рынок Grand Sablon."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.8403,
+            "longitude": 4.3564
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-7-square.jpg",
+            "alt": "Notre Dame du Sablon (8293234547)",
+            "attribution": {
+              "author": "Steve Collis",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre_Dame_du_Sablon_(8293234547).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "brussels-sablon-marolles-justice-8",
+          "guideId": "brussels-sablon-marolles-justice",
+          "order": 8,
+          "name": "Площадь Grand Sablon",
+          "note": "Финал прогулки – аристократическая площадь, где антиквариат встречается с шоколадом.",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "Grand Sablon когда-то был песчаным полем за городскими стенами, где проходили турниры и ярмарки. В XVI веке сюда переехала знать, построив роскошные особняки, и площадь постепенно стала одной из самых престижных в Брюсселе. Сегодня она по‑прежнему сохраняет этот шарм: вдоль фасадов расположились галереи, бутики и лучшие шоколадные магазины города.\n\nПо субботам и воскресеньям здесь проводится антикварный рынок. Торговцы выставляют серебро, фарфор, ювелирные украшения и старинные открытки. Местная атмосфера отличается от блошиного рынка: цены выше, но и качество товара другое. Сюда приходят коллекционеры в поисках редких часов или мебели.\n\nПомимо антиквариата, Grand Sablon известен своими шоколатье – Pierre Marcolini, Neuhaus и Wittamer. После прогулки по рынку зайдите в одну из кондитерских и попробуйте пралине или горячий шоколад. Площадь окружена террасами, откуда можно наблюдать за жизнью Саблона и церковью Notre‑Dame du Sablon.",
+            "lookFor": "Уикенд‑рынок антиквариата – серебро, фарфор, старинные книги\nШоколадные бутики и кондитерские, в том числе знаменитая Pierre Marcolini\nКаменные особняки и вид на шпиль Notre‑Dame du Sablon",
+            "practical": "Антикварный рынок работает: суббота 09:00–17:00, воскресенье 09:00–14:00\nБольшинство магазинов открыто с 10:00 до 19:00\nЦены выше, чем на барахолке, но продавцы готовы торговаться",
+            "nextMove": "Маршрут завершён.",
+            "deepDive": [
+              {
+                "title": "Площадь Grand Sablon",
+                "body": "Grand Sablon когда-то был песчаным полем за городскими стенами, где проходили турниры и ярмарки. В XVI веке сюда переехала знать, построив роскошные особняки, и площадь постепенно стала одной из самых престижных в Брюсселе. Сегодня она по‑прежнему сохраняет этот шарм: вдоль фасадов расположились галереи, бутики и лучшие шоколадные магазины города.\n\nПо субботам и воскресеньям здесь проводится антикварный рынок. Торговцы выставляют серебро, фарфор, ювелирные украшения и старинные открытки. Местная атмосфера отличается от блошиного рынка: цены выше, но и качество товара другое. Сюда приходят коллекционеры в поисках редких часов или мебели.\n\nПомимо антиквариата, Grand Sablon известен своими шоколатье – Pierre Marcolini, Neuhaus и Wittamer. После прогулки по рынку зайдите в одну из кондитерских и попробуйте пралине или горячий шоколад. Площадь окружена террасами, откуда можно наблюдать за жизнью Саблона и церковью Notre‑Dame du Sablon."
+              }
+            ]
+          },
+          "coordinates": {
+            "latitude": 50.8398,
+            "longitude": 4.3563
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photo": {
+            "id": "brussels-sablon-marolles-justice-stop-8",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-8-square.jpg",
+            "alt": "20180907 Grand Sablon Square",
+            "attribution": {
+              "author": "Wouter Hagens",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:20180907_Grand_Sablon_Square.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "brussels-sablon-marolles-justice-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-cover-square.jpg",
+        "alt": "Сгенерированная editorial-обложка маршрута «brussels-sablon-marolles-justice»"
+      },
+      "basemap": {
+        "image": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-basemap.png",
+        "center": {
+          "latitude": 50.84035,
+          "longitude": 4.3538499999999996
+        },
+        "zoom": 16,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
     }
   ],
   "locale": "en",
@@ -3615,7 +7332,701 @@
       "sourceIds": [
         "src-religiana-saintgilles"
       ]
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-1",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 1,
+      "name": "Брюссельский парк",
+      "note": "Самая старая зелёная сцена столицы",
+      "time": "15 мин",
+      "walk": "Перейдите площадь Place des Palais к Королевскому дворцу.",
+      "content": {
+        "context": "Начните прогулку со входа на угол Rue Royale и Place des Palais. Перед вами раскрывается строгая геометрия самого старого городского парка Брюсселя. Широкие аллеи, обсаженные липами, вытягиваются как коридоры, открывая перспективы на статуи античных богов. Этот парк был разбит в конце XVIII века на месте сада герцогов Бургундских и губернаторов Нидерландов — прежняя роскошь уступила место неоклассическому порядку. Слева через широкую аллею сияют крыши парламента, а впереди за деревьями угадывается фасад королевского дворца. Небольшие фонтаны и цветники напоминают о масштабной реставрации 2000–2002 годов, вернувшей аллеям первоначальные линии. Пройдитесь по центральной аллее, вдыхая аромат лип, и представьте, как после революций именно здесь горожане впервые получили свободный доступ к королевским садам.",
+        "lookFor": "длинные неоклассические аллеи скульптуры античных богов и муз вид на фасад парламента через деревья",
+        "practical": "Вход свободный. Дежурство охраны — 08:00–21:00, но парк открыт круглосуточно при хорошей погоде. Будьте готовы к возможному закрытию при штормовом ветре. Туалеты находятся у южной аллеи, вокруг площадей — кафе и киоски.",
+        "nextMove": "Перейдите площадь Place des Palais к Королевскому дворцу.",
+        "deepDive": [
+          {
+            "title": "От герцогского сада к общественному парку",
+            "body": "До середины XVIII века на этом месте находился частный сад герцогов Бургундских. После революций власти решили подарить городу открытое пространство, и в 1776–1783 годах здесь разбили парк по строгим планам французских архитекторов. Две прямые оси подчёркивают симметрию дворца и парламента. В XIX веке парк пережил бурную историю — здесь проходили парады, революционные митинги и народные гулянья."
+          }
+        ],
+        "sourceNote": "Часы и история подтверждены сайтом Brussels Gardens; проверено 18.06.2026"
+      },
+      "entry": "свободно",
+      "nameLocal": "Parc de Bruxelles",
+      "coordinates": {
+        "latitude": 50.8426,
+        "longitude": 4.365
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Круглосуточно; закрывается только при сильном ветре; охрана ежедневно 08:00–21:00",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-1",
+      "sourceIds": [
+        "src-park-info",
+        "src-park-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-1-square.jpg",
+        "alt": "Аллеи Парка Брюссель, обрамлённые деревьями",
+        "attribution": {
+          "author": "Giorgio Galeotti",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_de_Bruxelles_-_Bruxelles,_Belgium_-_October_31,_2010.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-2",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 2,
+      "name": "Королевский дворец",
+      "note": "Рабочий дворец бельгийского монарха",
+      "time": "45 мин",
+      "walk": "Поверните вправо к неоклассической Площади Королевской.",
+      "content": {
+        "context": "Стоя на площади перед дворцом, обратите внимание на зеркальную симметрию фасада. Широкий портик поддерживают колонны, а по сторонам тянутся длинные крылья XVIII века — одно из них по‑прежнему занимает королевская администрация, другое превратилось в музей BELvue. Дворец был построен после пожара 1731 года, который уничтожил старый замок Куденберг. Первые планы в стиле ампир реализовал король Вильгельм I в 1820‑х, а нынешний облик — строгий стиль Людовика XVI — появился при Леопольде II в начале XX века. Это не резиденция: король и его семья живут в замке Лакен, а здесь — его рабочие кабинеты и залы для аудиенций и приёмов. Ежегодно, вскоре после национального праздника 21 июля, дворец открывают для посетителей: вы можете пройти через зеркальные залы, тронный зал и кабинет короля, пока зелёно‑золотые интерьеры не затянут чехлами вновь. Если флаг над зданием поднят, монарх находится в стране.",
+        "lookFor": "королевский штандарт на крыше барельефы и колонны фасада перспектива на парк через Place des Palais",
+        "practical": "Билет 10 €; дети до 12 лет — бесплатно. Предварительное бронирование временного слота обязательно на официальном сайте. Вход через центральный портал на Place des Palais; охрана и контроль безопасности — как в аэропорту, возьмите удостоверение личности. Вне летнего периода дворец можно осмотреть только снаружи.",
+        "nextMove": "Поверните вправо к неоклассической Площади Королевской.",
+        "deepDive": [
+          {
+            "title": "Рабочий дворец при конституционной монархии",
+            "body": "В Бельгии король не правит единолично. Символическая ось между дворцом и парламентом через парк напоминает о балансе власти. Здание вмещает кабинеты короля, королевы и их двора, включая военное и гражданское ведомства. Здесь проходят церемонии присяги правительства и дипломатические приёмы. Жилая резиденция находится в Лакене, поэтому дворец в центре остаётся открытым для горожан."
+          }
+        ],
+        "sourceNote": "История и часы — по данным visit.brussels и официального дворцового сайта; цены подтверждены на 2026 год."
+      },
+      "entry": "по билету",
+      "nameLocal": "Palais Royal de Bruxelles",
+      "coordinates": {
+        "latitude": 50.8422,
+        "longitude": 4.361
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открыт для публики только летом: 3 июля – 16 августа 2026, вт–вс 10:30–17:00 (последний вход 16:00); закрыт по понедельникам и 15–16, 21–22 июля; остальное время доступен только снаружи.",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-2",
+      "sourceIds": [
+        "src-palace-info",
+        "src-palace-ticket",
+        "src-palace-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-2-square.jpg",
+        "alt": "Неоклассический фасад Королевского дворца Брюсселя",
+        "attribution": {
+          "author": "Michal Osmenda",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Brussels_(8132628822).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-3",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 3,
+      "name": "Площадь Королевская",
+      "note": "Неоклассическая площадь с тайной под землёй",
+      "time": "10 мин",
+      "walk": "Пройдите в сторону церкви Сен‑Жак и войдите в музей BELvue, где находится спуск к руинам Куденберга.",
+      "content": {
+        "context": "Подойдите к конной статуе Готфрида Бульонского — крестоносца, который впервые возглавил захват Иерусалима. Площадь Королевская, созданная в 1776–1782 годах на месте выгоревшего дворца Куденберг, стала примером французской королевской площади: симметричные фасады, строгие портики и одинаковые высоты. Архитекторы Жан‑Бенуа Винсан Барре, Иоахим Циннер и Барнабэ Гимар спроектировали комплекс так, чтобы он подчёркивал власть монарха и открывал доступ к парку. Сегодня под вашими ногами скрываются руины старого дворца, к которым ещё предстоит спуститься. В 2026 году площадь переживает обновление: автомобильное движение сведено к минимуму, новые фонари и гранитная мощёная поверхность делают пространство уютным для пешеходов. С разных сторон видны сразу несколько институтов: церковь Сен‑Жак‑сюр‑Куденберг, Белвью, дворец искусств и музеи. Это сердце королевского ансамбля.",
+        "lookFor": "конная статуя Готфрида Бульонского симметричные неоклассические фасады вход в подземный археологический музей",
+        "practical": "Площадь открыта всегда. Из-за реконструкции движение автомобилей ограничено; пешеходам предоставлены широкие зоны. Остерегайтесь трамваев 92 и 93, которые пересекают площадь.",
+        "nextMove": "Пройдите в сторону церкви Сен‑Жак и войдите в музей BELvue, где находится спуск к руинам Куденберга.",
+        "deepDive": [
+          {
+            "title": "Пожар, который создал новую площадь",
+            "body": "В 1731 году пожар уничтожил дворцовый комплекс на холме Куденберг. Городские власти приняли решение засыпать руины и создать новый ансамбль. Площадь получила единую высоту и фасады, чтобы подчеркнуть силу центральной власти. В центре поставили статую Готфрида Бульонского — героя Первого крестового похода, который стал символом новой европейской столицы."
+          }
+        ],
+        "sourceNote": "Исторические факты и сведения о реконструкции подтверждены публикацией Bruxelles Secrète."
+      },
+      "entry": "снаружи",
+      "nameLocal": "Place Royale / Koningsplein",
+      "coordinates": {
+        "latitude": 50.8421,
+        "longitude": 4.3592
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Доступна круглосуточно; в 2026 году ведётся реконструкция и сокращено движение автотранспорта",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-3",
+      "sourceIds": [
+        "src-place-royale-history",
+        "src-place-royale-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-3-square.jpg",
+        "alt": "Конная статуя на Площади Королевской с окружающими зданиями",
+        "attribution": {
+          "author": "-wuppertaler",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BEL_Brussels,_Place_Royale_001.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-4",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 4,
+      "name": "Археологический сайт Куденберг",
+      "note": "Подземные руины двора Бургундских герцогов",
+      "time": "40 мин",
+      "walk": "Поднимитесь на поверхность и следуйте вдоль Rue de la Régence к Королевским музеям изящных искусств.",
+      "content": {
+        "context": "Через вход в музей BELvue вы попадаете под землю и буквально проходите по улицам, засыпанным почти три столетия назад. Узкие коридоры и сводчатые проходы — это бывшая улица Изабеллы, по которой некогда ездили кареты. Вы увидите фрагменты готической Аулы Магна, где в 1555 году император Карл V отрёкся от престола, погреба и кухни дворца. Подземелье прохладное и таинственное: мощные стены и каменные своды напоминают, что с XII века Куденберг был одной из главных резиденций Бургундских герцогов и Габсбургов. Пожар 1731 года превратил комплекс в руины, которые затем засыпали, чтобы выровнять холм для строительства нового района. Сегодня археологи вновь открывают эти пространства, а вы — один из немногих, кто может пройти по ним.",
+        "lookFor": "протяжённые своды улицы Изабеллы фрагменты керамики и витражей в витринах ниши древних винных погребов",
+        "practical": "Вход по билету 10 €; комбинированный билет с BELvue — 18 €. Скидки для студентов и пенсионеров; до 18 лет — бесплатно. Вход через музей BELvue. В прохладных подземельях иногда влажно — возьмите тёплую одежду. Закрыто по понедельникам и государственным праздникам.",
+        "nextMove": "Поднимитесь на поверхность и следуйте вдоль Rue de la Régence к Королевским музеям изящных искусств.",
+        "deepDive": [
+          {
+            "title": "Дворец Карла V и его исчезновение",
+            "body": "Куденберг был одним из центров Европейского двора: здесь принимали послов, проводили рыцарские турниры и устраивали пиры. В 1555 году в Ауле Магна Карл V передал власть своему сыну Филиппу II — событие, считающееся символом перехода мирового господства. После разрушительного пожара комплекс замело слоями земли, и лишь в конце XX века археологи восстановили подземные маршруты для публики."
+          }
+        ],
+        "sourceNote": "Часы, цены и история — по информации Brussels Museums и официального сайта археологического комплекса."
+      },
+      "entry": "по билету",
+      "nameLocal": "Coudenberg Archaeological Site",
+      "coordinates": {
+        "latitude": 50.842,
+        "longitude": 4.3578
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Вт–Пт 9:30–17:00; сб–вс и в июле–августе 10:00–18:00; закрыто по понедельникам; закрыто 1 янв, 21 июл, 25 дек; 24 и 31 дек — закрывается в 16:00.",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-4",
+      "sourceIds": [
+        "src-coudenberg-info",
+        "src-coudenberg-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-4-square.jpg",
+        "alt": "Исторические здания вдоль холма Куденберг",
+        "attribution": {
+          "author": "Julian Lupyan",
+          "license": "CC0 1.0 Public Domain; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_the_Coudenberg,_Brussels,_Belgium.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-5",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 5,
+      "name": "Королевские музеи изящных искусств",
+      "note": "Сокровищница старых мастеров и Магритта",
+      "time": "60 мин",
+      "walk": "Пройдите несколько шагов по улице к соседнему Центру изящных искусств (BOZAR).",
+      "content": {
+        "context": "У подножия Rue de la Régence стоит величественный комплекс Альфонса Балата — ученика Виктора Орта. Здание было построено к 1880 году как Дворец изящных искусств и вскоре превратилось в Музей древнего искусства. Сегодня в нём помещаются шесть музеев: от старых мастеров до современного искусства, отдельные пространства посвящены Брейгелю, Босху, Рубенсу, а также сюрреалисту Рене Магритту. В светлых залах с высокими окнами висят монументальные полотна, а нижние уровни соединены с подземным музеем Фин‑де‑Сиекль. Поднимитесь по величественной лестнице на второй этаж и найдите зал с полотнами Брейгеля — картина «Сенокос» поражает своим многофигурным рассказом. Затем зайдите в соседний корпус, где в трёх уровнях разворачивается мир Магритта: труба, которая не труба, и парадоксальные окна предлагают увидеть реальность по‑новому.",
+        "lookFor": "бронзовые барельефы фасада звонкую лестницу с мраморными колоннами зал Магритта с парадоксальными окнами",
+        "practical": "Стандартный билет 15 €; есть комбинированные билеты на несколько музеев. Дети и молодёжь до 18 лет — бесплатно; студенты и пенсионеры получают скидку. Музеи закрыты по понедельникам; кассы перестают продавать билеты за 30 мин до закрытия. В гардеробе есть шкафчики; крупные сумки запрещены.",
+        "nextMove": "Пройдите несколько шагов по улице к соседнему Центру изящных искусств (BOZAR).",
+        "deepDive": [
+          {
+            "title": "От дворца к музею",
+            "body": "Первоначально здание на Rue de la Régence было построено архитектором Альфонсом Балатом по заказу короля Леопольда II для Всемирной выставки 1880 года. Уже через семь лет оно утратило функцию выставочного дворца и стало хранилищем древнего искусства. В 1927 году все коллекции объединяют под названием Королевские музеи изящных искусств Бельгии. Сегодня это целый музейный квартал с постоянными и временными выставками."
+          }
+        ],
+        "sourceNote": "Часы и исторические сведения взяты с официального сайта Royal Museums of Fine Arts; фотография для этой остановки пока не найдена."
+      },
+      "entry": "по билету",
+      "nameLocal": "Musées royaux des Beaux-Arts de Belgique",
+      "coordinates": {
+        "latitude": 50.8423,
+        "longitude": 4.3568
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Музей старых мастеров и музей Магритта: вт–пт 10:00–17:00, сб–вс 11:00–18:00; кассы закрываются за 30 минут; закрыто по понедельникам и в праздники (1 янв, 1 май, 6 июн, 1 ноя); 24 и 31 дек — закрывается в 15:00.",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-5",
+      "sourceIds": [
+        "src-museum-history",
+        "src-museum-hours"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-5-square.jpg",
+        "alt": "Royal Museums of Fine Arts of Belgium facade",
+        "attribution": {
+          "author": "Yair Haklai",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Royal_Museums_of_Fine_Arts_of_Belgium.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-6",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 6,
+      "name": "Центр изящных искусств (BOZAR)",
+      "note": "Арт‑деко Виктора Орта",
+      "time": "30 мин",
+      "walk": "Спуститесь по лестнице вдоль Rue Montagne de la Cour к террасному саду Мон‑де‑Зар.",
+      "content": {
+        "context": "Серый фасад, частично спрятанный за магазинами на Rue Royale, скрывает один из самых смелых проектов Виктора Орта. В 1920‑е годы архитектор отошёл от изысканного ар‑нуво и создал геометричный Арт‑деко‑центр, который соединяет верхний и нижний город. Ограничения по высоте — король требовал, чтобы здание не загораживало обзор из дворца — заставили Орта зарыть половину объёма под землю. Внутри свет льётся сверху через стеклянные атриумы, освещая выставочные залы и лестницы. BOZAR сегодня — мультидисциплинарный центр: здесь проходят художественные выставки, кинопоказы, лекции, а в подземном зале ‘Henri Le Bœuf’ звучат концерты мирового уровня. Прогуляйтесь по галерее вдоль восточного фасада, почувствуйте игру света и бетона, а затем загляните на одну из временных экспозиций, чтобы увидеть, как современное искусство вписывается в исторический квартал.",
+        "lookFor": "геометрические линии ар‑деко на фасаде подземный концертный зал с деревянными акустическими панелями световой атриум с витражами",
+        "practical": "Входной билет зависит от конкретной выставки; фойе и кафе обычно свободны. Кассы работают 10:00–17:00. Закрыто по понедельникам; 24 и 31 дек — короткий день до 16:00. Гардероб обязателен для больших сумок; проверьте расписание концертов на сайте заранее.",
+        "nextMove": "Спуститесь по лестнице вдоль Rue Montagne de la Cour к террасному саду Мон‑де‑Зар.",
+        "deepDive": [
+          {
+            "title": "Хорта: от ар‑нуво к ар‑деко",
+            "body": "Виктор Орта прославился своими изысканными домами в стиле ар‑нуво, но в 1919 году принял вызов создать центр, который вместил бы выставки, концерты и конференции. Поскольку власти требовали не загораживать вид из дворца, архитектор разместил большую часть объёма под землёй. Он отказался от растительных узоров в пользу четких линий, но сохранил фирменную игру света. Его проект стал образцом бельгийского ар‑деко и до сих пор работает как культурный мост между кварталами."
+          }
+        ],
+        "sourceNote": "Часы и исторические сведения взяты с официального сайта BOZAR; изображение подтверждено благодаря свободе панорамы."
+      },
+      "entry": "по билету",
+      "nameLocal": "Palais des Beaux-Arts / BOZAR",
+      "coordinates": {
+        "latitude": 50.8427,
+        "longitude": 4.3575
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Выставки открыты вт–вс 10:00–18:00 (последний вход 17:00); закрыто по понедельникам; 24 и 31 дек — закрывается в 16:00; закрыто 25 дек и 1 янв.",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-6",
+      "sourceIds": [
+        "src-bozar-info",
+        "src-bozar-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-6-square.jpg",
+        "alt": "Фасад Центра изящных искусств (BOZAR) в Брюсселе",
+        "attribution": {
+          "author": "Zinneke",
+          "license": "CC BY‑SA 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_des_Beaux-Arts_Brussels_2012-06.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-royal-quarter-mont-des-arts-7",
+      "guideId": "brussels-royal-quarter-mont-des-arts",
+      "order": 7,
+      "name": "Сад Мон‑де‑Зар",
+      "note": "Панорама на исторический центр",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Холм завершает маршрут висячим садом, который словно соединяет прошлое и будущее. Террасный парк Мон‑де‑Зар был изначально создан как временное украшение для Всемирной выставки 1910 года, а в 1950‑х архитектор Рене Пешер возвёл здесь современный комплекс: зелёные квадраты в геометрическом порядке, длинные лестницы, каскадный фонтан и площадки для отдыха. Все это расположено на бетонной плите — под садом скрываются парковка и хранилище Королевской библиотеки. Взгляните вниз: перед вами открывается вся панорама нижнего города с крышами Гран‑Пляс и шпилем Ратуши. Летом дети бегают по игривым фонтанам в нижнем уровне, а осенью террасы окрашиваются в золотой цвет. Это место показывает, как искусство и власть переплетаются: сверху возвышаются музеи и дворец, а под ногами — современный город.",
+        "lookFor": "каскадный фонтан и зеркальные бассейны вид на шпиль Городской ратуши абстрактные скульптуры и детские фонтаны на нижнем уровне",
+        "practical": "Вход свободный. Лестницы могут быть скользкими после дождя; часть склонов приспособлена для колясок, но подъём крутой. Освещение позволяет гулять до 22:00 летом. Лавочки и кафе находятся у верхнего и нижнего входов.",
+        "nextMove": "Прогулка завершается: спуститесь по лестнице к Центральному вокзалу или вернитесь обратно к музеям.",
+        "deepDive": [
+          {
+            "title": "От временной террасы к символу города",
+            "body": "Сад Мон‑де‑Зар возник как временная терраса Французского ландшафтного архитектора Луи Вашьеро для Всемирной выставки 1910 года. В 1950‑х годах архитектор Рене Пешер превратил его в постоянный комплекс с библиотекой, конференц‑дворцом и садами. С начала XXI века парк неоднократно обновляли: в 2001 году его перепланировали, а новые проекты предполагают создание единой пешеходной эспланады между дворцом и станцией Брюссель‑Центр."
+          }
+        ],
+        "sourceNote": "История и часы подтверждены сайтом Brussels Gardens; фотография — участник конкурса 'Wiki Loves Heritage 2018' с лицензией CC BY 4.0."
+      },
+      "entry": "свободно",
+      "nameLocal": "Jardin du Mont des Arts",
+      "coordinates": {
+        "latitude": 50.8436,
+        "longitude": 4.3573
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Парк открыт ежедневно: ноя–фев 07:00–19:00; мар–апр 06:00–21:00; май–авг 06:00–22:00; сен–окт 07:00–20:00; освещение работает до 22:00.",
+        "checkedAt": "2026-06-18"
+      },
+      "photoAssetId": "brussels-royal-quarter-mont-des-arts-stop-7",
+      "sourceIds": [
+        "src-mont-garden-info",
+        "src-mont-garden-photo"
+      ],
+      "photo": {
+        "id": "brussels-royal-quarter-mont-des-arts-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-royal-quarter-mont-des-arts-stop-7-square.jpg",
+        "alt": "Мон‑де‑Зар и вид на город в сумерках",
+        "attribution": {
+          "author": "Trougnouf (Benoit Brummer)",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_of_Kunstberg_viewed_from_Mont_des_Arts_during_nautical_twilight_(DSCF1028).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-1",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 1,
+      "name": "Шапельская церковь (Notre‑Dame de la Chapelle)",
+      "note": "Самая старая действующая церковь Брюсселя отмечает начало вашего путешествия.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Шапельская церковь (Notre‑Dame de la Chapelle)».",
+      "content": {
+        "context": "Первым на вашем пути будет храм, соединяющий более семи веков истории. Церковь Notre‑Dame de la Chapelle была основана в XII веке, позже разрушена пожаром и перестроена в XV веке в пышном стиле фламандской готики с романскими трансептами. В XVII веке добавлена барочная колокольня, а в конце XX века проведена масштабная реставрация.\n\nВнутри вы увидите сочетание строгих столпов и изящных стрельчатых сводов, а также памятники двум известным горожанам: жандарму Франсуа Анеессенсу, казненному за сопротивление австрийским властям, и художнику Питеру Брёйгелю Старшему, который здесь венчался и похоронен. Церковь служит польской католической общине, что придаёт ей живую атмосферу.\n\nСнаружи обратите внимание на темную крышу и контрастные каменные фасады, которые резко выделяются на фоне окружающих домов. Рядом начинается Rue Haute – древняя торговая артерия, по которой вы продолжите путь.",
+        "lookFor": "Романские трансепты в северном и южном крыле\nГотические витражи и капители с растительными мотивами\nПамятную плиту Питера Брёйгеля Старшего, установленную его сыном",
+        "practical": "Часы работы: понедельник–пятница 09:00–18:30, суббота–воскресенье 10:00–18:30\nВход свободный, во время служб посетители просят сохранять тишину\nАдрес: Rue de la Chapelle 10",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Шапельская церковь (Notre‑Dame de la Chapelle)».",
+        "deepDive": [
+          {
+            "title": "Шапельская церковь (Notre‑Dame de la Chapelle)",
+            "body": "Первым на вашем пути будет храм, соединяющий более семи веков истории. Церковь Notre‑Dame de la Chapelle была основана в XII веке, позже разрушена пожаром и перестроена в XV веке в пышном стиле фламандской готики с романскими трансептами. В XVII веке добавлена барочная колокольня, а в конце XX века проведена масштабная реставрация.\n\nВнутри вы увидите сочетание строгих столпов и изящных стрельчатых сводов, а также памятники двум известным горожанам: жандарму Франсуа Анеессенсу, казненному за сопротивление австрийским властям, и художнику Питеру Брёйгелю Старшему, который здесь венчался и похоронен. Церковь служит польской католической общине, что придаёт ей живую атмосферу.\n\nСнаружи обратите внимание на темную крышу и контрастные каменные фасады, которые резко выделяются на фоне окружающих домов. Рядом начинается Rue Haute – древняя торговая артерия, по которой вы продолжите путь."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.8394,
+        "longitude": 4.3488
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-1-square.jpg",
+        "alt": "Église Notre-Dame-de-la-Chapelle, Brussels (DSCF1071)",
+        "attribution": {
+          "author": "Trougnouf / Benoit Brummer",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Notre-Dame-de-la-Chapelle,_Brussels_(DSCF1071).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-2",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 2,
+      "name": "Улица Rue Haute",
+      "note": "Одно из старейших шоссе Брюсселя ведёт вас в самое сердце Маролей.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Улица Rue Haute».",
+      "content": {
+        "context": "Rue Haute – это старейшая и самая длинная улица Маролей, проложенная ещё в римские времена. Она тянется более километра от Шапельской церкви до площадей Jeu de Balle и Grand Sablon. В XVII веке в соседнем монастыре Мариколлес сестры заботились о бедных – от их латинского названия ‘mariam colentes’ произошло имя квартала.\n\nНа протяжении веков Rue Haute была населена ремесленниками, трактирщиками и кинотеатрами. Сегодня её фасады хранят смеси эпох: старые каменные дома соседствуют с арт-нуво и социальным жильём. Особое внимание заслуживает комплекс Cité Hellemans, построенный в 1915 году архитектором Шарлем Хеллемансом для переселения людей из перенаселённых трущоб. Его три кирпичных корпуса с зелёными двориками стали образцом социального жилья.\n\nПрогуливаясь, загляните в многочисленные антикварные магазины и бары, где ещё слышны местные легенды. Эта улица – настоящая артерия Маролей, в которой чувствуется дух сопротивления. Именно отсюда жители в 1960‑х годах выступали против сноса своих домов из-за расширения дворца правосудия.",
+        "lookFor": "Краснокирпичный комплекс Cité Hellemans и его декоративные изразцы\nФрески и граффити на стенах, посвящённые социальной борьбе Маролей\nМагазины с винтажной мебелью и пластинками",
+        "practical": "Улица открыта круглосуточно; большинство магазинов работают с 10:00 до 18:00\nПереходите улицу осторожно – движение может быть интенсивным\nБудьте готовы к подъёму по брусчатке – удобная обувь обязательна",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Улица Rue Haute».",
+        "deepDive": [
+          {
+            "title": "Улица Rue Haute",
+            "body": "Rue Haute – это старейшая и самая длинная улица Маролей, проложенная ещё в римские времена. Она тянется более километра от Шапельской церкви до площадей Jeu de Balle и Grand Sablon. В XVII веке в соседнем монастыре Мариколлес сестры заботились о бедных – от их латинского названия ‘mariam colentes’ произошло имя квартала.\n\nНа протяжении веков Rue Haute была населена ремесленниками, трактирщиками и кинотеатрами. Сегодня её фасады хранят смеси эпох: старые каменные дома соседствуют с арт-нуво и социальным жильём. Особое внимание заслуживает комплекс Cité Hellemans, построенный в 1915 году архитектором Шарлем Хеллемансом для переселения людей из перенаселённых трущоб. Его три кирпичных корпуса с зелёными двориками стали образцом социального жилья.\n\nПрогуливаясь, загляните в многочисленные антикварные магазины и бары, где ещё слышны местные легенды. Эта улица – настоящая артерия Маролей, в которой чувствуется дух сопротивления. Именно отсюда жители в 1960‑х годах выступали против сноса своих домов из-за расширения дворца правосудия."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.842,
+        "longitude": 4.349
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-2-square.jpg",
+        "alt": "Bruxelles-Rue Haute 184 (1)",
+        "attribution": {
+          "author": "Romaine",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruxelles-Rue_Haute_184_(1).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-3",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 3,
+      "name": "Площадь Jeu de Balle и блошиный рынок",
+      "note": "Здесь каждый день с рассвета продавцы раскладывают свои сокровища, а посетители ищут неожиданные находки.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Площадь Jeu de Balle и блошиный рынок».",
+      "content": {
+        "context": "Площадь Jeu de Balle – сердце Маролей. Ещё в XIX веке здесь играли в бельгийскую игру ‘jeu de balle’, а с 1873 года площадь превращается в ежедневный блошиный рынок. Более трёхсот лотков открываются рано утром, и город просыпается под звон будильников торговцев. Этот рынок известен как ‘старый рынок’: здесь найдёте все – от пластинок, книг и мебели до велосипедов и фарфора.\n\nПлощадь окружена зданиями разных эпох; слева от вас – внушительный красный дом Hellemans, а под землёй скрывается противовоздушный бункер, построенный в 1942 году и заново открытый в 2014 году. Рядом находится барельеф ‘Monument aux Vivants’ скульптора Мориса Вольфа – аллегория радости жизни и памяти жителей, лишившихся домов из-за расширения дворца правосудия.\n\nВоздух пропитан ароматами кофе, горячего вина и жареных вафель. Здесь легко потерять счёт времени: даже если ничего не купите, наблюдать за торгом и слушать диалекты – настоящее удовольствие.",
+        "lookFor": "Необычные предметы, старинные игрушки и записи\nБарельеф ‘Monument aux Vivants’ на стене у южного выхода\nСледы старых игр на брусчатке – от игры в мяч, давшей название площади",
+        "practical": "Рынок работает ежедневно: понедельник–пятница 06:00–14:00, выходные до 15:00\nСделки заключаются наличными, банки рядом есть, но лучше подготовить мелкие купюры\nСледите за вещами – рынок очень оживлён",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Площадь Jeu de Balle и блошиный рынок».",
+        "deepDive": [
+          {
+            "title": "Площадь Jeu de Balle и блошиный рынок",
+            "body": "Площадь Jeu de Balle – сердце Маролей. Ещё в XIX веке здесь играли в бельгийскую игру ‘jeu de balle’, а с 1873 года площадь превращается в ежедневный блошиный рынок. Более трёхсот лотков открываются рано утром, и город просыпается под звон будильников торговцев. Этот рынок известен как ‘старый рынок’: здесь найдёте все – от пластинок, книг и мебели до велосипедов и фарфора.\n\nПлощадь окружена зданиями разных эпох; слева от вас – внушительный красный дом Hellemans, а под землёй скрывается противовоздушный бункер, построенный в 1942 году и заново открытый в 2014 году. Рядом находится барельеф ‘Monument aux Vivants’ скульптора Мориса Вольфа – аллегория радости жизни и памяти жителей, лишившихся домов из-за расширения дворца правосудия.\n\nВоздух пропитан ароматами кофе, горячего вина и жареных вафель. Здесь легко потерять счёт времени: даже если ничего не купите, наблюдать за торгом и слушать диалекты – настоящее удовольствие."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.8387,
+        "longitude": 4.3498
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-3-square.jpg",
+        "alt": "Place du Jeu de Balle flea market in Brussels",
+        "attribution": {
+          "author": "DimiTalen",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flea_market_at_Place_du_Jeu_de_Balle,_Brussels,_2024_(2).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-4",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 4,
+      "name": "Лифт Poelaert и смотровая площадка",
+      "note": "За секунды вы подниметесь на 55 метров и увидите весь Брюссель как на ладони.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Лифт Poelaert и смотровая площадка».",
+      "content": {
+        "context": "Чтобы преодолеть крутой склон между нижним городом и площадью Poelaert, в 2002 году построили стеклянный лифт Poelaert. Он поднимает вас на высоту около 55 метров за считанные секунды. Лифт стал важной частью городской инфраструктуры, обеспечивая доступность районам Мароль и Саблон.\n\nНаверху находится открытая смотровая площадка, откуда открывается потрясающий вид на старый город, дворец правосудия и дальние районы. Стеклянные кабины создают ощущение полёта, а с верхней платформы видно даже башню Ратуши на Гран‑Плас.\n\nЭтот лифт напоминает о постоянных усилиях города соединить социально разные районы и облегчить жизнь местным жителям. Недалеко от выхода вы увидите памятник архитектору Жозефу Пуалаэрту, чьё имя носит площадь.",
+        "lookFor": "Панораму Маролей с крышами и дворцом правосудия\nСтеклянные кабины лифта с зеркальными отражениями\nБарельеф архитектора Жозефа Пуалаэрта у входа",
+        "practical": "Лифт работает ежедневно с 07:00 до 23:30; смотровая площадка открыта круглосуточно\nВход бесплатный; иногда может быть очередь\nЛифт оборудован для людей с ограниченной подвижностью",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Лифт Poelaert и смотровая площадка».",
+        "deepDive": [
+          {
+            "title": "Лифт Poelaert и смотровая площадка",
+            "body": "Чтобы преодолеть крутой склон между нижним городом и площадью Poelaert, в 2002 году построили стеклянный лифт Poelaert. Он поднимает вас на высоту около 55 метров за считанные секунды. Лифт стал важной частью городской инфраструктуры, обеспечивая доступность районам Мароль и Саблон.\n\nНаверху находится открытая смотровая площадка, откуда открывается потрясающий вид на старый город, дворец правосудия и дальние районы. Стеклянные кабины создают ощущение полёта, а с верхней платформы видно даже башню Ратуши на Гран‑Плас.\n\nЭтот лифт напоминает о постоянных усилиях города соединить социально разные районы и облегчить жизнь местным жителям. Недалеко от выхода вы увидите памятник архитектору Жозефу Пуалаэрту, чьё имя носит площадь."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.84096,
+        "longitude": 4.358
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-4-square.jpg",
+        "alt": "Brussels-Public elevator at Marolles (1)",
+        "attribution": {
+          "author": "Zairon",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels-Public_elevator_at_Marolles_(1).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-5",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 5,
+      "name": "Дворец правосудия (Palais de Justice)",
+      "note": "Величественный храм закона до сих пор скрыт в строительных лесах – и в этом отражается судьба всего района.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Дворец правосудия (Palais de Justice)».",
+      "content": {
+        "context": "Дворец правосудия на холме Пуалаэрт – одно из крупнейших зданий своего времени. Его строительство началось в 1866 году при короле Леопольде I и завершилось в 1883 году уже после смерти архитектора Жозефа Пуалаэрта. Площадь здания составляет 26 000 м², а центральный купол высотой 104 метра делает его видимым практически из любого уголка Брюсселя.\n\nАрхитектура представляет собой смесь неоклассики и эклектики: массивный портик, огромные колонны и символические украшения отражают стремление Бельгии к независимости и правопорядку. Однако строительство сопровождалось скандалами: ради него снесли целый квартал Маролей, вызвав массовые протесты и ‘битву за Мароли’. Местные жители до сих пор называют его ‘монстром’ – за то, что он нависает над их домами.\n\nС 1984 года фасады дворца покрыты строительными лесами: начатая реставрация затянулась из-за технических сложностей. Внутри находится грандиозная лестница и залы суда, посещение которых возможно только в составе экскурсии. Тем не менее, даже снаружи дворец производит впечатление и напоминает о роли справедливости в истории города.",
+        "lookFor": "Грандиозная лестница у главного входа\nСтатуи, изображающие Закон и Правосудие\nВид на город через строительные леса",
+        "practical": "Здание открыто для публичных экскурсий по расписанию; уточняйте на официальном сайте\nБесплатно осмотреть внешний фасад можно в любое время\nБудьте готовы к реставрационным работам и ограниченному доступу",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Дворец правосудия (Palais de Justice)».",
+        "deepDive": [
+          {
+            "title": "Дворец правосудия (Palais de Justice)",
+            "body": "Дворец правосудия на холме Пуалаэрт – одно из крупнейших зданий своего времени. Его строительство началось в 1866 году при короле Леопольде I и завершилось в 1883 году уже после смерти архитектора Жозефа Пуалаэрта. Площадь здания составляет 26 000 м², а центральный купол высотой 104 метра делает его видимым практически из любого уголка Брюсселя.\n\nАрхитектура представляет собой смесь неоклассики и эклектики: массивный портик, огромные колонны и символические украшения отражают стремление Бельгии к независимости и правопорядку. Однако строительство сопровождалось скандалами: ради него снесли целый квартал Маролей, вызвав массовые протесты и ‘битву за Мароли’. Местные жители до сих пор называют его ‘монстром’ – за то, что он нависает над их домами.\n\nС 1984 года фасады дворца покрыты строительными лесами: начатая реставрация затянулась из-за технических сложностей. Внутри находится грандиозная лестница и залы суда, посещение которых возможно только в составе экскурсии. Тем не менее, даже снаружи дворец производит впечатление и напоминает о роли справедливости в истории города."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.8389,
+        "longitude": 4.3589
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-5-square.jpg",
+        "alt": "BEL Brussels, Palais de Justice 001",
+        "attribution": {
+          "author": "Marc Ryckaert",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BEL_Brussels,_Palais_de_Justice_001.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-6",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 6,
+      "name": "Сквер Petit Sablon",
+      "note": "Уютный сад с 48 бронзовыми фигурами даёт передышку между двумя церквями.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Сквер Petit Sablon».",
+      "content": {
+        "context": "Этот ухоженный сад в фламандском неоренессансном стиле появился в 1890 году. Бургомистр Шарль Бюльс поручил архитектору Анри Беярту создать мемориальный парк на месте старого кладбища церковного прихода. Получился идеальный симметричный оазис с цветниками, газонами и фонтаном.\n\nСимволизм читается в каждой детали. Девять клумб из самшита представляют девять провинций Бельгии, а ещё одна, в форме короны, – самого короля. Вокруг ограды установлены 48 бронзовых статуй, изображающих средневековые гильдии Брюсселя, а по центру возвышается фонтан с фигурами графов Эгмонта и Горна – героев сопротивления испанскому владычеству.\n\nСквер окружён кованой оградой, внутри царит спокойствие. Здесь местные жители читают и обсуждают новости, а туристы любуются видом на соседнюю церковь Notre‑Dame du Sablon. Весной цветочные клумбы особенно красивы.",
+        "lookFor": "Фигуры ремесленников – от каменщиков до брадобреев\nФонтан с графами Эгмонтом и Гором\nСамшитовые клумбы, представляющие регионы Бельгии",
+        "practical": "Сквер открыт 1 октября – 31 марта с 09:30 до 16:45; 1 – 30 апреля с 08:15 до 18:30; 1 мая – 31 августа с 08:15 до 20:30; 1 – 30 сентября с 08:15 до 19:30\nПоследний вход за 15 минут до закрытия\nВход свободный, собаки не допускаются",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Сквер Petit Sablon».",
+        "deepDive": [
+          {
+            "title": "Сквер Petit Sablon",
+            "body": "Этот ухоженный сад в фламандском неоренессансном стиле появился в 1890 году. Бургомистр Шарль Бюльс поручил архитектору Анри Беярту создать мемориальный парк на месте старого кладбища церковного прихода. Получился идеальный симметричный оазис с цветниками, газонами и фонтаном.\n\nСимволизм читается в каждой детали. Девять клумб из самшита представляют девять провинций Бельгии, а ещё одна, в форме короны, – самого короля. Вокруг ограды установлены 48 бронзовых статуй, изображающих средневековые гильдии Брюсселя, а по центру возвышается фонтан с фигурами графов Эгмонта и Горна – героев сопротивления испанскому владычеству.\n\nСквер окружён кованой оградой, внутри царит спокойствие. Здесь местные жители читают и обсуждают новости, а туристы любуются видом на соседнюю церковь Notre‑Dame du Sablon. Весной цветочные клумбы особенно красивы."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.84076,
+        "longitude": 4.35795
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-6-square.jpg",
+        "alt": "Bruxelles - Square du Petit Sablon (48203310892)",
+        "attribution": {
+          "author": "Fred Romero",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Square_du_Petit_Sablon_(48203310892).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-7",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 7,
+      "name": "Церковь Notre‑Dame du Sablon",
+      "note": "Готический силуэт церкви на Саблоне напоминает о чудесной статуе Богоматери и привилегиях стрелков-копьеносцев.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута после остановки «Церковь Notre‑Dame du Sablon».",
+      "content": {
+        "context": "Церковь Notre‑Dame du Sablon, или церковь Победы, – одна из трёх сохранившихся готических церквей Брюсселя. В 1304 году гильдия арбалетчиков построила здесь небольшую часовню, а спустя столетие, после прибытия в город чудотворной статуи Богоматери из Антверпена, началось строительство грандиозного храма. Работы растянулись почти на век, и в результате появился яркий пример брабантской готики: стройные колонны, ажурные контрфорсы и светлый камень.\n\nВнутри церковь поражает витиеватыми капеллами XVII века, где похоронены знатные семьи. Цветные витражи рассказывают историю арбалетчиков и шествия Ommegang, во время которого статую Богоматери ежегодно носили к Гранд‑Плас. В 1936 году храм получил статус исторического памятника, благодаря чему он избежал модернизаций.\n\nСегодня Notre‑Dame du Sablon – излюбленное место свадеб и концертов. Снаружи она служит ориентиром для многочисленных антикварных лавок, а в выходные вокруг кипит жизнь: торговцы съезжаются на антикварный рынок Grand Sablon.",
+        "lookFor": "Барочные капеллы с белым мрамором и позолотой\nВитражи, изображающие шествие Ommegang и арбалетчиков\nКаменную статую Богоматери – копию чудотворной фигуры",
+        "practical": "Церковь открыта ежедневно приблизительно с 09:00 до 18:00; вход свободный\nВо время свадеб доступ к боковым капеллам может быть ограничен\nАдрес: Rue des Sablons 30",
+        "nextMove": "Продолжайте к следующей точке маршрута после остановки «Церковь Notre‑Dame du Sablon».",
+        "deepDive": [
+          {
+            "title": "Церковь Notre‑Dame du Sablon",
+            "body": "Церковь Notre‑Dame du Sablon, или церковь Победы, – одна из трёх сохранившихся готических церквей Брюсселя. В 1304 году гильдия арбалетчиков построила здесь небольшую часовню, а спустя столетие, после прибытия в город чудотворной статуи Богоматери из Антверпена, началось строительство грандиозного храма. Работы растянулись почти на век, и в результате появился яркий пример брабантской готики: стройные колонны, ажурные контрфорсы и светлый камень.\n\nВнутри церковь поражает витиеватыми капеллами XVII века, где похоронены знатные семьи. Цветные витражи рассказывают историю арбалетчиков и шествия Ommegang, во время которого статую Богоматери ежегодно носили к Гранд‑Плас. В 1936 году храм получил статус исторического памятника, благодаря чему он избежал модернизаций.\n\nСегодня Notre‑Dame du Sablon – излюбленное место свадеб и концертов. Снаружи она служит ориентиром для многочисленных антикварных лавок, а в выходные вокруг кипит жизнь: торговцы съезжаются на антикварный рынок Grand Sablon."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.8403,
+        "longitude": 4.3564
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-7-square.jpg",
+        "alt": "Notre Dame du Sablon (8293234547)",
+        "attribution": {
+          "author": "Steve Collis",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre_Dame_du_Sablon_(8293234547).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "brussels-sablon-marolles-justice-8",
+      "guideId": "brussels-sablon-marolles-justice",
+      "order": 8,
+      "name": "Площадь Grand Sablon",
+      "note": "Финал прогулки – аристократическая площадь, где антиквариат встречается с шоколадом.",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Grand Sablon когда-то был песчаным полем за городскими стенами, где проходили турниры и ярмарки. В XVI веке сюда переехала знать, построив роскошные особняки, и площадь постепенно стала одной из самых престижных в Брюсселе. Сегодня она по‑прежнему сохраняет этот шарм: вдоль фасадов расположились галереи, бутики и лучшие шоколадные магазины города.\n\nПо субботам и воскресеньям здесь проводится антикварный рынок. Торговцы выставляют серебро, фарфор, ювелирные украшения и старинные открытки. Местная атмосфера отличается от блошиного рынка: цены выше, но и качество товара другое. Сюда приходят коллекционеры в поисках редких часов или мебели.\n\nПомимо антиквариата, Grand Sablon известен своими шоколатье – Pierre Marcolini, Neuhaus и Wittamer. После прогулки по рынку зайдите в одну из кондитерских и попробуйте пралине или горячий шоколад. Площадь окружена террасами, откуда можно наблюдать за жизнью Саблона и церковью Notre‑Dame du Sablon.",
+        "lookFor": "Уикенд‑рынок антиквариата – серебро, фарфор, старинные книги\nШоколадные бутики и кондитерские, в том числе знаменитая Pierre Marcolini\nКаменные особняки и вид на шпиль Notre‑Dame du Sablon",
+        "practical": "Антикварный рынок работает: суббота 09:00–17:00, воскресенье 09:00–14:00\nБольшинство магазинов открыто с 10:00 до 19:00\nЦены выше, чем на барахолке, но продавцы готовы торговаться",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Площадь Grand Sablon",
+            "body": "Grand Sablon когда-то был песчаным полем за городскими стенами, где проходили турниры и ярмарки. В XVI веке сюда переехала знать, построив роскошные особняки, и площадь постепенно стала одной из самых престижных в Брюсселе. Сегодня она по‑прежнему сохраняет этот шарм: вдоль фасадов расположились галереи, бутики и лучшие шоколадные магазины города.\n\nПо субботам и воскресеньям здесь проводится антикварный рынок. Торговцы выставляют серебро, фарфор, ювелирные украшения и старинные открытки. Местная атмосфера отличается от блошиного рынка: цены выше, но и качество товара другое. Сюда приходят коллекционеры в поисках редких часов или мебели.\n\nПомимо антиквариата, Grand Sablon известен своими шоколатье – Pierre Marcolini, Neuhaus и Wittamer. После прогулки по рынку зайдите в одну из кондитерских и попробуйте пралине или горячий шоколад. Площадь окружена террасами, откуда можно наблюдать за жизнью Саблона и церковью Notre‑Dame du Sablon."
+          }
+        ]
+      },
+      "coordinates": {
+        "latitude": 50.8398,
+        "longitude": 4.3563
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photo": {
+        "id": "brussels-sablon-marolles-justice-stop-8",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/brussels/brussels-sablon-marolles-justice-stop-8-square.jpg",
+        "alt": "20180907 Grand Sablon Square",
+        "attribution": {
+          "author": "Wouter Hagens",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20180907_Grand_Sablon_Square.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
     }
   ],
-  "packHash": "41f5b12bd7bf"
+  "packHash": "8e65df3c385b"
 }

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Портовая зона показывает Рио через следы рабства, самбы и новой городской витрины.",
-    "cityId": "rio-de-janeiro",
-    "dayTrip": false,
-    "id": "rio-de-janeiro-pequena-africa-porto-maravilha",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Праса Мауа, Сауде, Гамбоа и зона Cais do Valongo.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Маршрут по месту прибытия, стирания и возвращения афро-атлантической истории.",
-    "title": "Пекена-Африка и порт: память под новой набережной",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Лапа уводит к холму Санта-Терезы: арки, плитка, трамвай и другая скорость Рио.",
-    "cityId": "rio-de-janeiro",
-    "dayTrip": false,
-    "id": "rio-de-janeiro-lapa-santa-teresa-hillside",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Лапа, Эскадария Селарон, нижняя и центральная Санта-Тереза.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Из ночного центра вверх к трамваю, мозаике и старым виллам.",
-    "title": "Лапа и Санта-Тереза: арки, лестница и город на холме",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Океанская прогулка ведет от Леме к Арпоадору: волны на мозаике, форты и пляжный театр.",
     "cityId": "rio-de-janeiro",
     "dayTrip": false,

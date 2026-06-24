@@ -1,0 +1,390 @@
+{
+  "id": "chicago-bronzeville-black-metropolis",
+  "cityId": "chicago",
+  "category": "Район",
+  "title": "Бронзвилл: Black Metropolis на King Drive",
+  "subtitle": "Великая миграция, черные бизнесы, музыка и политика в компактном историческом ядре.",
+  "blurb": "Бронзвилл раскрывает южный Чикаго через миграцию, джазовые адреса, бизнесы и память Black Metropolis.",
+  "mood": "history",
+  "accent": "#2F6F8F",
+  "soft": "#DCE8EF",
+  "deep": "#1F4E66",
+  "ink": "#22323C",
+  "motif": "lane",
+  "duration": "2 ч",
+  "stops": 8,
+  "distance": "пешком",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Маршрут",
+    "line": "Великая миграция, черные бизнесы, музыка и политика в компактном историческом ядре."
+  },
+  "content": {
+    "intro": "Эта прогулка раскрывает историю Бронзвилла через здания и памятники, которые рассказывают о смелости, творчестве и силе его жителей. Вы увидите мемориал солдатам 8‑го полка, современные офисы старейшей черной страховой компании, ар-деко штаб-квартиру газеты Chicago Bee, производственное здание косметической империи Anthony Overton, исторический YMCA, где зародилась Ассоциация изучения истории негритянской жизни и культуры, дом журналистки и правозащитницы Иды Б. Уэллс, и старейший концертный зал округа. Логика маршрута строится на последовательном движении по King Drive от станции Green Line на 35‑й улице на север, чтобы посетители могли легко ориентироваться, а путешествие завершилось в оживленном квартале 43‑й улицы.",
+    "routeLogic": "Маршрут идет от Станция Green Line \"35th‑Bronzeville‑IIT\" к The Forum. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
+    "bestFor": "спокойной прогулки по теме маршрута\nпервого знакомства с районом или объектом\nтех, кто хочет читать город через видимые детали",
+    "notFor": "маршрута без самостоятельного чтения места\nгонки по точкам без остановок\nтех, кому нужен только транспортный трансфер",
+    "beforeYouGo": "Комфортная обувь: маршрут длиной около 1,6 км проходит по городским тротуарам. Наденьте удобную обувь и приготовьтесь гулять.\nПогода и вода: летом в Чикаго жарко, а зимой ветрено. Возьмите бутылку воды и одевайтесь по сезону.\nВходы и часы: большинство объектов осматриваются только снаружи. Supreme Life Building (Bronzeville Visitor Information Center) и Chicago Bee Library работают по расписанию — уточняйте актуальные часы перед визитом.\nТранспорт: станция Green Line 35th‑Bronzeville‑IIT имеет лифты и продаёт билеты в автоматах. Для поездки из центра потребуется одноразовый билет или Ventra Card.\nБезопасность: район дружелюбный, но поздно вечером людей меньше. Планируйте посещение до заката и уважайте жильцов частных домов.",
+    "timing": "2 ч"
+  },
+  "stopList": [
+    {
+      "id": "chicago-bronzeville-black-metropolis-1",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 1,
+      "name": "Станция Green Line \"35th‑Bronzeville‑IIT\"",
+      "note": "Смотрите на мозаичные панели и мурал перед тем, как отправиться по следам Black Metropolis.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Вы начинаете прогулку на станции \"35th‑Bronzeville‑IIT\" — одной из старейших станций \"L\". Она открылась в 1892 году как часть первой линии южного метро Чикаго.",
+        "lookFor": "Смотрите на мозаичные панели и мурал перед тем, как отправиться по следам Black Metropolis.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Текущее здание простое, но фасады украшают керамические мозаики с изображениями местных памятников, а на углах вывешены таблички с перечнем достопримечательностей Бронзвилла. На западной стене художники создали мурал со знаменитыми афроамериканцами, напоминая об истории района. Отсюда удобно начинать путешествие: здесь пересекаются 35‑я улица и State Street, рядом находится Иллинойсский технологический институт, а через улицу — места, которые вы увидите далее."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-1",
+      "sourceIds": [
+        "source_chicago_l_station",
+        "source_black_metropolis"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-1-square.jpg",
+        "alt": "CTA Green Line @ 35th-Bronzeville-IIT",
+        "attribution": {
+          "author": "David Wilson",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20130416_01_CTA_Green_Line_L_@_35th-Bronzeville-IIT.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-2",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 2,
+      "name": "Victory Monument",
+      "note": "Подойдите ближе, чтобы рассмотреть бронзовые панели и имена бойцов.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "В центре широкого проспекта Martin Luther King Drive возвышается бронзовый обелиск — Victory Monument. Памятник был спроектирован архитектором Джоном А.",
+        "lookFor": "Подойдите ближе, чтобы рассмотреть бронзовые панели и имена бойцов.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Найденом и скульптором Леонардом Крунелем и сооружён в 1926–1936 годах. На его гранях закреплены рельефные панели, посвящённые службам 8‑го полка Национальной гвардии Иллинойса — афроамериканскому подразделению, отличившемуся во Франции во время Первой мировой войны. Центральная скульптура изображает солдата, держащего лавровый венок, символизирующий доблесть. Мемориал был официально открыт в День перемирия 11 ноября 1928 года и служит напоминанием о вкладе чернокожих ветеранов в защиту страны, в то время как дома они сталкивались с сегрегацией."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-2",
+      "sourceIds": [
+        "source_victory_monument",
+        "source_black_metropolis"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-2-square.jpg",
+        "alt": "Victory Monument (Chicago)",
+        "attribution": {
+          "author": "TonyTheTiger",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070601_Victory_Monument_(8).JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-3",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 3,
+      "name": "Supreme Life Building (Bronzeville Visitor Information Center)",
+      "note": "Зайдите внутрь, чтобы получить брошюры и спросить о текущих выставках района.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "На углу 35‑й улицы и King Drive стоит трёхэтажное здание c отделкой из гладких панелей — Supreme Life Building. Оно было построено в 1921 году и стало домом Liberty Life Insurance Company, основанной Франком Гиллеспи — первой афроамериканской компанией страхования жизни в северных штатах.",
+        "lookFor": "Зайдите внутрь, чтобы получить брошюры и спросить о текущих выставках района.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В 1924 году фирма выкупила здание, а в 1929 году преобразовалась в Supreme Life Insurance Company of America. Компания пережила Великую депрессию и в 1950‑е годы модернизировала фасад, заменив классический камень на порцелановые панели, чтобы подчеркнуть прогрессивный облик. Сегодня здесь находится туристический центр Бронзвилла, где можно узнать об исторических объектах и взять карты."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-3",
+      "sourceIds": [
+        "source_supreme_life"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-3-square.jpg",
+        "alt": "Supreme Life Building",
+        "attribution": {
+          "author": "Legimet",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Supreme_Life_Building.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-4",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 4,
+      "name": "Overton Hygienic Building",
+      "note": "Пройдите вокруг, чтобы увидеть каменную орнаментацию и вывески бывших предприятий.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Перейдите несколько кварталов на запад к State Street — здесь стоит краснокирпичное четырёхэтажное здание с белыми каменными поясками. В 1922–1923 годах предприниматель Anthony Overton построил его для Overton Hygienic Company, производившей косметику для афроамериканок, включая популярные кремы и пудру.",
+        "lookFor": "Пройдите вокруг, чтобы увидеть каменную орнаментацию и вывески бывших предприятий.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В этом же здании находились Victory Life Insurance Company и Douglass National Bank — первый чернокожий национальный банк в США. Бизнес‑центр предоставлял офисные помещения врачам, юристам и другим профессионалам, в то время когда расовая сегрегация ограничивала их доступ к деловым районам. Здание закрыто для посещения, но его фасад с сохранёнными декоративными элементами напоминает о цветущем \"Черном Метрополисе\" 1920‑х годов."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-4",
+      "sourceIds": [
+        "source_overton_chicago",
+        "source_overton_nps"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-4-square.jpg",
+        "alt": "Overton Hygienic Building, Chicago IL",
+        "attribution": {
+          "author": "Andrew Jameson",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overton_Hygienic_Building_Chicago_IL.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-5",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 5,
+      "name": "Chicago Bee Building",
+      "note": "Зайдите в библиотеку, чтобы увидеть витражные детали и узнать о роли газеты Chicago Bee.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Неподалёку стоит впечатляющее здание из разноцветного терракотового кирпича — Chicago Bee Building. Его построили в 1929–1931 годах по проекту архитектора Z.",
+        "lookFor": "Зайдите в библиотеку, чтобы увидеть витражные детали и узнать о роли газеты Chicago Bee.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Erol Smith, чтобы разместить редакцию прогрессивной газеты Chicago Bee, основанной Anthony Overton. Газета продвигала идеи предпринимательства и гражданских прав в черной общине. Верхние этажи занимали жилые апартаменты, а в 1930‑е годы в здании также размещались Douglass National Bank и Overton Hygienic Company. После закрытия газеты в 1940‑х годах здание пережило упадок, но в 1990‑х было восстановлено и сегодня служит филиалом публичной библиотеки Чикаго, сохраняя исторические интерьеры."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-5",
+      "sourceIds": [
+        "source_bee_chicago"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-5-square.jpg",
+        "alt": "Chicago Bee Building",
+        "attribution": {
+          "author": "TonyTheTiger",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070601_Chicago_Bee_Building.JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-6",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 6,
+      "name": "Wabash Avenue YMCA",
+      "note": "Представьте, как тысячи мигрантов находили здесь первый дом и новые возможности.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Вернувшись на King Drive, пройдите южнее до улицы 3763 S. Wabash Avenue. Перед вами — массивный кирпичный корпус Wabash Avenue YMCA (1911–1913), построенный с финансированием филантропа Джулиуса Розенвальда.",
+        "lookFor": "Представьте, как тысячи мигрантов находили здесь первый дом и новые возможности.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В годы Великой миграции YMCA обеспечивала прибывающих из Юга афроамериканцев временным жильём, профессиональными курсами и спортивными площадками. В 1915 году здесь была учреждена Ассоциация изучения негритянской жизни и истории (предтеча месяца истории чернокожих), которую основал учёный Картер Г. Вудсон. Здание расширили в 1945 году, а после закрытия YMCA в конце 1970‑х годов здесь разместились социальные службы. Внутрь посетителей не пускают, но фасад с массивными карнизами и арочными окнами впечатляет."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-6",
+      "sourceIds": [
+        "source_wabash_chicago",
+        "source_wabash_nps"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-6-square.jpg",
+        "alt": "Wabash Avenue YMCA, Chicago IL",
+        "attribution": {
+          "author": "Andrew Jameson",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wabash_Avenue_YMCA_Chicago_IL.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-7",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 7,
+      "name": "Ida B. Wells‑Barnett House",
+      "note": "Стоя перед домом, подумайте о смелости Уэллс, которая противостояла насилию и неравенству.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "На тихой улице King Drive спрятан каменный дом в романском стиле — единственный сохранившийся адрес Иды Б. Уэллс и её семьи. Она жила здесь с 1919 по 1929 год, когда вела кампании против линчевания, боролась с сегрегацией общественного транспорта и основала национальные организации защиты прав афроамериканцев.",
+        "lookFor": "Стоя перед домом, подумайте о смелости Уэллс, которая противостояла насилию и неравенству.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В те годы Уэллс публиковала статьи, участвовала в женском избирательном движении и содействовала строительству первого в Чикаго жилья для чернокожих. Дом является частной резиденцией, поэтому осматривать его можно только снаружи. Он включён в Реестр национальных исторических памятников как напоминание о жизни мужественной журналистки."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-7",
+      "sourceIds": [
+        "source_wells_nps"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-7-square.jpg",
+        "alt": "Ida B. Wells-Barnett House",
+        "attribution": {
+          "author": "TonyTheTiger",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20070601_Wells_House_(2).JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "chicago-bronzeville-black-metropolis-8",
+      "guideId": "chicago-bronzeville-black-metropolis",
+      "order": 8,
+      "name": "The Forum",
+      "note": "Вообразите, как 120 лет назад под этими арками звучал джаз и читались пламенные речи.",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Конечной точкой маршрута является The Forum — одно из старейших сохранившихся собранийных зданий в Чикаго. Его построили в 1897 году как общественный зал и магазины на углу 43‑й улицы и Calumet Avenue.",
+        "lookFor": "Вообразите, как 120 лет назад под этими арками звучал джаз и читались пламенные речи.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Во время Великой миграции зал превратился в культурный центр Black Metropolis: здесь проводили собрания политические лидеры вроде Оскара Стэнтона Де Приста, устраивали балы и концерты. На сцене выступали будущие звёзды джаза, включая Нэта \"King\" Коулa, Мадди Уотерса и Дюка Эллингтона. Сегодня здание реставрируется общественной организацией, которая хочет вновь открыть его для общины. Пройдя вдоль фасада с декоративными арками, вы почувствуете, как живёт память об эпохе, когда Бронзвилл был столицей афроамериканской культуры Среднего Запада."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "chicago-bronzeville-black-metropolis-stop-8",
+      "sourceIds": [
+        "source_forum_nps",
+        "source_forum_trust"
+      ],
+      "photo": {
+        "id": "chicago-bronzeville-black-metropolis-stop-8",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-8-square.jpg",
+        "alt": "The Forum (Chicago, IL)",
+        "attribution": {
+          "author": "Jim Roberts",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Forum_(Chicago,_IL).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    }
+  ],
+  "cover": {
+    "id": "chicago-bronzeville-black-metropolis-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-cover-square.jpg",
+    "alt": "Сгенерированная editorial-обложка маршрута «chicago-bronzeville-black-metropolis»"
+  },
+  "coverAssetId": "chicago-bronzeville-black-metropolis-cover"
+}

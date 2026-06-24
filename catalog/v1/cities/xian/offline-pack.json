@@ -1429,7 +1429,7 @@
       "id": "xian-terracotta-qin-mausoleum",
       "cityId": "xian",
       "category": "Район",
-      "title": "Терракотовая армия: империя у подножия Лишаня",
+      "title": "xian-terracotta-qin-mausoleum",
       "subtitle": "Погрузитесь в мир первого императора Цинь Шихуана, где под землёй скрывается армия из тысяч глиняных воинов, колесниц и лошадей. На этой прогулке вы увидите разнообразные раскопы, познакомитесь с уникальными бронзовыми колесницами и заглянете в придворную жизнь императора, завершив маршрут у покрытого лесом кургана‑могилы в парке Лишань. Истории о строительстве, художественных приёмах и тайнах мавзолея помогут понять величие и амбиции древнего правителя.",
       "blurb": "Погрузитесь в мир первого императора Цинь Шихуана, где под землёй скрывается армия из тысяч глиняных воинов, колесниц и лошадей. На этой прогулке вы увидите разнообразные раскопы, познакомитесь с уникальными бронзовыми колесницами и заглянете в придворную жизнь императора, завершив маршрут у покрытого лесом кургана‑могилы в парке Лишань. Истории о строительстве, художественных приёмах и тайнах мавзолея помогут понять величие и амбиции древнего правителя.",
       "mood": "day_trip",
@@ -1489,7 +1489,15 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang_Statue,_Lintong,_Terracotta_Army_Museum_(9892294503).jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-1",
+          "sourceIds": [
+            "chinadaily_govt"
+          ]
         },
         {
           "id": "xian-terracotta-qin-mausoleum-2",
@@ -1524,7 +1532,16 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Warriors,_Pit_2_(9893361004).jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-2",
+          "sourceIds": [
+            "travelchinaguide_pit2",
+            "chinadaily_govt"
+          ]
         },
         {
           "id": "xian-terracotta-qin-mausoleum-3",
@@ -1559,7 +1576,15 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Warriors_of_Qin_Shihuang,_Pit_3_(\"Command_Post\").jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-3",
+          "sourceIds": [
+            "travelchinaguide_pit3"
+          ]
         },
         {
           "id": "xian-terracotta-qin-mausoleum-4",
@@ -1594,7 +1619,16 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Army,_View_of_Pit_1.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-4",
+          "sourceIds": [
+            "travelchinaguide_pit1",
+            "chinadaily_govt"
+          ]
         },
         {
           "id": "xian-terracotta-qin-mausoleum-5",
@@ -1629,7 +1663,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Dynasty_Bronze_Chariot.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-5",
+          "sourceIds": []
         },
         {
           "id": "xian-terracotta-qin-mausoleum-6",
@@ -1664,7 +1704,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Acrobat_(9897907493).jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-6",
+          "sourceIds": []
         },
         {
           "id": "xian-terracotta-qin-mausoleum-7",
@@ -1699,7 +1745,16 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang's_Mausoleum_(9897299296).jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-terracotta-qin-mausoleum-stop-7",
+          "sourceIds": [
+            "travelchinaguide_lishan_garden",
+            "chinadaily_govt"
+          ]
         }
       ],
       "cover": {
@@ -1720,7 +1775,8 @@
             "height": 1000
           }
         }
-      }
+      },
+      "coverAssetId": "xian-terracotta-qin-mausoleum-cover"
     },
     {
       "id": "xian-giant-goose-tang-axis",
@@ -1801,7 +1857,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dayan_Tower_Square.JPG",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-1",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-2",
@@ -1840,7 +1902,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120807_-_Aufstieg_zum_Tempel_bei_der_grossen_Wildgans_Pagode.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-2",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-3",
@@ -1879,7 +1947,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120907_-_Tempel_bei_grosser_Wildganspagode.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-3",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-4",
@@ -1918,7 +1992,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda,_Xi%27an,_May,_2018-2.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-4",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-5",
@@ -1957,7 +2037,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xuanzang_statue-2.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-5",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-6",
@@ -1996,7 +2082,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Tang_All_Day_Mall_51704-Xian_(27740239520).jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-6",
+          "sourceIds": []
         },
         {
           "id": "xian-giant-goose-tang-axis-7",
@@ -2035,7 +2127,13 @@
               "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%85%83%E5%B9%BF%E5%9C%BA1_-_panoramio.jpg",
               "retrievedAt": "2026-06-23"
             }
-          }
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "xian-giant-goose-tang-axis-stop-7",
+          "sourceIds": []
         }
       ],
       "cover": {
@@ -2044,7 +2142,8 @@
         "wide": "https://rentery.github.io/images/v1/xian/xian-giant-goose-tang-axis-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/xian/xian-giant-goose-tang-axis-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «xian-giant-goose-tang-axis»"
-      }
+      },
+      "coverAssetId": "xian-giant-goose-tang-axis-cover"
     }
   ],
   "locale": "ru",
@@ -2405,7 +2504,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang_Statue,_Lintong,_Terracotta_Army_Museum_(9892294503).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-1",
+      "sourceIds": [
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-2",
@@ -2440,7 +2547,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Warriors,_Pit_2_(9893361004).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-2",
+      "sourceIds": [
+        "travelchinaguide_pit2",
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-3",
@@ -2475,7 +2591,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Warriors_of_Qin_Shihuang,_Pit_3_(\"Command_Post\").jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-3",
+      "sourceIds": [
+        "travelchinaguide_pit3"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-4",
@@ -2510,7 +2634,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Army,_View_of_Pit_1.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-4",
+      "sourceIds": [
+        "travelchinaguide_pit1",
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-5",
@@ -2545,7 +2678,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Dynasty_Bronze_Chariot.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-5",
+      "sourceIds": []
     },
     {
       "id": "xian-terracotta-qin-mausoleum-6",
@@ -2580,7 +2719,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Acrobat_(9897907493).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-6",
+      "sourceIds": []
     },
     {
       "id": "xian-terracotta-qin-mausoleum-7",
@@ -2615,7 +2760,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang's_Mausoleum_(9897299296).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-7",
+      "sourceIds": [
+        "travelchinaguide_lishan_garden",
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-giant-goose-tang-axis-1",
@@ -2654,7 +2808,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dayan_Tower_Square.JPG",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-1",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-2",
@@ -2693,7 +2853,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120807_-_Aufstieg_zum_Tempel_bei_der_grossen_Wildgans_Pagode.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-2",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-3",
@@ -2732,7 +2898,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120907_-_Tempel_bei_grosser_Wildganspagode.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-3",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-4",
@@ -2771,7 +2943,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda,_Xi%27an,_May,_2018-2.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-4",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-5",
@@ -2810,7 +2988,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xuanzang_statue-2.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-5",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-6",
@@ -2849,7 +3033,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Tang_All_Day_Mall_51704-Xian_(27740239520).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-6",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-7",
@@ -2888,8 +3078,14 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%85%83%E5%B9%BF%E5%9C%BA1_-_panoramio.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-7",
+      "sourceIds": []
     }
   ],
-  "packHash": "16e96ef3c638"
+  "packHash": "e7c2ffb253af"
 }

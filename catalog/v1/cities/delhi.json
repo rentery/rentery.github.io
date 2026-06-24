@@ -2,19 +2,21 @@
   "id": "delhi",
   "slug": "delhi",
   "title": "Дели",
-  "subtitle": "Дели · 2 маршрута · 3 скоро",
-  "meta": "Индия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Дели · 4 маршрута · 1 скоро",
+  "meta": "Индия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "delhi-shahjahanabad-red-fort-bazaars",
-    "delhi-qutb-mehrauli-sultanate"
+    "delhi-qutb-mehrauli-sultanate",
+    "delhi-nizamuddin-humayun-sunder-nursery",
+    "delhi-kartavya-path-central-vista"
   ],
   "countryId": "india",
   "photo": {
     "id": "delhi-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Дели"
   },
   "identity": {

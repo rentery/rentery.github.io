@@ -2,11 +2,13 @@
   "id": "stockholm",
   "slug": "stockholm",
   "title": "Стокгольм",
-  "subtitle": "Стокгольм · 1 маршрут · 4 скоро",
-  "meta": "Швеция · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Стокгольм · 3 маршрута · 2 скоро",
+  "meta": "Швеция · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "stockholm-gamla-stan-riddarholmen"
+    "stockholm-gamla-stan-riddarholmen",
+    "stockholm-sodermalm-heights-slussen",
+    "stockholm-djurgarden-vasa-park-island"
   ],
   "countryId": "sweden",
   "photo": {

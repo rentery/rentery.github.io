@@ -2,19 +2,20 @@
   "id": "melbourne",
   "slug": "melbourne",
   "title": "Мельбурн",
-  "subtitle": "Мельбурн · 2 маршрута · 3 скоро",
-  "meta": "Австралия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Мельбурн · 3 маршрута · 2 скоро",
+  "meta": "Австралия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "melbourne-laneways-arcades-cbd",
-    "melbourne-birrarung-aboriginal-river-edge"
+    "melbourne-birrarung-aboriginal-river-edge",
+    "melbourne-northern-civic-market-exhibition"
   ],
   "countryId": "australia",
   "photo": {
     "id": "melbourne-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Мельбурн"
   },
   "identity": {

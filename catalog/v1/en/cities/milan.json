@@ -2,19 +2,20 @@
   "id": "milan",
   "slug": "milan",
   "title": "Милан",
-  "subtitle": "Милан · 2 маршрута · 3 скоро",
-  "meta": "Италия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Милан · 3 маршрута · 2 скоро",
+  "meta": "Италия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "milan-duomo-scala-brera-stage",
-    "milan-leonardo-sforza-renaissance-line"
+    "milan-leonardo-sforza-renaissance-line",
+    "milan-navigli-water-evening"
   ],
   "countryId": "italy",
   "photo": {
     "id": "milan-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Милан"
   },
   "identity": {

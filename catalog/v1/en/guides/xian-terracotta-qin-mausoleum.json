@@ -2,7 +2,7 @@
   "id": "xian-terracotta-qin-mausoleum",
   "cityId": "xian",
   "category": "Район",
-  "title": "Терракотовая армия: империя у подножия Лишаня",
+  "title": "xian-terracotta-qin-mausoleum",
   "subtitle": "Погрузитесь в мир первого императора Цинь Шихуана, где под землёй скрывается армия из тысяч глиняных воинов, колесниц и лошадей. На этой прогулке вы увидите разнообразные раскопы, познакомитесь с уникальными бронзовыми колесницами и заглянете в придворную жизнь императора, завершив маршрут у покрытого лесом кургана‑могилы в парке Лишань. Истории о строительстве, художественных приёмах и тайнах мавзолея помогут понять величие и амбиции древнего правителя.",
   "blurb": "Погрузитесь в мир первого императора Цинь Шихуана, где под землёй скрывается армия из тысяч глиняных воинов, колесниц и лошадей. На этой прогулке вы увидите разнообразные раскопы, познакомитесь с уникальными бронзовыми колесницами и заглянете в придворную жизнь императора, завершив маршрут у покрытого лесом кургана‑могилы в парке Лишань. Истории о строительстве, художественных приёмах и тайнах мавзолея помогут понять величие и амбиции древнего правителя.",
   "mood": "day_trip",
@@ -62,7 +62,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang_Statue,_Lintong,_Terracotta_Army_Museum_(9892294503).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-1",
+      "sourceIds": [
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-2",
@@ -97,7 +105,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Warriors,_Pit_2_(9893361004).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-2",
+      "sourceIds": [
+        "travelchinaguide_pit2",
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-3",
@@ -132,7 +149,15 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Warriors_of_Qin_Shihuang,_Pit_3_(\"Command_Post\").jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-3",
+      "sourceIds": [
+        "travelchinaguide_pit3"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-4",
@@ -167,7 +192,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_Army,_View_of_Pit_1.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-4",
+      "sourceIds": [
+        "travelchinaguide_pit1",
+        "chinadaily_govt"
+      ]
     },
     {
       "id": "xian-terracotta-qin-mausoleum-5",
@@ -202,7 +236,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Dynasty_Bronze_Chariot.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-5",
+      "sourceIds": []
     },
     {
       "id": "xian-terracotta-qin-mausoleum-6",
@@ -237,7 +277,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Acrobat_(9897907493).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-6",
+      "sourceIds": []
     },
     {
       "id": "xian-terracotta-qin-mausoleum-7",
@@ -272,7 +318,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang's_Mausoleum_(9897299296).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-terracotta-qin-mausoleum-stop-7",
+      "sourceIds": [
+        "travelchinaguide_lishan_garden",
+        "chinadaily_govt"
+      ]
     }
   ],
   "cover": {
@@ -293,5 +348,6 @@
         "height": 1000
       }
     }
-  }
+  },
+  "coverAssetId": "xian-terracotta-qin-mausoleum-cover"
 }

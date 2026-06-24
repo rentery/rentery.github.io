@@ -2,12 +2,14 @@
   "id": "hanoi",
   "slug": "hanoi",
   "title": "Ханой",
-  "subtitle": "Ханой · 2 маршрута · 3 скоро",
-  "meta": "Вьетнам · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Ханой · 4 маршрута · 1 скоро",
+  "meta": "Вьетнам · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "hanoi-old-quarter-hoan-kiem-guilds",
-    "hanoi-thang-long-ba-dinh-power"
+    "hanoi-thang-long-ba-dinh-power",
+    "hanoi-van-mieu-scholar-city",
+    "hanoi-french-quarter-hoa-lo-revolution"
   ],
   "countryId": "vietnam",
   "photo": {

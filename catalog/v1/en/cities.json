@@ -42,7 +42,9 @@
     "meta": "South Korea - palaces, hills, markets, museums, and the Hangang",
     "practicalNote": "This city guide is being refreshed: coming-soon walks are available now, and full routes will be added gradually.",
     "guideIds": [
-      "seoul-gwanghwamun-bukchon-jongno-layers"
+      "seoul-gwanghwamun-bukchon-jongno-layers",
+      "seoul-cheonggyecheon-euljiro-ddp-transformation",
+      "seoul-changdeokgung-jongmyo-ritual-city"
     ],
     "coordinates": {
       "latitude": 37.566,
@@ -63,8 +65,8 @@
       "alt": "Сеул у реки Ханган с силуэтом Намсана и крышами внизу",
       "id": "seoul-hero",
       "kind": "generated",
-      "square": "https://rentery.github.io/images/v1/seoul/seoul-hero-square.jpg",
-      "wide": "https://rentery.github.io/images/v1/seoul/seoul-hero-wide.jpg"
+      "square": "",
+      "wide": ""
     }
   },
   {
@@ -216,13 +218,14 @@
     "id": "bologna",
     "slug": "bologna",
     "title": "Болонья",
-    "subtitle": "Болонья · 3 маршрута · 2 скоро",
-    "meta": "Италия · 3 маршрута опубликовано",
-    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Болонья · 4 маршрута · 1 скоро",
+    "meta": "Италия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bologna-piazza-maggiore-towers-santo-stefano",
       "bologna-san-luca-portico-hill",
-      "bologna-quadrilatero-mercato-food-evening"
+      "bologna-quadrilatero-mercato-food-evening",
+      "bologna-via-zamboni-university-district"
     ],
     "countryId": "italy",
     "photo": {
@@ -246,12 +249,13 @@
     "id": "bordeaux",
     "slug": "bordeaux",
     "title": "Бордо",
-    "subtitle": "Бордо · 2 маршрута · 3 скоро",
+    "subtitle": "Бордо · 3 маршрута · 2 скоро",
     "meta": "Франция · Порт Луны, Гаронна и светлый камень",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bordeaux-port-de-la-lune-stone-river",
-      "bordeaux-saint-michel-market-medieval-south"
+      "bordeaux-saint-michel-market-medieval-south",
+      "bordeaux-chartrons-wine-merchants-quays"
     ],
     "countryId": "france",
     "photo": {
@@ -275,12 +279,14 @@
     "id": "budapest",
     "slug": "budapest",
     "title": "Будапешт",
-    "subtitle": "Будапешт · 2 маршрута · 3 скоро",
-    "meta": "Венгрия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Будапешт · 4 маршрута · 1 скоро",
+    "meta": "Венгрия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "budapest-buda-castle-hill-layers",
-      "budapest-pest-danube-civic-stage"
+      "budapest-pest-danube-civic-stage",
+      "budapest-jewish-quarter-courtyards-memory",
+      "budapest-andrassy-city-park-millennium"
     ],
     "countryId": "hungary",
     "photo": {
@@ -304,12 +310,14 @@
     "id": "cape-town",
     "slug": "cape-town",
     "title": "Кейптаун",
-    "subtitle": "Кейптаун · 2 маршрута · 3 скоро",
-    "meta": "ЮАР · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Кейптаун · 4 маршрута · 1 скоро",
+    "meta": "ЮАР · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "cape-town-district-six-castle-garden",
-      "cape-town-bo-kaap-colour-faith"
+      "cape-town-bo-kaap-colour-faith",
+      "cape-town-waterfront-silo-harbour",
+      "cape-town-table-mountain-pipe-track"
     ],
     "countryId": "south-africa",
     "photo": {
@@ -333,12 +341,14 @@
     "id": "charleston-sc",
     "slug": "charleston-sc",
     "title": "Чарлстон",
-    "subtitle": "Чарлстон · 2 маршрута · 3 скоро",
-    "meta": "США · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чарлстон · 4 маршрута · 1 скоро",
+    "meta": "США · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "charleston-sc-port-battery-waterfront",
-      "charleston-sc-gadsdens-wharf-black-memory"
+      "charleston-sc-gadsdens-wharf-black-memory",
+      "charleston-sc-museum-mile-meeting-street",
+      "charleston-sc-legare-tradd-house-grammar"
     ],
     "countryId": "united-states",
     "photo": {
@@ -362,12 +372,14 @@
     "id": "chicago",
     "slug": "chicago",
     "title": "Чикаго",
-    "subtitle": "Чикаго · 2 маршрута · 3 скоро",
-    "meta": "США · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чикаго · 4 маршрута · 1 скоро",
+    "meta": "США · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "chicago-river-loop-vertical-city",
-      "chicago-millennium-grant-lakefront"
+      "chicago-millennium-grant-lakefront",
+      "chicago-pilsen-murals-18th-street",
+      "chicago-bronzeville-black-metropolis"
     ],
     "countryId": "united-states",
     "photo": {
@@ -391,12 +403,14 @@
     "id": "granada",
     "slug": "granada",
     "title": "Гранада",
-    "subtitle": "Гранада · 2 маршрута · 3 скоро",
-    "meta": "Испания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гранада · 4 маршрута · 1 скоро",
+    "meta": "Испания · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "granada-alhambra-generalife-power-water",
-      "granada-albaicin-darro-viewpoints"
+      "granada-albaicin-darro-viewpoints",
+      "granada-realejo-jewish-quarter-gardens",
+      "granada-cathedral-royal-chapel-new-power"
     ],
     "countryId": "spain",
     "photo": {
@@ -420,12 +434,14 @@
     "id": "ghent",
     "slug": "ghent",
     "title": "Гент",
-    "subtitle": "Гент · 2 маршрута · 3 скоро",
-    "meta": "Бельгия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гент · 4 маршрута · 1 скоро",
+    "meta": "Бельгия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "ghent-three-towers-river-power",
-      "ghent-gravensteen-patershol-power"
+      "ghent-gravensteen-patershol-power",
+      "ghent-portus-ganda-abbey-origins",
+      "ghent-citadelpark-arts-quarter"
     ],
     "countryId": "belgium",
     "photo": {
@@ -449,12 +465,14 @@
     "id": "florence",
     "slug": "florence",
     "title": "Флоренция",
-    "subtitle": "Флоренция · 2 маршрута · 3 скоро",
-    "meta": "Италия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Флоренция · 4 маршрута · 1 скоро",
+    "meta": "Италия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "florence-duomo-signoria-renaissance-engine",
-      "florence-oltrarno-pitti-santo-spirito"
+      "florence-oltrarno-pitti-santo-spirito",
+      "florence-santa-croce-dante-civic-memory",
+      "florence-san-lorenzo-medici-family-power"
     ],
     "countryId": "italy",
     "photo": {
@@ -478,12 +496,14 @@
     "id": "edinburgh",
     "slug": "edinburgh",
     "title": "Эдинбург",
-    "subtitle": "Эдинбург · 2 маршрута · 3 скоро",
-    "meta": "Великобритания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Эдинбург · 4 маршрута · 1 скоро",
+    "meta": "Великобритания · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "edinburgh-royal-mile-power-and-closes",
-      "edinburgh-new-town-enlightenment-grid"
+      "edinburgh-new-town-enlightenment-grid",
+      "edinburgh-dean-village-water-of-leith",
+      "edinburgh-calton-hill-holyrood-skyline"
     ],
     "countryId": "united-kingdom",
     "photo": {
@@ -507,12 +527,14 @@
     "id": "dubai",
     "slug": "dubai",
     "title": "Дубай",
-    "subtitle": "Дубай · 2 маршрута · 3 скоро",
-    "meta": "Объединённые Арабские Эмираты · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дубай · 4 маршрута · 1 скоро",
+    "meta": "Объединённые Арабские Эмираты · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "dubai-creek-al-fahidi-deira-souks",
-      "dubai-downtown-burj-lake-opera"
+      "dubai-downtown-burj-lake-opera",
+      "dubai-marina-jbr-bluewaters-waterfront",
+      "dubai-jumeirah-mosque-etihad-museum"
     ],
     "countryId": "united-arab-emirates",
     "photo": {
@@ -536,19 +558,21 @@
     "id": "delhi",
     "slug": "delhi",
     "title": "Дели",
-    "subtitle": "Дели · 2 маршрута · 3 скоро",
-    "meta": "Индия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дели · 4 маршрута · 1 скоро",
+    "meta": "Индия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "delhi-shahjahanabad-red-fort-bazaars",
-      "delhi-qutb-mehrauli-sultanate"
+      "delhi-qutb-mehrauli-sultanate",
+      "delhi-nizamuddin-humayun-sunder-nursery",
+      "delhi-kartavya-path-central-vista"
     ],
     "countryId": "india",
     "photo": {
       "id": "delhi-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/delhi/delhi-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Дели"
     },
     "identity": {
@@ -565,19 +589,21 @@
     "id": "cusco",
     "slug": "cusco",
     "title": "Куско",
-    "subtitle": "Куско · 2 маршрута · 3 скоро",
-    "meta": "Перу · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Куско · 4 маршрута · 1 скоро",
+    "meta": "Перу · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "cusco-plaza-qorikancha-layers",
-      "cusco-saqsaywaman-qenqo-skyline"
+      "cusco-saqsaywaman-qenqo-skyline",
+      "cusco-san-pedro-santa-clara-market",
+      "cusco-san-blas-artisan-hill"
     ],
     "countryId": "peru",
     "photo": {
       "id": "cusco-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Куско"
     },
     "identity": {
@@ -594,19 +620,21 @@
     "id": "bruges",
     "slug": "bruges",
     "title": "Брюгге",
-    "subtitle": "Брюгге · 2 маршрута · 3 скоро",
-    "meta": "Бельгия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Брюгге · 4 маршрута · 1 скоро",
+    "meta": "Бельгия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bruges-markt-burg-civic-power",
-      "bruges-hanseatic-canals-merchant-city"
+      "bruges-hanseatic-canals-merchant-city",
+      "bruges-museum-quarter-flemish-primitives",
+      "bruges-minnewater-beguinage-silence"
     ],
     "countryId": "belgium",
     "photo": {
       "id": "bruges-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/bruges/bruges-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Брюгге"
     },
     "identity": {
@@ -623,12 +651,14 @@
     "id": "boston",
     "slug": "boston",
     "title": "Бостон",
-    "subtitle": "Бостон · 2 маршрута · 3 скоро",
-    "meta": "США · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Бостон · 4 маршрута · 1 скоро",
+    "meta": "США · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "boston-freedom-trail-revolution-city",
-      "boston-beacon-hill-black-heritage"
+      "boston-beacon-hill-black-heritage",
+      "boston-fort-point-seaport-harborwalk",
+      "boston-back-bay-copley-made-land"
     ],
     "countryId": "united-states",
     "photo": {
@@ -652,13 +682,14 @@
     "id": "bogota",
     "slug": "bogota",
     "title": "Богота",
-    "subtitle": "Богота · 3 маршрута · 2 скоро",
-    "meta": "Колумбия · 3 маршрута опубликовано",
-    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Богота · 4 маршрута · 1 скоро",
+    "meta": "Колумбия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "bogota-candelaria-gold-power",
       "bogota-monserrate-eastern-hills",
-      "bogota-centro-internacional-macarena"
+      "bogota-centro-internacional-macarena",
+      "bogota-chapinero-quinta-camacho"
     ],
     "countryId": "colombia",
     "photo": {
@@ -682,12 +713,14 @@
     "id": "fes",
     "slug": "fes",
     "title": "Фес",
-    "subtitle": "Фес · 2 маршрута · 3 скоро",
+    "subtitle": "Фес · 4 маршрута · 1 скоро",
     "meta": "Марокко · медина, медресе, рынки и ремесло",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "fes-bab-boujloud-qarawiyyin-layers",
-      "fes-el-jdid-mellah-jnan-sbil"
+      "fes-el-jdid-mellah-jnan-sbil",
+      "fes-northern-walls-merinid-views",
+      "fes-nejjarine-seffarine-chouara-crafts"
     ],
     "countryId": "morocco",
     "photo": {
@@ -711,12 +744,14 @@
     "id": "george-town-malaysia",
     "slug": "george-town-malaysia",
     "title": "Джорджтаун",
-    "subtitle": "Джорджтаун · 2 маршрута · 3 скоро",
+    "subtitle": "Джорджтаун · 4 маршрута · 1 скоро",
     "meta": "Малайзия · старый порт, форт, кланы и многообщинные улицы",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "george-town-malaysia-fort-clans-port-layers",
-      "george-town-malaysia-clan-jetties-weld-quay"
+      "george-town-malaysia-clan-jetties-weld-quay",
+      "george-town-malaysia-little-india-street-of-harmony",
+      "george-town-malaysia-armenian-street-art-clans"
     ],
     "countryId": "malaysia",
     "photo": {
@@ -893,12 +928,14 @@
     "id": "brussels",
     "slug": "brussels",
     "title": "Брюссель",
-    "subtitle": "Брюссель · 2 маршрута · 3 скоро",
-    "meta": "Бельгия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Брюссель · 4 маршрута · 1 скоро",
+    "meta": "Бельгия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "brussels-grand-place-lower-town",
-      "brussels-saint-gilles-ixelles-art-nouveau"
+      "brussels-saint-gilles-ixelles-art-nouveau",
+      "brussels-royal-quarter-mont-des-arts",
+      "brussels-sablon-marolles-justice"
     ],
     "countryId": "belgium",
     "photo": {
@@ -922,12 +959,13 @@
     "id": "buenos-aires",
     "slug": "buenos-aires",
     "title": "Буэнос-Айрес",
-    "subtitle": "Буэнос-Айрес · 2 маршрута · 3 скоро",
-    "meta": "Аргентина · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Буэнос-Айрес · 3 маршрута · 2 скоро",
+    "meta": "Аргентина · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "buenos-aires-plaza-de-mayo-avenida-power-axis",
-      "buenos-aires-san-telmo-old-city-tango"
+      "buenos-aires-san-telmo-old-city-tango",
+      "buenos-aires-la-boca-port-color-football"
     ],
     "countryId": "argentina",
     "photo": {
@@ -951,12 +989,14 @@
     "id": "busan",
     "slug": "busan",
     "title": "Пусан",
-    "subtitle": "Пусан · 2 маршрута · 3 скоро",
-    "meta": "Южная Корея · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Пусан · 4 маршрута · 1 скоро",
+    "meta": "Южная Корея · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "busan-nampo-jagalchi-old-port",
-      "busan-gamcheon-hillside-after-war"
+      "busan-gamcheon-hillside-after-war",
+      "busan-yeongdo-huinnyeoul-cliff-village",
+      "busan-haeundae-dongbaekseom-coast"
     ],
     "countryId": "south-korea",
     "photo": {
@@ -980,12 +1020,14 @@
     "id": "cairo",
     "slug": "cairo",
     "title": "Каир",
-    "subtitle": "Каир · 2 маршрута · 3 скоро",
-    "meta": "Египет · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Каир · 4 маршрута · 1 скоро",
+    "meta": "Египет · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "cairo-muizz-fatimid-mamluk-spine",
-      "cairo-giza-plateau-pyramids"
+      "cairo-giza-plateau-pyramids",
+      "cairo-coptic-fustat-faiths",
+      "cairo-citadel-sultan-hassan-power"
     ],
     "countryId": "egypt",
     "photo": {
@@ -1009,19 +1051,21 @@
     "id": "cartagena-colombia",
     "slug": "cartagena-colombia",
     "title": "Картахена",
-    "subtitle": "Картахена · 2 маршрута · 3 скоро",
-    "meta": "Колумбия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Картахена · 4 маршрута · 1 скоро",
+    "meta": "Колумбия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "cartagena-colombia-old-port-walls-fortress",
-      "cartagena-colombia-getsemani-popular-quarter"
+      "cartagena-colombia-getsemani-popular-quarter",
+      "cartagena-colombia-san-felipe-land-defense",
+      "cartagena-colombia-san-diego-walls-literary-quarter"
     ],
     "countryId": "colombia",
     "photo": {
       "id": "cartagena-colombia-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Картахена"
     },
     "identity": {
@@ -1038,19 +1082,21 @@
     "id": "chiang-mai",
     "slug": "chiang-mai",
     "title": "Чиангмай",
-    "subtitle": "Чиангмай · 2 маршрута · 3 скоро",
-    "meta": "Таиланд · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Чиангмай · 4 маршрута · 1 скоро",
+    "meta": "Таиланд · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "chiang-mai-old-city-lanna-moat",
-      "chiang-mai-doi-suthep-sacred-mountain"
+      "chiang-mai-doi-suthep-sacred-mountain",
+      "chiang-mai-wua-lai-silver-south-gate",
+      "chiang-mai-mae-ping-wat-ket-trade"
     ],
     "countryId": "thailand",
     "photo": {
       "id": "chiang-mai-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Чиангмай"
     },
     "identity": {
@@ -1067,12 +1113,14 @@
     "id": "copenhagen",
     "slug": "copenhagen",
     "title": "Копенгаген",
-    "subtitle": "Копенгаген · 2 маршрута · 3 скоро",
-    "meta": "Дания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Копенгаген · 4 маршрута · 1 скоро",
+    "meta": "Дания · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "copenhagen-slotsholmen-old-harbour",
-      "copenhagen-rosenborg-amalienborg-kastellet"
+      "copenhagen-rosenborg-amalienborg-kastellet",
+      "copenhagen-harbour-architecture-bridges",
+      "copenhagen-christianshavn-christiania-canals"
     ],
     "countryId": "denmark",
     "photo": {
@@ -1096,19 +1144,21 @@
     "id": "dublin",
     "slug": "dublin",
     "title": "Дублин",
-    "subtitle": "Дублин · 2 маршрута · 3 скоро",
-    "meta": "Ирландия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дублин · 4 маршрута · 1 скоро",
+    "meta": "Ирландия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "dublin-castle-walls-trinity-power",
-      "dublin-georgian-south-literary"
+      "dublin-georgian-south-literary",
+      "dublin-liberties-cathedral-brewery",
+      "dublin-kilmainham-gaol-hospital-memory"
     ],
     "countryId": "ireland",
     "photo": {
       "id": "dublin-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Дублин"
     },
     "identity": {
@@ -1125,19 +1175,21 @@
     "id": "dubrovnik",
     "slug": "dubrovnik",
     "title": "Дубровник",
-    "subtitle": "Дубровник · 2 маршрута · 3 скоро",
-    "meta": "Хорватия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Дубровник · 4 маршрута · 1 скоро",
+    "meta": "Хорватия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "dubrovnik-old-city-republic-spine",
-      "dubrovnik-walls-forts-sea-ring"
+      "dubrovnik-walls-forts-sea-ring",
+      "dubrovnik-srd-view-defence-memory",
+      "dubrovnik-ploce-old-port-quarantine"
     ],
     "countryId": "croatia",
     "photo": {
       "id": "dubrovnik-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Дубровник"
     },
     "identity": {
@@ -1154,12 +1206,14 @@
     "id": "hanoi",
     "slug": "hanoi",
     "title": "Ханой",
-    "subtitle": "Ханой · 2 маршрута · 3 скоро",
-    "meta": "Вьетнам · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Ханой · 4 маршрута · 1 скоро",
+    "meta": "Вьетнам · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "hanoi-old-quarter-hoan-kiem-guilds",
-      "hanoi-thang-long-ba-dinh-power"
+      "hanoi-thang-long-ba-dinh-power",
+      "hanoi-van-mieu-scholar-city",
+      "hanoi-french-quarter-hoa-lo-revolution"
     ],
     "countryId": "vietnam",
     "photo": {
@@ -1183,19 +1237,21 @@
     "id": "havana",
     "slug": "havana",
     "title": "Гавана",
-    "subtitle": "Гавана · 2 маршрута · 3 скоро",
-    "meta": "Куба · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гавана · 4 маршрута · 1 скоро",
+    "meta": "Куба · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "havana-old-havana-plazas-port",
-      "havana-morro-cabana-bay-fortresses"
+      "havana-morro-cabana-bay-fortresses",
+      "havana-vedado-malecon-modern-city",
+      "havana-prado-capitolio-revolution-palace"
     ],
     "countryId": "cuba",
     "photo": {
       "id": "havana-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/havana/havana-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/havana/havana-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Гавана"
     },
     "identity": {
@@ -1212,12 +1268,13 @@
     "id": "helsinki",
     "slug": "helsinki",
     "title": "Хельсинки",
-    "subtitle": "Хельсинки · 2 маршрута · 3 скоро",
-    "meta": "Финляндия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Хельсинки · 3 маршрута · 2 скоро",
+    "meta": "Финляндия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "helsinki-senate-harbour-capital",
-      "helsinki-suomenlinna-fortress-islands"
+      "helsinki-suomenlinna-fortress-islands",
+      "helsinki-design-district-jugend-south"
     ],
     "countryId": "finland",
     "photo": {
@@ -1245,7 +1302,9 @@
     "meta": "Vietnam · routes in progress",
     "practicalNote": "This city guide is being prepared: coming-soon walks are available now, and full routes will be added gradually.",
     "guideIds": [
-      "ho-chi-minh-city-cholon-markets-temples"
+      "ho-chi-minh-city-cholon-markets-temples",
+      "ho-chi-minh-city-district-3-memory-villas",
+      "ho-chi-minh-city-ben-thanh-traders-art-deco"
     ],
     "countryId": "vietnam",
     "photo": {
@@ -1269,12 +1328,13 @@
     "id": "mexico-city",
     "slug": "mexico-city",
     "title": "Мехико",
-    "subtitle": "Мехико · 2 маршрута · 3 скоро",
-    "meta": "Мексика · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мехико · 3 маршрута · 2 скоро",
+    "meta": "Мексика · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "mexico-city-centro-tenochtitlan-layers",
-      "mexico-city-chapultepec-memory-forest"
+      "mexico-city-chapultepec-memory-forest",
+      "mexico-city-coyoacan-village-art"
     ],
     "countryId": "mexico",
     "photo": {
@@ -1298,19 +1358,20 @@
     "id": "milan",
     "slug": "milan",
     "title": "Милан",
-    "subtitle": "Милан · 2 маршрута · 3 скоро",
-    "meta": "Италия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Милан · 3 маршрута · 2 скоро",
+    "meta": "Италия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "milan-duomo-scala-brera-stage",
-      "milan-leonardo-sforza-renaissance-line"
+      "milan-leonardo-sforza-renaissance-line",
+      "milan-navigli-water-evening"
     ],
     "countryId": "italy",
     "photo": {
       "id": "milan-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/milan/milan-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/milan/milan-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Милан"
     },
     "identity": {
@@ -1327,12 +1388,13 @@
     "id": "montreal",
     "slug": "montreal",
     "title": "Монреаль",
-    "subtitle": "Монреаль · 2 маршрута · 3 скоро",
-    "meta": "Канада · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Монреаль · 3 маршрута · 2 скоро",
+    "meta": "Канада · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "montreal-old-montreal-port-foundation",
-      "montreal-mount-royal-golden-square-mile"
+      "montreal-mount-royal-golden-square-mile",
+      "montreal-plateau-mile-end-main"
     ],
     "countryId": "canada",
     "photo": {
@@ -1356,12 +1418,13 @@
     "id": "mumbai",
     "slug": "mumbai",
     "title": "Мумбаи",
-    "subtitle": "Мумбаи · 2 маршрута · 3 скоро",
-    "meta": "Индия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мумбаи · 3 маршрута · 2 скоро",
+    "meta": "Индия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "mumbai-fort-gateway-port-city",
-      "mumbai-oval-maidan-art-deco-gothic"
+      "mumbai-oval-maidan-art-deco-gothic",
+      "mumbai-bhuleshwar-markets-mumbadevi"
     ],
     "countryId": "india",
     "photo": {
@@ -1385,19 +1448,20 @@
     "id": "munich",
     "slug": "munich",
     "title": "Мюнхен",
-    "subtitle": "Мюнхен · 2 маршрута · 3 скоро",
-    "meta": "Германия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мюнхен · 3 маршрута · 2 скоро",
+    "meta": "Германия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "munich-altstadt-marienplatz-residenz",
-      "munich-nymphenburg-palace-park"
+      "munich-nymphenburg-palace-park",
+      "munich-koenigsplatz-kunstareal-memory"
     ],
     "countryId": "germany",
     "photo": {
       "id": "munich-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Мюнхен"
     },
     "identity": {
@@ -1414,12 +1478,13 @@
     "id": "naples",
     "slug": "naples",
     "title": "Неаполь",
-    "subtitle": "Неаполь · 2 маршрута · 3 скоро",
-    "meta": "Италия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Неаполь · 3 маршрута · 2 скоро",
+    "meta": "Италия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "naples-spaccanapoli-decumani-layers",
-      "naples-via-toledo-quartieri-spagnoli"
+      "naples-via-toledo-quartieri-spagnoli",
+      "naples-megaride-chiaia-seafront"
     ],
     "countryId": "italy",
     "photo": {
@@ -1443,19 +1508,20 @@
     "id": "new-orleans",
     "slug": "new-orleans",
     "title": "Новый Орлеан",
-    "subtitle": "Новый Орлеан · 2 маршрута · 3 скоро",
-    "meta": "США · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Новый Орлеан · 3 маршрута · 2 скоро",
+    "meta": "США · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "new-orleans-french-quarter-mississippi-layers",
-      "new-orleans-garden-district-st-charles-oaks"
+      "new-orleans-garden-district-st-charles-oaks",
+      "new-orleans-treme-congo-square-music-memory"
     ],
     "countryId": "united-states",
     "photo": {
       "id": "new-orleans-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Новый Орлеан"
     },
     "identity": {
@@ -1472,19 +1538,20 @@
     "id": "new-york",
     "slug": "new-york",
     "title": "Нью-Йорк",
-    "subtitle": "Нью-Йорк · 2 маршрута · 3 скоро",
-    "meta": "США · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Нью-Йорк · 3 маршрута · 2 скоро",
+    "meta": "США · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "new-york-lower-manhattan-harbor-power",
-      "new-york-central-park-designed-nature"
+      "new-york-central-park-designed-nature",
+      "new-york-brooklyn-bridge-dumbo-waterfront"
     ],
     "countryId": "united-states",
     "photo": {
       "id": "new-york-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Нью-Йорк"
     },
     "identity": {
@@ -1501,12 +1568,13 @@
     "id": "oaxaca",
     "slug": "oaxaca",
     "title": "Оахака",
-    "subtitle": "Оахака · 2 маршрута · 3 скоро",
-    "meta": "Мексика · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Оахака · 3 маршрута · 2 скоро",
+    "meta": "Мексика · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "oaxaca-zocalo-santo-domingo-layers",
-      "oaxaca-monte-alban-sacred-topography"
+      "oaxaca-monte-alban-sacred-topography",
+      "oaxaca-markets-smoke-soledad"
     ],
     "countryId": "mexico",
     "photo": {
@@ -1530,12 +1598,13 @@
     "id": "osaka",
     "slug": "osaka",
     "title": "Осака",
-    "subtitle": "Осака · 2 маршрута · 3 скоро",
-    "meta": "Япония · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Осака · 3 маршрута · 2 скоро",
+    "meta": "Япония · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "osaka-castle-nakanoshima-water-power",
-      "osaka-dotonbori-namba-neon-food-theatre"
+      "osaka-dotonbori-namba-neon-food-theatre",
+      "osaka-shinsekai-tennoji-retro-future"
     ],
     "countryId": "japan",
     "photo": {
@@ -1559,18 +1628,20 @@
     "id": "oslo",
     "slug": "oslo",
     "title": "Осло",
-    "subtitle": "Осло · 1 маршрут · 4 скоро",
-    "meta": "Норвегия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Осло · 3 маршрута · 2 скоро",
+    "meta": "Норвегия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "oslo-akershus-bjorvika-fjord-layers"
+      "oslo-akershus-bjorvika-fjord-layers",
+      "oslo-grunerlokka-akerselva-industrial-neighborhood",
+      "oslo-frogner-vigeland-human-park"
     ],
     "countryId": "norway",
     "photo": {
       "id": "oslo-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Осло"
     },
     "identity": {
@@ -1587,18 +1658,20 @@
     "id": "paris",
     "slug": "paris",
     "title": "Париж",
-    "subtitle": "Париж · 1 маршрут · 4 скоро",
-    "meta": "Франция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Париж · 3 маршрута · 2 скоро",
+    "meta": "Франция · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "paris-ile-de-la-cite-seine-origin"
+      "paris-ile-de-la-cite-seine-origin",
+      "paris-trocadero-eiffel-invalides-perspectives",
+      "paris-louvre-tuileries-royal-axis"
     ],
     "countryId": "france",
     "photo": {
       "id": "paris-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/paris/paris-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/paris/paris-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Париж"
     },
     "identity": {
@@ -1615,11 +1688,13 @@
     "id": "philadelphia",
     "slug": "philadelphia",
     "title": "Филадельфия",
-    "subtitle": "Филадельфия · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Филадельфия · 3 маршрута · 2 скоро",
+    "meta": "США · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "philadelphia-independence-old-city-republic"
+      "philadelphia-independence-old-city-republic",
+      "philadelphia-south-ninth-immigrant-market",
+      "philadelphia-parkway-museums-axis"
     ],
     "countryId": "united-states",
     "photo": {
@@ -1643,12 +1718,13 @@
     "id": "porto",
     "slug": "porto",
     "title": "Порту",
-    "subtitle": "Порту · 2 маршрута · 3 скоро",
-    "meta": "Португалия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Порту · 3 маршрута · 2 скоро",
+    "meta": "Португалия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "porto-se-ribeira-layers",
-      "porto-gaia-wine-river-views"
+      "porto-gaia-wine-river-views",
+      "porto-baixa-bolhao-city-life"
     ],
     "countryId": "portugal",
     "photo": {
@@ -1672,12 +1748,13 @@
     "id": "prague",
     "slug": "prague",
     "title": "Прага",
-    "subtitle": "Прага · 2 маршрута · 3 скоро",
-    "meta": "Чехия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Прага · 3 маршрута · 2 скоро",
+    "meta": "Чехия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "prague-royal-route-castle-layers",
-      "prague-josefov-old-town-memory"
+      "prague-josefov-old-town-memory",
+      "prague-mala-strana-kampa-water"
     ],
     "countryId": "czechia",
     "photo": {
@@ -1701,12 +1778,13 @@
     "id": "quebec-city",
     "slug": "quebec-city",
     "title": "Квебек",
-    "subtitle": "Квебек · 2 маршрута · 3 скоро",
-    "meta": "Канада · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Квебек · 3 маршрута · 2 скоро",
+    "meta": "Канада · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "quebec-city-old-quebec-cliff-river",
-      "quebec-city-fortifications-walled-city"
+      "quebec-city-fortifications-walled-city",
+      "quebec-city-parliament-plains-memory"
     ],
     "countryId": "canada",
     "photo": {
@@ -1730,11 +1808,13 @@
     "id": "quito",
     "slug": "quito",
     "title": "Кито",
-    "subtitle": "Кито · 1 маршрут · 4 скоро",
-    "meta": "Эквадор · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Кито · 3 маршрута · 2 скоро",
+    "meta": "Эквадор · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "quito-historic-center-barroco-la-ronda"
+      "quito-historic-center-barroco-la-ronda",
+      "quito-guapulo-valley-descent",
+      "quito-cruz-loma-teleferico-pichincha"
     ],
     "countryId": "ecuador",
     "photo": {
@@ -1758,18 +1838,20 @@
     "id": "riga",
     "slug": "riga",
     "title": "Рига",
-    "subtitle": "Рига · 1 маршрут · 4 скоро",
-    "meta": "Латвия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Рига · 3 маршрута · 2 скоро",
+    "meta": "Латвия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "riga-old-town-hanseatic-layers"
+      "riga-old-town-hanseatic-layers",
+      "riga-quiet-centre-art-nouveau",
+      "riga-boulevard-ring-canal-capital"
     ],
     "countryId": "latvia",
     "photo": {
       "id": "riga-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/riga/riga-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/riga/riga-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Рига"
     },
     "identity": {
@@ -1786,18 +1868,20 @@
     "id": "rio-de-janeiro",
     "slug": "rio-de-janeiro",
     "title": "Рио-де-Жанейро",
-    "subtitle": "Рио-де-Жанейро · 1 маршрут · 4 скоро",
-    "meta": "Бразилия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Рио-де-Жанейро · 3 маршрута · 2 скоро",
+    "meta": "Бразилия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "rio-de-janeiro-centro-imperial-republica"
+      "rio-de-janeiro-centro-imperial-republica",
+      "rio-de-janeiro-pequena-africa-porto-maravilha",
+      "rio-de-janeiro-lapa-santa-teresa-hillside"
     ],
     "countryId": "brazil",
     "photo": {
       "id": "rio-de-janeiro-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Рио-де-Жанейро"
     },
     "identity": {
@@ -1814,11 +1898,13 @@
     "id": "rome",
     "slug": "rome",
     "title": "Рим",
-    "subtitle": "Рим · 1 маршрут · 4 скоро",
-    "meta": "Италия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Рим · 3 маршрута · 2 скоро",
+    "meta": "Италия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "rome-capitol-forums-layers"
+      "rome-capitol-forums-layers",
+      "rome-navona-pantheon-trevi-stage",
+      "rome-borgo-vatican-power"
     ],
     "countryId": "italy",
     "photo": {
@@ -1842,11 +1928,13 @@
     "id": "salzburg",
     "slug": "salzburg",
     "title": "Зальцбург",
-    "subtitle": "Зальцбург · 1 маршрут · 4 скоро",
-    "meta": "Австрия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Зальцбург · 3 маршрута · 2 скоро",
+    "meta": "Австрия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "salzburg-altstadt-fortress-archbishops"
+      "salzburg-altstadt-fortress-archbishops",
+      "salzburg-mirabell-right-bank-baroque",
+      "salzburg-getreidegasse-mozart-courtyards"
     ],
     "countryId": "austria",
     "photo": {
@@ -1870,18 +1958,20 @@
     "id": "san-francisco",
     "slug": "san-francisco",
     "title": "Сан-Франциско",
-    "subtitle": "Сан-Франциско · 1 маршрут · 4 скоро",
-    "meta": "США · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сан-Франциско · 3 маршрута · 2 скоро",
+    "meta": "США · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "san-francisco-bay-hill-chinatown-layers"
+      "san-francisco-bay-hill-chinatown-layers",
+      "san-francisco-presidio-golden-gate-edge",
+      "san-francisco-mission-dolores-murals"
     ],
     "countryId": "united-states",
     "photo": {
       "id": "san-francisco-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Сан-Франциско"
     },
     "identity": {
@@ -1898,18 +1988,20 @@
     "id": "santiago-chile",
     "slug": "santiago-chile",
     "title": "Сантьяго",
-    "subtitle": "Сантьяго · 1 маршрут · 4 скоро",
-    "meta": "Чили · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сантьяго · 3 маршрута · 2 скоро",
+    "meta": "Чили · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "santiago-chile-plaza-armas-la-moneda-republic"
+      "santiago-chile-plaza-armas-la-moneda-republic",
+      "santiago-chile-lastarria-santa-lucia-bellas-artes",
+      "santiago-chile-bellavista-san-cristobal-view"
     ],
     "countryId": "chile",
     "photo": {
       "id": "santiago-chile-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Сантьяго"
     },
     "identity": {
@@ -1926,11 +2018,13 @@
     "id": "seville",
     "slug": "seville",
     "title": "Севилья",
-    "subtitle": "Севилья · 1 маршрут · 4 скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Севилья · 3 маршрута · 2 скоро",
+    "meta": "Испания · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "seville-triunfo-alcazar-cathedral-indies"
+      "seville-triunfo-alcazar-cathedral-indies",
+      "seville-santa-cruz-jewish-quarter",
+      "seville-guadalquivir-arenal-triana"
     ],
     "countryId": "spain",
     "photo": {
@@ -1954,19 +2048,21 @@
     "id": "hong-kong",
     "slug": "hong-kong",
     "title": "Гонконг",
-    "subtitle": "Гонконг · 2 маршрута · 3 скоро",
-    "meta": "Китай · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гонконг · 4 маршрута · 1 скоро",
+    "meta": "Китай · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "hong-kong-old-town-central-layers",
-      "hong-kong-tsim-sha-tsui-harbour-stage"
+      "hong-kong-tsim-sha-tsui-harbour-stage",
+      "hong-kong-sham-shui-po-working-city",
+      "hong-kong-peak-circle-city-from-above"
     ],
     "countryId": "china",
     "photo": {
       "id": "hong-kong-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Гонконг"
     },
     "identity": {
@@ -1983,12 +2079,14 @@
     "id": "istanbul",
     "slug": "istanbul",
     "title": "Стамбул",
-    "subtitle": "Стамбул · 2 маршрута · 3 скоро",
-    "meta": "Турция · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Стамбул · 4 маршрута · 1 скоро",
+    "meta": "Турция · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "istanbul-sultanahmet-imperial-layers",
-      "istanbul-galata-beyoglu-pera-stage"
+      "istanbul-galata-beyoglu-pera-stage",
+      "istanbul-golden-horn-suleymaniye-zeyrek-balat",
+      "istanbul-eminonu-grand-bazaar-trade-spine"
     ],
     "countryId": "turkey",
     "photo": {
@@ -2012,12 +2110,14 @@
     "id": "jaipur",
     "slug": "jaipur",
     "title": "Джайпур",
-    "subtitle": "Джайпур · 2 маршрута · 3 скоро",
-    "meta": "Индия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Джайпур · 4 маршрута · 1 скоро",
+    "meta": "Индия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "jaipur-walled-city-royal-grid",
-      "jaipur-amer-fort-old-amer"
+      "jaipur-amer-fort-old-amer",
+      "jaipur-johari-bapu-bazaars",
+      "jaipur-galtaji-sun-temple-valley"
     ],
     "countryId": "india",
     "photo": {
@@ -2041,12 +2141,14 @@
     "id": "jerusalem",
     "slug": "jerusalem",
     "title": "Иерусалим",
-    "subtitle": "Иерусалим · 2 маршрута · 3 скоро",
-    "meta": "Израиль · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Иерусалим · 4 маршрута · 1 скоро",
+    "meta": "Израиль · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "jerusalem-old-city-gates-faith-layers",
-      "jerusalem-mount-of-olives-kidron-view"
+      "jerusalem-mount-of-olives-kidron-view",
+      "jerusalem-machane-yehuda-nachlaot-courtyards",
+      "jerusalem-city-of-david-southern-wall"
     ],
     "countryId": "israel",
     "photo": {
@@ -2070,12 +2172,14 @@
     "id": "kathmandu",
     "slug": "kathmandu",
     "title": "Катманду",
-    "subtitle": "Катманду · 2 маршрута · 3 скоро",
-    "meta": "Непал · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Катманду · 4 маршрута · 1 скоро",
+    "meta": "Непал · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "kathmandu-durbar-asan-newar-city",
-      "kathmandu-swayambhu-city-origin-hill"
+      "kathmandu-swayambhu-city-origin-hill",
+      "kathmandu-pashupati-bagmati-sacred-river",
+      "kathmandu-boudha-kora-tibetan-quarter"
     ],
     "countryId": "nepal",
     "photo": {
@@ -2099,19 +2203,21 @@
     "id": "krakow",
     "slug": "krakow",
     "title": "Краков",
-    "subtitle": "Краков · 2 маршрута · 3 скоро",
-    "meta": "Польша · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Краков · 4 маршрута · 1 скоро",
+    "meta": "Польша · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "krakow-royal-route-wawel-old-town",
-      "krakow-kazimierz-jewish-city"
+      "krakow-kazimierz-jewish-city",
+      "krakow-podgorze-ghetto-zablocie",
+      "krakow-nowa-huta-ideal-city"
     ],
     "countryId": "poland",
     "photo": {
       "id": "krakow-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Краков"
     },
     "identity": {
@@ -2128,19 +2234,21 @@
     "id": "kuala-lumpur",
     "slug": "kuala-lumpur",
     "title": "Куала-Лумпур",
-    "subtitle": "Куала-Лумпур · 2 маршрута · 3 скоро",
-    "meta": "Малайзия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Куала-Лумпур · 4 маршрута · 1 скоро",
+    "meta": "Малайзия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "kuala-lumpur-merdeka-river-of-life",
-      "kuala-lumpur-klcc-kampung-baru"
+      "kuala-lumpur-klcc-kampung-baru",
+      "kuala-lumpur-perdana-islamic-arts",
+      "kuala-lumpur-chinatown-pasar-seni"
     ],
     "countryId": "malaysia",
     "photo": {
       "id": "kuala-lumpur-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Куала-Лумпур"
     },
     "identity": {
@@ -2157,12 +2265,14 @@
     "id": "kyoto",
     "slug": "kyoto",
     "title": "Киото",
-    "subtitle": "Киото · 2 маршрута · 3 скоро",
-    "meta": "Япония · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Киото · 4 маршрута · 1 скоро",
+    "meta": "Япония · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "kyoto-kiyomizu-gion-slope",
-      "kyoto-fushimi-inari-mountain"
+      "kyoto-fushimi-inari-mountain",
+      "kyoto-ginkakuji-philosophers-path",
+      "kyoto-arashiyama-river-bamboo"
     ],
     "countryId": "japan",
     "photo": {
@@ -2186,19 +2296,21 @@
     "id": "lima",
     "slug": "lima",
     "title": "Лима",
-    "subtitle": "Лима · 2 маршрута · 3 скоро",
-    "meta": "Перу · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лима · 4 маршрута · 1 скоро",
+    "meta": "Перу · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "lima-centro-historico-power-layers",
-      "lima-miraflores-huaca-cliffs"
+      "lima-miraflores-huaca-cliffs",
+      "lima-pueblo-libre-ancient-peru",
+      "lima-barranco-bohemia-ravine"
     ],
     "countryId": "peru",
     "photo": {
       "id": "lima-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/lima/lima-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/lima/lima-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Лима"
     },
     "identity": {
@@ -2215,12 +2327,14 @@
     "id": "lisbon",
     "slug": "lisbon",
     "title": "Лиссабон",
-    "subtitle": "Лиссабон · 2 маршрута · 3 скоро",
-    "meta": "Португалия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лиссабон · 4 маршрута · 1 скоро",
+    "meta": "Португалия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "lisbon-baixa-chiado-earthquake-city",
-      "lisbon-alfama-castle-old-hill"
+      "lisbon-alfama-castle-old-hill",
+      "lisbon-belem-river-discoveries",
+      "lisbon-bairro-alto-bica-evening-hill"
     ],
     "countryId": "portugal",
     "photo": {
@@ -2244,12 +2358,14 @@
     "id": "london",
     "slug": "london",
     "title": "Лондон",
-    "subtitle": "Лондон · 2 маршрута · 3 скоро",
-    "meta": "Великобритания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лондон · 4 маршрута · 1 скоро",
+    "meta": "Великобритания · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "london-westminster-whitehall-power",
-      "london-city-tower-st-pauls-layers"
+      "london-city-tower-st-pauls-layers",
+      "london-greenwich-maritime-time",
+      "london-south-bank-bankside-river-stage"
     ],
     "countryId": "united-kingdom",
     "photo": {
@@ -2273,12 +2389,13 @@
     "id": "lyon",
     "slug": "lyon",
     "title": "Лион",
-    "subtitle": "Лион · 2 маршрута · 3 скоро",
-    "meta": "Франция · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Лион · 3 маршрута · 2 скоро",
+    "meta": "Франция · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "lyon-fourviere-vieux-lyon-layers",
-      "lyon-presquile-civic-stage"
+      "lyon-presquile-civic-stage",
+      "lyon-croix-rousse-canuts-slopes"
     ],
     "countryId": "france",
     "photo": {
@@ -2302,12 +2419,13 @@
     "id": "macao",
     "slug": "macao",
     "title": "Макао",
-    "subtitle": "Макао · 2 маршрута · 3 скоро",
-    "meta": "Китай · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Макао · 3 маршрута · 2 скоро",
+    "meta": "Китай · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "macao-barra-st-pauls-east-west-spine",
-      "macao-taipa-cotai-island-to-reclamation"
+      "macao-taipa-cotai-island-to-reclamation",
+      "macao-guia-st-lazarus-hill-creative-quarter"
     ],
     "countryId": "china",
     "photo": {
@@ -2331,19 +2449,20 @@
     "id": "madrid",
     "slug": "madrid",
     "title": "Мадрид",
-    "subtitle": "Мадрид · 2 маршрута · 3 скоро",
-    "meta": "Испания · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мадрид · 3 маршрута · 2 скоро",
+    "meta": "Испания · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "madrid-sol-mayor-palace-capital",
-      "madrid-prado-retiro-landscape-of-light"
+      "madrid-prado-retiro-landscape-of-light",
+      "madrid-barrio-letras-golden-age"
     ],
     "countryId": "spain",
     "photo": {
       "id": "madrid-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/madrid/madrid-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Мадрид"
     },
     "identity": {
@@ -2360,12 +2479,13 @@
     "id": "marrakesh",
     "slug": "marrakesh",
     "title": "Марракеш",
-    "subtitle": "Марракеш · 2 маршрута · 3 скоро",
-    "meta": "Марокко · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Марракеш · 3 маршрута · 2 скоро",
+    "meta": "Марокко · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "marrakesh-jemaa-koutoubia-souks-stage",
-      "marrakesh-kasbah-palaces-power"
+      "marrakesh-kasbah-palaces-power",
+      "marrakesh-north-medina-madrasa-courtyards"
     ],
     "countryId": "morocco",
     "photo": {
@@ -2389,12 +2509,13 @@
     "id": "marseille",
     "slug": "marseille",
     "title": "Марсель",
-    "subtitle": "Марсель · 2 маршрута · 3 скоро",
-    "meta": "Франция · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Марсель · 3 маршрута · 2 скоро",
+    "meta": "Франция · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "marseille-vieux-port-panier-mucem",
-      "marseille-bonne-mere-vallon-des-auffes"
+      "marseille-bonne-mere-vallon-des-auffes",
+      "marseille-noailles-cours-julien"
     ],
     "countryId": "france",
     "photo": {
@@ -2418,19 +2539,20 @@
     "id": "melbourne",
     "slug": "melbourne",
     "title": "Мельбурн",
-    "subtitle": "Мельбурн · 2 маршрута · 3 скоро",
-    "meta": "Австралия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Мельбурн · 3 маршрута · 2 скоро",
+    "meta": "Австралия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "melbourne-laneways-arcades-cbd",
-      "melbourne-birrarung-aboriginal-river-edge"
+      "melbourne-birrarung-aboriginal-river-edge",
+      "melbourne-northern-civic-market-exhibition"
     ],
     "countryId": "australia",
     "photo": {
       "id": "melbourne-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/melbourne/melbourne-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Мельбурн"
     },
     "identity": {
@@ -2447,11 +2569,13 @@
     "id": "shanghai",
     "slug": "shanghai",
     "title": "Шанхай",
-    "subtitle": "Шанхай · 1 маршрут · 4 скоро",
-    "meta": "Китай · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Шанхай · 3 маршрута · 2 скоро",
+    "meta": "Китай · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "shanghai-bund-nanjing-riverfront"
+      "shanghai-bund-nanjing-riverfront",
+      "shanghai-wukang-sinan-shikumen",
+      "shanghai-yuyuan-old-city-garden"
     ],
     "countryId": "china",
     "photo": {
@@ -2475,18 +2599,20 @@
     "id": "singapore",
     "slug": "singapore",
     "title": "Сингапур",
-    "subtitle": "Сингапур · 1 маршрут · 4 скоро",
-    "meta": "Сингапур · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сингапур · 3 маршрута · 2 скоро",
+    "meta": "Сингапур · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "singapore-river-civic-marina-bay"
+      "singapore-river-civic-marina-bay",
+      "singapore-kampong-gelam-sultan-streets",
+      "singapore-chinatown-telok-ayer-port"
     ],
     "countryId": "singapore",
     "photo": {
       "id": "singapore-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Сингапур"
     },
     "identity": {
@@ -2503,11 +2629,13 @@
     "id": "stockholm",
     "slug": "stockholm",
     "title": "Стокгольм",
-    "subtitle": "Стокгольм · 1 маршрут · 4 скоро",
-    "meta": "Швеция · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Стокгольм · 3 маршрута · 2 скоро",
+    "meta": "Швеция · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "stockholm-gamla-stan-riddarholmen"
+      "stockholm-gamla-stan-riddarholmen",
+      "stockholm-sodermalm-heights-slussen",
+      "stockholm-djurgarden-vasa-park-island"
     ],
     "countryId": "sweden",
     "photo": {
@@ -2531,18 +2659,20 @@
     "id": "sydney",
     "slug": "sydney",
     "title": "Сидней",
-    "subtitle": "Сидней · 1 маршрут · 4 скоро",
-    "meta": "Австралия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Сидней · 3 маршрута · 2 скоро",
+    "meta": "Австралия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "sydney-harbour-rocks-sails"
+      "sydney-harbour-rocks-sails",
+      "sydney-macquarie-botanic-domain",
+      "sydney-bondi-coogee-coast"
     ],
     "countryId": "australia",
     "photo": {
       "id": "sydney-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/sydney/sydney-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Сидней"
     },
     "identity": {
@@ -2559,18 +2689,20 @@
     "id": "taipei",
     "slug": "taipei",
     "title": "Тайбэй",
-    "subtitle": "Тайбэй · 1 маршрут · 4 скоро",
-    "meta": "Тайвань · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Тайбэй · 3 маршрута · 2 скоро",
+    "meta": "Тайвань · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "taipei-mengjia-ximending-layers"
+      "taipei-mengjia-ximending-layers",
+      "taipei-dadaocheng-dihua-river-trade",
+      "taipei-228-liberty-square-civic-memory"
     ],
     "countryId": "taiwan",
     "photo": {
       "id": "taipei-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Тайбэй"
     },
     "identity": {
@@ -2587,18 +2719,20 @@
     "id": "tallinn",
     "slug": "tallinn",
     "title": "Таллин",
-    "subtitle": "Таллин · 1 маршрут · 4 скоро",
-    "meta": "Эстония · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Таллин · 3 маршрута · 2 скоро",
+    "meta": "Эстония · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "tallinn-old-town-toompea-lower-town"
+      "tallinn-old-town-toompea-lower-town",
+      "tallinn-kalamaja-telliskivi-noblessner",
+      "tallinn-kadriorg-palace-park-art"
     ],
     "countryId": "estonia",
     "photo": {
       "id": "tallinn-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Таллин"
     },
     "identity": {
@@ -2615,18 +2749,20 @@
     "id": "tbilisi",
     "slug": "tbilisi",
     "title": "Тбилиси",
-    "subtitle": "Тбилиси · 1 маршрут · 4 скоро",
-    "meta": "Грузия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Тбилиси · 3 маршрута · 2 скоро",
+    "meta": "Грузия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "tbilisi-old-town-sulfur-narikala"
+      "tbilisi-old-town-sulfur-narikala",
+      "tbilisi-sololaki-bourgeois-houses",
+      "tbilisi-rustaveli-state-culture"
     ],
     "countryId": "georgia",
     "photo": {
       "id": "tbilisi-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Тбилиси"
     },
     "identity": {
@@ -2643,11 +2779,13 @@
     "id": "tokyo",
     "slug": "tokyo",
     "title": "Токио",
-    "subtitle": "Токио · 1 маршрут · 4 скоро",
-    "meta": "Япония · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Токио · 3 маршрута · 2 скоро",
+    "meta": "Япония · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "tokyo-asakusa-edo-river"
+      "tokyo-asakusa-edo-river",
+      "tokyo-meiji-harajuku-shibuya",
+      "tokyo-imperial-palace-marunouchi"
     ],
     "countryId": "japan",
     "photo": {
@@ -2671,11 +2809,13 @@
     "id": "tunis",
     "slug": "tunis",
     "title": "Тунис",
-    "subtitle": "Тунис · 1 маршрут · 4 скоро",
-    "meta": "Тунис · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Тунис · 3 маршрута · 2 скоро",
+    "meta": "Тунис · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "tunis-medina-gates-souks-power"
+      "tunis-medina-gates-souks-power",
+      "tunis-sidi-bou-said-white-hill",
+      "tunis-carthage-byrsa-sea-empires"
     ],
     "countryId": "tunisia",
     "photo": {
@@ -2699,18 +2839,20 @@
     "id": "valencia",
     "slug": "valencia",
     "title": "Валенсия",
-    "subtitle": "Валенсия · 1 маршрут · 4 скоро",
-    "meta": "Испания · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Валенсия · 3 маршрута · 2 скоро",
+    "meta": "Испания · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "valencia-old-town-silk-power"
+      "valencia-old-town-silk-power",
+      "valencia-turia-gardens-city-of-arts",
+      "valencia-el-carmen-gates-street-layers"
     ],
     "countryId": "spain",
     "photo": {
       "id": "valencia-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/valencia/valencia-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Валенсия"
     },
     "identity": {
@@ -2727,11 +2869,13 @@
     "id": "vancouver",
     "slug": "vancouver",
     "title": "Ванкувер",
-    "subtitle": "Ванкувер · 1 маршрут · 4 скоро",
-    "meta": "Канада · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Ванкувер · 3 маршрута · 2 скоро",
+    "meta": "Канада · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "vancouver-stanley-park-seawall-layers"
+      "vancouver-stanley-park-seawall-layers",
+      "vancouver-gastown-waterfront-rail-port",
+      "vancouver-chinatown-strathcona-memory"
     ],
     "countryId": "canada",
     "photo": {
@@ -2755,18 +2899,20 @@
     "id": "varanasi",
     "slug": "varanasi",
     "title": "Варанаси",
-    "subtitle": "Варанаси · 1 маршрут · 4 скоро",
-    "meta": "Индия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Варанаси · 3 маршрута · 2 скоро",
+    "meta": "Индия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "varanasi-ganga-ghats-riverfront"
+      "varanasi-ganga-ghats-riverfront",
+      "varanasi-vishwanath-old-city-lanes",
+      "varanasi-sarnath-buddhist-beginnings"
     ],
     "countryId": "india",
     "photo": {
       "id": "varanasi-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Варанаси"
     },
     "identity": {
@@ -2783,19 +2929,20 @@
     "id": "venice",
     "slug": "venice",
     "title": "Венеция",
-    "subtitle": "Венеция · 2 маршрута · 3 скоро",
-    "meta": "Италия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Венеция · 3 маршрута · 2 скоро",
+    "meta": "Италия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "venice-san-marco-rialto-republic",
-      "venice-dorsoduro-lagoon-art"
+      "venice-dorsoduro-lagoon-art",
+      "venice-cannaregio-ghetto-north"
     ],
     "countryId": "italy",
     "photo": {
       "id": "venice-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/venice/venice-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/venice/venice-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Венеция"
     },
     "identity": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Диагональ Парквея собирает ратушу, фонтаны, музеи и главный городской силуэт.",
-    "cityId": "philadelphia",
-    "dayTrip": false,
-    "id": "philadelphia-parkway-museums-axis",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "City Hall, Benjamin Franklin Parkway, Logan Square, Parkway Museums District.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "От ратуши к художественному музею — диагональ власти, фонтанов и искусства.",
-    "title": "Парквей: город как музейная ось",
-    "walkType": "architecture"
-  },
-  {
-    "blurb": "Рынок на 9-й улице ведет через запахи, языки и семейные витрины Южной Филадельфии.",
-    "cityId": "philadelphia",
-    "dayTrip": false,
-    "id": "philadelphia-south-ninth-immigrant-market",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Bella Vista, South 9th Street, Washington Avenue, East Passyunk.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Еда и витрины как летопись квартала от Bella Vista к East Passyunk.",
-    "title": "9-я улица: рынок, миграции и Южная Филадельфия",
-    "walkType": "food_evening"
-  },
-  {
     "blurb": "У реки становится видно, как инженерия, спорт и парк сделали другой портрет Филадельфии.",
     "cityId": "philadelphia",
     "dayTrip": false,

@@ -2,19 +2,20 @@
   "id": "munich",
   "slug": "munich",
   "title": "Мюнхен",
-  "subtitle": "Мюнхен · 2 маршрута · 3 скоро",
-  "meta": "Германия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Мюнхен · 3 маршрута · 2 скоро",
+  "meta": "Германия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "munich-altstadt-marienplatz-residenz",
-    "munich-nymphenburg-palace-park"
+    "munich-nymphenburg-palace-park",
+    "munich-koenigsplatz-kunstareal-memory"
   ],
   "countryId": "germany",
   "photo": {
     "id": "munich-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/munich/munich-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/munich/munich-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Мюнхен"
   },
   "identity": {

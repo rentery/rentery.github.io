@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "От Трокадеро до Инвалидов виден Париж больших жестов: башня, мосты, купол и открытые перспективы.",
-    "cityId": "paris",
-    "dayTrip": false,
-    "id": "paris-trocadero-eiffel-invalides-perspectives",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Трокадеро, Champ de Mars, École Militaire, Инвалиды, Pont Alexandre III.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Маршрут о масштабе, выставках, военной памяти и видах через Сену.",
-    "title": "Трокадеро, Эйфелева башня и Инвалиды: Париж больших перспектив",
-    "walkType": "viewpoints"
-  },
-  {
-    "blurb": "Лувр и Тюильри показывают, как дворец, сад и площадь превратились в главную ось города.",
-    "cityId": "paris",
-    "dayTrip": false,
-    "id": "paris-louvre-tuileries-royal-axis",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Лувр, Carrousel, сад Тюильри, площадь Согласия.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Как королевский двор превратился в публичное пространство центра.",
-    "title": "Лувр и Тюильри: дворец, сад и ось власти",
-    "walkType": "architecture"
-  },
-  {
     "blurb": "Маре держит несколько Парижей сразу: старые особняки, еврейские улицы, площади и новая городская жизнь.",
     "cityId": "paris",
     "dayTrip": false,

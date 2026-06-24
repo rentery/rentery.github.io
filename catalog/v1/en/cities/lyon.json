@@ -2,12 +2,13 @@
   "id": "lyon",
   "slug": "lyon",
   "title": "Лион",
-  "subtitle": "Лион · 2 маршрута · 3 скоро",
-  "meta": "Франция · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Лион · 3 маршрута · 2 скоро",
+  "meta": "Франция · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "lyon-fourviere-vieux-lyon-layers",
-    "lyon-presquile-civic-stage"
+    "lyon-presquile-civic-stage",
+    "lyon-croix-rousse-canuts-slopes"
   ],
   "countryId": "france",
   "photo": {

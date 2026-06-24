@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Деревянные улицы ведут к бывшим заводам, морю и кварталам, где город говорит современным голосом.",
-    "cityId": "tallinn",
-    "dayTrip": false,
-    "id": "tallinn-kalamaja-telliskivi-noblessner",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Каламая от Балтийского вокзала и Telliskivi к Лётной гавани и Noblessner.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Рабочий район превращается в творческий берег без потери масштаба.",
-    "title": "Каламая: дерево, рельсы и море",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Барочный парк собирает дворец, музеи и тихие аллеи, где Таллин меняет крепостной силуэт на искусство.",
-    "cityId": "tallinn",
-    "dayTrip": false,
-    "id": "tallinn-kadriorg-palace-park-art",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Кадриорг: дворцовый парк, музейные здания, виллы и склон к Kumu.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Барочная ось, тихие аллеи и музейный Таллин за пределами крепостных стен.",
-    "title": "Кадриорг: парк, дворец и искусство",
-    "walkType": "museum_walk"
-  },
-  {
     "blurb": "Береговая линия показывает другой Таллин: памятник у моря, олимпийская гавань и руины монастыря.",
     "cityId": "tallinn",
     "dayTrip": false,

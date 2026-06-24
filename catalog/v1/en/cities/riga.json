@@ -2,18 +2,20 @@
   "id": "riga",
   "slug": "riga",
   "title": "Рига",
-  "subtitle": "Рига · 1 маршрут · 4 скоро",
-  "meta": "Латвия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Рига · 3 маршрута · 2 скоро",
+  "meta": "Латвия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "riga-old-town-hanseatic-layers"
+    "riga-old-town-hanseatic-layers",
+    "riga-quiet-centre-art-nouveau",
+    "riga-boulevard-ring-canal-capital"
   ],
   "countryId": "latvia",
   "photo": {
     "id": "riga-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/riga/riga-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/riga/riga-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Рига"
   },
   "identity": {

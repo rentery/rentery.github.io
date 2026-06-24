@@ -2,12 +2,13 @@
   "id": "porto",
   "slug": "porto",
   "title": "Порту",
-  "subtitle": "Порту · 2 маршрута · 3 скоро",
-  "meta": "Португалия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Порту · 3 маршрута · 2 скоро",
+  "meta": "Португалия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "porto-se-ribeira-layers",
-    "porto-gaia-wine-river-views"
+    "porto-gaia-wine-river-views",
+    "porto-baixa-bolhao-city-life"
   ],
   "countryId": "portugal",
   "photo": {

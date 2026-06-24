@@ -2,12 +2,13 @@
   "id": "mumbai",
   "slug": "mumbai",
   "title": "Мумбаи",
-  "subtitle": "Мумбаи · 2 маршрута · 3 скоро",
-  "meta": "Индия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Мумбаи · 3 маршрута · 2 скоро",
+  "meta": "Индия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "mumbai-fort-gateway-port-city",
-    "mumbai-oval-maidan-art-deco-gothic"
+    "mumbai-oval-maidan-art-deco-gothic",
+    "mumbai-bhuleshwar-markets-mumbadevi"
   ],
   "countryId": "india",
   "photo": {

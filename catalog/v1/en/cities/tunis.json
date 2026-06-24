@@ -2,11 +2,13 @@
   "id": "tunis",
   "slug": "tunis",
   "title": "Тунис",
-  "subtitle": "Тунис · 1 маршрут · 4 скоро",
-  "meta": "Тунис · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Тунис · 3 маршрута · 2 скоро",
+  "meta": "Тунис · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "tunis-medina-gates-souks-power"
+    "tunis-medina-gates-souks-power",
+    "tunis-sidi-bou-said-white-hill",
+    "tunis-carthage-byrsa-sea-empires"
   ],
   "countryId": "tunisia",
   "photo": {

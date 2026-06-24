@@ -2,19 +2,21 @@
   "id": "chiang-mai",
   "slug": "chiang-mai",
   "title": "Чиангмай",
-  "subtitle": "Чиангмай · 2 маршрута · 3 скоро",
-  "meta": "Таиланд · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Чиангмай · 4 маршрута · 1 скоро",
+  "meta": "Таиланд · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "chiang-mai-old-city-lanna-moat",
-    "chiang-mai-doi-suthep-sacred-mountain"
+    "chiang-mai-doi-suthep-sacred-mountain",
+    "chiang-mai-wua-lai-silver-south-gate",
+    "chiang-mai-mae-ping-wat-ket-trade"
   ],
   "countryId": "thailand",
   "photo": {
     "id": "chiang-mai-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/chiang-mai/chiang-mai-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Чиангмай"
   },
   "identity": {

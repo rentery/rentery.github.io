@@ -2,18 +2,20 @@
   "id": "oslo",
   "slug": "oslo",
   "title": "Осло",
-  "subtitle": "Осло · 1 маршрут · 4 скоро",
-  "meta": "Норвегия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Осло · 3 маршрута · 2 скоро",
+  "meta": "Норвегия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "oslo-akershus-bjorvika-fjord-layers"
+    "oslo-akershus-bjorvika-fjord-layers",
+    "oslo-grunerlokka-akerselva-industrial-neighborhood",
+    "oslo-frogner-vigeland-human-park"
   ],
   "countryId": "norway",
   "photo": {
     "id": "oslo-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/oslo/oslo-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Осло"
   },
   "identity": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "За Вислой история становится плотнее: площадь гетто, фабричные кварталы и новый берег.",
-    "cityId": "krakow",
-    "dayTrip": false,
-    "id": "krakow-podgorze-ghetto-zablocie",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Правый берег Вислы: мост Бернатка, Подгуже, площадь Героев гетто, Lipowa и Заблоце.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Маршрут от старого пригорода к следам гетто и фабричному берегу.",
-    "title": "Подгуже и Заблоце: память за рекой",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Нова-Хута раскрывает другой Краков: идеальный план, широкие оси и социалистический театр улиц.",
-    "cityId": "krakow",
-    "dayTrip": false,
-    "id": "krakow-nowa-huta-ideal-city",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Центр Новой Хуты: площадь Центральная, жилые кварталы Centrum, аллея Róż и ось к комбинату.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Соцреалистический центр как городская машина послевоенной мечты.",
-    "title": "Нова-Хута: идеальный город из бетона",
-    "walkType": "architecture"
-  },
-  {
     "blurb": "От Блоней к кургану город постепенно превращается в склон, монастырь и большую панораму.",
     "cityId": "krakow",
     "dayTrip": false,

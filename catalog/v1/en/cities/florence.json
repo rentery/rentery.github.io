@@ -2,12 +2,14 @@
   "id": "florence",
   "slug": "florence",
   "title": "Флоренция",
-  "subtitle": "Флоренция · 2 маршрута · 3 скоро",
-  "meta": "Италия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Флоренция · 4 маршрута · 1 скоро",
+  "meta": "Италия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "florence-duomo-signoria-renaissance-engine",
-    "florence-oltrarno-pitti-santo-spirito"
+    "florence-oltrarno-pitti-santo-spirito",
+    "florence-santa-croce-dante-civic-memory",
+    "florence-san-lorenzo-medici-family-power"
   ],
   "countryId": "italy",
   "photo": {

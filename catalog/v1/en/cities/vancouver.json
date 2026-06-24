@@ -2,11 +2,13 @@
   "id": "vancouver",
   "slug": "vancouver",
   "title": "Ванкувер",
-  "subtitle": "Ванкувер · 1 маршрут · 4 скоро",
-  "meta": "Канада · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Ванкувер · 3 маршрута · 2 скоро",
+  "meta": "Канада · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "vancouver-stanley-park-seawall-layers"
+    "vancouver-stanley-park-seawall-layers",
+    "vancouver-gastown-waterfront-rail-port",
+    "vancouver-chinatown-strathcona-memory"
   ],
   "countryId": "canada",
   "photo": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Бывшее русло ведет через мосты, сады и игровые площадки к белой архитектуре Города искусств.",
-    "cityId": "valencia",
-    "dayTrip": false,
-    "id": "valencia-turia-gardens-city-of-arts",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Jardín del Turia: от северных мостов через Palau de la Música и Parque Gulliver к Ciutat de les Arts i les Ciències.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Линейная прогулка по бывшей реке к самой футуристической сцене города.",
-    "title": "Русло Турии: парк к Городу искусств",
-    "walkType": "modern_city"
-  },
-  {
-    "blurb": "Эль-Кармен показывает старую Валенсию теснее: ворота, монастырские дворы, граффити и площади без парада.",
-    "cityId": "valencia",
-    "dayTrip": false,
-    "id": "valencia-el-carmen-gates-street-layers",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Северо-запад Ciutat Vella: между Torres de Quart, IVAM, Centre del Carme и Torres de Serranos.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Северо-запад старого центра с городскими воротами, дворами и уличной культурой.",
-    "title": "Эль-Кармен: ворота, стены и улицы после стены",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Кабаньяль выводит к морю через узкие улицы, плиточные фасады, рынок и длинный городской пляж.",
     "cityId": "valencia",
     "dayTrip": false,

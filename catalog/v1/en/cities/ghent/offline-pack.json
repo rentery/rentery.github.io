@@ -3,12 +3,14 @@
     "id": "ghent",
     "slug": "ghent",
     "title": "Гент",
-    "subtitle": "Гент · 2 маршрута · 3 скоро",
-    "meta": "Бельгия · 2 маршрута опубликовано",
-    "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Гент · 4 маршрута · 1 скоро",
+    "meta": "Бельгия · 4 маршрута опубликовано",
+    "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
       "ghent-three-towers-river-power",
-      "ghent-gravensteen-patershol-power"
+      "ghent-gravensteen-patershol-power",
+      "ghent-portus-ganda-abbey-origins",
+      "ghent-citadelpark-arts-quarter"
     ],
     "countryId": "belgium",
     "photo": {
@@ -1745,6 +1747,3331 @@
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
       }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins",
+      "routePath": {
+        "coordinates": [
+          [
+            3.732845,
+            51.056577
+          ],
+          [
+            3.732886,
+            51.056538
+          ],
+          [
+            3.733011,
+            51.05632
+          ],
+          [
+            3.733154,
+            51.056119
+          ],
+          [
+            3.733172,
+            51.056057
+          ],
+          [
+            3.733175,
+            51.055982
+          ],
+          [
+            3.733003,
+            51.056183
+          ],
+          [
+            3.732919,
+            51.056155
+          ],
+          [
+            3.732671,
+            51.056074
+          ],
+          [
+            3.732714,
+            51.055984
+          ],
+          [
+            3.732714,
+            51.055984
+          ],
+          [
+            3.732671,
+            51.056074
+          ],
+          [
+            3.732919,
+            51.056155
+          ],
+          [
+            3.733003,
+            51.056183
+          ],
+          [
+            3.733175,
+            51.055982
+          ],
+          [
+            3.733313,
+            51.055793
+          ],
+          [
+            3.733581,
+            51.055269
+          ],
+          [
+            3.733656,
+            51.055075
+          ],
+          [
+            3.733662,
+            51.055052
+          ],
+          [
+            3.733663,
+            51.054964
+          ],
+          [
+            3.733652,
+            51.054932
+          ],
+          [
+            3.733621,
+            51.054909
+          ],
+          [
+            3.733406,
+            51.054841
+          ],
+          [
+            3.733425,
+            51.05477
+          ],
+          [
+            3.733467,
+            51.054612
+          ],
+          [
+            3.733468,
+            51.054591
+          ],
+          [
+            3.733447,
+            51.054517
+          ],
+          [
+            3.733464,
+            51.054461
+          ],
+          [
+            3.733507,
+            51.054272
+          ],
+          [
+            3.73356,
+            51.05405
+          ],
+          [
+            3.733576,
+            51.053987
+          ],
+          [
+            3.733599,
+            51.053897
+          ],
+          [
+            3.733604,
+            51.053858
+          ],
+          [
+            3.733636,
+            51.053723
+          ],
+          [
+            3.733655,
+            51.05365
+          ],
+          [
+            3.733694,
+            51.053541
+          ],
+          [
+            3.733794,
+            51.053237
+          ],
+          [
+            3.734081,
+            51.053212
+          ],
+          [
+            3.734081,
+            51.053212
+          ],
+          [
+            3.733794,
+            51.053237
+          ],
+          [
+            3.733694,
+            51.053541
+          ],
+          [
+            3.733655,
+            51.05365
+          ],
+          [
+            3.733636,
+            51.053723
+          ],
+          [
+            3.733604,
+            51.053858
+          ],
+          [
+            3.733599,
+            51.053897
+          ],
+          [
+            3.733576,
+            51.053987
+          ],
+          [
+            3.73356,
+            51.05405
+          ],
+          [
+            3.733507,
+            51.054272
+          ],
+          [
+            3.733464,
+            51.054461
+          ],
+          [
+            3.733447,
+            51.054517
+          ],
+          [
+            3.733468,
+            51.054591
+          ],
+          [
+            3.733467,
+            51.054612
+          ],
+          [
+            3.733425,
+            51.05477
+          ],
+          [
+            3.733406,
+            51.054841
+          ],
+          [
+            3.733621,
+            51.054909
+          ],
+          [
+            3.733652,
+            51.054932
+          ],
+          [
+            3.733663,
+            51.054964
+          ],
+          [
+            3.733662,
+            51.055052
+          ],
+          [
+            3.733656,
+            51.055075
+          ],
+          [
+            3.73371,
+            51.055076
+          ],
+          [
+            3.733754,
+            51.055078
+          ],
+          [
+            3.733713,
+            51.055209
+          ],
+          [
+            3.733689,
+            51.055253
+          ],
+          [
+            3.733543,
+            51.055532
+          ],
+          [
+            3.733418,
+            51.055762
+          ],
+          [
+            3.733409,
+            51.055776
+          ],
+          [
+            3.733409,
+            51.055776
+          ],
+          [
+            3.733418,
+            51.055762
+          ],
+          [
+            3.733543,
+            51.055532
+          ],
+          [
+            3.733689,
+            51.055253
+          ],
+          [
+            3.733713,
+            51.055209
+          ],
+          [
+            3.733754,
+            51.055078
+          ],
+          [
+            3.73371,
+            51.055076
+          ],
+          [
+            3.733656,
+            51.055075
+          ],
+          [
+            3.733662,
+            51.055052
+          ],
+          [
+            3.733663,
+            51.054964
+          ],
+          [
+            3.733652,
+            51.054932
+          ],
+          [
+            3.733621,
+            51.054909
+          ],
+          [
+            3.733406,
+            51.054841
+          ],
+          [
+            3.733425,
+            51.05477
+          ],
+          [
+            3.733467,
+            51.054612
+          ],
+          [
+            3.733468,
+            51.054591
+          ],
+          [
+            3.733447,
+            51.054517
+          ],
+          [
+            3.733464,
+            51.054461
+          ],
+          [
+            3.733507,
+            51.054272
+          ],
+          [
+            3.73356,
+            51.05405
+          ],
+          [
+            3.733576,
+            51.053987
+          ],
+          [
+            3.733599,
+            51.053897
+          ],
+          [
+            3.733604,
+            51.053858
+          ],
+          [
+            3.733636,
+            51.053723
+          ],
+          [
+            3.733655,
+            51.05365
+          ],
+          [
+            3.733694,
+            51.053541
+          ],
+          [
+            3.733794,
+            51.053237
+          ],
+          [
+            3.734138,
+            51.053207
+          ],
+          [
+            3.734252,
+            51.053184
+          ],
+          [
+            3.734346,
+            51.053184
+          ],
+          [
+            3.734661,
+            51.053213
+          ],
+          [
+            3.734768,
+            51.053223
+          ],
+          [
+            3.734878,
+            51.053233
+          ],
+          [
+            3.735302,
+            51.053273
+          ],
+          [
+            3.735321,
+            51.053274
+          ],
+          [
+            3.735334,
+            51.053276
+          ],
+          [
+            3.735423,
+            51.053285
+          ],
+          [
+            3.735434,
+            51.053224
+          ],
+          [
+            3.735448,
+            51.053153
+          ],
+          [
+            3.735548,
+            51.052918
+          ],
+          [
+            3.735587,
+            51.052925
+          ],
+          [
+            3.735754,
+            51.052953
+          ],
+          [
+            3.735775,
+            51.052956
+          ],
+          [
+            3.735941,
+            51.052985
+          ],
+          [
+            3.736043,
+            51.053003
+          ],
+          [
+            3.736043,
+            51.053003
+          ],
+          [
+            3.735941,
+            51.052985
+          ],
+          [
+            3.735775,
+            51.052956
+          ],
+          [
+            3.735754,
+            51.052953
+          ],
+          [
+            3.735587,
+            51.052925
+          ],
+          [
+            3.735548,
+            51.052918
+          ],
+          [
+            3.735448,
+            51.053153
+          ],
+          [
+            3.735434,
+            51.053224
+          ],
+          [
+            3.735423,
+            51.053285
+          ],
+          [
+            3.735405,
+            51.053366
+          ],
+          [
+            3.73536,
+            51.053569
+          ],
+          [
+            3.735213,
+            51.054225
+          ],
+          [
+            3.735275,
+            51.05422
+          ],
+          [
+            3.735875,
+            51.054161
+          ],
+          [
+            3.735943,
+            51.054154
+          ],
+          [
+            3.736083,
+            51.05412
+          ],
+          [
+            3.736115,
+            51.054117
+          ],
+          [
+            3.736348,
+            51.054094
+          ],
+          [
+            3.736348,
+            51.054094
+          ],
+          [
+            3.736868,
+            51.054043
+          ],
+          [
+            3.736874,
+            51.054063
+          ],
+          [
+            3.736878,
+            51.054079
+          ],
+          [
+            3.736882,
+            51.054091
+          ],
+          [
+            3.736933,
+            51.054086
+          ],
+          [
+            3.736972,
+            51.054063
+          ],
+          [
+            3.736987,
+            51.05405
+          ],
+          [
+            3.737519,
+            51.054001
+          ],
+          [
+            3.737617,
+            51.053993
+          ],
+          [
+            3.737714,
+            51.054013
+          ],
+          [
+            3.737695,
+            51.053946
+          ],
+          [
+            3.737772,
+            51.053759
+          ],
+          [
+            3.737779,
+            51.05374
+          ],
+          [
+            3.737798,
+            51.053694
+          ],
+          [
+            3.737501,
+            51.053644
+          ],
+          [
+            3.737449,
+            51.053245
+          ],
+          [
+            3.736641,
+            51.053106
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              3.732845,
+              51.056577
+            ],
+            "instruction": "Walk southeast.",
+            "distanceM": 70,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733175,
+              51.055982
+            ],
+            "instruction": "Make a sharp right onto Nieuwbrugkaai.",
+            "distanceM": 25,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733003,
+              51.056183
+            ],
+            "instruction": "Turn left onto Tussen 't Pas.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.732671,
+              51.056074
+            ],
+            "instruction": "Turn left to stay on Tussen 't Pas.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              3.732714,
+              51.055984
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.732714,
+              51.055984
+            ],
+            "instruction": "Walk north on Tussen 't Pas.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              3.732671,
+              51.056074
+            ],
+            "instruction": "Turn right to stay on Tussen 't Pas.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733003,
+              51.056183
+            ],
+            "instruction": "Turn right onto Nieuwbrugkaai.",
+            "distanceM": 167,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733406,
+              51.054841
+            ],
+            "instruction": "Turn left onto Pieter de Keyserestraat.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733467,
+              51.054612
+            ],
+            "instruction": "Continue on Pieter de Keyserestraat.",
+            "distanceM": 155,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733794,
+              51.053237
+            ],
+            "instruction": "Turn left onto Julius de Vigneplein.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.734081,
+              51.053212
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.734081,
+              51.053212
+            ],
+            "instruction": "Walk west on Julius de Vigneplein.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733794,
+              51.053237
+            ],
+            "instruction": "Turn right onto Pieter de Keyserestraat.",
+            "distanceM": 181,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733406,
+              51.054841
+            ],
+            "instruction": "Turn right onto Nieuwbrugkaai.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733656,
+              51.055075
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733754,
+              51.055078
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733409,
+              51.055776
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733409,
+              51.055776
+            ],
+            "instruction": "Walk south.",
+            "distanceM": 81,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733754,
+              51.055078
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733656,
+              51.055075
+            ],
+            "instruction": "Turn left onto Nieuwbrugkaai.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733406,
+              51.054841
+            ],
+            "instruction": "Turn left onto Pieter de Keyserestraat.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733467,
+              51.054612
+            ],
+            "instruction": "Continue on Pieter de Keyserestraat.",
+            "distanceM": 155,
+            "type": ""
+          },
+          {
+            "location": [
+              3.733794,
+              51.053237
+            ],
+            "instruction": "Turn left onto Julius de Vigneplein.",
+            "distanceM": 116,
+            "type": ""
+          },
+          {
+            "location": [
+              3.735423,
+              51.053285
+            ],
+            "instruction": "Turn right onto Voorhoutkaai.",
+            "distanceM": 42,
+            "type": ""
+          },
+          {
+            "location": [
+              3.735548,
+              51.052918
+            ],
+            "instruction": "Turn left onto Coyendanspark.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736043,
+              51.053003
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736043,
+              51.053003
+            ],
+            "instruction": "Walk west on Coyendanspark.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              3.735548,
+              51.052918
+            ],
+            "instruction": "Turn right onto Voorhoutkaai.",
+            "distanceM": 148,
+            "type": ""
+          },
+          {
+            "location": [
+              3.735213,
+              51.054225
+            ],
+            "instruction": "Turn right onto Spanjaardstraat.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              3.735943,
+              51.054154
+            ],
+            "instruction": "Bear right onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736083,
+              51.05412
+            ],
+            "instruction": "Continue.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736115,
+              51.054117
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736348,
+              51.054094
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736348,
+              51.054094
+            ],
+            "instruction": "Walk east on the walkway.",
+            "distanceM": 39,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736874,
+              51.054063
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 2,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736878,
+              51.054079
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 1,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736882,
+              51.054091
+            ],
+            "instruction": "Turn right onto Spanjaardstraat.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736987,
+              51.05405
+            ],
+            "instruction": "Turn left to stay on Spanjaardstraat.",
+            "distanceM": 52,
+            "type": ""
+          },
+          {
+            "location": [
+              3.737714,
+              51.054013
+            ],
+            "instruction": "Turn right onto Kapelaanstraat.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              3.737798,
+              51.053694
+            ],
+            "instruction": "Turn right onto Gandastraat.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              3.737501,
+              51.053644
+            ],
+            "instruction": "Turn left onto Adalwinstraat.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              3.737449,
+              51.053245
+            ],
+            "instruction": "Turn right onto Coyendanspark.",
+            "distanceM": 58,
+            "type": ""
+          },
+          {
+            "location": [
+              3.736641,
+              51.053106
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T08:42:42.323Z"
+        }
+      },
+      "cityId": "ghent",
+      "category": "Район",
+      "title": "Портус Ганда и аббатство: место, где начался город",
+      "subtitle": "Пешеходная прогулка вдоль слияния Леи и Шельды, которая соединяет историю, воду и современную жизнь Гента",
+      "blurb": "У слияния Лиса и Шельды видно начало города: вода, аббатские руины и новая тишина.",
+      "mood": "history",
+      "accent": "#7A5940",
+      "soft": "#E8DACB",
+      "deep": "#503B2C",
+      "ink": "#352920",
+      "motif": "lane",
+      "duration": "1.5–2.5 часа",
+      "stops": 7,
+      "distance": "около 1,2 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Пешеходная прогулка вдоль слияния Леи и Шельды, которая соединяет историю, воду и современную жизнь Гента"
+      },
+      "content": {
+        "intro": "Этот маршрут дает Генту точку рождения и драму разрушенного аббатства: он объясняет город через слияние рек, раннюю христианскую историю и политическое наказание XVI века. Пользователь научится замечать не только живописную воду, но и городскую географию: где реки встречаются, где монастырь задавал центр тяжести и где позднее город заново оформил берега. Как ясно связать название Ganda, слияние Лиса и Шельды, роль аббатства и разрушение при Карле V в один короткий маршрут?",
+        "routeLogic": "Маршрут идет от Portus Ganda: исток города к Церковь Святого Махария. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
+        "bestFor": "спокойной прогулки по теме маршрута\nпервого знакомства с районом или объектом\nтех, кто хочет читать город через видимые детали",
+        "notFor": "маршрута без самостоятельного чтения места\nгонки по точкам без остановок\nтех, кому нужен только транспортный трансфер",
+        "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
+        "timing": "1.5–2.5 часа"
+      },
+      "stopList": [
+        {
+          "id": "ghent-portus-ganda-abbey-origins-1",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 1,
+          "name": "Portus Ganda: исток города",
+          "note": "Марина на месте, где сливаются Лея и Шельда – здесь зародился Гент",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Встаньте на полукруглый причал у марины Portus Ganda между басcейном Van Eyck и аббатством Святого Бавона. Перед вами сливаются две реки — Лея и Шельда.",
+            "lookFor": "Красная скульптура \"Гентская Лорелея\" на набережной\nОтражения старых домов в воде\nПолукруглый причал между бассейном и аббатством",
+            "practical": "Portus Ganda — это открытая марина без входной платы. Доступна круглосуточно, но будьте осторожны с велосипедистами на набережной. Лодки могут пришвартоваться, а прогулочным посетителям следует уважать частную собственность яхт.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Здесь, в VII веке, возникло первое поселение, а кельтское слово «Ганда» описывало именно это слияние. В 1960‑е годы нижняя Шельда была засыпана, но в 2018 году её открыли вновь, и вода вернулась на Reep. Марина, открытая для проходящих лодок, наполняет пространство шумом мачт и запахом воды, а рядом на набережной стоит красная скульптура «Лорелея», ставшая символом Portus Ganda. Глядя на отражения домов и башен, представьте шум средневековых рынков, когда именно здесь зарождался Гент."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0566,
+            "longitude": 3.7329
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-1",
+          "sourceIds": [
+            "visitgent_portusganda",
+            "vlaamsewaterweg_reop"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-1-square.jpg",
+            "alt": "Марина Portus Ganda на рассвете, лодки вдоль набережной, дома и деревья отражаются в тихой воде.",
+            "attribution": {
+              "author": "Marc Ryckaert (MJJR)",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Portus_Ganda_R01.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-2",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 2,
+          "name": "Veerkaai: тихая набережная",
+          "note": "Узкая набережная между мостами Bavobrug и Van Eyckbrug предлагает спокойствие и виды на порт",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Следуя вдоль воды от марины, вы выходите на Veerkaai — узкую набережную вдоль Нижней Шельды. Здесь стоят скамейки и небольшие лужайки, где местные жители читают или разговаривают, а напротив открываются виды на Portus Ganda и аббатские руины.",
+            "lookFor": "Скамейки и лужайки между деревьями\nВид на старинные фасады с другой стороны реки\nСпокойные воды, соединяющие два моста",
+            "practical": "Набережная Veerkaai открыта круглые сутки. Будьте внимательны: дорожка узкая, здесь ездят велосипедисты. Скамейки могут быть влажными после дождя. Освещение слабое, поэтому вечером лучше быть осторожными.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Этот участок между мостами Bavobrug и Van Eyckbrug находится буквально в нескольких шагах от оживлённого центра, но атмосферу здесь создают вода и деревья. Тихое журчание реки напоминает о недавнем возвращении воды на De Reep, а названия улицы и реки возвращают нас к слову «Ганда» – слияние. Проходя здесь, заметьте, как город бережно относится к своим набережным."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.056,
+            "longitude": 3.7328
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-2",
+          "sourceIds": [
+            "dekuip_veerkaai",
+            "visitgent_walklocal",
+            "vlaamsewaterweg_reop"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-2-square.jpg",
+            "alt": "Buildings and an arched bridge along the canal at Veerkaai in Ghent.",
+            "attribution": {
+              "author": "Daan Verhoost",
+              "license": "Unsplash License; cropped/resized for app",
+              "sourceUrl": "https://unsplash.com/photos/buildings-line-a-canal-with-arched-bridges-below-4hukKe5Q9II",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-3",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 3,
+          "name": "Бассейн Van Eyck",
+          "note": "Старинный арт-деко бассейн и баня, названный в честь братьев Ван Эйк",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Здание бассейна Van Eyck на Veermanplein — старейший крытый бассейн Бельгии. Его назвали в честь знаменитых братьев Ван Эйк, создателей Гентского алтаря.",
+            "lookFor": "Мозаичные настенные панно и ар-деко детали\nБар Au Bain с видом на бассейн и порт\nПодземные купальни в рабочие часы",
+            "practical": "Ванные (куипбад) открыты по средам, пятницам и субботам с 09:00 до 15:30. Билеты покупаются на месте, стоимость около 3 € для гостей. Бассейн закрывается в период школьных каникул и по воскресеньям; расписание уточняйте на сайте Stad Gent. Внутри нельзя фотографировать людей без их согласия.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "В начале XX века здесь не было водопровода, поэтому подвал бассейна до сих пор оснащён купальнями, которые открыты по средам, пятницам и субботам. Интерьер в стиле ар-деко бережно отреставрировали в 2001 году: мозаичные стены, балконы и бар на первом этаже, откуда открывается вид на чашу бассейна и Portus Ganda. Сегодня здесь плавают местные жители, любители арт-деко фотографируют детали, а бар Au Bain предлагает перекусить между заплывами."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0533,
+            "longitude": 3.7341
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-3",
+          "sourceIds": [
+            "visitgent_vaneyck",
+            "stadgent_vaneyck"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-3-square.jpg",
+            "alt": "Фасад плавательного бассейна Van Eyck с искусственными колоннами и большой стеклянной стеной.",
+            "attribution": {
+              "author": "rvanhegelsom",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Eyck_swimming_pool_in_Ghent_(B).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-4",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 4,
+          "name": "De Reep: возвращённая река",
+          "note": "Свидетельство того, как Гент вернул своей реке жизнь",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Переходя через мост Вийденард, вы попадаете на De Reep — участок Нижней Шельды, вновь открытый для воды после десятилетий забвения. До 1960‑х здесь был автомобильный проспект, но в 2016–2018 годах город с помощью правительства Фландрии снял земляную дамбу, построил новые мосты (Nieuwbrug, Bavobrug и сам Вийденард) и шлюз Scaldissluis, чтобы преодолеть разницу уровней.",
+            "lookFor": "Новые мосты и шлюз Scaldissluis\nРисунок воды между обновлёнными набережными\nВид на руины аббатства и современные дома",
+            "practical": "Этот участок набережной открыт всегда; береговые дорожки местами узкие. Следите за велосипедистами и лодками в шлюзе. В сырую погоду плитка может быть скользкой.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Теперь река течёт между новыми набережными, а на месте парковок выросла зелень. Прислушайтесь к плеску воды — это не только звучит красиво, но и символизирует возвращение природы в сердце города. Посмотрите по сторонам: справа виднеется аббатство Святого Бавона, слева — старые дома вдоль Виркааи, а впереди – пути к будущим остановкам."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0558,
+            "longitude": 3.7335
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-4",
+          "sourceIds": [
+            "vlaamsewaterweg_reop",
+            "visitgent_portusganda"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-4-square.jpg",
+            "alt": "Новый участок реки De Reep с обновлёнными набережными, зелёными насаждениями и мостом на заднем плане.",
+            "attribution": {
+              "author": "Marc Ryckaert (MJJR)",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Reep_R03.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-5",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 5,
+          "name": "Coyendanspark: зелёная память",
+          "note": "Парк с живой копией плана разрушенного собора и деревом мира",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Возле южной стены аббатства разбит Coyendanspark — молодой парк, превращённый из бывшей бойни в зелёный оазис. Главная особенность парка — живая топиарная копия плана разрушенного аббатского собора: высаженный роговой бук повторяет контуры не существующей церкви и поднимается на высоту до пяти метров.",
+            "lookFor": "Зелёная структура в форме плана собора\nБелые ворота бывшей бойни\nДерево гинкго – посланник мира",
+            "practical": "Парк открыт круглосуточно. После дождей тропинки могут быть грязными. Здесь нет туалетов или кафе, но есть скамейки для отдыха. Следите за проезжающими велосипедами.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Дорожки ведут в marsh‑зону, где растения фильтруют дождевую воду, а через белые ворота бывшей бойни проходит велодорожка. В 2019 году здесь посадили дерево гинкго из семени, пережившего атомную бомбардировку Хиросимы, чтобы напомнить о хрупкости мира и стойкости природы. Оглянитесь назад: за кустами возвышаются руины аббатства, которые вы увидите далее."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0531,
+            "longitude": 3.736
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-5",
+          "sourceIds": [
+            "stadgent_coyendans",
+            "visitgent_stbaafs"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-5-square.jpg",
+            "alt": "Open grassy area in Coyendanspark near Sint-Baafsabdij in Ghent.",
+            "attribution": {
+              "author": "karel291",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_-_panoramio_(1).jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-6",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 6,
+          "name": "Руины аббатства Святого Бавона",
+          "note": "Остатки монастыря, разрушенного по приказу Карла V, и тихий сад",
+          "time": "15 мин",
+          "walk": "Продолжайте к следующей точке маршрута.",
+          "content": {
+            "context": "Через дорогу от парка находится вход в руины аббатства Святого Бавона. Здесь, среди древних камней и ухоженных кустов, вы ощутите почти монашескую тишину.",
+            "lookFor": "Кустарниковый рисунок романской церкви\nВысокие живые колонны из рогового бука\nБетонная площадка на месте алтаря",
+            "practical": "Руины открыты для посетителей с апреля по конец октября по пятницам, субботам и воскресеньям с 14:00 до 18:00. Вход свободный. В остальное время территория закрыта, но её можно увидеть через решётку. Покрытие неравномерное, поэтому надевайте удобную обувь.",
+            "nextMove": "Продолжайте к следующей точке маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Аббатство основал святой Аманд в VII веке для обращения жителей Ганды в христианство. В 1540 году, после восстания горожан, Карл V приказал разрушить монастырь и деревню вокруг него; на этом месте позже возвели испанскую крепость. Сегодня контуры романской церкви обозначены невысокими кустарниками, а высокие колонны из рогового бука напоминают о потерянном сводчатом нефе. У бетонной сцены, расположенной там, где когда‑то был алтарь, иногда устраивают небольшие концерты. В ясный день слушайте звон колоколов собора Святого Бавона на горизонте и вспомните, что монахи перебрались туда после разрушения."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0539,
+            "longitude": 3.7363
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-6",
+          "sourceIds": [
+            "visitgent_stbaafs",
+            "mmmonk_abbey",
+            "stadgent_coyendans"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-6-square.jpg",
+            "alt": "Ряд формированных деревьев-парасоль с зелёной кроной на фоне руин аббатства Святого Бавона.",
+            "attribution": {
+              "author": "Geert Van der Linden",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Voorhoutkaai_Parasolvormige_buxussen_Sint-Baafsabdij_(6)_-_229191_-_onroerenderfgoed.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-portus-ganda-abbey-origins-7",
+          "guideId": "ghent-portus-ganda-abbey-origins",
+          "order": 7,
+          "name": "Церковь Святого Махария",
+          "note": "Неоготический храм, ныне живой культурный центр",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "Последний пункт прогулки — церковь Святого Махария, построенная из синего камня и красного кирпича. Первый камень заложил вспомогательный епископ Гюстав Де Баттисе 13 июня 1880 года, а башня была завершена в 1893 году.",
+            "lookFor": "Неоготические арки и витражи\nВнешние стены из синего камня и красного кирпича\nОбъявления о концертах или выставках",
+            "practical": "Церковь открыта в дни мероприятий; часы работы следует уточнять в расписании. Вход бесплатный, пожертвования приветствуются. Вне мероприятий можно рассмотреть фасад и двор. Здание доступно для инвалидных колясок.",
+            "nextMove": "Маршрут завершён.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Храм построен в форме латинского креста и украшен неоготическими арками. В 2014 году здание приспособили к современным потребностям: сегодня здесь проходят концерты, лекции и выставки, а регулярные мессы прекратились в 2017 году. Войдя внутрь (если двери открыты), обратите внимание на витражи и высокий свод. Этот пример показывает, как исторические церкви становятся общественными пространствами без утраты своего сакрального духа."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 51.0532,
+            "longitude": 3.7366
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          },
+          "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-7",
+          "sourceIds": [
+            "visitgent_macharius"
+          ],
+          "photo": {
+            "id": "ghent-portus-ganda-abbey-origins-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-7-square.jpg",
+            "alt": "Фасад неоготической церкви Святого Махария с башней и арками из красного кирпича и голубого камня.",
+            "attribution": {
+              "author": "LimoWreck",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_-_Sint-Machariuskerk_1.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "file-Cx6XUK9GT1VVv78cWwtGo4",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-cover-square.jpg",
+        "alt": "Художественное изображение слияния двух рек в Генте: на одном берегу — руины аббатства, на другом — современная марина в лучах закатного солнца."
+      },
+      "coverAssetId": "ghent-portus-ganda-abbey-origins-cover",
+      "basemap": {
+        "image": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-basemap.png",
+        "center": {
+          "latitude": 51.05485,
+          "longitude": 3.7347
+        },
+        "zoom": 16,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter",
+      "routePath": {
+        "coordinates": [
+          [
+            3.721229,
+            51.040951
+          ],
+          [
+            3.721754,
+            51.040648
+          ],
+          [
+            3.721975,
+            51.040532
+          ],
+          [
+            3.72202,
+            51.040587
+          ],
+          [
+            3.722041,
+            51.040641
+          ],
+          [
+            3.722048,
+            51.040744
+          ],
+          [
+            3.721955,
+            51.041179
+          ],
+          [
+            3.721955,
+            51.041179
+          ],
+          [
+            3.722048,
+            51.040744
+          ],
+          [
+            3.722141,
+            51.040716
+          ],
+          [
+            3.722469,
+            51.040748
+          ],
+          [
+            3.722647,
+            51.04082
+          ],
+          [
+            3.722719,
+            51.040837
+          ],
+          [
+            3.722685,
+            51.040965
+          ],
+          [
+            3.722799,
+            51.041048
+          ],
+          [
+            3.722783,
+            51.041311
+          ],
+          [
+            3.722812,
+            51.041327
+          ],
+          [
+            3.722924,
+            51.041399
+          ],
+          [
+            3.722935,
+            51.041406
+          ],
+          [
+            3.722972,
+            51.04143
+          ],
+          [
+            3.722954,
+            51.041505
+          ],
+          [
+            3.722954,
+            51.041505
+          ],
+          [
+            3.722972,
+            51.04143
+          ],
+          [
+            3.723044,
+            51.041126
+          ],
+          [
+            3.72325,
+            51.041093
+          ],
+          [
+            3.72345,
+            51.041057
+          ],
+          [
+            3.723474,
+            51.040944
+          ],
+          [
+            3.723523,
+            51.040909
+          ],
+          [
+            3.723667,
+            51.040882
+          ],
+          [
+            3.723783,
+            51.040871
+          ],
+          [
+            3.723927,
+            51.040883
+          ],
+          [
+            3.72417,
+            51.040906
+          ],
+          [
+            3.724202,
+            51.04078
+          ],
+          [
+            3.724218,
+            51.040725
+          ],
+          [
+            3.724303,
+            51.040681
+          ],
+          [
+            3.724161,
+            51.040572
+          ],
+          [
+            3.724235,
+            51.040535
+          ],
+          [
+            3.724256,
+            51.040488
+          ],
+          [
+            3.724496,
+            51.039459
+          ],
+          [
+            3.724496,
+            51.039425
+          ],
+          [
+            3.724479,
+            51.039396
+          ],
+          [
+            3.724444,
+            51.039368
+          ],
+          [
+            3.724392,
+            51.039327
+          ],
+          [
+            3.724334,
+            51.039282
+          ],
+          [
+            3.724547,
+            51.03917
+          ],
+          [
+            3.725305,
+            51.038775
+          ],
+          [
+            3.725431,
+            51.03878
+          ],
+          [
+            3.725541,
+            51.038735
+          ],
+          [
+            3.725994,
+            51.038684
+          ],
+          [
+            3.726016,
+            51.038704
+          ],
+          [
+            3.726026,
+            51.038781
+          ],
+          [
+            3.726141,
+            51.038768
+          ],
+          [
+            3.726258,
+            51.038769
+          ],
+          [
+            3.726258,
+            51.038769
+          ],
+          [
+            3.726141,
+            51.038768
+          ],
+          [
+            3.726026,
+            51.038781
+          ],
+          [
+            3.726016,
+            51.038704
+          ],
+          [
+            3.725994,
+            51.038684
+          ],
+          [
+            3.725541,
+            51.038735
+          ],
+          [
+            3.725431,
+            51.03878
+          ],
+          [
+            3.725305,
+            51.038775
+          ],
+          [
+            3.724547,
+            51.03917
+          ],
+          [
+            3.724334,
+            51.039282
+          ],
+          [
+            3.724392,
+            51.039327
+          ],
+          [
+            3.724444,
+            51.039368
+          ],
+          [
+            3.724479,
+            51.039396
+          ],
+          [
+            3.724496,
+            51.039425
+          ],
+          [
+            3.724496,
+            51.039459
+          ],
+          [
+            3.724256,
+            51.040488
+          ],
+          [
+            3.724235,
+            51.040535
+          ],
+          [
+            3.724161,
+            51.040572
+          ],
+          [
+            3.724303,
+            51.040681
+          ],
+          [
+            3.724218,
+            51.040725
+          ],
+          [
+            3.724202,
+            51.04078
+          ],
+          [
+            3.72417,
+            51.040906
+          ],
+          [
+            3.723927,
+            51.040883
+          ],
+          [
+            3.723783,
+            51.040871
+          ],
+          [
+            3.723667,
+            51.040882
+          ],
+          [
+            3.723523,
+            51.040909
+          ],
+          [
+            3.723474,
+            51.040944
+          ],
+          [
+            3.723461,
+            51.041005
+          ],
+          [
+            3.723461,
+            51.041005
+          ],
+          [
+            3.723474,
+            51.040944
+          ],
+          [
+            3.723523,
+            51.040909
+          ],
+          [
+            3.723667,
+            51.040882
+          ],
+          [
+            3.723783,
+            51.040871
+          ],
+          [
+            3.723927,
+            51.040883
+          ],
+          [
+            3.72417,
+            51.040906
+          ],
+          [
+            3.724202,
+            51.04078
+          ],
+          [
+            3.724218,
+            51.040725
+          ],
+          [
+            3.724303,
+            51.040681
+          ],
+          [
+            3.724475,
+            51.040812
+          ],
+          [
+            3.724544,
+            51.040774
+          ],
+          [
+            3.725234,
+            51.04131
+          ],
+          [
+            3.725285,
+            51.041341
+          ],
+          [
+            3.725314,
+            51.041348
+          ],
+          [
+            3.725351,
+            51.041351
+          ],
+          [
+            3.725458,
+            51.041349
+          ],
+          [
+            3.725461,
+            51.041294
+          ],
+          [
+            3.725474,
+            51.041177
+          ],
+          [
+            3.72549,
+            51.041025
+          ],
+          [
+            3.725546,
+            51.040541
+          ],
+          [
+            3.725552,
+            51.040136
+          ],
+          [
+            3.725576,
+            51.040006
+          ],
+          [
+            3.725576,
+            51.040006
+          ],
+          [
+            3.725552,
+            51.040136
+          ],
+          [
+            3.725546,
+            51.040541
+          ],
+          [
+            3.72549,
+            51.041025
+          ],
+          [
+            3.725474,
+            51.041177
+          ],
+          [
+            3.725461,
+            51.041294
+          ],
+          [
+            3.725458,
+            51.041349
+          ],
+          [
+            3.725351,
+            51.041351
+          ],
+          [
+            3.725314,
+            51.041348
+          ],
+          [
+            3.725285,
+            51.041341
+          ],
+          [
+            3.725213,
+            51.041376
+          ],
+          [
+            3.724475,
+            51.040812
+          ],
+          [
+            3.724303,
+            51.040681
+          ],
+          [
+            3.724218,
+            51.040725
+          ],
+          [
+            3.724202,
+            51.04078
+          ],
+          [
+            3.72417,
+            51.040906
+          ],
+          [
+            3.723927,
+            51.040883
+          ],
+          [
+            3.723783,
+            51.040871
+          ],
+          [
+            3.723667,
+            51.040882
+          ],
+          [
+            3.723523,
+            51.040909
+          ],
+          [
+            3.723474,
+            51.040944
+          ],
+          [
+            3.723453,
+            51.04092
+          ],
+          [
+            3.723415,
+            51.040903
+          ],
+          [
+            3.7231,
+            51.040873
+          ],
+          [
+            3.722812,
+            51.040845
+          ],
+          [
+            3.722719,
+            51.040837
+          ],
+          [
+            3.722647,
+            51.04082
+          ],
+          [
+            3.722469,
+            51.040748
+          ],
+          [
+            3.722141,
+            51.040716
+          ],
+          [
+            3.722048,
+            51.040744
+          ],
+          [
+            3.722041,
+            51.040641
+          ],
+          [
+            3.72202,
+            51.040587
+          ],
+          [
+            3.721975,
+            51.040532
+          ],
+          [
+            3.721754,
+            51.040648
+          ],
+          [
+            3.720814,
+            51.04119
+          ],
+          [
+            3.720681,
+            51.041278
+          ],
+          [
+            3.720608,
+            51.041333
+          ],
+          [
+            3.720485,
+            51.041408
+          ],
+          [
+            3.720431,
+            51.041438
+          ],
+          [
+            3.719484,
+            51.041942
+          ],
+          [
+            3.719447,
+            51.041961
+          ],
+          [
+            3.719315,
+            51.042028
+          ],
+          [
+            3.719204,
+            51.042084
+          ],
+          [
+            3.719187,
+            51.042092
+          ],
+          [
+            3.71917,
+            51.0421
+          ],
+          [
+            3.719058,
+            51.042152
+          ],
+          [
+            3.718811,
+            51.042276
+          ],
+          [
+            3.71829,
+            51.042536
+          ],
+          [
+            3.718171,
+            51.042598
+          ],
+          [
+            3.717952,
+            51.042708
+          ],
+          [
+            3.717886,
+            51.042745
+          ],
+          [
+            3.717593,
+            51.042898
+          ],
+          [
+            3.717462,
+            51.042966
+          ],
+          [
+            3.71725,
+            51.04307
+          ],
+          [
+            3.717199,
+            51.043095
+          ],
+          [
+            3.714991,
+            51.044261
+          ],
+          [
+            3.714868,
+            51.044325
+          ],
+          [
+            3.714766,
+            51.044386
+          ],
+          [
+            3.71472,
+            51.044413
+          ],
+          [
+            3.714671,
+            51.044457
+          ],
+          [
+            3.714623,
+            51.044501
+          ],
+          [
+            3.714532,
+            51.044589
+          ],
+          [
+            3.71446,
+            51.044684
+          ],
+          [
+            3.714405,
+            51.044764
+          ],
+          [
+            3.714367,
+            51.044848
+          ],
+          [
+            3.714354,
+            51.044946
+          ],
+          [
+            3.714347,
+            51.045003
+          ],
+          [
+            3.71435,
+            51.045241
+          ],
+          [
+            3.714358,
+            51.045419
+          ],
+          [
+            3.714357,
+            51.045449
+          ],
+          [
+            3.714358,
+            51.045488
+          ],
+          [
+            3.714357,
+            51.04558
+          ],
+          [
+            3.714465,
+            51.045633
+          ],
+          [
+            3.714438,
+            51.045668
+          ],
+          [
+            3.714399,
+            51.045718
+          ],
+          [
+            3.714272,
+            51.045866
+          ],
+          [
+            3.714196,
+            51.04595
+          ],
+          [
+            3.714118,
+            51.046034
+          ],
+          [
+            3.714056,
+            51.046125
+          ],
+          [
+            3.714118,
+            51.046203
+          ],
+          [
+            3.714205,
+            51.046274
+          ],
+          [
+            3.714542,
+            51.046549
+          ],
+          [
+            3.714561,
+            51.046564
+          ],
+          [
+            3.714601,
+            51.046597
+          ],
+          [
+            3.714684,
+            51.046661
+          ],
+          [
+            3.714998,
+            51.046903
+          ],
+          [
+            3.714757,
+            51.046973
+          ],
+          [
+            3.714624,
+            51.047022
+          ],
+          [
+            3.714446,
+            51.047092
+          ],
+          [
+            3.714285,
+            51.047175
+          ],
+          [
+            3.714096,
+            51.047294
+          ],
+          [
+            3.7134,
+            51.047825
+          ],
+          [
+            3.712921,
+            51.04819
+          ],
+          [
+            3.712634,
+            51.048405
+          ],
+          [
+            3.712206,
+            51.048723
+          ],
+          [
+            3.711455,
+            51.049293
+          ],
+          [
+            3.711543,
+            51.049338
+          ],
+          [
+            3.711496,
+            51.049374
+          ],
+          [
+            3.710995,
+            51.04975
+          ],
+          [
+            3.710953,
+            51.049782
+          ],
+          [
+            3.710886,
+            51.049827
+          ],
+          [
+            3.710473,
+            51.050137
+          ],
+          [
+            3.710348,
+            51.050251
+          ],
+          [
+            3.710313,
+            51.050291
+          ],
+          [
+            3.71028,
+            51.050329
+          ],
+          [
+            3.710238,
+            51.050403
+          ],
+          [
+            3.710219,
+            51.050436
+          ],
+          [
+            3.710271,
+            51.050464
+          ],
+          [
+            3.710336,
+            51.050473
+          ],
+          [
+            3.710738,
+            51.050532
+          ],
+          [
+            3.710781,
+            51.050538
+          ],
+          [
+            3.710818,
+            51.050511
+          ],
+          [
+            3.710879,
+            51.050514
+          ],
+          [
+            3.710929,
+            51.050526
+          ],
+          [
+            3.710968,
+            51.050536
+          ],
+          [
+            3.71102,
+            51.050548
+          ],
+          [
+            3.711011,
+            51.050561
+          ],
+          [
+            3.711027,
+            51.050591
+          ],
+          [
+            3.71109,
+            51.050597
+          ],
+          [
+            3.711361,
+            51.050626
+          ],
+          [
+            3.711886,
+            51.05066
+          ],
+          [
+            3.711923,
+            51.050663
+          ],
+          [
+            3.711968,
+            51.050665
+          ],
+          [
+            3.711972,
+            51.050702
+          ],
+          [
+            3.711975,
+            51.050716
+          ],
+          [
+            3.711978,
+            51.050729
+          ],
+          [
+            3.71199,
+            51.050776
+          ],
+          [
+            3.712049,
+            51.051385
+          ],
+          [
+            3.712052,
+            51.051411
+          ],
+          [
+            3.712054,
+            51.051435
+          ],
+          [
+            3.712018,
+            51.051624
+          ],
+          [
+            3.712016,
+            51.051643
+          ],
+          [
+            3.712005,
+            51.051708
+          ],
+          [
+            3.711877,
+            51.052476
+          ],
+          [
+            3.711854,
+            51.05262
+          ],
+          [
+            3.711843,
+            51.052688
+          ],
+          [
+            3.711795,
+            51.052987
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              3.721229,
+              51.040951
+            ],
+            "instruction": "Walk southeast on Charles de Kerchovelaan/R40.",
+            "distanceM": 69,
+            "type": ""
+          },
+          {
+            "location": [
+              3.721975,
+              51.040532
+            ],
+            "instruction": "Turn left onto Eekhout.",
+            "distanceM": 73,
+            "type": ""
+          },
+          {
+            "location": [
+              3.721955,
+              51.041179
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.721955,
+              51.041179
+            ],
+            "instruction": "Walk south on Eekhout.",
+            "distanceM": 48,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722048,
+              51.040744
+            ],
+            "instruction": "Bear left.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722719,
+              51.040837
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722685,
+              51.040965
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 41,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722783,
+              51.041311
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722972,
+              51.04143
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722954,
+              51.041505
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722954,
+              51.041505
+            ],
+            "instruction": "Walk south.",
+            "distanceM": 42,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723044,
+              51.041126
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 30,
+            "type": ""
+          },
+          {
+            "location": [
+              3.72345,
+              51.041057
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723474,
+              51.040944
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              3.72417,
+              51.040906
+            ],
+            "instruction": "Turn right onto Kattenberg.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724218,
+              51.040725
+            ],
+            "instruction": "Bear left.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724303,
+              51.040681
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724161,
+              51.040572
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724235,
+              51.040535
+            ],
+            "instruction": "Bear right onto Gravenbolwerkstraat.",
+            "distanceM": 145,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724334,
+              51.039282
+            ],
+            "instruction": "Turn left onto Charles de Kerchovelaan/R40.",
+            "distanceM": 88,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725305,
+              51.038775
+            ],
+            "instruction": "Bear left onto the walkway.",
+            "distanceM": 50,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725994,
+              51.038684
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.726258,
+              51.038769
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.726258,
+              51.038769
+            ],
+            "instruction": "Walk west on the walkway.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725994,
+              51.038684
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 50,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725305,
+              51.038775
+            ],
+            "instruction": "Bear right onto Charles de Kerchovelaan/R40.",
+            "distanceM": 88,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724334,
+              51.039282
+            ],
+            "instruction": "Turn right onto Gravenbolwerkstraat.",
+            "distanceM": 145,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724235,
+              51.040535
+            ],
+            "instruction": "Bear left.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724161,
+              51.040572
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724303,
+              51.040681
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724218,
+              51.040725
+            ],
+            "instruction": "Bear right onto Kattenberg.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.72417,
+              51.040906
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723474,
+              51.040944
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723461,
+              51.041005
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723461,
+              51.041005
+            ],
+            "instruction": "Walk south.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723474,
+              51.040944
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              3.72417,
+              51.040906
+            ],
+            "instruction": "Turn right onto Kattenberg.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724218,
+              51.040725
+            ],
+            "instruction": "Bear left.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724303,
+              51.040681
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724475,
+              51.040812
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724544,
+              51.040774
+            ],
+            "instruction": "Turn left onto Kunstlaan.",
+            "distanceM": 82,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725285,
+              51.041341
+            ],
+            "instruction": "Turn right to stay on Kunstlaan.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725458,
+              51.041349
+            ],
+            "instruction": "Turn right onto Overpoortstraat.",
+            "distanceM": 149,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725576,
+              51.040006
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725576,
+              51.040006
+            ],
+            "instruction": "Walk north on Overpoortstraat.",
+            "distanceM": 149,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725458,
+              51.041349
+            ],
+            "instruction": "Turn left onto Kunstlaan.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725285,
+              51.041341
+            ],
+            "instruction": "Bear right.",
+            "distanceM": 6,
+            "type": ""
+          },
+          {
+            "location": [
+              3.725213,
+              51.041376
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 100,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724303,
+              51.040681
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.724218,
+              51.040725
+            ],
+            "instruction": "Bear right onto Kattenberg.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              3.72417,
+              51.040906
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 51,
+            "type": ""
+          },
+          {
+            "location": [
+              3.723474,
+              51.040944
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 107,
+            "type": ""
+          },
+          {
+            "location": [
+              3.722048,
+              51.040744
+            ],
+            "instruction": "Turn left onto Eekhout.",
+            "distanceM": 25,
+            "type": ""
+          },
+          {
+            "location": [
+              3.721975,
+              51.040532
+            ],
+            "instruction": "Turn right onto Charles de Kerchovelaan/R40. Continue on R40.",
+            "distanceM": 803,
+            "type": ""
+          },
+          {
+            "location": [
+              3.714357,
+              51.04558
+            ],
+            "instruction": "Turn right onto Louis Pasteurlaan.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              3.714465,
+              51.045633
+            ],
+            "instruction": "Turn left onto Godshuizenlaan.",
+            "distanceM": 29,
+            "type": ""
+          },
+          {
+            "location": [
+              3.714272,
+              51.045866
+            ],
+            "instruction": "Continue.",
+            "distanceM": 43,
+            "type": ""
+          },
+          {
+            "location": [
+              3.714118,
+              51.046203
+            ],
+            "instruction": "Continue on Bijlokehof.",
+            "distanceM": 100,
+            "type": ""
+          },
+          {
+            "location": [
+              3.714998,
+              51.046903
+            ],
+            "instruction": "Turn left onto Coupure Links/Coupure.",
+            "distanceM": 367,
+            "type": ""
+          },
+          {
+            "location": [
+              3.711455,
+              51.049293
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              3.711543,
+              51.049338
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 154,
+            "type": ""
+          },
+          {
+            "location": [
+              3.710219,
+              51.050436
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 60,
+            "type": ""
+          },
+          {
+            "location": [
+              3.71102,
+              51.050548
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 71,
+            "type": ""
+          },
+          {
+            "location": [
+              3.711968,
+              51.050665
+            ],
+            "instruction": "Turn left onto Johan Daisnestraat.",
+            "distanceM": 260,
+            "type": ""
+          },
+          {
+            "location": [
+              3.711795,
+              51.052987
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T08:54:53.480Z"
+        }
+      },
+      "cityId": "ghent",
+      "category": "Район",
+      "title": "Цитадельпарк: старые мастера и новый взгляд",
+      "subtitle": "Маршрут ведет через самое зеленое сердце Гента — Цитадельпарк и его окружение. Здесь в шаговой доступности соседствуют классические шедевры и авангард современного искусства, научный музей Гентского университета и легендарная Башня книг. Путь завершится на просторной площади Синт‑Питерсплейн и в городском музее STAM — месте, где история города встречается с будущим.",
+      "blurb": "Маршрут ведет через самое зеленое сердце Гента — Цитадельпарк и его окружение. Здесь в шаговой доступности соседствуют классические шедевры и авангард современного искусства, научный музей Гентского университета и легендарная Башня книг. Путь завершится на просторной площади Синт‑Питерсплейн и в городском музее STAM — месте, где история города встречается с будущим.",
+      "mood": "museum_walk",
+      "accent": "#7A5940",
+      "soft": "#E8DACB",
+      "deep": "#503B2C",
+      "ink": "#352920",
+      "motif": "lane",
+      "duration": "2–3 часа",
+      "stops": 7,
+      "distance": "около 2,7 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Маршрут ведет через самое зеленое сердце Гента — Цитадельпарк и его окружение. Здесь в шаговой доступности соседствуют классические шедевры и авангард современного искусства, научный музей Гентского университета и легендарная Башня книг. Путь завершится на просторной площади Синт‑Питерсплейн и в городском музее STAM — месте, где история города встречается с будущим."
+      },
+      "content": {
+        "intro": "Маршрут ведет через самое зеленое сердце Гента — Цитадельпарк и его окружение. Здесь в шаговой доступности соседствуют классические шедевры и авангард современного искусства, научный музей Гентского университета и легендарная Башня книг. Путь завершится на просторной площади Синт‑Питерсплейн и в городском музее STAM — месте, где история города встречается с будущим.",
+        "routeLogic": "Тропа начинается у главного входа в Цитадельпарк, проходит через музеи по периметру парка и продолжает к университетскому кварталу за пределами зелёной зоны. После визита в Букенторен вы поднимаетесь на Синт‑Питерсплейн, а затем спускаетесь к комплексу Биёлке, где находится STAM. Маршрут удобно совершать пешком; его можно прервать или продолжить, так как остановки расположены рядом с общественным транспортом.",
+        "bestFor": "Любители искусства — классического и современного\nПутешественники, интересующиеся наукой и архитектурой\nГости с детьми школьного возраста, готовые к полу‑дневной прогулке",
+        "notFor": "Путешественники с ограниченной мобильностью: маршрут содержит подъёмы и длинные переходы\nТе, кто ищет шумные развлечения или ночную жизнь",
+        "beforeYouGo": "Возьмите удобную обувь и зонтик: бельгийская погода непредсказуема. Большинство музеев закрыто по понедельникам, а некоторые не работают в среду — проверьте актуальные часы на их сайтах. Оплата билетов возможна картой. Чтобы избежать очередей, рекомендуется купить билеты онлайн. Учитывайте, что в зимний сезон парковые деревья теряют листы, а в летний — возможны концерты и фестивали.",
+        "timing": "10:00\n14:00"
+      },
+      "stopList": [
+        {
+          "id": "ghent-citadelpark-arts-quarter-1",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 1,
+          "name": "Цитадельпарк",
+          "note": "Зелёный оазис на месте военной крепости",
+          "time": "15 мин",
+          "walk": "Двигайтесь по центральной аллее парка вверх, пока слева не увидите классический фасад Музея изящных искусств (MSK). Путь займёт около пяти минут.",
+          "content": {
+            "context": "Вы стоите у главного входа в Цитадельпарк — самого большого парка Гента, разбитого на холме между рекой Шельда и каналом Лис. Редкое сочетание пышной зелени и культурных объектов появилось здесь не случайно. До 1870 года на этом месте возвышалась нидерландская цитадель, построенная в 1819–1831 годах и считавшаяся одной из самых современных крепостей Европы. После демонтажа укреплений город превратил территорию в городской парк. Сегодня вас встречает ботаническое богатство: именные таблички рядом с деревьями напоминают, что это живой арборетум. Налево виднеется элегантная музыка‑павильон, направо — аллеи, ведущие к музеям.",
+            "lookFor": "Обратите внимание на чугунный музы­кальный павильон 1885 года с кружевным ажуром и на редкие породы деревьев: их названия и страны происхождения указаны на табличках. Весной озеро у павильона отражает цветущие азалии, а осенью парк окрашивается в медные тона.",
+            "practical": "Парк открыт круглосуточно и бесплатен. В сезон возможны работы по благоустройству и концерты; проход к некоторым дорожкам может быть ограничен. Ближайший туалет находится в здании S.M.A.K.; летом на лужайках разрешены пикники.",
+            "nextMove": "Двигайтесь по центральной аллее парка вверх, пока слева не увидите классический фасад Музея изящных искусств (MSK). Путь займёт около пяти минут.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Современный план обновления парка предусматривает бережную реставрацию исторических дорожек и павильона, а также усиленную защиту редких деревьев и развитие культурной инфраструктуры."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "Citadelpark",
+          "coordinates": {
+            "latitude": 51.041,
+            "longitude": 3.7213
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открыт круглосуточно",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-1",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-1-square.jpg",
+            "alt": "Музы­кальный павильон в Цитадельпарке",
+            "attribution": {
+              "author": "Marc Ryckaert (MJJR)",
+              "license": "CC BY 3.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Citadelpark_Muziekkiosk_R01.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-2",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 2,
+          "name": "Музей изящных искусств (MSK)",
+          "note": "Старейший музей Бельгии и светлый храм живописи",
+          "time": "15 мин",
+          "walk": "От главного входа MSK выйдите на улицу и поверните направо: через газон, напротив, находится современное здание S.M.A.K. Дойдите до него за три минуты.",
+          "content": {
+            "context": "Здание, в которое вы входите, словно специально создано для живописи: высокие окна пропускают мягкий северный свет, а просторные залы переходят один в другой. Это работы архитектора Шарля Ван Риссельберга, брата художника Тэо, который задумал музей так, чтобы естественный свет освещал каждый зал. Открытый королём Леопольдом II в 1904 году, MSK является старейшим музеем Бельгии (основан в 1798 году) и хранит около 20 тысяч произведений. Коллекция охватывает четырнадцать веков — от средневековых фламандских мастеров до экспрессионистов.",
+            "lookFor": "Пройдите в зал старых мастеров, чтобы увидеть алтарь “Спокойствие святого Иеронима”, а затем посетите зал, посвящённый женскому портрету Жана Фуке. В другой части музея обратите внимание на скульптуру Джеймса Энсора и пейзажи Константина Менье. Временные выставки часто предлагают современную интерпретацию классики.",
+            "practical": "Входной билет стоит около 12 € для взрослых; дети до 18 лет могут пройти бесплатно. Бронируйте билеты онлайн, особенно в дни открытий выставок. Гардероб и кафе расположены в фойе. Здание доступно для людей с ограниченной мобильностью; при необходимости можно взять складную табуретку.",
+            "nextMove": "От главного входа MSK выйдите на улицу и поверните направо: через газон, напротив, находится современное здание S.M.A.K. Дойдите до него за три минуты.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Музей представляет работы бельгийских художников XIX–XX веков — Ван Гога и Магритта, а также экспериментальные выставки, где классические картины сопоставляются с современными инсталляциями."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "Museum voor Schone Kunsten",
+          "coordinates": {
+            "latitude": 51.0412,
+            "longitude": 3.7222
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Вт–Пт 09:30–17:30; Сб–Вс 10:00–18:00; Пн закрыт",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-2",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-2-square.jpg",
+            "alt": "Фасад музея изящных искусств MSK",
+            "attribution": {
+              "author": "FrDr",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:MSK_Gent_01.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-3",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 3,
+          "name": "S.M.A.K. (Музей современного искусства)",
+          "note": "Авангард на месте бывшего казино",
+          "time": "15 мин",
+          "walk": "Выйдя из S.M.A.K., продолжайте идти вдоль края парка в сторону улицы Ледеганкстрат. Через пять–шесть минут вы увидите стеклянные теплицы Ботанического сада и здание нового музея GUM.",
+          "content": {
+            "context": "Вы видите строгий прямоугольный фасад, некогда принадлежавший казино. В 1957 году коллекционер Карел Гирландт создал общество, мечтавшее о музее современного искусства. Его мечта осуществилась: в 1975 году, в залах MSK, открылась первая бельгийская коллекция современного искусства, а в 1999 году музей переехал в это отдельное здание и получил название S.M.A.K. Внутри — постоянно обновляющиеся выставки, где соседствуют работы международных авангардистов и бельгийских художников.",
+            "lookFor": "На первом этаже часто устраивают ретроспективы классиков современного искусства, а на верхнем — экспериментальные инсталляции. Обратите внимание на панорамные окна: из них открывается вид на MSK и парк, подчёркивая диалог между традицией и новаторством.",
+            "practical": "Билет стоит около 12 €; по четвергам музей иногда работает до 22:00 — уточняйте в расписании. Рюкзаки необходимо оставить в запираемых шкафчиках. Музей доступен для инвалидных колясок.",
+            "nextMove": "Выйдя из S.M.A.K., продолжайте идти вдоль края парка в сторону улицы Ледеганкстрат. Через пять–шесть минут вы увидите стеклянные теплицы Ботанического сада и здание нового музея GUM.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "S.M.A.K. был задуман куратором Яном Хутом, который стремился показать, что современное искусство должно быть провокационным и доступным. Его выставки часто вызывают дискуссии и расширяют представление о том, что такое искусство сегодня."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "S.M.A.K.",
+          "coordinates": {
+            "latitude": 51.0415,
+            "longitude": 3.7229
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Вт–Пт 09:30–17:30; Сб–Вс 10:00–18:00; Пн закрыт",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-3",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-3-square.jpg",
+            "alt": "Фасад музея современного искусства S.M.A.K.",
+            "attribution": {
+              "author": "acediscovery",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:SMAK-Ghent.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-4",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 4,
+          "name": "GUM и Ботанический сад",
+          "note": "Наука, сомнение и коллекции растений",
+          "time": "15 мин",
+          "walk": "Покинув сад, следуйте по Ледеганкстрат к горе Бландейнберг. На вершине вы увидите высокую модернистскую башню — Букенторен. Дорога займёт около десяти минут и потребует подъёма.",
+          "content": {
+            "context": "За стеклянными стенами теплиц скрывается мини‑джунгли. Ботанический сад Гентского университета хранит около 10 000 видов растений со всего мира. Учёные ведут здесь исследования, поддерживают гербарий из высушенных образцов и семенной банк, спасая редкие виды. В новом здании рядом разместился GUM — музей, который представляет науку как процесс сомнений и открытий. Открываясь в 2020‑х годах, музей объединил коллекции анатомии, зоологии, минералогии и ботаники, приглашая посетителей задуматься о взаимодействии науки и искусства.",
+            "lookFor": "Прогуляйтесь по оранжерее субтропических растений, обратите внимание на самые маленькие орхидеи и гигантские водяные лилии. В залах GUM посмотрите на чучело носорога XIX века и кабинеты учёных, где по‑прежнему стоят старинные микроскопы.",
+            "practical": "Вход в сад бесплатный, билет в GUM стоит около 8 €. В среду музей закрыт, но сад открыт. Зимой теплицы могут быть прохладными, поэтому надевайте тёплую одежду. У входа есть кафе и туалеты.",
+            "nextMove": "Покинув сад, следуйте по Ледеганкстрат к горе Бландейнберг. На вершине вы увидите высокую модернистскую башню — Букенторен. Дорога займёт около десяти минут и потребует подъёма.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "GUM позиционирует себя как форум для науки, сомнения и искусства. Здесь регулярно проводят дискуссии, связывая учёных и художников, а также предлагают школьникам программы, которые объясняют, что наука движется через ошибки и эксперименты."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "Gents Universiteitsmuseum & Plantentuin",
+          "coordinates": {
+            "latitude": 51.0389,
+            "longitude": 3.7265
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Пн/Вт/Чт/Пт 09:30–17:30; Сб–Вс 10:00–18:00; Ср закрыт",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-4",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-4-square.jpg",
+            "alt": "Пруд и теплицы ботанического сада Гента",
+            "attribution": {
+              "author": "Joostvandeputte",
+              "license": "Public domain; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_garden_Ghent,_Belgium1.JPG",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-5",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 5,
+          "name": "Букенторен (Башня книг)",
+          "note": "Модернистский «шкаф до неба»",
+          "time": "15 мин",
+          "walk": "Спускаясь по Бландейнбергу, выйдите на просторную Синт‑Питерсплейн — она прямо перед вами. Переход займёт около восьми минут.",
+          "content": {
+            "context": "Перед вами один из символов Гента — четвёртая башня города. Архитектор Анри ван де Вельде описывал свой проект как «могучий книжный шкаф, протянувшийся к небу». Строительство началось в 1936 году, а библиотека открылась в 1942 году, хотя работы продолжались до 1960‑х. Башня высотой 64 метра вмещает более трёх миллионов изданий. С 2021 по 2024 годы здание было отреставрировано и вновь открыто для читателей. На вершине установлен бронзовый фокстерьер — идея фотографа Михиеля Хендрикса воплощена скульптором Гретой ван Пёйенбрук.",
+            "lookFor": "Вход свободный, но записаться на экскурсию стоит заранее, чтобы подняться на смотровую площадку (Белведер) и увидеть панораму Гента. В холле обратите внимание на мозаичный пол и надписи с именами университетских факультетов.",
+            "practical": "Библиотека функционирует прежде всего как рабочая: посетителей просят соблюдать тишину. Белведер открыт только с гидом или в определённые дни. Проверяйте календарь на сайте университета. Для чтения редких изданий нужна запись.",
+            "nextMove": "Спускаясь по Бландейнбергу, выйдите на просторную Синт‑Питерсплейн — она прямо перед вами. Переход займёт около восьми минут.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Башня является охраняемым памятником с 1992 года. Её модернистский силуэт специально лишён декоративных деталей, чтобы подчеркнуть функциональность. После реставрации появились новые читальные залы, цифровые лаборатории и современные хранилища."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "Boekentoren",
+          "coordinates": {
+            "latitude": 51.041,
+            "longitude": 3.7234
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Пн–Чт 08:00–20:00; Пт 08:00–17:00; Выходные закрыта",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-5",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-5-square.jpg",
+            "alt": "Внешний вид Букенторена, университетской библиотеки Гента, с улицы Rozier.",
+            "attribution": {
+              "author": "PMRMaeyaert",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Rozier_Boekentoren-PM_35304.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-6",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 6,
+          "name": "Синт‑Питерсплейн",
+          "note": "Площадь, где знания и веселье встречаются",
+          "time": "15 мин",
+          "walk": "Пройдя через площадь в сторону реки Лис, держитесь правой стороны. В конце улицы вы окажетесь у комплекса Биёлке — исторического госпиталя, где расположился городской музей STAM. Путь займёт около семи минут.",
+          "content": {
+            "context": "На этой широкой площади сталкиваются два мира: с одной стороны возвышается Букенторен — символ знаний, с другой начинается улица Оверпоорт, известная множеством студенческих кафе. Синт‑Питерсплейн — сердце университетского квартала и место крупных событий. Здесь проходит середина великого поста (Halfvastenfoor) и разнообразные концерты. Во время строительства подземного паркинга археологи обнаружили останки античного поселения; контуры раскопок отмечены металлическими линиями в мощении, а сами находки перенесены в музей аббатства Святого Петра.",
+            "lookFor": "Осмотрите бронзовую модель площади у входа в аббатство — она помогает понять, как выглядел район в прошлом. Поворачиваясь спиной к аббатству, взгляните на современную скульптуру «Облака».",
+            "practical": "Площадь открыта круглосуточно. По вечерам она превращается в студенческую зону: будьте готовы к шуму. Подземная парковка платная; лифт поднимает прямо на площадь.",
+            "nextMove": "Пройдя через площадь в сторону реки Лис, держитесь правой стороны. В конце улицы вы окажетесь у комплекса Биёлке — исторического госпиталя, где расположился городской музей STAM. Путь займёт около семи минут.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Археологические раскопки показали, что район был заселён ещё в римскую эпоху. Современная площадь была реконструирована в начале XXI века: под ней построили парковку и создали пространство для крупных событий."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "Sint‑Pietersplein",
+          "coordinates": {
+            "latitude": 51.04,
+            "longitude": 3.7255
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Открыта круглосуточно",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-6",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-6-square.jpg",
+            "alt": "Синт‑Питерсплейн и аббатство Святого Петра",
+            "attribution": {
+              "author": "PMRMaeyaert",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Sint-Pieterskerk-PM_35298.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "ghent-citadelpark-arts-quarter-7",
+          "guideId": "ghent-citadelpark-arts-quarter",
+          "order": 7,
+          "name": "STAM – Городской музей",
+          "note": "История Гента в старинном госпитале",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "Комплекс Биёлке встречает вас кирпичными фасадами и зелёными дворами. История этого места началась в 1228 году, когда город перенёс больницу за городские стены. Цистерцианские монахини управляли здесь госпиталем и основали женский монастырь. Больница стала одной из крупнейших в Западной Европе. В XIX веке здесь появились анатомический институт и лаборатории, а в XX веке медицинские службы переехали. Отреставрированный комплекс превратился в культурный кампус: музей STAM рассказывает историю Гента через археологические находки, макеты, мультимедийные инсталляции.",
+            "lookFor": "Главная экспозиция начинается с огромной аэрофотосъёмки Гента, которую можно рассмотреть босиком. Далее следуют залы, посвящённые средневековой истории, промышленной революции и современной городской жизни. В пристройке расположен кафе в бывшем операционном зале.",
+            "practical": "Билет стоит около 8 €. Музей закрыт по средам. Входной билет даёт доступ ко всем временным выставкам. В комплексе есть кафе и сувенирный магазин. Комплекс частично доступен для людей с инвалидностью: просьба обращаться на стойку информации. Из‑за дорожных работ, продолжающихся до февраля 2026 года, общественный транспорт к Биёлке может следовать по обходному маршруту — планируйте дополнительное время.",
+            "nextMove": "Экскурсия заканчивается на тихом дворе бывшего госпиталя. Отсюда можно вернуться в центр города пешком или на трамвае № 1, остановка находится в нескольких минутах.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "STAM – это не просто музей, но и исследовательский центр. Здесь собирают устные истории горожан, цифровизируют архивы, организуют временные выставки о будущих сценариях развития города."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "nameLocal": "STAM – Stadsmuseum Gent",
+          "coordinates": {
+            "latitude": 51.053,
+            "longitude": 3.712
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Пн/Вт/Чт/Пт 09:00–17:00; Сб–Вс 10:00–18:00; Ср закрыт",
+            "checkedAt": "2026-06-22"
+          },
+          "photoAssetId": "ghent-citadelpark-arts-quarter-stop-7",
+          "sourceIds": [],
+          "photo": {
+            "id": "ghent-citadelpark-arts-quarter-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-7-square.jpg",
+            "alt": "Фасад городского музея STAM",
+            "attribution": {
+              "author": "Phile Deprez",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_Ghent_City_Museum_STAM.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "ghent-citadelpark-arts-quarter-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-cover-square.jpg",
+        "alt": "Сгенерированная editorial-обложка маршрута «ghent-citadelpark-arts-quarter»"
+      },
+      "coverAssetId": "ghent-citadelpark-arts-quarter-cover",
+      "basemap": {
+        "image": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-basemap.png",
+        "center": {
+          "latitude": 51.04595,
+          "longitude": 3.71925
+        },
+        "zoom": 14.01,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
     }
   ],
   "locale": "en",
@@ -2328,7 +5655,673 @@
           "retrievedAt": "2026-06-17"
         }
       }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-1",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 1,
+      "name": "Portus Ganda: исток города",
+      "note": "Марина на месте, где сливаются Лея и Шельда – здесь зародился Гент",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Встаньте на полукруглый причал у марины Portus Ganda между басcейном Van Eyck и аббатством Святого Бавона. Перед вами сливаются две реки — Лея и Шельда.",
+        "lookFor": "Красная скульптура \"Гентская Лорелея\" на набережной\nОтражения старых домов в воде\nПолукруглый причал между бассейном и аббатством",
+        "practical": "Portus Ganda — это открытая марина без входной платы. Доступна круглосуточно, но будьте осторожны с велосипедистами на набережной. Лодки могут пришвартоваться, а прогулочным посетителям следует уважать частную собственность яхт.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Здесь, в VII веке, возникло первое поселение, а кельтское слово «Ганда» описывало именно это слияние. В 1960‑е годы нижняя Шельда была засыпана, но в 2018 году её открыли вновь, и вода вернулась на Reep. Марина, открытая для проходящих лодок, наполняет пространство шумом мачт и запахом воды, а рядом на набережной стоит красная скульптура «Лорелея», ставшая символом Portus Ganda. Глядя на отражения домов и башен, представьте шум средневековых рынков, когда именно здесь зарождался Гент."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0566,
+        "longitude": 3.7329
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-1",
+      "sourceIds": [
+        "visitgent_portusganda",
+        "vlaamsewaterweg_reop"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-1-square.jpg",
+        "alt": "Марина Portus Ganda на рассвете, лодки вдоль набережной, дома и деревья отражаются в тихой воде.",
+        "attribution": {
+          "author": "Marc Ryckaert (MJJR)",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Portus_Ganda_R01.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-2",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 2,
+      "name": "Veerkaai: тихая набережная",
+      "note": "Узкая набережная между мостами Bavobrug и Van Eyckbrug предлагает спокойствие и виды на порт",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Следуя вдоль воды от марины, вы выходите на Veerkaai — узкую набережную вдоль Нижней Шельды. Здесь стоят скамейки и небольшие лужайки, где местные жители читают или разговаривают, а напротив открываются виды на Portus Ganda и аббатские руины.",
+        "lookFor": "Скамейки и лужайки между деревьями\nВид на старинные фасады с другой стороны реки\nСпокойные воды, соединяющие два моста",
+        "practical": "Набережная Veerkaai открыта круглые сутки. Будьте внимательны: дорожка узкая, здесь ездят велосипедисты. Скамейки могут быть влажными после дождя. Освещение слабое, поэтому вечером лучше быть осторожными.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Этот участок между мостами Bavobrug и Van Eyckbrug находится буквально в нескольких шагах от оживлённого центра, но атмосферу здесь создают вода и деревья. Тихое журчание реки напоминает о недавнем возвращении воды на De Reep, а названия улицы и реки возвращают нас к слову «Ганда» – слияние. Проходя здесь, заметьте, как город бережно относится к своим набережным."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.056,
+        "longitude": 3.7328
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-2",
+      "sourceIds": [
+        "dekuip_veerkaai",
+        "visitgent_walklocal",
+        "vlaamsewaterweg_reop"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-2-square.jpg",
+        "alt": "Buildings and an arched bridge along the canal at Veerkaai in Ghent.",
+        "attribution": {
+          "author": "Daan Verhoost",
+          "license": "Unsplash License; cropped/resized for app",
+          "sourceUrl": "https://unsplash.com/photos/buildings-line-a-canal-with-arched-bridges-below-4hukKe5Q9II",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-3",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 3,
+      "name": "Бассейн Van Eyck",
+      "note": "Старинный арт-деко бассейн и баня, названный в честь братьев Ван Эйк",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Здание бассейна Van Eyck на Veermanplein — старейший крытый бассейн Бельгии. Его назвали в честь знаменитых братьев Ван Эйк, создателей Гентского алтаря.",
+        "lookFor": "Мозаичные настенные панно и ар-деко детали\nБар Au Bain с видом на бассейн и порт\nПодземные купальни в рабочие часы",
+        "practical": "Ванные (куипбад) открыты по средам, пятницам и субботам с 09:00 до 15:30. Билеты покупаются на месте, стоимость около 3 € для гостей. Бассейн закрывается в период школьных каникул и по воскресеньям; расписание уточняйте на сайте Stad Gent. Внутри нельзя фотографировать людей без их согласия.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В начале XX века здесь не было водопровода, поэтому подвал бассейна до сих пор оснащён купальнями, которые открыты по средам, пятницам и субботам. Интерьер в стиле ар-деко бережно отреставрировали в 2001 году: мозаичные стены, балконы и бар на первом этаже, откуда открывается вид на чашу бассейна и Portus Ganda. Сегодня здесь плавают местные жители, любители арт-деко фотографируют детали, а бар Au Bain предлагает перекусить между заплывами."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0533,
+        "longitude": 3.7341
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-3",
+      "sourceIds": [
+        "visitgent_vaneyck",
+        "stadgent_vaneyck"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-3-square.jpg",
+        "alt": "Фасад плавательного бассейна Van Eyck с искусственными колоннами и большой стеклянной стеной.",
+        "attribution": {
+          "author": "rvanhegelsom",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Eyck_swimming_pool_in_Ghent_(B).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-4",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 4,
+      "name": "De Reep: возвращённая река",
+      "note": "Свидетельство того, как Гент вернул своей реке жизнь",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Переходя через мост Вийденард, вы попадаете на De Reep — участок Нижней Шельды, вновь открытый для воды после десятилетий забвения. До 1960‑х здесь был автомобильный проспект, но в 2016–2018 годах город с помощью правительства Фландрии снял земляную дамбу, построил новые мосты (Nieuwbrug, Bavobrug и сам Вийденард) и шлюз Scaldissluis, чтобы преодолеть разницу уровней.",
+        "lookFor": "Новые мосты и шлюз Scaldissluis\nРисунок воды между обновлёнными набережными\nВид на руины аббатства и современные дома",
+        "practical": "Этот участок набережной открыт всегда; береговые дорожки местами узкие. Следите за велосипедистами и лодками в шлюзе. В сырую погоду плитка может быть скользкой.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Теперь река течёт между новыми набережными, а на месте парковок выросла зелень. Прислушайтесь к плеску воды — это не только звучит красиво, но и символизирует возвращение природы в сердце города. Посмотрите по сторонам: справа виднеется аббатство Святого Бавона, слева — старые дома вдоль Виркааи, а впереди – пути к будущим остановкам."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0558,
+        "longitude": 3.7335
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-4",
+      "sourceIds": [
+        "vlaamsewaterweg_reop",
+        "visitgent_portusganda"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-4-square.jpg",
+        "alt": "Новый участок реки De Reep с обновлёнными набережными, зелёными насаждениями и мостом на заднем плане.",
+        "attribution": {
+          "author": "Marc Ryckaert (MJJR)",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Reep_R03.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-5",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 5,
+      "name": "Coyendanspark: зелёная память",
+      "note": "Парк с живой копией плана разрушенного собора и деревом мира",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Возле южной стены аббатства разбит Coyendanspark — молодой парк, превращённый из бывшей бойни в зелёный оазис. Главная особенность парка — живая топиарная копия плана разрушенного аббатского собора: высаженный роговой бук повторяет контуры не существующей церкви и поднимается на высоту до пяти метров.",
+        "lookFor": "Зелёная структура в форме плана собора\nБелые ворота бывшей бойни\nДерево гинкго – посланник мира",
+        "practical": "Парк открыт круглосуточно. После дождей тропинки могут быть грязными. Здесь нет туалетов или кафе, но есть скамейки для отдыха. Следите за проезжающими велосипедами.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Дорожки ведут в marsh‑зону, где растения фильтруют дождевую воду, а через белые ворота бывшей бойни проходит велодорожка. В 2019 году здесь посадили дерево гинкго из семени, пережившего атомную бомбардировку Хиросимы, чтобы напомнить о хрупкости мира и стойкости природы. Оглянитесь назад: за кустами возвышаются руины аббатства, которые вы увидите далее."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0531,
+        "longitude": 3.736
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-5",
+      "sourceIds": [
+        "stadgent_coyendans",
+        "visitgent_stbaafs"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-5-square.jpg",
+        "alt": "Open grassy area in Coyendanspark near Sint-Baafsabdij in Ghent.",
+        "attribution": {
+          "author": "karel291",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_-_panoramio_(1).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-6",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 6,
+      "name": "Руины аббатства Святого Бавона",
+      "note": "Остатки монастыря, разрушенного по приказу Карла V, и тихий сад",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Через дорогу от парка находится вход в руины аббатства Святого Бавона. Здесь, среди древних камней и ухоженных кустов, вы ощутите почти монашескую тишину.",
+        "lookFor": "Кустарниковый рисунок романской церкви\nВысокие живые колонны из рогового бука\nБетонная площадка на месте алтаря",
+        "practical": "Руины открыты для посетителей с апреля по конец октября по пятницам, субботам и воскресеньям с 14:00 до 18:00. Вход свободный. В остальное время территория закрыта, но её можно увидеть через решётку. Покрытие неравномерное, поэтому надевайте удобную обувь.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Аббатство основал святой Аманд в VII веке для обращения жителей Ганды в христианство. В 1540 году, после восстания горожан, Карл V приказал разрушить монастырь и деревню вокруг него; на этом месте позже возвели испанскую крепость. Сегодня контуры романской церкви обозначены невысокими кустарниками, а высокие колонны из рогового бука напоминают о потерянном сводчатом нефе. У бетонной сцены, расположенной там, где когда‑то был алтарь, иногда устраивают небольшие концерты. В ясный день слушайте звон колоколов собора Святого Бавона на горизонте и вспомните, что монахи перебрались туда после разрушения."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0539,
+        "longitude": 3.7363
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-6",
+      "sourceIds": [
+        "visitgent_stbaafs",
+        "mmmonk_abbey",
+        "stadgent_coyendans"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-6-square.jpg",
+        "alt": "Ряд формированных деревьев-парасоль с зелёной кроной на фоне руин аббатства Святого Бавона.",
+        "attribution": {
+          "author": "Geert Van der Linden",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Voorhoutkaai_Parasolvormige_buxussen_Sint-Baafsabdij_(6)_-_229191_-_onroerenderfgoed.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-portus-ganda-abbey-origins-7",
+      "guideId": "ghent-portus-ganda-abbey-origins",
+      "order": 7,
+      "name": "Церковь Святого Махария",
+      "note": "Неоготический храм, ныне живой культурный центр",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Последний пункт прогулки — церковь Святого Махария, построенная из синего камня и красного кирпича. Первый камень заложил вспомогательный епископ Гюстав Де Баттисе 13 июня 1880 года, а башня была завершена в 1893 году.",
+        "lookFor": "Неоготические арки и витражи\nВнешние стены из синего камня и красного кирпича\nОбъявления о концертах или выставках",
+        "practical": "Церковь открыта в дни мероприятий; часы работы следует уточнять в расписании. Вход бесплатный, пожертвования приветствуются. Вне мероприятий можно рассмотреть фасад и двор. Здание доступно для инвалидных колясок.",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Храм построен в форме латинского креста и украшен неоготическими арками. В 2014 году здание приспособили к современным потребностям: сегодня здесь проходят концерты, лекции и выставки, а регулярные мессы прекратились в 2017 году. Войдя внутрь (если двери открыты), обратите внимание на витражи и высокий свод. Этот пример показывает, как исторические церкви становятся общественными пространствами без утраты своего сакрального духа."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 51.0532,
+        "longitude": 3.7366
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "ghent-portus-ganda-abbey-origins-stop-7",
+      "sourceIds": [
+        "visitgent_macharius"
+      ],
+      "photo": {
+        "id": "ghent-portus-ganda-abbey-origins-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-portus-ganda-abbey-origins-stop-7-square.jpg",
+        "alt": "Фасад неоготической церкви Святого Махария с башней и арками из красного кирпича и голубого камня.",
+        "attribution": {
+          "author": "LimoWreck",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_-_Sint-Machariuskerk_1.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-1",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 1,
+      "name": "Цитадельпарк",
+      "note": "Зелёный оазис на месте военной крепости",
+      "time": "15 мин",
+      "walk": "Двигайтесь по центральной аллее парка вверх, пока слева не увидите классический фасад Музея изящных искусств (MSK). Путь займёт около пяти минут.",
+      "content": {
+        "context": "Вы стоите у главного входа в Цитадельпарк — самого большого парка Гента, разбитого на холме между рекой Шельда и каналом Лис. Редкое сочетание пышной зелени и культурных объектов появилось здесь не случайно. До 1870 года на этом месте возвышалась нидерландская цитадель, построенная в 1819–1831 годах и считавшаяся одной из самых современных крепостей Европы. После демонтажа укреплений город превратил территорию в городской парк. Сегодня вас встречает ботаническое богатство: именные таблички рядом с деревьями напоминают, что это живой арборетум. Налево виднеется элегантная музыка‑павильон, направо — аллеи, ведущие к музеям.",
+        "lookFor": "Обратите внимание на чугунный музы­кальный павильон 1885 года с кружевным ажуром и на редкие породы деревьев: их названия и страны происхождения указаны на табличках. Весной озеро у павильона отражает цветущие азалии, а осенью парк окрашивается в медные тона.",
+        "practical": "Парк открыт круглосуточно и бесплатен. В сезон возможны работы по благоустройству и концерты; проход к некоторым дорожкам может быть ограничен. Ближайший туалет находится в здании S.M.A.K.; летом на лужайках разрешены пикники.",
+        "nextMove": "Двигайтесь по центральной аллее парка вверх, пока слева не увидите классический фасад Музея изящных искусств (MSK). Путь займёт около пяти минут.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Современный план обновления парка предусматривает бережную реставрацию исторических дорожек и павильона, а также усиленную защиту редких деревьев и развитие культурной инфраструктуры."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "Citadelpark",
+      "coordinates": {
+        "latitude": 51.041,
+        "longitude": 3.7213
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открыт круглосуточно",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-1",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-1-square.jpg",
+        "alt": "Музы­кальный павильон в Цитадельпарке",
+        "attribution": {
+          "author": "Marc Ryckaert (MJJR)",
+          "license": "CC BY 3.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Citadelpark_Muziekkiosk_R01.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-2",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 2,
+      "name": "Музей изящных искусств (MSK)",
+      "note": "Старейший музей Бельгии и светлый храм живописи",
+      "time": "15 мин",
+      "walk": "От главного входа MSK выйдите на улицу и поверните направо: через газон, напротив, находится современное здание S.M.A.K. Дойдите до него за три минуты.",
+      "content": {
+        "context": "Здание, в которое вы входите, словно специально создано для живописи: высокие окна пропускают мягкий северный свет, а просторные залы переходят один в другой. Это работы архитектора Шарля Ван Риссельберга, брата художника Тэо, который задумал музей так, чтобы естественный свет освещал каждый зал. Открытый королём Леопольдом II в 1904 году, MSK является старейшим музеем Бельгии (основан в 1798 году) и хранит около 20 тысяч произведений. Коллекция охватывает четырнадцать веков — от средневековых фламандских мастеров до экспрессионистов.",
+        "lookFor": "Пройдите в зал старых мастеров, чтобы увидеть алтарь “Спокойствие святого Иеронима”, а затем посетите зал, посвящённый женскому портрету Жана Фуке. В другой части музея обратите внимание на скульптуру Джеймса Энсора и пейзажи Константина Менье. Временные выставки часто предлагают современную интерпретацию классики.",
+        "practical": "Входной билет стоит около 12 € для взрослых; дети до 18 лет могут пройти бесплатно. Бронируйте билеты онлайн, особенно в дни открытий выставок. Гардероб и кафе расположены в фойе. Здание доступно для людей с ограниченной мобильностью; при необходимости можно взять складную табуретку.",
+        "nextMove": "От главного входа MSK выйдите на улицу и поверните направо: через газон, напротив, находится современное здание S.M.A.K. Дойдите до него за три минуты.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Музей представляет работы бельгийских художников XIX–XX веков — Ван Гога и Магритта, а также экспериментальные выставки, где классические картины сопоставляются с современными инсталляциями."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "Museum voor Schone Kunsten",
+      "coordinates": {
+        "latitude": 51.0412,
+        "longitude": 3.7222
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Вт–Пт 09:30–17:30; Сб–Вс 10:00–18:00; Пн закрыт",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-2",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-2-square.jpg",
+        "alt": "Фасад музея изящных искусств MSK",
+        "attribution": {
+          "author": "FrDr",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MSK_Gent_01.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-3",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 3,
+      "name": "S.M.A.K. (Музей современного искусства)",
+      "note": "Авангард на месте бывшего казино",
+      "time": "15 мин",
+      "walk": "Выйдя из S.M.A.K., продолжайте идти вдоль края парка в сторону улицы Ледеганкстрат. Через пять–шесть минут вы увидите стеклянные теплицы Ботанического сада и здание нового музея GUM.",
+      "content": {
+        "context": "Вы видите строгий прямоугольный фасад, некогда принадлежавший казино. В 1957 году коллекционер Карел Гирландт создал общество, мечтавшее о музее современного искусства. Его мечта осуществилась: в 1975 году, в залах MSK, открылась первая бельгийская коллекция современного искусства, а в 1999 году музей переехал в это отдельное здание и получил название S.M.A.K. Внутри — постоянно обновляющиеся выставки, где соседствуют работы международных авангардистов и бельгийских художников.",
+        "lookFor": "На первом этаже часто устраивают ретроспективы классиков современного искусства, а на верхнем — экспериментальные инсталляции. Обратите внимание на панорамные окна: из них открывается вид на MSK и парк, подчёркивая диалог между традицией и новаторством.",
+        "practical": "Билет стоит около 12 €; по четвергам музей иногда работает до 22:00 — уточняйте в расписании. Рюкзаки необходимо оставить в запираемых шкафчиках. Музей доступен для инвалидных колясок.",
+        "nextMove": "Выйдя из S.M.A.K., продолжайте идти вдоль края парка в сторону улицы Ледеганкстрат. Через пять–шесть минут вы увидите стеклянные теплицы Ботанического сада и здание нового музея GUM.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "S.M.A.K. был задуман куратором Яном Хутом, который стремился показать, что современное искусство должно быть провокационным и доступным. Его выставки часто вызывают дискуссии и расширяют представление о том, что такое искусство сегодня."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "S.M.A.K.",
+      "coordinates": {
+        "latitude": 51.0415,
+        "longitude": 3.7229
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Вт–Пт 09:30–17:30; Сб–Вс 10:00–18:00; Пн закрыт",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-3",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-3-square.jpg",
+        "alt": "Фасад музея современного искусства S.M.A.K.",
+        "attribution": {
+          "author": "acediscovery",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SMAK-Ghent.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-4",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 4,
+      "name": "GUM и Ботанический сад",
+      "note": "Наука, сомнение и коллекции растений",
+      "time": "15 мин",
+      "walk": "Покинув сад, следуйте по Ледеганкстрат к горе Бландейнберг. На вершине вы увидите высокую модернистскую башню — Букенторен. Дорога займёт около десяти минут и потребует подъёма.",
+      "content": {
+        "context": "За стеклянными стенами теплиц скрывается мини‑джунгли. Ботанический сад Гентского университета хранит около 10 000 видов растений со всего мира. Учёные ведут здесь исследования, поддерживают гербарий из высушенных образцов и семенной банк, спасая редкие виды. В новом здании рядом разместился GUM — музей, который представляет науку как процесс сомнений и открытий. Открываясь в 2020‑х годах, музей объединил коллекции анатомии, зоологии, минералогии и ботаники, приглашая посетителей задуматься о взаимодействии науки и искусства.",
+        "lookFor": "Прогуляйтесь по оранжерее субтропических растений, обратите внимание на самые маленькие орхидеи и гигантские водяные лилии. В залах GUM посмотрите на чучело носорога XIX века и кабинеты учёных, где по‑прежнему стоят старинные микроскопы.",
+        "practical": "Вход в сад бесплатный, билет в GUM стоит около 8 €. В среду музей закрыт, но сад открыт. Зимой теплицы могут быть прохладными, поэтому надевайте тёплую одежду. У входа есть кафе и туалеты.",
+        "nextMove": "Покинув сад, следуйте по Ледеганкстрат к горе Бландейнберг. На вершине вы увидите высокую модернистскую башню — Букенторен. Дорога займёт около десяти минут и потребует подъёма.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "GUM позиционирует себя как форум для науки, сомнения и искусства. Здесь регулярно проводят дискуссии, связывая учёных и художников, а также предлагают школьникам программы, которые объясняют, что наука движется через ошибки и эксперименты."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "Gents Universiteitsmuseum & Plantentuin",
+      "coordinates": {
+        "latitude": 51.0389,
+        "longitude": 3.7265
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Пн/Вт/Чт/Пт 09:30–17:30; Сб–Вс 10:00–18:00; Ср закрыт",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-4",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-4-square.jpg",
+        "alt": "Пруд и теплицы ботанического сада Гента",
+        "attribution": {
+          "author": "Joostvandeputte",
+          "license": "Public domain; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_garden_Ghent,_Belgium1.JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-5",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 5,
+      "name": "Букенторен (Башня книг)",
+      "note": "Модернистский «шкаф до неба»",
+      "time": "15 мин",
+      "walk": "Спускаясь по Бландейнбергу, выйдите на просторную Синт‑Питерсплейн — она прямо перед вами. Переход займёт около восьми минут.",
+      "content": {
+        "context": "Перед вами один из символов Гента — четвёртая башня города. Архитектор Анри ван де Вельде описывал свой проект как «могучий книжный шкаф, протянувшийся к небу». Строительство началось в 1936 году, а библиотека открылась в 1942 году, хотя работы продолжались до 1960‑х. Башня высотой 64 метра вмещает более трёх миллионов изданий. С 2021 по 2024 годы здание было отреставрировано и вновь открыто для читателей. На вершине установлен бронзовый фокстерьер — идея фотографа Михиеля Хендрикса воплощена скульптором Гретой ван Пёйенбрук.",
+        "lookFor": "Вход свободный, но записаться на экскурсию стоит заранее, чтобы подняться на смотровую площадку (Белведер) и увидеть панораму Гента. В холле обратите внимание на мозаичный пол и надписи с именами университетских факультетов.",
+        "practical": "Библиотека функционирует прежде всего как рабочая: посетителей просят соблюдать тишину. Белведер открыт только с гидом или в определённые дни. Проверяйте календарь на сайте университета. Для чтения редких изданий нужна запись.",
+        "nextMove": "Спускаясь по Бландейнбергу, выйдите на просторную Синт‑Питерсплейн — она прямо перед вами. Переход займёт около восьми минут.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Башня является охраняемым памятником с 1992 года. Её модернистский силуэт специально лишён декоративных деталей, чтобы подчеркнуть функциональность. После реставрации появились новые читальные залы, цифровые лаборатории и современные хранилища."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "Boekentoren",
+      "coordinates": {
+        "latitude": 51.041,
+        "longitude": 3.7234
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Пн–Чт 08:00–20:00; Пт 08:00–17:00; Выходные закрыта",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-5",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-5-square.jpg",
+        "alt": "Внешний вид Букенторена, университетской библиотеки Гента, с улицы Rozier.",
+        "attribution": {
+          "author": "PMRMaeyaert",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Rozier_Boekentoren-PM_35304.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-6",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 6,
+      "name": "Синт‑Питерсплейн",
+      "note": "Площадь, где знания и веселье встречаются",
+      "time": "15 мин",
+      "walk": "Пройдя через площадь в сторону реки Лис, держитесь правой стороны. В конце улицы вы окажетесь у комплекса Биёлке — исторического госпиталя, где расположился городской музей STAM. Путь займёт около семи минут.",
+      "content": {
+        "context": "На этой широкой площади сталкиваются два мира: с одной стороны возвышается Букенторен — символ знаний, с другой начинается улица Оверпоорт, известная множеством студенческих кафе. Синт‑Питерсплейн — сердце университетского квартала и место крупных событий. Здесь проходит середина великого поста (Halfvastenfoor) и разнообразные концерты. Во время строительства подземного паркинга археологи обнаружили останки античного поселения; контуры раскопок отмечены металлическими линиями в мощении, а сами находки перенесены в музей аббатства Святого Петра.",
+        "lookFor": "Осмотрите бронзовую модель площади у входа в аббатство — она помогает понять, как выглядел район в прошлом. Поворачиваясь спиной к аббатству, взгляните на современную скульптуру «Облака».",
+        "practical": "Площадь открыта круглосуточно. По вечерам она превращается в студенческую зону: будьте готовы к шуму. Подземная парковка платная; лифт поднимает прямо на площадь.",
+        "nextMove": "Пройдя через площадь в сторону реки Лис, держитесь правой стороны. В конце улицы вы окажетесь у комплекса Биёлке — исторического госпиталя, где расположился городской музей STAM. Путь займёт около семи минут.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Археологические раскопки показали, что район был заселён ещё в римскую эпоху. Современная площадь была реконструирована в начале XXI века: под ней построили парковку и создали пространство для крупных событий."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "Sint‑Pietersplein",
+      "coordinates": {
+        "latitude": 51.04,
+        "longitude": 3.7255
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открыта круглосуточно",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-6",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-6-square.jpg",
+        "alt": "Синт‑Питерсплейн и аббатство Святого Петра",
+        "attribution": {
+          "author": "PMRMaeyaert",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gent_Sint-Pieterskerk-PM_35298.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "ghent-citadelpark-arts-quarter-7",
+      "guideId": "ghent-citadelpark-arts-quarter",
+      "order": 7,
+      "name": "STAM – Городской музей",
+      "note": "История Гента в старинном госпитале",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Комплекс Биёлке встречает вас кирпичными фасадами и зелёными дворами. История этого места началась в 1228 году, когда город перенёс больницу за городские стены. Цистерцианские монахини управляли здесь госпиталем и основали женский монастырь. Больница стала одной из крупнейших в Западной Европе. В XIX веке здесь появились анатомический институт и лаборатории, а в XX веке медицинские службы переехали. Отреставрированный комплекс превратился в культурный кампус: музей STAM рассказывает историю Гента через археологические находки, макеты, мультимедийные инсталляции.",
+        "lookFor": "Главная экспозиция начинается с огромной аэрофотосъёмки Гента, которую можно рассмотреть босиком. Далее следуют залы, посвящённые средневековой истории, промышленной революции и современной городской жизни. В пристройке расположен кафе в бывшем операционном зале.",
+        "practical": "Билет стоит около 8 €. Музей закрыт по средам. Входной билет даёт доступ ко всем временным выставкам. В комплексе есть кафе и сувенирный магазин. Комплекс частично доступен для людей с инвалидностью: просьба обращаться на стойку информации. Из‑за дорожных работ, продолжающихся до февраля 2026 года, общественный транспорт к Биёлке может следовать по обходному маршруту — планируйте дополнительное время.",
+        "nextMove": "Экскурсия заканчивается на тихом дворе бывшего госпиталя. Отсюда можно вернуться в центр города пешком или на трамвае № 1, остановка находится в нескольких минутах.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "STAM – это не просто музей, но и исследовательский центр. Здесь собирают устные истории горожан, цифровизируют архивы, организуют временные выставки о будущих сценариях развития города."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "nameLocal": "STAM – Stadsmuseum Gent",
+      "coordinates": {
+        "latitude": 51.053,
+        "longitude": 3.712
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Пн/Вт/Чт/Пт 09:00–17:00; Сб–Вс 10:00–18:00; Ср закрыт",
+        "checkedAt": "2026-06-22"
+      },
+      "photoAssetId": "ghent-citadelpark-arts-quarter-stop-7",
+      "sourceIds": [],
+      "photo": {
+        "id": "ghent-citadelpark-arts-quarter-stop-7",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/ghent/ghent-citadelpark-arts-quarter-stop-7-square.jpg",
+        "alt": "Фасад городского музея STAM",
+        "attribution": {
+          "author": "Phile Deprez",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_Ghent_City_Museum_STAM.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
     }
   ],
-  "packHash": "27c7b5d7e2e4"
+  "packHash": "e2a8049151ba"
 }

@@ -362,12 +362,12 @@
   "cover": {
     "id": "cartagena-colombia-old-port-walls-fortress-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Старый порт и стены: Картахена как крепость»"
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-basemap.png",
+    "image": "",
     "center": {
       "latitude": 10.423337499999999,
       "longitude": -75.551608
@@ -415,13 +415,13 @@
       "photo": {
         "id": "cartagena-colombia-old-port-walls-fortress-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Torre del Reloj, Cartagena 01.jpg",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_del_Reloj,_Cartagena_01.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-15"
         }
       },
@@ -458,13 +458,13 @@
       "photo": {
         "id": "cartagena-colombia-old-port-walls-fortress-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Plaza de la Aduana, Cartagena 03.jpg",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Aduana,_Cartagena_03.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-15"
         }
       },
@@ -501,13 +501,13 @@
       "photo": {
         "id": "cartagena-colombia-old-port-walls-fortress-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Iglesia de San Pedro Claver, Cartagena, Colombia (4980511743).jpg",
         "attribution": {
           "author": "Pedro Szekely",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Pedro_Claver,_Cartagena,_Colombia_(4980511743).jpg",
+          "sourceUrl": ").jpg",
           "retrievedAt": "2026-06-15"
         }
       },
@@ -544,13 +544,13 @@
       "photo": {
         "id": "cartagena-colombia-old-port-walls-fortress-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Baluarte de San Ignacio",
         "attribution": {
           "author": "Andrés Felipe Anaya Marimon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baluarte_San_Ignacio%2C_Cartagena_de_Indias.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -587,13 +587,13 @@
       "photo": {
         "id": "cartagena-colombia-old-port-walls-fortress-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-old-port-walls-fortress-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Baluarte de Santo Domingo, Cartagena 01.jpg",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baluarte_de_Santo_Domingo,_Cartagena_01.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-15"
         }
       },

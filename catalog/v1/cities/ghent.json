@@ -2,12 +2,14 @@
   "id": "ghent",
   "slug": "ghent",
   "title": "Гент",
-  "subtitle": "Гент · 2 маршрута · 3 скоро",
-  "meta": "Бельгия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Гент · 4 маршрута · 1 скоро",
+  "meta": "Бельгия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "ghent-three-towers-river-power",
-    "ghent-gravensteen-patershol-power"
+    "ghent-gravensteen-patershol-power",
+    "ghent-portus-ganda-abbey-origins",
+    "ghent-citadelpark-arts-quarter"
   ],
   "countryId": "belgium",
   "photo": {

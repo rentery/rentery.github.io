@@ -2,18 +2,20 @@
   "id": "tallinn",
   "slug": "tallinn",
   "title": "Таллин",
-  "subtitle": "Таллин · 1 маршрут · 4 скоро",
-  "meta": "Эстония · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Таллин · 3 маршрута · 2 скоро",
+  "meta": "Эстония · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "tallinn-old-town-toompea-lower-town"
+    "tallinn-old-town-toompea-lower-town",
+    "tallinn-kalamaja-telliskivi-noblessner",
+    "tallinn-kadriorg-palace-park-art"
   ],
   "countryId": "estonia",
   "photo": {
     "id": "tallinn-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/tallinn/tallinn-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Таллин"
   },
   "identity": {

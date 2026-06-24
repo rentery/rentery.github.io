@@ -2,11 +2,13 @@
   "id": "shanghai",
   "slug": "shanghai",
   "title": "Шанхай",
-  "subtitle": "Шанхай · 1 маршрут · 4 скоро",
-  "meta": "Китай · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Шанхай · 3 маршрута · 2 скоро",
+  "meta": "Китай · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "shanghai-bund-nanjing-riverfront"
+    "shanghai-bund-nanjing-riverfront",
+    "shanghai-wukang-sinan-shikumen",
+    "shanghai-yuyuan-old-city-garden"
   ],
   "countryId": "china",
   "photo": {

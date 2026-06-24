@@ -2,19 +2,21 @@
   "id": "dublin",
   "slug": "dublin",
   "title": "Дублин",
-  "subtitle": "Дублин · 2 маршрута · 3 скоро",
-  "meta": "Ирландия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Дублин · 4 маршрута · 1 скоро",
+  "meta": "Ирландия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "dublin-castle-walls-trinity-power",
-    "dublin-georgian-south-literary"
+    "dublin-georgian-south-literary",
+    "dublin-liberties-cathedral-brewery",
+    "dublin-kilmainham-gaol-hospital-memory"
   ],
   "countryId": "ireland",
   "photo": {
     "id": "dublin-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/dublin/dublin-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Дублин"
   },
   "identity": {

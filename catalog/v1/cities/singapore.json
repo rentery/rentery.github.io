@@ -2,18 +2,20 @@
   "id": "singapore",
   "slug": "singapore",
   "title": "Сингапур",
-  "subtitle": "Сингапур · 1 маршрут · 4 скоро",
-  "meta": "Сингапур · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Сингапур · 3 маршрута · 2 скоро",
+  "meta": "Сингапур · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "singapore-river-civic-marina-bay"
+    "singapore-river-civic-marina-bay",
+    "singapore-kampong-gelam-sultan-streets",
+    "singapore-chinatown-telok-ayer-port"
   ],
   "countryId": "singapore",
   "photo": {
     "id": "singapore-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/singapore/singapore-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Сингапур"
   },
   "identity": {

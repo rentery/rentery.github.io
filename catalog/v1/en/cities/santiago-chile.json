@@ -2,18 +2,20 @@
   "id": "santiago-chile",
   "slug": "santiago-chile",
   "title": "Сантьяго",
-  "subtitle": "Сантьяго · 1 маршрут · 4 скоро",
-  "meta": "Чили · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Сантьяго · 3 маршрута · 2 скоро",
+  "meta": "Чили · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "santiago-chile-plaza-armas-la-moneda-republic"
+    "santiago-chile-plaza-armas-la-moneda-republic",
+    "santiago-chile-lastarria-santa-lucia-bellas-artes",
+    "santiago-chile-bellavista-san-cristobal-view"
   ],
   "countryId": "chile",
   "photo": {
     "id": "santiago-chile-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/santiago-chile/santiago-chile-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Сантьяго"
   },
   "identity": {

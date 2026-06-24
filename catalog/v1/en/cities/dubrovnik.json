@@ -2,19 +2,21 @@
   "id": "dubrovnik",
   "slug": "dubrovnik",
   "title": "Дубровник",
-  "subtitle": "Дубровник · 2 маршрута · 3 скоро",
-  "meta": "Хорватия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Дубровник · 4 маршрута · 1 скоро",
+  "meta": "Хорватия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "dubrovnik-old-city-republic-spine",
-    "dubrovnik-walls-forts-sea-ring"
+    "dubrovnik-walls-forts-sea-ring",
+    "dubrovnik-srd-view-defence-memory",
+    "dubrovnik-ploce-old-port-quarantine"
   ],
   "countryId": "croatia",
   "photo": {
     "id": "dubrovnik-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Дубровник"
   },
   "identity": {

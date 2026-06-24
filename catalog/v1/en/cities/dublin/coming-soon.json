@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "The Liberties ведёт от кафедральных стен к рынкам, мастерским и большому пивоваренному городу.",
-    "cityId": "dublin",
-    "dayTrip": false,
-    "id": "dublin-liberties-cathedral-brewery",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Dublin 8: St Patrick’s, Patrick Street, Francis Street, Thomas Street и St James’s Gate.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Старый вольный район между церковью, ремеслом и запахом солода.",
-    "title": "The Liberties: собор, пивоварня и рабочий запад",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Килмейнхем собирает тюрьму, старый госпиталь и тихие сады в одну тяжёлую линию памяти.",
-    "cityId": "dublin",
-    "dayTrip": false,
-    "id": "dublin-kilmainham-gaol-hospital-memory",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Dublin 8 west: Kilmainham Gaol, Royal Hospital Kilmainham, IMMA и прилегающие сады.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Западный маршрут о восстании, государстве, искусстве и трудной памяти.",
-    "title": "Килмейнхем: тюрьма, госпиталь и память республики",
-    "walkType": "history"
-  },
-  {
     "blurb": "У восточной Лиффи портовая память встречает мосты, эмиграцию и стеклянный Дублин XXI века.",
     "cityId": "dublin",
     "dayTrip": false,

@@ -2,12 +2,14 @@
   "id": "edinburgh",
   "slug": "edinburgh",
   "title": "Эдинбург",
-  "subtitle": "Эдинбург · 2 маршрута · 3 скоро",
-  "meta": "Великобритания · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Эдинбург · 4 маршрута · 1 скоро",
+  "meta": "Великобритания · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "edinburgh-royal-mile-power-and-closes",
-    "edinburgh-new-town-enlightenment-grid"
+    "edinburgh-new-town-enlightenment-grid",
+    "edinburgh-dean-village-water-of-leith",
+    "edinburgh-calton-hill-holyrood-skyline"
   ],
   "countryId": "united-kingdom",
   "photo": {

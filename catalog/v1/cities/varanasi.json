@@ -2,18 +2,20 @@
   "id": "varanasi",
   "slug": "varanasi",
   "title": "Варанаси",
-  "subtitle": "Варанаси · 1 маршрут · 4 скоро",
-  "meta": "Индия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Варанаси · 3 маршрута · 2 скоро",
+  "meta": "Индия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "varanasi-ganga-ghats-riverfront"
+    "varanasi-ganga-ghats-riverfront",
+    "varanasi-vishwanath-old-city-lanes",
+    "varanasi-sarnath-buddhist-beginnings"
   ],
   "countryId": "india",
   "photo": {
     "id": "varanasi-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/varanasi/varanasi-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Варанаси"
   },
   "identity": {

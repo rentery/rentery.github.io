@@ -2,19 +2,21 @@
   "id": "cartagena-colombia",
   "slug": "cartagena-colombia",
   "title": "Картахена",
-  "subtitle": "Картахена · 2 маршрута · 3 скоро",
-  "meta": "Колумбия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Картахена · 4 маршрута · 1 скоро",
+  "meta": "Колумбия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "cartagena-colombia-old-port-walls-fortress",
-    "cartagena-colombia-getsemani-popular-quarter"
+    "cartagena-colombia-getsemani-popular-quarter",
+    "cartagena-colombia-san-felipe-land-defense",
+    "cartagena-colombia-san-diego-walls-literary-quarter"
   ],
   "countryId": "colombia",
   "photo": {
     "id": "cartagena-colombia-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/cartagena-colombia/cartagena-colombia-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Картахена"
   },
   "identity": {

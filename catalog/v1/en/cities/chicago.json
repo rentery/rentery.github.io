@@ -2,12 +2,14 @@
   "id": "chicago",
   "slug": "chicago",
   "title": "Чикаго",
-  "subtitle": "Чикаго · 2 маршрута · 3 скоро",
-  "meta": "США · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Чикаго · 4 маршрута · 1 скоро",
+  "meta": "США · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "chicago-river-loop-vertical-city",
-    "chicago-millennium-grant-lakefront"
+    "chicago-millennium-grant-lakefront",
+    "chicago-pilsen-murals-18th-street",
+    "chicago-bronzeville-black-metropolis"
   ],
   "countryId": "united-states",
   "photo": {

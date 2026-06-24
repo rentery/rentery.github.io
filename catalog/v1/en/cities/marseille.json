@@ -2,12 +2,13 @@
   "id": "marseille",
   "slug": "marseille",
   "title": "Марсель",
-  "subtitle": "Марсель · 2 маршрута · 3 скоро",
-  "meta": "Франция · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Марсель · 3 маршрута · 2 скоро",
+  "meta": "Франция · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "marseille-vieux-port-panier-mucem",
-    "marseille-bonne-mere-vallon-des-auffes"
+    "marseille-bonne-mere-vallon-des-auffes",
+    "marseille-noailles-cours-julien"
   ],
   "countryId": "france",
   "photo": {

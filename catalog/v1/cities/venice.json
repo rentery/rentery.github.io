@@ -2,19 +2,20 @@
   "id": "venice",
   "slug": "venice",
   "title": "Венеция",
-  "subtitle": "Венеция · 2 маршрута · 3 скоро",
-  "meta": "Италия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Венеция · 3 маршрута · 2 скоро",
+  "meta": "Италия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "venice-san-marco-rialto-republic",
-    "venice-dorsoduro-lagoon-art"
+    "venice-dorsoduro-lagoon-art",
+    "venice-cannaregio-ghetto-north"
   ],
   "countryId": "italy",
   "photo": {
     "id": "venice-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/venice/venice-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/venice/venice-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Венеция"
   },
   "identity": {

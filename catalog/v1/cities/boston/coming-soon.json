@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Бывший залив становится витриной города: прямые улицы, каменные церкви, библиотека и длинная аллея.",
-    "cityId": "boston",
-    "dayTrip": false,
-    "id": "boston-back-bay-copley-made-land",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Public Garden, Commonwealth Avenue Mall, Newbury/Marlborough и Copley Square.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Бульвары, библиотеки и фасады на месте бывшего залива.",
-    "title": "Back Bay и Copley: город, поднятый из воды",
-    "walkType": "architecture"
-  },
-  {
-    "blurb": "У канала старые склады, мосты и новые набережные показывают, как Бостон заново повернулся к воде.",
-    "cityId": "boston",
-    "dayTrip": false,
-    "id": "boston-fort-point-seaport-harborwalk",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Fort Point Channel, Congress Street, Seaport и короткий участок Harborwalk.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "От чайного протеста и кирпичных лофтов к стеклу на гавани.",
-    "title": "Fort Point и Seaport: склады у воды и новый берег",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "Зелёная дуга Fenway связывает болото, музеи и стадион, показывая Бостон не только через революцию.",
     "cityId": "boston",
     "dayTrip": false,

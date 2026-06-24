@@ -1,0 +1,721 @@
+{
+  "id": "buenos-aires-la-boca-port-color-football",
+  "routePath": {
+    "coordinates": [
+      [
+        -58.363272,
+        -34.639467
+      ],
+      [
+        -58.363444,
+        -34.639529
+      ],
+      [
+        -58.363214,
+        -34.63995
+      ],
+      [
+        -58.362159,
+        -34.639543
+      ],
+      [
+        -58.361799,
+        -34.639397
+      ],
+      [
+        -58.361679,
+        -34.639622
+      ],
+      [
+        -58.361633,
+        -34.639701
+      ],
+      [
+        -58.361685,
+        -34.639849
+      ],
+      [
+        -58.361701,
+        -34.639909
+      ],
+      [
+        -58.361701,
+        -34.639909
+      ],
+      [
+        -58.361701,
+        -34.639909
+      ],
+      [
+        -58.361685,
+        -34.639849
+      ],
+      [
+        -58.361633,
+        -34.639701
+      ],
+      [
+        -58.361679,
+        -34.639622
+      ],
+      [
+        -58.361799,
+        -34.639397
+      ],
+      [
+        -58.362139,
+        -34.639535
+      ],
+      [
+        -58.362139,
+        -34.639535
+      ],
+      [
+        -58.361799,
+        -34.639397
+      ],
+      [
+        -58.361627,
+        -34.639327
+      ],
+      [
+        -58.361597,
+        -34.639318
+      ],
+      [
+        -58.361566,
+        -34.639314
+      ],
+      [
+        -58.361534,
+        -34.639312
+      ],
+      [
+        -58.361501,
+        -34.639316
+      ],
+      [
+        -58.361416,
+        -34.63933
+      ],
+      [
+        -58.361376,
+        -34.63928
+      ],
+      [
+        -58.36134,
+        -34.639241
+      ],
+      [
+        -58.36131,
+        -34.639216
+      ],
+      [
+        -58.361281,
+        -34.639199
+      ],
+      [
+        -58.361252,
+        -34.639183
+      ],
+      [
+        -58.361192,
+        -34.639155
+      ],
+      [
+        -58.361084,
+        -34.63912
+      ],
+      [
+        -58.360998,
+        -34.639096
+      ],
+      [
+        -58.360895,
+        -34.639067
+      ],
+      [
+        -58.360754,
+        -34.639027
+      ],
+      [
+        -58.360717,
+        -34.639018
+      ],
+      [
+        -58.360717,
+        -34.639018
+      ],
+      [
+        -58.360672,
+        -34.639008
+      ],
+      [
+        -58.360595,
+        -34.638993
+      ],
+      [
+        -58.360528,
+        -34.638984
+      ],
+      [
+        -58.360449,
+        -34.638976
+      ],
+      [
+        -58.360389,
+        -34.638974
+      ],
+      [
+        -58.360312,
+        -34.638974
+      ],
+      [
+        -58.360792,
+        -34.638124
+      ],
+      [
+        -58.36045,
+        -34.63798
+      ],
+      [
+        -58.36045,
+        -34.63798
+      ],
+      [
+        -58.360792,
+        -34.638124
+      ],
+      [
+        -58.362218,
+        -34.638689
+      ],
+      [
+        -58.362718,
+        -34.637874
+      ],
+      [
+        -58.363206,
+        -34.637058
+      ],
+      [
+        -58.363712,
+        -34.636247
+      ],
+      [
+        -58.364183,
+        -34.635425
+      ],
+      [
+        -58.364212,
+        -34.635379
+      ]
+    ],
+    "maneuvers": [
+      {
+        "location": [
+          -58.363272,
+          -34.639467
+        ],
+        "instruction": "Walk southwest on the walkway.",
+        "distanceM": 17,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.363444,
+          -34.639529
+        ],
+        "instruction": "Turn left onto Plaza Paseo Garibaldi.",
+        "distanceM": 51,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.363214,
+          -34.63995
+        ],
+        "instruction": "Turn left onto Magallanes.",
+        "distanceM": 143,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361799,
+          -34.639397
+        ],
+        "instruction": "Turn right onto Del Valle Iberlucea.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361633,
+          -34.639701
+        ],
+        "instruction": "Bear right onto Avenida Don Pedro de Mendoza.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361701,
+          -34.639909
+        ],
+        "instruction": "Your destination is on the right.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361701,
+          -34.639909
+        ],
+        "instruction": "Walk north on Avenida Don Pedro de Mendoza.",
+        "distanceM": 23,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361633,
+          -34.639701
+        ],
+        "instruction": "Bear left onto Del Valle Iberlucea.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361799,
+          -34.639397
+        ],
+        "instruction": "Turn left onto Magallanes.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.362139,
+          -34.639535
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.362139,
+          -34.639535
+        ],
+        "instruction": "Walk northeast on Magallanes.",
+        "distanceM": 72,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.361416,
+          -34.63933
+        ],
+        "instruction": "Turn left onto Avenida Don Pedro de Mendoza.",
+        "distanceM": 75,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.360717,
+          -34.639018
+        ],
+        "instruction": "You have arrived at your destination.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.360717,
+          -34.639018
+        ],
+        "instruction": "Walk east on Avenida Don Pedro de Mendoza.",
+        "distanceM": 37,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.360312,
+          -34.638974
+        ],
+        "instruction": "Turn left onto Palos.",
+        "distanceM": 104,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.360792,
+          -34.638124
+        ],
+        "instruction": "Turn right onto General Gregorio Aráoz de Lamadrid.",
+        "distanceM": 34,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.36045,
+          -34.63798
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.36045,
+          -34.63798
+        ],
+        "instruction": "Walk southwest on General Gregorio Aráoz de Lamadrid.",
+        "distanceM": 179,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.362218,
+          -34.638689
+        ],
+        "instruction": "Turn right onto Del Valle Iberlucea.",
+        "distanceM": 410,
+        "type": ""
+      },
+      {
+        "location": [
+          -58.364212,
+          -34.635379
+        ],
+        "instruction": "Your destination is on the left.",
+        "distanceM": 0,
+        "type": ""
+      }
+    ],
+    "source": {
+      "engine": "geoapify",
+      "profile": "walk",
+      "generatedAt": "2026-06-24T10:51:37.914Z"
+    }
+  },
+  "cityId": "buenos-aires",
+  "category": "walking_tour",
+  "title": "Ла-Бока: порт, цвет и футбольная трибуна",
+  "subtitle": "Пешеходная прогулка по Ла‑Боке ведёт вдоль изгиба реки Риачуэло от красочных домов Каминито до футбольного храма \"Ла Бомбонера\". По пути вы познакомитесь с историей квартала — от генуэзских рыбаков и корабельных мастерских до ярких стен и галерей современного искусства — и узнаете, как художник Бенито Кинкела Мартин и его соседи спасли район от сноса. Маршрут длиной около 2 км рассчитан примерно на две часа неторопливого хода. Идите днём, надевайте удобную обувь, берегите вещи и избегайте малолюдных улиц в сумерках.",
+  "blurb": "Пешеходная прогулка по Ла‑Боке ведёт вдоль изгиба реки Риачуэло от красочных домов Каминито до футбольного храма \"Ла Бомбонера\". По пути вы познакомитесь с историей квартала — от генуэзских рыбаков и корабельных мастерских до ярких стен и галерей современного искусства — и узнаете, как художник Бенито Кинкела Мартин и его соседи спасли район от сноса. Маршрут длиной около 2 км рассчитан примерно на две часа неторопливого хода. Идите днём, надевайте удобную обувь, берегите вещи и избегайте малолюдных улиц в сумерках.",
+  "mood": "neighborhood",
+  "accent": "#A133A3",
+  "soft": "#F2E3F2",
+  "deep": "#742376",
+  "ink": "#612262",
+  "motif": "axis",
+  "duration": "2 ч",
+  "stops": 6,
+  "distance": "2 км",
+  "pace": "half",
+  "kids": false,
+  "microcopy": {
+    "kicker": "Маршрут",
+    "line": "Пешеходная прогулка по Ла‑Боке ведёт вдоль изгиба реки Риачуэло от красочных домов Каминито до футбольного храма \"Ла Бомбонера\". По пути вы познакомитесь с историей квартала — от генуэзских рыбаков и корабельных мастерских до ярких стен и галерей современного искусства — и узнаете, как художник Бенито Кинкела Мартин и его соседи спасли район от сноса. Маршрут длиной около 2 км рассчитан примерно на две часа неторопливого хода. Идите днём, надевайте удобную обувь, берегите вещи и избегайте малолюдных улиц в сумерках."
+  },
+  "content": {
+    "intro": "Пешеходная прогулка по Ла‑Боке ведёт вдоль изгиба реки Риачуэло от красочных домов Каминито до футбольного храма \"Ла Бомбонера\". По пути вы познакомитесь с историей квартала — от генуэзских рыбаков и корабельных мастерских до ярких стен и галерей современного искусства — и узнаете, как художник Бенито Кинкела Мартин и его соседи спасли район от сноса. Маршрут длиной около 2 км рассчитан примерно на две часа неторопливого хода. Идите днём, надевайте удобную обувь, берегите вещи и избегайте малолюдных улиц в сумерках.",
+    "routeLogic": "Пешеходная прогулка по Ла‑Боке ведёт вдоль изгиба реки Риачуэло от красочных домов Каминито до футбольного храма \"Ла Бомбонера\". По пути вы познакомитесь с историей квартала — от генуэзских рыбаков и корабельных мастерских до ярких стен и галерей современного искусства — и узнаете, как художник Бенито Кинкела Мартин и его соседи спасли район от сноса. Маршрут длиной около 2 км рассчитан примерно на две часа неторопливого хода. Идите днём, надевайте удобную обувь, берегите вещи и избегайте малолюдных улиц в сумерках.",
+    "bestFor": "спокойной прогулки по теме маршрута\nпервого знакомства с районом или объектом\nтех, кто хочет читать город через видимые детали",
+    "notFor": "маршрута без самостоятельного чтения места\nгонки по точкам без остановок\nтех, кому нужен только транспортный трансфер",
+    "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
+    "timing": "2 ч"
+  },
+  "stopList": [
+    {
+      "id": "buenos-aires-la-boca-port-color-football-1",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 1,
+      "name": "Каминито — яркая пешеходная улица",
+      "note": "Открытый музей длиной всего 150 м, где танец и краски не стихают.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Начните прогулку на улице Каминито и сразу окунитесь в мир цвета. Зигзаг образует бывшее русло ручья и заброшенный железнодорожный путь. В 1950‑х район хотели снести, но художник Бенито Кинкела Мартин вместе с соседями отстоял его: в 1959 году власти присвоили улице статус культурного коридора, и Кинкела настоял, чтобы дома из гофрированного железа были выкрашены яркими красками.",
+        "lookFor": "Открытый музей длиной всего 150 м, где танец и краски не стихают.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Название дано в честь танго «Caminito», хотя песня посвящена другой провинции. Перекличка музыкантов, лавки с картинами и скульптуры, подаренные художником, превращают этот короткий отрезок в музей под открытым небом. Следите за вещами и не задерживайтесь после наступления темноты — мостовая неровная и бывает людно."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.6396,
+        "longitude": -58.3632
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-1",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-1",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-1-square.jpg",
+        "alt": "La Boca (4785585450).jpg",
+        "attribution": {
+          "author": "Diego Torres Silvestre",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/La_Boca_(4785585450).jpg/960px-La_Boca_(4785585450).jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "buenos-aires-la-boca-port-color-football-2",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 2,
+      "name": "Вуэльта‑де‑Роча и пласо́лета де лос Суспирос",
+      "note": "Место первого порта и романтических писем, обрамлённое рекой Риачуэло.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Юго‑восточнее Каминито река Риачуэло делает крутой изгиб, известный как Вуэльта де Роча. Некоторые историки считают, что именно здесь Педро де Мендоса основал город в 1536 году.",
+        "lookFor": "Место первого порта и романтических писем, обрамлённое рекой Риачуэло.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Позже землю купил купец Антонио Роча, а во время войны за независимость адмирал Гильермо Браун устроил здесь арсенал. В 1945 году на набережной построили небольшую площадь, напоминающую палубу корабля. Пласолета де лос Суспирос хранит мачту транспорта \"Pampa\", пушку фрегата \"25 де Майо\" и потомок сосны Сан‑Лоренсо. Генуэзские иммигранты встречались тут, читали письма и мечтали о возвращении. Сегодня это тихая смотровая площадка с видом на транспортерный мост; вход свободный, круглосуточно."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.6399,
+        "longitude": -58.3618
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-2",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-2-square.jpg",
+        "alt": "Vuelta de Rocha, La Boca",
+        "attribution": {
+          "author": "Agustin Gagliardone",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vuelta_de_Rocha,_La_Boca.JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "buenos-aires-la-boca-port-color-football-3",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 3,
+      "name": "Фундасьон Проа — современное искусство на берегу",
+      "note": "Прозрачный куб на берегу, где мировые художники встречаются с районом.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "На углу Каминито и авениды Педро де Мендоса стоит Fundación Proa — частный центр современного искусства. Здание XIX века отреставрировали, заменив фасад стеклянной стеной.",
+        "lookFor": "Прозрачный куб на берегу, где мировые художники встречаются с районом.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Внутри четыре выставочных зала, библиотека, крытая терраса и кафе с видом на порт. Здесь проходят международные выставки, посвящённые современному искусству. По данным культурного портала, центр открыт со среды по воскресенье с 12:00 до 19:00; экскурсии начинаются в 15:00 и 17:00, а билет стоит около 6000 ARS (льготный — 4000 ARS; детям до 12 лет — бесплатно; по средам вход свободный). Поднимитесь на террасу, чтобы увидеть индустриальный мост, и не забудьте про книжный магазин. Здание доступно для людей с ограниченной мобильностью, но на входе несколько ступенек."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.6396,
+        "longitude": -58.3621
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-3",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-3-square.jpg",
+        "alt": "Fachada del edificio de Fundación Proa, La Boca",
+        "attribution": {
+          "author": "Fundación PROA",
+          "license": "Public domain; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_del_edificio_de_Fundación_Proa,_La_Boca.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "buenos-aires-la-boca-port-color-football-4",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 4,
+      "name": "Музей Бенито Кинкела Мартина и школа Педро де Мендоса",
+      "note": "Дом‑музей художника, подаренный району в знак благодарности.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "В нескольких кварталах восточнее находится рационалистский комплекс, объединяющий школу № 19 имени Педро де Мендоса и Музей Бенито Кинкела Мартина. В 1933 году художник пожертвовал участок, чтобы построить школу, музей и жильё для художников; школа открылась в 1936 году, а музей — двумя годами позже.",
+        "lookFor": "Дом‑музей художника, подаренный району в знак благодарности.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Сегодня здесь хранится крупнейшая коллекция его картин и офортов, зал резных кормовых фигур и терраса со скульптурами. На третьем этаже сохранилась квартира художника. Вход свободный с добровольным пожертвованием; музей работает со вторника по пятницу с 10:00 до 18:00 и в выходные и праздники с 11:15 до 18:00, по понедельникам закрыт. Планируйте не менее часа на осмотр залов и крыши, фото разрешены без вспышки."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.638983,
+        "longitude": -58.360729
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-4",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-4-square.jpg",
+        "alt": "WLM2013 EscuelaPdeMendoza19 (1).JPG",
+        "attribution": {
+          "author": "Mauricio V. Genta",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLM2013_EscuelaPdeMendoza19_(1).JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "buenos-aires-la-boca-port-color-football-5",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 5,
+      "name": "Угол Мага́льянес и Гарибальди — квартал художников",
+      "note": "Где травой зарастают старые рельсы, собирались музыканты и живописцы.",
+      "time": "15 мин",
+      "walk": "Продолжайте к следующей точке маршрута.",
+      "content": {
+        "context": "Двигайтесь по улице Мага́льянес к перекрёстку с Гарибальди. Здесь сходятся булыжник, клочки травы и ржавые рельсы старой железной дороги. В начале XX века этот уголок превратился в богемную среду: художники открывали мастерские на Мага́льянесе и встречались на углу с друзьями.",
+        "lookFor": "Где травой зарастают старые рельсы, собирались музыканты и живописцы.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Среди завсегдатаев были живописец Бенито Кинкела Мартин, музыкант Хуан де Дио́с Филиберто и пейзажист Альфредо Лака́мера. Именно здесь зарождались идеи росписи квартала, которые сегодня украшают фасады. Посмотрите на старинные здания и граффити; загляните в дом‑музей Филиберто по адресу Магальянес 1140, если он открыт. Это общественное пространство без режима работы, но лучше не уходить далеко от людных улиц после захода солнца."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.6379,
+        "longitude": -58.3605
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-5",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-5-square.jpg",
+        "alt": "Magallanes, La Boca",
+        "attribution": {
+          "author": "Raf24",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magallanes,_La_Boca.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "buenos-aires-la-boca-port-color-football-6",
+      "guideId": "buenos-aires-la-boca-port-color-football",
+      "order": 6,
+      "name": "Стадион «Ла Бомбонера» и музей страсти «Бо́ка»",
+      "note": "Футбольный храм с трибунами‑стенами и гулом на целый район.",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Завершите маршрут у стадиона Альберто Х. Армандо, больше известного как \"Ла Бомбонера\" («Шкатулка конфет»). Необычная форма в виде буквы «D» и три вертикальных яруса трибун обнимают поле, создавая оглушительную акустику.",
+        "lookFor": "Футбольный храм с трибунами‑стенами и гулом на целый район.",
+        "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
+        "nextMove": "Маршрут завершён.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Стадион открылся 25 мая 1940 года, а вход украшают фрески Пе́реса Селиса, Ро́муло Ма́ккио и Бенито Кинкела Мартина. Здесь же расположен музей \"Музей страсти бо́ка\", рассказывающий историю клуба «Бока Хуниорс» с кубками, майками и интерактивными экспозициями. По данным городского турсайта, музей открыт ежедневно с 10:00 до 18:00, но экскурсии по стадиону ограничены в дни матчей. Актуальное расписание следует уточнять на официальных ресурсах клуба. Билеты покупают на месте; на входе есть досмотр, и лучше избегать одежды конкурирующих клубов."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": -34.6355,
+        "longitude": -58.3645
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "buenos-aires-la-boca-port-color-football-stop-6",
+      "sourceIds": [],
+      "photo": {
+        "id": "buenos-aires-la-boca-port-color-football-stop-6",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-stop-6-square.jpg",
+        "alt": "Estadio la bombonera",
+        "attribution": {
+          "author": "Dibumartinez23",
+          "license": "CC0 1.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estadio_la_bombonera.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    }
+  ],
+  "cover": {
+    "id": "buenos-aires-la-boca-port-color-football-cover",
+    "kind": "generated",
+    "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-cover-square.jpg",
+    "alt": "Сгенерированная editorial-обложка маршрута «buenos-aires-la-boca-port-color-football»"
+  },
+  "coverAssetId": "buenos-aires-la-boca-port-color-football-cover",
+  "basemap": {
+    "image": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-la-boca-port-color-football-basemap.png",
+    "center": {
+      "latitude": -34.637699999999995,
+      "longitude": -58.3625
+    },
+    "zoom": 16,
+    "width": 600,
+    "height": 360,
+    "attribution": "© OpenStreetMap contributors"
+  }
+}

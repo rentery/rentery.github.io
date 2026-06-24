@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Один бульвар ведёт от театрального центра к национальному пантеону, виллам и зелени Варошлигета.",
-    "cityId": "budapest",
-    "dayTrip": false,
-    "id": "budapest-andrassy-city-park-millennium",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Проспект Андрашши от Оперы через Октогон и Кодай-кёрёнд к площади Героев и Варошлигету.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От оперного Пешта к площади Героев и городскому парку.",
-    "title": "Андрашши: бульвар тысячелетия",
-    "walkType": "architecture"
-  },
-  {
-    "blurb": "В старом квартале рядом стоят синагоги, дворы, стены памяти и вечерняя жизнь Пешта.",
-    "cityId": "budapest",
-    "dayTrip": false,
-    "id": "budapest-jewish-quarter-courtyards-memory",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Эржебетварош: от Дохань и Румбах через Гожду-удвар к Казинци и площади Клаузаль.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Память квартала между большими храмами, проходными дворами и новой культурой.",
-    "title": "Еврейский квартал Пешта: дворы, синагоги, ночной город",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Южный Дунай складывает рынок, зелёный мост, купальни и резкий подъём к видам над городом.",
     "cityId": "budapest",
     "dayTrip": false,

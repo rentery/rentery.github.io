@@ -2,19 +2,21 @@
   "id": "hong-kong",
   "slug": "hong-kong",
   "title": "Гонконг",
-  "subtitle": "Гонконг · 2 маршрута · 3 скоро",
-  "meta": "Китай · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Гонконг · 4 маршрута · 1 скоро",
+  "meta": "Китай · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "hong-kong-old-town-central-layers",
-    "hong-kong-tsim-sha-tsui-harbour-stage"
+    "hong-kong-tsim-sha-tsui-harbour-stage",
+    "hong-kong-sham-shui-po-working-city",
+    "hong-kong-peak-circle-city-from-above"
   ],
   "countryId": "china",
   "photo": {
     "id": "hong-kong-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Гонконг"
   },
   "identity": {

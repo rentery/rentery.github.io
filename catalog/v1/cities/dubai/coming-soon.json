@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Джумейра ведёт от открытой мечети к месту рождения ОАЭ и спокойной прибрежной ткани города.",
-    "cityId": "dubai",
-    "dayTrip": false,
-    "id": "dubai-jumeirah-mosque-etihad-museum",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Jumeirah 1: Jumeirah Mosque, Jumeirah Beach Road, Etihad Museum и Union House.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Низкий прибрежный район между религиозной открытостью и историей федерации.",
-    "title": "Джумейра: мечеть, Союз и дорога к морю",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Марина раскрывает прибрежный Дубай: стеклянные башни, яхты, пляжный бульвар и остров в море.",
-    "cityId": "dubai",
-    "dayTrip": false,
-    "id": "dubai-marina-jbr-bluewaters-waterfront",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Dubai Marina, JBR, The Beach и пешеходная связь с Bluewaters Island.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Вечерняя линия яхт, высоток, пляжного бульвара и острова Bluewaters.",
-    "title": "Марина и JBR: город на воде и стекле",
-    "walkType": "viewpoints"
-  },
-  {
     "blurb": "Аль-Куз показывает другой Дубай: склады, галереи, кофе, бетон и современная культурная жизнь.",
     "cityId": "dubai",
     "dayTrip": false,

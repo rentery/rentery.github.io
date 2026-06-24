@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Одна улица ведет от старого склада к музеям, особнякам и площадям, где город объясняет себя.",
-    "cityId": "charleston-sc",
-    "dayTrip": false,
-    "id": "charleston-sc-museum-mile-meeting-street",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Meeting Street и соседние кварталы между Visitor Center, Marion Square, Broad Street и Nathaniel Russell House.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Meeting Street собирает музеи, площади, особняки и публичную власть.",
-    "title": "Мьюзиум-Майл: Чарлстон как коридор памяти",
-    "walkType": "museum_walk"
-  },
-  {
-    "blurb": "Пьяццы, ворота и боковые сады учат читать Чарлстон как город тени, статуса и морского бриза.",
-    "cityId": "charleston-sc",
-    "dayTrip": false,
-    "id": "charleston-sc-legare-tradd-house-grammar",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "South of Broad: Meeting Street, Legare Street, Tradd Street, Church Street и ближайшие переулки.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "South of Broad через пьяццы, ворота, сады и узкие участки.",
-    "title": "Легэр и Трэдд: грамматика чарлстонского дома",
-    "walkType": "architecture"
-  },
-  {
     "blurb": "Вечерний King Street показывает другой Чарлстон: рестораны, витрины, старые склады и жизнь после музеев.",
     "cityId": "charleston-sc",
     "dayTrip": false,

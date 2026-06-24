@@ -2,18 +2,20 @@
   "id": "taipei",
   "slug": "taipei",
   "title": "Тайбэй",
-  "subtitle": "Тайбэй · 1 маршрут · 4 скоро",
-  "meta": "Тайвань · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Тайбэй · 3 маршрута · 2 скоро",
+  "meta": "Тайвань · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "taipei-mengjia-ximending-layers"
+    "taipei-mengjia-ximending-layers",
+    "taipei-dadaocheng-dihua-river-trade",
+    "taipei-228-liberty-square-civic-memory"
   ],
   "countryId": "taiwan",
   "photo": {
     "id": "taipei-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/taipei/taipei-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Тайбэй"
   },
   "identity": {

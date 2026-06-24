@@ -2,12 +2,14 @@
   "id": "london",
   "slug": "london",
   "title": "Лондон",
-  "subtitle": "Лондон · 2 маршрута · 3 скоро",
-  "meta": "Великобритания · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Лондон · 4 маршрута · 1 скоро",
+  "meta": "Великобритания · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "london-westminster-whitehall-power",
-    "london-city-tower-st-pauls-layers"
+    "london-city-tower-st-pauls-layers",
+    "london-greenwich-maritime-time",
+    "london-south-bank-bankside-river-stage"
   ],
   "countryId": "united-kingdom",
   "photo": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Берег ведет от пляжа к пляжу: утесы, океанские бассейны и город, живущий у прибоя.",
-    "cityId": "sydney",
-    "dayTrip": false,
-    "id": "sydney-bondi-coogee-coast",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Восточное побережье от Bondi Beach через Tamarama, Bronte и Clovelly к Coogee.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Классическая линия пляжей, океанских бассейнов и каменных мысов.",
-    "title": "От Bondi до Coogee: утесы, бассейны и прибой",
-    "walkType": "nature"
-  },
-  {
-    "blurb": "Macquarie Street раскрывает город через больницу, казармы, сад и тишину у Farm Cove.",
-    "cityId": "sydney",
-    "dayTrip": false,
-    "id": "sydney-macquarie-botanic-domain",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Macquarie Street, Hyde Park edge, The Domain, Royal Botanic Garden Sydney, Farm Cove.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "От казарм и больницы к Domain, Farm Cove и старейшему ботаническому саду.",
-    "title": "Macquarie Street и сад: власть, наука и тень деревьев",
-    "walkType": "history"
-  },
-  {
     "blurb": "Paddington читает Сидней в террасах: гребень Oxford Street, старый резервуар и дома на склонах.",
     "cityId": "sydney",
     "dayTrip": false,

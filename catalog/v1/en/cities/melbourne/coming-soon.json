@@ -1,19 +1,5 @@
 [
   {
-    "blurb": "Север центра показывает город золота и правил: шум рынка, библиотеку, старую тюрьму и дворец выставок.",
-    "cityId": "melbourne",
-    "dayTrip": false,
-    "id": "melbourne-northern-civic-market-exhibition",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Queen Victoria Market, север CBD, State Library precinct, Old Melbourne Gaol, Carlton Gardens и Royal Exhibition Building.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Путь от шумного рынка к библиотеке, старой тюрьме и Карлтонским садам.",
-    "title": "Северная дуга: рынок, тюрьма и выставочный дворец",
-    "walkType": "history"
-  },
-  {
     "blurb": "Южный берег ведёт от галерей к мемориалу и садам, где культура встречается с городским горизонтом.",
     "cityId": "melbourne",
     "dayTrip": false,

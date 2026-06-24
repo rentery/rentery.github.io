@@ -2,11 +2,13 @@
   "id": "seville",
   "slug": "seville",
   "title": "Севилья",
-  "subtitle": "Севилья · 1 маршрут · 4 скоро",
-  "meta": "Испания · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Севилья · 3 маршрута · 2 скоро",
+  "meta": "Испания · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "seville-triunfo-alcazar-cathedral-indies"
+    "seville-triunfo-alcazar-cathedral-indies",
+    "seville-santa-cruz-jewish-quarter",
+    "seville-guadalquivir-arenal-triana"
   ],
   "countryId": "spain",
   "photo": {

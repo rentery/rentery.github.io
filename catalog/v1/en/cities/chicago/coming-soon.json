@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Пилзен показывает город на стенах: миграция, фрески, семейные витрины и гордость 18-й улицы.",
-    "cityId": "chicago",
-    "dayTrip": false,
-    "id": "chicago-pilsen-murals-18th-street",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "18th Street, Blue Island Avenue, Harrison Park и National Museum of Mexican Art.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Мексиканско-американский район через стены, витрины и соседские институции.",
-    "title": "Пилзен: фрески и 18-я улица",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Бронзвилл раскрывает южный Чикаго через миграцию, джазовые адреса, бизнесы и память Black Metropolis.",
-    "cityId": "chicago",
-    "dayTrip": false,
-    "id": "chicago-bronzeville-black-metropolis",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "35th Street, Martin Luther King Drive, State Street и Wabash Avenue.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Великая миграция, черные бизнесы, музыка и политика в компактном историческом ядре.",
-    "title": "Бронзвилл: Black Metropolis на King Drive",
-    "walkType": "history"
-  },
-  {
     "blurb": "Гайд-парк соединяет готику кампуса, модернизм Райта и следы ярмарки, которая учила город мечтать.",
     "cityId": "chicago",
     "dayTrip": false,

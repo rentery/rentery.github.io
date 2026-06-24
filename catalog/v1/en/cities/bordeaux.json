@@ -2,12 +2,13 @@
   "id": "bordeaux",
   "slug": "bordeaux",
   "title": "Бордо",
-  "subtitle": "Бордо · 2 маршрута · 3 скоро",
+  "subtitle": "Бордо · 3 маршрута · 2 скоро",
   "meta": "Франция · Порт Луны, Гаронна и светлый камень",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "bordeaux-port-de-la-lune-stone-river",
-    "bordeaux-saint-michel-market-medieval-south"
+    "bordeaux-saint-michel-market-medieval-south",
+    "bordeaux-chartrons-wine-merchants-quays"
   ],
   "countryId": "france",
   "photo": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Старые лавки, храмы и переулки показывают, как торговый квартал учится жить заново.",
-    "cityId": "kuala-lumpur",
-    "dayTrip": false,
-    "id": "kuala-lumpur-chinatown-pasar-seni",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Pasar Seni, Central Market, Jalan Petaling, Lorong Panggung и Jalan Sultan.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Компактная прогулка по торговому ядру, где рядом стоят рынки, кланы и новые культурные пространства.",
-    "title": "Чайна-таун и Пасар-Сени: лавки, храмы, переулки",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Зелёный пояс за старым вокзалом соединяет мечеть, музейные дворы и тропы бывших Lake Gardens.",
-    "cityId": "kuala-lumpur",
-    "dayTrip": false,
-    "id": "kuala-lumpur-perdana-islamic-arts",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Старый вокзал Куала-Лумпура, Masjid Negara, IAMM и южная часть Perdana Botanical Garden.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "От вокзальной кромки и Масджид-Негара к музеям, птицам и тени старых садов.",
-    "title": "Сады Пердана и исламское искусство: зелёный музейный пояс",
-    "walkType": "museum_walk"
-  },
-  {
     "blurb": "Цветная лестница ведёт от городского поезда к пещере, где известняк стал частью ритуала.",
     "cityId": "kuala-lumpur",
     "dayTrip": true,

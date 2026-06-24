@@ -2,11 +2,13 @@
   "id": "tokyo",
   "slug": "tokyo",
   "title": "Токио",
-  "subtitle": "Токио · 1 маршрут · 4 скоро",
-  "meta": "Япония · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Токио · 3 маршрута · 2 скоро",
+  "meta": "Япония · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "tokyo-asakusa-edo-river"
+    "tokyo-asakusa-edo-river",
+    "tokyo-meiji-harajuku-shibuya",
+    "tokyo-imperial-palace-marunouchi"
   ],
   "countryId": "japan",
   "photo": {

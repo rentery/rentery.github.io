@@ -2,12 +2,14 @@
   "id": "boston",
   "slug": "boston",
   "title": "Бостон",
-  "subtitle": "Бостон · 2 маршрута · 3 скоро",
-  "meta": "США · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Бостон · 4 маршрута · 1 скоро",
+  "meta": "США · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "boston-freedom-trail-revolution-city",
-    "boston-beacon-hill-black-heritage"
+    "boston-beacon-hill-black-heritage",
+    "boston-fort-point-seaport-harborwalk",
+    "boston-back-bay-copley-made-land"
   ],
   "countryId": "united-states",
   "photo": {

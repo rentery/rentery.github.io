@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Белен ведёт от каменного монастыря к реке, где город говорит о море, власти и памяти открытий.",
-    "cityId": "lisbon",
-    "dayTrip": false,
-    "id": "lisbon-belem-river-discoveries",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Белен: Жеронимуш, Praça do Império, CCB, набережная, Padrão dos Descobrimentos, Torre de Belém.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Монументальный запад города между мануэлино, морем и памятью империи.",
-    "title": "Белен: монастырь, река и язык открытий",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Вечерний холм соединяет виды, фаду, бары старого квартала и резкий спуск к воде.",
-    "cityId": "lisbon",
-    "dayTrip": false,
-    "id": "lisbon-bairro-alto-bica-evening-hill",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Луиш де Камоэнш, Байрру-Алту, Сан-Педру-де-Алкантара, Санта-Катарина, Бика, Каиш-ду-Содре.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Смотровые площадки, узкие улицы и спуск к ночной реке.",
-    "title": "Байрру-Алту и Бика: вечер на краю холма",
-    "walkType": "food_evening"
-  },
-  {
     "blurb": "На восточной набережной Expo 98 оставила вокзал, павильоны и новый город у воды.",
     "cityId": "lisbon",
     "dayTrip": false,

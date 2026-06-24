@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "У реки Пинг торговый Чиангмай читается в рынках, мостах, старых домах и храме Ват Кет.",
-    "cityId": "chiang-mai",
-    "dayTrip": false,
-    "id": "chiang-mai-mae-ping-wat-ket-trade",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Рынок Варорот, цветочный рынок, набережная Мэй Пинг и община Ват Кет.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Рынки, мосты и восточный берег, где Чиангмай смотрит к реке.",
-    "title": "Мэй Пинг и Ват Кет: торговый город у воды",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Вуа Лай показывает ремесленный юг города: серебро, храмовые дворы и вечернюю еду у ворот.",
-    "cityId": "chiang-mai",
-    "dayTrip": false,
-    "id": "chiang-mai-wua-lai-silver-south-gate",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Южная сторона Старого города: Chiang Mai Gate, Wua Lai Road и квартал Ват Си Супхан.",
-    "roughDuration": "1,5-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Ремесленные переулки, серебряный храм и еда вокруг Чиангмайских ворот.",
-    "title": "Вуа Лай: серебро у южных ворот",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Нимман соединяет кампусный Чиангмай, дизайн-улицы и тихую память Ват Суан Док.",
     "cityId": "chiang-mai",
     "dayTrip": false,

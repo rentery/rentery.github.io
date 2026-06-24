@@ -2,12 +2,14 @@
   "id": "granada",
   "slug": "granada",
   "title": "Гранада",
-  "subtitle": "Гранада · 2 маршрута · 3 скоро",
-  "meta": "Испания · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Гранада · 4 маршрута · 1 скоро",
+  "meta": "Испания · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "granada-alhambra-generalife-power-water",
-    "granada-albaicin-darro-viewpoints"
+    "granada-albaicin-darro-viewpoints",
+    "granada-realejo-jewish-quarter-gardens",
+    "granada-cathedral-royal-chapel-new-power"
   ],
   "countryId": "spain",
   "photo": {

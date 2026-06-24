@@ -2,19 +2,21 @@
   "id": "cusco",
   "slug": "cusco",
   "title": "Куско",
-  "subtitle": "Куско · 2 маршрута · 3 скоро",
-  "meta": "Перу · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Куско · 4 маршрута · 1 скоро",
+  "meta": "Перу · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "cusco-plaza-qorikancha-layers",
-    "cusco-saqsaywaman-qenqo-skyline"
+    "cusco-saqsaywaman-qenqo-skyline",
+    "cusco-san-pedro-santa-clara-market",
+    "cusco-san-blas-artisan-hill"
   ],
   "countryId": "peru",
   "photo": {
     "id": "cusco-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/cusco/cusco-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Куско"
   },
   "identity": {

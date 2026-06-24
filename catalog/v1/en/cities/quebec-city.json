@@ -2,12 +2,13 @@
   "id": "quebec-city",
   "slug": "quebec-city",
   "title": "Квебек",
-  "subtitle": "Квебек · 2 маршрута · 3 скоро",
-  "meta": "Канада · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Квебек · 3 маршрута · 2 скоро",
+  "meta": "Канада · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "quebec-city-old-quebec-cliff-river",
-    "quebec-city-fortifications-walled-city"
+    "quebec-city-fortifications-walled-city",
+    "quebec-city-parliament-plains-memory"
   ],
   "countryId": "canada",
   "photo": {

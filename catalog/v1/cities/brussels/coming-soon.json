@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "На холме видно, как дворцы, музеи и сад Mont des Arts связывают старый город с бельгийским государством.",
-    "cityId": "brussels",
-    "dayTrip": false,
-    "id": "brussels-royal-quarter-mont-des-arts",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Королевский квартал, Place Royale, Coudenberg и Mont des Arts.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Дворец, музеи, Coudenberg и сад, который связывает верхний город с нижним.",
-    "title": "Королевский квартал: холм искусства и власти",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Мароль ведёт от рынка и старых улиц к огромному дворцу правосудия и спокойным площадям Саблона.",
-    "cityId": "brussels",
-    "dayTrip": false,
-    "id": "brussels-sablon-marolles-justice",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Мароль, Rue Haute, Place du Jeu de Balle, лифт Мароль, Дворец правосудия и Саблон.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Народные улицы, антикварный Саблон и громадный дворец над кварталом.",
-    "title": "Мароль и Саблон: рынок под дворцом правосудия",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Европейский квартал раскрывается через парк, площади и здания, где офисный город спорит с жизнью.",
     "cityId": "brussels",
     "dayTrip": false,

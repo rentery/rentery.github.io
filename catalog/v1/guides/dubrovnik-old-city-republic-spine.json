@@ -1257,12 +1257,12 @@
   "cover": {
     "id": "dubrovnik-old-city-republic-spine-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Внутри стен: Дубровник как республика»"
   },
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-basemap.png",
+    "image": "",
     "center": {
       "latitude": 42.640950000000004,
       "longitude": 18.109795
@@ -1275,7 +1275,7 @@
   "content": {
     "intro": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей. Она идёт за тем, как Дубровник объяснял сам себя, когда был республикой. Важно смотреть не только на красоту камня, но и на логику его расстановки: сначала вход, который замедляет и фильтрует; потом вода, без которой свобода была бы пустым словом; затем главная улица, где торговля и городской ритм становятся видимыми; дальше площадь, на которой власть не прячется, а разыгрывает себя публично; затем дворец, где управление держали вблизи улицы; и, наконец, собор и восточный порог, где видно, что город жил не изоляцией, а точным управлением потоком людей, товаров, слухов и опасности. Дубровник внутри стен кажется компактным, но в этой плотности и была его сила. Республика делала ставку не на размер, а на настройку пространства.",
     "routeLogic": "Эта прогулка идёт не за панорамами и не за списком достопримечательностей. Она идёт за тем, как Дубровник объяснял сам себя, когда был республикой. Важно смотреть не только на красоту камня, но и на логику его расстановки: сначала вход, который замедляет и фильтрует; потом вода, без которой свобода была бы пустым словом; затем главная улица, где торговля и городской ритм становятся видимыми; дальше площадь, на которой власть не прячется, а разыгрывает себя публично; затем дворец, где управление держали вблизи улицы; и, наконец, собор и восточный порог, где видно, что город жил не изоляцией, а точным управлением потоком людей, товаров, слухов и опасности. Дубровник внутри стен кажется компактным, но в этой плотности и была его сила. Республика делала ставку не на размер, а на настройку пространства. Здесь стеной была не только фортификация, но и привычка к порядку; площадью был не только красивый пустой камень, но и сцена для ритуала; церковью был не только храм, но и сосуд памяти. Идите медленно.",
-    "bestFor": "город как политическое устройство\nпорог и контроль\nвода и выживание\nторговля и порядок\nритуал свободы\nвласть и её пределы\nсвященная память города",
+    "bestFor": "город как политическое устройство порог и контроль вода и выживание торговля и порядок ритуал свободы власть и её пределы священная память города",
     "notFor": "тем, кому нужен быстрый чеклист без остановок",
     "beforeYouGo": "Маршрут в основном ровный, но известняк под ногами местами очень гладкий, а у входов и на переходах встречаются короткие ступени. Для Княжеского дворца закладывайте отдельный платный вход: музей публикует режим 09:00–18:00 ежедневно. Кафедральный приход публикует литургический режим: по будням 07:30 и 18:00, по воскресеньям 09:00, 10:00 и 18:00; в июле и августе вечерняя месса переносится на 20:00, а утренней будничной мессы нет. Для приложения лучше показывать собор как действующий храм и советовать тихий вход вне службы, а не как музей с жёстко зафиксированным туристическим тайм-слотом.",
     "timing": "Лучше идти в первой половине дня или ближе к вечеру."
@@ -1306,13 +1306,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Врата Пиле",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pile_Gate,_Dubrovnik_01.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1345,13 +1345,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Большой фонтан Онофрио",
         "attribution": {
           "author": "Richard Mortel from Riyadh, Saudi Arabia",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onofrio_Fountain,_Dubrovnik,_1438_(1)_(30115264576).jpg",
+          "sourceUrl": ")_(30115264576).jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1384,13 +1384,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Страдун",
         "attribution": {
           "author": "Pudelek (Marcin Szala)",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik_-_Stradun_(by_Pudelek).JPG",
+          "sourceUrl": ").JPG",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1423,13 +1423,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Площадь Лужа",
         "attribution": {
           "author": "Richard Mortel from Riyadh, Saudi Arabia",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St._Blaise_and_Orlando_Column,_Dubrovnik_(29753056270).jpg",
+          "sourceUrl": ").jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1462,13 +1462,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Княжеский двор",
         "attribution": {
           "author": "LBM1948",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_Palacio_del_Gobernador_10.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1501,13 +1501,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Кафедральный собор Вознесения Богородицы",
         "attribution": {
           "author": "Joanbanjo",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_de_la_catedral_de_Dubrovnik.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -1540,13 +1540,13 @@
       "photo": {
         "id": "dubrovnik-old-city-republic-spine-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/dubrovnik/dubrovnik-old-city-republic-spine-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Врата Плоче",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plo%C4%8De_Gate,_Dubrovnik_01.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-16"
         }
       },

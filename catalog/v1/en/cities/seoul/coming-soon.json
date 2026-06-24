@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Два объекта ЮНЕСКО показывают Сеул через церемонию, сад и редкую тишину старого Джонно.",
-    "cityId": "seoul",
-    "dayTrip": false,
-    "id": "seoul-changdeokgung-jongmyo-ritual-city",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Чхандоккун, Чхангёнгун, Чонмё, Сосулла-гиль, Иксон-дон.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Тихая сторона Джонно, где власть объясняется планировкой и церемонией.",
-    "title": "Чхандоккун и Чонмё: дворец, сад и ритуал",
-    "walkType": "history"
-  },
-  {
-    "blurb": "У ручья видно, как Сеул спрятал трассу, вернул воду и дал мастерским место рядом с дизайном.",
-    "cityId": "seoul",
-    "dayTrip": false,
-    "id": "seoul-cheonggyecheon-euljiro-ddp-transformation",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Чхонгечхон, Севун, Ыльчиро, Кванчжан, Дондэмун.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Линия через центр, где ручей встречает производство и футуристичный дизайн.",
-    "title": "Чхонгечхон и Ыльчиро: вода, мастерские и неон",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "Намсан собирает город в один вид: собор, торговые улицы, крепостная линия и рынок у ворот.",
     "cityId": "seoul",
     "dayTrip": false,

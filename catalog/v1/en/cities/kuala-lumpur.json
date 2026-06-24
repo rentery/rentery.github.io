@@ -2,19 +2,21 @@
   "id": "kuala-lumpur",
   "slug": "kuala-lumpur",
   "title": "Куала-Лумпур",
-  "subtitle": "Куала-Лумпур · 2 маршрута · 3 скоро",
-  "meta": "Малайзия · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Куала-Лумпур · 4 маршрута · 1 скоро",
+  "meta": "Малайзия · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "kuala-lumpur-merdeka-river-of-life",
-    "kuala-lumpur-klcc-kampung-baru"
+    "kuala-lumpur-klcc-kampung-baru",
+    "kuala-lumpur-perdana-islamic-arts",
+    "kuala-lumpur-chinatown-pasar-seni"
   ],
   "countryId": "malaysia",
   "photo": {
     "id": "kuala-lumpur-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/kuala-lumpur/kuala-lumpur-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Куала-Лумпур"
   },
   "identity": {

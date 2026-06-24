@@ -2,12 +2,14 @@
   "id": "dubai",
   "slug": "dubai",
   "title": "Дубай",
-  "subtitle": "Дубай · 2 маршрута · 3 скоро",
-  "meta": "Объединённые Арабские Эмираты · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Дубай · 4 маршрута · 1 скоро",
+  "meta": "Объединённые Арабские Эмираты · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "dubai-creek-al-fahidi-deira-souks",
-    "dubai-downtown-burj-lake-opera"
+    "dubai-downtown-burj-lake-opera",
+    "dubai-marina-jbr-bluewaters-waterfront",
+    "dubai-jumeirah-mosque-etihad-museum"
   ],
   "countryId": "united-arab-emirates",
   "photo": {

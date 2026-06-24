@@ -1036,7 +1036,7 @@
   "content": {
     "intro": "Эта прогулка держится не на «главных видах», а на смене ролей одного маленького острова. Здесь сперва стоял раннехристианский собор, затем выросла Нотр-Дам с её фасадом-порталом в Средневековье; рядом королевский двор построил Сент-Шапель как драгоценный реликварий света; по соседству королевский дворец обернулся судебным городом и тюрьмой Консьержери. На нескольких сотнях метров Париж проходит путь от епископского центра к королевской столице, от торжественной процессии к рынку, от суда к тихой площади и, наконец, к самой кромке воды, где чувствуешь: город здесь не просто начинался, он здесь учился смотреть на себя через Сену. Практически маршрут удобнее идти сверху вниз по напряжению: от собора и толпы к более тихим карманам острова. Для входа в Нотр-Дам бронирование не обязательно, но официальный бесплатный слот часто заметно сокращает ожидание. Если хотите зайти в Сент-Шапель, билет",
     "routeLogic": "линейная прогулка с короткими петлями",
-    "bestFor": "первый визит в Париж\nповторный визит с интересом к истории города\nсамостоятельная прогулка без гида\nпара, друзья, семейная прогулка со взрослыми детьми",
+    "bestFor": "первый визит в Париж повторный визит с интересом к истории города самостоятельная прогулка без гида пара, друзья, семейная прогулка со взрослыми детьми",
     "notFor": "тех, кому нужен только быстрый проход без остановок",
     "beforeYouGo": "утро с 08:00 до 11:00 для более спокойного острова, либо золотой час ближе к вечеру",
     "timing": "утро с 08:00 до 11:00 для более спокойного острова, либо золотой час ближе к вечеру"
@@ -1044,8 +1044,8 @@
   "cover": {
     "id": "paris-ile-de-la-cite-seine-origin-cover",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-cover-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-cover-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированная editorial-обложка маршрута «Остров Сите и Сена»"
   },
   "stopList": [
@@ -1077,13 +1077,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Парвис Нотр-Дам",
         "attribution": {
           "author": "Dietmar Rabich",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame_--_2014_--_1458-65.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1116,13 +1116,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Рю Шануанесс",
         "attribution": {
           "author": "Moonik",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rue_Chanoinesse_Paris_4e_001.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1155,13 +1155,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Марше-о-Флёр Рен-Элизабет II",
         "attribution": {
           "author": "Wikimedia Commons / Mu",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:March%C3%A9_aux_fleurs,_Quai_de_la_Corse,_Paris_4.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1194,13 +1194,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Сент-Шапель",
         "attribution": {
           "author": "Tiraden",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sainte-Chapelle_de_Paris_vue_du_Palais_de_justice.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1233,13 +1233,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Консьержери",
         "attribution": {
           "author": "Dietmar Rabich",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris,_Conciergerie_--_2014_--_1320.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1272,13 +1272,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Плас Дофин",
         "attribution": {
           "author": "Myrabella",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_Place_Dauphine.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1311,13 +1311,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Пон-Нёф",
         "attribution": {
           "author": "Moonik",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_Neuf,_Paris_1er_001.JPG",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1350,20 +1350,20 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-8",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-8-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-8-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Сквер дю Вер-Галан",
         "attribution": {
           "author": "Daniel Kraft",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Square_du_Vert-Galant_panosphere.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-19"
         }
       }
     }
   ],
   "basemap": {
-    "image": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-basemap.png",
+    "image": "",
     "center": {
       "latitude": 48.855199999999996,
       "longitude": 2.34545

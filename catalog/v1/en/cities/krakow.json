@@ -2,19 +2,21 @@
   "id": "krakow",
   "slug": "krakow",
   "title": "Краков",
-  "subtitle": "Краков · 2 маршрута · 3 скоро",
-  "meta": "Польша · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Краков · 4 маршрута · 1 скоро",
+  "meta": "Польша · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "krakow-royal-route-wawel-old-town",
-    "krakow-kazimierz-jewish-city"
+    "krakow-kazimierz-jewish-city",
+    "krakow-podgorze-ghetto-zablocie",
+    "krakow-nowa-huta-ideal-city"
   ],
   "countryId": "poland",
   "photo": {
     "id": "krakow-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/krakow/krakow-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Краков"
   },
   "identity": {

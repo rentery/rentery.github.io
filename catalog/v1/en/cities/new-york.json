@@ -2,19 +2,20 @@
   "id": "new-york",
   "slug": "new-york",
   "title": "Нью-Йорк",
-  "subtitle": "Нью-Йорк · 2 маршрута · 3 скоро",
-  "meta": "США · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Нью-Йорк · 3 маршрута · 2 скоро",
+  "meta": "США · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "new-york-lower-manhattan-harbor-power",
-    "new-york-central-park-designed-nature"
+    "new-york-central-park-designed-nature",
+    "new-york-brooklyn-bridge-dumbo-waterfront"
   ],
   "countryId": "united-states",
   "photo": {
     "id": "new-york-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/new-york/new-york-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Нью-Йорк"
   },
   "identity": {

@@ -2,18 +2,20 @@
   "id": "tbilisi",
   "slug": "tbilisi",
   "title": "Тбилиси",
-  "subtitle": "Тбилиси · 1 маршрут · 4 скоро",
-  "meta": "Грузия · маршруты в подготовке",
-  "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Тбилиси · 3 маршрута · 2 скоро",
+  "meta": "Грузия · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
-    "tbilisi-old-town-sulfur-narikala"
+    "tbilisi-old-town-sulfur-narikala",
+    "tbilisi-sololaki-bourgeois-houses",
+    "tbilisi-rustaveli-state-culture"
   ],
   "countryId": "georgia",
   "photo": {
     "id": "tbilisi-city-hero",
     "kind": "generated",
-    "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
-    "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
+    "wide": "",
+    "square": "",
     "alt": "Сгенерированный editorial hero города Тбилиси"
   },
   "identity": {

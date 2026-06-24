@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Старый берег Chinatown ведет через храмы, клановые дома и улицы, где порт становился городом.",
-    "cityId": "singapore",
-    "dayTrip": false,
-    "id": "singapore-chinatown-telok-ayer-port",
-    "launchWave": 1,
-    "priority": 2,
-    "roughArea": "Telok Ayer, Amoy Street, Ann Siang Hill, Kreta Ayer.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Шопхаусы, храмы и торговые общины вокруг старой линии берега.",
-    "title": "Chinatown и Telok Ayer: улицы у бывшей воды",
-    "walkType": "neighborhood"
-  },
-  {
-    "blurb": "Кампонг Гелам держит рядом султанскую историю, мечеть, лавки тканей и уличную графику.",
-    "cityId": "singapore",
-    "dayTrip": false,
-    "id": "singapore-kampong-gelam-sultan-streets",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Sultan Gate, Bussorah Street, Arab Street, Haji Lane и Jalan Sultan.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Малайский квартал между султанской памятью, тканями, верандами и графикой.",
-    "title": "Кампонг Гелам: дворец, мечеть и торговые улицы",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "Little India раскрывается через рынок, храмы и лавки, где район живет громче центра.",
     "cityId": "singapore",
     "dayTrip": false,

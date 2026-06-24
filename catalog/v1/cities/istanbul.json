@@ -2,12 +2,14 @@
   "id": "istanbul",
   "slug": "istanbul",
   "title": "Стамбул",
-  "subtitle": "Стамбул · 2 маршрута · 3 скоро",
-  "meta": "Турция · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Стамбул · 4 маршрута · 1 скоро",
+  "meta": "Турция · 4 маршрута опубликовано",
+  "practicalNote": "Опубликовано 4 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "istanbul-sultanahmet-imperial-layers",
-    "istanbul-galata-beyoglu-pera-stage"
+    "istanbul-galata-beyoglu-pera-stage",
+    "istanbul-golden-horn-suleymaniye-zeyrek-balat",
+    "istanbul-eminonu-grand-bazaar-trade-spine"
   ],
   "countryId": "turkey",
   "photo": {

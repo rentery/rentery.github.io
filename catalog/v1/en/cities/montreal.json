@@ -2,12 +2,13 @@
   "id": "montreal",
   "slug": "montreal",
   "title": "Монреаль",
-  "subtitle": "Монреаль · 2 маршрута · 3 скоро",
-  "meta": "Канада · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Монреаль · 3 маршрута · 2 скоро",
+  "meta": "Канада · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "montreal-old-montreal-port-foundation",
-    "montreal-mount-royal-golden-square-mile"
+    "montreal-mount-royal-golden-square-mile",
+    "montreal-plateau-mile-end-main"
   ],
   "countryId": "canada",
   "photo": {

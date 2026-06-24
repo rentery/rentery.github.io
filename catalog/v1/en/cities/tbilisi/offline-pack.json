@@ -3,18 +3,20 @@
     "id": "tbilisi",
     "slug": "tbilisi",
     "title": "Тбилиси",
-    "subtitle": "Тбилиси · 1 маршрут · 4 скоро",
-    "meta": "Грузия · маршруты в подготовке",
-    "practicalNote": "Опубликован первый маршрут по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+    "subtitle": "Тбилиси · 3 маршрута · 2 скоро",
+    "meta": "Грузия · 3 маршрута опубликовано",
+    "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
     "guideIds": [
-      "tbilisi-old-town-sulfur-narikala"
+      "tbilisi-old-town-sulfur-narikala",
+      "tbilisi-sololaki-bourgeois-houses",
+      "tbilisi-rustaveli-state-culture"
     ],
     "countryId": "georgia",
     "photo": {
       "id": "tbilisi-city-hero",
       "kind": "generated",
-      "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-wide.jpg",
-      "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-city-hero-square.jpg",
+      "wide": "",
+      "square": "",
       "alt": "Сгенерированный editorial hero города Тбилиси"
     },
     "identity": {
@@ -1973,7 +1975,7 @@
       "content": {
         "intro": "Эта прогулка собирает Тбилиси не по музеям, а по его внутренней механике. Всё здесь сдвинуто очень плотно: на одном краю стояла городская торговля, ниже бьют горячие источники, над ними поднимается крепость, а между ними уживаются разные молитвенные языки и разные ритмы городской жизни. В этом маршруте важно не спешить. Старый Тбилиси лучше читается не как цепочка достопримечательностей, а как один рельефный организм: площадь тянет к рынку, банный пар — к ущелью, ступени — к стенам, а стены всё время возвращают взгляд к реке и мостам. Если вы захотите не только смотреть на бани, но и идти внутрь, планируйте это отдельно: внешняя прогулка и посещение купален живут по разным ритмам, а расписания и доступность отдельных купелей могут меняться в течение дня. В храмах и у мечети держитесь тише обычного, считайте приоритетом молитву и службу, а не удачный кадр. Финал у Нарикалы лучше всего работает на мягком свете: тогда город внизу снова становится понятным, и вся дорога — от Мейдана до куполов и гребня крепости — вдруг складывается в одну линию.",
         "routeLogic": "Торговая площадь, соборы, мечеть, серные купола, ущелье и крепостной гребень в одной прогулке",
-        "bestFor": "первого знакомства с городом\nлюбителей городской истории\nсамостоятельной прогулки без спешки",
+        "bestFor": "первого знакомства с городом любителей городской истории самостоятельной прогулки без спешки",
         "notFor": "тех, кому нужен только быстрый проход без остановок",
         "beforeYouGo": "Смотрите место по ходу маршрута и держите спокойный темп.",
         "timing": "2-3 часа"
@@ -1981,12 +1983,12 @@
       "cover": {
         "id": "tbilisi-old-town-sulfur-narikala-cover",
         "kind": "generated",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-cover-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-cover-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Сгенерированная editorial-обложка маршрута «tbilisi-old-town-sulfur-narikala»"
       },
       "basemap": {
-        "image": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-basemap.png",
+        "image": "",
         "center": {
           "latitude": 41.6893,
           "longitude": 44.809
@@ -2025,13 +2027,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-1",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "2018 - Saint George's Church in Tbilisi.jpg",
             "attribution": {
               "author": "Moahim",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2018_-_Saint_George%27s_Church_in_Tbilisi.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2064,13 +2066,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-2",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "2014 Tbilisi, Katedra Sioni (08).jpg",
             "attribution": {
               "author": "Marcin Konsek",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Katedra_Sioni_%2808%29.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2103,13 +2105,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-3",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Juma Mosque of Tbilisi.jpg",
             "attribution": {
               "author": "Reda Kerbouche",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJuma_Mosque_of_Tbilisi.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2142,13 +2144,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-4",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "2014 Tbilisi, Łaźnie siarkowe w Abanotubani (04).jpg",
             "attribution": {
               "author": "Marcin Konsek",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_%2804%29.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2181,13 +2183,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-5",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Abanotubani. View on Chreli Abano and Juma Masjid.jpg",
             "attribution": {
               "author": "Eka Samkharadze",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAbanotubani._View_on_Chreli_Abano_and_Juma_Masjid.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2220,13 +2222,13 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-6",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "Leghvtakhevi or Abanotubani, Tbilisi ლეღვთახევი 02.jpg",
             "attribution": {
               "author": "Mostafa Meraji",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeghvtakhevi_or_Abanotubani%2C_Tbilisi_%E1%83%9A%E1%83%94%E1%83%A6%E1%83%95%E1%83%97%E1%83%90%E1%83%AE%E1%83%94%E1%83%95%E1%83%98_02.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2259,18 +2261,2961 @@
           "photo": {
             "id": "tbilisi-old-town-sulfur-narikala-stop-7",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-square.jpg",
+            "wide": "",
+            "square": "",
             "alt": "2014 Tbilisi, Ruiny twierdzy Narikala (01).jpg",
             "attribution": {
               "author": "Marcin Konsek",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Ruiny_twierdzy_Narikala_%2801%29.jpg",
+              "sourceUrl": "",
               "retrievedAt": "2026-06-17"
             }
           }
         }
       ]
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses",
+      "routePath": {
+        "coordinates": [
+          [
+            44.801768,
+            41.693334
+          ],
+          [
+            44.801919,
+            41.693135
+          ],
+          [
+            44.801959,
+            41.693018
+          ],
+          [
+            44.801973,
+            41.692879
+          ],
+          [
+            44.801976,
+            41.692864
+          ],
+          [
+            44.801981,
+            41.692777
+          ],
+          [
+            44.80201,
+            41.692321
+          ],
+          [
+            44.802019,
+            41.692168
+          ],
+          [
+            44.802056,
+            41.691574
+          ],
+          [
+            44.802057,
+            41.691556
+          ],
+          [
+            44.802073,
+            41.691303
+          ],
+          [
+            44.802006,
+            41.691301
+          ],
+          [
+            44.80128,
+            41.691272
+          ],
+          [
+            44.801231,
+            41.69127
+          ],
+          [
+            44.801228,
+            41.691311
+          ],
+          [
+            44.801219,
+            41.69143
+          ],
+          [
+            44.801219,
+            41.69143
+          ],
+          [
+            44.8012,
+            41.691667
+          ],
+          [
+            44.801144,
+            41.69166
+          ],
+          [
+            44.801132,
+            41.691658
+          ],
+          [
+            44.800926,
+            41.691632
+          ],
+          [
+            44.800926,
+            41.691632
+          ],
+          [
+            44.801132,
+            41.691658
+          ],
+          [
+            44.801144,
+            41.69166
+          ],
+          [
+            44.8012,
+            41.691667
+          ],
+          [
+            44.801228,
+            41.691311
+          ],
+          [
+            44.801231,
+            41.69127
+          ],
+          [
+            44.801234,
+            41.691224
+          ],
+          [
+            44.801181,
+            41.691223
+          ],
+          [
+            44.799883,
+            41.691172
+          ],
+          [
+            44.799873,
+            41.691333
+          ],
+          [
+            44.799844,
+            41.691807
+          ],
+          [
+            44.799822,
+            41.692161
+          ],
+          [
+            44.799813,
+            41.69231
+          ],
+          [
+            44.799798,
+            41.692542
+          ],
+          [
+            44.800338,
+            41.692706
+          ],
+          [
+            44.800363,
+            41.692653
+          ],
+          [
+            44.800401,
+            41.692546
+          ],
+          [
+            44.800437,
+            41.692457
+          ],
+          [
+            44.800447,
+            41.692382
+          ],
+          [
+            44.800458,
+            41.692307
+          ],
+          [
+            44.800451,
+            41.692185
+          ],
+          [
+            44.800437,
+            41.692029
+          ],
+          [
+            44.800426,
+            41.691909
+          ],
+          [
+            44.800426,
+            41.691909
+          ],
+          [
+            44.800437,
+            41.692029
+          ],
+          [
+            44.800451,
+            41.692185
+          ],
+          [
+            44.800458,
+            41.692307
+          ],
+          [
+            44.800447,
+            41.692382
+          ],
+          [
+            44.800437,
+            41.692457
+          ],
+          [
+            44.800401,
+            41.692546
+          ],
+          [
+            44.800363,
+            41.692653
+          ],
+          [
+            44.800338,
+            41.692706
+          ],
+          [
+            44.800315,
+            41.69277
+          ],
+          [
+            44.799794,
+            41.692615
+          ],
+          [
+            44.799452,
+            41.692511
+          ],
+          [
+            44.799319,
+            41.692471
+          ],
+          [
+            44.799092,
+            41.692402
+          ],
+          [
+            44.79904,
+            41.692387
+          ],
+          [
+            44.798911,
+            41.692348
+          ],
+          [
+            44.798559,
+            41.69224
+          ],
+          [
+            44.798407,
+            41.692199
+          ],
+          [
+            44.798291,
+            41.692109
+          ],
+          [
+            44.798338,
+            41.691816
+          ],
+          [
+            44.798507,
+            41.691422
+          ],
+          [
+            44.798543,
+            41.691105
+          ],
+          [
+            44.798559,
+            41.690882
+          ],
+          [
+            44.798573,
+            41.690679
+          ],
+          [
+            44.798612,
+            41.690176
+          ],
+          [
+            44.798637,
+            41.689855
+          ],
+          [
+            44.798703,
+            41.689857
+          ],
+          [
+            44.798892,
+            41.689864
+          ],
+          [
+            44.798892,
+            41.689864
+          ],
+          [
+            44.798703,
+            41.689857
+          ],
+          [
+            44.798637,
+            41.689855
+          ],
+          [
+            44.798612,
+            41.690176
+          ],
+          [
+            44.798573,
+            41.690679
+          ],
+          [
+            44.798559,
+            41.690882
+          ],
+          [
+            44.798543,
+            41.691105
+          ],
+          [
+            44.798507,
+            41.691422
+          ],
+          [
+            44.798338,
+            41.691816
+          ],
+          [
+            44.798291,
+            41.692109
+          ],
+          [
+            44.798407,
+            41.692199
+          ],
+          [
+            44.798559,
+            41.69224
+          ],
+          [
+            44.798911,
+            41.692348
+          ],
+          [
+            44.798933,
+            41.692274
+          ],
+          [
+            44.798939,
+            41.692253
+          ],
+          [
+            44.798986,
+            41.692093
+          ],
+          [
+            44.799,
+            41.692041
+          ],
+          [
+            44.799,
+            41.692041
+          ],
+          [
+            44.798986,
+            41.692093
+          ],
+          [
+            44.798939,
+            41.692253
+          ],
+          [
+            44.798933,
+            41.692274
+          ],
+          [
+            44.799118,
+            41.692328
+          ],
+          [
+            44.799179,
+            41.692346
+          ],
+          [
+            44.799349,
+            41.6924
+          ],
+          [
+            44.79936,
+            41.692374
+          ],
+          [
+            44.7994,
+            41.692277
+          ],
+          [
+            44.7994,
+            41.692277
+          ],
+          [
+            44.79936,
+            41.692374
+          ],
+          [
+            44.799349,
+            41.6924
+          ],
+          [
+            44.799319,
+            41.692471
+          ],
+          [
+            44.799092,
+            41.692402
+          ],
+          [
+            44.79904,
+            41.692387
+          ],
+          [
+            44.798911,
+            41.692348
+          ],
+          [
+            44.798559,
+            41.69224
+          ],
+          [
+            44.798508,
+            41.692335
+          ],
+          [
+            44.79813,
+            41.692875
+          ],
+          [
+            44.798065,
+            41.69297
+          ],
+          [
+            44.79812,
+            41.692995
+          ],
+          [
+            44.798212,
+            41.693032
+          ],
+          [
+            44.798334,
+            41.69302
+          ],
+          [
+            44.798422,
+            41.693025
+          ],
+          [
+            44.798529,
+            41.692961
+          ],
+          [
+            44.798529,
+            41.692961
+          ],
+          [
+            44.798422,
+            41.693025
+          ],
+          [
+            44.798334,
+            41.69302
+          ],
+          [
+            44.798212,
+            41.693032
+          ],
+          [
+            44.79812,
+            41.692995
+          ],
+          [
+            44.798065,
+            41.69297
+          ],
+          [
+            44.79813,
+            41.692875
+          ],
+          [
+            44.798508,
+            41.692335
+          ],
+          [
+            44.798559,
+            41.69224
+          ],
+          [
+            44.798407,
+            41.692199
+          ],
+          [
+            44.798291,
+            41.692109
+          ],
+          [
+            44.798338,
+            41.691816
+          ],
+          [
+            44.798507,
+            41.691422
+          ],
+          [
+            44.798543,
+            41.691105
+          ],
+          [
+            44.798914,
+            41.691124
+          ],
+          [
+            44.799019,
+            41.691129
+          ],
+          [
+            44.799574,
+            41.691157
+          ],
+          [
+            44.799562,
+            41.691307
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              44.801768,
+              41.693334
+            ],
+            "instruction": "Walk southeast on შალვა დადიანის ქუჩა.",
+            "distanceM": 25,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801919,
+              41.693135
+            ],
+            "instruction": "Bear right onto კოტე აფხაზის ქუჩა.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801959,
+              41.693018
+            ],
+            "instruction": "Keep right to take შალვა დადიანის ქუჩა.",
+            "distanceM": 191,
+            "type": ""
+          },
+          {
+            "location": [
+              44.802073,
+              41.691303
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 70,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801231,
+              41.69127
+            ],
+            "instruction": "Turn right onto გალაკტიონ ტაბიძის ქუჩა.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801219,
+              41.69143
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801219,
+              41.69143
+            ],
+            "instruction": "Walk north on გალაკტიონ ტაბიძის ქუჩა.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              44.8012,
+              41.691667
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800926,
+              41.691632
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800926,
+              41.691632
+            ],
+            "instruction": "Walk east.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              44.8012,
+              41.691667
+            ],
+            "instruction": "Turn right onto გალაკტიონ ტაბიძის ქუჩა.",
+            "distanceM": 49,
+            "type": ""
+          },
+          {
+            "location": [
+              44.801234,
+              41.691224
+            ],
+            "instruction": "Turn right onto მიხეილ ლერმონტოვის ქუჩა.",
+            "distanceM": 112,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799883,
+              41.691172
+            ],
+            "instruction": "Turn right onto ივანე მაჩაბლის ქუჩა.",
+            "distanceM": 152,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799798,
+              41.692542
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 48,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800338,
+              41.692706
+            ],
+            "instruction": "Turn right onto გიორგი ლეონიძის ჩიხი.",
+            "distanceM": 89,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800426,
+              41.691909
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800426,
+              41.691909
+            ],
+            "instruction": "Walk north on გიორგი ლეონიძის ჩიხი.",
+            "distanceM": 96,
+            "type": ""
+          },
+          {
+            "location": [
+              44.800315,
+              41.69277
+            ],
+            "instruction": "Turn left onto გიორგი ლეონიძის ქუჩა.",
+            "distanceM": 172,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798407,
+              41.692199
+            ],
+            "instruction": "Keep left to take გერონტი ქიქოძის ქუჩა.",
+            "distanceM": 268,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798637,
+              41.689855
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798892,
+              41.689864
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798892,
+              41.689864
+            ],
+            "instruction": "Walk west.",
+            "distanceM": 21,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798637,
+              41.689855
+            ],
+            "instruction": "Turn right onto გერონტი ქიქოძის ქუჩა.",
+            "distanceM": 268,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798407,
+              41.692199
+            ],
+            "instruction": "Bear right onto გიორგი ლეონიძის ქუჩა.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798911,
+              41.692348
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 34,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799,
+              41.692041
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799,
+              41.692041
+            ],
+            "instruction": "Walk north.",
+            "distanceM": 26,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798933,
+              41.692274
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799349,
+              41.6924
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              44.7994,
+              41.692277
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.7994,
+              41.692277
+            ],
+            "instruction": "Walk north.",
+            "distanceM": 22,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799319,
+              41.692471
+            ],
+            "instruction": "Turn left onto გიორგი ლეონიძის ქუჩა.",
+            "distanceM": 68,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798559,
+              41.69224
+            ],
+            "instruction": "Turn right onto პავლე ინგოროყვას ქუჩა.",
+            "distanceM": 91,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798065,
+              41.69297
+            ],
+            "instruction": "Turn right.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798334,
+              41.69302
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798529,
+              41.692961
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798529,
+              41.692961
+            ],
+            "instruction": "Walk northwest on the walkway.",
+            "distanceM": 19,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798334,
+              41.69302
+            ],
+            "instruction": "Continue.",
+            "distanceM": 24,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798065,
+              41.69297
+            ],
+            "instruction": "Turn left onto პავლე ინგოროყვას ქუჩა.",
+            "distanceM": 91,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798559,
+              41.69224
+            ],
+            "instruction": "Turn right onto გიორგი ლეონიძის ქუჩა.",
+            "distanceM": 13,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798407,
+              41.692199
+            ],
+            "instruction": "Keep left to take გერონტი ქიქოძის ქუჩა.",
+            "distanceM": 128,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798543,
+              41.691105
+            ],
+            "instruction": "Turn left onto გიგა ლორთქიფანიძის ქუჩა.",
+            "distanceM": 86,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799574,
+              41.691157
+            ],
+            "instruction": "Turn left.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799562,
+              41.691307
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T01:11:22.422Z"
+        }
+      },
+      "cityId": "tbilisi",
+      "category": "Район",
+      "title": "Сололаки: парадные буржуазного Тифлиса",
+      "subtitle": "Архитектурная прогулка по фасадам, росписям, дворам и следам старой буржуазии.",
+      "blurb": "Небольшой район Сололаки хранит другой образ Тбилиси — не средневековый, а позднеимперский. Этот маршрут проведёт вас через площади, улицы и подъезды, где жили табачные и коньячные магнаты. Вы научитесь отличать фасад от парадной, видеть смесь европейских стилей и деревянных балконов и понимать, как особняки превратились в многосемейный город.",
+      "mood": "architecture",
+      "accent": "#33A37A",
+      "soft": "#E3F2ED",
+      "deep": "#237658",
+      "ink": "#22624B",
+      "motif": "lane",
+      "duration": "2–3 часа",
+      "stops": 9,
+      "distance": "около 2 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "Небольшой район Сололаки хранит другой образ Тбилиси — не средневековый, а позднеимперский. Этот маршрут проведёт вас через площади, улицы и подъезды, где жили табачные и коньячные магнаты. Вы научитесь отличать фасад от парадной, видеть смесь европейских стилей и деревянных балконов и понимать, как особняки превратились в многосемейный город."
+      },
+      "content": {
+        "intro": "Сололаки — район за спиной площади Свободы, где узкие улочки и лестницы хранят память о буржуазном Тифлисе. Появившийся в середине XIX века как квартал купцов, инженеров и иностранцев, он быстро застроился доходными домами и особняками, совмещающими классицистические фасады и восточные интерьеры. Пройдя эту прогулку, вы почувствуете не только красоту парадных, но и драму перемен: революции, национализации, коммунальные квартиры и новую жизнь старых домов.",
+        "routeLogic": "Небольшой район Сололаки хранит другой образ Тбилиси — не средневековый, а позднеимперский. Этот маршрут проведёт вас через площади, улицы и подъезды, где жили табачные и коньячные магнаты. Вы научитесь отличать фасад от парадной, видеть смесь европейских стилей и деревянных балконов и понимать, как особняки превратились в многосемейный город.",
+        "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
+        "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
+        "beforeYouGo": "Маршрут проходит по живым улицам и дворам. Во многих домах по‑прежнему живут люди; вход внутрь возможен только по приглашению. Фотографируйте фасады, не включайте вспышку в подъездах и не задерживайтесь у дверей, если жильцам неудобно. На маршруте есть подъёмы и лестницы, поэтому надевайте удобную обувь. Некоторые площадки реставрируются; доступ может меняться.",
+        "timing": "2–3 часа"
+      },
+      "stopList": [
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-1",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 1,
+          "name": "Площадь Свободы",
+          "note": "Сердце города и арена революций",
+          "time": "15 мин",
+          "walk": "От здания мэрии перейдите дорогу к узкому проезду — это начало улицы Галактиона Табидзе.",
+          "content": {
+            "context": "Начните маршрут в центре площади Свободы у высокой колонны со святым Георгием. Отсюда видно, как площадь собирала и рассеивала энергию города. Её план сформировался в 1820‑е годы, когда за пределами старого города возвели штаб армии и классическое здание, позже ставшее духовной семинарией. В 1840‑х появился полицейский участок, а в 1870‑х архитектор Пауль Штерн придал ему псевдомавританский облик с аркадой и башней. С тех пор площадь меняла имена: Паскевич‑Ереванский плац, Театральная, затем Свободы. За вашей спиной начинается проспект Руставели, впереди уходит в глубь Сололаки улица Галактиона Табидзе. В 2006 году здесь установили 40‑метровую колонну со святым Георгием, ставшую новой доминантой. В этом месте проходили митинги и революции XX века, а во время гражданской войны 1990‑х часть зданий была разрушена и заменена современными постройками.",
+            "lookFor": "Статуя святого Георгия на колонне — символ независимости Псевдомавританский фасад мэрии с часовой башней Фонтан и вход в метро в центре площади",
+            "practical": "Площадь открыта круглосуточно. Это оживлённое транспортное кольцо; переходите дороги по светофорам. В подземном переходе есть станция метро, кафе и банкоматы.",
+            "nextMove": "От здания мэрии перейдите дорогу к узкому проезду — это начало улицы Галактиона Табидзе.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Смена имён отражала смену эпох: от имперского Паскевич‑Ереванского плаца до советской площади Ленина и современной Свободы. Псевдомавританский стиль здания мэрии придал площади экзотический облик, контрастирующий с неоклассическими и современными фасадами."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.69333,
+            "longitude": 44.80167
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-1",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Вид на площадь Свободы с колонной Святого Георгия и зданиями по периметру.",
+            "attribution": {
+              "author": "Andrew Milligan sumo",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": ").jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-2",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 2,
+          "name": "Улица Галактиона Табидзе",
+          "note": "Главная артерия Сололаки",
+          "time": "15 мин",
+          "walk": "Через 200 метров от площади ищите дом № 18 с массивными деревянными дверями — это дом братьев Сейлановых.",
+          "content": {
+            "context": "Из шумной площади вы ныряете в каньон улицы Галактиона Табидзе. Пастельные фасады украшены лепниной, балконы отбрасывают кружевные тени, за окнами сушится бельё. Улица была проложена во второй половине XIX века, когда Сололаки застраивался сеткой прямых улиц и превращался в буржуазный квартал. После революции её назвали в честь поэта Акаки Церетели, а позже — поэта‑символиста Галактиона Табидзе; старожилы до сих пор говорят «Галактиони». Здесь европейские стили сочетаются с деревянными балконами и коваными козырьками, а за тяжелыми дверями скрываются мозаики и витражи. Обращайте внимание на мемориальные таблички: многие дома принадлежали купцам, инженерам и артистам.",
+            "lookFor": "Таблички с фамилиями старых владельцев Кружевные балконы и фигурные козырьки Приоткрытые двери с мозаичными полами внутри",
+            "practical": "Улица открыта круглосуточно. Тротуары узкие, а движение одностороннее; будьте внимательны. За парадными дверями находятся частные квартиры — не заходите без разрешения и не фотографируйте людей.",
+            "nextMove": "Через 200 метров от площади ищите дом № 18 с массивными деревянными дверями — это дом братьев Сейлановых.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Сетка Сололаки была частью градостроительной реформы 1860–1890‑х годов. Ширина улиц определяла статус домов: на Табидзе селились богатые, а параллельные переулки оставались народными. Смена названий отражает литературные пристрастия города."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.69143,
+            "longitude": 44.80123
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-2",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Участок улицы Галактиона Табидзе с пастельными фасадами и деревянными балконами.",
+            "attribution": {
+              "author": "Kober",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": ").jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-3",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 3,
+          "name": "Дом братьев Сейлановых (ул. Табидзе, 18)",
+          "note": "Табачный особняк с мозаиками",
+          "time": "15 мин",
+          "walk": "Продолжайте идти в сторону холма до кремового дома с богатой лепниной — это доходный дом Тер‑Акоповой под № 24.",
+          "content": {
+            "context": "Стоя у входа в дом № 18, обратите внимание на мозаичный пол с надписью «Братья Сейлановы». Этот доходный дом построили в 1911 году для табачных торговцев. За тяжёлой дверью скрывается парадная со витражным потолком и росписью «Континенты» — художники изобразили Африку, Америку и Европу, чтобы подчеркнуть глобальные связи бизнеса. Дом был типичным примером раннего XX века: снаружи строгий модерн, внутри — восточная роскошь. После революции его превратили в коммунальные квартиры, многие детали утратили; сегодня от богатства осталось несколько мозаик и витражей, которые можно увидеть лишь мельком.",
+            "lookFor": "Мозаичный пол с фамилией «Сейлановы» Витражный купол над лестницей Фрески с аллегориями континентов",
+            "practical": "Дом жилой, вход внутрь только по приглашению жильцов. Дверь иногда открыта для проветривания; можно заглянуть с порога, но не заходите глубже и не фотографируйте людей.",
+            "nextMove": "Продолжайте идти в сторону холма до кремового дома с богатой лепниной — это доходный дом Тер‑Акоповой под № 24.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "В начале XX века торговцы табаком и вином соревновались в роскоши подъездов. Мозаики для Сейлановых сделали итальянские мастера; мотивы континентов подчёркивали глобальный характер бизнеса. Большую часть росписей уничтожили в советские годы, когда дом превратили в коммуналку."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.6916,
+            "longitude": 44.8009
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-3",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад дома братьев Сейлановых на улице Табидзе, 18.",
+            "attribution": {
+              "author": "Lika jorjiashvili",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-4",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 4,
+          "name": "Дом Тер‑Акоповой (ул. Табидзе, 24)",
+          "note": "Доходный дом с маскаронами",
+          "time": "15 мин",
+          "walk": "Поверните направо на улицу Г. Кикодзе и идите около 200 метров. На правой стороне вы увидите дом с асимметричными балконами и мемориальными табличками — это дом Майловых.",
+          "content": {
+            "context": "Этот четырёхэтажный дом с рустованным цоколем и богатой лепниной построили в 1896 году как доходный дом для Эвелины Тер‑Акоповой. Фасад украшен маскаронами, гирляндами и полуколоннами, а арочный вход ведёт в парадную с терраццовым полом, где выложено имя владелицы. Внутреннюю отделку выполнял итальянский мастер Анджело Андреолетти, чья подпись сохранилась на ступеньках. Дом был надстроен на один этаж в 1930‑х и сегодня нуждается в реставрации: влажность и землетрясения повредили лепнину. Снаружи можно представить, как выглядели доходные дома Сололаки в конце XIX века: строгая симметрия, роскошные детали и тяжёлые двери.",
+            "lookFor": "Маскароны и гирлянды на фасаде Полукруглая арка и резные двери Терраццовый пол с именем владельца",
+            "practical": "Дом жилой, вход ограничен. Если дверь открыта, можно взглянуть на пол и лестницу, но не поднимайтесь без разрешения. Здание ветхое, не прикасайтесь к лепнине.",
+            "nextMove": "Поверните направо на улицу Г. Кикодзе и идите около 200 метров. На правой стороне вы увидите дом с асимметричными балконами и мемориальными табличками — это дом Майловых.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Дом Тер‑Акоповой — пример того, как богатые тбилисские домовладельцы сочетали европейские фасады и местные элементы. Плитку привезли из Италии, а кузнецов наняли из местных мастерских. В 1930‑х дом подняли на этаж, чтобы увеличить доходность; сегодня он входит в список памятников и ждёт реставрации."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.6919,
+            "longitude": 44.8006
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-4",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад доходного дома Тер‑Акоповой на улице Табидзе, 24, с лепными украшениями.",
+            "attribution": {
+              "author": "Dor Shabashewitz",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-5",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 5,
+          "name": "Дом Майловых (ул. Кикодзе, 11)",
+          "note": "Дом нефтяных магнатов и революционеров",
+          "time": "15 мин",
+          "walk": "Вернитесь к перекрёстку и поверните налево на улицу Мачабели. Через 100 метров справа будет дом с двумя входами и голубыми стенами — это дом Калантарова.",
+          "content": {
+            "context": "На тихой улице возвышается дом братьев Майловых — богатых купцов и нефтепромышленников. Его построил архитектор Габриэл Тер‑Микелов в 1914 году для семьи, владевшей бакинскими нефтяными промыслами. Фасад поражает асимметричными балконами и витражами, но главная история скрыта в судьбе дома. После революции здесь поселились партийные лидеры Мамия Орахелашвили и Филипп Махарадзе; в 1937 году дом стал местом трагедий: многие жильцы были репрессированы. Сегодня фасад украшен мемориальными досками, напоминающими о жертвах красного террора. Внутрь попасть нельзя, но даже с улицы видно, как буржуазный комфорт уступил коммунальной жизни.",
+            "lookFor": "Мемориальные доски на фасаде Асимметричные балконы и кованые ограждения Старинные двери с металлическими декорами",
+            "practical": "Дом жилой и закрыт для посещения. Осматривайте фасад с противоположной стороны улицы и соблюдайте тишину. В переулке нет тротуаров, будьте осторожны.",
+            "nextMove": "Вернитесь к перекрёстку и поверните налево на улицу Мачабели. Через 100 метров справа будет дом с двумя входами и голубыми стенами — это дом Калантарова.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Архитектор Тер‑Микелов был одним из главных мастеров модерна в Тбилиси. Дом Майловых сочетает модерновые эркеры и восточные мотивы. Его история напоминает о переходе от капитализма к коммунизму: роскошный доходный дом превратился в коммуналку, а затем — в место памяти жертв репрессий."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.6899,
+            "longitude": 44.799
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-5",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад жилого дома на улице Геронтия Кикодзе, 11, связанного с братьями Майловыми.",
+            "attribution": {
+              "author": "Lasha ge",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-6",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 6,
+          "name": "Дом Калантарова (ул. Мачабели, 17 / ул. Асатиани, 27)",
+          "note": "Мавританский зал в грузинском дворе",
+          "time": "15 мин",
+          "walk": "Выйдите на улицу Мачабели и перейдите через дорогу к зданию с балконом и маскаронами — это Дом Давида Сараджишвили, ныне Дом писателей.",
+          "content": {
+            "context": "Снаружи этот дом выглядит скромно, но стоит заглянуть в парадную, как вы окажетесь в восточном дворце: стены расписаны бирюзовым и оранжевым, своды напоминают сталактиты, мраморная лестница ведёт под витражи. Дом построил в 1908 году архитектор Лазарь Саргсян для богатого Николая (Михаила) Калантарова, преуспевшего в табачной и нефтяной торговле. Легенда гласит, что он хотел впечатлить оперную певицу; поэтому парадная получила модный в то время мавританский стиль. После революции особняк превратили в коммунальный дом, а в 2014 году парадную отреставрировали. Сегодня это одна из немногих сохранившихся парадных с восточным декором в Тбилиси.",
+            "lookFor": "Бирюзовые и оранжевые росписи Сталактитовый потолок (мокарна) Мраморная лестница и витраж",
+            "practical": "Дом жилой; парадная иногда открыта. Заходить можно только по приглашению или если жильцы оставили дверь приоткрытой. Внутри темно и скользко, поэтому смотрите под ноги и не используйте вспышку.",
+            "nextMove": "Выйдите на улицу Мачабели и перейдите через дорогу к зданию с балконом и маскаронами — это Дом Давида Сараджишвили, ныне Дом писателей.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Мавританский стиль был модой начала XX века: богатые заказчики нанимали армянских и русских архитекторов, чтобы придать особнякам восточный колорит. Дом Калантарова — редкий пример, переживший коммунализацию: даже резные деревянные перила и витражи сохранились благодаря реставрации 2014 года."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.692,
+            "longitude": 44.7988
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-6",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад дома Калантарова на улице Асатиани, 27.",
+            "attribution": {
+              "author": "Tamar kurtanidze",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-7",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 7,
+          "name": "Дом Давида Сараджишвили / Дом писателей (ул. Мачабели, 13)",
+          "note": "Дом коньячного короля — теперь дом писателей",
+          "time": "15 мин",
+          "walk": "Продолжите по улице Мачабели и поверните налево на улицу Ладо Асатиани. Через два квартала слева вы увидите неоготическое здание бывшей женской гимназии.",
+          "content": {
+            "context": "Перед вами один из самых роскошных особняков Сололаки. Его построили в 1903–1905 годах для основателя коньячного производства Давида Сараджишвили немецкий архитектор Карл Зар. На фасаде в стиле модерн и необарокко — маскароны, лепнина и изогнутый балкон. Во дворе — деревянная галерея, напоминающая традиционные тбилисские балконы. Внутри сохранились залы, отделанные мозаикой Villeroy & Boch и росписями мастера Илии Мамцашвили; знаменитый «Акаков зал» оформлен в восточном стиле. После смерти Сараджишвили особняк купил предприниматель Акаки Хоштария; в советские годы здание национализировали и превратили в Дом писателей. Сегодня здесь размещаются литературный фонд, музей репрессированных писателей и кафе, часть комнат открыта для экскурсий.",
+            "lookFor": "Маскароны и лепнина на фасаде Деревянная галерея во дворе «Акаков зал» в восточном стиле",
+            "practical": "Музей работает по будням с 11:00 до 19:00; по выходным закрыт. Вход платный, но во дворе есть бесплатное кафе. Экскурсии проходят нерегулярно; уточняйте расписание заранее.",
+            "nextMove": "Продолжите по улице Мачабели и поверните налево на улицу Ладо Асатиани. Через два квартала слева вы увидите неоготическое здание бывшей женской гимназии.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Дом Сараджишвили был не только частной резиденцией, но и центром культурной жизни: здесь собирались писатели и художники. В советское время многие стали жертвами репрессий, память о них хранит музей репрессированных писателей. Благодаря реставрации 2011–2013 гг. мозаики и лепнина снова открыты для посетителей."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.6923,
+            "longitude": 44.7995
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-7",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад Дома писателей (бывшего особняка Давида Сараджишвили) с маскаронами и балконом.",
+            "attribution": {
+              "author": "Raymond Zoller from unterwegs. on the road",
+              "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-8",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 8,
+          "name": "Женская гимназия (ул. Асатиани, 28)",
+          "note": "Неоготическая школа для благородных девиц",
+          "time": "15 мин",
+          "walk": "Спуститесь по улице Асатиани до уютной площади с деревянными балконами — это площадь Ладо Гудиашвили, последний пункт маршрута.",
+          "content": {
+            "context": "Здание сразу узнаётся по зубчатым фронтонам, стрельчатым окнам и башенкам — словно небольшой замок поселился среди тбилисских балконов. Его построили в 1903–1905 годах как частную школу для дворянских дочерей, а позже здание стало женской гимназией. Архитектор Александр Озеров и заказчик, винодел М. Ананов, выбрали псевдоготический стиль. Сегодня дом продолжает служить образовательным целям, но попасть внутрь практически невозможно. Стоя на улице, представьте, как в начале XX века сюда приходили юные аристократки.",
+            "lookFor": "Стрельчатые арки и зубчатые фронтоны Готические окна с каменной окантовкой Башенка и кирпичный декор",
+            "practical": "Здание используется как учебное учреждение; вход закрыт. Осматривайте фасад с тротуара и не мешайте учащимся. Поблизости нет туалетов; ближайшие кафе находятся у площади Гудиашвили.",
+            "nextMove": "Спуститесь по улице Асатиани до уютной площади с деревянными балконами — это площадь Ладо Гудиашвили, последний пункт маршрута.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Основание школы заложили в апреле 1903 года, а освящение состоялось 9 января 1905 года. Псевдоготический стиль подчёркивал статус и прогрессивность учебного заведения; традиция образования сохраняется и сегодня."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.693,
+            "longitude": 44.7985
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-8",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Неоготический фасад женской гимназии на улице Асатиани, 28.",
+            "attribution": {
+              "author": "Andrew Milligan sumo",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": ").jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-sololaki-bourgeois-houses-9",
+          "guideId": "tbilisi-sololaki-bourgeois-houses",
+          "order": 9,
+          "name": "Площадь Ладо Гудиашвили",
+          "note": "Квартальный дворик XVI века, восстановленный для будущего",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "Финальный аккорд прогулки — маленькая площадь, спрятанная между домами. Гудиашвили считается одной из самых старых площадей Тбилиси: ей около 600 лет, и на старых картах она появляется под названиями Бежанов сад, Аббас‑Абаси, Колортаги и Могнис. С XVI века здесь селились ремесленники, а в XIX веке выросли дома с деревянными балконами и подвалами; один из них — «Синий дом» 1820‑х годов, где позже размещалась редакция «Литературной Грузии». В 2018 году площадь тщательно отреставрировали: укрепили фундаменты, восстановили балконы, раскрыли старые погреба и установили лавочки. Сегодня это место напоминает двор: кругом разноцветные фасады, выкрашенные балконы, цветы в горшках и кафе. Сядьте на лавочку, осмотритесь и почувствуйте, как старый город обретает новую жизнь.",
+            "lookFor": "Деревянные балконы вокруг площади «Синий дом» — жилой дом 1820‑х годов Погреба XVI века, открытые при реставрации",
+            "practical": "Площадь открыта круглосуточно. Здесь работают небольшие кафе и винные бары; по вечерам бывает шумно. Будьте внимательны на ступеньках и в подвальных помещениях, которые иногда открывают для выставок. К площади ведут узкие улицы — можно вернуться к площади Свободы по улице Асатиани или выйти на улицу Амаглеба.",
+            "nextMove": "Маршрут завершён. От площади Гудиашвили вы можете вернуться к площади Свободы за 10 минут или продолжить исследовать соседний район Амаглеба.",
+            "deepDive": [
+              {
+                "title": "Подробнее",
+                "body": "Площадь — редкий уголок, где историческая среда сохранилась практически полностью: несмотря на реставрацию 2018 года, деревянные балконы, расписные двери и погреба XVI века остались на месте. За фасадами скрываются современные квартиры и офисы, но колорит прошлых веков чувствуется в каждой детали."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 41.6913,
+            "longitude": 44.7994
+          },
+          "photo": {
+            "id": "tbilisi-sololaki-bourgeois-houses-stop-9",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Восстановленные дома и деревянные балконы площади Ладо Гудиашвили после реставрации 2018–2021 годов.",
+            "attribution": {
+              "author": "Jelger Groeneveld",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": ").jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "tbilisi-sololaki-bourgeois-houses-cover",
+        "kind": "generated",
+        "wide": "",
+        "square": "",
+        "alt": "Сгенерированная editorial-обложка маршрута «tbilisi-sololaki-bourgeois-houses»"
+      },
+      "basemap": {
+        "image": "",
+        "center": {
+          "latitude": 41.691615,
+          "longitude": 44.800084999999996
+        },
+        "zoom": 16,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture",
+      "routePath": {
+        "coordinates": [
+          [
+            44.801675,
+            41.693582
+          ],
+          [
+            44.801559,
+            41.693721
+          ],
+          [
+            44.801291,
+            41.693937
+          ],
+          [
+            44.801195,
+            41.694035
+          ],
+          [
+            44.801102,
+            41.69414
+          ],
+          [
+            44.801015,
+            41.694261
+          ],
+          [
+            44.800362,
+            41.695201
+          ],
+          [
+            44.800315,
+            41.69528
+          ],
+          [
+            44.800267,
+            41.695379
+          ],
+          [
+            44.800233,
+            41.695475
+          ],
+          [
+            44.800169,
+            41.69566
+          ],
+          [
+            44.800143,
+            41.695735
+          ],
+          [
+            44.800108,
+            41.695809
+          ],
+          [
+            44.800067,
+            41.695883
+          ],
+          [
+            44.79967,
+            41.696452
+          ],
+          [
+            44.799774,
+            41.696494
+          ],
+          [
+            44.799743,
+            41.696539
+          ],
+          [
+            44.799166,
+            41.697448
+          ],
+          [
+            44.799133,
+            41.697498
+          ],
+          [
+            44.7991,
+            41.697548
+          ],
+          [
+            44.798977,
+            41.697656
+          ],
+          [
+            44.798865,
+            41.697816
+          ],
+          [
+            44.798937,
+            41.697842
+          ],
+          [
+            44.798974,
+            41.697855
+          ],
+          [
+            44.799095,
+            41.6979
+          ],
+          [
+            44.799176,
+            41.697778
+          ],
+          [
+            44.799201,
+            41.697787
+          ],
+          [
+            44.799245,
+            41.697804
+          ],
+          [
+            44.799276,
+            41.697815
+          ],
+          [
+            44.799405,
+            41.697863
+          ],
+          [
+            44.799378,
+            41.697903
+          ],
+          [
+            44.799378,
+            41.697903
+          ],
+          [
+            44.799405,
+            41.697863
+          ],
+          [
+            44.799276,
+            41.697815
+          ],
+          [
+            44.799245,
+            41.697804
+          ],
+          [
+            44.799201,
+            41.697787
+          ],
+          [
+            44.799176,
+            41.697778
+          ],
+          [
+            44.799095,
+            41.6979
+          ],
+          [
+            44.798974,
+            41.697855
+          ],
+          [
+            44.798937,
+            41.697842
+          ],
+          [
+            44.798865,
+            41.697816
+          ],
+          [
+            44.798977,
+            41.697656
+          ],
+          [
+            44.799061,
+            41.697686
+          ],
+          [
+            44.798999,
+            41.697779
+          ],
+          [
+            44.798518,
+            41.697591
+          ],
+          [
+            44.798601,
+            41.697473
+          ],
+          [
+            44.798672,
+            41.697503
+          ],
+          [
+            44.798684,
+            41.697487
+          ],
+          [
+            44.798716,
+            41.697441
+          ],
+          [
+            44.798761,
+            41.697379
+          ],
+          [
+            44.798971,
+            41.697072
+          ],
+          [
+            44.799192,
+            41.69674
+          ],
+          [
+            44.799018,
+            41.696672
+          ],
+          [
+            44.799012,
+            41.696662
+          ],
+          [
+            44.799004,
+            41.69665
+          ],
+          [
+            44.798816,
+            41.696575
+          ],
+          [
+            44.798745,
+            41.696547
+          ],
+          [
+            44.798625,
+            41.696499
+          ],
+          [
+            44.798625,
+            41.696499
+          ],
+          [
+            44.798745,
+            41.696547
+          ],
+          [
+            44.798816,
+            41.696575
+          ],
+          [
+            44.799004,
+            41.69665
+          ],
+          [
+            44.799012,
+            41.696662
+          ],
+          [
+            44.799018,
+            41.696672
+          ],
+          [
+            44.799192,
+            41.69674
+          ],
+          [
+            44.798971,
+            41.697072
+          ],
+          [
+            44.798761,
+            41.697379
+          ],
+          [
+            44.798716,
+            41.697441
+          ],
+          [
+            44.798684,
+            41.697487
+          ],
+          [
+            44.798672,
+            41.697503
+          ],
+          [
+            44.798601,
+            41.697473
+          ],
+          [
+            44.798518,
+            41.697591
+          ],
+          [
+            44.798999,
+            41.697779
+          ],
+          [
+            44.799061,
+            41.697686
+          ],
+          [
+            44.798977,
+            41.697656
+          ],
+          [
+            44.798865,
+            41.697816
+          ],
+          [
+            44.79878,
+            41.697954
+          ],
+          [
+            44.798607,
+            41.698222
+          ],
+          [
+            44.798607,
+            41.698222
+          ],
+          [
+            44.798409,
+            41.698528
+          ],
+          [
+            44.798336,
+            41.698629
+          ],
+          [
+            44.798277,
+            41.6987
+          ],
+          [
+            44.798217,
+            41.69878
+          ],
+          [
+            44.798051,
+            41.698994
+          ],
+          [
+            44.797851,
+            41.699154
+          ],
+          [
+            44.797704,
+            41.699283
+          ],
+          [
+            44.797491,
+            41.699456
+          ],
+          [
+            44.797432,
+            41.699504
+          ],
+          [
+            44.797374,
+            41.699552
+          ],
+          [
+            44.79635,
+            41.700409
+          ],
+          [
+            44.796329,
+            41.700426
+          ],
+          [
+            44.796306,
+            41.700444
+          ],
+          [
+            44.79624,
+            41.700497
+          ],
+          [
+            44.796201,
+            41.70053
+          ],
+          [
+            44.796271,
+            41.70058
+          ],
+          [
+            44.796296,
+            41.700598
+          ],
+          [
+            44.796325,
+            41.700618
+          ],
+          [
+            44.796397,
+            41.700667
+          ],
+          [
+            44.796407,
+            41.700685
+          ],
+          [
+            44.796403,
+            41.700701
+          ],
+          [
+            44.796386,
+            41.700718
+          ],
+          [
+            44.796324,
+            41.700765
+          ],
+          [
+            44.796422,
+            41.700837
+          ],
+          [
+            44.796343,
+            41.700895
+          ],
+          [
+            44.796468,
+            41.700986
+          ],
+          [
+            44.796468,
+            41.700986
+          ],
+          [
+            44.796343,
+            41.700895
+          ],
+          [
+            44.796422,
+            41.700837
+          ],
+          [
+            44.796324,
+            41.700765
+          ],
+          [
+            44.796386,
+            41.700718
+          ],
+          [
+            44.796403,
+            41.700701
+          ],
+          [
+            44.796407,
+            41.700685
+          ],
+          [
+            44.796397,
+            41.700667
+          ],
+          [
+            44.796325,
+            41.700618
+          ],
+          [
+            44.796296,
+            41.700598
+          ],
+          [
+            44.796271,
+            41.70058
+          ],
+          [
+            44.796201,
+            41.70053
+          ],
+          [
+            44.79624,
+            41.700497
+          ],
+          [
+            44.796306,
+            41.700444
+          ],
+          [
+            44.796329,
+            41.700426
+          ],
+          [
+            44.79664,
+            41.700657
+          ],
+          [
+            44.796688,
+            41.700691
+          ],
+          [
+            44.796738,
+            41.700693
+          ],
+          [
+            44.79678,
+            41.700675
+          ],
+          [
+            44.796922,
+            41.700566
+          ],
+          [
+            44.797061,
+            41.700486
+          ],
+          [
+            44.797265,
+            41.700361
+          ],
+          [
+            44.797358,
+            41.700323
+          ],
+          [
+            44.79744,
+            41.700319
+          ],
+          [
+            44.797493,
+            41.700333
+          ],
+          [
+            44.797698,
+            41.70003
+          ],
+          [
+            44.797698,
+            41.70003
+          ],
+          [
+            44.797493,
+            41.700333
+          ],
+          [
+            44.79744,
+            41.700319
+          ],
+          [
+            44.797358,
+            41.700323
+          ],
+          [
+            44.797265,
+            41.700361
+          ],
+          [
+            44.797061,
+            41.700486
+          ],
+          [
+            44.796922,
+            41.700566
+          ],
+          [
+            44.79678,
+            41.700675
+          ],
+          [
+            44.796738,
+            41.700693
+          ],
+          [
+            44.796688,
+            41.700691
+          ],
+          [
+            44.79664,
+            41.700657
+          ],
+          [
+            44.796329,
+            41.700426
+          ],
+          [
+            44.796306,
+            41.700444
+          ],
+          [
+            44.79624,
+            41.700497
+          ],
+          [
+            44.796201,
+            41.70053
+          ],
+          [
+            44.796029,
+            41.700674
+          ],
+          [
+            44.795845,
+            41.700833
+          ],
+          [
+            44.795659,
+            41.700986
+          ],
+          [
+            44.795499,
+            41.701113
+          ],
+          [
+            44.795419,
+            41.701177
+          ],
+          [
+            44.795357,
+            41.701224
+          ],
+          [
+            44.795296,
+            41.701272
+          ],
+          [
+            44.795215,
+            41.701337
+          ],
+          [
+            44.794643,
+            41.701799
+          ],
+          [
+            44.794597,
+            41.701837
+          ],
+          [
+            44.794448,
+            41.701958
+          ],
+          [
+            44.79425,
+            41.702118
+          ],
+          [
+            44.793869,
+            41.702428
+          ],
+          [
+            44.793151,
+            41.703054
+          ],
+          [
+            44.793089,
+            41.703112
+          ],
+          [
+            44.793039,
+            41.703159
+          ],
+          [
+            44.792826,
+            41.703397
+          ],
+          [
+            44.792779,
+            41.703409
+          ],
+          [
+            44.792664,
+            41.703507
+          ],
+          [
+            44.792524,
+            41.703628
+          ],
+          [
+            44.792516,
+            41.703634
+          ],
+          [
+            44.792511,
+            41.703638
+          ],
+          [
+            44.792489,
+            41.703654
+          ],
+          [
+            44.792479,
+            41.703662
+          ],
+          [
+            44.792301,
+            41.703814
+          ],
+          [
+            44.792283,
+            41.703828
+          ]
+        ],
+        "maneuvers": [
+          {
+            "location": [
+              44.801675,
+              41.693582
+            ],
+            "instruction": "Walk northwest on თავისუფლების მოედანი.",
+            "distanceM": 361,
+            "type": ""
+          },
+          {
+            "location": [
+              44.79967,
+              41.696452
+            ],
+            "instruction": "Turn right onto ანტონ ფურცელაძის ქუჩა.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799774,
+              41.696494
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 166,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798865,
+              41.697816
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798937,
+              41.697842
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798974,
+              41.697855
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799095,
+              41.6979
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799201,
+              41.697787
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799245,
+              41.697804
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799405,
+              41.697863
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799378,
+              41.697903
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799378,
+              41.697903
+            ],
+            "instruction": "Walk southeast on the walkway.",
+            "distanceM": 5,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799405,
+              41.697863
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799245,
+              41.697804
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 4,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799201,
+              41.697787
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 17,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799095,
+              41.6979
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798974,
+              41.697855
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 3,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798937,
+              41.697842
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798865,
+              41.697816
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798977,
+              41.697656
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799061,
+              41.697686
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798999,
+              41.697779
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798518,
+              41.697591
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798601,
+              41.697473
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798672,
+              41.697503
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 94,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799192,
+              41.69674
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798816,
+              41.696575
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798745,
+              41.696547
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798625,
+              41.696499
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798625,
+              41.696499
+            ],
+            "instruction": "Walk northeast on the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798745,
+              41.696547
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798816,
+              41.696575
+            ],
+            "instruction": "Continue on the walkway.",
+            "distanceM": 37,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799192,
+              41.69674
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 95,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798672,
+              41.697503
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 7,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798601,
+              41.697473
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 15,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798518,
+              41.697591
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 45,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798999,
+              41.697779
+            ],
+            "instruction": "Take the stairs.",
+            "distanceM": 12,
+            "type": ""
+          },
+          {
+            "location": [
+              44.799061,
+              41.697686
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 8,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798977,
+              41.697656
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 70,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798607,
+              41.698222
+            ],
+            "instruction": "Your destination is on the right.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.798607,
+              41.698222
+            ],
+            "instruction": "Walk northwest on the walkway.",
+            "distanceM": 327,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796201,
+              41.70053
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796324,
+              41.700765
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796422,
+              41.700837
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796343,
+              41.700895
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796468,
+              41.700986
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796468,
+              41.700986
+            ],
+            "instruction": "Walk southwest on the walkway.",
+            "distanceM": 14,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796343,
+              41.700895
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 9,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796422,
+              41.700837
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 11,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796324,
+              41.700765
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 36,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796201,
+              41.70053
+            ],
+            "instruction": "Turn left onto the walkway.",
+            "distanceM": 16,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796329,
+              41.700426
+            ],
+            "instruction": "Turn left onto ვასო აბაშიძის ქუჩა.",
+            "distanceM": 124,
+            "type": ""
+          },
+          {
+            "location": [
+              44.797493,
+              41.700333
+            ],
+            "instruction": "Turn right onto ვასო აბაშიძის I ჩიხი.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              44.797698,
+              41.70003
+            ],
+            "instruction": "You have arrived at your destination.",
+            "distanceM": 0,
+            "type": ""
+          },
+          {
+            "location": [
+              44.797698,
+              41.70003
+            ],
+            "instruction": "Walk northwest on ვასო აბაშიძის I ჩიხი.",
+            "distanceM": 38,
+            "type": ""
+          },
+          {
+            "location": [
+              44.797493,
+              41.700333
+            ],
+            "instruction": "Turn left onto ვასო აბაშიძის ქუჩა.",
+            "distanceM": 124,
+            "type": ""
+          },
+          {
+            "location": [
+              44.796329,
+              41.700426
+            ],
+            "instruction": "Turn right onto the walkway.",
+            "distanceM": 229,
+            "type": ""
+          },
+          {
+            "location": [
+              44.794448,
+              41.701958
+            ],
+            "instruction": "Keep left to take the walkway.",
+            "distanceM": 210,
+            "type": ""
+          },
+          {
+            "location": [
+              44.792826,
+              41.703397
+            ],
+            "instruction": "Keep left to take the walkway.",
+            "distanceM": 66,
+            "type": ""
+          },
+          {
+            "location": [
+              44.792283,
+              41.703828
+            ],
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
+            "type": ""
+          }
+        ],
+        "source": {
+          "engine": "geoapify",
+          "profile": "walk",
+          "generatedAt": "2026-06-24T01:11:23.992Z"
+        }
+      },
+      "cityId": "tbilisi",
+      "category": "Район",
+      "title": "Руставели: бульвар сцены и государства",
+      "subtitle": "Одна ось про театр, музей, парламент, церковь и политическую память.",
+      "blurb": "По главной улице Тбилиси стоят все роли государства – культура, вера и власть. Этот маршрут собирает их в последовательный рассказ: от колонны Свободы до Площади Первой Республики, где сегодня проходят церемонии и митинги.",
+      "mood": "культура и история",
+      "accent": "#33A37A",
+      "soft": "#E3F2ED",
+      "deep": "#237658",
+      "ink": "#22624B",
+      "motif": "lane",
+      "duration": "2–3 часа",
+      "stops": 7,
+      "distance": "~1,5 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Проспект – как театральная сцена",
+        "line": "На Руставели каждое здание говорит о времени, и вы слышите этот диалог ногами."
+      },
+      "content": {
+        "intro": "Грузинская столица выросла вдоль рек и холмов, но вся публичная жизнь до сих пор проходит по одной оси. Проспект Руставели – это театр под открытым небом: здесь стоят парламенты и галереи, церкви и театры, здесь празднуют и протестуют. Пешая прогулка по проспекту от востока к западу позволяет буквально прочитать историю страны: имперский проект, национальное возрождение, советская монументальность и современная независимость. Маршрут начинается на Площади Свободы, где золочёная фигура Святого Георгия взмывает в небо, и заканчивается на Площади Первой Республики, окружённой стеклом и бетоном. Между ними – церковь Кашвети, Парламент, Национальная галерея, Оперный и драматический театры. На каждом шагу вы видите, как культура и политика переплетаются.",
+        "routeLogic": "Двигаться проще всего по правой стороне проспекта (нечетные номера домов), переходя дорогу у официальных переходов. После Площади Свободы вы сразу окажетесь у церкви Кашвети; напротив – здание Парламента и мемориал 9 апреля. Чуть дальше по правой стороне находится Национальная галерея; за ней через дорогу высится оперный театр. Ещё 200 метров – и вы у Театра им. Руставели. Финальный переход выводит на Площадь Первой Республики. Такой линейный маршрут без возвратов помогает увидеть улицу как временную шкалу.",
+        "bestFor": "любителям истории ценителям архитектуры тем, кто хочет понять современную Грузию",
+        "notFor": "тем, кого утомляют большие проспекты тех, кто избегает политических тем",
+        "beforeYouGo": "Музеи и театры по пути закрыты по понедельникам и днём на репетиции; актуальные часы смотрите на сайтах. В период митингов часть проспекта может перекрывать полиция – тогда будьте готовы обойти по соседним улицам. Зайти в церковь можно в будни и выходные, но надо соблюдать дресс‑код (плечи закрыты, у женщин платок).",
+        "timing": "Летом – утром или вечером, когда не так жарко; зимой – днём для большего света. Планируйте 20–30 минут на остановки у каждой точки и ещё время, если захотите зайти на выставку или купить билеты.",
+        "fallbackPlan": "Если галерея или театры закрыты, маршрут всё равно остаётся ценным – можно рассмотреть фасады, зайти в соседние кафетерии или свернуть в старый город, который начинается за углом Площади Свободы."
+      },
+      "stopList": [
+        {
+          "id": "tbilisi-rustaveli-state-culture-1",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 1,
+          "name": "Площадь Свободы",
+          "note": "Колонна с золотым Святым Георгием на месте бывшего плаца",
+          "time": "15 мин",
+          "walk": "Следуйте вдоль правой стороны проспекта Руставели примерно 200 метров до светлого здания с крестовым куполом – это церковь Кашвети.",
+          "content": {
+            "context": "Встаньте около гранитного подиума в центре площади и запрокиньте голову – над вами парит 40‑метровая колонна с позолоченной фигурой Святого Георгия, поражающего змея. Скульптура была установлена в 2006 году скульптором Зурабом Церетели и стала символом свободы страны. Но сама площадь меняла названия как витки истории: в XIX веке её называли Эриванской или Пашкевичской, в годы Российской империи здесь была штабная площадь, в советское время – площадь Ленина, а с 1918 года – площадь Свободы. Повернитесь к зданию мэрии с часовой башней: эта угловая конструкция напоминает, что площадь всегда была административным центром. По другую сторону видны фасады художественного музея и торговых рядов – недавно отреставрированные арки соседствуют с современными вывесками. В центре – поток машин, который вам предстоит пересечь, чтобы начать прогулку по проспекту. Это место стало местом встреч и разрывов: здесь объявляли независимость и проводили военные парады, здесь же в 2019 году собирались протестующие против реформ. Контраст между блеском колонны и шумом движения напоминает, что свобода – процесс, а не статуя.",
+            "lookFor": "позолоченная фигура Святого Георгия угловая башня мэрии названия улиц на фасадах",
+            "practical": "Переходите проспект только по подземному или наземному переходу – движение очень оживлённое. Вокруг много кафе, где можно купить воду. Возьмите солнцезащитный крем в ясную погоду.",
+            "nextMove": "Следуйте вдоль правой стороны проспекта Руставели примерно 200 метров до светлого здания с крестовым куполом – это церковь Кашвети.",
+            "deepDive": [
+              {
+                "title": "История колонны",
+                "body": "Статуя Святого Георгия создана Зурабом Церетели и отлита в бронзе. Она заменяет монумент Ленину, который стоял здесь до 1991 года. Установка новой колонны стала символом постсоветского возрождения."
+              }
+            ],
+            "sourceNote": "История названий и установки колонны взяты из официального гида Georgia Travel и путеводителя Evendo."
+          },
+          "entry": "свободно",
+          "nameLocal": "თავისუფლების მოედანი",
+          "coordinates": {
+            "latitude": 41.6935166,
+            "longitude": 44.8015352
+          },
+          "hours": {
+            "rules": [],
+            "summary": "круглосуточно"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-1",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Площадь Свободы в Тбилиси с колонной Св. Георгия",
+            "attribution": {
+              "author": "anjči",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-2",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 2,
+          "name": "Кашветская церковь",
+          "note": "Легенда о каменном младенце оживает у алтаря",
+          "time": "20 мин",
+          "walk": "Перейдите через проспект по зебре к колоннаде Парламента – следующей остановке.",
+          "content": {
+            "context": "На небольшом отступе от шумного проспекта возвышается строгий светло‑серый храм с крестовым куполом. Это Кашветская церковь, построенная в 1904–1910 годах по проекту архитектора Леопольда Бильфельдта, который взял за образец средневековый собор Самтависи. Местные жители рассказывают легенду: в VI веке пустынник Давид Гареджели пришёл в Тбилиси. Его обвинили в том, что он якобы соблазнил женщину. Давид ответил: «Если я виновен, ты родишь ребёнка, если нет – камень». Женщина родила камень, и место назвали «ка швети» – «родить камень». Подойдите ближе и рассмотрите резной камень фасада – мотивы виноградной лозы и крылатых животных отсылают к грузинской резной школе. Внутри вас встречают тёплые восковые свечи и мощные фрески художника Ладо Гудиашвили. Он расписал храм в 1947 году методом энкаустики: фигуры Богоматери и грузинских святых словно выходят из золотистого фона. Прямо напротив церкви расположен Парламент. Это соседство подчёркивает контраст между молитвой и политикой: один и тот же тротуар ведёт в храм и к дверям законодательного собрания. Вы стоите на границе двух миров, которые на проспекте Руставели существуют бок о бок.",
+            "lookFor": "рельефы виноградной лозы фрески Ладо Гудиашвили икона святого Давида Гареджели",
+            "practical": "Храм открыт для прихожан весь день, но заходите, когда не проходит служба. Женщинам желательно покрыть голову, мужчинам – снять головной убор. Не забывайте, что это действующий храм, поэтому ведите себя тихо.",
+            "nextMove": "Перейдите через проспект по зебре к колоннаде Парламента – следующей остановке.",
+            "deepDive": [
+              {
+                "title": "Фрески Ладо Гудиашвили",
+                "body": "Грузинский художник Ладо Гудиашвили использовал древнюю технику энкаустики, нанося краску расплавленным воском, благодаря чему образы святых на стенах Кашвети приобретают мягкий, почти трёхмерный объём."
+              }
+            ],
+            "sourceNote": "Легенда, даты строительства и сведения о росписи взяты из портала Georgia Travel."
+          },
+          "entry": "свободно",
+          "nameLocal": "ქაშვეთის ეკლესია",
+          "coordinates": {
+            "latitude": 41.6979889,
+            "longitude": 44.7993153
+          },
+          "hours": {
+            "rules": [],
+            "summary": "ежедневно, приблизительно 08:00–19:00; богослужения проходят утром и вечером"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-2",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад церкви Кашвети на проспекте Руставели в Тбилиси.",
+            "attribution": {
+              "author": "miss_rubov / Monika",
+              "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-3",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 3,
+          "name": "Парламент Грузии",
+          "note": "Колоннада, за которой решают судьбу страны",
+          "time": "15 мин",
+          "walk": "Идите по проспекту ещё 100 метров до здания с колонной и голубой ротондой – это Национальная галерея.",
+          "content": {
+            "context": "Вы стоите напротив мощной галереи из 16 арок, облицованных золотистым туфом. Это здание Парламента Грузии – два корпуса, построенных в 1938 и 1953 годах на месте собора Александра Невского. Архитекторы В. Кокорин, Г. Лежава и И. Насаридзе использовали мотивы старой грузинской архитектуры: массивные колонны напоминают древние храмы, а барельефы украшают входы. За этой красивой оболочкой скрывается драматическая история. В ночь на 9 апреля 1989 года у входа в парламент прошёл мирный митинг за независимость. Солдаты советской армии разогнали демонстрацию, погибли 21 человек – их имена выбиты на мемориальной плите у входа. С тех пор площадь перед парламентом стала символом борьбы за свободу: здесь проходили акции 1991–92 годов, Революции роз в 2003‑м, протесты 2007‑го и 2019‑го. Если присмотреться, можно заметить сохранившиеся части старого храма: фрагменты белого камня в цоколе. Парламент несколько лет находился в городе Кутаиси, но в 2019 году снова вернулся в историческое здание на Руставели. Сегодня здесь проходят заседания, а на лестнице регулярно собираются манифестации. Постойте пару минут, чтобы почувствовать дыхание истории и увидеть, как мраморные колонны становятся трибуной.",
+            "lookFor": "мемориальная плита 9 апреля золотистый туф фасада фрагменты разрушенного собора",
+            "practical": "Сфотографировать фасад можно с тротуара перед зданием. Подходы охраняют полицейские, и во время заседаний доступ может быть ограничен. Если идёт митинг, соблюдайте дистанцию.",
+            "nextMove": "Идите по проспекту ещё 100 метров до здания с колонной и голубой ротондой – это Национальная галерея.",
+            "deepDive": [
+              {
+                "title": "Собор на месте парламента",
+                "body": "До революции 1930‑х годов на этом месте стоял Александр Невский собор – памятник русским солдатам. Советские власти снесли собор, чтобы построить Дом правительства. Эта история объясняет, почему колоссальное здание парламента выглядит как храм – оно построено, чтобы заменить храм."
+              }
+            ],
+            "sourceNote": "Описание архитектуры и трагических событий взяты из Georgian Travel Guide и обзора Radio Free Europe/Radio Liberty."
+          },
+          "entry": "снаружи",
+          "nameLocal": "საქართველოს პარლამენტი",
+          "coordinates": {
+            "latitude": 41.6966415,
+            "longitude": 44.7985233
+          },
+          "hours": {
+            "rules": [],
+            "summary": "доступно для обозрения снаружи круглосуточно; внутрь можно попасть лишь по приглашению или в дни открытых дверей"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-3",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад здания парламента Грузии на проспекте Руставели.",
+            "attribution": {
+              "author": "Kober",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-4",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 4,
+          "name": "Национальная галерея",
+          "note": "Голубая галерея и 54 картины Пиросмани",
+          "time": "30 мин",
+          "walk": "Вернитесь на проспект и перейдите к коричневому зданию с полосатым фасадом напротив – это Оперный театр.",
+          "content": {
+            "context": "Перед вами невысокий особняк с резным порталом, который долгое время называли «голубой галереей». Здание было возведено в 1888 году по инициативе русских властей как Военно‑исторический музей, но уже в 1920‑м художник Дмитрий Шеварднадзе добился открытия здесь Национальной картинной галереи. Стены когда‑то были окрашены в ярко‑синий цвет, отсюда и прозвище. Внутри два зала под стеклянными крышами. В них хранятся более 30 000 произведений грузинского искусства: от иконописных досок до модернистских полотен. Главная сокровищница – 54 картины самоучки Нико Пиросмани, автора наивных изображений крестьян и зверей. Обновлённая экспозиция открылась после длительной реконструкции весной 2026 года, поэтому внутри всё выглядит свежо. Постояв у входа, обратите внимание на колонны с необычными «перевернутыми» капителями – этот мотив заимствован из древних грузинских церквей. По соседству работает кафе и книжный магазин, где можно купить репродукции Пиросмани. Галерея служит тихой паузой в шумном проспекте, напоминает, что грузинская культура всегда остаётся в центре.",
+            "lookFor": "«перевёрнутые» капители портала стеклянные потолки залов картины Нико Пиросмани",
+            "practical": "Билеты покупают в кассе в фойе. По понедельникам галерея закрыта. Экскурсии на английском языке стоят дополнительно около 45 GEL. Фотографировать можно без вспышки.",
+            "nextMove": "Вернитесь на проспект и перейдите к коричневому зданию с полосатым фасадом напротив – это Оперный театр.",
+            "deepDive": [
+              {
+                "title": "Нико Пиросмани",
+                "body": "Самоучка Нико Пиросмани (1862–1918) стал известен только после смерти. Его работы изображают сцены из жизни трактирщиков, цирковых артистов и животных. В 2026 году галерея открыла постоянную экспозицию его произведений."
+              }
+            ],
+            "sourceNote": "История здания и часы работы подтверждены сайтом Georgian Holidays и блогом Wander‑Lush."
+          },
+          "entry": "по билету",
+          "nameLocal": "ეროვნული გალერეა",
+          "coordinates": {
+            "latitude": 41.6982994,
+            "longitude": 44.7988204
+          },
+          "hours": {
+            "rules": [],
+            "summary": "вт–вс 10:00–18:00, пн – выходной; билет около 25 GEL"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-4",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Фасад Национальной галереи Грузии на проспекте Руставели.",
+            "attribution": {
+              "author": "Kober",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-5",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 5,
+          "name": "Грузинский театр оперы и балета",
+          "note": "Мавританские арки, где звучит опера",
+          "time": "20 мин",
+          "walk": "Идите по проспекту ещё 200 метров к зданию с муралами и арочными окнами – это Театр имени Шота Руставели.",
+          "content": {
+            "context": "Полосатый фасад из кирпича и штукатурки, арки в форме подковы, восточные орнаменты – такое увидишь не в каждом европейском городе. Тбилисский оперный театр возник по воле наместника Кавказа Михаила Воронцова, который решил привнести высокое искусство в провинциальный Тифлис. Итальянский архитектор Джованни Скудьери построил первое деревянное здание, и 12 апреля 1851 года театр открылся маскарадным балом. Первый оперный спектакль «Абуладзе и Этери» состоялся через несколько месяцев. В 1874 году деревянная сцена сгорела, и на её месте возвели нынешнее каменное здание в мавританском стиле. Внутри – золотые балконы, мозаичные залы и лестницы, расписанные мотивами Востока. Сегодня театр снова переживает ренессанс: после масштабной реконструкции 2016 года здесь ставят как классические, так и современные постановки. Стойте напротив главного входа и представьте, как в конце XIX века сюда подъезжали кареты. Вечером фасад подсвечивается, и его полосатый рисунок становится ещё ярче.",
+            "lookFor": "мавританские арки фасада полосатая кладка бронзовые балконы над входом",
+            "practical": "Чтобы попасть внутрь, покупайте билеты заранее на сайте opera.ge или в кассах. Фотографировать спектакль запрещено. Во время постановок вход закрывают, опоздавших не пускают.",
+            "nextMove": "Идите по проспекту ещё 200 метров к зданию с муралами и арочными окнами – это Театр имени Шота Руставели.",
+            "deepDive": [
+              {
+                "title": "Пожар 1874 года",
+                "body": "Старое здание оперы, построенное из дерева, было уничтожено пожаром 11 октября 1874 года. В результате город потерял главную сцену на несколько лет, пока не было возведено новое здание."
+              }
+            ],
+            "sourceNote": "История создания театра и детали фасада взяты из исследовательского сайта Museum Studies Abroad."
+          },
+          "entry": "по билету",
+          "nameLocal": "თბილისის ოპერისა და ბალეტის თეატრი",
+          "coordinates": {
+            "latitude": 41.7011065,
+            "longitude": 44.7963095
+          },
+          "hours": {
+            "rules": [],
+            "summary": "кассы обычно работают с 11:00 до 19:00, спектакли – вечером; график уточняйте на opera.ge"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-5",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Оперный театр в Тбилиси вечером, подсвеченный огнями",
+            "attribution": {
+              "author": "en:User:UltioUltionis",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-6",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 6,
+          "name": "Театр Руставели",
+          "note": "Зал, где грузинский драматургия обрела дом",
+          "time": "20 мин",
+          "walk": "Идите до западного конца проспекта, где большой перекрёсток и стеклянные башни – это Площадь Первой Республики.",
+          "content": {
+            "context": "Слегка отступив от проезжей части, вы увидите высокое здание с округлыми арками и богато украшенными наружными стенами. Дом был построен в 1899 году как клуб Тифлисского художественного общества и носил барочно‑рокайльный характер. После Советской революции, в 1921 году, театр получил имя средневекового поэта Шота Руставели. Фасады расписаны изображениями мифических существ и сцен из грузинских эпосов; внутри – великолепный зрительный зал с лепниной и зеркалами. Финансировал строительство меценат Александр Манташев, благодаря которому театр стал центром грузинской драмы. Здесь ставили пьесы Коте Марджанишвили, Роберта Стуруа и других режиссёров. Постояв у входа, присмотритесь к витражам и металлическим фигурам на крыше. Театр пережил многочисленные ремонты, но сохранил своё очарование. Его богатая отделка напоминает, что культура для грузин была не роскошью, а необходимостью.",
+            "lookFor": "муралы с мифическими существами витражи над входом позолоченные лепные детали",
+            "practical": "Афиша регулярно меняется; билеты лучше покупать заранее на сайте театра. Англоязычные субтитры бывают не на всех постановках. В фойе есть небольшой бар.",
+            "nextMove": "Идите до западного конца проспекта, где большой перекрёсток и стеклянные башни – это Площадь Первой Республики.",
+            "deepDive": [
+              {
+                "title": "Переименование 1921 года",
+                "body": "Театр получил имя Шота Руставели по решению революционного комитета 25 ноября 1921 года. С тех пор он считается главным драматическим театром страны. Слегка отступив от проезжей части, вы увидите высокое здание с округлыми арками и богато украшенными наружными стенами. Дом был построен в 1899 году как клуб Тифлисского художественного общества и носил барочно‑рокайльный характер. После Советской революции, в 1921 году, театр получил имя средневекового поэта Шота Руставели. Фасады расписаны изображениями мифических существ и сцен из грузинских эпосов; внутри – великолепный зрительный зал с лепниной и зеркалами. Финансировал строительство меценат Александр Манташев, благодаря которому театр стал центром грузинской драмы. Здесь ставили пьесы Коте Марджанишвили, Роберта Стуруа и других режиссёров. Постояв у входа, присмотритесь к витражам и металлическим фигурам на крыше. Театр пережил многочисленные ремонты, но сохранил своё очарование. Его богатая отделка напоминает, что культура для грузин была не роскошью, а необходимостью."
+              }
+            ],
+            "sourceNote": "Сведения о постройке театра и его декоре взяты из портала Advantour."
+          },
+          "entry": "по билету",
+          "nameLocal": "რუსთაველის თეატრი",
+          "coordinates": {
+            "latitude": 41.6998334,
+            "longitude": 44.797949
+          },
+          "hours": {
+            "rules": [],
+            "summary": "спектакли вечером; расписание и билеты смотрите на rustavelitheatre.ge"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-6",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Главный фасад театра имени Шота Руставели в Тбилиси.",
+            "attribution": {
+              "author": "Alsandro",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "),_Tbilisi.JPG",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        },
+        {
+          "id": "tbilisi-rustaveli-state-culture-7",
+          "guideId": "tbilisi-rustaveli-state-culture",
+          "order": 7,
+          "name": "Площадь Первой Республики",
+          "note": "Фонтан, переименованный в честь первой независимости",
+          "time": "15 мин",
+          "walk": "-",
+          "content": {
+            "context": "На западном конце проспекта дорога выходит на большую открытую площадь, окружённую современными гостиницами и торговыми центрами. В центре – бетонная чаша с замершей струёй, известная как «Замёрзший фонтан». Этот объект был частью недостроенного проекта огромного мемориального комплекса архитектора Отари Каландаришвили, который появился здесь в 1983 году и служил парадной площадкой для советских шествий. После демонтажа трибун в 2005 году площадь переименовали в «Площадь Розовой революции», вспоминая протесты 2003 года. А 25 мая 2018 года, в столетие Демократической Республики Грузия, городской совет присвоил ей новое имя – Площадь Первой Республики. Сейчас здесь проходит новогодняя ёлка и праздничные концерты, отсюда стартуют многотысячные марши. В отчётах правозащитных организаций отмечается, что марш в защиту «традиционных ценностей» в июле 2021 года начал своё движение именно отсюда. Посмотрите на высокую стеклянную башню Билтмор‑отеля: она отражает весь проспект, как зеркало. Под землёй находится станция метро «Rustaveli», через которую можно уехать в разные части города. Площадь кажется безликой, но её постоянные переименования и функции говорят о том, как меняется страна: от советского парадного пространства через революционные лозунги к осмыслению собственной истории.",
+            "lookFor": "«Замёрзший фонтан» стеклянная башня Билтмор‑отеля вход в метро Rustaveli",
+            "practical": "Перекрёсток очень оживлён; пользуйтесь подземными переходами. В тёплое время года здесь ставят сцену для концертов. Осмотр площади свободный, но будьте внимательны во время митингов и массовых мероприятий.",
+            "nextMove": "Ваше путешествие по Руставели заканчивается. Отсюда можно сесть на метро, поймать такси или вернуться пешком в старый город.",
+            "deepDive": [
+              {
+                "title": "Замёрзший фонтан",
+                "body": "Скульптура из бетона в центре площади, напоминающая замороженную струю воды, была частью проекта масштабного фонтана. В советские годы фонтан так и не заработал; теперь он служит абстрактным памятником эпохе модернизма."
+              }
+            ],
+            "sourceNote": "Даты переименования площади и проект «Замёрзшего фонтана» взяты со страницы Silk Hospitality, данные о протестах – из отчёта DRI."
+          },
+          "entry": "свободно",
+          "nameLocal": "პირველი რესპუბლიკის მოედანი",
+          "coordinates": {
+            "latitude": 41.7037765,
+            "longitude": 44.7922087
+          },
+          "hours": {
+            "rules": [],
+            "summary": "круглосуточно"
+          },
+          "photo": {
+            "id": "tbilisi-rustaveli-state-culture-stop-7",
+            "kind": "photo",
+            "wide": "",
+            "square": "",
+            "alt": "Площадь Первой Республики в Тбилиси с бетонным фонтаном и зданиями вокруг",
+            "attribution": {
+              "author": "G.N.",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "",
+              "retrievedAt": "2026-06-24"
+            }
+          }
+        }
+      ],
+      "cover": {
+        "id": "tbilisi-rustaveli-state-culture-cover",
+        "kind": "generated",
+        "wide": "",
+        "square": "",
+        "alt": "Иллюстрация проспекта Руставели с колонной Святого Георгия, театрами и современными зданиями"
+      },
+      "basemap": {
+        "image": "",
+        "center": {
+          "latitude": 41.69864655,
+          "longitude": 44.796871949999996
+        },
+        "zoom": 14.72,
+        "width": 600,
+        "height": 360,
+        "attribution": "© OpenStreetMap contributors"
+      }
     }
   ],
   "locale": "en",
@@ -2304,13 +5249,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-1",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-1-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2018 - Saint George's Church in Tbilisi.jpg",
         "attribution": {
           "author": "Moahim",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2018_-_Saint_George%27s_Church_in_Tbilisi.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2343,13 +5288,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-2",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-2-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Katedra Sioni (08).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Katedra_Sioni_%2808%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2382,13 +5327,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-3-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Juma Mosque of Tbilisi.jpg",
         "attribution": {
           "author": "Reda Kerbouche",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AJuma_Mosque_of_Tbilisi.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2421,13 +5366,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-4-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Łaźnie siarkowe w Abanotubani (04).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_%2804%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2460,13 +5405,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-5-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Abanotubani. View on Chreli Abano and Juma Masjid.jpg",
         "attribution": {
           "author": "Eka Samkharadze",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAbanotubani._View_on_Chreli_Abano_and_Juma_Masjid.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2499,13 +5444,13 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-6-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "Leghvtakhevi or Abanotubani, Tbilisi ლეღვთახევი 02.jpg",
         "attribution": {
           "author": "Mostafa Meraji",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeghvtakhevi_or_Abanotubani%2C_Tbilisi_%E1%83%9A%E1%83%94%E1%83%A6%E1%83%95%E1%83%97%E1%83%90%E1%83%AE%E1%83%94%E1%83%95%E1%83%98_02.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2538,17 +5483,683 @@
       "photo": {
         "id": "tbilisi-old-town-sulfur-narikala-stop-7",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/tbilisi/tbilisi-old-town-sulfur-narikala-stop-7-square.jpg",
+        "wide": "",
+        "square": "",
         "alt": "2014 Tbilisi, Ruiny twierdzy Narikala (01).jpg",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A2014_Tbilisi%2C_Ruiny_twierdzy_Narikala_%2801%29.jpg",
+          "sourceUrl": "",
           "retrievedAt": "2026-06-17"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-1",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 1,
+      "name": "Площадь Свободы",
+      "note": "Сердце города и арена революций",
+      "time": "15 мин",
+      "walk": "От здания мэрии перейдите дорогу к узкому проезду — это начало улицы Галактиона Табидзе.",
+      "content": {
+        "context": "Начните маршрут в центре площади Свободы у высокой колонны со святым Георгием. Отсюда видно, как площадь собирала и рассеивала энергию города. Её план сформировался в 1820‑е годы, когда за пределами старого города возвели штаб армии и классическое здание, позже ставшее духовной семинарией. В 1840‑х появился полицейский участок, а в 1870‑х архитектор Пауль Штерн придал ему псевдомавританский облик с аркадой и башней. С тех пор площадь меняла имена: Паскевич‑Ереванский плац, Театральная, затем Свободы. За вашей спиной начинается проспект Руставели, впереди уходит в глубь Сололаки улица Галактиона Табидзе. В 2006 году здесь установили 40‑метровую колонну со святым Георгием, ставшую новой доминантой. В этом месте проходили митинги и революции XX века, а во время гражданской войны 1990‑х часть зданий была разрушена и заменена современными постройками.",
+        "lookFor": "Статуя святого Георгия на колонне — символ независимости Псевдомавританский фасад мэрии с часовой башней Фонтан и вход в метро в центре площади",
+        "practical": "Площадь открыта круглосуточно. Это оживлённое транспортное кольцо; переходите дороги по светофорам. В подземном переходе есть станция метро, кафе и банкоматы.",
+        "nextMove": "От здания мэрии перейдите дорогу к узкому проезду — это начало улицы Галактиона Табидзе.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Смена имён отражала смену эпох: от имперского Паскевич‑Ереванского плаца до советской площади Ленина и современной Свободы. Псевдомавританский стиль здания мэрии придал площади экзотический облик, контрастирующий с неоклассическими и современными фасадами."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.69333,
+        "longitude": 44.80167
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-1",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Вид на площадь Свободы с колонной Святого Георгия и зданиями по периметру.",
+        "attribution": {
+          "author": "Andrew Milligan sumo",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": ").jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-2",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 2,
+      "name": "Улица Галактиона Табидзе",
+      "note": "Главная артерия Сололаки",
+      "time": "15 мин",
+      "walk": "Через 200 метров от площади ищите дом № 18 с массивными деревянными дверями — это дом братьев Сейлановых.",
+      "content": {
+        "context": "Из шумной площади вы ныряете в каньон улицы Галактиона Табидзе. Пастельные фасады украшены лепниной, балконы отбрасывают кружевные тени, за окнами сушится бельё. Улица была проложена во второй половине XIX века, когда Сололаки застраивался сеткой прямых улиц и превращался в буржуазный квартал. После революции её назвали в честь поэта Акаки Церетели, а позже — поэта‑символиста Галактиона Табидзе; старожилы до сих пор говорят «Галактиони». Здесь европейские стили сочетаются с деревянными балконами и коваными козырьками, а за тяжелыми дверями скрываются мозаики и витражи. Обращайте внимание на мемориальные таблички: многие дома принадлежали купцам, инженерам и артистам.",
+        "lookFor": "Таблички с фамилиями старых владельцев Кружевные балконы и фигурные козырьки Приоткрытые двери с мозаичными полами внутри",
+        "practical": "Улица открыта круглосуточно. Тротуары узкие, а движение одностороннее; будьте внимательны. За парадными дверями находятся частные квартиры — не заходите без разрешения и не фотографируйте людей.",
+        "nextMove": "Через 200 метров от площади ищите дом № 18 с массивными деревянными дверями — это дом братьев Сейлановых.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Сетка Сололаки была частью градостроительной реформы 1860–1890‑х годов. Ширина улиц определяла статус домов: на Табидзе селились богатые, а параллельные переулки оставались народными. Смена названий отражает литературные пристрастия города."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.69143,
+        "longitude": 44.80123
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-2",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Участок улицы Галактиона Табидзе с пастельными фасадами и деревянными балконами.",
+        "attribution": {
+          "author": "Kober",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": ").jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-3",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 3,
+      "name": "Дом братьев Сейлановых (ул. Табидзе, 18)",
+      "note": "Табачный особняк с мозаиками",
+      "time": "15 мин",
+      "walk": "Продолжайте идти в сторону холма до кремового дома с богатой лепниной — это доходный дом Тер‑Акоповой под № 24.",
+      "content": {
+        "context": "Стоя у входа в дом № 18, обратите внимание на мозаичный пол с надписью «Братья Сейлановы». Этот доходный дом построили в 1911 году для табачных торговцев. За тяжёлой дверью скрывается парадная со витражным потолком и росписью «Континенты» — художники изобразили Африку, Америку и Европу, чтобы подчеркнуть глобальные связи бизнеса. Дом был типичным примером раннего XX века: снаружи строгий модерн, внутри — восточная роскошь. После революции его превратили в коммунальные квартиры, многие детали утратили; сегодня от богатства осталось несколько мозаик и витражей, которые можно увидеть лишь мельком.",
+        "lookFor": "Мозаичный пол с фамилией «Сейлановы» Витражный купол над лестницей Фрески с аллегориями континентов",
+        "practical": "Дом жилой, вход внутрь только по приглашению жильцов. Дверь иногда открыта для проветривания; можно заглянуть с порога, но не заходите глубже и не фотографируйте людей.",
+        "nextMove": "Продолжайте идти в сторону холма до кремового дома с богатой лепниной — это доходный дом Тер‑Акоповой под № 24.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "В начале XX века торговцы табаком и вином соревновались в роскоши подъездов. Мозаики для Сейлановых сделали итальянские мастера; мотивы континентов подчёркивали глобальный характер бизнеса. Большую часть росписей уничтожили в советские годы, когда дом превратили в коммуналку."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.6916,
+        "longitude": 44.8009
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-3",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад дома братьев Сейлановых на улице Табидзе, 18.",
+        "attribution": {
+          "author": "Lika jorjiashvili",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-4",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 4,
+      "name": "Дом Тер‑Акоповой (ул. Табидзе, 24)",
+      "note": "Доходный дом с маскаронами",
+      "time": "15 мин",
+      "walk": "Поверните направо на улицу Г. Кикодзе и идите около 200 метров. На правой стороне вы увидите дом с асимметричными балконами и мемориальными табличками — это дом Майловых.",
+      "content": {
+        "context": "Этот четырёхэтажный дом с рустованным цоколем и богатой лепниной построили в 1896 году как доходный дом для Эвелины Тер‑Акоповой. Фасад украшен маскаронами, гирляндами и полуколоннами, а арочный вход ведёт в парадную с терраццовым полом, где выложено имя владелицы. Внутреннюю отделку выполнял итальянский мастер Анджело Андреолетти, чья подпись сохранилась на ступеньках. Дом был надстроен на один этаж в 1930‑х и сегодня нуждается в реставрации: влажность и землетрясения повредили лепнину. Снаружи можно представить, как выглядели доходные дома Сололаки в конце XIX века: строгая симметрия, роскошные детали и тяжёлые двери.",
+        "lookFor": "Маскароны и гирлянды на фасаде Полукруглая арка и резные двери Терраццовый пол с именем владельца",
+        "practical": "Дом жилой, вход ограничен. Если дверь открыта, можно взглянуть на пол и лестницу, но не поднимайтесь без разрешения. Здание ветхое, не прикасайтесь к лепнине.",
+        "nextMove": "Поверните направо на улицу Г. Кикодзе и идите около 200 метров. На правой стороне вы увидите дом с асимметричными балконами и мемориальными табличками — это дом Майловых.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Дом Тер‑Акоповой — пример того, как богатые тбилисские домовладельцы сочетали европейские фасады и местные элементы. Плитку привезли из Италии, а кузнецов наняли из местных мастерских. В 1930‑х дом подняли на этаж, чтобы увеличить доходность; сегодня он входит в список памятников и ждёт реставрации."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.6919,
+        "longitude": 44.8006
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-4",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад доходного дома Тер‑Акоповой на улице Табидзе, 24, с лепными украшениями.",
+        "attribution": {
+          "author": "Dor Shabashewitz",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-5",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 5,
+      "name": "Дом Майловых (ул. Кикодзе, 11)",
+      "note": "Дом нефтяных магнатов и революционеров",
+      "time": "15 мин",
+      "walk": "Вернитесь к перекрёстку и поверните налево на улицу Мачабели. Через 100 метров справа будет дом с двумя входами и голубыми стенами — это дом Калантарова.",
+      "content": {
+        "context": "На тихой улице возвышается дом братьев Майловых — богатых купцов и нефтепромышленников. Его построил архитектор Габриэл Тер‑Микелов в 1914 году для семьи, владевшей бакинскими нефтяными промыслами. Фасад поражает асимметричными балконами и витражами, но главная история скрыта в судьбе дома. После революции здесь поселились партийные лидеры Мамия Орахелашвили и Филипп Махарадзе; в 1937 году дом стал местом трагедий: многие жильцы были репрессированы. Сегодня фасад украшен мемориальными досками, напоминающими о жертвах красного террора. Внутрь попасть нельзя, но даже с улицы видно, как буржуазный комфорт уступил коммунальной жизни.",
+        "lookFor": "Мемориальные доски на фасаде Асимметричные балконы и кованые ограждения Старинные двери с металлическими декорами",
+        "practical": "Дом жилой и закрыт для посещения. Осматривайте фасад с противоположной стороны улицы и соблюдайте тишину. В переулке нет тротуаров, будьте осторожны.",
+        "nextMove": "Вернитесь к перекрёстку и поверните налево на улицу Мачабели. Через 100 метров справа будет дом с двумя входами и голубыми стенами — это дом Калантарова.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Архитектор Тер‑Микелов был одним из главных мастеров модерна в Тбилиси. Дом Майловых сочетает модерновые эркеры и восточные мотивы. Его история напоминает о переходе от капитализма к коммунизму: роскошный доходный дом превратился в коммуналку, а затем — в место памяти жертв репрессий."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.6899,
+        "longitude": 44.799
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-5",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад жилого дома на улице Геронтия Кикодзе, 11, связанного с братьями Майловыми.",
+        "attribution": {
+          "author": "Lasha ge",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-6",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 6,
+      "name": "Дом Калантарова (ул. Мачабели, 17 / ул. Асатиани, 27)",
+      "note": "Мавританский зал в грузинском дворе",
+      "time": "15 мин",
+      "walk": "Выйдите на улицу Мачабели и перейдите через дорогу к зданию с балконом и маскаронами — это Дом Давида Сараджишвили, ныне Дом писателей.",
+      "content": {
+        "context": "Снаружи этот дом выглядит скромно, но стоит заглянуть в парадную, как вы окажетесь в восточном дворце: стены расписаны бирюзовым и оранжевым, своды напоминают сталактиты, мраморная лестница ведёт под витражи. Дом построил в 1908 году архитектор Лазарь Саргсян для богатого Николая (Михаила) Калантарова, преуспевшего в табачной и нефтяной торговле. Легенда гласит, что он хотел впечатлить оперную певицу; поэтому парадная получила модный в то время мавританский стиль. После революции особняк превратили в коммунальный дом, а в 2014 году парадную отреставрировали. Сегодня это одна из немногих сохранившихся парадных с восточным декором в Тбилиси.",
+        "lookFor": "Бирюзовые и оранжевые росписи Сталактитовый потолок (мокарна) Мраморная лестница и витраж",
+        "practical": "Дом жилой; парадная иногда открыта. Заходить можно только по приглашению или если жильцы оставили дверь приоткрытой. Внутри темно и скользко, поэтому смотрите под ноги и не используйте вспышку.",
+        "nextMove": "Выйдите на улицу Мачабели и перейдите через дорогу к зданию с балконом и маскаронами — это Дом Давида Сараджишвили, ныне Дом писателей.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Мавританский стиль был модой начала XX века: богатые заказчики нанимали армянских и русских архитекторов, чтобы придать особнякам восточный колорит. Дом Калантарова — редкий пример, переживший коммунализацию: даже резные деревянные перила и витражи сохранились благодаря реставрации 2014 года."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.692,
+        "longitude": 44.7988
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-6",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад дома Калантарова на улице Асатиани, 27.",
+        "attribution": {
+          "author": "Tamar kurtanidze",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-7",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 7,
+      "name": "Дом Давида Сараджишвили / Дом писателей (ул. Мачабели, 13)",
+      "note": "Дом коньячного короля — теперь дом писателей",
+      "time": "15 мин",
+      "walk": "Продолжите по улице Мачабели и поверните налево на улицу Ладо Асатиани. Через два квартала слева вы увидите неоготическое здание бывшей женской гимназии.",
+      "content": {
+        "context": "Перед вами один из самых роскошных особняков Сололаки. Его построили в 1903–1905 годах для основателя коньячного производства Давида Сараджишвили немецкий архитектор Карл Зар. На фасаде в стиле модерн и необарокко — маскароны, лепнина и изогнутый балкон. Во дворе — деревянная галерея, напоминающая традиционные тбилисские балконы. Внутри сохранились залы, отделанные мозаикой Villeroy & Boch и росписями мастера Илии Мамцашвили; знаменитый «Акаков зал» оформлен в восточном стиле. После смерти Сараджишвили особняк купил предприниматель Акаки Хоштария; в советские годы здание национализировали и превратили в Дом писателей. Сегодня здесь размещаются литературный фонд, музей репрессированных писателей и кафе, часть комнат открыта для экскурсий.",
+        "lookFor": "Маскароны и лепнина на фасаде Деревянная галерея во дворе «Акаков зал» в восточном стиле",
+        "practical": "Музей работает по будням с 11:00 до 19:00; по выходным закрыт. Вход платный, но во дворе есть бесплатное кафе. Экскурсии проходят нерегулярно; уточняйте расписание заранее.",
+        "nextMove": "Продолжите по улице Мачабели и поверните налево на улицу Ладо Асатиани. Через два квартала слева вы увидите неоготическое здание бывшей женской гимназии.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Дом Сараджишвили был не только частной резиденцией, но и центром культурной жизни: здесь собирались писатели и художники. В советское время многие стали жертвами репрессий, память о них хранит музей репрессированных писателей. Благодаря реставрации 2011–2013 гг. мозаики и лепнина снова открыты для посетителей."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.6923,
+        "longitude": 44.7995
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-7",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад Дома писателей (бывшего особняка Давида Сараджишвили) с маскаронами и балконом.",
+        "attribution": {
+          "author": "Raymond Zoller from unterwegs. on the road",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-8",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 8,
+      "name": "Женская гимназия (ул. Асатиани, 28)",
+      "note": "Неоготическая школа для благородных девиц",
+      "time": "15 мин",
+      "walk": "Спуститесь по улице Асатиани до уютной площади с деревянными балконами — это площадь Ладо Гудиашвили, последний пункт маршрута.",
+      "content": {
+        "context": "Здание сразу узнаётся по зубчатым фронтонам, стрельчатым окнам и башенкам — словно небольшой замок поселился среди тбилисских балконов. Его построили в 1903–1905 годах как частную школу для дворянских дочерей, а позже здание стало женской гимназией. Архитектор Александр Озеров и заказчик, винодел М. Ананов, выбрали псевдоготический стиль. Сегодня дом продолжает служить образовательным целям, но попасть внутрь практически невозможно. Стоя на улице, представьте, как в начале XX века сюда приходили юные аристократки.",
+        "lookFor": "Стрельчатые арки и зубчатые фронтоны Готические окна с каменной окантовкой Башенка и кирпичный декор",
+        "practical": "Здание используется как учебное учреждение; вход закрыт. Осматривайте фасад с тротуара и не мешайте учащимся. Поблизости нет туалетов; ближайшие кафе находятся у площади Гудиашвили.",
+        "nextMove": "Спуститесь по улице Асатиани до уютной площади с деревянными балконами — это площадь Ладо Гудиашвили, последний пункт маршрута.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Основание школы заложили в апреле 1903 года, а освящение состоялось 9 января 1905 года. Псевдоготический стиль подчёркивал статус и прогрессивность учебного заведения; традиция образования сохраняется и сегодня."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.693,
+        "longitude": 44.7985
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-8",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Неоготический фасад женской гимназии на улице Асатиани, 28.",
+        "attribution": {
+          "author": "Andrew Milligan sumo",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": ").jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-sololaki-bourgeois-houses-9",
+      "guideId": "tbilisi-sololaki-bourgeois-houses",
+      "order": 9,
+      "name": "Площадь Ладо Гудиашвили",
+      "note": "Квартальный дворик XVI века, восстановленный для будущего",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "Финальный аккорд прогулки — маленькая площадь, спрятанная между домами. Гудиашвили считается одной из самых старых площадей Тбилиси: ей около 600 лет, и на старых картах она появляется под названиями Бежанов сад, Аббас‑Абаси, Колортаги и Могнис. С XVI века здесь селились ремесленники, а в XIX веке выросли дома с деревянными балконами и подвалами; один из них — «Синий дом» 1820‑х годов, где позже размещалась редакция «Литературной Грузии». В 2018 году площадь тщательно отреставрировали: укрепили фундаменты, восстановили балконы, раскрыли старые погреба и установили лавочки. Сегодня это место напоминает двор: кругом разноцветные фасады, выкрашенные балконы, цветы в горшках и кафе. Сядьте на лавочку, осмотритесь и почувствуйте, как старый город обретает новую жизнь.",
+        "lookFor": "Деревянные балконы вокруг площади «Синий дом» — жилой дом 1820‑х годов Погреба XVI века, открытые при реставрации",
+        "practical": "Площадь открыта круглосуточно. Здесь работают небольшие кафе и винные бары; по вечерам бывает шумно. Будьте внимательны на ступеньках и в подвальных помещениях, которые иногда открывают для выставок. К площади ведут узкие улицы — можно вернуться к площади Свободы по улице Асатиани или выйти на улицу Амаглеба.",
+        "nextMove": "Маршрут завершён. От площади Гудиашвили вы можете вернуться к площади Свободы за 10 минут или продолжить исследовать соседний район Амаглеба.",
+        "deepDive": [
+          {
+            "title": "Подробнее",
+            "body": "Площадь — редкий уголок, где историческая среда сохранилась практически полностью: несмотря на реставрацию 2018 года, деревянные балконы, расписные двери и погреба XVI века остались на месте. За фасадами скрываются современные квартиры и офисы, но колорит прошлых веков чувствуется в каждой детали."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 41.6913,
+        "longitude": 44.7994
+      },
+      "photo": {
+        "id": "tbilisi-sololaki-bourgeois-houses-stop-9",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Восстановленные дома и деревянные балконы площади Ладо Гудиашвили после реставрации 2018–2021 годов.",
+        "attribution": {
+          "author": "Jelger Groeneveld",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": ").jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-1",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 1,
+      "name": "Площадь Свободы",
+      "note": "Колонна с золотым Святым Георгием на месте бывшего плаца",
+      "time": "15 мин",
+      "walk": "Следуйте вдоль правой стороны проспекта Руставели примерно 200 метров до светлого здания с крестовым куполом – это церковь Кашвети.",
+      "content": {
+        "context": "Встаньте около гранитного подиума в центре площади и запрокиньте голову – над вами парит 40‑метровая колонна с позолоченной фигурой Святого Георгия, поражающего змея. Скульптура была установлена в 2006 году скульптором Зурабом Церетели и стала символом свободы страны. Но сама площадь меняла названия как витки истории: в XIX веке её называли Эриванской или Пашкевичской, в годы Российской империи здесь была штабная площадь, в советское время – площадь Ленина, а с 1918 года – площадь Свободы. Повернитесь к зданию мэрии с часовой башней: эта угловая конструкция напоминает, что площадь всегда была административным центром. По другую сторону видны фасады художественного музея и торговых рядов – недавно отреставрированные арки соседствуют с современными вывесками. В центре – поток машин, который вам предстоит пересечь, чтобы начать прогулку по проспекту. Это место стало местом встреч и разрывов: здесь объявляли независимость и проводили военные парады, здесь же в 2019 году собирались протестующие против реформ. Контраст между блеском колонны и шумом движения напоминает, что свобода – процесс, а не статуя.",
+        "lookFor": "позолоченная фигура Святого Георгия угловая башня мэрии названия улиц на фасадах",
+        "practical": "Переходите проспект только по подземному или наземному переходу – движение очень оживлённое. Вокруг много кафе, где можно купить воду. Возьмите солнцезащитный крем в ясную погоду.",
+        "nextMove": "Следуйте вдоль правой стороны проспекта Руставели примерно 200 метров до светлого здания с крестовым куполом – это церковь Кашвети.",
+        "deepDive": [
+          {
+            "title": "История колонны",
+            "body": "Статуя Святого Георгия создана Зурабом Церетели и отлита в бронзе. Она заменяет монумент Ленину, который стоял здесь до 1991 года. Установка новой колонны стала символом постсоветского возрождения."
+          }
+        ],
+        "sourceNote": "История названий и установки колонны взяты из официального гида Georgia Travel и путеводителя Evendo."
+      },
+      "entry": "свободно",
+      "nameLocal": "თავისუფლების მოედანი",
+      "coordinates": {
+        "latitude": 41.6935166,
+        "longitude": 44.8015352
+      },
+      "hours": {
+        "rules": [],
+        "summary": "круглосуточно"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-1",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Площадь Свободы в Тбилиси с колонной Св. Георгия",
+        "attribution": {
+          "author": "anjči",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-2",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 2,
+      "name": "Кашветская церковь",
+      "note": "Легенда о каменном младенце оживает у алтаря",
+      "time": "20 мин",
+      "walk": "Перейдите через проспект по зебре к колоннаде Парламента – следующей остановке.",
+      "content": {
+        "context": "На небольшом отступе от шумного проспекта возвышается строгий светло‑серый храм с крестовым куполом. Это Кашветская церковь, построенная в 1904–1910 годах по проекту архитектора Леопольда Бильфельдта, который взял за образец средневековый собор Самтависи. Местные жители рассказывают легенду: в VI веке пустынник Давид Гареджели пришёл в Тбилиси. Его обвинили в том, что он якобы соблазнил женщину. Давид ответил: «Если я виновен, ты родишь ребёнка, если нет – камень». Женщина родила камень, и место назвали «ка швети» – «родить камень». Подойдите ближе и рассмотрите резной камень фасада – мотивы виноградной лозы и крылатых животных отсылают к грузинской резной школе. Внутри вас встречают тёплые восковые свечи и мощные фрески художника Ладо Гудиашвили. Он расписал храм в 1947 году методом энкаустики: фигуры Богоматери и грузинских святых словно выходят из золотистого фона. Прямо напротив церкви расположен Парламент. Это соседство подчёркивает контраст между молитвой и политикой: один и тот же тротуар ведёт в храм и к дверям законодательного собрания. Вы стоите на границе двух миров, которые на проспекте Руставели существуют бок о бок.",
+        "lookFor": "рельефы виноградной лозы фрески Ладо Гудиашвили икона святого Давида Гареджели",
+        "practical": "Храм открыт для прихожан весь день, но заходите, когда не проходит служба. Женщинам желательно покрыть голову, мужчинам – снять головной убор. Не забывайте, что это действующий храм, поэтому ведите себя тихо.",
+        "nextMove": "Перейдите через проспект по зебре к колоннаде Парламента – следующей остановке.",
+        "deepDive": [
+          {
+            "title": "Фрески Ладо Гудиашвили",
+            "body": "Грузинский художник Ладо Гудиашвили использовал древнюю технику энкаустики, нанося краску расплавленным воском, благодаря чему образы святых на стенах Кашвети приобретают мягкий, почти трёхмерный объём."
+          }
+        ],
+        "sourceNote": "Легенда, даты строительства и сведения о росписи взяты из портала Georgia Travel."
+      },
+      "entry": "свободно",
+      "nameLocal": "ქაშვეთის ეკლესია",
+      "coordinates": {
+        "latitude": 41.6979889,
+        "longitude": 44.7993153
+      },
+      "hours": {
+        "rules": [],
+        "summary": "ежедневно, приблизительно 08:00–19:00; богослужения проходят утром и вечером"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-2",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад церкви Кашвети на проспекте Руставели в Тбилиси.",
+        "attribution": {
+          "author": "miss_rubov / Monika",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-3",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 3,
+      "name": "Парламент Грузии",
+      "note": "Колоннада, за которой решают судьбу страны",
+      "time": "15 мин",
+      "walk": "Идите по проспекту ещё 100 метров до здания с колонной и голубой ротондой – это Национальная галерея.",
+      "content": {
+        "context": "Вы стоите напротив мощной галереи из 16 арок, облицованных золотистым туфом. Это здание Парламента Грузии – два корпуса, построенных в 1938 и 1953 годах на месте собора Александра Невского. Архитекторы В. Кокорин, Г. Лежава и И. Насаридзе использовали мотивы старой грузинской архитектуры: массивные колонны напоминают древние храмы, а барельефы украшают входы. За этой красивой оболочкой скрывается драматическая история. В ночь на 9 апреля 1989 года у входа в парламент прошёл мирный митинг за независимость. Солдаты советской армии разогнали демонстрацию, погибли 21 человек – их имена выбиты на мемориальной плите у входа. С тех пор площадь перед парламентом стала символом борьбы за свободу: здесь проходили акции 1991–92 годов, Революции роз в 2003‑м, протесты 2007‑го и 2019‑го. Если присмотреться, можно заметить сохранившиеся части старого храма: фрагменты белого камня в цоколе. Парламент несколько лет находился в городе Кутаиси, но в 2019 году снова вернулся в историческое здание на Руставели. Сегодня здесь проходят заседания, а на лестнице регулярно собираются манифестации. Постойте пару минут, чтобы почувствовать дыхание истории и увидеть, как мраморные колонны становятся трибуной.",
+        "lookFor": "мемориальная плита 9 апреля золотистый туф фасада фрагменты разрушенного собора",
+        "practical": "Сфотографировать фасад можно с тротуара перед зданием. Подходы охраняют полицейские, и во время заседаний доступ может быть ограничен. Если идёт митинг, соблюдайте дистанцию.",
+        "nextMove": "Идите по проспекту ещё 100 метров до здания с колонной и голубой ротондой – это Национальная галерея.",
+        "deepDive": [
+          {
+            "title": "Собор на месте парламента",
+            "body": "До революции 1930‑х годов на этом месте стоял Александр Невский собор – памятник русским солдатам. Советские власти снесли собор, чтобы построить Дом правительства. Эта история объясняет, почему колоссальное здание парламента выглядит как храм – оно построено, чтобы заменить храм."
+          }
+        ],
+        "sourceNote": "Описание архитектуры и трагических событий взяты из Georgian Travel Guide и обзора Radio Free Europe/Radio Liberty."
+      },
+      "entry": "снаружи",
+      "nameLocal": "საქართველოს პარლამენტი",
+      "coordinates": {
+        "latitude": 41.6966415,
+        "longitude": 44.7985233
+      },
+      "hours": {
+        "rules": [],
+        "summary": "доступно для обозрения снаружи круглосуточно; внутрь можно попасть лишь по приглашению или в дни открытых дверей"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-3",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад здания парламента Грузии на проспекте Руставели.",
+        "attribution": {
+          "author": "Kober",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-4",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 4,
+      "name": "Национальная галерея",
+      "note": "Голубая галерея и 54 картины Пиросмани",
+      "time": "30 мин",
+      "walk": "Вернитесь на проспект и перейдите к коричневому зданию с полосатым фасадом напротив – это Оперный театр.",
+      "content": {
+        "context": "Перед вами невысокий особняк с резным порталом, который долгое время называли «голубой галереей». Здание было возведено в 1888 году по инициативе русских властей как Военно‑исторический музей, но уже в 1920‑м художник Дмитрий Шеварднадзе добился открытия здесь Национальной картинной галереи. Стены когда‑то были окрашены в ярко‑синий цвет, отсюда и прозвище. Внутри два зала под стеклянными крышами. В них хранятся более 30 000 произведений грузинского искусства: от иконописных досок до модернистских полотен. Главная сокровищница – 54 картины самоучки Нико Пиросмани, автора наивных изображений крестьян и зверей. Обновлённая экспозиция открылась после длительной реконструкции весной 2026 года, поэтому внутри всё выглядит свежо. Постояв у входа, обратите внимание на колонны с необычными «перевернутыми» капителями – этот мотив заимствован из древних грузинских церквей. По соседству работает кафе и книжный магазин, где можно купить репродукции Пиросмани. Галерея служит тихой паузой в шумном проспекте, напоминает, что грузинская культура всегда остаётся в центре.",
+        "lookFor": "«перевёрнутые» капители портала стеклянные потолки залов картины Нико Пиросмани",
+        "practical": "Билеты покупают в кассе в фойе. По понедельникам галерея закрыта. Экскурсии на английском языке стоят дополнительно около 45 GEL. Фотографировать можно без вспышки.",
+        "nextMove": "Вернитесь на проспект и перейдите к коричневому зданию с полосатым фасадом напротив – это Оперный театр.",
+        "deepDive": [
+          {
+            "title": "Нико Пиросмани",
+            "body": "Самоучка Нико Пиросмани (1862–1918) стал известен только после смерти. Его работы изображают сцены из жизни трактирщиков, цирковых артистов и животных. В 2026 году галерея открыла постоянную экспозицию его произведений."
+          }
+        ],
+        "sourceNote": "История здания и часы работы подтверждены сайтом Georgian Holidays и блогом Wander‑Lush."
+      },
+      "entry": "по билету",
+      "nameLocal": "ეროვნული გალერეა",
+      "coordinates": {
+        "latitude": 41.6982994,
+        "longitude": 44.7988204
+      },
+      "hours": {
+        "rules": [],
+        "summary": "вт–вс 10:00–18:00, пн – выходной; билет около 25 GEL"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-4",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Фасад Национальной галереи Грузии на проспекте Руставели.",
+        "attribution": {
+          "author": "Kober",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-5",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 5,
+      "name": "Грузинский театр оперы и балета",
+      "note": "Мавританские арки, где звучит опера",
+      "time": "20 мин",
+      "walk": "Идите по проспекту ещё 200 метров к зданию с муралами и арочными окнами – это Театр имени Шота Руставели.",
+      "content": {
+        "context": "Полосатый фасад из кирпича и штукатурки, арки в форме подковы, восточные орнаменты – такое увидишь не в каждом европейском городе. Тбилисский оперный театр возник по воле наместника Кавказа Михаила Воронцова, который решил привнести высокое искусство в провинциальный Тифлис. Итальянский архитектор Джованни Скудьери построил первое деревянное здание, и 12 апреля 1851 года театр открылся маскарадным балом. Первый оперный спектакль «Абуладзе и Этери» состоялся через несколько месяцев. В 1874 году деревянная сцена сгорела, и на её месте возвели нынешнее каменное здание в мавританском стиле. Внутри – золотые балконы, мозаичные залы и лестницы, расписанные мотивами Востока. Сегодня театр снова переживает ренессанс: после масштабной реконструкции 2016 года здесь ставят как классические, так и современные постановки. Стойте напротив главного входа и представьте, как в конце XIX века сюда подъезжали кареты. Вечером фасад подсвечивается, и его полосатый рисунок становится ещё ярче.",
+        "lookFor": "мавританские арки фасада полосатая кладка бронзовые балконы над входом",
+        "practical": "Чтобы попасть внутрь, покупайте билеты заранее на сайте opera.ge или в кассах. Фотографировать спектакль запрещено. Во время постановок вход закрывают, опоздавших не пускают.",
+        "nextMove": "Идите по проспекту ещё 200 метров к зданию с муралами и арочными окнами – это Театр имени Шота Руставели.",
+        "deepDive": [
+          {
+            "title": "Пожар 1874 года",
+            "body": "Старое здание оперы, построенное из дерева, было уничтожено пожаром 11 октября 1874 года. В результате город потерял главную сцену на несколько лет, пока не было возведено новое здание."
+          }
+        ],
+        "sourceNote": "История создания театра и детали фасада взяты из исследовательского сайта Museum Studies Abroad."
+      },
+      "entry": "по билету",
+      "nameLocal": "თბილისის ოპერისა და ბალეტის თეატრი",
+      "coordinates": {
+        "latitude": 41.7011065,
+        "longitude": 44.7963095
+      },
+      "hours": {
+        "rules": [],
+        "summary": "кассы обычно работают с 11:00 до 19:00, спектакли – вечером; график уточняйте на opera.ge"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-5",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Оперный театр в Тбилиси вечером, подсвеченный огнями",
+        "attribution": {
+          "author": "en:User:UltioUltionis",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-6",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 6,
+      "name": "Театр Руставели",
+      "note": "Зал, где грузинский драматургия обрела дом",
+      "time": "20 мин",
+      "walk": "Идите до западного конца проспекта, где большой перекрёсток и стеклянные башни – это Площадь Первой Республики.",
+      "content": {
+        "context": "Слегка отступив от проезжей части, вы увидите высокое здание с округлыми арками и богато украшенными наружными стенами. Дом был построен в 1899 году как клуб Тифлисского художественного общества и носил барочно‑рокайльный характер. После Советской революции, в 1921 году, театр получил имя средневекового поэта Шота Руставели. Фасады расписаны изображениями мифических существ и сцен из грузинских эпосов; внутри – великолепный зрительный зал с лепниной и зеркалами. Финансировал строительство меценат Александр Манташев, благодаря которому театр стал центром грузинской драмы. Здесь ставили пьесы Коте Марджанишвили, Роберта Стуруа и других режиссёров. Постояв у входа, присмотритесь к витражам и металлическим фигурам на крыше. Театр пережил многочисленные ремонты, но сохранил своё очарование. Его богатая отделка напоминает, что культура для грузин была не роскошью, а необходимостью.",
+        "lookFor": "муралы с мифическими существами витражи над входом позолоченные лепные детали",
+        "practical": "Афиша регулярно меняется; билеты лучше покупать заранее на сайте театра. Англоязычные субтитры бывают не на всех постановках. В фойе есть небольшой бар.",
+        "nextMove": "Идите до западного конца проспекта, где большой перекрёсток и стеклянные башни – это Площадь Первой Республики.",
+        "deepDive": [
+          {
+            "title": "Переименование 1921 года",
+            "body": "Театр получил имя Шота Руставели по решению революционного комитета 25 ноября 1921 года. С тех пор он считается главным драматическим театром страны. Слегка отступив от проезжей части, вы увидите высокое здание с округлыми арками и богато украшенными наружными стенами. Дом был построен в 1899 году как клуб Тифлисского художественного общества и носил барочно‑рокайльный характер. После Советской революции, в 1921 году, театр получил имя средневекового поэта Шота Руставели. Фасады расписаны изображениями мифических существ и сцен из грузинских эпосов; внутри – великолепный зрительный зал с лепниной и зеркалами. Финансировал строительство меценат Александр Манташев, благодаря которому театр стал центром грузинской драмы. Здесь ставили пьесы Коте Марджанишвили, Роберта Стуруа и других режиссёров. Постояв у входа, присмотритесь к витражам и металлическим фигурам на крыше. Театр пережил многочисленные ремонты, но сохранил своё очарование. Его богатая отделка напоминает, что культура для грузин была не роскошью, а необходимостью."
+          }
+        ],
+        "sourceNote": "Сведения о постройке театра и его декоре взяты из портала Advantour."
+      },
+      "entry": "по билету",
+      "nameLocal": "რუსთაველის თეატრი",
+      "coordinates": {
+        "latitude": 41.6998334,
+        "longitude": 44.797949
+      },
+      "hours": {
+        "rules": [],
+        "summary": "спектакли вечером; расписание и билеты смотрите на rustavelitheatre.ge"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-6",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Главный фасад театра имени Шота Руставели в Тбилиси.",
+        "attribution": {
+          "author": "Alsandro",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "),_Tbilisi.JPG",
+          "retrievedAt": "2026-06-24"
+        }
+      }
+    },
+    {
+      "id": "tbilisi-rustaveli-state-culture-7",
+      "guideId": "tbilisi-rustaveli-state-culture",
+      "order": 7,
+      "name": "Площадь Первой Республики",
+      "note": "Фонтан, переименованный в честь первой независимости",
+      "time": "15 мин",
+      "walk": "-",
+      "content": {
+        "context": "На западном конце проспекта дорога выходит на большую открытую площадь, окружённую современными гостиницами и торговыми центрами. В центре – бетонная чаша с замершей струёй, известная как «Замёрзший фонтан». Этот объект был частью недостроенного проекта огромного мемориального комплекса архитектора Отари Каландаришвили, который появился здесь в 1983 году и служил парадной площадкой для советских шествий. После демонтажа трибун в 2005 году площадь переименовали в «Площадь Розовой революции», вспоминая протесты 2003 года. А 25 мая 2018 года, в столетие Демократической Республики Грузия, городской совет присвоил ей новое имя – Площадь Первой Республики. Сейчас здесь проходит новогодняя ёлка и праздничные концерты, отсюда стартуют многотысячные марши. В отчётах правозащитных организаций отмечается, что марш в защиту «традиционных ценностей» в июле 2021 года начал своё движение именно отсюда. Посмотрите на высокую стеклянную башню Билтмор‑отеля: она отражает весь проспект, как зеркало. Под землёй находится станция метро «Rustaveli», через которую можно уехать в разные части города. Площадь кажется безликой, но её постоянные переименования и функции говорят о том, как меняется страна: от советского парадного пространства через революционные лозунги к осмыслению собственной истории.",
+        "lookFor": "«Замёрзший фонтан» стеклянная башня Билтмор‑отеля вход в метро Rustaveli",
+        "practical": "Перекрёсток очень оживлён; пользуйтесь подземными переходами. В тёплое время года здесь ставят сцену для концертов. Осмотр площади свободный, но будьте внимательны во время митингов и массовых мероприятий.",
+        "nextMove": "Ваше путешествие по Руставели заканчивается. Отсюда можно сесть на метро, поймать такси или вернуться пешком в старый город.",
+        "deepDive": [
+          {
+            "title": "Замёрзший фонтан",
+            "body": "Скульптура из бетона в центре площади, напоминающая замороженную струю воды, была частью проекта масштабного фонтана. В советские годы фонтан так и не заработал; теперь он служит абстрактным памятником эпохе модернизма."
+          }
+        ],
+        "sourceNote": "Даты переименования площади и проект «Замёрзшего фонтана» взяты со страницы Silk Hospitality, данные о протестах – из отчёта DRI."
+      },
+      "entry": "свободно",
+      "nameLocal": "პირველი რესპუბლიკის მოედანი",
+      "coordinates": {
+        "latitude": 41.7037765,
+        "longitude": 44.7922087
+      },
+      "hours": {
+        "rules": [],
+        "summary": "круглосуточно"
+      },
+      "photo": {
+        "id": "tbilisi-rustaveli-state-culture-stop-7",
+        "kind": "photo",
+        "wide": "",
+        "square": "",
+        "alt": "Площадь Первой Республики в Тбилиси с бетонным фонтаном и зданиями вокруг",
+        "attribution": {
+          "author": "G.N.",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "",
+          "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "0b4a3df63c75"
+  "packHash": "0e8757147d90"
 }

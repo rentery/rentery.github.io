@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Прадо ведет от театральных фасадов к дворцу, где роскошь республики стала музеем революции.",
-    "cityId": "havana",
-    "dayTrip": false,
-    "id": "havana-prado-capitolio-revolution-palace",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Parque Central, El Capitolio, Paseo del Prado, Bellas Artes и Museo de la Revolución.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Ось театров, дворцов и музеев между старым городом и морем.",
-    "title": "Прадо и Капитолий: республика перед революцией",
-    "walkType": "architecture"
-  },
-  {
-    "blurb": "У моря и на Ла-Рампе видно, как Гавана стала городом отелей, кино, студентов и модернизма.",
-    "cityId": "havana",
-    "dayTrip": false,
-    "id": "havana-vedado-malecon-modern-city",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Vedado: Hotel Nacional, Malecón, La Rampa, Coppelia и Университет Гаваны.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "Садовый район, Ла-Рампа и архитектура XX века у океана.",
-    "title": "Ведадо и Малекон: модерный город у моря",
-    "walkType": "modern_city"
-  },
-  {
     "blurb": "Центро-Гавана показывает город без витрины: миграции, дворы, стрит-арт и вечер у моря.",
     "cityId": "havana",
     "dayTrip": false,

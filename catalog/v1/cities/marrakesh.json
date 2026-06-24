@@ -2,12 +2,13 @@
   "id": "marrakesh",
   "slug": "marrakesh",
   "title": "Марракеш",
-  "subtitle": "Марракеш · 2 маршрута · 3 скоро",
-  "meta": "Марокко · 2 маршрута опубликовано",
-  "practicalNote": "Опубликовано 2 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
+  "subtitle": "Марракеш · 3 маршрута · 2 скоро",
+  "meta": "Марокко · 3 маршрута опубликовано",
+  "practicalNote": "Опубликовано 3 маршрута по городу; остальные прогулки проходят подготовку и будут добавляться постепенно.",
   "guideIds": [
     "marrakesh-jemaa-koutoubia-souks-stage",
-    "marrakesh-kasbah-palaces-power"
+    "marrakesh-kasbah-palaces-power",
+    "marrakesh-north-medina-madrasa-courtyards"
   ],
   "countryId": "morocco",
   "photo": {

@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "Склон Столовой горы ведет вдоль финбоса, камня и видов, ради которых город смотрит вверх.",
-    "cityId": "cape-town",
-    "dayTrip": false,
-    "id": "cape-town-table-mountain-pipe-track",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Kloof Nek и западный склон Table Mountain над Camps Bay по линии Pipe Track.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Горная прогулка без гонки на вершину: финбос, трубы, обрыв и Атлантика.",
-    "title": "Столовая гора снизу: Pipe Track и город под скалой",
-    "walkType": "nature"
-  },
-  {
-    "blurb": "Гавань читается как палимпсест: доки, башни, склады и музей в бывшем зерновом силосе.",
-    "cityId": "cape-town",
-    "dayTrip": false,
-    "id": "cape-town-waterfront-silo-harbour",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "V&A Waterfront, Clock Tower Precinct, Silo District, Battery Park и гаванные кромки.",
-    "roughDuration": "2-3 часа",
-    "status": "coming_soon",
-    "subtitle": "От старых доков и башен к современному искусству, дизайну и туристическому фасаду.",
-    "title": "Waterfront и Silo District: порт, который стал городом",
-    "walkType": "architecture"
-  },
-  {
     "blurb": "Атлантический край города собирает променад, парк, стадион и жизнь между морем и склоном.",
     "cityId": "cape-town",
     "dayTrip": false,

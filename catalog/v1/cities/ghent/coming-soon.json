@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "У слияния Лиса и Шельды видно начало города: вода, аббатские руины и новая тишина.",
-    "cityId": "ghent",
-    "dayTrip": false,
-    "id": "ghent-portus-ganda-abbey-origins",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Восточный край центра: Portus Ganda, De Reep, Coyendanspark, Sint-Baafsabdij.",
-    "roughDuration": "1.5–2.5 часа",
-    "status": "coming_soon",
-    "subtitle": "Слияние рек, тихие руины и память о наказанном Генте.",
-    "title": "Портус Ганда и аббатство: место, где начался город",
-    "walkType": "history"
-  },
-  {
-    "blurb": "Вокруг Цитадельпарка искусство выходит из залов в парк, площади и студенческие улицы.",
-    "cityId": "ghent",
-    "dayTrip": false,
-    "id": "ghent-citadelpark-arts-quarter",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Квартал искусств: Citadelpark, Museumplein, Boekentoren, Sint-Pietersplein, STAM.",
-    "roughDuration": "2–3 часа",
-    "status": "coming_soon",
-    "subtitle": "Музеи, парк и университетские ориентиры южного Гента.",
-    "title": "Цитадельпарк: старые мастера и новый взгляд",
-    "walkType": "museum_walk"
-  },
-  {
     "blurb": "Граффити-улица связывает старый центр с De Krook и показывает Гент как открытую мастерскую.",
     "cityId": "ghent",
     "dayTrip": false,

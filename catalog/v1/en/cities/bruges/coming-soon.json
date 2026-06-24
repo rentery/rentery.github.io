@@ -1,33 +1,5 @@
 [
   {
-    "blurb": "В музейном квартале живопись выходит на улицу: башни, больница и дворцы объясняют друг друга.",
-    "cityId": "bruges",
-    "dayTrip": false,
-    "id": "bruges-museum-quarter-flemish-primitives",
-    "launchWave": 1,
-    "priority": 3,
-    "roughArea": "Дейвер, Гронинге, Груутхузе, церковь Богоматери и госпиталь Святого Иоанна.",
-    "roughDuration": "2-4 часа",
-    "status": "coming_soon",
-    "subtitle": "Фламандские примитивы, дворцы и больница как визуальная грамматика Брюгге.",
-    "title": "Музейный квартал: город в масляной краске",
-    "walkType": "museum_walk"
-  },
-  {
-    "blurb": "Южный Брюгге звучит тише: озеро, шлюз, бегинаж и белые дома складываются в отдельный ритм.",
-    "cityId": "bruges",
-    "dayTrip": false,
-    "id": "bruges-minnewater-beguinage-silence",
-    "launchWave": 1,
-    "priority": 4,
-    "roughArea": "Минневатерпарк, Сашёйс, бегинаж Ten Wijngaerde и район Вейнгаардплейн.",
-    "roughDuration": "1,5-2,5 часа",
-    "status": "coming_soon",
-    "subtitle": "Вход в город через воду, белые дворы и женскую религиозную общину.",
-    "title": "Минневатер и бегинаж: южная тишина",
-    "walkType": "neighborhood"
-  },
-  {
     "blurb": "На северо-востоке Брюгге становится просторнее: тихие улицы, городские валы и мельницы у воды.",
     "cityId": "bruges",
     "dayTrip": false,

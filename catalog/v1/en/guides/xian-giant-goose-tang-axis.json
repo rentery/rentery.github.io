@@ -77,7 +77,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dayan_Tower_Square.JPG",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-1",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-2",
@@ -116,7 +122,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120807_-_Aufstieg_zum_Tempel_bei_der_grossen_Wildgans_Pagode.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-2",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-3",
@@ -155,7 +167,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-09-23-120907_-_Tempel_bei_grosser_Wildganspagode.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-3",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-4",
@@ -194,7 +212,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda,_Xi%27an,_May,_2018-2.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-4",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-5",
@@ -233,7 +257,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xuanzang_statue-2.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-5",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-6",
@@ -272,7 +302,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Tang_All_Day_Mall_51704-Xian_(27740239520).jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-6",
+      "sourceIds": []
     },
     {
       "id": "xian-giant-goose-tang-axis-7",
@@ -311,7 +347,13 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%BC%80%E5%85%83%E5%B9%BF%E5%9C%BA1_-_panoramio.jpg",
           "retrievedAt": "2026-06-23"
         }
-      }
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+      },
+      "photoAssetId": "xian-giant-goose-tang-axis-stop-7",
+      "sourceIds": []
     }
   ],
   "cover": {
@@ -320,5 +362,6 @@
     "wide": "https://rentery.github.io/images/v1/xian/xian-giant-goose-tang-axis-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/xian/xian-giant-goose-tang-axis-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «xian-giant-goose-tang-axis»"
-  }
+  },
+  "coverAssetId": "xian-giant-goose-tang-axis-cover"
 }
