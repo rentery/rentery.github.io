@@ -1187,7 +1187,8 @@
           }
         }
       }
-    ]
+    ],
+    "coverAssetId": "tokyo-asakusa-edo-river-cover"
   },
   {
     "id": "tokyo-meiji-harajuku-shibuya",
@@ -3637,7 +3638,8 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "tokyo-meiji-harajuku-shibuya-cover"
   },
   {
     "id": "tokyo-imperial-palace-marunouchi",
@@ -5267,6 +5269,7 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "tokyo-imperial-palace-marunouchi-cover"
   }
 ]

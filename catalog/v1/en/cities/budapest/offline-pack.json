@@ -2076,7 +2076,8 @@
         "wide": "https://rentery.github.io/images/v1/budapest/budapest-pest-danube-civic-stage-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/budapest/budapest-pest-danube-civic-stage-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «budapest-pest-danube-civic-stage»"
-      }
+      },
+      "coverAssetId": "budapest-pest-danube-civic-stage-cover"
     },
     {
       "id": "budapest-jewish-quarter-courtyards-memory",
@@ -6586,5 +6587,5 @@
       }
     }
   ],
-  "packHash": "218f82fdb120"
+  "packHash": "3f144dd55d65"
 }

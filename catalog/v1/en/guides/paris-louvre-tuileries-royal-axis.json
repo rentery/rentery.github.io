@@ -57,13 +57,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-1-square.jpg",
         "alt": "Cour Carrée, Louvre Museum",
         "attribution": {
           "author": "Benh LIEU SONG",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cour_Carr%C3%A9e,_Louvre_Museum,_2_April_2009.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -96,13 +96,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-2-square.jpg",
         "alt": "Cour Napoléon with Pyramid",
         "attribution": {
           "author": "Rutger van der Maar",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_(49402744641).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -135,13 +135,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-3-square.jpg",
         "alt": "Arc du Carrousel, Paris",
         "attribution": {
           "author": "David McSpadden",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arc_du_Carrousel,_Paris_22_May_2014.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -174,13 +174,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-4-square.jpg",
         "alt": "Jardin du Carrousel du Louvre",
         "attribution": {
           "author": "FramaKa",
           "license": "CC0 1.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardin_du_Carrousel_du_Louvre.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -213,13 +213,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-5-square.jpg",
         "alt": "Grande allée des Tuileries",
         "attribution": {
           "author": "Visions of Domino",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grande_all%C3%A9e_des_Tuileries_(31143726656).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -252,13 +252,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-6-square.jpg",
         "alt": "Tuileries Garden seen from the Grande Roue de Paris",
         "attribution": {
           "author": "Benedikt Beun",
           "license": "Public domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuileries_Garden_seen_from_the_Grande_Roue_de_Paris.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -291,13 +291,13 @@
       "photo": {
         "id": "paris-louvre-tuileries-royal-axis-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-stop-7-square.jpg",
         "alt": "Place de la Concorde @ Jardin des Tuileries @ Paris",
         "attribution": {
           "author": "Guilhem Vellut",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Place_de_la_Concorde_@_Jardin_des_Tuileries_@_Paris_(34047884284).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -306,8 +306,9 @@
   "cover": {
     "id": "paris-louvre-tuileries-royal-axis-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/paris/paris-louvre-tuileries-royal-axis-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «paris-louvre-tuileries-royal-axis»"
-  }
+  },
+  "coverAssetId": "paris-louvre-tuileries-royal-axis-cover"
 }

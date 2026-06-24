@@ -3654,7 +3654,8 @@
         "wide": "https://rentery.github.io/images/v1/prague/prague-josefov-old-town-memory-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/prague/prague-josefov-old-town-memory-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «prague-josefov-old-town-memory»"
-      }
+      },
+      "coverAssetId": "prague-josefov-old-town-memory-cover"
     },
     {
       "id": "prague-mala-strana-kampa-water",
@@ -6676,5 +6677,5 @@
       }
     }
   ],
-  "packHash": "d3bd519a6938"
+  "packHash": "a61d5d798e98"
 }

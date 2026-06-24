@@ -2533,7 +2533,8 @@
         "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-mirabell-right-bank-baroque-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/salzburg/salzburg-mirabell-right-bank-baroque-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «salzburg-mirabell-right-bank-baroque»"
-      }
+      },
+      "coverAssetId": "salzburg-mirabell-right-bank-baroque-cover"
     },
     {
       "id": "salzburg-getreidegasse-mozart-courtyards",
@@ -3608,7 +3609,8 @@
         "wide": "https://rentery.github.io/images/v1/salzburg/salzburg-getreidegasse-mozart-courtyards-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/salzburg/salzburg-getreidegasse-mozart-courtyards-cover-square.jpg",
         "alt": "Сумеречная улица Зальцбурга с вывесками и видом на реку и горы"
-      }
+      },
+      "coverAssetId": "salzburg-getreidegasse-mozart-courtyards-cover"
     }
   ],
   "locale": "en",
@@ -4527,5 +4529,5 @@
       }
     }
   ],
-  "packHash": "f17512ffd9e4"
+  "packHash": "f73d15e43689"
 }

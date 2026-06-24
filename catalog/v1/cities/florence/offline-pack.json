@@ -2636,7 +2636,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "florence-oltrarno-pitti-santo-spirito-cover"
     },
     {
       "id": "florence-santa-croce-dante-civic-memory",
@@ -6692,5 +6693,5 @@
       }
     }
   ],
-  "packHash": "d836d45dc47e"
+  "packHash": "d15637548dc4"
 }

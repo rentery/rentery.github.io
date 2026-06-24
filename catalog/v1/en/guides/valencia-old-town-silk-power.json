@@ -815,8 +815,8 @@
   "cover": {
     "id": "valencia-old-town-silk-power-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «valencia-old-town-silk-power»"
   },
   "stopList": [
@@ -848,13 +848,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-1-square.jpg",
         "alt": "Torres de Serranos.jpg",
         "attribution": {
           "author": "Manuel Hdez Lafuente",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torres_de_Serranos.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -891,13 +891,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-2-square.jpg",
         "alt": "L04 263 Plaza de la Virgen, Catedral de Santa María de Valencia.jpg",
         "attribution": {
           "author": "Falk Arnhold (Falk2)",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:L04_263_Plaza_de_la_Virgen,_Catedral_de_Santa_Mar%C3%ADa_de_Valencia.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -934,13 +934,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-3-square.jpg",
         "alt": "El Miguelete o Micalet, torre de la catedral de Valencia, España.JPG",
         "attribution": {
           "author": "Carlos Teixidor Cadenas",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Miguelete_o_Micalet%2C_torre_de_la_catedral_de_Valencia%2C_Espa%C3%B1a.JPG",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -977,13 +977,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-4-square.jpg",
         "alt": "Plaza Redonda Valencia 02.JPG",
         "attribution": {
           "author": "Dorieo",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_Redonda_Valencia_02.JPG",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1020,13 +1020,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-5-square.jpg",
         "alt": "Fachada de la Lonja de la Seda en Valencia.jpg",
         "attribution": {
           "author": "Juan Mayordomo",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_de_la_Lonja_de_la_Seda_en_Valencia.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1063,13 +1063,13 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-6-square.jpg",
         "alt": "Mercado Central de Valencia (26334687408).jpg",
         "attribution": {
           "author": "Ángel M. Felicísimo",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_Central_de_Valencia_%2826334687408%29.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -1110,20 +1110,20 @@
       "photo": {
         "id": "valencia-old-town-silk-power-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-stop-7-square.jpg",
         "alt": "Iglesia de los Santos Juanes exterior in Valencia.",
         "attribution": {
           "author": "Juan Mayordomo",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_los_Santos_Juanes_en_Valencia.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
     }
   ],
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/valencia/valencia-old-town-silk-power-basemap.png",
     "center": {
       "latitude": 39.47635,
       "longitude": -0.37705
@@ -1132,5 +1132,6 @@
     "width": 600,
     "height": 360,
     "attribution": "© OpenStreetMap contributors"
-  }
+  },
+  "coverAssetId": "valencia-old-town-silk-power-cover"
 }

@@ -1455,8 +1455,8 @@
       "cover": {
         "id": "hong-kong-old-town-central-layers-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «hong-kong-old-town-central-layers»"
       },
       "stopList": [
@@ -1498,13 +1498,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-square.jpg",
             "alt": "Central Market entry 26-06-2023.jpg",
             "attribution": {
               "author": "LN9267",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Market_entry_26-06-2023.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1545,13 +1545,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-square.jpg",
             "alt": "Pottinger Street and Des Voeux Road Central (Hong Kong).jpg",
             "attribution": {
               "author": "Mk2010",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APottinger_Street_and_Des_Voeux_Road_Central_(Hong_Kong).jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1593,13 +1593,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-square.jpg",
             "alt": "Tai Kwun Barrack Block 201806.jpg",
             "attribution": {
               "author": "Wpcpey",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATai_Kwun_Barrack_Block_201806.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1641,13 +1641,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-square.jpg",
             "alt": "PMQ Overview 201510.jpg",
             "attribution": {
               "author": "Wpcpey",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APMQ_Overview_201510.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1690,13 +1690,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-square.jpg",
             "alt": "Man Mo Temple - Hong Kong - Sarah Stierch 01.jpg",
             "attribution": {
               "author": "Sarah Stierch",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMan_Mo_Temple_-_Hong_Kong_-_Sarah_Stierch_01.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1739,13 +1739,13 @@
           "photo": {
             "id": "hong-kong-old-town-central-layers-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-square.jpg",
             "alt": "Western Market Overview 201008",
             "attribution": {
               "author": "WiNG",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Market_Overview_201008.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1753,7 +1753,7 @@
       ],
       "coverAssetId": "hong-kong-old-town-central-layers-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-basemap.png",
         "center": {
           "latitude": 22.28445,
           "longitude": 114.1523
@@ -3281,13 +3281,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-1-square.jpg",
             "alt": "Star Ferry.Hong Kong.",
             "attribution": {
               "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Star_Ferry.Hong_Kong._(8112191897).jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3328,13 +3328,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-2-square.jpg",
             "alt": "Former Kowloon-Canton Railway Clock Tower, Tsim Sha Tsui, Kowloon, Hong Kong",
             "attribution": {
               "author": "Mk2010",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_Kowloon-Canton_Railway_Clock_Tower,_Tsim_Sha_Tsui_(Hong_Kong).jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3375,13 +3375,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-3-square.jpg",
             "alt": "Hong Kong Cultural Centre viewed from Victoria Harbour",
             "attribution": {
               "author": "Ceeseven",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Cultural_Centre_viewed_from_Victoria_Harbour.JPG",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3422,13 +3422,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-4-square.jpg",
             "alt": "Hong Kong Museum of Art",
             "attribution": {
               "author": "Unknown author",
               "license": "CC BY 1.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Museum_of_Art.JPG",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3469,13 +3469,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-5-square.jpg",
             "alt": "Salisbury Road Garden and waterfront promenade in Tsim Sha Tsui",
             "attribution": {
               "author": "Bgguioa Leia Regjum",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_TST_Tsim_Sha_Tsui_Salisbury_Road_Garden_Waterfront_Promenade_April_2021_SS2_02.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3516,13 +3516,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-6-square.jpg",
             "alt": "The Avenue of the Stars and Tsim Sha Tsui Promenade",
             "attribution": {
               "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Avenue_of_the_Stars_And_the_Tsim_Sha_Tsui_Promenade..._(19424936394).jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3563,13 +3563,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-7-square.jpg",
             "alt": "K11 Mall Exterior",
             "attribution": {
               "author": "Aabyedav",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:K11_Mall_Exterior.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3610,13 +3610,13 @@
           "photo": {
             "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-8",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-8-square.jpg",
             "alt": "Tsim Sha Tsui Promenade at East Tsim Sha Tsui",
             "attribution": {
               "author": "Ceeseven",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -3626,13 +3626,13 @@
       "cover": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-cover-square.jpg",
         "alt": "Исторический паром Star Ferry на фоне Часовой башни, культурного центра и небоскрёбов острова Гонконг"
       },
       "coverAssetId": "hong-kong-tsim-sha-tsui-harbour-stage-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-basemap.png",
         "center": {
           "latitude": 22.293380499999998,
           "longitude": 114.1730225
@@ -3704,13 +3704,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-1-square.jpg",
             "alt": "Mei Ho House, Block 41",
             "attribution": {
               "author": "Project 1444",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House,_Block_41.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3745,13 +3745,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-2-square.jpg",
             "alt": "Nam Cheong Street Sham Shui Po Section 2015",
             "attribution": {
               "author": "Wing1990hk",
               "license": "CC BY 3.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nam_Cheong_Street_Sham_Shui_Po_Section_2015.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3786,13 +3786,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-3-square.jpg",
             "alt": "Ki Lung Street (Hong Kong)",
             "attribution": {
               "author": "Mk2010",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ki_Lung_Street_(Hong_Kong).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3827,13 +3827,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-4-square.jpg",
             "alt": "Бусины и материалы для рукоделия на Yu Chau Street в Sham Shui Po.",
             "attribution": {
               "author": "ADEUCKLWAIHOI 20M62",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E6%B1%9D%E5%B7%9E%E8%A1%97_Yu_Chau_Street_January_2022_Px3_11.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3868,13 +3868,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-5-square.jpg",
             "alt": "Tai Nan Street and Poplar Street (Hong Kong)",
             "attribution": {
               "author": "Mk2010",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_Nan_Street_and_Poplar_Street_(Hong_Kong).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3909,13 +3909,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-6-square.jpg",
             "alt": "Apliu Street Shops 201506",
             "attribution": {
               "author": "Wing1990hk",
               "license": "CC BY 3.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apliu_Street_Shops_201506.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3950,13 +3950,13 @@
           "photo": {
             "id": "hong-kong-sham-shui-po-working-city-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-7-square.jpg",
             "alt": "Pei Ho Street Market 09-08-2023",
             "attribution": {
               "author": "LN9267",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pei_Ho_Street_Market_09-08-2023.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3965,8 +3965,8 @@
       "cover": {
         "id": "hong-kong-sham-shui-po-working-city-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «hong-kong-sham-shui-po-working-city»"
       },
       "coverAssetId": "hong-kong-sham-shui-po-working-city-cover"
@@ -9844,13 +9844,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-1-square.jpg",
             "alt": "Peak Tower, видимый среди деревьев со стороны тропы, bowl‑образный силуэт на фоне голубого неба.",
             "attribution": {
               "author": "MetroTrekker",
               "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://www.metrotrekker.com/photos/china/hong-kong/victoria-peak-hong-kong-china-011",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -9897,13 +9897,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-2-square.jpg",
             "alt": "Тропа Лугард‑роуд, ограниченная перилами, проходит вдоль крутого склона с видом на город.",
             "attribution": {
               "author": "Mk2010",
               "license": "Creative Commons Attribution-ShareAlike 3.0 Unported; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugard_Road_(Hong_Kong).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -9949,13 +9949,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-3-square.jpg",
             "alt": "Панорама Гонконга с высоты: гавань, небоскрёбы и горы, видимые с тропы.",
             "attribution": {
               "author": "Benh Lieu Song",
               "license": "Creative Commons Attribution-ShareAlike 2.0 Generic; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Lugard_Road,_Day.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -10002,13 +10002,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-4-square.jpg",
             "alt": "Горная вершина High West и рядом расположенный Peak, покрытые лесом и возвышающиеся над зданием станции.",
             "attribution": {
               "author": "Daniel Case",
               "license": "Creative Commons Attribution-ShareAlike 3.0 Unported; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_West_and_Victoria_Peak_from_Victoria_Gap_(crop1).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -10054,13 +10054,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-5-square.jpg",
             "alt": "Элегантная беседка с крышей в китайском стиле, стоящая посреди зелёного сада на вершине горы.",
             "attribution": {
               "author": "Streetdeck",
               "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Peak_Garden_Pavilion.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -10107,13 +10107,13 @@
           "photo": {
             "id": "hong-kong-peak-circle-city-from-above-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-6-square.jpg",
             "alt": "Поток воды течёт по каменистой трещине у дороги, окружённый папоротниками и мхом.",
             "attribution": {
               "author": "Minghong",
               "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waterfall_at_Harlech_Road_1.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -10122,13 +10122,13 @@
       "cover": {
         "id": "hong-kong-peak-circle-city-from-above-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-cover-square.jpg",
         "alt": "Рисованная панорама: тропа на зелёном склоне и сияющий Гонконгский горизонт на закате."
       },
       "coverAssetId": "hong-kong-peak-circle-city-from-above-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-basemap.png",
         "center": {
           "latitude": 22.275100000000002,
           "longitude": 114.14695
@@ -10181,13 +10181,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-1-square.jpg",
         "alt": "Central Market entry 26-06-2023.jpg",
         "attribution": {
           "author": "LN9267",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACentral_Market_entry_26-06-2023.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10228,13 +10228,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-2-square.jpg",
         "alt": "Pottinger Street and Des Voeux Road Central (Hong Kong).jpg",
         "attribution": {
           "author": "Mk2010",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APottinger_Street_and_Des_Voeux_Road_Central_(Hong_Kong).jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10276,13 +10276,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-3-square.jpg",
         "alt": "Tai Kwun Barrack Block 201806.jpg",
         "attribution": {
           "author": "Wpcpey",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATai_Kwun_Barrack_Block_201806.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10324,13 +10324,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-4-square.jpg",
         "alt": "PMQ Overview 201510.jpg",
         "attribution": {
           "author": "Wpcpey",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APMQ_Overview_201510.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10373,13 +10373,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-5-square.jpg",
         "alt": "Man Mo Temple - Hong Kong - Sarah Stierch 01.jpg",
         "attribution": {
           "author": "Sarah Stierch",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMan_Mo_Temple_-_Hong_Kong_-_Sarah_Stierch_01.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10422,13 +10422,13 @@
       "photo": {
         "id": "hong-kong-old-town-central-layers-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-old-town-central-layers-stop-6-square.jpg",
         "alt": "Western Market Overview 201008",
         "attribution": {
           "author": "WiNG",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Market_Overview_201008.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -10468,13 +10468,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-1-square.jpg",
         "alt": "Star Ferry.Hong Kong.",
         "attribution": {
           "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Star_Ferry.Hong_Kong._(8112191897).jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10515,13 +10515,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-2-square.jpg",
         "alt": "Former Kowloon-Canton Railway Clock Tower, Tsim Sha Tsui, Kowloon, Hong Kong",
         "attribution": {
           "author": "Mk2010",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_Kowloon-Canton_Railway_Clock_Tower,_Tsim_Sha_Tsui_(Hong_Kong).jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10562,13 +10562,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-3-square.jpg",
         "alt": "Hong Kong Cultural Centre viewed from Victoria Harbour",
         "attribution": {
           "author": "Ceeseven",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Cultural_Centre_viewed_from_Victoria_Harbour.JPG",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10609,13 +10609,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-4-square.jpg",
         "alt": "Hong Kong Museum of Art",
         "attribution": {
           "author": "Unknown author",
           "license": "CC BY 1.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Museum_of_Art.JPG",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10656,13 +10656,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-5-square.jpg",
         "alt": "Salisbury Road Garden and waterfront promenade in Tsim Sha Tsui",
         "attribution": {
           "author": "Bgguioa Leia Regjum",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_TST_Tsim_Sha_Tsui_Salisbury_Road_Garden_Waterfront_Promenade_April_2021_SS2_02.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10703,13 +10703,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-6-square.jpg",
         "alt": "The Avenue of the Stars and Tsim Sha Tsui Promenade",
         "attribution": {
           "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Avenue_of_the_Stars_And_the_Tsim_Sha_Tsui_Promenade..._(19424936394).jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10750,13 +10750,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-7-square.jpg",
         "alt": "K11 Mall Exterior",
         "attribution": {
           "author": "Aabyedav",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:K11_Mall_Exterior.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10797,13 +10797,13 @@
       "photo": {
         "id": "hong-kong-tsim-sha-tsui-harbour-stage-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-tsim-sha-tsui-harbour-stage-stop-8-square.jpg",
         "alt": "Tsim Sha Tsui Promenade at East Tsim Sha Tsui",
         "attribution": {
           "author": "Ceeseven",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -10839,13 +10839,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-1-square.jpg",
         "alt": "Mei Ho House, Block 41",
         "attribution": {
           "author": "Project 1444",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mei_Ho_House,_Block_41.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -10880,13 +10880,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-2-square.jpg",
         "alt": "Nam Cheong Street Sham Shui Po Section 2015",
         "attribution": {
           "author": "Wing1990hk",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nam_Cheong_Street_Sham_Shui_Po_Section_2015.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -10921,13 +10921,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-3-square.jpg",
         "alt": "Ki Lung Street (Hong Kong)",
         "attribution": {
           "author": "Mk2010",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ki_Lung_Street_(Hong_Kong).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -10962,13 +10962,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-4-square.jpg",
         "alt": "Бусины и материалы для рукоделия на Yu Chau Street в Sham Shui Po.",
         "attribution": {
           "author": "ADEUCKLWAIHOI 20M62",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E6%B1%9D%E5%B7%9E%E8%A1%97_Yu_Chau_Street_January_2022_Px3_11.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11003,13 +11003,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-5-square.jpg",
         "alt": "Tai Nan Street and Poplar Street (Hong Kong)",
         "attribution": {
           "author": "Mk2010",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_Nan_Street_and_Poplar_Street_(Hong_Kong).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11044,13 +11044,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-6-square.jpg",
         "alt": "Apliu Street Shops 201506",
         "attribution": {
           "author": "Wing1990hk",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apliu_Street_Shops_201506.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11085,13 +11085,13 @@
       "photo": {
         "id": "hong-kong-sham-shui-po-working-city-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-sham-shui-po-working-city-stop-7-square.jpg",
         "alt": "Pei Ho Street Market 09-08-2023",
         "attribution": {
           "author": "LN9267",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pei_Ho_Street_Market_09-08-2023.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11139,13 +11139,13 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-1-square.jpg",
         "alt": "Peak Tower, видимый среди деревьев со стороны тропы, bowl‑образный силуэт на фоне голубого неба.",
         "attribution": {
           "author": "MetroTrekker",
           "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.metrotrekker.com/photos/china/hong-kong/victoria-peak-hong-kong-china-011",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11192,13 +11192,13 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-2-square.jpg",
         "alt": "Тропа Лугард‑роуд, ограниченная перилами, проходит вдоль крутого склона с видом на город.",
         "attribution": {
           "author": "Mk2010",
           "license": "Creative Commons Attribution-ShareAlike 3.0 Unported; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugard_Road_(Hong_Kong).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11244,13 +11244,13 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-3-square.jpg",
         "alt": "Панорама Гонконга с высоты: гавань, небоскрёбы и горы, видимые с тропы.",
         "attribution": {
           "author": "Benh Lieu Song",
           "license": "Creative Commons Attribution-ShareAlike 2.0 Generic; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Lugard_Road,_Day.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11297,13 +11297,13 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-4-square.jpg",
         "alt": "Горная вершина High West и рядом расположенный Peak, покрытые лесом и возвышающиеся над зданием станции.",
         "attribution": {
           "author": "Daniel Case",
           "license": "Creative Commons Attribution-ShareAlike 3.0 Unported; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:High_West_and_Victoria_Peak_from_Victoria_Gap_(crop1).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11349,13 +11349,13 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-5-square.jpg",
         "alt": "Элегантная беседка с крышей в китайском стиле, стоящая посреди зелёного сада на вершине горы.",
         "attribution": {
           "author": "Streetdeck",
           "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Peak_Garden_Pavilion.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -11402,17 +11402,17 @@
       "photo": {
         "id": "hong-kong-peak-circle-city-from-above-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/hong-kong/hong-kong-peak-circle-city-from-above-stop-6-square.jpg",
         "alt": "Поток воды течёт по каменистой трещине у дороги, окружённый папоротниками и мхом.",
         "attribution": {
           "author": "Minghong",
           "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waterfall_at_Harlech_Road_1.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "3e80b338753b"
+  "packHash": "8656d0225dae"
 }

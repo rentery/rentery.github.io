@@ -31,8 +31,8 @@
   "cover": {
     "id": "venice-san-marco-rialto-republic-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «venice-san-marco-rialto-republic»"
   },
   "stopList": [
@@ -60,13 +60,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-square.jpg",
         "alt": "Piazza San Marco 2019",
         "attribution": {
           "author": "Ramagliolo9",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_2019.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -99,13 +99,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-square.jpg",
         "alt": "Basilica di San Marco at night-msu-2021-6406-6406.jpg",
         "attribution": {
           "author": "Matthias Süßen",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Marco_at_night-msu-2021-6406-6406.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -138,13 +138,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-square.jpg",
         "alt": "Doge's Palace (Venice)-2025-msu--6383.jpg",
         "attribution": {
           "author": "Matthias Süßen",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")-2025-msu--6383.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_(Venice)-2025-msu--6383.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -181,13 +181,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-square.jpg",
         "alt": "Bridge of Sighs seen from Ponte della Paglia, Venice.",
         "attribution": {
           "author": "Wolfgang Moroder",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dei_Sospiri_Ponte_de_la_Canonica_a_Venezia.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -220,13 +220,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-square.jpg",
         "alt": "Piazzetta San Marco columns and Molo area, Venice.",
         "attribution": {
           "author": "Wolfgang Moroder",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonna_di_San_Marco_e_San_Teodoro_piazzetta_San_Marco_Venezia.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -255,13 +255,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-square.jpg",
         "alt": "Clock tower Piazza San Marco (Torre dell'Orologio) Venice.jpg",
         "attribution": {
           "author": "Peter J StB Green",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")_Venice.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clock_tower_Piazza_San_Marco_(Torre_dell%27Orologio)_Venice.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -298,13 +298,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-square.jpg",
         "alt": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
         "attribution": {
           "author": "Martin Falbisoner",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -337,16 +337,17 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-square.jpg",
         "alt": "Campo San Giacomo di Rialto / San Giacometto, Venice.",
         "attribution": {
           "author": "Giovanni Dall'Orto",
           "license": "Attribution; cropped/resized for app",
-          "sourceUrl": "'Orto,_10-Dec-2007.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:3910_-_Venezia_-_Campo_San_Giacometto_-_Foto_Giovanni_Dall'Orto,_10-Dec-2007.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
     }
-  ]
+  ],
+  "coverAssetId": "venice-san-marco-rialto-republic-cover"
 }

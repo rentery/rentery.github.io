@@ -2180,7 +2180,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "george-town-malaysia-clan-jetties-weld-quay-cover"
     },
     {
       "id": "george-town-malaysia-little-india-street-of-harmony",
@@ -5126,5 +5127,5 @@
       }
     }
   ],
-  "packHash": "e70e7ec095c2"
+  "packHash": "52bdaf85ba42"
 }

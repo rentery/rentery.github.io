@@ -4238,7 +4238,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "barcelona-maritime-waterfront-cover"
     }
   ],
   "locale": "ru",
@@ -5178,5 +5179,5 @@
       }
     }
   ],
-  "packHash": "77159408cd8e"
+  "packHash": "0f4861a4aa84"
 }

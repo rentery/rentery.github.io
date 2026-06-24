@@ -2879,13 +2879,13 @@
           "photo": {
             "id": "berlin-bernauer-strasse-wall-stop-6",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-square.jpg",
+            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-square.jpg",
             "alt": "Gedenkstätte Berliner Mauer - Fenster des Gedenkens",
             "attribution": {
-              "author": "Blunt.",
-              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Berliner_Mauer_-_Fenster_des_Gedenkens.jpg",
+              "author": "Ansgar Koreng",
+              "license": "CC BY 3.0 de; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:141212_Aussichtsturm_Dokumentationszentrum_Berliner_Mauer_1.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -2928,13 +2928,13 @@
           "photo": {
             "id": "berlin-bernauer-strasse-wall-stop-3",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-square.jpg",
+            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-square.jpg",
             "alt": "141212 Aussichtsturm Dokumentationszentrum Berliner Mauer 1",
             "attribution": {
-              "author": "Ansgar Koreng",
-              "license": "CC BY 3.0 de; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:141212_Aussichtsturm_Dokumentationszentrum_Berliner_Mauer_1.jpg",
+              "author": "HerrAdams",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Bernauer_Stra%C3%9Fe,_Denkmal_Wachturm_2014-07.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -2977,13 +2977,13 @@
           "photo": {
             "id": "berlin-bernauer-strasse-wall-stop-4",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-square.jpg",
+            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-square.jpg",
             "alt": "Berlin, Bernauer Straße, Denkmal Wachturm 2014-07",
             "attribution": {
-              "author": "HerrAdams",
-              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Bernauer_Stra%C3%9Fe,_Denkmal_Wachturm_2014-07.jpg",
+              "author": "Ansgar Koreng",
+              "license": "CC BY 3.0 de; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapelle_der_Vers%C3%B6hnung.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -3026,13 +3026,13 @@
           "photo": {
             "id": "berlin-bernauer-strasse-wall-stop-5",
             "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-square.jpg",
+            "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-square.jpg",
             "alt": "Kapelle der Versöhnung",
             "attribution": {
-              "author": "Ansgar Koreng",
-              "license": "CC BY 3.0 de; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapelle_der_Vers%C3%B6hnung.jpg",
+              "author": "Blunt.",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Berliner_Mauer_-_Fenster_des_Gedenkens.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -5279,7 +5279,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "berlin-east-side-kreuzberg-river-cover"
     },
     {
       "id": "berlin-unter-den-linden-museum-island",
@@ -6983,7 +6984,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "berlin-unter-den-linden-museum-island-cover"
     }
   ],
   "locale": "en",
@@ -7349,13 +7351,13 @@
       "photo": {
         "id": "berlin-bernauer-strasse-wall-stop-6",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-square.jpg",
         "alt": "Gedenkstätte Berliner Mauer - Fenster des Gedenkens",
         "attribution": {
-          "author": "Blunt.",
-          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Berliner_Mauer_-_Fenster_des_Gedenkens.jpg",
+          "author": "Ansgar Koreng",
+          "license": "CC BY 3.0 de; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:141212_Aussichtsturm_Dokumentationszentrum_Berliner_Mauer_1.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -7398,13 +7400,13 @@
       "photo": {
         "id": "berlin-bernauer-strasse-wall-stop-3",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-3-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-square.jpg",
         "alt": "141212 Aussichtsturm Dokumentationszentrum Berliner Mauer 1",
         "attribution": {
-          "author": "Ansgar Koreng",
-          "license": "CC BY 3.0 de; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:141212_Aussichtsturm_Dokumentationszentrum_Berliner_Mauer_1.jpg",
+          "author": "HerrAdams",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Bernauer_Stra%C3%9Fe,_Denkmal_Wachturm_2014-07.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -7447,13 +7449,13 @@
       "photo": {
         "id": "berlin-bernauer-strasse-wall-stop-4",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-4-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-square.jpg",
         "alt": "Berlin, Bernauer Straße, Denkmal Wachturm 2014-07",
         "attribution": {
-          "author": "HerrAdams",
-          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin,_Bernauer_Stra%C3%9Fe,_Denkmal_Wachturm_2014-07.jpg",
+          "author": "Ansgar Koreng",
+          "license": "CC BY 3.0 de; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapelle_der_Vers%C3%B6hnung.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -7496,13 +7498,13 @@
       "photo": {
         "id": "berlin-bernauer-strasse-wall-stop-5",
         "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-5-square.jpg",
+        "wide": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/berlin/berlin-bernauer-strasse-wall-stop-6-square.jpg",
         "alt": "Kapelle der Versöhnung",
         "attribution": {
-          "author": "Ansgar Koreng",
-          "license": "CC BY 3.0 de; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapelle_der_Vers%C3%B6hnung.jpg",
+          "author": "Blunt.",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Berliner_Mauer_-_Fenster_des_Gedenkens.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -8241,5 +8243,5 @@
       }
     }
   ],
-  "packHash": "1ef286452ffe"
+  "packHash": "e8bcedfee9f8"
 }

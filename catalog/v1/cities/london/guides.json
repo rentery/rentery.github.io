@@ -1915,7 +1915,8 @@
           }
         }
       }
-    ]
+    ],
+    "coverAssetId": "london-westminster-whitehall-power-cover"
   },
   {
     "id": "london-city-tower-st-pauls-layers",
@@ -4423,7 +4424,8 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "london-city-tower-st-pauls-layers-cover"
   },
   {
     "id": "london-greenwich-maritime-time",

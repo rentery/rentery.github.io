@@ -3829,7 +3829,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "edinburgh-new-town-enlightenment-grid-cover"
     },
     {
       "id": "edinburgh-dean-village-water-of-leith",
@@ -10464,5 +10465,5 @@
       }
     }
   ],
-  "packHash": "7148e9362856"
+  "packHash": "a8f93a0c3cd6"
 }

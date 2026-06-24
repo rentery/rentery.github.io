@@ -3573,7 +3573,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "mexico-city-chapultepec-memory-forest-cover"
     },
     {
       "id": "mexico-city-coyoacan-village-art",
@@ -5557,5 +5558,5 @@
       }
     }
   ],
-  "packHash": "a498ac450606"
+  "packHash": "04608770bc5c"
 }

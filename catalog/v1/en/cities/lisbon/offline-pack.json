@@ -3478,7 +3478,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "lisbon-alfama-castle-old-hill-cover"
     },
     {
       "id": "lisbon-belem-river-discoveries",
@@ -8402,5 +8403,5 @@
       }
     }
   ],
-  "packHash": "fbc46a839dc5"
+  "packHash": "6bbbf93e0c5b"
 }

@@ -5168,7 +5168,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "bangkok-banglamphu-walls-river-cover"
     },
     {
       "id": "bangkok-siam-ban-khrua-silk-modern",
@@ -6822,7 +6823,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "bangkok-siam-ban-khrua-silk-modern-cover"
     }
   ],
   "locale": "ru",
@@ -8025,5 +8027,5 @@
       }
     }
   ],
-  "packHash": "2b3852e466c3"
+  "packHash": "9f30a8a38d37"
 }

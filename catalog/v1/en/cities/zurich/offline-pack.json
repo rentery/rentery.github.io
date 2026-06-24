@@ -4913,7 +4913,8 @@
             "height": 1000
           }
         }
-      }
+      },
+      "coverAssetId": "zurich-west-industrial-reuse-cover"
     },
     {
       "id": "zurich-lake-bellevue-zurichhorn",
@@ -7248,7 +7249,8 @@
             "height": 1000
           }
         }
-      }
+      },
+      "coverAssetId": "zurich-lake-bellevue-zurichhorn-cover"
     }
   ],
   "locale": "en",
@@ -8205,5 +8207,5 @@
       }
     }
   ],
-  "packHash": "492423ba59a8"
+  "packHash": "c3d12400a304"
 }

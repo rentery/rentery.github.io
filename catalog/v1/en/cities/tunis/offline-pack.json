@@ -3109,7 +3109,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "tunis-sidi-bou-said-white-hill-cover"
     },
     {
       "id": "tunis-carthage-byrsa-sea-empires",
@@ -4589,7 +4590,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "tunis-carthage-byrsa-sea-empires-cover"
     }
   ],
   "locale": "en",
@@ -5628,5 +5630,5 @@
       }
     }
   ],
-  "packHash": "81993dea848b"
+  "packHash": "e313a4e1b273"
 }

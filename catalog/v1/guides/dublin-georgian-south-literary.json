@@ -53,13 +53,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-square.jpg",
         "alt": "St.Stephen's Green, Dublin, Ireland",
         "attribution": {
           "author": "Hugues Adamo hugueshh",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": "'s_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St.Stephen's_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -92,13 +92,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-square.jpg",
         "alt": "Newman House, Dublin",
         "attribution": {
           "author": "Michael Foley",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newman_House,_Dublin.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -131,13 +131,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-square.jpg",
         "alt": "National Museum of Ireland, Kildare Street, salone del tesoro",
         "attribution": {
           "author": "Sailko",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Ireland,_Kildare_Street,_salone_del_tesoro.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -170,13 +170,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-square.jpg",
         "alt": "Leinster House – vue du coté de Merrion Square",
         "attribution": {
           "author": "Cqui",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leinster_House_-_cote_Merrion_Square.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -209,13 +209,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-square.jpg",
         "alt": "National Gallery of Ireland exterior",
         "attribution": {
           "author": "Sheila1988",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Ireland_exterior.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -248,13 +248,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-square.jpg",
         "alt": "Evening at Government Buildings, Merrion Square, Dublin",
         "attribution": {
           "author": "David Kernan",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_at_Government_Buildings,_Merrion_Square,_01.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -287,13 +287,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-square.jpg",
         "alt": "1 Merrion Square, childhood home of Oscar Wilde in Dublin",
         "attribution": {
           "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Merrion_Square,_the_American_College_Dublin,_the_childhood_home_of_Oscar_Wilde,_Dublin_2,_Ireland.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -306,8 +306,9 @@
   "cover": {
     "id": "dublin-georgian-south-literary-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «dublin-georgian-south-literary»"
-  }
+  },
+  "coverAssetId": "dublin-georgian-south-literary-cover"
 }

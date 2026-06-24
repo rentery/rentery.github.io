@@ -4660,7 +4660,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "belgrade-novi-beograd-federal-concrete-cover"
     },
     {
       "id": "belgrade-zemun-danube-town",
@@ -7612,7 +7613,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "belgrade-skadarlija-dorcol-evening-cover"
     }
   ],
   "locale": "en",
@@ -9035,5 +9037,5 @@
       }
     }
   ],
-  "packHash": "014bcf0c177a"
+  "packHash": "d67469bde61e"
 }

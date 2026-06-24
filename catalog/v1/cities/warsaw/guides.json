@@ -1279,7 +1279,8 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "warsaw-old-town-royal-route-rebuilt-city-cover"
   },
   {
     "id": "warsaw-north-praga-right-bank",
@@ -3153,7 +3154,8 @@
       "wide": "https://rentery.github.io/images/v1/warsaw/warsaw-north-praga-right-bank-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/warsaw/warsaw-north-praga-right-bank-cover-square.jpg",
       "alt": "Иллюстрация правобережной Праги: краснокирпичные заводы, ворота рынка и купола собора над брусчатой улицей"
-    }
+    },
+    "coverAssetId": "warsaw-north-praga-right-bank-cover"
   },
   {
     "id": "warsaw-muranow-jewish-memory-rebuilt-district",
@@ -5072,6 +5074,7 @@
       "wide": "https://rentery.github.io/images/v1/warsaw/warsaw-muranow-jewish-memory-rebuilt-district-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/warsaw/warsaw-muranow-jewish-memory-rebuilt-district-cover-square.jpg",
       "alt": "Символическое изображение Муранува: современная застройка и призрачные очертания довоенных улиц."
-    }
+    },
+    "coverAssetId": "warsaw-muranow-jewish-memory-rebuilt-district-cover"
   }
 ]

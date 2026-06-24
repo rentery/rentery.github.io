@@ -3547,7 +3547,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "osaka-dotonbori-namba-neon-food-theatre-cover"
     },
     {
       "id": "osaka-shinsekai-tennoji-retro-future",
@@ -4976,7 +4977,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "osaka-shinsekai-tennoji-retro-future-cover"
     }
   ],
   "locale": "en",
@@ -5874,5 +5876,5 @@
       }
     }
   ],
-  "packHash": "81c96353d1b8"
+  "packHash": "c6e22032d8bb"
 }

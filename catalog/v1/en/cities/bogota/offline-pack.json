@@ -3734,7 +3734,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "bogota-monserrate-eastern-hills-cover"
     },
     {
       "id": "bogota-centro-internacional-macarena",
@@ -5188,7 +5189,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "bogota-centro-internacional-macarena-cover"
     },
     {
       "id": "bogota-chapinero-quinta-camacho",
@@ -8151,5 +8153,5 @@
       }
     }
   ],
-  "packHash": "f43133a3dfbd"
+  "packHash": "8cea01bb3781"
 }

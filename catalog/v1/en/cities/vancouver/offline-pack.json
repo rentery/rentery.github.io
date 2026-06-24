@@ -3497,7 +3497,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "vancouver-stanley-park-seawall-layers-cover"
     },
     {
       "id": "vancouver-gastown-waterfront-rail-port",
@@ -4682,7 +4683,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "vancouver-gastown-waterfront-rail-port-cover"
     },
     {
       "id": "vancouver-chinatown-strathcona-memory",
@@ -6545,7 +6547,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "vancouver-chinatown-strathcona-memory-cover"
     }
   ],
   "locale": "en",
@@ -7571,5 +7574,5 @@
       }
     }
   ],
-  "packHash": "c24f2324d866"
+  "packHash": "58142546a8f1"
 }

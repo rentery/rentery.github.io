@@ -640,8 +640,8 @@
   "cover": {
     "id": "madrid-sol-mayor-palace-capital-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «madrid-sol-mayor-palace-capital»"
   },
   "stopList": [
@@ -673,13 +673,13 @@
       "photo": {
         "id": "madrid-sol-mayor-palace-capital-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-1-square.jpg",
         "alt": "126 Puerta del Sol (Madrid), al fons la Real Casa de Correos, seu de la Comunidad de Madrid.jpg",
         "attribution": {
           "author": "Enric",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "),_al_fons_la_Real_Casa_de_Correos,_seu_de_la_Comunidad_de_Madrid.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:126_Puerta_del_Sol_(Madrid),_al_fons_la_Real_Casa_de_Correos,_seu_de_la_Comunidad_de_Madrid.jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -722,13 +722,13 @@
       "photo": {
         "id": "madrid-sol-mayor-palace-capital-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-2-square.jpg",
         "alt": "Antique buildings at Calle Mayor (Madrid).JPG",
         "attribution": {
           "author": "David Adam Kess",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antique_buildings_at_Calle_Mayor_(Madrid).JPG",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -769,13 +769,13 @@
       "photo": {
         "id": "madrid-sol-mayor-palace-capital-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-3-square.jpg",
         "alt": "169 Plaza Mayor (Madrid), banda nord, amb la Casa de la Panadería.jpg",
         "attribution": {
           "author": "Enric",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "),_banda_nord,_amb_la_Casa_de_la_Panader%C3%ADa.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:169_Plaza_Mayor_(Madrid),_banda_nord,_amb_la_Casa_de_la_Panader%C3%ADa.jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -816,13 +816,13 @@
       "photo": {
         "id": "madrid-sol-mayor-palace-capital-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-4-square.jpg",
         "alt": "Catedral de Santa María la Real de la Almudena.jpg",
         "attribution": {
           "author": "Qwexcxewq",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa_la_Real_de_la_Almudena.jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -873,13 +873,13 @@
       "photo": {
         "id": "madrid-sol-mayor-palace-capital-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-stop-5-square.jpg",
         "alt": "Площадь Армерии перед Королевским дворцом в Мадриде.",
         "attribution": {
           "author": "rene boulay",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_Plaza_De_La_Armer%C3%ADa_Palacio_Real_De_Madrid_Cour_-_panoramio.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -887,7 +887,7 @@
   ],
   "coverAssetId": "madrid-sol-mayor-palace-capital-cover",
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/madrid/madrid-sol-mayor-palace-capital-basemap.png",
     "center": {
       "latitude": 40.416655,
       "longitude": -3.709025

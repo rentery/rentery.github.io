@@ -2292,7 +2292,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "philadelphia-south-ninth-immigrant-market-cover"
     },
     {
       "id": "philadelphia-parkway-museums-axis",
@@ -5175,5 +5176,5 @@
       }
     }
   ],
-  "packHash": "151c8d12b5a8"
+  "packHash": "4e77f2beb937"
 }

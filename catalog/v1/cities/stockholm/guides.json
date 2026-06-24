@@ -3484,7 +3484,8 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "stockholm-sodermalm-heights-slussen-cover"
   },
   {
     "id": "stockholm-djurgarden-vasa-park-island",
@@ -5592,6 +5593,7 @@
       "width": 600,
       "height": 360,
       "attribution": "© OpenStreetMap contributors"
-    }
+    },
+    "coverAssetId": "stockholm-djurgarden-vasa-park-island-cover"
   }
 ]

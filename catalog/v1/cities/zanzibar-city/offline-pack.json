@@ -1750,8 +1750,8 @@
                 "width": 1600
               },
               "square": {
-                "width": 1000,
-                "height": 1000
+                "width": 800,
+                "height": 800
               }
             }
           }
@@ -1955,7 +1955,8 @@
             "height": 1000
           }
         }
-      }
+      },
+      "coverAssetId": "zanzibar-city-mkunazini-slave-market-memory-cover"
     },
     {
       "id": "zanzibar-city-darajani-malindi-market-port",
@@ -2960,7 +2961,8 @@
             "height": 1000
           }
         }
-      }
+      },
+      "coverAssetId": "zanzibar-city-darajani-malindi-market-port-cover"
     }
   ],
   "locale": "ru",
@@ -3101,8 +3103,8 @@
             "width": 1600
           },
           "square": {
-            "width": 1000,
-            "height": 1000
+            "width": 800,
+            "height": 800
           }
         }
       }
@@ -3516,5 +3518,5 @@
       }
     }
   ],
-  "packHash": "89e377a101c4"
+  "packHash": "3dea64aff50f"
 }

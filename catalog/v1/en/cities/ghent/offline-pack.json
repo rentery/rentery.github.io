@@ -1746,7 +1746,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "ghent-gravensteen-patershol-power-cover"
     },
     {
       "id": "ghent-portus-ganda-abbey-origins",
@@ -6323,5 +6324,5 @@
       }
     }
   ],
-  "packHash": "e2a8049151ba"
+  "packHash": "a12064632d00"
 }

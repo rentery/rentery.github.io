@@ -1236,7 +1236,8 @@
             }
           }
         }
-      ]
+      ],
+      "coverAssetId": "vienna-stephansdom-hofburg-power-core-cover"
     },
     {
       "id": "vienna-schonbrunn-summer-empire-garden",
@@ -2783,7 +2784,8 @@
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-schonbrunn-summer-empire-garden-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-schonbrunn-summer-empire-garden-cover-square.jpg",
         "alt": "Панорамный вид на дворец Сёнбрунн с барочным садом и Глориеттой на холме"
-      }
+      },
+      "coverAssetId": "vienna-schonbrunn-summer-empire-garden-cover"
     },
     {
       "id": "vienna-ringstrasse-boulevard-empire",
@@ -4624,7 +4626,8 @@
           "profile": "walk",
           "generatedAt": "2026-06-23T21:42:08.165Z"
         }
-      }
+      },
+      "coverAssetId": "vienna-ringstrasse-boulevard-empire-cover"
     }
   ],
   "locale": "ru",
@@ -5557,5 +5560,5 @@
       }
     }
   ],
-  "packHash": "9ce1fec01b9c"
+  "packHash": "e1e2dc3edcff"
 }

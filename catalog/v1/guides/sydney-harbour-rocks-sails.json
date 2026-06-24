@@ -1679,8 +1679,8 @@
   "cover": {
     "id": "sydney-harbour-rocks-sails-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «sydney-harbour-rocks-sails»"
   },
   "stopList": [
@@ -1712,13 +1712,13 @@
       "photo": {
         "id": "stop-image-barangaroo-reserve-headland",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-square.jpg",
         "alt": "Barangaroo Reserve pano.jpg",
         "attribution": {
           "author": "Dicklyon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABarangaroo_Reserve_pano.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -1755,13 +1755,13 @@
       "photo": {
         "id": "stop-image-observatory-hill",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-square.jpg",
         "alt": "(1)Observatory Hill Sydney.jpg",
         "attribution": {
           "author": "Sardaka",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Observatory_Hill_Sydney.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -1798,13 +1798,13 @@
       "photo": {
         "id": "stop-image-argyle-cut",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-square.jpg",
         "alt": "In the Argyle Cut below the Sydney Harbour Bridge approach.jpg",
         "attribution": {
           "author": "Dicklyon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIn_the_Argyle_Cut_below_the_Sydney_Harbour_Bridge_approach.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -1841,13 +1841,13 @@
       "photo": {
         "id": "stop-image-cadmans-cottage",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-square.jpg",
         "alt": "Front of Cadman's Cottage.jpg",
         "attribution": {
           "author": "Julioenrekei",
           "license": "Public Domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFront_of_Cadman%27s_Cottage.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -1884,13 +1884,13 @@
       "photo": {
         "id": "stop-image-mca-first-fleet-edge",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-square.jpg",
         "alt": "(1)Museum of Contemporary Art-1.jpg",
         "attribution": {
           "author": "Sardaka",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Museum_of_Contemporary_Art-1.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -1931,13 +1931,13 @@
       "photo": {
         "id": "sydney-harbour-rocks-sails-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-square.jpg",
         "alt": "Sydney Opera House from the west / Western Broadwalk.",
         "attribution": {
           "author": "-wuppertaler",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUS_Sydney,_Central_Business_District,_Sydney_Opera_House_028.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -1974,20 +1974,20 @@
       "photo": {
         "id": "sydney-harbour-rocks-sails-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-square.jpg",
         "alt": "Sydney Opera House forecourt and concourse.jpg",
         "attribution": {
           "author": "Peter Hall",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_forecourt_and_concourse.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
     }
   ],
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-basemap.png",
     "center": {
       "latitude": -33.8584,
       "longitude": 151.20825000000002
@@ -1996,5 +1996,6 @@
     "width": 600,
     "height": 360,
     "attribution": "© OpenStreetMap contributors"
-  }
+  },
+  "coverAssetId": "sydney-harbour-rocks-sails-cover"
 }

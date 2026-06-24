@@ -7983,7 +7983,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "shanghai-wukang-sinan-shikumen-cover"
     },
     {
       "id": "shanghai-yuyuan-old-city-garden",
@@ -9285,7 +9286,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "shanghai-yuyuan-old-city-garden-cover"
     }
   ],
   "locale": "ru",
@@ -10308,5 +10310,5 @@
       }
     }
   ],
-  "packHash": "ea0beb70e73e"
+  "packHash": "b81d4e6b6a03"
 }

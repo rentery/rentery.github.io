@@ -1064,7 +1064,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "istanbul-sultanahmet-imperial-layers-cover"
     },
     {
       "id": "istanbul-galata-beyoglu-pera-stage",
@@ -3259,7 +3260,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "istanbul-galata-beyoglu-pera-stage-cover"
     },
     {
       "id": "istanbul-golden-horn-suleymaniye-zeyrek-balat",
@@ -8487,5 +8489,5 @@
       }
     }
   ],
-  "packHash": "34827ca3e5f9"
+  "packHash": "c2d5fb1223ae"
 }

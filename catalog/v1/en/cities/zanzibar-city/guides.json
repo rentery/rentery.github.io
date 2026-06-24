@@ -1719,8 +1719,8 @@
               "width": 1600
             },
             "square": {
-              "width": 1000,
-              "height": 1000
+              "width": 800,
+              "height": 800
             }
           }
         }
@@ -1924,7 +1924,8 @@
           "height": 1000
         }
       }
-    }
+    },
+    "coverAssetId": "zanzibar-city-mkunazini-slave-market-memory-cover"
   },
   {
     "id": "zanzibar-city-darajani-malindi-market-port",
@@ -2929,6 +2930,7 @@
           "height": 1000
         }
       }
-    }
+    },
+    "coverAssetId": "zanzibar-city-darajani-malindi-market-port-cover"
   }
 ]

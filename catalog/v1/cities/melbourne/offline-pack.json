@@ -890,8 +890,8 @@
       "cover": {
         "id": "melbourne-laneways-arcades-cbd-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «melbourne-laneways-arcades-cbd»"
       },
       "stopList": [
@@ -934,13 +934,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-square.jpg",
             "alt": "Fed Square, Melbourne, north view 20230219 1.jpg",
             "attribution": {
               "author": "DXR",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFed_Square%2C_Melbourne%2C_north_view_20230219_1.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -986,13 +986,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-square.jpg",
             "alt": "Hanging shoes detail in Hosier Lane, Melbourne.",
             "attribution": {
               "author": "SuperJew",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanging_Shoes_in_Hosier_Lane.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1032,13 +1032,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-3-square.jpg",
             "alt": "Degraves Street днём: узкий проход, столики кафе и северная перспектива переулка.",
             "attribution": {
               "author": "Philip Mallis",
               "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Degraves_Street,_Melbourne,_February_2022.jpg",
               "retrievedAt": "2026-06-16"
             }
           },
@@ -1089,13 +1089,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-square.jpg",
             "alt": "Melbourne Centre Place.jpg",
             "attribution": {
               "author": "Vincent Quach ( User:Invincible )",
               "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMelbourne_Centre_Place.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1135,13 +1135,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-5-square.jpg",
             "alt": "Интерьер The Block Arcade: стеклянная крыша, орнамент и центральный проход.",
             "attribution": {
               "author": "jwbenwell",
               "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Block_Arcade_interior,_Melbourne.jpg",
               "retrievedAt": "2026-06-16"
             }
           },
@@ -1191,13 +1191,13 @@
           "photo": {
             "id": "melbourne-laneways-arcades-cbd-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-square.jpg",
             "alt": "Royal Arcade, Melbourne, Australia - April 2004.jpg",
             "attribution": {
               "author": "Diliff",
               "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Arcade%2C_Melbourne%2C_Australia_-_April_2004.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -1205,7 +1205,7 @@
       ],
       "coverAssetId": "melbourne-laneways-arcades-cbd-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-basemap.png",
         "center": {
           "latitude": -37.81615,
           "longitude": 144.96630005
@@ -2724,13 +2724,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-1-square.jpg",
             "alt": "Здание Koorie Heritage Trust в Yarra Building на Federation Square",
             "attribution": {
               "author": "Canley",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koorie_Heritage_Trust_-_Yarra_Building,_Fed_Square.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2769,13 +2769,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-2-square.jpg",
             "alt": "Birrarung Wilam Common Ground в парке Биррарунг-Марр",
             "attribution": {
               "author": "Shkuru Afshar",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ")_(1).jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Wilam_(Common_Ground)_(1).jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2814,13 +2814,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-3-square.jpg",
             "alt": "Ряд бронзовых колоколов разных размеров на открытой площадке в парке",
             "attribution": {
               "author": "R Jones at English Wikipedia",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Marr_Federation_Bells_Artwork.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2859,13 +2859,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-4-square.jpg",
             "alt": "Birrarung Marr Speakers Corner.jpg",
             "attribution": {
-              "author": "The original uploader was Tirin at English Wikipedia.",
+              "author": "The original uploader was Tirin at English Wikipedia .",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Marr_Speakers_Corner.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2904,13 +2904,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-5-square.jpg",
             "alt": "Белая стальная конструкция пешеходного моста через железнодорожные пути в Мельбурне",
             "attribution": {
               "author": "Voland b",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Barak_Bridge_5.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2949,13 +2949,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-6-square.jpg",
             "alt": "Высокий эвкалипт с овальным шрамом в коре на природной тропе",
             "attribution": {
               "author": "JakJD",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aboriginal_scar_tree_Long_Forest_Nature_Conservation_Reserve_Victoria.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -2994,13 +2994,13 @@
           "photo": {
             "id": "melbourne-birrarung-aboriginal-river-edge-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-7-square.jpg",
             "alt": "Бронзовая статуя Тома Уиллcа, держащего мяч, на постаменте перед входом в стадион",
             "attribution": {
               "author": "Michael Coghlan from Adelaide, Australia",
               "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Wills_Statue.jpg",
               "retrievedAt": "2026-06-18"
             }
           }
@@ -3009,12 +3009,12 @@
       "cover": {
         "id": "melbourne-birrarung-aboriginal-river-edge-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-cover-square.jpg",
         "alt": "Стилизация рассвета над рекой Ярра с силуэтами Federation Square и моста Уильяма Барака и абстрактными индейскими узорами"
       },
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-basemap.png",
         "center": {
           "latitude": -37.819815,
           "longitude": 144.97631
@@ -3023,7 +3023,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "melbourne-birrarung-aboriginal-river-edge-cover"
     },
     {
       "id": "melbourne-northern-civic-market-exhibition",
@@ -3089,13 +3090,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-1-square.jpg",
             "alt": "File:Queen Victoria Market walk (Unsplash).jpg",
             "attribution": {
               "author": "Linda Xu",
               "license": "CC0 1.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_Market_walk_(Unsplash).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3133,13 +3134,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-2-square.jpg",
             "alt": "File:Jacaranda Flagstaff Gardens, Melbourne.jpg",
             "attribution": {
               "author": "a.canvas.of.light",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacaranda_Flagstaff_Gardens,_Melbourne.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3177,13 +3178,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-3-square.jpg",
             "alt": "File:Old Melbourne Gaol (214923673).jpg",
             "attribution": {
               "author": "Hideki Saito",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Melbourne_Gaol_(214923673).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3221,13 +3222,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-4-square.jpg",
             "alt": "Upward view of Coop's Shot Tower inside Melbourne Central.",
             "attribution": {
               "author": "Orderinchaos",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Central_Coop%27s_Shot_Tower_2018.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3266,13 +3267,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-5-square.jpg",
             "alt": "File:State Library of Victoria Dome.jpg",
             "attribution": {
               "author": "a.canvas.of.light",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Library_of_Victoria_Dome.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3311,13 +3312,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-6-square.jpg",
             "alt": "File:Melbourne Trades Hall entrance.jpg",
             "attribution": {
               "author": "Takver",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Trades_Hall_entrance.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3355,13 +3356,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-7-square.jpg",
             "alt": "File:Carlton Gardens in autumn.jpg",
             "attribution": {
               "author": "Xiquinho Silva",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carlton_Gardens_in_autumn.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3400,13 +3401,13 @@
           "photo": {
             "id": "melbourne-northern-civic-market-exhibition-stop-8",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-8-square.jpg",
             "alt": "File:Royal Exhibition Building dome 20180725-007.jpg",
             "attribution": {
               "author": "Gary Houston",
               "license": "CC0 1.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Exhibition_Building_dome_20180725-007.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3415,8 +3416,8 @@
       "cover": {
         "id": "cover-image",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «melbourne-northern-civic-market-exhibition»"
       },
       "coverAssetId": "melbourne-northern-civic-market-exhibition-cover"
@@ -3464,13 +3465,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-1-square.jpg",
         "alt": "Fed Square, Melbourne, north view 20230219 1.jpg",
         "attribution": {
           "author": "DXR",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFed_Square%2C_Melbourne%2C_north_view_20230219_1.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -3516,13 +3517,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-2-square.jpg",
         "alt": "Hanging shoes detail in Hosier Lane, Melbourne.",
         "attribution": {
           "author": "SuperJew",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanging_Shoes_in_Hosier_Lane.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -3562,13 +3563,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-3-square.jpg",
         "alt": "Degraves Street днём: узкий проход, столики кафе и северная перспектива переулка.",
         "attribution": {
           "author": "Philip Mallis",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Degraves_Street,_Melbourne,_February_2022.jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -3619,13 +3620,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-4-square.jpg",
         "alt": "Melbourne Centre Place.jpg",
         "attribution": {
           "author": "Vincent Quach ( User:Invincible )",
           "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMelbourne_Centre_Place.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -3665,13 +3666,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-5-square.jpg",
         "alt": "Интерьер The Block Arcade: стеклянная крыша, орнамент и центральный проход.",
         "attribution": {
           "author": "jwbenwell",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Block_Arcade_interior,_Melbourne.jpg",
           "retrievedAt": "2026-06-16"
         }
       },
@@ -3721,13 +3722,13 @@
       "photo": {
         "id": "melbourne-laneways-arcades-cbd-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-laneways-arcades-cbd-stop-6-square.jpg",
         "alt": "Royal Arcade, Melbourne, Australia - April 2004.jpg",
         "attribution": {
           "author": "Diliff",
           "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Arcade%2C_Melbourne%2C_Australia_-_April_2004.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -3766,13 +3767,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-1-square.jpg",
         "alt": "Здание Koorie Heritage Trust в Yarra Building на Federation Square",
         "attribution": {
           "author": "Canley",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koorie_Heritage_Trust_-_Yarra_Building,_Fed_Square.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -3811,13 +3812,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-2-square.jpg",
         "alt": "Birrarung Wilam Common Ground в парке Биррарунг-Марр",
         "attribution": {
           "author": "Shkuru Afshar",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")_(1).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Wilam_(Common_Ground)_(1).jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -3856,13 +3857,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-3-square.jpg",
         "alt": "Ряд бронзовых колоколов разных размеров на открытой площадке в парке",
         "attribution": {
           "author": "R Jones at English Wikipedia",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Marr_Federation_Bells_Artwork.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -3901,13 +3902,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-4-square.jpg",
         "alt": "Birrarung Marr Speakers Corner.jpg",
         "attribution": {
-          "author": "The original uploader was Tirin at English Wikipedia.",
+          "author": "The original uploader was Tirin at English Wikipedia .",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birrarung_Marr_Speakers_Corner.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -3946,13 +3947,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-5-square.jpg",
         "alt": "Белая стальная конструкция пешеходного моста через железнодорожные пути в Мельбурне",
         "attribution": {
           "author": "Voland b",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Barak_Bridge_5.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -3991,13 +3992,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-6-square.jpg",
         "alt": "Высокий эвкалипт с овальным шрамом в коре на природной тропе",
         "attribution": {
           "author": "JakJD",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aboriginal_scar_tree_Long_Forest_Nature_Conservation_Reserve_Victoria.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -4036,13 +4037,13 @@
       "photo": {
         "id": "melbourne-birrarung-aboriginal-river-edge-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-birrarung-aboriginal-river-edge-stop-7-square.jpg",
         "alt": "Бронзовая статуя Тома Уиллcа, держащего мяч, на постаменте перед входом в стадион",
         "attribution": {
           "author": "Michael Coghlan from Adelaide, Australia",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Wills_Statue.jpg",
           "retrievedAt": "2026-06-18"
         }
       }
@@ -4080,13 +4081,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-1-square.jpg",
         "alt": "File:Queen Victoria Market walk (Unsplash).jpg",
         "attribution": {
           "author": "Linda Xu",
           "license": "CC0 1.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_Market_walk_(Unsplash).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4124,13 +4125,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-2-square.jpg",
         "alt": "File:Jacaranda Flagstaff Gardens, Melbourne.jpg",
         "attribution": {
           "author": "a.canvas.of.light",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacaranda_Flagstaff_Gardens,_Melbourne.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4168,13 +4169,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-3-square.jpg",
         "alt": "File:Old Melbourne Gaol (214923673).jpg",
         "attribution": {
           "author": "Hideki Saito",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Melbourne_Gaol_(214923673).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4212,13 +4213,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-4-square.jpg",
         "alt": "Upward view of Coop's Shot Tower inside Melbourne Central.",
         "attribution": {
           "author": "Orderinchaos",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Central_Coop%27s_Shot_Tower_2018.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4257,13 +4258,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-5-square.jpg",
         "alt": "File:State Library of Victoria Dome.jpg",
         "attribution": {
           "author": "a.canvas.of.light",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Library_of_Victoria_Dome.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4302,13 +4303,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-6-square.jpg",
         "alt": "File:Melbourne Trades Hall entrance.jpg",
         "attribution": {
           "author": "Takver",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Trades_Hall_entrance.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4346,13 +4347,13 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-7-square.jpg",
         "alt": "File:Carlton Gardens in autumn.jpg",
         "attribution": {
           "author": "Xiquinho Silva",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carlton_Gardens_in_autumn.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -4391,17 +4392,17 @@
       "photo": {
         "id": "melbourne-northern-civic-market-exhibition-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/melbourne/melbourne-northern-civic-market-exhibition-stop-8-square.jpg",
         "alt": "File:Royal Exhibition Building dome 20180725-007.jpg",
         "attribution": {
           "author": "Gary Houston",
           "license": "CC0 1.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Exhibition_Building_dome_20180725-007.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "27d3ca5971eb"
+  "packHash": "136776798563"
 }

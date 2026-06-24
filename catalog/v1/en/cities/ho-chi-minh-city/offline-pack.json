@@ -1262,7 +1262,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "ho-chi-minh-city-cholon-markets-temples-cover"
     },
     {
       "id": "ho-chi-minh-city-district-3-memory-villas",
@@ -4781,5 +4782,5 @@
       }
     }
   ],
-  "packHash": "93246c91337e"
+  "packHash": "7afd6c3d85bd"
 }

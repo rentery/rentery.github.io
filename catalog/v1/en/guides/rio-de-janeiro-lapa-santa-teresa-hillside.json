@@ -1068,13 +1068,13 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-1-square.jpg",
         "alt": "Aquadukt - Arcos da Lapa a stramvají do Santa Teresa - panoramio.jpg",
         "attribution": {
           "author": "Pavel Špindler",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aquadukt_-_Arcos_da_Lapa_a_stramvaj%C3%AD_do_Santa_Teresa_-_panoramio.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -1107,13 +1107,13 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-2-square.jpg",
         "alt": "BR-rio-esc-selaron-1.jpg",
         "attribution": {
           "author": "Balou46",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BR-rio-esc-selaron-1.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -1146,13 +1146,13 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-3-square.jpg",
         "alt": "Bonde de Santa Teresa",
         "attribution": {
           "author": "Henrique Freire / Governo do Rio de Janeiro",
           "license": "CC BY 2.0 BR; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bonde_de_Santa_Teresa.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -1185,13 +1185,13 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-4-square.jpg",
         "alt": "Parque de las Ruinas, Río de Janeiro",
         "attribution": {
           "author": "LBM1948",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_de_las_Ruinas,_R%C3%ADo_de_Janeiro.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -1224,13 +1224,13 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-5-square.jpg",
         "alt": "Utensílios domésticos pertencentes ao acervo do Museu Chácara do Céu - Rio de Janeiro - foto Carlos Alkmin",
         "attribution": {
           "author": "Carlos Alkmin",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Utens%C3%ADlios_dom%C3%A9sticos_pertencentes_ao_acervo_do_Museu_Ch%C3%A1cara_do_C%C3%A9u_-_Rio_de_Janeiro_-_foto_Carlos_Alkmin.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -1263,20 +1263,20 @@
       "photo": {
         "id": "rio-de-janeiro-lapa-santa-teresa-hillside-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-stop-6-square.jpg",
         "alt": "Santa Teresa - Rio de Janeiro.jpg",
         "attribution": {
           "author": "Patrick Ruela (Ruela~commonswiki)",
           "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Teresa_-_Rio_de_Janeiro.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-basemap.png",
     "center": {
       "latitude": -22.9174165,
       "longitude": -43.182578
@@ -1289,8 +1289,9 @@
   "cover": {
     "id": "rio-de-janeiro-lapa-santa-teresa-hillside-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-lapa-santa-teresa-hillside-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «rio-de-janeiro-lapa-santa-teresa-hillside»"
-  }
+  },
+  "coverAssetId": "rio-de-janeiro-lapa-santa-teresa-hillside-cover"
 }

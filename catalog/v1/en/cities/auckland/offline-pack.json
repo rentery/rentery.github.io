@@ -3531,7 +3531,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "auckland-maungawhau-volcano-city-view-cover"
     },
     {
       "id": "auckland-domain-parnell-memory-park",
@@ -6275,7 +6276,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "auckland-domain-parnell-memory-park-cover"
     },
     {
       "id": "auckland-karangahape-road-night-culture",
@@ -8040,7 +8042,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "auckland-karangahape-road-night-culture-cover"
     }
   ],
   "locale": "en",
@@ -9160,5 +9163,5 @@
       }
     }
   ],
-  "packHash": "107e0911888e"
+  "packHash": "db83683767da"
 }

@@ -3618,7 +3618,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "boston-beacon-hill-black-heritage-cover"
     },
     {
       "id": "boston-fort-point-seaport-harborwalk",
@@ -7548,5 +7549,5 @@
       }
     }
   ],
-  "packHash": "d45b5d9d3524"
+  "packHash": "a88029d71fde"
 }

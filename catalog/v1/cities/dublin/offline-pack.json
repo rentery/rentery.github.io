@@ -1447,13 +1447,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-square.jpg",
             "alt": "St.Stephen's Green, Dublin, Ireland",
             "attribution": {
               "author": "Hugues Adamo hugueshh",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": "'s_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:St.Stephen's_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1486,13 +1486,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-square.jpg",
             "alt": "Newman House, Dublin",
             "attribution": {
               "author": "Michael Foley",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newman_House,_Dublin.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1525,13 +1525,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-square.jpg",
             "alt": "National Museum of Ireland, Kildare Street, salone del tesoro",
             "attribution": {
               "author": "Sailko",
               "license": "CC BY 3.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Ireland,_Kildare_Street,_salone_del_tesoro.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1564,13 +1564,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-square.jpg",
             "alt": "Leinster House – vue du coté de Merrion Square",
             "attribution": {
               "author": "Cqui",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leinster_House_-_cote_Merrion_Square.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1603,13 +1603,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-square.jpg",
             "alt": "National Gallery of Ireland exterior",
             "attribution": {
               "author": "Sheila1988",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Ireland_exterior.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1642,13 +1642,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-square.jpg",
             "alt": "Evening at Government Buildings, Merrion Square, Dublin",
             "attribution": {
               "author": "David Kernan",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_at_Government_Buildings,_Merrion_Square,_01.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1681,13 +1681,13 @@
           "photo": {
             "id": "dublin-georgian-south-literary-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-square.jpg",
             "alt": "1 Merrion Square, childhood home of Oscar Wilde in Dublin",
             "attribution": {
               "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Merrion_Square,_the_American_College_Dublin,_the_childhood_home_of_Oscar_Wilde,_Dublin_2,_Ireland.jpg",
               "retrievedAt": "2026-06-18"
             }
           },
@@ -1700,10 +1700,11 @@
       "cover": {
         "id": "dublin-georgian-south-literary-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «dublin-georgian-south-literary»"
-      }
+      },
+      "coverAssetId": "dublin-georgian-south-literary-cover"
     },
     {
       "id": "dublin-liberties-cathedral-brewery",
@@ -2870,13 +2871,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-1-square.jpg",
             "alt": "St Patrick's Cathedral, Dublin, Ireland",
             "attribution": {
               "author": "Thorsten Pohl",
               "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:StPatricksCathedralDublin.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2915,13 +2916,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-2-square.jpg",
             "alt": "Entrance gate to Marsh's Library, Dublin",
             "attribution": {
               "author": "Alicia Fagerving",
               "license": "CC BY‑SA 3.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marsh%27s_Library_gate.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2960,13 +2961,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-3-square.jpg",
             "alt": "St. Nicholas of Myra (Without), Francis Street, Dublin",
             "attribution": {
               "author": "DubhEire",
               "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-              "sourceUrl": ").JPG",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Nicholas_of_Myra_(Without).JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3005,13 +3006,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-4-square.jpg",
             "alt": "Teeling Whiskey Distillery, Dublin",
             "attribution": {
               "author": "William Murphy (Infomatique)",
               "license": "CC BY‑SA 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teeling_Distillery_Dublin.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3050,13 +3051,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-5-square.jpg",
             "alt": "Roe & Co Distillery, Dublin",
             "attribution": {
               "author": "Mek-laa-ni",
               "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:RoeAndCoDistillery.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3095,13 +3096,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-6-square.jpg",
             "alt": "Vicar Street music venue, Dublin",
             "attribution": {
               "author": "DubhEire",
               "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicar_Street.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3140,13 +3141,13 @@
           "photo": {
             "id": "dublin-liberties-cathedral-brewery-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-7-square.jpg",
             "alt": "St James’s Gate, the entrance to Guinness Brewery, Dublin",
             "attribution": {
               "author": "DubhEire",
               "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._James%27s_Gate.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3155,13 +3156,13 @@
       "cover": {
         "id": "dublin-liberties-cathedral-brewery-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «dublin-liberties-cathedral-brewery»"
       },
       "coverAssetId": "dublin-liberties-cathedral-brewery-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-basemap.png",
         "center": {
           "latitude": 53.342,
           "longitude": -6.2783999999999995
@@ -4779,13 +4780,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-1-square.jpg",
             "alt": "Главный вход Kilmainham Gaol в Dublin.",
             "attribution": {
               "author": "Nol Aders",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin-Kilmainham-Main-Entrance-1.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -4824,13 +4825,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-2-square.jpg",
             "alt": "Фасад Килмейнхемского суда с королевским гербом и табличкой 1820 года.",
             "attribution": {
               "author": "Marathon",
               "license": "Creative Commons Attribution‑Share Alike 2.0 Generic; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Courthouse_in_Kilmainham_Gaol_-_geograph.org.uk_-_7877927.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -4869,13 +4870,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-3-square.jpg",
             "alt": "Двуязычный указатель Military Road в районе Kilmainham рядом с маршрутом к восточным воротам.",
             "attribution": {
               "author": "Darren J. Prior",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Military_Road,_Kilmainham_bilingual_road_sign_(2024).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -4914,13 +4915,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-4-square.jpg",
             "alt": "Внутренний двор и аркады Королевского госпиталя Килмейнхем / IMMA.",
             "attribution": {
               "author": "Jnestorius",
               "license": "Public Domain; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMMA_courtyard.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -4959,13 +4960,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-5-square.jpg",
             "alt": "Формальные сады Королевского госпиталя Килмейнхем с видом на здание IMMA.",
             "attribution": {
               "author": "Ardfern",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").JPG",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Formal_Gardens,_Kilmainham,_May_2011_(20).JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -5004,13 +5005,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-6-square.jpg",
             "alt": "Общий вид древнего кладбища Були’с Эйкр с крестами и надгробиями.",
             "attribution": {
               "author": "Pastor Sam",
               "license": "Creative Commons Attribution 3.0 Unported; cropped/resized for app",
-              "sourceUrl": "'s_Acre_Kilmainham_dublin_-_panoramio.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bully's_Acre_Kilmainham_dublin_-_panoramio.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -5049,13 +5050,13 @@
           "photo": {
             "id": "dublin-kilmainham-gaol-hospital-memory-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-7-square.jpg",
             "alt": "Вид на утопленный розарий и одну из гранитных книжных комнат в Ирландском национальном мемориальном саду.",
             "attribution": {
               "author": "Osioni",
               "license": "Public Domain; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memorial_Rose-Garden_008.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -5064,13 +5065,13 @@
       "cover": {
         "id": "dublin-kilmainham-gaol-hospital-memory-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «dublin-kilmainham-gaol-hospital-memory»"
       },
       "coverAssetId": "dublin-kilmainham-gaol-hospital-memory-cover",
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-basemap.png",
         "center": {
           "latitude": 53.34125,
           "longitude": -6.308
@@ -5410,13 +5411,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-1-square.jpg",
         "alt": "St.Stephen's Green, Dublin, Ireland",
         "attribution": {
           "author": "Hugues Adamo hugueshh",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": "'s_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St.Stephen's_Green,_Dublin,_Ireland_(Unsplash_LaO4FzppovQ).jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5449,13 +5450,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-2-square.jpg",
         "alt": "Newman House, Dublin",
         "attribution": {
           "author": "Michael Foley",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newman_House,_Dublin.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5488,13 +5489,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-3-square.jpg",
         "alt": "National Museum of Ireland, Kildare Street, salone del tesoro",
         "attribution": {
           "author": "Sailko",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Ireland,_Kildare_Street,_salone_del_tesoro.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5527,13 +5528,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-4-square.jpg",
         "alt": "Leinster House – vue du coté de Merrion Square",
         "attribution": {
           "author": "Cqui",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leinster_House_-_cote_Merrion_Square.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5566,13 +5567,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-5-square.jpg",
         "alt": "National Gallery of Ireland exterior",
         "attribution": {
           "author": "Sheila1988",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Ireland_exterior.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5605,13 +5606,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-6-square.jpg",
         "alt": "Evening at Government Buildings, Merrion Square, Dublin",
         "attribution": {
           "author": "David Kernan",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_at_Government_Buildings,_Merrion_Square,_01.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5644,13 +5645,13 @@
       "photo": {
         "id": "dublin-georgian-south-literary-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-georgian-south-literary-stop-7-square.jpg",
         "alt": "1 Merrion Square, childhood home of Oscar Wilde in Dublin",
         "attribution": {
           "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Merrion_Square,_the_American_College_Dublin,_the_childhood_home_of_Oscar_Wilde,_Dublin_2,_Ireland.jpg",
           "retrievedAt": "2026-06-18"
         }
       },
@@ -5693,13 +5694,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-1-square.jpg",
         "alt": "St Patrick's Cathedral, Dublin, Ireland",
         "attribution": {
           "author": "Thorsten Pohl",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:StPatricksCathedralDublin.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5738,13 +5739,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-2-square.jpg",
         "alt": "Entrance gate to Marsh's Library, Dublin",
         "attribution": {
           "author": "Alicia Fagerving",
           "license": "CC BY‑SA 3.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marsh%27s_Library_gate.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5783,13 +5784,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-3-square.jpg",
         "alt": "St. Nicholas of Myra (Without), Francis Street, Dublin",
         "attribution": {
           "author": "DubhEire",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": ").JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Nicholas_of_Myra_(Without).JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5828,13 +5829,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-4-square.jpg",
         "alt": "Teeling Whiskey Distillery, Dublin",
         "attribution": {
           "author": "William Murphy (Infomatique)",
           "license": "CC BY‑SA 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teeling_Distillery_Dublin.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5873,13 +5874,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-5-square.jpg",
         "alt": "Roe & Co Distillery, Dublin",
         "attribution": {
           "author": "Mek-laa-ni",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RoeAndCoDistillery.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5918,13 +5919,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-6-square.jpg",
         "alt": "Vicar Street music venue, Dublin",
         "attribution": {
           "author": "DubhEire",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicar_Street.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -5963,13 +5964,13 @@
       "photo": {
         "id": "dublin-liberties-cathedral-brewery-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-liberties-cathedral-brewery-stop-7-square.jpg",
         "alt": "St James’s Gate, the entrance to Guinness Brewery, Dublin",
         "attribution": {
           "author": "DubhEire",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._James%27s_Gate.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6008,13 +6009,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-1-square.jpg",
         "alt": "Главный вход Kilmainham Gaol в Dublin.",
         "attribution": {
           "author": "Nol Aders",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin-Kilmainham-Main-Entrance-1.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6053,13 +6054,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-2-square.jpg",
         "alt": "Фасад Килмейнхемского суда с королевским гербом и табличкой 1820 года.",
         "attribution": {
           "author": "Marathon",
           "license": "Creative Commons Attribution‑Share Alike 2.0 Generic; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Courthouse_in_Kilmainham_Gaol_-_geograph.org.uk_-_7877927.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6098,13 +6099,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-3-square.jpg",
         "alt": "Двуязычный указатель Military Road в районе Kilmainham рядом с маршрутом к восточным воротам.",
         "attribution": {
           "author": "Darren J. Prior",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Military_Road,_Kilmainham_bilingual_road_sign_(2024).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6143,13 +6144,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-4-square.jpg",
         "alt": "Внутренний двор и аркады Королевского госпиталя Килмейнхем / IMMA.",
         "attribution": {
           "author": "Jnestorius",
           "license": "Public Domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IMMA_courtyard.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6188,13 +6189,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-5-square.jpg",
         "alt": "Формальные сады Королевского госпиталя Килмейнхем с видом на здание IMMA.",
         "attribution": {
           "author": "Ardfern",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Formal_Gardens,_Kilmainham,_May_2011_(20).JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6233,13 +6234,13 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-6-square.jpg",
         "alt": "Общий вид древнего кладбища Були’с Эйкр с крестами и надгробиями.",
         "attribution": {
           "author": "Pastor Sam",
           "license": "Creative Commons Attribution 3.0 Unported; cropped/resized for app",
-          "sourceUrl": "'s_Acre_Kilmainham_dublin_-_panoramio.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bully's_Acre_Kilmainham_dublin_-_panoramio.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -6278,17 +6279,17 @@
       "photo": {
         "id": "dublin-kilmainham-gaol-hospital-memory-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/dublin/dublin-kilmainham-gaol-hospital-memory-stop-7-square.jpg",
         "alt": "Вид на утопленный розарий и одну из гранитных книжных комнат в Ирландском национальном мемориальном саду.",
         "attribution": {
           "author": "Osioni",
           "license": "Public Domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memorial_Rose-Garden_008.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "2fc29d2e1a0e"
+  "packHash": "53fe6bb8be09"
 }

@@ -1,7 +1,7 @@
 {
   "id": "rio-de-janeiro-pequena-africa-porto-maravilha",
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-basemap.png",
     "center": {
       "latitude": -22.8975,
       "longitude": -43.1811
@@ -74,13 +74,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-1-square.jpg",
         "alt": "Praça Mauá, Rio de Janeiro, Brazil",
         "attribution": {
           "author": "Wilfredor",
           "license": "CC0 1.0 Universal; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praça_Mauá,_Rio_de_Janeiro,_Brazil.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -119,13 +119,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-2-square.jpg",
         "alt": "Museu do Amanhã – exterior 2018",
         "attribution": {
-          "author": "Mateus Silva Figueiredo",
+          "author": "Mateus Silva Figueiredo",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_do_Amanhã_-_exterior_2018.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -164,13 +164,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-3-square.jpg",
         "alt": "Museu de Arte do Rio 1",
         "attribution": {
           "author": "Mwaldeck",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_do_Rio_1.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -209,13 +209,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-4-square.jpg",
         "alt": "Largo de São Francisco da Prainha – Rio de Janeiro – 20240914090706",
         "attribution": {
           "author": "Nelyfcrangel",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largo_de_São_Francisco_da_Prainha_-_Rio_de_Janeiro_-_20240914090706.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -254,13 +254,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-5-square.jpg",
         "alt": "Pedra do Sal – Rio de Janeiro – 20240914162841",
         "attribution": {
           "author": "Teresacmatta",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pedra_do_Sal_-_Rio_de_Janeiro_-_20240914162841.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -299,13 +299,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-6-square.jpg",
         "alt": "Sítio Arqueológico do Cais do Valongo – Rio de Janeiro – 20220927160417",
         "attribution": {
-          "author": "Donatas Dabravolskas",
+          "author": "Donatas Dabravolskas",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sítio_Arqueológico_do_Cais_do_Valongo_-_Rio_de_Janeiro_-_20220927160417.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -344,13 +344,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-7-square.jpg",
         "alt": "Jardim Suspenso do Valongo – RJ",
         "attribution": {
-          "author": "Arine Gaspar Filho",
+          "author": "Arine Gaspar Filho",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jardim_Suspenso_do_Valongo_-_RJ.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -389,13 +389,13 @@
       "photo": {
         "id": "rio-de-janeiro-pequena-africa-porto-maravilha-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-stop-8-square.jpg",
         "alt": "Cemitério dos Pretos Novos – Rio de Janeiro – 20240914115916",
         "attribution": {
-          "author": "Juliana Cunha Oliv",
+          "author": "Juliana Cunha Oliv",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cemitério_dos_Pretos_Novos_-_Rio_de_Janeiro_-_20240914115916.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -404,8 +404,8 @@
   "cover": {
     "id": "rio-de-janeiro-pequena-africa-porto-maravilha-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/rio-de-janeiro/rio-de-janeiro-pequena-africa-porto-maravilha-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «rio-de-janeiro-pequena-africa-porto-maravilha»"
   },
   "coverAssetId": "rio-de-janeiro-pequena-africa-porto-maravilha-cover"

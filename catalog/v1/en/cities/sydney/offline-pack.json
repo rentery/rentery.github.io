@@ -1712,8 +1712,8 @@
       "cover": {
         "id": "sydney-harbour-rocks-sails-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «sydney-harbour-rocks-sails»"
       },
       "stopList": [
@@ -1745,13 +1745,13 @@
           "photo": {
             "id": "stop-image-barangaroo-reserve-headland",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-square.jpg",
             "alt": "Barangaroo Reserve pano.jpg",
             "attribution": {
               "author": "Dicklyon",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABarangaroo_Reserve_pano.jpg",
               "retrievedAt": "2026-06-17T00:00:00+02:00"
             }
           },
@@ -1788,13 +1788,13 @@
           "photo": {
             "id": "stop-image-observatory-hill",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-square.jpg",
             "alt": "(1)Observatory Hill Sydney.jpg",
             "attribution": {
               "author": "Sardaka",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Observatory_Hill_Sydney.jpg",
               "retrievedAt": "2026-06-17T00:00:00+02:00"
             }
           },
@@ -1831,13 +1831,13 @@
           "photo": {
             "id": "stop-image-argyle-cut",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-square.jpg",
             "alt": "In the Argyle Cut below the Sydney Harbour Bridge approach.jpg",
             "attribution": {
               "author": "Dicklyon",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIn_the_Argyle_Cut_below_the_Sydney_Harbour_Bridge_approach.jpg",
               "retrievedAt": "2026-06-17T00:00:00+02:00"
             }
           },
@@ -1874,13 +1874,13 @@
           "photo": {
             "id": "stop-image-cadmans-cottage",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-square.jpg",
             "alt": "Front of Cadman's Cottage.jpg",
             "attribution": {
               "author": "Julioenrekei",
               "license": "Public Domain; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFront_of_Cadman%27s_Cottage.jpg",
               "retrievedAt": "2026-06-17T00:00:00+02:00"
             }
           },
@@ -1917,13 +1917,13 @@
           "photo": {
             "id": "stop-image-mca-first-fleet-edge",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-square.jpg",
             "alt": "(1)Museum of Contemporary Art-1.jpg",
             "attribution": {
               "author": "Sardaka",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Museum_of_Contemporary_Art-1.jpg",
               "retrievedAt": "2026-06-17T00:00:00+02:00"
             }
           },
@@ -1964,13 +1964,13 @@
           "photo": {
             "id": "sydney-harbour-rocks-sails-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-square.jpg",
             "alt": "Sydney Opera House from the west / Western Broadwalk.",
             "attribution": {
               "author": "-wuppertaler",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUS_Sydney,_Central_Business_District,_Sydney_Opera_House_028.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -2007,20 +2007,20 @@
           "photo": {
             "id": "sydney-harbour-rocks-sails-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-square.jpg",
             "alt": "Sydney Opera House forecourt and concourse.jpg",
             "attribution": {
               "author": "Peter Hall",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_forecourt_and_concourse.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
         }
       ],
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-basemap.png",
         "center": {
           "latitude": -33.8584,
           "longitude": 151.20825000000002
@@ -2029,7 +2029,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "sydney-harbour-rocks-sails-cover"
     },
     {
       "id": "sydney-macquarie-botanic-domain",
@@ -3605,13 +3606,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-1-square.jpg",
             "alt": "Hyde Park Barracks, Sydney - Joy of Museums",
             "attribution": {
               "author": "Joyofmuseums",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyde_Park_Barracks,_Sydney_-_Joy_of_Museums.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3644,13 +3645,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-2-square.jpg",
             "alt": "St James Church above",
             "attribution": {
               "author": "Sumple",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_James_Church_above.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3683,13 +3684,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-3-square.jpg",
             "alt": "Parliament House, Sydney",
             "attribution": {
               "author": "Sam67fr",
               "license": "CC BY 2.5; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parliament_House,_Sydney.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3722,13 +3723,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-4-square.jpg",
             "alt": "The Mint - Sydney NSW (12865639103)",
             "attribution": {
               "author": "sv1ambo",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mint_-_Sydney_NSW_(12865639103).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3761,13 +3762,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-5-square.jpg",
             "alt": "State Library of NSW",
             "attribution": {
               "author": "Steve Collis",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Library_of_NSW_(4709052502).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3800,13 +3801,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-6-square.jpg",
             "alt": "Sydney (AU), Royal Botanic Gardens — 2019 — 3082",
             "attribution": {
               "author": "Dietmar Rabich",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "),_Royal_Botanic_Gardens_--_2019_--_3082.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Royal_Botanic_Gardens_--_2019_--_3082.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3839,13 +3840,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-7-square.jpg",
             "alt": "Government House, Sydney (12076983694)",
             "attribution": {
               "author": "Royal Australian Historical Society",
               "license": "Public domain; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_House,_Sydney_(12076983694).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3878,13 +3879,13 @@
           "photo": {
             "id": "sydney-macquarie-botanic-domain-stop-8",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-8-square.jpg",
             "alt": "Art Gallery of New South Wales",
             "attribution": {
               "author": "Cfitzart",
               "license": "Public domain; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_Gallery_of_New_South_Wales.JPG",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -3893,12 +3894,12 @@
       "cover": {
         "id": "sydney-macquarie-botanic-domain-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «sydney-macquarie-botanic-domain»"
       },
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-basemap.png",
         "center": {
           "latitude": -33.867999999999995,
           "longitude": 151.21435
@@ -3907,7 +3908,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "sydney-macquarie-botanic-domain-cover"
     },
     {
       "id": "sydney-bondi-coogee-coast",
@@ -7116,13 +7118,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-1-square.jpg",
             "alt": "Пляж Бонди с белым песком, серферами и синей водой под ясным небом",
             "attribution": {
               "author": "Phil Whitehouse",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bondi_Beach_(2050515990).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7159,13 +7161,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-2-square.jpg",
             "alt": "Океанские бассейны Bondi Icebergs на фоне синего моря и белого здания клуба",
             "attribution": {
               "author": "Mike Wilson (Unsplash)",
               "license": "CC0 1.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bondi_Icebergs_POOL,_Bondi_Beach,_Australia_(Unsplash).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7202,13 +7204,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-3-square.jpg",
             "alt": "Рассвет над пляжем Тамарама: розовое небо, скалы и небольшая бухта",
             "attribution": {
               "author": "Wyncliffe",
               "license": "CC0 1.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Tamarama_beach_(13155531594).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7245,13 +7247,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-4-square.jpg",
             "alt": "Океанский бассейн Bronte Baths у скал и прибоя на побережье Сиднея.",
             "attribution": {
               "author": "Allan Henderson",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronte_16x9_wallpaper,_2023.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7288,13 +7290,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-5-square.jpg",
             "alt": "Кладбище Уэйверли: ряды мраморных памятников на фоне океана и голубого неба",
             "attribution": {
-              "author": "M A Lurig",
+              "author": "M A Lurig",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waverley_Cemetery_in_Sydney.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7331,13 +7333,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-6-square.jpg",
             "alt": "Историческая фотография пляжа Кловелли: бетонные платформы и спокойная вода залива",
             "attribution": {
               "author": "State Archives and Records Authority of New South Wales",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ")_(6396889651).jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clovelly_Beach_(NSW)_(6396889651).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7374,13 +7376,13 @@
           "photo": {
             "id": "sydney-bondi-coogee-coast-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-7-square.jpg",
             "alt": "Пляж Куджи с каменным бассейном и песчаной полосой под ярким солнцем",
             "attribution": {
-              "author": "Lenny K Photography",
+              "author": "Lenny K Photography",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coogee_Beach_Sydney_(20571172008).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -7389,12 +7391,12 @@
       "cover": {
         "id": "sydney-bondi-coogee-coast-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-cover-square.jpg",
         "alt": "Иллюстративный вид прогулки от Бонди до Куджи: пляжи, скалы и океанские бассейны вдоль извилистой тропы"
       },
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-basemap.png",
         "center": {
           "latitude": -33.906784,
           "longitude": 151.2661595
@@ -7403,7 +7405,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "sydney-bondi-coogee-coast-cover"
     }
   ],
   "locale": "en",
@@ -7437,13 +7440,13 @@
       "photo": {
         "id": "stop-image-barangaroo-reserve-headland",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-barangaroo-reserve-headland-square.jpg",
         "alt": "Barangaroo Reserve pano.jpg",
         "attribution": {
           "author": "Dicklyon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABarangaroo_Reserve_pano.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -7480,13 +7483,13 @@
       "photo": {
         "id": "stop-image-observatory-hill",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-observatory-hill-square.jpg",
         "alt": "(1)Observatory Hill Sydney.jpg",
         "attribution": {
           "author": "Sardaka",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Observatory_Hill_Sydney.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -7523,13 +7526,13 @@
       "photo": {
         "id": "stop-image-argyle-cut",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-argyle-cut-square.jpg",
         "alt": "In the Argyle Cut below the Sydney Harbour Bridge approach.jpg",
         "attribution": {
           "author": "Dicklyon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIn_the_Argyle_Cut_below_the_Sydney_Harbour_Bridge_approach.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -7566,13 +7569,13 @@
       "photo": {
         "id": "stop-image-cadmans-cottage",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-cadmans-cottage-square.jpg",
         "alt": "Front of Cadman's Cottage.jpg",
         "attribution": {
           "author": "Julioenrekei",
           "license": "Public Domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFront_of_Cadman%27s_Cottage.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -7609,13 +7612,13 @@
       "photo": {
         "id": "stop-image-mca-first-fleet-edge",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/stop-image-mca-first-fleet-edge-square.jpg",
         "alt": "(1)Museum of Contemporary Art-1.jpg",
         "attribution": {
           "author": "Sardaka",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A%281%29Museum_of_Contemporary_Art-1.jpg",
           "retrievedAt": "2026-06-17T00:00:00+02:00"
         }
       },
@@ -7656,13 +7659,13 @@
       "photo": {
         "id": "sydney-harbour-rocks-sails-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-6-square.jpg",
         "alt": "Sydney Opera House from the west / Western Broadwalk.",
         "attribution": {
           "author": "-wuppertaler",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AUS_Sydney,_Central_Business_District,_Sydney_Opera_House_028.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -7699,13 +7702,13 @@
       "photo": {
         "id": "sydney-harbour-rocks-sails-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-harbour-rocks-sails-stop-7-square.jpg",
         "alt": "Sydney Opera House forecourt and concourse.jpg",
         "attribution": {
           "author": "Peter Hall",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_forecourt_and_concourse.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -7738,13 +7741,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-1-square.jpg",
         "alt": "Hyde Park Barracks, Sydney - Joy of Museums",
         "attribution": {
           "author": "Joyofmuseums",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyde_Park_Barracks,_Sydney_-_Joy_of_Museums.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7777,13 +7780,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-2-square.jpg",
         "alt": "St James Church above",
         "attribution": {
           "author": "Sumple",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_James_Church_above.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7816,13 +7819,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-3-square.jpg",
         "alt": "Parliament House, Sydney",
         "attribution": {
           "author": "Sam67fr",
           "license": "CC BY 2.5; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parliament_House,_Sydney.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7855,13 +7858,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-4-square.jpg",
         "alt": "The Mint - Sydney NSW (12865639103)",
         "attribution": {
           "author": "sv1ambo",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mint_-_Sydney_NSW_(12865639103).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7894,13 +7897,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-5-square.jpg",
         "alt": "State Library of NSW",
         "attribution": {
           "author": "Steve Collis",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Library_of_NSW_(4709052502).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7933,13 +7936,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-6-square.jpg",
         "alt": "Sydney (AU), Royal Botanic Gardens — 2019 — 3082",
         "attribution": {
           "author": "Dietmar Rabich",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "),_Royal_Botanic_Gardens_--_2019_--_3082.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Royal_Botanic_Gardens_--_2019_--_3082.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -7972,13 +7975,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-7-square.jpg",
         "alt": "Government House, Sydney (12076983694)",
         "attribution": {
           "author": "Royal Australian Historical Society",
           "license": "Public domain; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_House,_Sydney_(12076983694).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8011,13 +8014,13 @@
       "photo": {
         "id": "sydney-macquarie-botanic-domain-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-macquarie-botanic-domain-stop-8-square.jpg",
         "alt": "Art Gallery of New South Wales",
         "attribution": {
           "author": "Cfitzart",
           "license": "Public domain; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_Gallery_of_New_South_Wales.JPG",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8054,13 +8057,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-1-square.jpg",
         "alt": "Пляж Бонди с белым песком, серферами и синей водой под ясным небом",
         "attribution": {
           "author": "Phil Whitehouse",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bondi_Beach_(2050515990).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8097,13 +8100,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-2-square.jpg",
         "alt": "Океанские бассейны Bondi Icebergs на фоне синего моря и белого здания клуба",
         "attribution": {
           "author": "Mike Wilson (Unsplash)",
           "license": "CC0 1.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bondi_Icebergs_POOL,_Bondi_Beach,_Australia_(Unsplash).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8140,13 +8143,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-3-square.jpg",
         "alt": "Рассвет над пляжем Тамарама: розовое небо, скалы и небольшая бухта",
         "attribution": {
           "author": "Wyncliffe",
           "license": "CC0 1.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Tamarama_beach_(13155531594).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8183,13 +8186,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-4-square.jpg",
         "alt": "Океанский бассейн Bronte Baths у скал и прибоя на побережье Сиднея.",
         "attribution": {
           "author": "Allan Henderson",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronte_16x9_wallpaper,_2023.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8226,13 +8229,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-5-square.jpg",
         "alt": "Кладбище Уэйверли: ряды мраморных памятников на фоне океана и голубого неба",
         "attribution": {
-          "author": "M A Lurig",
+          "author": "M A Lurig",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waverley_Cemetery_in_Sydney.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8269,13 +8272,13 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-6-square.jpg",
         "alt": "Историческая фотография пляжа Кловелли: бетонные платформы и спокойная вода залива",
         "attribution": {
           "author": "State Archives and Records Authority of New South Wales",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ")_(6396889651).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clovelly_Beach_(NSW)_(6396889651).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -8312,17 +8315,17 @@
       "photo": {
         "id": "sydney-bondi-coogee-coast-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/sydney/sydney-bondi-coogee-coast-stop-7-square.jpg",
         "alt": "Пляж Куджи с каменным бассейном и песчаной полосой под ярким солнцем",
         "attribution": {
-          "author": "Lenny K Photography",
+          "author": "Lenny K Photography",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coogee_Beach_Sydney_(20571172008).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "1de4011e96cc"
+  "packHash": "9808ce8c77ca"
 }

@@ -2967,7 +2967,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "hanoi-thang-long-ba-dinh-power-cover"
     },
     {
       "id": "hanoi-van-mieu-scholar-city",
@@ -6950,5 +6951,5 @@
       }
     }
   ],
-  "packHash": "163a56a37837"
+  "packHash": "0200a12b5397"
 }

@@ -7842,7 +7842,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "beijing-shichahai-drum-towers-hutongs-cover"
     },
     {
       "id": "beijing-temple-of-heaven-ritual-axis",
@@ -9404,7 +9405,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "beijing-temple-of-heaven-ritual-axis-cover"
     }
   ],
   "locale": "ru",
@@ -10608,5 +10610,5 @@
       }
     }
   ],
-  "packHash": "4ffd24a52627"
+  "packHash": "d11ccbfaaf6b"
 }

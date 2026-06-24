@@ -7509,7 +7509,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "athens-syntagma-garden-stadium-state-cover"
     }
   ],
   "locale": "en",
@@ -8455,5 +8456,5 @@
       }
     }
   ],
-  "packHash": "e6a0ac7a7514"
+  "packHash": "682071eaad98"
 }

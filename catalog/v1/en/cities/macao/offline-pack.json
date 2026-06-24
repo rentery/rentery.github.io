@@ -4710,7 +4710,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "macao-taipa-cotai-island-to-reclamation-cover"
     },
     {
       "id": "macao-guia-st-lazarus-hill-creative-quarter",
@@ -6263,5 +6264,5 @@
       }
     }
   ],
-  "packHash": "5d9b5187aab1"
+  "packHash": "c378dd3fb662"
 }

@@ -64,8 +64,8 @@
       "cover": {
         "id": "venice-san-marco-rialto-republic-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «venice-san-marco-rialto-republic»"
       },
       "stopList": [
@@ -93,13 +93,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-square.jpg",
             "alt": "Piazza San Marco 2019",
             "attribution": {
               "author": "Ramagliolo9",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_2019.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -132,13 +132,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-square.jpg",
             "alt": "Basilica di San Marco at night-msu-2021-6406-6406.jpg",
             "attribution": {
               "author": "Matthias Süßen",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Marco_at_night-msu-2021-6406-6406.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -171,13 +171,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-square.jpg",
             "alt": "Doge's Palace (Venice)-2025-msu--6383.jpg",
             "attribution": {
               "author": "Matthias Süßen",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ")-2025-msu--6383.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_(Venice)-2025-msu--6383.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -214,13 +214,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-square.jpg",
             "alt": "Bridge of Sighs seen from Ponte della Paglia, Venice.",
             "attribution": {
               "author": "Wolfgang Moroder",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dei_Sospiri_Ponte_de_la_Canonica_a_Venezia.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -253,13 +253,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-square.jpg",
             "alt": "Piazzetta San Marco columns and Molo area, Venice.",
             "attribution": {
               "author": "Wolfgang Moroder",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonna_di_San_Marco_e_San_Teodoro_piazzetta_San_Marco_Venezia.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -288,13 +288,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-square.jpg",
             "alt": "Clock tower Piazza San Marco (Torre dell'Orologio) Venice.jpg",
             "attribution": {
               "author": "Peter J StB Green",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ")_Venice.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clock_tower_Piazza_San_Marco_(Torre_dell%27Orologio)_Venice.jpg",
               "retrievedAt": "2026-06-17"
             }
           },
@@ -331,13 +331,13 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-square.jpg",
             "alt": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
             "attribution": {
               "author": "Martin Falbisoner",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
@@ -370,18 +370,19 @@
           "photo": {
             "id": "venice-san-marco-rialto-republic-stop-8",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-square.jpg",
             "alt": "Campo San Giacomo di Rialto / San Giacometto, Venice.",
             "attribution": {
               "author": "Giovanni Dall'Orto",
               "license": "Attribution; cropped/resized for app",
-              "sourceUrl": "'Orto,_10-Dec-2007.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:3910_-_Venezia_-_Campo_San_Giacometto_-_Foto_Giovanni_Dall'Orto,_10-Dec-2007.jpg",
               "retrievedAt": "2026-06-17"
             }
           }
         }
-      ]
+      ],
+      "coverAssetId": "venice-san-marco-rialto-republic-cover"
     },
     {
       "id": "venice-dorsoduro-lagoon-art",
@@ -442,13 +443,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-1-square.jpg",
             "alt": "Мост Академии в Венеции над Гранд-каналом.",
             "attribution": {
               "author": "Julian Herzog",
               "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dell%27Accademia_Venice_2026_01.jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -487,13 +488,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-2-square.jpg",
             "alt": "Белый одноэтажный дворец Палаццо Веньер деи Леони на берегу канала, где размещена Коллекция Пегги Гуггенхайм.",
             "attribution": {
               "author": "Dimitris Kamaras",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "),_Venice_(37100733803).jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Venier_dei_Leoni_(Peggy_Guggenheim_Collection),_Venice_(37100733803).jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -532,13 +533,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-3-square.jpg",
             "alt": "Деревянные мастерские верфи Сан‑Тровазо с гондолой, поднятой на сушу, на фоне канала.",
             "attribution": {
               "author": "Abxbay",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ")_03.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Squero_di_San_Trovaso_(Venice)_03.jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -577,13 +578,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-4-square.jpg",
             "alt": "Большая площадь Кампо Санта‑Маргерита с людьми, сидящими в кафе и гуляющими по каменной мостовой.",
             "attribution": {
               "author": "Didier Descouens",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_Santa_Margherita_(Venice).jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -622,13 +623,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-5-square.jpg",
             "alt": "Солнечная набережная Дзаттере с домами, отражающимися в воде, и островом Джудекка напротив.",
             "attribution": {
               "author": "Moonik",
               "license": "CC BY-SA 3.0 Unported; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zattere_in_Venice,_Italy_002.jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -667,13 +668,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-6-square.jpg",
             "alt": "Белая барочная базилика Санта‑Мария‑делла‑Салюте с большим куполом и лестницей, отражённая в лагуне.",
             "attribution": {
               "author": "SIG SG 510",
               "license": "CC0 1.0 Universal (Public Domain); cropped/resized for app",
-              "sourceUrl": ")_04.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_Santa_Maria_della_Salute_(Venice)_04.jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -712,13 +713,13 @@
           "photo": {
             "id": "venice-dorsoduro-lagoon-art-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-7-square.jpg",
             "alt": "Вид на Пунта‑делла‑Догана и базилику Санта‑Мария‑делла‑Салюте с воды: белая таможня треугольной формы и купола церкви.",
             "attribution": {
               "author": "Sébastien Bertrand",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venezia-punta_della_dogana.jpg",
               "retrievedAt": "2026-06-24"
             }
           },
@@ -733,12 +734,12 @@
       "cover": {
         "id": "venice-dorsoduro-lagoon-art-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-cover-square.jpg",
         "alt": "Романтический закат на Дорсодуро с отражениями купола Салюте и Пунта‑делла‑Догана в спокойных водах."
       },
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-basemap.png",
         "center": {
           "latitude": 45.432500000000005,
           "longitude": 12.3323
@@ -2168,13 +2169,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-1-square.jpg",
             "alt": "Каменный мост со шпилями и белыми балюстрадами над каналом в Каннареджо",
             "attribution": {
               "author": "Maspez",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_delle_Guglie.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2213,13 +2214,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-2-square.jpg",
             "alt": "Кампо дель Гетто Ново с высокими фасадами, окнами и пустой площадью",
             "attribution": {
               "author": "Marc Ryckaert",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_del_Ghetto_Nuovo_R01.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2258,13 +2259,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-3-square.jpg",
             "alt": "Узкий переулок с высокими домами и магазинами в Гетто Веккьо",
             "attribution": {
               "author": "Dimitris Kamaras from Athens, Greece",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ").jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Ghetto_Vecchio,_Venice_(23921638748).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2303,13 +2304,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-4-square.jpg",
             "alt": "Вид на канал со старинными домами и деревьями по обе стороны",
             "attribution": {
               "author": "Cascafico",
               "license": "CC0; cropped/resized for app",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_del_Ghetto_Nuovo.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2348,13 +2349,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-5-square.jpg",
             "alt": "Высокая кирпичная колокольня и фасад старого аббатства в Венеции",
             "attribution": {
               "author": "Didier Descouens",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbazia_della_Misericordia_Venezia_-_Il_campanile.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2393,13 +2394,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-6-square.jpg",
             "alt": "Канал с лодками и зданиями вдоль Фондамента della Misericordia",
             "attribution": {
-              "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+              "author": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fondamenta_della_Misericordia_Rio_della_Misericordia_San_Marziale.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2438,13 +2439,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-7-square.jpg",
             "alt": "Статуя на углу здания в Венеции, лицо в турбане с железным носом",
             "attribution": {
               "author": "Jean-Pierre Dalbéra from Paris, France",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": ")_(5044499695).jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_dei_Mori_(Venise)_(5044499695).jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2483,13 +2484,13 @@
           "photo": {
             "id": "venice-cannaregio-ghetto-north-stop-8",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-8-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-8-square.jpg",
             "alt": "Готический портал церкви Мадонна dell'Orto в венецианском Каннареджо.",
             "attribution": {
               "author": "Didier Descouens",
               "license": "Public domain; cropped/resized for app",
-              "sourceUrl": "'Orto_Portail.jpg",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madonna_dell'Orto_Portail.jpg",
               "retrievedAt": "2026-06-24"
             }
           }
@@ -2498,12 +2499,12 @@
       "cover": {
         "id": "venice-cannaregio-ghetto-north-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-cover-square.jpg",
         "alt": "Вечерний вид канала и моста с шпилями в северном Каннареджо, Венеция"
       },
       "basemap": {
-        "image": "",
+        "image": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-basemap.png",
         "center": {
           "latitude": 45.445949999999996,
           "longitude": 12.32925
@@ -2512,7 +2513,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "venice-cannaregio-ghetto-north-cover"
     }
   ],
   "locale": "en",
@@ -2542,13 +2544,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-1-square.jpg",
         "alt": "Piazza San Marco 2019",
         "attribution": {
           "author": "Ramagliolo9",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_2019.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -2581,13 +2583,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-2-square.jpg",
         "alt": "Basilica di San Marco at night-msu-2021-6406-6406.jpg",
         "attribution": {
           "author": "Matthias Süßen",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Marco_at_night-msu-2021-6406-6406.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -2620,13 +2622,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-3-square.jpg",
         "alt": "Doge's Palace (Venice)-2025-msu--6383.jpg",
         "attribution": {
           "author": "Matthias Süßen",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")-2025-msu--6383.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_(Venice)-2025-msu--6383.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -2663,13 +2665,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-4-square.jpg",
         "alt": "Bridge of Sighs seen from Ponte della Paglia, Venice.",
         "attribution": {
           "author": "Wolfgang Moroder",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dei_Sospiri_Ponte_de_la_Canonica_a_Venezia.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2702,13 +2704,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-5-square.jpg",
         "alt": "Piazzetta San Marco columns and Molo area, Venice.",
         "attribution": {
           "author": "Wolfgang Moroder",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonna_di_San_Marco_e_San_Teodoro_piazzetta_San_Marco_Venezia.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2737,13 +2739,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-6-square.jpg",
         "alt": "Clock tower Piazza San Marco (Torre dell'Orologio) Venice.jpg",
         "attribution": {
           "author": "Peter J StB Green",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")_Venice.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clock_tower_Piazza_San_Marco_(Torre_dell%27Orologio)_Venice.jpg",
           "retrievedAt": "2026-06-17"
         }
       },
@@ -2780,13 +2782,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-7-square.jpg",
         "alt": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
         "attribution": {
           "author": "Martin Falbisoner",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2819,13 +2821,13 @@
       "photo": {
         "id": "venice-san-marco-rialto-republic-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-san-marco-rialto-republic-stop-8-square.jpg",
         "alt": "Campo San Giacomo di Rialto / San Giacometto, Venice.",
         "attribution": {
           "author": "Giovanni Dall'Orto",
           "license": "Attribution; cropped/resized for app",
-          "sourceUrl": "'Orto,_10-Dec-2007.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:3910_-_Venezia_-_Campo_San_Giacometto_-_Foto_Giovanni_Dall'Orto,_10-Dec-2007.jpg",
           "retrievedAt": "2026-06-17"
         }
       }
@@ -2858,13 +2860,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-1-square.jpg",
         "alt": "Мост Академии в Венеции над Гранд-каналом.",
         "attribution": {
           "author": "Julian Herzog",
           "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_dell%27Accademia_Venice_2026_01.jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -2903,13 +2905,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-2-square.jpg",
         "alt": "Белый одноэтажный дворец Палаццо Веньер деи Леони на берегу канала, где размещена Коллекция Пегги Гуггенхайм.",
         "attribution": {
           "author": "Dimitris Kamaras",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "),_Venice_(37100733803).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Venier_dei_Leoni_(Peggy_Guggenheim_Collection),_Venice_(37100733803).jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -2948,13 +2950,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-3-square.jpg",
         "alt": "Деревянные мастерские верфи Сан‑Тровазо с гондолой, поднятой на сушу, на фоне канала.",
         "attribution": {
           "author": "Abxbay",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ")_03.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Squero_di_San_Trovaso_(Venice)_03.jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -2993,13 +2995,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-4-square.jpg",
         "alt": "Большая площадь Кампо Санта‑Маргерита с людьми, сидящими в кафе и гуляющими по каменной мостовой.",
         "attribution": {
           "author": "Didier Descouens",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_Santa_Margherita_(Venice).jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -3038,13 +3040,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-5-square.jpg",
         "alt": "Солнечная набережная Дзаттере с домами, отражающимися в воде, и островом Джудекка напротив.",
         "attribution": {
           "author": "Moonik",
           "license": "CC BY-SA 3.0 Unported; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zattere_in_Venice,_Italy_002.jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -3083,13 +3085,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-6-square.jpg",
         "alt": "Белая барочная базилика Санта‑Мария‑делла‑Салюте с большим куполом и лестницей, отражённая в лагуне.",
         "attribution": {
           "author": "SIG SG 510",
           "license": "CC0 1.0 Universal (Public Domain); cropped/resized for app",
-          "sourceUrl": ")_04.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_Santa_Maria_della_Salute_(Venice)_04.jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -3128,13 +3130,13 @@
       "photo": {
         "id": "venice-dorsoduro-lagoon-art-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-dorsoduro-lagoon-art-stop-7-square.jpg",
         "alt": "Вид на Пунта‑делла‑Догана и базилику Санта‑Мария‑делла‑Салюте с воды: белая таможня треугольной формы и купола церкви.",
         "attribution": {
           "author": "Sébastien Bertrand",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venezia-punta_della_dogana.jpg",
           "retrievedAt": "2026-06-24"
         }
       },
@@ -3179,13 +3181,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-1-square.jpg",
         "alt": "Каменный мост со шпилями и белыми балюстрадами над каналом в Каннареджо",
         "attribution": {
           "author": "Maspez",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_delle_Guglie.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3224,13 +3226,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-2-square.jpg",
         "alt": "Кампо дель Гетто Ново с высокими фасадами, окнами и пустой площадью",
         "attribution": {
           "author": "Marc Ryckaert",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_del_Ghetto_Nuovo_R01.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3269,13 +3271,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-3-square.jpg",
         "alt": "Узкий переулок с высокими домами и магазинами в Гетто Веккьо",
         "attribution": {
           "author": "Dimitris Kamaras from Athens, Greece",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ").jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Ghetto_Vecchio,_Venice_(23921638748).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3314,13 +3316,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-4-square.jpg",
         "alt": "Вид на канал со старинными домами и деревьями по обе стороны",
         "attribution": {
           "author": "Cascafico",
           "license": "CC0; cropped/resized for app",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_del_Ghetto_Nuovo.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3359,13 +3361,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-5-square.jpg",
         "alt": "Высокая кирпичная колокольня и фасад старого аббатства в Венеции",
         "attribution": {
           "author": "Didier Descouens",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbazia_della_Misericordia_Venezia_-_Il_campanile.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3404,13 +3406,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-6-square.jpg",
         "alt": "Канал с лодками и зданиями вдоль Фондамента della Misericordia",
         "attribution": {
-          "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+          "author": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fondamenta_della_Misericordia_Rio_della_Misericordia_San_Marziale.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3449,13 +3451,13 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-7-square.jpg",
         "alt": "Статуя на углу здания в Венеции, лицо в турбане с железным носом",
         "attribution": {
           "author": "Jean-Pierre Dalbéra from Paris, France",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": ")_(5044499695).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campo_dei_Mori_(Venise)_(5044499695).jpg",
           "retrievedAt": "2026-06-24"
         }
       }
@@ -3494,17 +3496,17 @@
       "photo": {
         "id": "venice-cannaregio-ghetto-north-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/venice/venice-cannaregio-ghetto-north-stop-8-square.jpg",
         "alt": "Готический портал церкви Мадонна dell'Orto в венецианском Каннареджо.",
         "attribution": {
           "author": "Didier Descouens",
           "license": "Public domain; cropped/resized for app",
-          "sourceUrl": "'Orto_Portail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madonna_dell'Orto_Portail.jpg",
           "retrievedAt": "2026-06-24"
         }
       }
     }
   ],
-  "packHash": "70c7808403f4"
+  "packHash": "1d00500058dc"
 }

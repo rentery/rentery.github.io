@@ -3429,7 +3429,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "marseille-bonne-mere-vallon-des-auffes-cover"
     },
     {
       "id": "marseille-noailles-cours-julien",
@@ -6117,5 +6118,5 @@
       }
     }
   ],
-  "packHash": "8acfcfc4de2e"
+  "packHash": "720886fd2ef9"
 }

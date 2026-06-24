@@ -3015,7 +3015,8 @@
         "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-fortifications-walled-city-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-fortifications-walled-city-cover-square.jpg",
         "alt": "Стилизованный вид на каменные стены Квебека, уходящие вдоль утёса к реке, без людей."
-      }
+      },
+      "coverAssetId": "quebec-city-fortifications-walled-city-cover"
     },
     {
       "id": "quebec-city-parliament-plains-memory",
@@ -4318,7 +4319,8 @@
         "wide": "https://rentery.github.io/images/v1/quebec-city/quebec-city-parliament-plains-memory-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/quebec-city/quebec-city-parliament-plains-memory-cover-square.jpg",
         "alt": "Вид на парламентский холм Квебека, фонтан, деревья и современный стеклянный павильон на фоне зелёных полей."
-      }
+      },
+      "coverAssetId": "quebec-city-parliament-plains-memory-cover"
     }
   ],
   "locale": "en",
@@ -5365,5 +5367,5 @@
       }
     }
   ],
-  "packHash": "5ff06039b203"
+  "packHash": "4747d079ada6"
 }

@@ -1423,7 +1423,8 @@
             }
           }
         }
-      ]
+      ],
+      "coverAssetId": "xian-city-wall-bell-drum-cover"
     },
     {
       "id": "xian-terracotta-qin-mausoleum",
@@ -3087,5 +3088,5 @@
       "sourceIds": []
     }
   ],
-  "packHash": "9918be5d5940"
+  "packHash": "f50d8b85c297"
 }

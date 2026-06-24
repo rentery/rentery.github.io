@@ -2381,7 +2381,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "kathmandu-swayambhu-city-origin-hill-cover"
     },
     {
       "id": "kathmandu-pashupati-bagmati-sacred-river",
@@ -5818,5 +5819,5 @@
       }
     }
   ],
-  "packHash": "f655be5ccbaf"
+  "packHash": "ae0b9d51a595"
 }

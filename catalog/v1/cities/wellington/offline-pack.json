@@ -3574,7 +3574,8 @@
           "profile": "walk",
           "generatedAt": "2026-06-23T21:41:56.920Z"
         }
-      }
+      },
+      "coverAssetId": "wellington-thorndon-parliament-wooden-capital-cover"
     },
     {
       "id": "wellington-cable-car-botanic-garden-descent",
@@ -6553,7 +6554,8 @@
         "wide": "https://rentery.github.io/images/v1/wellington/wellington-cable-car-botanic-garden-descent-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/wellington/wellington-cable-car-botanic-garden-descent-cover-square.jpg",
         "alt": "Сгенерированная editorial-обложка маршрута «wellington-cable-car-botanic-garden-descent»"
-      }
+      },
+      "coverAssetId": "wellington-cable-car-botanic-garden-descent-cover"
     }
   ],
   "locale": "ru",
@@ -7509,5 +7511,5 @@
       }
     }
   ],
-  "packHash": "d4f81d5509d8"
+  "packHash": "37d43606c3c4"
 }

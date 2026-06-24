@@ -2678,7 +2678,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "kyoto-fushimi-inari-mountain-cover"
     },
     {
       "id": "kyoto-ginkakuji-philosophers-path",
@@ -6492,5 +6493,5 @@
       }
     }
   ],
-  "packHash": "c10520ac0e25"
+  "packHash": "b7da1823eb82"
 }

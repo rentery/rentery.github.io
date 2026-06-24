@@ -2306,7 +2306,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "naples-via-toledo-quartieri-spagnoli-cover"
     },
     {
       "id": "naples-megaride-chiaia-seafront",
@@ -3699,5 +3700,5 @@
       }
     }
   ],
-  "packHash": "bfa5069121f1"
+  "packHash": "82e351c5ee50"
 }

@@ -6735,7 +6735,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "brussels-sablon-marolles-justice-cover"
     }
   ],
   "locale": "ru",
@@ -8028,5 +8029,5 @@
       }
     }
   ],
-  "packHash": "699be1a8b005"
+  "packHash": "02204b0e6d8f"
 }

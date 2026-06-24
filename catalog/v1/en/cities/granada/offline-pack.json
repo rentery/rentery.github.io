@@ -3990,7 +3990,8 @@
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
-      }
+      },
+      "coverAssetId": "granada-albaicin-darro-viewpoints-cover"
     },
     {
       "id": "granada-realejo-jewish-quarter-gardens",
@@ -9602,5 +9603,5 @@
       }
     }
   ],
-  "packHash": "dbeac9ba4f65"
+  "packHash": "e53562bb7a2c"
 }
