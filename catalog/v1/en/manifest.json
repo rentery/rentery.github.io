@@ -85,7 +85,7 @@
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
-      "packHash": "8cea01bb3781",
+      "packHash": "159b8768d9f8",
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-24T22:41:30.560Z",
+  "generatedAt": "2026-06-24T22:53:22.559Z",
   "locale": "en",
   "schemaVersion": 1
 }
