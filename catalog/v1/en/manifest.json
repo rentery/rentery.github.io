@@ -333,7 +333,7 @@
       "packPath": "cities/melbourne/offline-pack.json"
     },
     "shanghai": {
-      "packHash": "8f7ed352b048",
+      "packHash": "64d0654a6d98",
       "packPath": "cities/shanghai/offline-pack.json"
     },
     "singapore": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-24T22:31:07.664Z",
+  "generatedAt": "2026-06-24T22:41:30.560Z",
   "locale": "en",
   "schemaVersion": 1
 }
