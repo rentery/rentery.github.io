@@ -1034,7 +1034,7 @@
     "line": "Прогулка по острову, где церковь, королевская власть, рынок, суд и река тысячу лет спорили о"
   },
   "content": {
-    "intro": "Эта прогулка держится не на «главных видах», а на смене ролей одного маленького острова. Здесь сперва стоял раннехристианский собор, затем выросла Нотр-Дам с её фасадом-порталом в Средневековье; рядом королевский двор построил Сент-Шапель как драгоценный реликварий света; по соседству королевский дворец обернулся судебным городом и тюрьмой Консьержери. На нескольких сотнях метров Париж проходит путь от епископского центра к королевской столице, от торжественной процессии к рынку, от суда к тихой площади и, наконец, к самой кромке воды, где чувствуешь: город здесь не просто начинался, он здесь учился смотреть на себя через Сену. Практически маршрут удобнее идти сверху вниз по напряжению: от собора и толпы к более тихим карманам острова. Для входа в Нотр-Дам бронирование не обязательно, но официальный бесплатный слот часто заметно сокращает ожидание. Если хотите зайти в Сент-Шапель, билет",
+    "intro": "Эта прогулка держится не на «главных видах», а на смене ролей одного маленького острова. Здесь сперва стоял раннехристианский собор, затем выросла Нотр-Дам с её фасадом-порталом в Средневековье; рядом королевский двор построил Сент-Шапель как драгоценный реликварий света; по соседству королевский дворец обернулся судебным городом и тюрьмой Консьержери. На нескольких сотнях метров Париж проходит путь от епископского центра к королевской столице, от торжественной процессии к рынку, от суда к тихой площади и, наконец, к самой кромке воды, где чувствуешь: город здесь не просто начинался, он здесь учился смотреть на себя через Сену. Практически маршрут удобнее идти сверху вниз по напряжению: от собора и толпы к более тихим карманам острова. Для входа в Нотр-Дам бронирование не обязательно, но официальный бесплатный слот часто заметно сокращает ожидание. Если хотите зайти в Сент-Шапель или Консьержери, заранее проверьте официальный слот и заложите время на контроль у Дворца правосудия.",
     "routeLogic": "линейная прогулка с короткими петлями",
     "bestFor": "первый визит в Париж повторный визит с интересом к истории города самостоятельная прогулка без гида пара, друзья, семейная прогулка со взрослыми детьми",
     "notFor": "тех, кому нужен только быстрый проход без остановок",
@@ -1044,8 +1044,8 @@
   "cover": {
     "id": "paris-ile-de-la-cite-seine-origin-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «Остров Сите и Сена»"
   },
   "stopList": [
@@ -1055,8 +1055,18 @@
       "order": 1,
       "entry": "по месту",
       "name": "Парвис Нотр-Дам",
+      "nameLocal": "Parvis Notre-Dame - place Jean-Paul-II",
+      "sourceIds": [
+        "src_unesco_paris_banks_seine",
+        "src_nd_hours",
+        "src_nd_reservation",
+        "src_nd_before_cathedral",
+        "src_nd_builders",
+        "src_nd_west_facade",
+        "src_commons_parvis_notre_dame_rabich"
+      ],
       "note": "Здесь Париж впервые почувствовал себя столицей",
-      "time": "2 ч",
+      "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.853,
@@ -1077,13 +1087,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-1-square.jpg",
         "alt": "Парвис Нотр-Дам",
         "attribution": {
           "author": "Dietmar Rabich",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame_--_2014_--_1458-65.jpg",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1094,8 +1104,14 @@
       "order": 2,
       "entry": "по месту",
       "name": "Рю Шануанесс",
+      "nameLocal": "Rue Chanoinesse",
+      "sourceIds": [
+        "src_parisjetaime_ile_cite_accessible_walk",
+        "src_nd_neighborhood",
+        "src_commons_rue_chanoinesse_moonik"
+      ],
       "note": "После фасада — тишина каноников",
-      "time": "2 ч",
+      "time": "10 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8539,
@@ -1116,13 +1132,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-2-square.jpg",
         "alt": "Рю Шануанесс",
         "attribution": {
           "author": "Moonik",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rue_Chanoinesse_Paris_4e_001.JPG",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1133,8 +1149,15 @@
       "order": 3,
       "entry": "по месту",
       "name": "Марше-о-Флёр Рен-Элизабет II",
+      "nameLocal": "Marché aux fleurs Reine-Elizabeth-II",
+      "sourceIds": [
+        "src_paris_city_marche_fleurs_place",
+        "src_paris_city_marche_fleurs_history",
+        "src_paris_city_bird_market_closed",
+        "src_commons_marche_fleurs_mu"
+      ],
       "note": "Город начался не только с молитвы, но и с торговли",
-      "time": "2 ч",
+      "time": "10 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8555,
@@ -1155,13 +1178,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-3-square.jpg",
         "alt": "Марше-о-Флёр Рен-Элизабет II",
         "attribution": {
           "author": "Wikimedia Commons / Mu",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:March%C3%A9_aux_fleurs,_Quai_de_la_Corse,_Paris_4.jpg",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1172,8 +1195,16 @@
       "order": 4,
       "entry": "по месту",
       "name": "Сент-Шапель",
+      "nameLocal": "Sainte-Chapelle",
+      "sourceIds": [
+        "src_unesco_paris_banks_seine",
+        "src_sc_practical",
+        "src_sc_history",
+        "src_sc_heatwave",
+        "src_commons_sainte_chapelle_tiraden"
+      ],
       "note": "Если Нотр-Дам — город, то Сент-Шапель — королевский луч",
-      "time": "2 ч",
+      "time": "20 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8554,
@@ -1182,7 +1213,7 @@
       "content": {
         "context": "Сент-Шапель нужно воспринимать не как «ещё одну готику», а как королевскую идею, превращённую в свет. Людовик IX устроил её в сердце дворца на острове не просто ради красоты, а ради реликвий Страстей Христовых, прежде всего Тернового венца. Часовня была задумана почти как огромной высоты реликварий: камень здесь не демонстрирует тяжесть, а старается исчезнуть. Когда входишь внутрь, особенно в верхнюю капеллу, возникает ощущение, что монархия хотела не столько построить помещение, сколько собрать вокруг себя свечение. Именно поэтому этот стоп так важен для всей прогулки: он показывает Париж не только как город жителей, но и как сцену сакральной политики. После Нотр-Дама вы уже знаете городской язык готики; здесь слышите его придворный, почти ювелирный акцент.",
         "lookFor": "Если Нотр-Дам — город, то Сент-Шапель — королевский луч.",
-        "practical": "Сент-Шапель — билетный стоп, обычно удобнее покупать слот заранее. Официальная информация по тарифам на 2026 год подтверждает парный билет Сент-Шапель + Консьержери. Летом лучше идти до полудня: сам монумент предупреждает, что в жару он особенно тяжёл для посещения, кондиционируемых зон нет, а после контроля в выходные и праздники может не быть доступа к воде и туалетам. В 2025 году памятник оставался открыт во время очередного этапа реставрации витражей.",
+        "practical": "Сент-Шапель — билетный стоп, обычно удобнее покупать слот заранее; официальный сайт также ведёт парный билет с Консьержери. Летом лучше идти до полудня: сам монумент предупреждает, что в жару он особенно тяжёл для посещения, кондиционируемых зон нет, а после контроля в выходные и праздники может не быть доступа к воде и туалетам.",
         "nextMove": "Дальше двигайтесь к Консьержери.",
         "deepDive": [
           {
@@ -1194,13 +1225,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-4-square.jpg",
         "alt": "Сент-Шапель",
         "attribution": {
           "author": "Tiraden",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sainte-Chapelle_de_Paris_vue_du_Palais_de_justice.JPG",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1211,8 +1242,15 @@
       "order": 5,
       "entry": "по месту",
       "name": "Консьержери",
+      "nameLocal": "Conciergerie",
+      "sourceIds": [
+        "src_unesco_paris_banks_seine",
+        "src_conciergerie_history",
+        "src_conciergerie_practical",
+        "src_commons_conciergerie_rabich"
+      ],
       "note": "Королевский дворец умеет становиться тюрьмой",
-      "time": "2 ч",
+      "time": "15 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8559,
@@ -1233,13 +1271,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-5-square.jpg",
         "alt": "Консьержери",
         "attribution": {
           "author": "Dietmar Rabich",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris,_Conciergerie_--_2014_--_1320.jpg",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1250,8 +1288,14 @@
       "order": 6,
       "entry": "по месту",
       "name": "Плас Дофин",
+      "nameLocal": "Place Dauphine",
+      "sourceIds": [
+        "src_paris_city_place_dauphine_2026",
+        "src_parisjetaime_place_dauphine",
+        "src_commons_place_dauphine_myrabella"
+      ],
       "note": "Один шаг — и Париж становится почти интимным",
-      "time": "2 ч",
+      "time": "10 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8565,
@@ -1272,13 +1316,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-6-square.jpg",
         "alt": "Плас Дофин",
         "attribution": {
           "author": "Myrabella",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_Place_Dauphine.jpg",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1289,8 +1333,14 @@
       "order": 7,
       "entry": "по месту",
       "name": "Пон-Нёф",
+      "nameLocal": "Pont-Neuf",
+      "sourceIds": [
+        "src_unesco_paris_banks_seine",
+        "src_parisjetaime_pont_neuf",
+        "src_commons_pont_neuf_moonik"
+      ],
       "note": "Самый старый мост Парижа до сих пор ведёт себя как новый",
-      "time": "2 ч",
+      "time": "10 мин",
       "walk": "5 мин",
       "coordinates": {
         "latitude": 48.8572,
@@ -1299,7 +1349,7 @@
       "content": {
         "context": "Здесь особенно ясно, почему Сена для Парижа — не фон, а форма мышления. Пон-Нёф соединяет берега через остров так, словно собирает город воедино и одновременно выставляет его напоказ. На мосту всегда есть ощущение, что Париж смотрит сам на себя: на воду, на фасады, на лодки, на движение людей, на перспективы обоих берегов. В этой прогулке Пон-Нёф работает как рубеж. До него остров был тесным и внутренним; отсюда Париж снова раскрывается наружу. Очень хорошо остановиться у конной статуи Генриха IV и не спешить: именно здесь удобно подвести в голове итог маршрута — собор, дворец, часовня, тюрьма, площадь, а теперь мост, который превращает всё увиденное в один городской рисунок.",
         "lookFor": "Самый старый мост Парижа до сих пор ведёт себя как новый.",
-        "practical": "В июне 2026 на Пон-Нёф возможны сильные временные изменения восприятия и маршрута из-за публичной инсталляции JR «La Caverne du Pont-Neuf». После повреждения от ветра открытие задерживалось, затем объект снова открылся; если вы идёте по маршруту до 28 июня 2026, закладывайте дополнительное время и относитесь к мосту как к месту исторического вида плюс современного события.",
+        "practical": "Пон-Нёф часто принимает временные события и периметры безопасности, поэтому перед прогулкой стоит проверить актуальный проход по мосту. Даже если часть пространства занята, этот стоп работает с набережной, статуей Генриха IV и видом на обе стороны Сены.",
         "nextMove": "Дальше двигайтесь к Сквер дю Вер-Галан.",
         "deepDive": [
           {
@@ -1311,13 +1361,13 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-7-square.jpg",
         "alt": "Пон-Нёф",
         "attribution": {
           "author": "Moonik",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_Neuf,_Paris_1er_001.JPG",
           "retrievedAt": "2026-06-19"
         }
       }
@@ -1328,8 +1378,14 @@
       "order": 8,
       "entry": "по месту",
       "name": "Сквер дю Вер-Галан",
+      "nameLocal": "Square du Vert-Galant",
+      "sourceIds": [
+        "src_paris_city_square_vert_galant",
+        "src_parisjetaime_pont_neuf",
+        "src_commons_vert_galant_kraft"
+      ],
       "note": "Финал у самой воды — там, где город снова похож на остров",
-      "time": "2 ч",
+      "time": "10 мин",
       "walk": "-",
       "coordinates": {
         "latitude": 48.8574,
@@ -1350,20 +1406,20 @@
       "photo": {
         "id": "paris-ile-de-la-cite-seine-origin-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-stop-8-square.jpg",
         "alt": "Сквер дю Вер-Галан",
         "attribution": {
           "author": "Daniel Kraft",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Square_du_Vert-Galant_panosphere.jpg",
           "retrievedAt": "2026-06-19"
         }
       }
     }
   ],
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/paris/paris-ile-de-la-cite-seine-origin-basemap.png",
     "center": {
       "latitude": 48.855199999999996,
       "longitude": 2.34545
