@@ -145,7 +145,7 @@
       "packPath": "cities/copenhagen/offline-pack.json"
     },
     "dublin": {
-      "packHash": "56afb2be8636",
+      "packHash": "206a52fb8858",
       "packPath": "cities/dublin/offline-pack.json"
     },
     "dubrovnik": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T01:32:09.511Z",
+  "generatedAt": "2026-06-25T01:51:18.911Z",
   "locale": "en",
   "schemaVersion": 1
 }
