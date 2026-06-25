@@ -349,7 +349,7 @@
       "packPath": "cities/sydney/offline-pack.json"
     },
     "taipei": {
-      "packHash": "b32a1acf4d80",
+      "packHash": "f986bc03d25d",
       "packPath": "cities/taipei/offline-pack.json"
     },
     "tallinn": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T08:34:07.779Z",
+  "generatedAt": "2026-06-25T08:53:20.310Z",
   "locale": "en",
   "schemaVersion": 1
 }

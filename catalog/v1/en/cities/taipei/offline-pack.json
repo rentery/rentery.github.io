@@ -1626,323 +1626,13 @@
     },
     {
       "id": "taipei-dadaocheng-dihua-river-trade",
-      "cityId": "taipei",
-      "category": "history & culture",
-      "title": "Dadaocheng & Dihua Street: River Trade to Heritage",
-      "subtitle": "A walking journey through Taipei’s historic trading quarter where tea merchants, fabric sellers and temple-goers shaped the city’s cosmopolitan past",
-      "blurb": "Улица Дихуа показывает город купцов: чай, ткани, узкие дома и ветер с реки Даньшуй.",
-      "mood": "neighborhood",
-      "accent": "#60A333",
-      "soft": "#E9F2E3",
-      "deep": "#447623",
-      "ink": "#3C6222",
-      "motif": "axis",
-      "duration": "2-3 часа",
-      "stops": 7,
-      "distance": "около 1,5 км",
-      "pace": "half",
-      "kids": false,
-      "microcopy": {
-        "kicker": "Маршрут",
-        "line": "A walking journey through Taipei’s historic trading quarter where tea merchants, fabric sellers and temple-goers shaped the city’s cosmopolitan past"
-      },
-      "content": {
-        "intro": "Дадаочэн дает вторую ключевую грань Тайбэя — не государственную и не храмовую, а купеческую: фасады лавок, чай, ткани, городские боги и связь с рекой. Пользователь начнет читать узкие торговые дома, аркады, храмовые входы, рынки тканей и набережную как следы города, выросшего на речной логистике и сезонной торговле. Как Дадаочэн превратился из речного торгового узла в район памяти, дизайна и городского досуга, не потеряв роль живого рынка?",
-        "routeLogic": "Маршрут идет от Ten Consecutive Buildings к Dadaocheng Wharf. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
-        "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
-        "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
-        "beforeYouGo": "This route wanders through busy neighbourhood streets and active religious sites – dress modestly, wear comfortable shoes and be prepared for crowds. Many shops close for lunch or on Sundays, so check opening times during your visit. The Yongle Market and theatre share a building; the market operates 10:00–18:00 Monday–Saturday and closes on Sunday【358761065926668†L252-L268】, while the theatre’s public areas are open 09:00–21:00 most days【795831228515098†L40-L49】. Xia‑Hai City God Temple opens daily 07:00–19:00【532392218414816†L178-L179】, but be respectful during rituals. The Gu Family Residence is a kindergarten today – you can only view its façade from the lane【105370638655104†L160-L178】. Finally, Dadaocheng Wharf is always open, but the container market operates later in the day (16:00–22:00 on weekdays, 12:00–22:00 at weekends)【23540202143293†L129-L139】.",
-        "timing": "2-3 часа"
-      },
-      "stopList": [
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-1",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 1,
-          "name": "Ten Consecutive Buildings",
-          "note": "A row of ten connected merchants’ houses whose Baroque façades line the northern end of Dihua Street",
-          "time": "15 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "Stand on the opposite (east) side of Dihua Street and take in the sweep of façades facing you. This uninterrupted row of ten shophouses marks the northern entry to the neighbourhood.",
-            "lookFor": "A row of ten connected merchants’ houses whose Baroque façades line the northern end of Dihua Street",
-            "practical": "Ориентир на месте: Ten Consecutive Buildings. Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "In the 19th century, merchants rebuilt their timber storefronts in fired brick and embellished them with stucco scrolls and pediments, borrowing from European Baroque styles【915975356399163†L116-L170】. Each shop is long and narrow, with a commercial front room and living quarters above that open onto a rear loading lane; boatmen could haul tea, camphor or rice directly from the river to the back doors【83443692331992†L129-L133】. Today the row is a favourite spot for wedding photographs, yet it still hints at the scale of the Dadaocheng boom. Notice how the carved gables and pilasters echo each other across all ten units, suggesting the merchants’ desire to present a united front to visiting traders."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.06273,
-            "longitude": 121.509256
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-1",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-1-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-1-square.jpg",
-            "alt": "Ten Consecutive Buildings, Dihua Street",
-            "attribution": {
-              "author": "Ar dao",
-              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ten_Consecutive_Buildings,_Dihua_Street_20260312.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-2",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 2,
-          "name": "A.S. Watson & Co. Building",
-          "note": "Historic Western‑style shophouse that once housed Taiwan’s first Watson’s pharmacy",
-          "time": "10 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "Continue south to a three‑storey building faced in ochre brick and cream plaster. This was the early‑20th‑century branch of A.S. Watson & Co., a British pharmacy founded by Dr Thomas Boswell Watson.",
-            "lookFor": "Historic Western‑style shophouse that once housed Taiwan’s first Watson’s pharmacy",
-            "practical": "Ориентир на месте: A.S. Watson & Co. Building. Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "Like its neighbours, the building follows the traditional shophouse plan – narrow frontage and deep interior – but its pseudo‑Baroque façade announces foreign influence with arched windows and balustrades【667390623570650†L92-L105】. When Dadaocheng was the epicentre of Taiwan’s tea trade, international firms like Watson’s clustered here to serve expatriates and wealthy Chinese merchants. Look for the carved company name on the pediment and imagine chemists dispensing tonics to a cosmopolitan clientele. The ground floor now houses a bookshop and café, showing how the street adapts its heritage buildings to contemporary uses."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.054617,
-            "longitude": 121.510088
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-2",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-square.jpg",
-            "alt": "Buildings along Dihua Street (A.S. Watson & Co.)",
-            "attribution": {
-              "author": "Supanut Arunoprayote",
-              "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-3",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 3,
-          "name": "Xia‑Hai City God Temple",
-          "note": "A tiny, gilded temple famed for matchmaking and anchored in the community since the 1850s",
-          "time": "20 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "The temple’s roofline bristles with dragons and phoenixes. Built in 1859 by immigrants from Tong’an County【293774572970339†L134-L236】, it enshrines the City God, a deity charged with keeping order in the underworld, and has become a magnet for couples seeking love.",
-            "lookFor": "A tiny, gilded temple famed for matchmaking and anchored in the community since the 1850s",
-            "practical": "Ориентир на месте: Xia‑Hai City God Temple. Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "Step inside to see the dense arrangement of altars, incense coils and carved beams. The building occupies only a few square metres – testament to high land prices during the trading boom – but its gilded carvings and ceremonial bells fill it with atmosphere. In front of the main altar, worshippers leave offerings and register their names on bamboo strips. A side altar to the Old Man Under the Moon attracts those hoping to meet a partner; you will see red strings and prayer slips tied to the grate. When you emerge, note how the temple sits flush between shopfronts: religion here is woven into the commercial fabric, offering blessings to merchants and sailors alike【915975356399163†L62-L148】."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.055564,
-            "longitude": 121.509991
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-3",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-square.jpg",
-            "alt": "Taipei Xia-Hai City God Temple",
-            "attribution": {
-              "author": "Supanut Arunoprayote",
-              "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Xia-Hai_City_God_Temple_07.23.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-4",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 4,
-          "name": "Yongle Fabric Market",
-          "note": "Multi‑storey market known for fabrics, tailor shops and a food court",
-          "time": "25 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "Further south the street opens onto the bulk of the Yongle Market, a four‑storey building that replaced an earlier market destroyed by fire. The ground floor hosts hawkers selling spices, dried fruit and cooked snacks; upstairs hundreds of stalls display bolts of silk, cotton and lace.",
-            "lookFor": "Multi‑storey market known for fabrics, tailor shops and a food court",
-            "practical": "Ориентир на месте: Yongle Fabric Market. Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "Locals come here to commission qipao dresses or to browse fabrics for home projects, and the air is thick with the sound of haggling and the clatter of sewing machines. The market’s institutional appearance belies a long continuity: Dadaocheng was a major centre for textile production during the Qing dynasty, and Yongle remains its commercial hub. Look for glimpses of the original stone foundations around the entrance. Remember that stalls close promptly at 18:00 and the market is shut on Sundays【358761065926668†L252-L268】, so plan your visit accordingly."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.054809,
-            "longitude": 121.510105
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-4",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-square.jpg",
-            "alt": "Yongle Market, Dihua Street",
-            "attribution": {
-              "author": "Supanut Arunoprayote",
-              "license": "CC BY 4.0; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-5",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 5,
-          "name": "Dadaocheng Theater",
-          "note": "Modern performance space promoting Taiwanese opera and folk arts on the upper floors of Yongle Market",
-          "time": "20 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "Take the elevator in the north‑west corner of Yongle Market up to the eighth floor to reach the Dadaocheng Theater. Opened in 2010, this municipal venue is designed to nurture Taiwanese opera, glove puppetry and other traditional performing arts【874903677784180†L68-L85】.",
-            "lookFor": "Modern performance space promoting Taiwanese opera and folk arts on the upper floors of Yongle Market",
-            "practical": "Ориентир на месте: Dadaocheng Theater. Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "The theatre’s lobby displays costumes and instruments and often hosts rehearsals open to passers‑by. Performances take place in a 226‑seat auditorium draped in crimson; you may catch a troupe tuning lutes or singers warming up in Minnan dialect. Built atop a utilitarian market, the theatre symbolises the neighbourhood’s renewed commitment to heritage – using modern infrastructure to sustain living traditions. Even if you do not see a show, the trip upstairs offers panoramic views over Dadaocheng’s tiled roofs. Note that public areas are usually open 09:00–21:00【795831228515098†L40-L49】, but the auditorium only opens when performances are scheduled."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.054766,
-            "longitude": 121.510138
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-5",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-square.jpg",
-            "alt": "Вход в театр Дадаочэн на восьмом этаже здания рынка Юнлэ в Тайбэе.",
-            "attribution": {
-              "author": "Solomon203",
-              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAPO_Dadaocheng_Theater_entrance_20171014a.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-6",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 6,
-          "name": "Gu Family Residence (Koo House)",
-          "note": "Red‑brick courtyard home of a wealthy tea merchant family, now viewed from the lane",
-          "time": "15 мин",
-          "walk": "Продолжайте к следующей точке маршрута.",
-          "content": {
-            "context": "Down a narrow lane off Guisui Street stands the Gu family residence. Built in the early 20th century, this two‑storey home mixes Minnan courtyard elements with Western baroque detailing: the red‑brick façade is ornamented with floral reliefs, while the interior (not open to the public) reputedly contains a central courtyard flanked by covered corridors【105370638655104†L160-L178】.",
-            "lookFor": "Red‑brick courtyard home of a wealthy tea merchant family, now viewed from the lane",
-            "practical": "Ориентир на месте: Gu Family Residence (Koo House). Продолжайте к следующей точке маршрута.",
-            "nextMove": "Продолжайте к следующей точке маршрута.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "The Gu family amassed its fortune trading tea and rice during the Dadaocheng boom and was known for philanthropy; their home symbolised wealth and cosmopolitan taste. Today the building houses a kindergarten, so you can only view its exterior – please remain quiet and do not enter the premises. Stand at the lane entrance to appreciate the symmetrical façade and high archway and imagine the courtyard life of merchant elites in the 1920s."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.0571,
-            "longitude": 121.5089
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-6",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-6-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-6-square.jpg",
-            "alt": "Исторический фасад дома семьи Гу в районе Дадаочэн в Тайбэе.",
-            "attribution": {
-              "author": "寺人孟子",
-              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BE%9C%E5%AE%85.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        },
-        {
-          "id": "taipei-dadaocheng-dihua-river-trade-7",
-          "guideId": "taipei-dadaocheng-dihua-river-trade",
-          "order": 7,
-          "name": "Dadaocheng Wharf",
-          "note": "Former riverport transformed into a riverside park and container market with sunset views",
-          "time": "20 мин",
-          "walk": "-",
-          "content": {
-            "context": "Finish your journey by following Guide Street west to the embankment. Before you is Dadaocheng Wharf, once the busiest point of embarkation for Taiwan’s tea exports.",
-            "lookFor": "Former riverport transformed into a riverside park and container market with sunset views",
-            "practical": "Ориентир на месте: Dadaocheng Wharf. -",
-            "nextMove": "Маршрут завершён.",
-            "deepDive": [
-              {
-                "title": "Подробнее",
-                "body": "In 1869 more than 120 thousand catties of Taiwanese oolong tea left this port for New York【293774572970339†L134-L236】, and for decades junks and barges jostled here for space. Today the warehouses have been cleared to create a riverside promenade with cycle lanes and a market made from repurposed shipping containers. On weekends, vendors sell craft beer, coffee and street food until late into the evening【23540202143293†L129-L139】; during the week it is quieter but open 24 hours for leisurely walks. Stand at the railing and look south to see Taipei’s modern skyline, then north to imagine the flat‑bottomed tea boats of the 19th century. The wharf symbolises the transformation of Dadaocheng from a working port into a space for leisure and reflection."
-              }
-            ]
-          },
-          "entry": "снаружи",
-          "coordinates": {
-            "latitude": 25.056771,
-            "longitude": 121.507534
-          },
-          "photo": {
-            "id": "taipei-dadaocheng-dihua-river-trade-stop-7",
-            "kind": "photo",
-            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-7-wide.jpg",
-            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-7-square.jpg",
-            "alt": "Закатный вид на пристань Дадаочэн и силуэт Нового Тайбэя через реку.",
-            "attribution": {
-              "author": "Ken Marshall",
-              "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_View_from_Dadaocheng_Wharf.jpg",
-              "retrievedAt": "2026-06-24"
-            }
-          }
-        }
-      ],
-      "cover": {
-        "id": "taipei-dadaocheng-dihua-river-trade-cover",
-        "kind": "generated",
-        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-cover-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «taipei-dadaocheng-dihua-river-trade»"
-      },
       "basemap": {
         "image": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-basemap.png",
         "center": {
-          "latitude": 25.058673499999998,
-          "longitude": 121.508836
+          "latitude": 25.05869245,
+          "longitude": 121.50890635
         },
-        "zoom": 15.34,
+        "zoom": 15.35,
         "width": 600,
         "height": 360,
         "attribution": "© OpenStreetMap contributors"
@@ -1990,36 +1680,92 @@
             25.060526
           ],
           [
-            121.509323,
-            25.060483
+            121.509295,
+            25.060526
           ],
           [
-            121.509432,
-            25.059541
+            121.508493,
+            25.060503
           ],
           [
-            121.509532,
-            25.058978
+            121.508525,
+            25.059463
           ],
           [
-            121.509649,
-            25.058268
+            121.508495,
+            25.059077
           ],
           [
-            121.50965,
-            25.058265
+            121.508476,
+            25.058771
           ],
           [
-            121.509692,
-            25.058208
+            121.508671,
+            25.058777
           ],
           [
-            121.509812,
-            25.057118
+            121.508676,
+            25.058777
           ],
           [
-            121.50983,
-            25.056972
+            121.508681,
+            25.05875
+          ],
+          [
+            121.508681,
+            25.05875
+          ],
+          [
+            121.508676,
+            25.058777
+          ],
+          [
+            121.508671,
+            25.058777
+          ],
+          [
+            121.508476,
+            25.058771
+          ],
+          [
+            121.508484,
+            25.058064
+          ],
+          [
+            121.508485,
+            25.05772
+          ],
+          [
+            121.508664,
+            25.057749
+          ],
+          [
+            121.508743,
+            25.057459
+          ],
+          [
+            121.508792,
+            25.057266
+          ],
+          [
+            121.508868,
+            25.056954
+          ],
+          [
+            121.508933,
+            25.05688
+          ],
+          [
+            121.509096,
+            25.056886
+          ],
+          [
+            121.50921,
+            25.056889
+          ],
+          [
+            121.509785,
+            25.056903
           ],
           [
             121.509838,
@@ -2038,56 +1784,72 @@
             25.055471
           ],
           [
-            121.510077,
-            25.055034
+            121.510226,
+            25.055486
           ],
           [
-            121.510105,
-            25.054582
+            121.510226,
+            25.055486
           ],
           [
-            121.510105,
-            25.054582
+            121.510636,
+            25.055517
           ],
           [
-            121.510077,
-            25.055034
+            121.510915,
+            25.055529
+          ],
+          [
+            121.510926,
+            25.055382
+          ],
+          [
+            121.510946,
+            25.05511
+          ],
+          [
+            121.510958,
+            25.054976
+          ],
+          [
+            121.510958,
+            25.054976
+          ],
+          [
+            121.510946,
+            25.05511
+          ],
+          [
+            121.510926,
+            25.055382
+          ],
+          [
+            121.510915,
+            25.055529
+          ],
+          [
+            121.510636,
+            25.055517
           ],
           [
             121.510028,
             25.055471
           ],
           [
-            121.510012,
-            25.055567
-          ],
-          [
-            121.510012,
-            25.055567
-          ],
-          [
-            121.510028,
-            25.055471
-          ],
-          [
             121.510077,
             25.055034
-          ],
-          [
-            121.510091,
-            25.054808
-          ],
-          [
-            121.510091,
-            25.054808
           ],
           [
             121.510094,
-            25.054764
+            25.054758
           ],
           [
             121.510094,
-            25.054764
+            25.054758
+          ],
+          [
+            121.5101,
+            25.054659
           ],
           [
             121.510077,
@@ -2098,93 +1860,319 @@
             25.055471
           ],
           [
-            121.509998,
-            25.055647
+            121.5099975,
+            25.0556468
           ],
           [
-            121.509847,
-            25.056833
+            121.5099049,
+            25.0568349
           ],
           [
-            121.509794,
-            25.056832
+            121.5098384,
+            25.0569048
           ],
           [
-            121.509215,
-            25.056822
+            121.5089329,
+            25.0568804
           ],
           [
-            121.509094,
-            25.056819
+            121.5084587,
+            25.0568701
           ],
           [
-            121.509085,
-            25.056809
+            121.5081385,
+            25.0568919
           ],
           [
-            121.509,
-            25.056811
+            121.5073735,
+            25.0567529
           ],
           [
-            121.508933,
-            25.05688
+            121.5073378,
+            25.0566742
           ],
           [
-            121.508868,
-            25.056954
-          ],
-          [
-            121.508836,
-            25.057087
-          ],
-          [
-            121.508836,
-            25.057087
-          ],
-          [
-            121.508868,
-            25.056954
-          ],
-          [
-            121.50879,
-            25.056945
-          ],
-          [
-            121.508433,
-            25.056941
-          ],
-          [
-            121.508416,
-            25.056962
-          ],
-          [
-            121.50832,
-            25.056968
-          ],
-          [
-            121.508204,
-            25.05694
-          ],
-          [
-            121.508138,
-            25.056892
-          ],
-          [
-            121.508081,
-            25.056907
-          ],
-          [
-            121.507958,
-            25.056474
-          ],
-          [
-            121.507843,
-            25.056502
-          ],
-          [
-            121.507843,
-            25.056502
+            121.5072858,
+            25.0566959
           ]
+        ],
+        "segments": [
+          {
+            "kind": "routed",
+            "coordinates": [
+              [
+                121.509271,
+                25.062729
+              ],
+              [
+                121.509258,
+                25.062468
+              ],
+              [
+                121.509246,
+                25.062372
+              ],
+              [
+                121.509236,
+                25.062275
+              ],
+              [
+                121.509233,
+                25.062071
+              ],
+              [
+                121.509242,
+                25.0617
+              ],
+              [
+                121.509243,
+                25.061669
+              ],
+              [
+                121.509296,
+                25.061
+              ],
+              [
+                121.509314,
+                25.060608
+              ],
+              [
+                121.509318,
+                25.060526
+              ],
+              [
+                121.509295,
+                25.060526
+              ],
+              [
+                121.508493,
+                25.060503
+              ],
+              [
+                121.508525,
+                25.059463
+              ],
+              [
+                121.508495,
+                25.059077
+              ],
+              [
+                121.508476,
+                25.058771
+              ],
+              [
+                121.508671,
+                25.058777
+              ],
+              [
+                121.508676,
+                25.058777
+              ],
+              [
+                121.508681,
+                25.05875
+              ],
+              [
+                121.508681,
+                25.05875
+              ],
+              [
+                121.508676,
+                25.058777
+              ],
+              [
+                121.508671,
+                25.058777
+              ],
+              [
+                121.508476,
+                25.058771
+              ],
+              [
+                121.508484,
+                25.058064
+              ],
+              [
+                121.508485,
+                25.05772
+              ],
+              [
+                121.508664,
+                25.057749
+              ],
+              [
+                121.508743,
+                25.057459
+              ],
+              [
+                121.508792,
+                25.057266
+              ],
+              [
+                121.508868,
+                25.056954
+              ],
+              [
+                121.508933,
+                25.05688
+              ],
+              [
+                121.509096,
+                25.056886
+              ],
+              [
+                121.50921,
+                25.056889
+              ],
+              [
+                121.509785,
+                25.056903
+              ],
+              [
+                121.509838,
+                25.056905
+              ],
+              [
+                121.509847,
+                25.056833
+              ],
+              [
+                121.509998,
+                25.055647
+              ],
+              [
+                121.510028,
+                25.055471
+              ],
+              [
+                121.510226,
+                25.055486
+              ],
+              [
+                121.510226,
+                25.055486
+              ],
+              [
+                121.510636,
+                25.055517
+              ],
+              [
+                121.510915,
+                25.055529
+              ],
+              [
+                121.510926,
+                25.055382
+              ],
+              [
+                121.510946,
+                25.05511
+              ],
+              [
+                121.510958,
+                25.054976
+              ],
+              [
+                121.510958,
+                25.054976
+              ],
+              [
+                121.510946,
+                25.05511
+              ],
+              [
+                121.510926,
+                25.055382
+              ],
+              [
+                121.510915,
+                25.055529
+              ],
+              [
+                121.510636,
+                25.055517
+              ],
+              [
+                121.510028,
+                25.055471
+              ],
+              [
+                121.510077,
+                25.055034
+              ],
+              [
+                121.510094,
+                25.054758
+              ],
+              [
+                121.510094,
+                25.054758
+              ],
+              [
+                121.5101,
+                25.054659
+              ]
+            ],
+            "reason": "geoapify_walk_dihua_street_to_watson_before_bad_ferry_detour",
+            "fromStopId": "taipei-dadaocheng-dihua-river-trade-1",
+            "toStopId": "taipei-dadaocheng-dihua-river-trade-6"
+          },
+          {
+            "kind": "connector",
+            "coordinates": [
+              [
+                121.5101,
+                25.054659
+              ],
+              [
+                121.510077,
+                25.055034
+              ],
+              [
+                121.510028,
+                25.055471
+              ],
+              [
+                121.5099975,
+                25.0556468
+              ],
+              [
+                121.5099049,
+                25.0568349
+              ],
+              [
+                121.5098384,
+                25.0569048
+              ],
+              [
+                121.5089329,
+                25.0568804
+              ],
+              [
+                121.5084587,
+                25.0568701
+              ],
+              [
+                121.5081385,
+                25.0568919
+              ],
+              [
+                121.5073735,
+                25.0567529
+              ],
+              [
+                121.5073378,
+                25.0566742
+              ],
+              [
+                121.5072858,
+                25.0566959
+              ]
+            ],
+            "reason": "osm_surface_connector_via_minsheng_west_road_no5_water_gate_to_dadaocheng_wharf",
+            "fromStopId": "taipei-dadaocheng-dihua-river-trade-6",
+            "toStopId": "taipei-dadaocheng-dihua-river-trade-7"
+          }
         ],
         "maneuvers": [
           {
@@ -2193,103 +2181,139 @@
               25.062729
             ],
             "instruction": "Walk south on 迪化街一段.",
-            "distanceM": 913,
+            "distanceM": 245,
             "type": ""
           },
           {
             "location": [
-              121.510105,
-              25.054582
+              121.509318,
+              25.060526
             ],
-            "instruction": "You have arrived at your destination.",
+            "instruction": "Turn right onto 涼州街.",
+            "distanceM": 82,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508493,
+              25.060503
+            ],
+            "instruction": "Turn left onto 環河北路一段.",
+            "distanceM": 193,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508476,
+              25.058771
+            ],
+            "instruction": "Turn left onto 歸綏街303巷.",
+            "distanceM": 23,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508681,
+              25.05875
+            ],
+            "instruction": "Your destination is on the left.",
             "distanceM": 0,
             "type": ""
           },
           {
             "location": [
-              121.510105,
-              25.054582
+              121.508681,
+              25.05875
             ],
-            "instruction": "Walk north on 迪化街一段.",
-            "distanceM": 109,
+            "instruction": "Walk west on 歸綏街303巷.",
+            "distanceM": 23,
             "type": ""
           },
           {
             "location": [
-              121.510012,
-              25.055567
+              121.508476,
+              25.058771
             ],
-            "instruction": "You have arrived at your destination.",
+            "instruction": "Turn left onto 環河北路一段.",
+            "distanceM": 117,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508485,
+              25.05772
+            ],
+            "instruction": "Turn left onto 民生西路423巷.",
+            "distanceM": 18,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508664,
+              25.057749
+            ],
+            "instruction": "Turn right to stay on 民生西路423巷.",
+            "distanceM": 101,
+            "type": ""
+          },
+          {
+            "location": [
+              121.508933,
+              25.05688
+            ],
+            "instruction": "Turn left onto 民生西路.",
+            "distanceM": 90,
+            "type": ""
+          },
+          {
+            "location": [
+              121.509838,
+              25.056905
+            ],
+            "instruction": "Turn right onto 迪化街一段.",
+            "distanceM": 160,
+            "type": ""
+          },
+          {
+            "location": [
+              121.510028,
+              25.055471
+            ],
+            "instruction": "Turn left onto 永昌街.",
+            "distanceM": 20,
+            "type": ""
+          },
+          {
+            "location": [
+              121.510226,
+              25.055486
+            ],
+            "instruction": "Your destination is on the left.",
             "distanceM": 0,
             "type": ""
           },
           {
             "location": [
-              121.510012,
-              25.055567
+              121.510226,
+              25.055486
             ],
-            "instruction": "Walk south on 迪化街一段.",
-            "distanceM": 84,
+            "instruction": "Walk east on 永昌街.",
+            "distanceM": 68,
             "type": ""
           },
           {
             "location": [
-              121.510091,
-              25.054808
+              121.510915,
+              25.055529
             ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
+            "instruction": "Turn right onto 民樂街.",
+            "distanceM": 61,
             "type": ""
           },
           {
             "location": [
-              121.510091,
-              25.054808
-            ],
-            "instruction": "Walk south on 迪化街一段.",
-            "distanceM": 4,
-            "type": ""
-          },
-          {
-            "location": [
-              121.510094,
-              25.054764
-            ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
-            "type": ""
-          },
-          {
-            "location": [
-              121.510094,
-              25.054764
-            ],
-            "instruction": "Walk north on 迪化街一段.",
-            "distanceM": 231,
-            "type": ""
-          },
-          {
-            "location": [
-              121.509847,
-              25.056833
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 85,
-            "type": ""
-          },
-          {
-            "location": [
-              121.509,
-              25.056811
-            ],
-            "instruction": "Turn right onto 西寧北路.",
-            "distanceM": 35,
-            "type": ""
-          },
-          {
-            "location": [
-              121.508836,
-              25.057087
+              121.510958,
+              25.054976
             ],
             "instruction": "Your destination is on the right.",
             "distanceM": 0,
@@ -2297,55 +2321,479 @@
           },
           {
             "location": [
-              121.508836,
-              25.057087
+              121.510958,
+              25.054976
             ],
-            "instruction": "Walk south on 民生西路423巷.",
-            "distanceM": 15,
+            "instruction": "Walk north on 民樂街.",
+            "distanceM": 61,
             "type": ""
           },
           {
             "location": [
-              121.508868,
-              25.056954
+              121.510915,
+              25.055529
             ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 77,
+            "instruction": "Turn left onto 永昌街.",
+            "distanceM": 89,
             "type": ""
           },
           {
             "location": [
-              121.508138,
-              25.056892
+              121.510028,
+              25.055471
             ],
-            "instruction": "Turn right onto 堤外道路.",
-            "distanceM": 56,
+            "instruction": "Turn left onto 迪化街一段.",
+            "distanceM": 79,
             "type": ""
           },
           {
             "location": [
-              121.507958,
-              25.056474
+              121.510094,
+              25.054758
             ],
-            "instruction": "Turn right.",
-            "distanceM": 12,
+            "instruction": "Your destination is on the left.",
+            "distanceM": 0,
             "type": ""
           },
           {
             "location": [
-              121.507843,
-              25.056502
+              121.510094,
+              25.054758
+            ],
+            "instruction": "Walk south on 迪化街一段.",
+            "distanceM": 10,
+            "type": ""
+          },
+          {
+            "location": [
+              121.5101,
+              25.054659
             ],
             "instruction": "Your destination is on the right.",
             "distanceM": 0,
             "type": ""
+          },
+          {
+            "location": [
+              121.5101,
+              25.054659
+            ],
+            "instruction": "Walk north on Dihua Street toward Minsheng West Road.",
+            "distanceM": 250,
+            "type": "connector"
+          },
+          {
+            "location": [
+              121.5098384,
+              25.0569048
+            ],
+            "instruction": "Turn west along Minsheng West Road toward No. 5 Water Gate.",
+            "distanceM": 210,
+            "type": "connector"
+          },
+          {
+            "location": [
+              121.5081385,
+              25.0568919
+            ],
+            "instruction": "Continue through the riverside access toward Dadaocheng Wharf.",
+            "distanceM": 120,
+            "type": "connector"
+          },
+          {
+            "location": [
+              121.5072858,
+              25.0566959
+            ],
+            "instruction": "You have arrived at Dadaocheng Wharf.",
+            "distanceM": 0,
+            "type": "connector"
           }
         ],
         "source": {
-          "engine": "geoapify",
+          "engine": "geoapify+manual-connector",
           "profile": "walk",
-          "generatedAt": "2026-06-24T01:24:45.680Z"
+          "generatedAt": "2026-06-25T08:49:16.994Z"
         }
+      },
+      "cityId": "taipei",
+      "category": "Район",
+      "title": "Дадаочэн и Дихуа: чай, ткани и река",
+      "subtitle": "Прогулка ведет по старой торговой улице Тайбэя от северных shophouses к пристани Tamsui: купеческие фасады, дом семьи Koo, храм Xia-Hai, тканевый рынок Yongle, театр над рынком и бывшее здание Watson показывают, как речная логистика стала городской памятью.",
+      "blurb": "Дихуа-стрит хранит не музейную, а рабочую память Дадаочэна: чай и ткани, узкие дома-склады, храмовые алтари, частные капиталы и ветер с реки, которая когда-то держала торговлю Тайбэя.",
+      "mood": "neighborhood",
+      "accent": "#60A333",
+      "soft": "#E9F2E3",
+      "deep": "#447623",
+      "ink": "#3C6222",
+      "motif": "axis",
+      "duration": "2-2,5 часа",
+      "stops": 7,
+      "distance": "около 2,0 км",
+      "pace": "half",
+      "kids": false,
+      "microcopy": {
+        "kicker": "Маршрут",
+        "line": "От северных фасадов Дихуа до Dadaocheng Wharf маршрут показывает, как портовый квартал Тайбэя собрал в одну улицу торговлю, веру, текстиль, частное богатство и новую культурную жизнь."
+      },
+      "content": {
+        "intro": "Дадаочэн лучше читать не как “старую улицу с красивыми домами”, а как систему. Река Tamsui давала выход товарам, Dihua Street собирала лавки, склады и аркады, храм Xia-Hai связывал мигрантскую общину, Yongle удержал тканевую торговлю, а театр над рынком показывает, что наследие здесь не застыло в витрине. Вы пройдете от северного ряда торговых домов к семейной резиденции у речной логики, затем к храму, рынку и бывшему иностранному торговому фасаду, чтобы закончить у пристани, с которой все это когда-то работало.",
+        "routeLogic": "Маршрут исправляет старую петлю вокруг Yongle: теперь он идет север -> юг -> река без лишних разворотов. Сначала вы видите фасадную грамматику Dihua Street, затем отходите к Koo Residence, чтобы почувствовать связь купеческого богатства с причалом, после этого возвращаетесь к религиозному и торговому центру улицы и завершаете прогулку у Dadaocheng Wharf.",
+        "bestFor": "спокойной городской прогулки\nтех, кто любит торговую историю и фасады shophouses\nпервого знакомства с Дадаочэном без музейной гонки",
+        "notFor": "маршрута только про кафе и сувениры\nдней, когда хочется избегать узких тротуаров и рыночной толпы\nтех, кому нужен один закрытый музей с понятным входом",
+        "beforeYouGo": "Большая часть маршрута проходит по открытым улицам. Koo Residence смотрите только снаружи: здание связано с детским учреждением и не является свободным интерьерным объектом. Для Xia-Hai Temple, Dadaocheng Theater, Yongle Market и бизнеса у Wharf проверяйте актуальные часы в день прогулки.",
+        "timing": "лучше утром для рынка и фасадов или ближе к закату, если хотите закончить у реки"
+      },
+      "stopList": [
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-1",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 1,
+          "name": "Ten Consecutive Buildings",
+          "note": "Северный ряд торговых домов задает грамматику Dihua Street: узкий фасад, глубокий склад, богатая вывеска.",
+          "time": "12 мин",
+          "walk": "Идите на юг по Dihua Street, затем сверните к Guisui Street и Lane 303. Следующая остановка чуть западнее основной торговой линии.",
+          "content": {
+            "context": "Начните у северного ряда Ten Consecutive Buildings. Это хороший первый кадр Дадаочэна: несколько узких shophouses работают как единый фасад, будто купцы выставили на улицу коллективную визитную карточку. Taipei Travel описывает старые дома Dihua Street как узкие и глубокие: впереди лавка, дальше фабрика или склад, а аркады помогают улице жить под дождем. Здесь это видно почти как в учебнике.",
+            "lookFor": "Повторяющиеся фронтоны и пилястры: фасады соревнуются, но держат общий ритм.\nУзкие участки домов, вытянутые в глубину квартала.\nАркады и навесы, которые превращают торговлю в защищенную уличную линию.\nНаправление Dihua Street на юг: дальше вы будете идти по этой купеческой оси.",
+            "practical": "Это открытая улица. Смотрите с противоположного тротуара, не перекрывая входы в магазины; утром фасады проще читать без толпы.",
+            "nextMove": "Идите на юг по Dihua Street, затем сверните к Guisui Street и Lane 303. Следующая остановка чуть западнее основной торговой линии.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "В Дадаочэне фасад был не украшением после дела, а частью бизнеса. Когда район богател на речной торговле, купцы строили дома, которые должны были убеждать партнеров: здесь надежный склад, крепкий капитал и семья с будущим. Поэтому старые storefront buildings одновременно практичны и театральны. Они пропускают товар вглубь, защищают покупателей аркадами и показывают улице, что торговля уже стала городской культурой."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.06273,
+            "longitude": 121.509256
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-1",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-1-square.jpg",
+            "alt": "Ten Consecutive Buildings, Dihua Street",
+            "attribution": {
+              "author": "Ar dao",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ten_Consecutive_Buildings,_Dihua_Street_20260312.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "迪化街十連棟",
+          "sourceIds": [
+            "dihua-old-storefronts-travel-taipei",
+            "taipei-dadaocheng-golden-past",
+            "ten-consecutive-buildings-secondary"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Открытая улица; отдельные магазины работают по собственному расписанию."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-2",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 2,
+          "name": "The Koo's Dadaocheng Residence",
+          "note": "Купеческое богатство уходит с фасада лавки в частный дом, обращенный к речной торговле.",
+          "time": "12 мин",
+          "walk": "Вернитесь к Dihua Street и продолжайте на юг к Xia-Hai City God Temple. Переход возвращает вас из частного капитала в общинный центр района.",
+          "content": {
+            "context": "Koo Residence, или Salt House, показывает другую сторону торгового Дадаочэна. Это уже не лавка, а дом семьи, поднявшейся на бизнесе и связи с рекой. Taipei Travel пишет, что резиденция была обращена к Tamsui Wharf так, чтобы лодки могли швартоваться прямо перед ней; аудиогид города добавляет, что интерьер сегодня недоступен, потому что здание связано с детским учреждением. Поэтому ваша точка - тихий внешний взгляд с переулка.",
+            "lookFor": "Пале-желтый фасад, арочные окна и позднеренессансные мотивы.\nКак дом стоит ближе к реке, чем к витринной линии Dihua.\nТишину переулка после торговой улицы: это почти смена социального регистра.\nЗакрытость здания - важную часть его нынешней жизни, а не недостаток маршрута.",
+            "practical": "Осмотр только снаружи. Не заходите на территорию и не задерживайтесь у входа: место связано с детским учреждением и жилой тканью переулка.",
+            "nextMove": "Вернитесь к Dihua Street и продолжайте на юг к Xia-Hai City God Temple. Переход возвращает вас из частного капитала в общинный центр района.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "Эта остановка нужна, чтобы не свести Дадаочэн только к “милым старым магазинам”. У торговли всегда есть частная сторона: семьи, монополии, связи с администрацией, склады, суда, наследство. Koo Residence делает эту сторону видимой. В маршруте она стоит перед храмом специально: сначала вы видите, как богатство уходит в дом, затем - как район собирает свою общую моральную и ритуальную жизнь у Xia-Hai."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0587697,
+            "longitude": 121.5087966
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-6",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-6-square.jpg",
+            "alt": "Исторический фасад дома семьи Гу в районе Дадаочэн в Тайбэе.",
+            "attribution": {
+              "author": "寺人孟子",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BE%9C%E5%AE%85.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "大稻埕辜宅",
+          "sourceIds": [
+            "koo-residence-travel-taipei",
+            "koo-residence-audio-travel-taipei",
+            "osm-koo-residence"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Исторический фасад снаружи; интерьер не является свободной туристической точкой."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-3",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 3,
+          "name": "Xia-Hai City God Temple",
+          "note": "Маленький храм с огромной плотностью веры: городской бог, Yue Lao и память мигрантской общины.",
+          "time": "18 мин",
+          "walk": "От храма пройдите немного южнее к Yongle Fabric Market. Торговля тканями там продолжает линию, которую храм держит как общинный центр.",
+          "content": {
+            "context": "Xia-Hai City God Temple кажется слишком маленьким для своей роли, и в этом его сила. Taipei City Government связывает раннее развитие Дадаочэна с этим храмом как религиозным центром района, а Taipei Travel добавляет почти физическую деталь: в тесном храме находятся City God, его супруга, Yue Lao и сотни других божеств. Это не декоративная остановка, а место, где торговый район оформлял доверие, порядок и просьбы о будущем.",
+            "lookFor": "Плотность алтарей: в маленьком помещении почти нет пустого места.\nКрасные нити и молитвенные таблички у Yue Lao, связанного с браком и судьбой.\nКак храм встроен прямо между лавками, без музейной дистанции.\nЗапах благовоний, который смешивается с запахами лекарственных трав и сухих товаров на улице.",
+            "practical": "Храм действующий. Одевайтесь сдержанно, не мешайте ритуалам и фотографируйте только там, где это уместно. Часы обычно дневные; перед входом проверьте актуальный график.",
+            "nextMove": "От храма пройдите немного южнее к Yongle Fabric Market. Торговля тканями там продолжает линию, которую храм держит как общинный центр.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "В старом портовом городе храм был не отдельной “достопримечательностью”, а инфраструктурой доверия. Купцы, носильщики, семьи, новые мигранты и посетители приходили сюда с разными просьбами, но все они признавали: торговля нуждается не только в складах и лодках, но и в общем порядке. Поэтому Xia-Hai хорошо стоит в середине маршрута. До него вы видели капитал и фасады, после него пойдете к рынку, где эта социальная энергия снова становится товаром, тканью, заказом и разговором."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0555972,
+            "longitude": 121.5102156
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-3",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-square.jpg",
+            "alt": "Taipei Xia-Hai City God Temple",
+            "attribution": {
+              "author": "Supanut Arunoprayote",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Xia-Hai_City_God_Temple_07.23.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "台北霞海城隍廟",
+          "sourceIds": [
+            "xiahai-travel-taipei",
+            "taipei-dadaocheng-golden-past"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Действующий храм; обычно открыт днем, актуальные часы проверяйте перед визитом."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-4",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 4,
+          "name": "Yongle Fabric Market",
+          "note": "Крупнейший тканевый рынок Тайваня держит Дихуа в настоящем, а не только в прошлом.",
+          "time": "20 мин",
+          "walk": "Не уходите далеко: Dadaocheng Theater находится в этом же здании, на верхних этажах Yongle Market.",
+          "content": {
+            "context": "Yongle Fabric Market возвращает маршрут из исторического рассказа в работающую торговлю. Taipei Travel называет его крупнейшим рынком тканей на Тайване: здесь ищут шелк, хлопок, кружево, аксессуары, материалы для костюмов и маленьких домашних проектов. Это важный поворот: Дадаочэн не просто сохраняет фасады, он продолжает продавать, шить, спорить о цене и подбирать фактуру руками.",
+            "lookFor": "Ряды рулонов ткани и образцы, которые можно трогать глазами почти как архив.\nЛестницы и лифты: рынок устроен вертикально, не только вдоль улицы.\nМаленькие лавки с фурнитурой в соседних переулках.\nПокупателей с конкретными задачами - от дизайнеров до людей, шьющих для дома или праздника.",
+            "practical": "Это действующий рынок. Двигайтесь узкими проходами спокойно, спрашивайте перед съемкой продавцов и проверяйте часы конкретных этажей заранее.",
+            "nextMove": "Не уходите далеко: Dadaocheng Theater находится в этом же здании, на верхних этажах Yongle Market.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "Yongle хорош тем, что разрушает открытку. Если смотреть только на фасады Dihua Street, можно решить, что район живет прошлым. Но рынок показывает иную правду: наследие здесь работает через повторяющиеся покупки, ремесло, ткани для сценических костюмов, семейных праздников и современных дизайнерских вещей. Это не музейный зал, а шумная машина памяти."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0549446,
+            "longitude": 121.5105269
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-4",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-square.jpg",
+            "alt": "Yongle Market, Dihua Street",
+            "attribution": {
+              "author": "Supanut Arunoprayote",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "永樂布業商場",
+          "sourceIds": [
+            "yongle-market-travel-taipei",
+            "dihua-old-storefronts-travel-taipei",
+            "osm-yongle-market"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Действующий рынок; часы разных секций и лавок могут отличаться."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-5",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 5,
+          "name": "Dadaocheng Theater",
+          "note": "Традиционная сцена над рынком: опера, кукольный театр и городская культура буквально живут этажами выше ткани.",
+          "time": "15 мин",
+          "walk": "Спуститесь обратно к Dihua Street и перейдите к бывшему зданию A.S. Watson & Co. Оно стоит рядом с рынком и показывает международный слой торговли.",
+          "content": {
+            "context": "Dadaocheng Theater расположен на 8-м и 9-м этажах Yongle Market, и это почти готовая метафора района. Внизу покупают ткань, наверху из ткани, голоса и жеста рождается сцена. Taipei Travel описывает театр как площадку для традиционных опер, glove puppetry, nanguan, beiguan, Hakka drama и других форм, которые здесь не просто демонстрируют, а поддерживают живой практикой.",
+            "lookFor": "Навигацию к верхним этажам рынка: театр не отделен от торговли, а встроен в нее.\nАфиши традиционных спектаклей и учебных программ.\nЕсли открыта выставочная зона - костюмы, куклы и инструменты.\nВид сверху на Дадаочэн: после узкой улицы район становится читаемым как плотная городская ткань.",
+            "practical": "Публичные зоны и спектакли зависят от расписания. Не поднимайтесь как в музей “по умолчанию”: проверьте часы, афишу и доступность этажей.",
+            "nextMove": "Спуститесь обратно к Dihua Street и перейдите к бывшему зданию A.S. Watson & Co. Оно стоит рядом с рынком и показывает международный слой торговли.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "Театр над рынком важен для общего тона маршрута. Здесь heritage не выглядит как реставрационная табличка: он звучит, репетирует, учит детей, продает билеты, занимает лифт и этажи муниципального здания. Так Дадаочэн переизобретает себя без разрыва с прежней логикой. Торговая улица остается торговой, но поверх нее появляется культурный слой, который объясняет прошлое через живые навыки."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0547718,
+            "longitude": 121.5103711
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-5",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-square.jpg",
+            "alt": "Вход в театр Дадаочэн на восьмом этаже здания рынка Юнлэ в Тайбэе.",
+            "attribution": {
+              "author": "Solomon203",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAPO_Dadaocheng_Theater_entrance_20171014a.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "大稻埕戲苑",
+          "sourceIds": [
+            "dadaocheng-theater-travel-taipei",
+            "dadaocheng-theater-panorama",
+            "osm-dadaocheng-theater"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Театр и публичные зоны работают по расписанию; понедельник часто выходной, проверяйте афишу."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-6",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 6,
+          "name": "A.S. Watson & Co. Building",
+          "note": "Бывший западный аптечный фасад напоминает, что Дадаочэн был портом международной торговли, а не только местным рынком.",
+          "time": "10 мин",
+          "walk": "От Watson сверните на запад к реке и Dadaocheng Wharf. Теперь маршрут выходит к причине, по которой торговая улица вообще стала богатой.",
+          "content": {
+            "context": "A.S. Watson & Co. Building стоит рядом с Yongle Market и меняет масштаб истории. Taipei Times описывает это здание как бывшую аптеку A.S. Watson & Co. напротив Yongle Market, позже превращенную в культурное пространство ArtYard. В нем видно, как Дадаочэн входил в международную торговую сеть: здесь были не только местные лавки, но и иностранные фирмы, новые товары, другие вкусы фасада и другой язык доверия.",
+            "lookFor": "Охристый кирпич, светлую лепнину и арочные окна.\nФасад, который выглядит более “западным”, чем соседние лавки, но все равно держит узкую уличную линию.\nСвязь с Yongle через улицу: рынок, аптека, кафе и творческие пространства работают как разные эпохи торговли.\nСледы adaptive reuse - старое здание не законсервировано, а занято новой городской жизнью.",
+            "practical": "Даже если внутри работают кафе или магазины, маршрут рассчитан на внешний осмотр. Уважайте текущих арендаторов и не заходите в служебные зоны.",
+            "nextMove": "От Watson сверните на запад к реке и Dadaocheng Wharf. Теперь маршрут выходит к причине, по которой торговая улица вообще стала богатой.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "Эта остановка ставит финальный вопрос перед выходом к воде: почему здесь появились такие фасады и такие капиталы? Ответ - не только в трудолюбии лавок, а в порте, международной торговле и товарах, которые пересекали языки и имперские режимы. Watson Building хорошо держит этот слой: он не самый древний и не самый сакральный, зато показывает Дадаочэн как космополитический торговый узел."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0546549,
+            "longitude": 121.5100183
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-2",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-square.jpg",
+            "alt": "Buildings along Dihua Street (A.S. Watson & Co.)",
+            "attribution": {
+              "author": "Supanut Arunoprayote",
+              "license": "CC BY 4.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "屈臣氏大藥房",
+          "sourceIds": [
+            "taipei-times-watson-artyard",
+            "dihua-old-storefronts-travel-taipei",
+            "osm-watson-building"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Историческое здание с современными арендаторами; доступ внутрь зависит от текущих заведений."
+          }
+        },
+        {
+          "id": "taipei-dadaocheng-dihua-river-trade-7",
+          "guideId": "taipei-dadaocheng-dihua-river-trade",
+          "order": 7,
+          "name": "Dadaocheng Wharf",
+          "note": "Финал у Tamsui River возвращает улице ее исходную причину: чай, хлопок, шелк и лодки.",
+          "time": "20 мин",
+          "walk": "-",
+          "content": {
+            "context": "Финал должен быть у воды. Taipei Travel пишет, что Dadaocheng Wharf у No. 5 Water Gate был речным entrepot: здесь торговали чаем, хлопком и шелковыми тканями, а западные торговые компании приходили именно к этой логистике. Сейчас это место велосипедов, прогулок, лодочных туров и вечернего досуга. Но если смотреть от перил обратно на город, Dihua Street становится понятной: фасады, склады, храм, рынок и дома работали потому, что река соединяла Тайбэй с внешним миром.",
+            "lookFor": "No. 5 Water Gate и переход от плотной улицы к открытому речному воздуху.\nЛинию Tamsui River, по которой район был связан с портовой торговлей.\nКонтейнерные бары и велодорожки как новую leisure-версию старого причала.\nЗакат: он делает финал маршрута не эффектным трюком, а спокойным возвращением к воде.",
+            "practical": "Набережная открытая, но бизнесы у Pier 5 и лодочные сервисы работают по собственному расписанию. Вечером бывает людно; после дождя покрытие у воды может быть скользким.",
+            "nextMove": "Маршрут завершен. Отсюда можно остаться на закат, пройти вдоль реки или вернуться через водные ворота к Dihua Street уже без маршрута.",
+            "deepDive": [
+              {
+                "title": "Глубже",
+                "body": "Dadaocheng Wharf меняет оптику всей прогулки. До него район мог казаться просто красивым историческим кварталом. У воды становится ясно: это был механизм перемещения товаров. Чай, ткань, рис, камфора, иностранные фирмы, храмовые праздники и семейные капиталы сходились здесь не случайно. Река была не фоном, а транспортной системой. Современная набережная смягчила этот трудовой смысл, но не стерла его: теперь город гуляет там, где раньше отгружал будущее."
+              }
+            ]
+          },
+          "entry": "снаружи",
+          "coordinates": {
+            "latitude": 25.0566959,
+            "longitude": 121.5072858
+          },
+          "photo": {
+            "id": "taipei-dadaocheng-dihua-river-trade-stop-7",
+            "kind": "photo",
+            "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-7-square.jpg",
+            "alt": "Закатный вид на пристань Дадаочэн и силуэт Нового Тайбэя через реку.",
+            "attribution": {
+              "author": "Ken Marshall",
+              "license": "CC BY 2.0; cropped/resized for app",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_View_from_Dadaocheng_Wharf.jpg",
+              "retrievedAt": "2026-06-24"
+            }
+          },
+          "nameLocal": "大稻埕碼頭",
+          "sourceIds": [
+            "dadaocheng-wharf-travel-taipei",
+            "datong-district-taipei-gov",
+            "osm-dadaocheng-wharf"
+          ],
+          "hours": {
+            "rules": [],
+            "summary": "Открытая набережная; часы контейнерного рынка, лодок и заведений проверяйте отдельно."
+          }
+        }
+      ],
+      "cover": {
+        "id": "taipei-dadaocheng-dihua-river-trade-cover",
+        "kind": "generated",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-cover-square.jpg",
+        "alt": "Сгенерированная editorial-обложка маршрута «taipei-dadaocheng-dihua-river-trade»"
       },
       "coverAssetId": "taipei-dadaocheng-dihua-river-trade-cover"
     },
@@ -4695,18 +5143,18 @@
       "guideId": "taipei-dadaocheng-dihua-river-trade",
       "order": 1,
       "name": "Ten Consecutive Buildings",
-      "note": "A row of ten connected merchants’ houses whose Baroque façades line the northern end of Dihua Street",
-      "time": "15 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
+      "note": "Северный ряд торговых домов задает грамматику Dihua Street: узкий фасад, глубокий склад, богатая вывеска.",
+      "time": "12 мин",
+      "walk": "Идите на юг по Dihua Street, затем сверните к Guisui Street и Lane 303. Следующая остановка чуть западнее основной торговой линии.",
       "content": {
-        "context": "Stand on the opposite (east) side of Dihua Street and take in the sweep of façades facing you. This uninterrupted row of ten shophouses marks the northern entry to the neighbourhood.",
-        "lookFor": "A row of ten connected merchants’ houses whose Baroque façades line the northern end of Dihua Street",
-        "practical": "Ориентир на месте: Ten Consecutive Buildings. Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "context": "Начните у северного ряда Ten Consecutive Buildings. Это хороший первый кадр Дадаочэна: несколько узких shophouses работают как единый фасад, будто купцы выставили на улицу коллективную визитную карточку. Taipei Travel описывает старые дома Dihua Street как узкие и глубокие: впереди лавка, дальше фабрика или склад, а аркады помогают улице жить под дождем. Здесь это видно почти как в учебнике.",
+        "lookFor": "Повторяющиеся фронтоны и пилястры: фасады соревнуются, но держат общий ритм.\nУзкие участки домов, вытянутые в глубину квартала.\nАркады и навесы, которые превращают торговлю в защищенную уличную линию.\nНаправление Dihua Street на юг: дальше вы будете идти по этой купеческой оси.",
+        "practical": "Это открытая улица. Смотрите с противоположного тротуара, не перекрывая входы в магазины; утром фасады проще читать без толпы.",
+        "nextMove": "Идите на юг по Dihua Street, затем сверните к Guisui Street и Lane 303. Следующая остановка чуть западнее основной торговой линии.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "In the 19th century, merchants rebuilt their timber storefronts in fired brick and embellished them with stucco scrolls and pediments, borrowing from European Baroque styles【915975356399163†L116-L170】. Each shop is long and narrow, with a commercial front room and living quarters above that open onto a rear loading lane; boatmen could haul tea, camphor or rice directly from the river to the back doors【83443692331992†L129-L133】. Today the row is a favourite spot for wedding photographs, yet it still hints at the scale of the Dadaocheng boom. Notice how the carved gables and pilasters echo each other across all ten units, suggesting the merchants’ desire to present a united front to visiting traders."
+            "title": "Глубже",
+            "body": "В Дадаочэне фасад был не украшением после дела, а частью бизнеса. Когда район богател на речной торговле, купцы строили дома, которые должны были убеждать партнеров: здесь надежный склад, крепкий капитал и семья с будущим. Поэтому старые storefront buildings одновременно практичны и театральны. Они пропускают товар вглубь, защищают покупателей аркадами и показывают улице, что торговля уже стала городской культурой."
           }
         ]
       },
@@ -4727,188 +5175,42 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ten_Consecutive_Buildings,_Dihua_Street_20260312.jpg",
           "retrievedAt": "2026-06-24"
         }
+      },
+      "nameLocal": "迪化街十連棟",
+      "sourceIds": [
+        "dihua-old-storefronts-travel-taipei",
+        "taipei-dadaocheng-golden-past",
+        "ten-consecutive-buildings-secondary"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Открытая улица; отдельные магазины работают по собственному расписанию."
       }
     },
     {
       "id": "taipei-dadaocheng-dihua-river-trade-2",
       "guideId": "taipei-dadaocheng-dihua-river-trade",
       "order": 2,
-      "name": "A.S. Watson & Co. Building",
-      "note": "Historic Western‑style shophouse that once housed Taiwan’s first Watson’s pharmacy",
-      "time": "10 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
+      "name": "The Koo's Dadaocheng Residence",
+      "note": "Купеческое богатство уходит с фасада лавки в частный дом, обращенный к речной торговле.",
+      "time": "12 мин",
+      "walk": "Вернитесь к Dihua Street и продолжайте на юг к Xia-Hai City God Temple. Переход возвращает вас из частного капитала в общинный центр района.",
       "content": {
-        "context": "Continue south to a three‑storey building faced in ochre brick and cream plaster. This was the early‑20th‑century branch of A.S. Watson & Co., a British pharmacy founded by Dr Thomas Boswell Watson.",
-        "lookFor": "Historic Western‑style shophouse that once housed Taiwan’s first Watson’s pharmacy",
-        "practical": "Ориентир на месте: A.S. Watson & Co. Building. Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
+        "context": "Koo Residence, или Salt House, показывает другую сторону торгового Дадаочэна. Это уже не лавка, а дом семьи, поднявшейся на бизнесе и связи с рекой. Taipei Travel пишет, что резиденция была обращена к Tamsui Wharf так, чтобы лодки могли швартоваться прямо перед ней; аудиогид города добавляет, что интерьер сегодня недоступен, потому что здание связано с детским учреждением. Поэтому ваша точка - тихий внешний взгляд с переулка.",
+        "lookFor": "Пале-желтый фасад, арочные окна и позднеренессансные мотивы.\nКак дом стоит ближе к реке, чем к витринной линии Dihua.\nТишину переулка после торговой улицы: это почти смена социального регистра.\nЗакрытость здания - важную часть его нынешней жизни, а не недостаток маршрута.",
+        "practical": "Осмотр только снаружи. Не заходите на территорию и не задерживайтесь у входа: место связано с детским учреждением и жилой тканью переулка.",
+        "nextMove": "Вернитесь к Dihua Street и продолжайте на юг к Xia-Hai City God Temple. Переход возвращает вас из частного капитала в общинный центр района.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "Like its neighbours, the building follows the traditional shophouse plan – narrow frontage and deep interior – but its pseudo‑Baroque façade announces foreign influence with arched windows and balustrades【667390623570650†L92-L105】. When Dadaocheng was the epicentre of Taiwan’s tea trade, international firms like Watson’s clustered here to serve expatriates and wealthy Chinese merchants. Look for the carved company name on the pediment and imagine chemists dispensing tonics to a cosmopolitan clientele. The ground floor now houses a bookshop and café, showing how the street adapts its heritage buildings to contemporary uses."
+            "title": "Глубже",
+            "body": "Эта остановка нужна, чтобы не свести Дадаочэн только к “милым старым магазинам”. У торговли всегда есть частная сторона: семьи, монополии, связи с администрацией, склады, суда, наследство. Koo Residence делает эту сторону видимой. В маршруте она стоит перед храмом специально: сначала вы видите, как богатство уходит в дом, затем - как район собирает свою общую моральную и ритуальную жизнь у Xia-Hai."
           }
         ]
       },
       "entry": "снаружи",
       "coordinates": {
-        "latitude": 25.054617,
-        "longitude": 121.510088
-      },
-      "photo": {
-        "id": "taipei-dadaocheng-dihua-river-trade-stop-2",
-        "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-square.jpg",
-        "alt": "Buildings along Dihua Street (A.S. Watson & Co.)",
-        "attribution": {
-          "author": "Supanut Arunoprayote",
-          "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23.jpg",
-          "retrievedAt": "2026-06-24"
-        }
-      }
-    },
-    {
-      "id": "taipei-dadaocheng-dihua-river-trade-3",
-      "guideId": "taipei-dadaocheng-dihua-river-trade",
-      "order": 3,
-      "name": "Xia‑Hai City God Temple",
-      "note": "A tiny, gilded temple famed for matchmaking and anchored in the community since the 1850s",
-      "time": "20 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
-      "content": {
-        "context": "The temple’s roofline bristles with dragons and phoenixes. Built in 1859 by immigrants from Tong’an County【293774572970339†L134-L236】, it enshrines the City God, a deity charged with keeping order in the underworld, and has become a magnet for couples seeking love.",
-        "lookFor": "A tiny, gilded temple famed for matchmaking and anchored in the community since the 1850s",
-        "practical": "Ориентир на месте: Xia‑Hai City God Temple. Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
-        "deepDive": [
-          {
-            "title": "Подробнее",
-            "body": "Step inside to see the dense arrangement of altars, incense coils and carved beams. The building occupies only a few square metres – testament to high land prices during the trading boom – but its gilded carvings and ceremonial bells fill it with atmosphere. In front of the main altar, worshippers leave offerings and register their names on bamboo strips. A side altar to the Old Man Under the Moon attracts those hoping to meet a partner; you will see red strings and prayer slips tied to the grate. When you emerge, note how the temple sits flush between shopfronts: religion here is woven into the commercial fabric, offering blessings to merchants and sailors alike【915975356399163†L62-L148】."
-          }
-        ]
-      },
-      "entry": "снаружи",
-      "coordinates": {
-        "latitude": 25.055564,
-        "longitude": 121.509991
-      },
-      "photo": {
-        "id": "taipei-dadaocheng-dihua-river-trade-stop-3",
-        "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-square.jpg",
-        "alt": "Taipei Xia-Hai City God Temple",
-        "attribution": {
-          "author": "Supanut Arunoprayote",
-          "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Xia-Hai_City_God_Temple_07.23.jpg",
-          "retrievedAt": "2026-06-24"
-        }
-      }
-    },
-    {
-      "id": "taipei-dadaocheng-dihua-river-trade-4",
-      "guideId": "taipei-dadaocheng-dihua-river-trade",
-      "order": 4,
-      "name": "Yongle Fabric Market",
-      "note": "Multi‑storey market known for fabrics, tailor shops and a food court",
-      "time": "25 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
-      "content": {
-        "context": "Further south the street opens onto the bulk of the Yongle Market, a four‑storey building that replaced an earlier market destroyed by fire. The ground floor hosts hawkers selling spices, dried fruit and cooked snacks; upstairs hundreds of stalls display bolts of silk, cotton and lace.",
-        "lookFor": "Multi‑storey market known for fabrics, tailor shops and a food court",
-        "practical": "Ориентир на месте: Yongle Fabric Market. Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
-        "deepDive": [
-          {
-            "title": "Подробнее",
-            "body": "Locals come here to commission qipao dresses or to browse fabrics for home projects, and the air is thick with the sound of haggling and the clatter of sewing machines. The market’s institutional appearance belies a long continuity: Dadaocheng was a major centre for textile production during the Qing dynasty, and Yongle remains its commercial hub. Look for glimpses of the original stone foundations around the entrance. Remember that stalls close promptly at 18:00 and the market is shut on Sundays【358761065926668†L252-L268】, so plan your visit accordingly."
-          }
-        ]
-      },
-      "entry": "снаружи",
-      "coordinates": {
-        "latitude": 25.054809,
-        "longitude": 121.510105
-      },
-      "photo": {
-        "id": "taipei-dadaocheng-dihua-river-trade-stop-4",
-        "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-square.jpg",
-        "alt": "Yongle Market, Dihua Street",
-        "attribution": {
-          "author": "Supanut Arunoprayote",
-          "license": "CC BY 4.0; cropped/resized for app",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg",
-          "retrievedAt": "2026-06-24"
-        }
-      }
-    },
-    {
-      "id": "taipei-dadaocheng-dihua-river-trade-5",
-      "guideId": "taipei-dadaocheng-dihua-river-trade",
-      "order": 5,
-      "name": "Dadaocheng Theater",
-      "note": "Modern performance space promoting Taiwanese opera and folk arts on the upper floors of Yongle Market",
-      "time": "20 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
-      "content": {
-        "context": "Take the elevator in the north‑west corner of Yongle Market up to the eighth floor to reach the Dadaocheng Theater. Opened in 2010, this municipal venue is designed to nurture Taiwanese opera, glove puppetry and other traditional performing arts【874903677784180†L68-L85】.",
-        "lookFor": "Modern performance space promoting Taiwanese opera and folk arts on the upper floors of Yongle Market",
-        "practical": "Ориентир на месте: Dadaocheng Theater. Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
-        "deepDive": [
-          {
-            "title": "Подробнее",
-            "body": "The theatre’s lobby displays costumes and instruments and often hosts rehearsals open to passers‑by. Performances take place in a 226‑seat auditorium draped in crimson; you may catch a troupe tuning lutes or singers warming up in Minnan dialect. Built atop a utilitarian market, the theatre symbolises the neighbourhood’s renewed commitment to heritage – using modern infrastructure to sustain living traditions. Even if you do not see a show, the trip upstairs offers panoramic views over Dadaocheng’s tiled roofs. Note that public areas are usually open 09:00–21:00【795831228515098†L40-L49】, but the auditorium only opens when performances are scheduled."
-          }
-        ]
-      },
-      "entry": "снаружи",
-      "coordinates": {
-        "latitude": 25.054766,
-        "longitude": 121.510138
-      },
-      "photo": {
-        "id": "taipei-dadaocheng-dihua-river-trade-stop-5",
-        "kind": "photo",
-        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-wide.jpg",
-        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-square.jpg",
-        "alt": "Вход в театр Дадаочэн на восьмом этаже здания рынка Юнлэ в Тайбэе.",
-        "attribution": {
-          "author": "Solomon203",
-          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAPO_Dadaocheng_Theater_entrance_20171014a.jpg",
-          "retrievedAt": "2026-06-24"
-        }
-      }
-    },
-    {
-      "id": "taipei-dadaocheng-dihua-river-trade-6",
-      "guideId": "taipei-dadaocheng-dihua-river-trade",
-      "order": 6,
-      "name": "Gu Family Residence (Koo House)",
-      "note": "Red‑brick courtyard home of a wealthy tea merchant family, now viewed from the lane",
-      "time": "15 мин",
-      "walk": "Продолжайте к следующей точке маршрута.",
-      "content": {
-        "context": "Down a narrow lane off Guisui Street stands the Gu family residence. Built in the early 20th century, this two‑storey home mixes Minnan courtyard elements with Western baroque detailing: the red‑brick façade is ornamented with floral reliefs, while the interior (not open to the public) reputedly contains a central courtyard flanked by covered corridors【105370638655104†L160-L178】.",
-        "lookFor": "Red‑brick courtyard home of a wealthy tea merchant family, now viewed from the lane",
-        "practical": "Ориентир на месте: Gu Family Residence (Koo House). Продолжайте к следующей точке маршрута.",
-        "nextMove": "Продолжайте к следующей точке маршрута.",
-        "deepDive": [
-          {
-            "title": "Подробнее",
-            "body": "The Gu family amassed its fortune trading tea and rice during the Dadaocheng boom and was known for philanthropy; their home symbolised wealth and cosmopolitan taste. Today the building houses a kindergarten, so you can only view its exterior – please remain quiet and do not enter the premises. Stand at the lane entrance to appreciate the symmetrical façade and high archway and imagine the courtyard life of merchant elites in the 1920s."
-          }
-        ]
-      },
-      "entry": "снаружи",
-      "coordinates": {
-        "latitude": 25.0571,
-        "longitude": 121.5089
+        "latitude": 25.0587697,
+        "longitude": 121.5087966
       },
       "photo": {
         "id": "taipei-dadaocheng-dihua-river-trade-stop-6",
@@ -4922,6 +5224,211 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%A8%BB%E5%9F%95%E8%BE%9C%E5%AE%85.jpg",
           "retrievedAt": "2026-06-24"
         }
+      },
+      "nameLocal": "大稻埕辜宅",
+      "sourceIds": [
+        "koo-residence-travel-taipei",
+        "koo-residence-audio-travel-taipei",
+        "osm-koo-residence"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Исторический фасад снаружи; интерьер не является свободной туристической точкой."
+      }
+    },
+    {
+      "id": "taipei-dadaocheng-dihua-river-trade-3",
+      "guideId": "taipei-dadaocheng-dihua-river-trade",
+      "order": 3,
+      "name": "Xia-Hai City God Temple",
+      "note": "Маленький храм с огромной плотностью веры: городской бог, Yue Lao и память мигрантской общины.",
+      "time": "18 мин",
+      "walk": "От храма пройдите немного южнее к Yongle Fabric Market. Торговля тканями там продолжает линию, которую храм держит как общинный центр.",
+      "content": {
+        "context": "Xia-Hai City God Temple кажется слишком маленьким для своей роли, и в этом его сила. Taipei City Government связывает раннее развитие Дадаочэна с этим храмом как религиозным центром района, а Taipei Travel добавляет почти физическую деталь: в тесном храме находятся City God, его супруга, Yue Lao и сотни других божеств. Это не декоративная остановка, а место, где торговый район оформлял доверие, порядок и просьбы о будущем.",
+        "lookFor": "Плотность алтарей: в маленьком помещении почти нет пустого места.\nКрасные нити и молитвенные таблички у Yue Lao, связанного с браком и судьбой.\nКак храм встроен прямо между лавками, без музейной дистанции.\nЗапах благовоний, который смешивается с запахами лекарственных трав и сухих товаров на улице.",
+        "practical": "Храм действующий. Одевайтесь сдержанно, не мешайте ритуалам и фотографируйте только там, где это уместно. Часы обычно дневные; перед входом проверьте актуальный график.",
+        "nextMove": "От храма пройдите немного южнее к Yongle Fabric Market. Торговля тканями там продолжает линию, которую храм держит как общинный центр.",
+        "deepDive": [
+          {
+            "title": "Глубже",
+            "body": "В старом портовом городе храм был не отдельной “достопримечательностью”, а инфраструктурой доверия. Купцы, носильщики, семьи, новые мигранты и посетители приходили сюда с разными просьбами, но все они признавали: торговля нуждается не только в складах и лодках, но и в общем порядке. Поэтому Xia-Hai хорошо стоит в середине маршрута. До него вы видели капитал и фасады, после него пойдете к рынку, где эта социальная энергия снова становится товаром, тканью, заказом и разговором."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 25.0555972,
+        "longitude": 121.5102156
+      },
+      "photo": {
+        "id": "taipei-dadaocheng-dihua-river-trade-stop-3",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-3-square.jpg",
+        "alt": "Taipei Xia-Hai City God Temple",
+        "attribution": {
+          "author": "Supanut Arunoprayote",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Xia-Hai_City_God_Temple_07.23.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      },
+      "nameLocal": "台北霞海城隍廟",
+      "sourceIds": [
+        "xiahai-travel-taipei",
+        "taipei-dadaocheng-golden-past"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Действующий храм; обычно открыт днем, актуальные часы проверяйте перед визитом."
+      }
+    },
+    {
+      "id": "taipei-dadaocheng-dihua-river-trade-4",
+      "guideId": "taipei-dadaocheng-dihua-river-trade",
+      "order": 4,
+      "name": "Yongle Fabric Market",
+      "note": "Крупнейший тканевый рынок Тайваня держит Дихуа в настоящем, а не только в прошлом.",
+      "time": "20 мин",
+      "walk": "Не уходите далеко: Dadaocheng Theater находится в этом же здании, на верхних этажах Yongle Market.",
+      "content": {
+        "context": "Yongle Fabric Market возвращает маршрут из исторического рассказа в работающую торговлю. Taipei Travel называет его крупнейшим рынком тканей на Тайване: здесь ищут шелк, хлопок, кружево, аксессуары, материалы для костюмов и маленьких домашних проектов. Это важный поворот: Дадаочэн не просто сохраняет фасады, он продолжает продавать, шить, спорить о цене и подбирать фактуру руками.",
+        "lookFor": "Ряды рулонов ткани и образцы, которые можно трогать глазами почти как архив.\nЛестницы и лифты: рынок устроен вертикально, не только вдоль улицы.\nМаленькие лавки с фурнитурой в соседних переулках.\nПокупателей с конкретными задачами - от дизайнеров до людей, шьющих для дома или праздника.",
+        "practical": "Это действующий рынок. Двигайтесь узкими проходами спокойно, спрашивайте перед съемкой продавцов и проверяйте часы конкретных этажей заранее.",
+        "nextMove": "Не уходите далеко: Dadaocheng Theater находится в этом же здании, на верхних этажах Yongle Market.",
+        "deepDive": [
+          {
+            "title": "Глубже",
+            "body": "Yongle хорош тем, что разрушает открытку. Если смотреть только на фасады Dihua Street, можно решить, что район живет прошлым. Но рынок показывает иную правду: наследие здесь работает через повторяющиеся покупки, ремесло, ткани для сценических костюмов, семейных праздников и современных дизайнерских вещей. Это не музейный зал, а шумная машина памяти."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 25.0549446,
+        "longitude": 121.5105269
+      },
+      "photo": {
+        "id": "taipei-dadaocheng-dihua-river-trade-stop-4",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-4-square.jpg",
+        "alt": "Yongle Market, Dihua Street",
+        "attribution": {
+          "author": "Supanut Arunoprayote",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      },
+      "nameLocal": "永樂布業商場",
+      "sourceIds": [
+        "yongle-market-travel-taipei",
+        "dihua-old-storefronts-travel-taipei",
+        "osm-yongle-market"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Действующий рынок; часы разных секций и лавок могут отличаться."
+      }
+    },
+    {
+      "id": "taipei-dadaocheng-dihua-river-trade-5",
+      "guideId": "taipei-dadaocheng-dihua-river-trade",
+      "order": 5,
+      "name": "Dadaocheng Theater",
+      "note": "Традиционная сцена над рынком: опера, кукольный театр и городская культура буквально живут этажами выше ткани.",
+      "time": "15 мин",
+      "walk": "Спуститесь обратно к Dihua Street и перейдите к бывшему зданию A.S. Watson & Co. Оно стоит рядом с рынком и показывает международный слой торговли.",
+      "content": {
+        "context": "Dadaocheng Theater расположен на 8-м и 9-м этажах Yongle Market, и это почти готовая метафора района. Внизу покупают ткань, наверху из ткани, голоса и жеста рождается сцена. Taipei Travel описывает театр как площадку для традиционных опер, glove puppetry, nanguan, beiguan, Hakka drama и других форм, которые здесь не просто демонстрируют, а поддерживают живой практикой.",
+        "lookFor": "Навигацию к верхним этажам рынка: театр не отделен от торговли, а встроен в нее.\nАфиши традиционных спектаклей и учебных программ.\nЕсли открыта выставочная зона - костюмы, куклы и инструменты.\nВид сверху на Дадаочэн: после узкой улицы район становится читаемым как плотная городская ткань.",
+        "practical": "Публичные зоны и спектакли зависят от расписания. Не поднимайтесь как в музей “по умолчанию”: проверьте часы, афишу и доступность этажей.",
+        "nextMove": "Спуститесь обратно к Dihua Street и перейдите к бывшему зданию A.S. Watson & Co. Оно стоит рядом с рынком и показывает международный слой торговли.",
+        "deepDive": [
+          {
+            "title": "Глубже",
+            "body": "Театр над рынком важен для общего тона маршрута. Здесь heritage не выглядит как реставрационная табличка: он звучит, репетирует, учит детей, продает билеты, занимает лифт и этажи муниципального здания. Так Дадаочэн переизобретает себя без разрыва с прежней логикой. Торговая улица остается торговой, но поверх нее появляется культурный слой, который объясняет прошлое через живые навыки."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 25.0547718,
+        "longitude": 121.5103711
+      },
+      "photo": {
+        "id": "taipei-dadaocheng-dihua-river-trade-stop-5",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-5-square.jpg",
+        "alt": "Вход в театр Дадаочэн на восьмом этаже здания рынка Юнлэ в Тайбэе.",
+        "attribution": {
+          "author": "Solomon203",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAPO_Dadaocheng_Theater_entrance_20171014a.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      },
+      "nameLocal": "大稻埕戲苑",
+      "sourceIds": [
+        "dadaocheng-theater-travel-taipei",
+        "dadaocheng-theater-panorama",
+        "osm-dadaocheng-theater"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Театр и публичные зоны работают по расписанию; понедельник часто выходной, проверяйте афишу."
+      }
+    },
+    {
+      "id": "taipei-dadaocheng-dihua-river-trade-6",
+      "guideId": "taipei-dadaocheng-dihua-river-trade",
+      "order": 6,
+      "name": "A.S. Watson & Co. Building",
+      "note": "Бывший западный аптечный фасад напоминает, что Дадаочэн был портом международной торговли, а не только местным рынком.",
+      "time": "10 мин",
+      "walk": "От Watson сверните на запад к реке и Dadaocheng Wharf. Теперь маршрут выходит к причине, по которой торговая улица вообще стала богатой.",
+      "content": {
+        "context": "A.S. Watson & Co. Building стоит рядом с Yongle Market и меняет масштаб истории. Taipei Times описывает это здание как бывшую аптеку A.S. Watson & Co. напротив Yongle Market, позже превращенную в культурное пространство ArtYard. В нем видно, как Дадаочэн входил в международную торговую сеть: здесь были не только местные лавки, но и иностранные фирмы, новые товары, другие вкусы фасада и другой язык доверия.",
+        "lookFor": "Охристый кирпич, светлую лепнину и арочные окна.\nФасад, который выглядит более “западным”, чем соседние лавки, но все равно держит узкую уличную линию.\nСвязь с Yongle через улицу: рынок, аптека, кафе и творческие пространства работают как разные эпохи торговли.\nСледы adaptive reuse - старое здание не законсервировано, а занято новой городской жизнью.",
+        "practical": "Даже если внутри работают кафе или магазины, маршрут рассчитан на внешний осмотр. Уважайте текущих арендаторов и не заходите в служебные зоны.",
+        "nextMove": "От Watson сверните на запад к реке и Dadaocheng Wharf. Теперь маршрут выходит к причине, по которой торговая улица вообще стала богатой.",
+        "deepDive": [
+          {
+            "title": "Глубже",
+            "body": "Эта остановка ставит финальный вопрос перед выходом к воде: почему здесь появились такие фасады и такие капиталы? Ответ - не только в трудолюбии лавок, а в порте, международной торговле и товарах, которые пересекали языки и имперские режимы. Watson Building хорошо держит этот слой: он не самый древний и не самый сакральный, зато показывает Дадаочэн как космополитический торговый узел."
+          }
+        ]
+      },
+      "entry": "снаружи",
+      "coordinates": {
+        "latitude": 25.0546549,
+        "longitude": 121.5100183
+      },
+      "photo": {
+        "id": "taipei-dadaocheng-dihua-river-trade-stop-2",
+        "kind": "photo",
+        "wide": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/taipei/taipei-dadaocheng-dihua-river-trade-stop-2-square.jpg",
+        "alt": "Buildings along Dihua Street (A.S. Watson & Co.)",
+        "attribution": {
+          "author": "Supanut Arunoprayote",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23.jpg",
+          "retrievedAt": "2026-06-24"
+        }
+      },
+      "nameLocal": "屈臣氏大藥房",
+      "sourceIds": [
+        "taipei-times-watson-artyard",
+        "dihua-old-storefronts-travel-taipei",
+        "osm-watson-building"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Историческое здание с современными арендаторами; доступ внутрь зависит от текущих заведений."
       }
     },
     {
@@ -4929,25 +5436,25 @@
       "guideId": "taipei-dadaocheng-dihua-river-trade",
       "order": 7,
       "name": "Dadaocheng Wharf",
-      "note": "Former riverport transformed into a riverside park and container market with sunset views",
+      "note": "Финал у Tamsui River возвращает улице ее исходную причину: чай, хлопок, шелк и лодки.",
       "time": "20 мин",
       "walk": "-",
       "content": {
-        "context": "Finish your journey by following Guide Street west to the embankment. Before you is Dadaocheng Wharf, once the busiest point of embarkation for Taiwan’s tea exports.",
-        "lookFor": "Former riverport transformed into a riverside park and container market with sunset views",
-        "practical": "Ориентир на месте: Dadaocheng Wharf. -",
-        "nextMove": "Маршрут завершён.",
+        "context": "Финал должен быть у воды. Taipei Travel пишет, что Dadaocheng Wharf у No. 5 Water Gate был речным entrepot: здесь торговали чаем, хлопком и шелковыми тканями, а западные торговые компании приходили именно к этой логистике. Сейчас это место велосипедов, прогулок, лодочных туров и вечернего досуга. Но если смотреть от перил обратно на город, Dihua Street становится понятной: фасады, склады, храм, рынок и дома работали потому, что река соединяла Тайбэй с внешним миром.",
+        "lookFor": "No. 5 Water Gate и переход от плотной улицы к открытому речному воздуху.\nЛинию Tamsui River, по которой район был связан с портовой торговлей.\nКонтейнерные бары и велодорожки как новую leisure-версию старого причала.\nЗакат: он делает финал маршрута не эффектным трюком, а спокойным возвращением к воде.",
+        "practical": "Набережная открытая, но бизнесы у Pier 5 и лодочные сервисы работают по собственному расписанию. Вечером бывает людно; после дождя покрытие у воды может быть скользким.",
+        "nextMove": "Маршрут завершен. Отсюда можно остаться на закат, пройти вдоль реки или вернуться через водные ворота к Dihua Street уже без маршрута.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "In 1869 more than 120 thousand catties of Taiwanese oolong tea left this port for New York【293774572970339†L134-L236】, and for decades junks and barges jostled here for space. Today the warehouses have been cleared to create a riverside promenade with cycle lanes and a market made from repurposed shipping containers. On weekends, vendors sell craft beer, coffee and street food until late into the evening【23540202143293†L129-L139】; during the week it is quieter but open 24 hours for leisurely walks. Stand at the railing and look south to see Taipei’s modern skyline, then north to imagine the flat‑bottomed tea boats of the 19th century. The wharf symbolises the transformation of Dadaocheng from a working port into a space for leisure and reflection."
+            "title": "Глубже",
+            "body": "Dadaocheng Wharf меняет оптику всей прогулки. До него район мог казаться просто красивым историческим кварталом. У воды становится ясно: это был механизм перемещения товаров. Чай, ткань, рис, камфора, иностранные фирмы, храмовые праздники и семейные капиталы сходились здесь не случайно. Река была не фоном, а транспортной системой. Современная набережная смягчила этот трудовой смысл, но не стерла его: теперь город гуляет там, где раньше отгружал будущее."
           }
         ]
       },
       "entry": "снаружи",
       "coordinates": {
-        "latitude": 25.056771,
-        "longitude": 121.507534
+        "latitude": 25.0566959,
+        "longitude": 121.5072858
       },
       "photo": {
         "id": "taipei-dadaocheng-dihua-river-trade-stop-7",
@@ -4961,6 +5468,16 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_View_from_Dadaocheng_Wharf.jpg",
           "retrievedAt": "2026-06-24"
         }
+      },
+      "nameLocal": "大稻埕碼頭",
+      "sourceIds": [
+        "dadaocheng-wharf-travel-taipei",
+        "datong-district-taipei-gov",
+        "osm-dadaocheng-wharf"
+      ],
+      "hours": {
+        "rules": [],
+        "summary": "Открытая набережная; часы контейнерного рынка, лодок и заведений проверяйте отдельно."
       }
     },
     {
@@ -5279,5 +5796,5 @@
       }
     }
   ],
-  "packHash": "b32a1acf4d80"
+  "packHash": "f986bc03d25d"
 }
