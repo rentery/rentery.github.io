@@ -213,7 +213,7 @@
       "packPath": "cities/oslo/offline-pack.json"
     },
     "paris": {
-      "packHash": "218d7d0b96e6",
+      "packHash": "3ab41555fccc",
       "packPath": "cities/paris/offline-pack.json"
     },
     "philadelphia": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T03:47:12.419Z",
+  "generatedAt": "2026-06-25T04:05:38.449Z",
   "locale": "ru",
   "schemaVersion": 1
 }
