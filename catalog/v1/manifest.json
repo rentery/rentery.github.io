@@ -161,7 +161,7 @@
       "packPath": "cities/havana/offline-pack.json"
     },
     "helsinki": {
-      "packHash": "5d5b76dcc08c",
+      "packHash": "e19ee252019e",
       "packPath": "cities/helsinki/offline-pack.json"
     },
     "ho-chi-minh-city": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T04:32:48.410Z",
+  "generatedAt": "2026-06-25T04:49:15.231Z",
   "locale": "ru",
   "schemaVersion": 1
 }
