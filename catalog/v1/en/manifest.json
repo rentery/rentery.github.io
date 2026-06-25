@@ -41,7 +41,7 @@
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
-      "packHash": "8496e1eb2cc4",
+      "packHash": "8e8263a79833",
       "packPath": "cities/charleston-sc/offline-pack.json"
     },
     "chicago": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T13:10:09.549Z",
+  "generatedAt": "2026-06-25T13:22:44.361Z",
   "locale": "en",
   "schemaVersion": 1
 }
