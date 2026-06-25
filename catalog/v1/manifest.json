@@ -221,7 +221,7 @@
       "packPath": "cities/philadelphia/offline-pack.json"
     },
     "porto": {
-      "packHash": "4082fc98eb6f",
+      "packHash": "5cd565b125bf",
       "packPath": "cities/porto/offline-pack.json"
     },
     "prague": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T05:25:52.823Z",
+  "generatedAt": "2026-06-25T05:36:14.178Z",
   "locale": "ru",
   "schemaVersion": 1
 }
