@@ -329,7 +329,7 @@
       "packPath": "cities/marseille/offline-pack.json"
     },
     "melbourne": {
-      "packHash": "5d45cb8edcb9",
+      "packHash": "fa72defc4656",
       "packPath": "cities/melbourne/offline-pack.json"
     },
     "shanghai": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T00:22:07.748Z",
+  "generatedAt": "2026-06-25T00:38:38.456Z",
   "locale": "en",
   "schemaVersion": 1
 }
