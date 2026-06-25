@@ -205,7 +205,7 @@
       "packPath": "cities/oaxaca/offline-pack.json"
     },
     "osaka": {
-      "packHash": "dff30d028e81",
+      "packHash": "61c4e9f6a3b6",
       "packPath": "cities/osaka/offline-pack.json"
     },
     "oslo": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T12:58:50.792Z",
+  "generatedAt": "2026-06-25T13:10:08.483Z",
   "locale": "ru",
   "schemaVersion": 1
 }
