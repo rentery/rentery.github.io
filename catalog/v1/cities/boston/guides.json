@@ -4765,6 +4765,17 @@
   },
   {
     "id": "boston-back-bay-copley-made-land",
+    "basemap": {
+      "image": "https://rentery.github.io/images/v1/boston/boston-back-bay-copley-made-land-basemap.png",
+      "center": {
+        "latitude": 42.35151185,
+        "longitude": -71.07733005
+      },
+      "zoom": 15.89,
+      "width": 600,
+      "height": 360,
+      "attribution": "© OpenStreetMap contributors"
+    },
     "routePath": {
       "coordinates": [
         [
@@ -4868,44 +4879,24 @@
           42.352305
         ],
         [
-          -71.080809,
-          42.352369
+          -71.080864,
+          42.352282
         ],
         [
-          -71.080896,
-          42.352345
+          -71.080942,
+          42.352261
         ],
         [
-          -71.080971,
-          42.352325
+          -71.080981,
+          42.35225
         ],
         [
-          -71.081127,
-          42.352639
+          -71.082008,
+          42.351973
         ],
         [
-          -71.081134,
-          42.352652
-        ],
-        [
-          -71.081964,
-          42.352428
-        ],
-        [
-          -71.081964,
-          42.352428
-        ],
-        [
-          -71.08326,
-          42.352078
-        ],
-        [
-          -71.083252,
-          42.352062
-        ],
-        [
-          -71.083102,
-          42.351751
+          -71.082008,
+          42.351973
         ],
         [
           -71.08307,
@@ -4960,18 +4951,6 @@
           42.350664
         ],
         [
-          -71.082868,
-          42.350634
-        ],
-        [
-          -71.082868,
-          42.350634
-        ],
-        [
-          -71.082758,
-          42.350664
-        ],
-        [
           -71.0827,
           42.350548
         ],
@@ -4988,116 +4967,96 @@
           42.350418
         ],
         [
-          -71.082555,
-          42.350439
+          -71.08248,
+          42.350077
         ],
         [
-          -71.082476,
-          42.350461
+          -71.082471,
+          42.350059
         ],
         [
-          -71.082303,
-          42.350134
+          -71.082462,
+          42.350041
         ],
         [
-          -71.082293,
-          42.350114
+          -71.082313,
+          42.349735
         ],
         [
-          -71.082284,
-          42.350097
+          -71.082288,
+          42.34967
         ],
         [
-          -71.082141,
-          42.349799
+          -71.083161,
+          42.349434
         ],
         [
-          -71.082101,
-          42.349794
+          -71.083161,
+          42.349434
         ],
         [
-          -71.080044,
-          42.350351
+          -71.082288,
+          42.34967
+        ],
+        [
+          -71.082187,
+          42.349696
+        ],
+        [
+          -71.082063,
+          42.349727
+        ],
+        [
+          -71.080927,
+          42.350035
         ],
         [
           -71.079995,
           42.350287
         ],
         [
-          -71.079951,
-          42.350233
+          -71.079894,
+          42.350311
         ],
         [
-          -71.079866,
-          42.350253
+          -71.079788,
+          42.350341
         ],
         [
-          -71.079766,
-          42.350275
+          -71.07837,
+          42.350728
         ],
         [
-          -71.079638,
-          42.349988
+          -71.078305,
+          42.350745
         ],
         [
-          -71.079625,
-          42.349961
+          -71.077891,
+          42.35086
         ],
         [
-          -71.079614,
-          42.349937
+          -71.077737,
+          42.350899
         ],
         [
-          -71.079471,
-          42.349646
+          -71.077705,
+          42.350829
         ],
         [
-          -71.079427,
-          42.34961
+          -71.077553,
+          42.350504
         ],
         [
-          -71.079395,
-          42.349544
+          -71.077404,
+          42.350209
         ],
         [
-          -71.079362,
-          42.349474
+          -71.077376,
+          42.350153
         ],
         [
-          -71.079358,
-          42.349466
-        ],
-        [
-          -71.078912,
-          42.349585
-        ],
-        [
-          -71.078117,
-          42.349804
-        ],
-        [
-          -71.078037,
-          42.349826
-        ],
-        [
-          -71.077782,
-          42.349893
-        ],
-        [
-          -71.077595,
-          42.349941
-        ],
-        [
-          -71.07743,
-          42.349986
-        ],
-        [
-          -71.077418,
-          42.349962
-        ],
-        [
-          -71.077352,
-          42.349977
+          -71.077345,
+          42.350091
         ],
         [
           -71.077294,
@@ -5136,84 +5095,248 @@
           42.349674
         ],
         [
-          -71.075985,
-          42.349648
+          -71.075771,
+          42.349679
         ],
         [
-          -71.075952,
-          42.349588
+          -71.075717,
+          42.34968
         ],
         [
-          -71.075952,
-          42.349588
+          -71.075257,
+          42.349802
         ],
         [
-          -71.076014,
-          42.349578
+          -71.07509,
+          42.349845
         ],
         [
-          -71.076078,
-          42.349567
+          -71.075096,
+          42.349856
         ],
         [
-          -71.076221,
-          42.349537
+          -71.075111,
+          42.349887
         ],
         [
-          -71.076362,
+          -71.07512,
+          42.349909
+        ],
+        [
+          -71.075125,
+          42.349931
+        ],
+        [
+          -71.075126,
+          42.349945
+        ],
+        [
+          -71.075125,
+          42.349957
+        ],
+        [
+          -71.07512,
+          42.34998
+        ],
+        [
+          -71.075116,
+          42.349991
+        ],
+        [
+          -71.075113,
+          42.350003
+        ],
+        [
+          -71.075114,
+          42.350024
+        ],
+        [
+          -71.075117,
+          42.350037
+        ],
+        [
+          -71.07512,
+          42.350048
+        ],
+        [
+          -71.075125,
+          42.350061
+        ],
+        [
+          -71.075132,
+          42.350072
+        ],
+        [
+          -71.075141,
+          42.350083
+        ],
+        [
+          -71.075151,
+          42.350092
+        ],
+        [
+          -71.075158,
+          42.350101
+        ],
+        [
+          -71.075165,
+          42.350111
+        ],
+        [
+          -71.075174,
+          42.350126
+        ],
+        [
+          -71.075179,
+          42.350139
+        ],
+        [
+          -71.075179,
+          42.350139
+        ],
+        [
+          -71.075174,
+          42.350126
+        ],
+        [
+          -71.075165,
+          42.350111
+        ],
+        [
+          -71.075158,
+          42.350101
+        ],
+        [
+          -71.075151,
+          42.350092
+        ],
+        [
+          -71.075141,
+          42.350083
+        ],
+        [
+          -71.075132,
+          42.350072
+        ],
+        [
+          -71.075125,
+          42.350061
+        ],
+        [
+          -71.07512,
+          42.350048
+        ],
+        [
+          -71.075117,
+          42.350037
+        ],
+        [
+          -71.075114,
+          42.350024
+        ],
+        [
+          -71.075113,
+          42.350003
+        ],
+        [
+          -71.075116,
+          42.349991
+        ],
+        [
+          -71.07512,
+          42.34998
+        ],
+        [
+          -71.075125,
+          42.349957
+        ],
+        [
+          -71.075126,
+          42.349945
+        ],
+        [
+          -71.075125,
+          42.349931
+        ],
+        [
+          -71.07512,
+          42.349909
+        ],
+        [
+          -71.075111,
+          42.349887
+        ],
+        [
+          -71.075096,
+          42.349856
+        ],
+        [
+          -71.07509,
+          42.349845
+        ],
+        [
+          -71.075257,
+          42.349802
+        ],
+        [
+          -71.075717,
+          42.34968
+        ],
+        [
+          -71.075771,
+          42.349679
+        ],
+        [
+          -71.075991,
+          42.349674
+        ],
+        [
+          -71.076129,
+          42.349659
+        ],
+        [
+          -71.076341,
+          42.349608
+        ],
+        [
+          -71.076537,
+          42.349561
+        ],
+        [
+          -71.076696,
           42.349503
         ],
         [
-          -71.076435,
-          42.349482
+          -71.076773,
+          42.349474
         ],
         [
-          -71.076529,
-          42.349453
+          -71.076827,
+          42.349449
         ],
         [
-          -71.076613,
-          42.349425
+          -71.076853,
+          42.349454
         ],
         [
-          -71.07669,
-          42.349396
+          -71.076889,
+          42.349461
         ],
         [
-          -71.076763,
-          42.349365
+          -71.076904,
+          42.34944
         ],
         [
-          -71.076798,
-          42.349351
+          -71.076975,
+          42.349401
         ],
         [
-          -71.076826,
-          42.349335
+          -71.077049,
+          42.34936
         ],
         [
-          -71.076852,
-          42.349319
-        ],
-        [
-          -71.076879,
-          42.349301
-        ],
-        [
-          -71.076906,
-          42.349281
-        ],
-        [
-          -71.076931,
-          42.349263
-        ],
-        [
-          -71.077052,
-          42.349228
-        ],
-        [
-          -71.077083,
-          42.349275
+          -71.077113,
+          42.349323
         ],
         [
           -71.077093,
@@ -5240,12 +5363,12 @@
           42.349015
         ],
         [
-          -71.078467,
-          42.348928
+          -71.078166,
+          42.349072
         ],
         [
-          -71.078467,
-          42.348928
+          -71.078166,
+          42.349072
         ],
         [
           -71.07814,
@@ -5260,20 +5383,148 @@
           42.349146
         ],
         [
-          -71.07762,
-          42.3491
+          -71.077475,
+          42.349191
         ],
         [
-          -71.077691,
-          42.349081
+          -71.077278,
+          42.349235
         ],
         [
-          -71.077691,
-          42.349081
+          -71.077093,
+          42.349284
         ],
         [
-          -71.077911,
-          42.349022
+          -71.077113,
+          42.349323
+        ],
+        [
+          -71.07715,
+          42.349399
+        ],
+        [
+          -71.077249,
+          42.349601
+        ],
+        [
+          -71.077418,
+          42.349962
+        ],
+        [
+          -71.07743,
+          42.349986
+        ],
+        [
+          -71.077433,
+          42.350001
+        ],
+        [
+          -71.077466,
+          42.350058
+        ],
+        [
+          -71.077508,
+          42.350129
+        ],
+        [
+          -71.077532,
+          42.350151
+        ],
+        [
+          -71.077687,
+          42.350111
+        ],
+        [
+          -71.077712,
+          42.350104
+        ],
+        [
+          -71.077738,
+          42.350097
+        ],
+        [
+          -71.078044,
+          42.350013
+        ],
+        [
+          -71.078079,
+          42.350084
+        ],
+        [
+          -71.078079,
+          42.350084
+        ],
+        [
+          -71.078044,
+          42.350013
+        ],
+        [
+          -71.077738,
+          42.350097
+        ],
+        [
+          -71.077712,
+          42.350104
+        ],
+        [
+          -71.077687,
+          42.350111
+        ],
+        [
+          -71.077532,
+          42.350151
+        ],
+        [
+          -71.077508,
+          42.350129
+        ],
+        [
+          -71.077466,
+          42.350058
+        ],
+        [
+          -71.077433,
+          42.350001
+        ],
+        [
+          -71.07743,
+          42.349986
+        ],
+        [
+          -71.077418,
+          42.349962
+        ],
+        [
+          -71.077352,
+          42.349977
+        ],
+        [
+          -71.077294,
+          42.349988
+        ],
+        [
+          -71.077148,
+          42.350014
+        ],
+        [
+          -71.077129,
+          42.350011
+        ],
+        [
+          -71.076731,
+          42.349541
+        ],
+        [
+          -71.076364,
+          42.349801
+        ],
+        [
+          -71.076191,
+          42.349924
+        ],
+        [
+          -71.076154,
+          42.349951
         ]
       ],
       "maneuvers": [
@@ -5355,61 +5606,43 @@
             42.352252
           ],
           "instruction": "Turn right onto the crosswalk.",
-          "distanceM": 14,
+          "distanceM": 6,
           "type": ""
         },
         {
           "location": [
-            -71.080809,
-            42.352369
+            -71.080778,
+            42.352305
           ],
-          "instruction": "Turn left onto the crosswalk.",
-          "distanceM": 15,
+          "instruction": "Turn left onto Marlborough Street.",
+          "distanceM": 107,
           "type": ""
         },
         {
           "location": [
-            -71.080971,
-            42.352325
+            -71.082008,
+            42.351973
           ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 39,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.081134,
-            42.352652
-          ],
-          "instruction": "Turn left onto Public Alley 417.",
-          "distanceM": 72,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.081964,
-            42.352428
-          ],
-          "instruction": "Your destination is on the right.",
+          "instruction": "You have arrived at your destination.",
           "distanceM": 0,
           "type": ""
         },
         {
           "location": [
-            -71.081964,
-            42.352428
+            -71.082008,
+            42.351973
           ],
-          "instruction": "Walk west on Public Alley 417.",
-          "distanceM": 113,
+          "instruction": "Walk west on Marlborough Street.",
+          "distanceM": 92,
           "type": ""
         },
         {
           "location": [
-            -71.08326,
-            42.352078
+            -71.08307,
+            42.351687
           ],
           "instruction": "Turn left onto the walkway.",
-          "distanceM": 54,
+          "distanceM": 7,
           "type": ""
         },
         {
@@ -5427,124 +5660,52 @@
             42.351583
           ],
           "instruction": "Turn left onto the walkway.",
-          "distanceM": 106,
+          "distanceM": 224,
           "type": ""
         },
         {
           "location": [
-            -71.082758,
-            42.350664
+            -71.082288,
+            42.34967
           ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 9,
+          "instruction": "Turn right onto Newbury Street.",
+          "distanceM": 76,
           "type": ""
         },
         {
           "location": [
-            -71.082868,
-            42.350634
+            -71.083161,
+            42.349434
           ],
-          "instruction": "Your destination is on the right.",
+          "instruction": "You have arrived at your destination.",
           "distanceM": 0,
           "type": ""
         },
         {
           "location": [
-            -71.082868,
-            42.350634
+            -71.083161,
+            42.349434
           ],
-          "instruction": "Walk east on the walkway.",
-          "distanceM": 9,
+          "instruction": "Walk east on Newbury Street.",
+          "distanceM": 474,
           "type": ""
         },
         {
           "location": [
-            -71.082758,
-            42.350664
+            -71.077737,
+            42.350899
           ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 29,
+          "instruction": "Turn right onto Dartmouth Street.",
+          "distanceM": 107,
           "type": ""
         },
         {
           "location": [
-            -71.082636,
-            42.350418
-          ],
-          "instruction": "Turn left onto the crosswalk.",
-          "distanceM": 14,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.082476,
-            42.350461
-          ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 78,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.082141,
-            42.349799
+            -71.077294,
+            42.349988
           ],
           "instruction": "Turn left onto the walkway.",
-          "distanceM": 183,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.080044,
-            42.350351
-          ],
-          "instruction": "Turn right onto the crosswalk.",
-          "distanceM": 15,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.079951,
-            42.350233
-          ],
-          "instruction": "Turn left onto the crosswalk.",
-          "distanceM": 16,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.079766,
-            42.350275
-          ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 96,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.079358,
-            42.349466
-          ],
-          "instruction": "Turn left onto the walkway.",
-          "distanceM": 168,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.07743,
-            42.349986
-          ],
-          "instruction": "Turn right onto the walkway.",
-          "distanceM": 3,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.077418,
-            42.349962
-          ],
-          "instruction": "Turn left onto the walkway.",
-          "distanceM": 92,
+          "distanceM": 81,
           "type": ""
         },
         {
@@ -5553,22 +5714,85 @@
             42.349503
           ],
           "instruction": "Turn left onto the walkway.",
-          "distanceM": 61,
+          "distanceM": 140,
           "type": ""
         },
         {
           "location": [
-            -71.075991,
-            42.349674
+            -71.07509,
+            42.349845
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.075179,
+            42.350139
+          ],
+          "instruction": "Your destination is on the left.",
+          "distanceM": 0,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.075179,
+            42.350139
+          ],
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 34,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.07509,
+            42.349845
           ],
           "instruction": "Turn right onto the walkway.",
-          "distanceM": 9,
+          "distanceM": 157,
           "type": ""
         },
         {
           "location": [
-            -71.075952,
-            42.349588
+            -71.076889,
+            42.349461
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 25,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.077113,
+            42.349323
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 5,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.077093,
+            42.349284
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 92,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.07814,
+            42.349015
+          ],
+          "instruction": "Turn right.",
+          "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.078166,
+            42.349072
           ],
           "instruction": "You have arrived at your destination.",
           "distanceM": 0,
@@ -5576,29 +5800,20 @@
         },
         {
           "location": [
-            -71.075952,
-            42.349588
+            -71.078166,
+            42.349072
           ],
-          "instruction": "Walk west on Saint James Avenue/MA 9.",
-          "distanceM": 90,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.076931,
-            42.349263
-          ],
-          "instruction": "Bear right onto Huntington Avenue.",
-          "distanceM": 11,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.077052,
-            42.349228
-          ],
-          "instruction": "Turn right onto the walkway.",
+          "instruction": "Walk south.",
           "distanceM": 7,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.07814,
+            42.349015
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 92,
           "type": ""
         },
         {
@@ -5607,49 +5822,31 @@
             42.349284
           ],
           "instruction": "Turn left onto the walkway.",
-          "distanceM": 120,
+          "distanceM": 105,
           "type": ""
         },
         {
           "location": [
-            -71.078467,
-            42.348928
+            -71.077532,
+            42.350151
           ],
-          "instruction": "Your destination is on the right.",
-          "distanceM": 0,
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 45,
           "type": ""
         },
         {
           "location": [
-            -71.078467,
-            42.348928
+            -71.078044,
+            42.350013
           ],
-          "instruction": "Walk east on the walkway.",
-          "distanceM": 72,
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 8,
           "type": ""
         },
         {
           "location": [
-            -71.077644,
-            42.349146
-          ],
-          "instruction": "Turn right onto the crosswalk.",
-          "distanceM": 6,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.07762,
-            42.3491
-          ],
-          "instruction": "Turn right onto Blagden Street.",
-          "distanceM": 6,
-          "type": ""
-        },
-        {
-          "location": [
-            -71.077691,
-            42.349081
+            -71.078079,
+            42.350084
           ],
           "instruction": "You have arrived at your destination.",
           "distanceM": 0,
@@ -5657,19 +5854,55 @@
         },
         {
           "location": [
-            -71.077691,
-            42.349081
+            -71.078079,
+            42.350084
           ],
-          "instruction": "Walk west on Blagden Street.",
-          "distanceM": 19,
+          "instruction": "Walk south on the walkway.",
+          "distanceM": 8,
           "type": ""
         },
         {
           "location": [
-            -71.077911,
-            42.349022
+            -71.078044,
+            42.350013
           ],
-          "instruction": "You have arrived at your destination.",
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 45,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.077532,
+            42.350151
+          ],
+          "instruction": "Turn right onto the walkway.",
+          "distanceM": 24,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.077418,
+            42.349962
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 87,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.076731,
+            42.349541
+          ],
+          "instruction": "Turn left onto the walkway.",
+          "distanceM": 65,
+          "type": ""
+        },
+        {
+          "location": [
+            -71.076154,
+            42.349951
+          ],
+          "instruction": "Your destination is on the left.",
           "distanceM": 0,
           "type": ""
         }
@@ -5677,36 +5910,36 @@
       "source": {
         "engine": "geoapify",
         "profile": "walk",
-        "generatedAt": "2026-06-24T11:15:45.743Z"
+        "generatedAt": "2026-06-25T08:32:13.100Z"
       }
     },
     "cityId": "boston",
     "category": "Район",
-    "title": "Back Bay & Copley: City Raised from Water",
-    "subtitle": "This self‑guided tour explores eight stops across Boston’s Back Bay and Copley Square. Learn how engineers filled a marshy bay in the 19th century to create a grand residential district. Stroll from the floral splendor of the Public Garden along the Commonwealth Avenue Mall, peek down quiet Marlborough Street and fashionable Newbury Street, then admire the architectural masterpieces encircling Copley Square – Trinity Church, the Boston Public Library and Old South Church. Finish your walk on the plaza where Boston’s past and present meet.",
-    "blurb": "Walk through Boston’s Back Bay and Copley Square to discover how an open tidal bay became one of America’s most elegant neighborhoods. Tree‑lined boulevards, Victorian brownstones and landmark churches tell the story of a city literally built up from the water.",
+    "title": "Back Bay и Copley: город, поднятый из воды",
+    "subtitle": "Прогулка читает Back Bay как инженерный чертеж, который стал городским спектаклем. От первого ботанического сада и зеленой оси Commonwealth Avenue вы проходите через жилые brownstones и торговую Newbury к Copley Square, где новая земля XIX века превращается в библиотеку, церкви и открытую площадь.",
+    "blurb": "Back Bay начинался как приливная вода и стал одним из самых уверенных городских жестов Бостона: сад, бульвар, рядовые дома, витрины и Copley Square собираются в историю о земле, которую сначала придумали на плане, а потом заставили жить.",
     "mood": "architecture",
     "accent": "#8B3E34",
     "soft": "#E6D7CC",
     "deep": "#5A2C29",
     "ink": "#382321",
     "motif": "lane",
-    "duration": "2-3 часа",
+    "duration": "2-2,5 часа",
     "stops": 8,
-    "distance": "2,8 км",
+    "distance": "около 3,1 км",
     "pace": "half",
     "kids": false,
     "microcopy": {
       "kicker": "Маршрут",
-      "line": "Walk through Boston’s Back Bay and Copley Square to discover how an open tidal bay became one of America’s most elegant neighborhoods. Tree‑lined boulevards, Victorian brownstones and landmark churches tell the story of a city literally built up from the water."
+      "line": "От Public Garden до Copley Square вы идете по земле, которую Бостон буквально сделал сам: сначала как прогулочную ось и жилой квартал, затем как культурную сцену с церковью, библиотекой и открытой городской площадью."
     },
     "content": {
-      "intro": "This self‑guided tour explores eight stops across Boston’s Back Bay and Copley Square. Learn how engineers filled a marshy bay in the 19th century to create a grand residential district. Stroll from the floral splendor of the Public Garden along the Commonwealth Avenue Mall, peek down quiet Marlborough Street and fashionable Newbury Street, then admire the architectural masterpieces encircling Copley Square – Trinity Church, the Boston Public Library and Old South Church. Finish your walk on the plaza where Boston’s past and present meet.",
-      "routeLogic": "This self‑guided tour explores eight stops across Boston’s Back Bay and Copley Square. Learn how engineers filled a marshy bay in the 19th century to create a grand residential district. Stroll from the floral splendor of the Public Garden along the Commonwealth Avenue Mall, peek down quiet Marlborough Street and fashionable Newbury Street, then admire the architectural masterpieces encircling Copley Square – Trinity Church, the Boston Public Library and Old South Church. Finish your walk on the plaza where Boston’s past and present meet.",
-      "bestFor": "спокойной прогулки по теме маршрута\nпервого знакомства с районом или объектом\nтех, кто хочет читать город через видимые детали",
-      "notFor": "маршрута без самостоятельного чтения места\nгонки по точкам без остановок\nтех, кому нужен только транспортный трансфер",
-      "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
-      "timing": "2-3 часа"
+      "intro": "Эта прогулка начинается у края старого Бостона и постепенно выводит вас на землю, которой здесь не было. Public Garden показывает, как бывшие влажные окраины можно превратить в место медленного взгляда; Commonwealth Avenue Mall раскрывает амбицию плана Артура Гилмана; Marlborough и Newbury дают две разные жизни одной сетки - тихую жилую и торговую. Финал у Copley Square собирает ставку XIX века в одном кадре: храм на насыпной почве, публичная библиотека как дворец знания, старая община в новом готическом костюме и площадь, полностью открытая после реконструкции 2026 года.",
+      "routeLogic": "Маршрут специально делает западную дугу через Back Bay, а затем возвращается к Copley. Так вы сначала чувствуете район как последовательность улиц - сад, бульвар, жилой фасад, витрины, - и только потом видите, как эта новая земля становится civic stage: местом, где город показывает свои институты и собирает людей.",
+      "bestFor": "спокойной архитектурной прогулки\nтех, кто любит читать город через план и фасады\nпервого знакомства с Back Bay без музейной гонки",
+      "notFor": "маршрута без городского контекста\nтех, кому нужен только шопинг на Newbury Street\nдней, когда хочется избегать оживленных перекрестков",
+      "beforeYouGo": "Большая часть маршрута проходит по открытым улицам и паркам. Для интерьеров Trinity Church, Boston Public Library и Old South Church проверяйте часы и события отдельно; Copley Square официально открыта после завершения реконструкции 2026 года.",
+      "timing": "лучше утром или ближе к вечеру; в ветреную погоду на открытых перекрестках прохладнее"
     },
     "stopList": [
       {
@@ -5714,18 +5947,18 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 1,
         "name": "Boston Public Garden",
-        "note": "America’s first public botanical garden offers a tranquil lake, meandering paths and seasonal flower displays.",
+        "note": "Первый публичный ботанический сад США - мягкий порог между старым городом и будущим Back Bay.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Выйдите к Arlington Street и поверните на запад к зеленой середине Commonwealth Avenue. Идите по Mall, держась центральной оси.",
         "content": {
-          "context": "You’re standing on land that was once tidal water. In 1837 the city set aside this space as America’s first public botanical garden, an ornamental counterpoint to the more utilitarian Boston Common across the street.",
-          "lookFor": "America’s first public botanical garden offers a tranquil lake, meandering paths and seasonal flower displays.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "Начните у Public Garden, где Бостон впервые сделал городской парк не просто проходом, а местом созерцания. В 1837 году здесь появился первый публичный ботанический сад США: извилистые дорожки, лагуна, цветники и декоративная логика вместо прямых троп Boston Common. Важно почувствовать этот контраст: позади - старый город, впереди - земля, которую еще только будут насыпать, продавать, застраивать и превращать в образцовую витрину XIX века.",
+          "lookFor": "Лагуну и низкие мостики, которые напоминают о водной памяти места.\nИзвилистые дорожки вместо строгой сетки соседних кварталов.\nЦветочные партеры и сезонные посадки - сад задуман как декоративный жест.\nСтатую Джорджа Вашингтона у выхода на Commonwealth Avenue: она почти ставит вас на будущую ось маршрута.",
+          "practical": "Парк открыт как городское пространство; сезонные аттракционы вроде Swan Boats зависят от расписания. Для прогулки достаточно внешнего осмотра, но после дождя дорожки у лагуны могут быть скользкими.",
+          "nextMove": "Выйдите к Arlington Street и поверните на запад к зеленой середине Commonwealth Avenue. Идите по Mall, держась центральной оси.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Over the next decades engineers filled the shallow bay with trainloads of earth and gravel, and landscape designers carved winding paths and planted exotic trees and carpets of tulips. The lagoon ahead is a reminder of the marsh that once covered all of Back Bay; today it hosts the whimsical Swan Boats each summer. At the center of the garden an equestrian statue of George Washington gazes down the broad Commonwealth Avenue, pointing toward the new land that transformed Boston into a modern city."
+              "title": "Глубже",
+              "body": "Public Garden важен не только как красивое начало. Он показывает, каким языком Бостон хотел говорить о новой земле: не как о техническом пустыре, а как о цивилизованном городском ландшафте. Там, где раньше были влажные окраины и приливная вода Back Bay, появляется место для прогулки, растений и медленного публичного досуга. Это задает тон всему маршруту: дальше инженерная операция все время будет маскироваться под естественную городскую элегантность."
             }
           ]
         },
@@ -5736,10 +5969,14 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Городской парк; сезонные услуги и мероприятия проверяйте отдельно."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-1",
-        "sourceIds": [],
+        "sourceIds": [
+          "boston-public-garden-official",
+          "nps-public-garden",
+          "osm-public-garden"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-1",
           "kind": "photo",
@@ -5759,18 +5996,18 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 2,
         "name": "Commonwealth Avenue Mall",
-        "note": "A grand tree‑lined boulevard modeled on European promenades threads through Back Bay.",
+        "note": "Зеленый позвоночник плана Back Bay, вдохновленный европейскими бульварами.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Продолжайте по Mall на запад до жилых кварталов, затем сверните к Marlborough Street, где та же сетка становится тише и домашнее.",
         "content": {
-          "context": "As you step onto the wide green median of Commonwealth Avenue you’re walking down a boulevard inspired by Paris’ Champs‑Élysées. Laid out in the mid‑1800s when this area was still being filled, the Mall was designed to entice Boston’s wealthy families to remain in the city.",
-          "lookFor": "A grand tree‑lined boulevard modeled on European promenades threads through Back Bay.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "На Commonwealth Avenue Mall новая земля становится чертежом в натуральную величину. Городская страница Boston.gov датирует Mall 1856-1888 годами и связывает ее с планом Артура Гилмана во французском бульварном духе. Здесь Back Bay заявляет: это не случайная засыпка болот, а район с центральной осью, перспективой, деревьями и фасадами, рассчитанными на долгий городской взгляд.",
+          "lookFor": "Длинную прямую перспективу между рядами деревьев.\nШирокую зеленую середину, отделяющую прогулку от движения.\nРядные дома по сторонам: они работают как архитектурные стены бульвара.\nПамятники и перекрестки, которые дробят ось на удобные пешеходные эпизоды.",
+          "practical": "Mall пересекают улицы через каждый квартал: переходите только по сигналу и не теряйте нить центральной дорожки. В жару здесь лучше, чем на Newbury, но зимой ветер вдоль оси чувствуется сильнее.",
+          "nextMove": "Продолжайте по Mall на запад до жилых кварталов, затем сверните к Marlborough Street, где та же сетка становится тише и домашнее.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Rows of American elms shade statues of abolitionists, poets and explorers, while handsome brownstones stand shoulder to shoulder along each side. The Mall’s designer, Arthur Gilman, travelled to Europe for inspiration and returned with a vision of a parkway where residents could stroll and socialize. It remains one of the most elegant urban landscapes in America."
+              "title": "Глубже",
+              "body": "Back Bay был приливным водоемом, пока в XIX веке город не начал масштабную операцию по созданию земли. Официальное описание Back Bay Architectural District говорит о более чем 450 акрах usable land к 1880-м, а Friends of the Public Garden напоминают о гравии, который везли по железной дороге из Needham. На Mall эта инженерия почти исчезает из вида: вы видите деревья, ось и фасады, но под ногами остается сделанная человеком почва."
             }
           ]
         },
@@ -5781,10 +6018,14 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Открытая городская аллея; переходы через поперечные улицы требуют внимания."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-2",
-        "sourceIds": [],
+        "sourceIds": [
+          "commonwealth-avenue-mall-boston-gov",
+          "friends-commonwealth-mall",
+          "osm-commonwealth-ave-mall"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-2",
           "kind": "photo",
@@ -5804,32 +6045,36 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 3,
         "name": "Marlborough Street",
-        "note": "Elegant brownstones and wrought‑iron fences reveal Back Bay’s residential heart.",
+        "note": "Тихая жилая сторона Back Bay: ступени, эркеры, железные ограды и почти театральная сдержанность.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Сверните на юг к Newbury Street. Контраст нужен сразу: через один квартал та же планировка превращается из жилой сцены в коммерческую.",
         "content": {
-          "context": "Turn down Marlborough Street to discover a quieter side of Back Bay. This gracious residential lane, lined with brick sidewalks and wrought‑iron railings, was developed block by block in the 1870s and 1880s.",
-          "lookFor": "Elegant brownstones and wrought‑iron fences reveal Back Bay’s residential heart.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "Marlborough Street лучше читать не по одному дому, а по ритму. Фасады похожи, но не одинаковы; ступени, bay windows, карнизы и ограды показывают, как Back Bay застраивался квартал за кварталом. Официальное описание исторического района подчеркивает именно эту последовательность блоков: в ней видна смена вкусов американской архитектуры от середины XIX к началу XX века.",
+          "lookFor": "Каменные ступени, которые приподнимают частную жизнь над тротуаром.\nЭркеры и карнизы: мелкие различия между соседними фасадами.\nКованые ограды и узкие палисадники как границу между городом и домом.\nСлужебные alleys между кварталами - практическую изнанку красивого фасада.",
+          "practical": "Это жилая улица. Не заходите на частные ступени ради фотографии и держите голос ниже: ценность места именно в его спокойствии.",
+          "nextMove": "Сверните на юг к Newbury Street. Контраст нужен сразу: через один квартал та же планировка превращается из жилой сцены в коммерческую.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Within each block the facades match, but from one block to the next the details change subtly, reflecting the many contractors who built here. Rows of bow‑front brownstones with bay windows, ornate cornices and flower boxes embody Victorian domestic architecture. The street’s uniform scale and leafy trees create a calm oasis just steps from bustling Newbury Street."
+              "title": "Глубже",
+              "body": "Marlborough помогает понять, почему Back Bay не сводится к красивым открыткам. Это район правил: прямые улицы, повторяемые участки, фасады, которые держат общий масштаб. Но внутри правил есть индивидуальность - разные строители, годы и вкусы оставили почти незаметные сдвиги. Хорошая пауза здесь - выбрать один блок и пройти его очень медленно, сравнивая не памятники, а детали обычных домов."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.3525,
-          "longitude": -71.082
+          "latitude": 42.351973,
+          "longitude": -71.0820082
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Жилая улица; осмотр только с общественного тротуара."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-3",
-        "sourceIds": [],
+        "sourceIds": [
+          "back-bay-architectural-district-boston-gov",
+          "back-bay-houses-development",
+          "osm-marlborough-street"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-3",
           "kind": "photo",
@@ -5849,32 +6094,36 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 4,
         "name": "Newbury Street",
-        "note": "Once a quiet residential street, Newbury is now Boston’s premier shopping and dining corridor.",
+        "note": "Тот же Back Bay, но с другой маской: рядные дома становятся витринами, галереями и кафе.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Идите на восток по Newbury/Boylston к Copley Square. По мере приближения к Dartmouth Street жилая ткань сменяется культурными институтами.",
         "content": {
-          "context": "Newbury Street was laid out as part of the Back Bay expansion in the mid‑19th century and originally lined with family townhouses. As Boston prospered the houses gave way to boutiques, galleries, cafés and salons, but the dignified brick facades remain.",
-          "lookFor": "Once a quiet residential street, Newbury is now Boston’s premier shopping and dining corridor.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "Newbury Street показывает, как хорошо спланированный район умеет менять функцию, не теряя лица. Boston.gov отмечает, что коммерческое развитие Newbury началось в начале XX века, часто через адаптацию существующих row houses. Поэтому здесь витрины не отменяют Back Bay, а используют его: магазины сидят в бывшей домашней архитектуре, и улица выглядит одновременно нарядной, деловой и слегка театральной.",
+          "lookFor": "Магазины в нижних этажах бывших жилых домов.\nЛестницы вниз к basement-level витринам и кафе.\nСтарые кирпичные фасады, которые держат улицу даже при новых вывесках.\nМеста, где коммерция аккуратно спорит с историческим масштабом квартала.",
+          "practical": "На Newbury часто плотный пешеходный поток. Для остановки выбирайте широкие участки тротуара и не перекрывайте входы в магазины и рестораны.",
+          "nextMove": "Идите на восток по Newbury/Boylston к Copley Square. По мере приближения к Dartmouth Street жилая ткань сменяется культурными институтами.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Each block has its own character because different developers oversaw the filling and construction, yet together they create a harmonious streetscape. Wander past art galleries tucked into bay‑windowed parlors and stop for a coffee on a patio where horse‑drawn carriages once passed. The mix of old and new is the essence of Back Bay’s charm."
+              "title": "Глубже",
+              "body": "Newbury - хороший тест на живучесть исторического района. Если Marlborough старается сохранить частный ритм, Newbury превращает ту же кирпичную оболочку в публичный рынок вкусов. В этом нет предательства плана: Back Bay изначально был проектом городской привлекательности. Просто к прогулкам, фасадам и социальной демонстрации добавились витрины, бренды и уличные столики."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.3507,
-          "longitude": -71.0829
+          "latitude": 42.3494315,
+          "longitude": -71.0831601
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Открытая улица; часы отдельных магазинов и кафе различаются."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-4",
-        "sourceIds": [],
+        "sourceIds": [
+          "back-bay-architectural-district-boston-gov",
+          "mit-newbury-street-traces",
+          "osm-newbury-street"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-4",
           "kind": "photo",
@@ -5894,32 +6143,36 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 5,
         "name": "Trinity Church",
-        "note": "A masterpiece of Richardsonian Romanesque architecture anchors Copley Square.",
+        "note": "Тяжелый каменный якорь Copley Square и один из главных жестов Richardsonian Romanesque.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Обойдите площадь к фасаду Boston Public Library. Старайтесь смотреть не только на отдельные здания, а на то, как они разговаривают через открытое пространство.",
         "content": {
-          "context": "Completed in 1877, Trinity Church introduced a uniquely American architectural style. Architect Henry Hobson Richardson designed a modified Greek‑cross plan with a massive central tower and used rough‑hewn granite and red sandstone to create a weighty, earthbound feel.",
-          "lookFor": "A masterpiece of Richardsonian Romanesque architecture anchors Copley Square.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "После витрин Newbury Trinity Church выглядит почти как утверждение: новая земля выдержит вес истории. Официальный сайт Trinity называет храм National Historic Landmark, работу Henry Hobson Richardson и смелый эксперимент строительства на болотистой земле Back Bay 1870-х. Его округлые арки, rough-faced stone, массивная башня и теплая полихромия не прячут тяжесть - наоборот, делают ее главным художественным аргументом.",
+          "lookFor": "Массивную центральную башню и округлые романские арки.\nГрубую фактуру камня и цветовые слои фасада.\nКак стеклянные современные здания вокруг отражают или усиливают силуэт церкви.\nЕсли храм открыт - росписи John La Farge и цельность интерьера, где декор подчинен архитектуре.",
+          "practical": "Это действующая церковь. Для входа, экскурсий и богослужений проверяйте актуальное расписание; снаружи маршрут не зависит от доступа внутрь.",
+          "nextMove": "Обойдите площадь к фасаду Boston Public Library. Старайтесь смотреть не только на отдельные здания, а на то, как они разговаривают через открытое пространство.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "The church’s warm interior glows with murals by John La Farge and rich wood carvings. Trinity was one of the first buildings erected on the newly filled Back Bay and quickly became an icon – it is the only church listed among the ten most important American buildings. Outside, note how the glass façade of the nearby John Hancock Tower reflects the church’s solid, 19th‑century form, symbolizing Boston’s blend of tradition and innovation."
+              "title": "Глубже",
+              "body": "Trinity особенно важна именно здесь, на насыпной земле. Richardsonian Romanesque часто воспринимается как стиль силы, веса и устойчивости; в Back Bay это звучит почти буквально. Храм делает вид, будто стоял здесь всегда, хотя сам район еще недавно был результатом инженерного риска. В этом напряжении - одна из лучших драм Copley Square: архитектура обещает вечность там, где почва создана поездом, гравием и расчетом."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.3496,
-          "longitude": -71.076
+          "latitude": 42.3500761,
+          "longitude": -71.0755065
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Действующая церковь; доступ внутрь зависит от служб, туров и событий."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-5",
-        "sourceIds": [],
+        "sourceIds": [
+          "trinity-church-art-architecture",
+          "back-bay-architectural-district-boston-gov",
+          "osm-trinity-church"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-5",
           "kind": "photo",
@@ -5939,32 +6192,36 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 6,
         "name": "Boston Public Library",
-        "note": "A Renaissance‑style ‘palace for the people’ offering free knowledge to all.",
+        "note": "McKim Building превращает знание в публичный дворец - с надписью Free to All на фасаде.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Перейдите к углу Boylston и Dartmouth, где стоит Old South Church. Это короткий переход, но он меняет тон с civic knowledge на религиозную память.",
         "content": {
-          "context": "The granite building facing you is the McKim wing of the Boston Public Library, opened in 1895. Architect Charles Follen McKim envisioned it as a ‘palace for the people’ in Renaissance Revival style, contrasting with the romantic architecture around it.",
-          "lookFor": "A Renaissance‑style ‘palace for the people’ offering free knowledge to all.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "Boston Public Library отвечает Trinity другим языком власти. Историческое здание McKim открылось в 1895 году, а сама библиотека подчеркивает принцип Free to All, высеченный на фасаде Central Library. Здесь новая земля Back Bay получает не только частные дома и красивые улицы, но и институцию общего доступа: дворец, который не принадлежит одной семье или приходу.",
+          "lookFor": "Надпись Free to All и строгий ритм аркадного входа.\nКаменную сдержанность фасада напротив более романтической Trinity Church.\nЕсли заходите внутрь - двор, лестницу, Bates Hall и художественные циклы McKim Building.\nКак библиотека занимает западную сторону Copley Square, делая площадь почти читальным залом под открытым небом.",
+          "practical": "Внешний осмотр занимает несколько минут. Для интерьеров, выставок и читальных залов проверяйте часы BPL; внутри могут действовать правила безопасности и ограничения на мероприятия.",
+          "nextMove": "Перейдите к углу Boylston и Dartmouth, где стоит Old South Church. Это короткий переход, но он меняет тон с civic knowledge на религиозную память.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Friezes above the arcaded entrance proclaim ‘The Public Library of the City of Boston’ and ‘Free to All’. Within its walls are bronze entry doors by Daniel Chester French, sculptures by Augustus Saint‑Gaudens and mural cycles by John Singer Sargent and Edwin Abbey. This was America’s first great free municipal library and set a national precedent for combining art and public education."
+              "title": "Глубже",
+              "body": "Библиотека меняет социальный смысл Back Bay. Район проектировался как престижная жилая витрина, но McKim Building делает престиж публичным: образование, искусство и тишина чтения становятся частью городской идентичности. Поэтому фраза Free to All здесь не просто девиз на камне. Она спорит с элитарностью окрестных фасадов и превращает Copley Square в место, где частный город открывается всем."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.3492,
-          "longitude": -71.0786
+          "latitude": 42.3493237,
+          "longitude": -71.0782892
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Библиотека работает по расписанию; внешний осмотр доступен без входа."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-6",
-        "sourceIds": [],
+        "sourceIds": [
+          "bpl-about-mckim-free-to-all",
+          "bpl-mckim-125",
+          "osm-boston-public-library"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-6",
           "kind": "photo",
@@ -5984,32 +6241,36 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 7,
         "name": "Old South Church",
-        "note": "A polychromatic Venetian Gothic landmark and progressive congregation.",
+        "note": "Старая бостонская община в новом готическом костюме Back Bay.",
         "time": "15 мин",
-        "walk": "Продолжайте к следующей точке маршрута.",
+        "walk": "Выйдите в центр Copley Square и развернитесь на полный круг: Trinity, BPL и Old South теперь читаются как единая сцена.",
         "content": {
-          "context": "Old South Church, completed in 1875, stands out with its richly patterned stonework, carved details and copper‑clad campanile. Architects Charles Cummings and Willard Sears drew on Italian Gothic precedents championed by critic John Ruskin.",
-          "lookFor": "A polychromatic Venetian Gothic landmark and progressive congregation.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Продолжайте к следующей точке маршрута.",
+          "context": "Old South Church переносит в Back Bay память старого революционного Бостона. На своем сайте церковь рассказывает, что после Great Boston Fire 1872 года община покинула Old South Meeting House и в 1875 году официально переехала в нынешний Copley Square; новое здание описано как один из лучших образцов Northern Italian Ruskinian Gothic в США. Поэтому перед вами не просто красивый угол Boylston Street, а переезд истории на новую землю.",
+          "lookFor": "Полихромную кладку и декоративную готику, совсем не похожую на пуританскую простоту старого meeting house.\nВысокую башню и медный lantern, которые держат угол площади.\nКаменную резьбу и контраст материалов у входа.\nКак церковь стоит рядом с библиотекой: вера, образование и городская площадь оказываются соседями.",
+          "practical": "Это действующая церковь с событиями и службами. Снаружи удобно смотреть с противоположного угла, не задерживаясь у дверей и не мешая прихожанам.",
+          "nextMove": "Выйдите в центр Copley Square и развернитесь на полный круг: Trinity, BPL и Old South теперь читаются как единая сцена.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "The ‘new’ church replaced the congregation’s colonial meeting house and was among the first structures built on the made land of Back Bay. Inside you’ll find warm cherry wood, stenciled walls and luminous stained glass; the lantern’s golden stars represent the heavens. Supported by thousands of wooden pilings, the church survives thanks to constant monitoring of water levels beneath the filled land. The congregation itself has a long history of social activism – meetings here in the 1770s helped spark the Boston Tea Party, and members continue to advocate for justice today."
+              "title": "Глубже",
+              "body": "Смысл Old South в этом маршруте - не только архитектурный. В старом Meeting House проходили собрания, ведущие к Boston Tea Party; в Back Bay та же община появляется уже в языке Gilded Age, после пожара и после смещения городского центра тяжести. Это хорошо показывает, как Бостон не выбрасывает прошлое, а переставляет его на новую сцену. Революционная память получает фасад, рассчитанный на буржуазную, культурную, уверенную в себе площадь."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.3491,
-          "longitude": -71.0777
+          "latitude": 42.3502216,
+          "longitude": -71.0780357
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Действующая церковь; доступ внутрь зависит от служб и событий."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-7",
-        "sourceIds": [],
+        "sourceIds": [
+          "old-south-church-history",
+          "old-south-visitor-guide",
+          "osm-old-south-church"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-7",
           "kind": "photo",
@@ -6029,32 +6290,37 @@
         "guideId": "boston-back-bay-copley-made-land",
         "order": 8,
         "name": "Copley Square",
-        "note": "The civic heart of Back Bay, ringed by landmarks and alive with people.",
+        "note": "Финальная городская сцена Back Bay: площадь, созданная на стыке сеток и заново открытая после реконструкции 2026 года.",
         "time": "15 мин",
         "walk": "-",
         "content": {
-          "context": "Named after painter John Singleton Copley in 1883, this plaza has been Boston’s civic gathering space for more than a century. Once a tidal basin, it became the cultural nucleus of the new Back Bay when Trinity Church, the Museum of Fine Arts, Old South Church and eventually the Boston Public Library rose around its edges.",
-          "lookFor": "The civic heart of Back Bay, ringed by landmarks and alive with people.",
-          "practical": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку.",
-          "nextMove": "Маршрут завершён.",
+          "context": "Финал лучше провести не у одного фасада, а в середине Copley Square. Friends of Copley Square описывают это место как продукт столкновения South End grid и новой сетки Back Bay; в 1883 году город официально обозначил пространство как Copley Square. Boston.gov добавляет актуальную главу: реконструкция парка завершена, и после открытия 2026 года площадь снова работает как доступное, событийное и зеленое городское пространство между библиотекой и Trinity Church.",
+          "lookFor": "Оси взгляда между Trinity Church, Boston Public Library и Old South Church.\nНовые доступные дорожки, сидения, деревья и фонтан после реконструкции.\nКак площадь удерживает и ежедневную паузу, и крупные события вроде марафонского финиша или городских фестивалей.\nСтранную форму пространства: это не идеальная европейская площадь, а результат встречи разных городских сеток.",
+          "practical": "По состоянию на май 2026 года город сообщил о полном открытии Copley Square Park после реконструкции. В дни рынков, фестивалей и спортивных событий выбирайте край площади для спокойного обзора.",
+          "nextMove": "Маршрут завершен. Отсюда удобно уйти к станции Copley, продолжить по Boylston Street или вернуться на Newbury уже без маршрута, просто как по живой улице.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "A diagonal street once crossed here; in the 1960s it was removed and a sunken plaza installed. The present design, dating from the 1980s, raises the square back to street level, adds lawns and a fountain and frames broad views of the surrounding architecture. From the center you can see centuries of Boston’s history layered together: Richardson’s granite church reflected in the sleek glass of the Hancock Tower; the Renaissance library across from the polychrome church; and pedestrians enjoying a space once covered by tide. It’s a fitting finale to a walk that traces how Boston created a new neighborhood on made land."
+              "title": "Глубже",
+              "body": "Copley Square подводит итог всей прогулке: Back Bay был не природной данностью, а городским решением. Сначала вода стала землей, потом земля стала недвижимостью, затем улицы и фасады превратили ее в символ культурного Бостона. Площадь особенно честна, потому что не скрывает сложности: она родилась из треугольников, спорных участков и пересекающихся планов. Именно поэтому здесь так хорошо видно, что город - это не один замысел, а серия договоров, конфликтов и переделок."
             }
           ]
         },
         "entry": "снаружи",
         "coordinates": {
-          "latitude": 42.349,
-          "longitude": -71.0779
+          "latitude": 42.3499981,
+          "longitude": -71.0762177
         },
         "hours": {
           "rules": [],
-          "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
+          "summary": "Открытая городская площадь; события и рынки могут менять пешеходные потоки."
         },
         "photoAssetId": "boston-back-bay-copley-made-land-stop-8",
-        "sourceIds": [],
+        "sourceIds": [
+          "copley-square-park-improvements",
+          "copley-square-completion-2026",
+          "friends-copley-square-history",
+          "osm-copley-square"
+        ],
         "photo": {
           "id": "boston-back-bay-copley-made-land-stop-8",
           "kind": "photo",
@@ -6077,17 +6343,6 @@
       "square": "https://rentery.github.io/images/v1/boston/boston-back-bay-copley-made-land-cover-square.jpg",
       "alt": "Сгенерированная editorial-обложка маршрута «boston-back-bay-copley-made-land»"
     },
-    "coverAssetId": "boston-back-bay-copley-made-land-cover",
-    "basemap": {
-      "image": "https://rentery.github.io/images/v1/boston/boston-back-bay-copley-made-land-basemap.png",
-      "center": {
-        "latitude": 42.35135,
-        "longitude": -71.0772
-      },
-      "zoom": 15.83,
-      "width": 600,
-      "height": 360,
-      "attribution": "© OpenStreetMap contributors"
-    }
+    "coverAssetId": "boston-back-bay-copley-made-land-cover"
   }
 ]
