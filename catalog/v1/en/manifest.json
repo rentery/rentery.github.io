@@ -169,7 +169,7 @@
       "packPath": "cities/ho-chi-minh-city/offline-pack.json"
     },
     "mexico-city": {
-      "packHash": "04608770bc5c",
+      "packHash": "e0805d421716",
       "packPath": "cities/mexico-city/offline-pack.json"
     },
     "milan": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T05:53:19.153Z",
+  "generatedAt": "2026-06-25T06:03:22.669Z",
   "locale": "en",
   "schemaVersion": 1
 }
