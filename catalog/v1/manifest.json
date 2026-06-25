@@ -317,7 +317,7 @@
       "packPath": "cities/macao/offline-pack.json"
     },
     "madrid": {
-      "packHash": "6bf7ce2f8c8d",
+      "packHash": "d4d72acec2b1",
       "packPath": "cities/madrid/offline-pack.json"
     },
     "marrakesh": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T11:34:44.875Z",
+  "generatedAt": "2026-06-25T11:50:20.189Z",
   "locale": "ru",
   "schemaVersion": 1
 }
