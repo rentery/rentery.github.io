@@ -165,7 +165,7 @@
       "packPath": "cities/helsinki/offline-pack.json"
     },
     "ho-chi-minh-city": {
-      "packHash": "856fb86c0db3",
+      "packHash": "c9dc3fb337c5",
       "packPath": "cities/ho-chi-minh-city/offline-pack.json"
     },
     "mexico-city": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T21:33:15.619Z",
+  "generatedAt": "2026-06-25T22:00:03.669Z",
   "locale": "ru",
   "schemaVersion": 1
 }
