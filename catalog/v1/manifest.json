@@ -345,7 +345,7 @@
       "packPath": "cities/stockholm/offline-pack.json"
     },
     "sydney": {
-      "packHash": "40b87ee70b33",
+      "packHash": "7b4e260f5b95",
       "packPath": "cities/sydney/offline-pack.json"
     },
     "taipei": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T09:39:48.150Z",
+  "generatedAt": "2026-06-25T09:52:55.682Z",
   "locale": "ru",
   "schemaVersion": 1
 }
