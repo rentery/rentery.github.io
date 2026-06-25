@@ -265,7 +265,7 @@
       "packPath": "cities/seville/offline-pack.json"
     },
     "hong-kong": {
-      "packHash": "8656d0225dae",
+      "packHash": "6a4a9c496238",
       "packPath": "cities/hong-kong/offline-pack.json"
     },
     "istanbul": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T00:08:29.122Z",
+  "generatedAt": "2026-06-25T00:22:06.955Z",
   "locale": "ru",
   "schemaVersion": 1
 }
