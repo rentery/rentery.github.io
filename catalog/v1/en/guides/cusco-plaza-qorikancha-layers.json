@@ -549,7 +549,7 @@
   },
   "cityId": "cusco",
   "category": "Маршрут",
-  "title": "Пласа-де-Армас и Кориканча: город повер",
+  "title": "Пласа-де-Армас и Кориканча: город поверх империи",
   "subtitle": "Короткая петля по шву между инкским планом и колониальным фасадом",
   "blurb": "Короткая петля по шву между инкским планом, колониальным фасадом и камнем Кориканчи.",
   "mood": "исторические слои, городская ткань, инкский и колониал",
@@ -570,12 +570,12 @@
   "cover": {
     "id": "cusco-plaza-qorikancha-layers-cover",
     "kind": "generated",
-    "wide": "",
-    "square": "",
+    "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-cover-wide.jpg",
+    "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-cover-square.jpg",
     "alt": "Сгенерированная editorial-обложка маршрута «Пласа-де-Армас и Кориканча: город поверх империи»"
   },
   "basemap": {
-    "image": "",
+    "image": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-basemap.png",
     "center": {
       "latitude": -13.518047,
       "longitude": -71.977272
@@ -590,13 +590,15 @@
     "routeLogic": "Маршрут специально делает петлю. Сначала он показывает площадь как сцену власти. Потом соскальзывает в узкие стены Лорето и вниз к Кориканче, где колониальный монастырь буквально встал поверх одного из главных сакральных мест инкского Куско. После этого дорога снова поднимает вас к стене и заставляет закончить прогулку не у панорамы, а у одного-единственного блока камня, ставшего городским символом.",
     "bestFor": "Тем, кому нужен не список достопримечательностей, а ощущение города поверх империи. Тем, кто хочет читать Куско через камень, площадь и близкую поверхность. Тем, кто готов идти медленно и замечать смену звука от площади к коридору.",
     "notFor": "Тем, кому нужен маршрут без неровной брусчатки и короткого подъёма. Тем, кто хочет строить прогулку вокруг обязательных интерьерных входов. Тем, кто не готов к плотным группам на площади и у известных стен.",
-    "beforeYouGo": "только пешком брусчатка, каменные плиты, короткий подъём на обратной части петли маршрут полноценен без входа внутрь; фасады, стены и городские проходы являются основным опытом Все ключевые точки маршрута доступны как открытые городские пространства. Комплексы вокруг площади и Кориканчи могут иметь отдельный режим внутреннего посещения; на момент сборки пакета маршрут сознательно не завязан на подтверждённые интерьерные часы. Подходит для спокойной медленной прогулки, но неровная брусчатка и уклон на возвращении к Hatun Rumiyoq могут быть неудобны для колёсных средств и людей с чувствительными коленями. После дождя камень становится заметно скользче, а узкие проходы быстрее собирают лужи. Площадь и связки к Лорето и Hatun Rumiyoq почти всегда многолюдны; лучше закладывать время на остановки и обход групп.",
-    "timing": "Маршрут рассчитан как exterior-first и работает даже тогда, когда церковные комплексы закрыты или работают по отдельному расписанию. Главный инструмент здесь не билет, а темп: идти медленно, останавливаться на полплощади и замечать, как звук меняется от открытого пространства к каменному коридору."
+    "beforeYouGo": "Маршрут полностью пешеходный: брусчатка, каменные плиты и короткий подъём на обратной части петли. Он работает как внешний осмотр, без обязательного входа в собор, Компанью или Кориканчу. После дождя камень становится скользким, а площадь, Лорето и Hatun Rumiyoq почти всегда многолюдны, поэтому лучше идти медленно и закладывать время на обход групп.",
+    "timing": "Маршрут рассчитан как exterior-first и работает даже тогда, когда церковные комплексы закрыты или работают по отдельному расписанию. Главный инструмент здесь не билет, а темп: идти медленно, останавливаться на полплощади и замечать, как звук меняется от открытого пространства к каменному коридору.",
+    "fallbackPlan": "Если на площади или у Камня двенадцати углов слишком плотные группы, сохраняйте петлю как чтение улиц: площадь -> Лорето -> Санто-Доминго/Кориканча -> Hatun Rumiyoq. Интерьеры можно пропустить без потери главной истории."
   },
   "stopList": [
     {
       "entry": "exterior",
       "name": "Пласа-де-Армас",
+      "nameLocal": "Plaza de Armas del Cusco",
       "note": "Сначала почувствуйте не фасады, а масштаб поля.",
       "time": "15 мин",
       "walk": "5 мин",
@@ -628,16 +630,22 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Пласа-де-Армас",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-1-square.jpg",
+        "alt": "Панорамный вид на Пласа-де-Армас в Куско с садами, аркадами и горным фоном",
         "attribution": {
           "author": "Diego Delso",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_53-56_PAN.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_unesco_qhapaq_nan",
+        "src_commons_plaza_category",
+        "src_commons_plaza_file_delso"
+      ],
       "id": "cusco-plaza-qorikancha-layers-1",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 1
@@ -645,6 +653,7 @@
     {
       "entry": "exterior",
       "name": "Кафедральный ансамбль",
+      "nameLocal": "Basílica Catedral del Cusco / Catedral Basílica de la Virgen de la Asunción",
       "note": "Здесь площадь надевает парадный голос.",
       "time": "12 мин",
       "walk": "5 мин",
@@ -676,16 +685,22 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Кафедральный ансамбль",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-2-square.jpg",
+        "alt": "Фасад кафедрального ансамбля Куско на Пласа-де-Армас",
         "attribution": {
           "author": "Diego Delso",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral,_Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_78.JPG",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_commons_catedral_category",
+        "src_commons_catedral_file_delso",
+        "src_ddc_compania_catedral_2018"
+      ],
       "id": "cusco-plaza-qorikancha-layers-2",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 2
@@ -693,6 +708,7 @@
     {
       "entry": "exterior",
       "name": "Иезуитская Компанья",
+      "nameLocal": "Iglesia de la Compañía de Jesús",
       "note": "Пышность здесь спорит не только с соседями, но и с планом города.",
       "time": "12 мин",
       "walk": "5 мин",
@@ -724,16 +740,22 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Иезуитская Компанья",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-3-square.jpg",
+        "alt": "Иезуитская церковь Compañía de Jesús на Пласа-де-Армас в Куско",
         "attribution": {
           "author": "Lhimec",
           "license": "CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
-          "sourceUrl": ")_2013-03-31_006.JPG",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Society_of_Jesus_(Cusco,_Peru)_2013-03-31_006.JPG",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_commons_compania_category",
+        "src_commons_compania_file_lhimec",
+        "src_ddc_compania_catedral_2018"
+      ],
       "id": "cusco-plaza-qorikancha-layers-3",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 3
@@ -741,6 +763,7 @@
     {
       "entry": "exterior",
       "name": "Калье Лорето",
+      "nameLocal": "Calle Loreto / Intik'ijllu",
       "note": "Здесь открытка сжимается в каменный канал.",
       "time": "10 мин",
       "walk": "5 мин",
@@ -772,16 +795,21 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Калье Лорето",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-4-square.jpg",
+        "alt": "Узкий каменный коридор Calle Loreto в историческом центре Куско",
         "attribution": {
-          "author": "Ricardo Sanchez",
+          "author": "Ricardo Sánchez",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Loreto,_Cusco,_Peru.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_unesco_qhapaq_nan",
+        "src_commons_loreto_file_sanchez"
+      ],
       "id": "cusco-plaza-qorikancha-layers-4",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 4
@@ -789,6 +817,7 @@
     {
       "entry": "exterior",
       "name": "Площадь Санто-Доминго",
+      "nameLocal": "Plazoleta Santo Domingo",
       "note": "Здесь город снова раскрывается, но уже на другом языке.",
       "time": "10 мин",
       "walk": "5 мин",
@@ -820,16 +849,22 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Площадь Санто-Доминго",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-5-square.jpg",
+        "alt": "Комплекс Санто-Доминго над Кориканчей, вид со стороны площади",
         "attribution": {
           "author": "Brian Jeffery Beggerly",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-15"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convent_of_Santo_Domingo_atop_the_Coricancha.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_commons_coricancha_category",
+        "src_commons_santo_domingo_file_beggerly",
+        "src_ddc_santo_domingo_qorikancha"
+      ],
       "id": "cusco-plaza-qorikancha-layers-5",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 5
@@ -837,6 +872,7 @@
     {
       "entry": "exterior-first",
       "name": "Кориканча и Санто-Доминго",
+      "nameLocal": "Qorikancha / Templo y Convento de Santo Domingo de Guzmán",
       "note": "Империя здесь не под землёй — она держит верхний слой на себе.",
       "time": "18 мин",
       "walk": "5 мин",
@@ -868,16 +904,23 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Кориканча и Санто-Доминго",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-6-square.jpg",
+        "alt": "Санто-Доминго и основание Кориканчи в Куско",
         "attribution": {
           "author": "Brian Jeffery Beggerly",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-15"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Convent_of_Santo_Domingo_atop_the_Coricancha.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_commons_coricancha_category",
+        "src_commons_santo_domingo_file_beggerly",
+        "src_ddc_santo_domingo_qorikancha",
+        "src_cosituc_museo_qorikancha"
+      ],
       "id": "cusco-plaza-qorikancha-layers-6",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 6
@@ -885,6 +928,7 @@
     {
       "entry": "exterior",
       "name": "Калье Хатун-Румийок",
+      "nameLocal": "Calle Hatunrumiyoc",
       "note": "Город здесь снова объясняется не фасадом, а стеной.",
       "time": "12 мин",
       "walk": "5 мин",
@@ -916,16 +960,23 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Калье Хатун-Румийок",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-7-square.jpg",
+        "alt": "Крупный план инкской каменной стены на улице Hatunrumiyoc",
         "attribution": {
           "author": "Unukorno",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-15"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Piedra_de_los_doce_angulos.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_unesco_qhapaq_nan",
+        "src_commons_hatunrumiyoq_category",
+        "src_commons_twelve_angle_file_unukorno",
+        "src_ddc_hatunrumiyoc_walls_2025"
+      ],
       "id": "cusco-plaza-qorikancha-layers-7",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 7
@@ -933,6 +984,7 @@
     {
       "entry": "exterior",
       "name": "Камень двенадцати углов",
+      "nameLocal": "Piedra de los 12 Ángulos",
       "note": "Финал маршрута — один блок, который ведёт себя как целый город.",
       "time": "14 мин",
       "walk": "-",
@@ -964,16 +1016,23 @@
       "photo": {
         "id": "cusco-plaza-qorikancha-layers-stop-8",
         "kind": "photo",
-        "wide": "",
-        "square": "",
-        "alt": "Камень двенадцати углов",
+        "wide": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-8-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/cusco/cusco-plaza-qorikancha-layers-stop-8-square.jpg",
+        "alt": "Камень двенадцати углов в стене на улице Hatunrumiyoc",
         "attribution": {
           "author": "Unukorno",
           "license": "CC BY 3.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-15"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Piedra_de_los_doce_angulos.jpg",
+          "retrievedAt": "2026-06-26"
         }
       },
+      "sourceIds": [
+        "src_unesco_city_cusco",
+        "src_commons_twelve_angle_category",
+        "src_commons_twelve_angle_file_unukorno",
+        "src_elpais_twelve_angle_attack_2025",
+        "src_ddc_hatunrumiyoc_walls_2025"
+      ],
       "id": "cusco-plaza-qorikancha-layers-8",
       "guideId": "cusco-plaza-qorikancha-layers",
       "order": 8
