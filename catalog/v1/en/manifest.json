@@ -61,7 +61,7 @@
       "packPath": "cities/florence/offline-pack.json"
     },
     "edinburgh": {
-      "packHash": "a8f93a0c3cd6",
+      "packHash": "604b4b858d45",
       "packPath": "cities/edinburgh/offline-pack.json"
     },
     "dubai": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T09:52:56.563Z",
+  "generatedAt": "2026-06-25T10:00:52.342Z",
   "locale": "en",
   "schemaVersion": 1
 }
