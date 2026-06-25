@@ -389,7 +389,7 @@
       "packPath": "cities/vienna/offline-pack.json"
     },
     "warsaw": {
-      "packHash": "3ba0dbfb0918",
+      "packHash": "7374bb5d69f4",
       "packPath": "cities/warsaw/offline-pack.json"
     },
     "washington-dc": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T10:15:11.963Z",
+  "generatedAt": "2026-06-25T10:24:15.826Z",
   "locale": "ru",
   "schemaVersion": 1
 }
