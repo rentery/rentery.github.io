@@ -369,7 +369,7 @@
       "packPath": "cities/tunis/offline-pack.json"
     },
     "valencia": {
-      "packHash": "ffc9a2466885",
+      "packHash": "6f9d48a3be27",
       "packPath": "cities/valencia/offline-pack.json"
     },
     "vancouver": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-25T09:12:11.383Z",
+  "generatedAt": "2026-06-25T09:26:56.845Z",
   "locale": "en",
   "schemaVersion": 1
 }
