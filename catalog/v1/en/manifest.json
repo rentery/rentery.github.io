@@ -21,7 +21,7 @@
       "packPath": "cities/tivat/offline-pack.json"
     },
     "amsterdam": {
-      "packHash": "4680f66114fe",
+      "packHash": "58746c44c14f",
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T09:42:20.194Z",
+  "generatedAt": "2026-06-26T09:55:24.686Z",
   "locale": "en",
   "schemaVersion": 1
 }
