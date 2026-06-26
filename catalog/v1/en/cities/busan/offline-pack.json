@@ -3394,10 +3394,16 @@
           ],
           "photo": {
             "id": "busan-haeundae-dongbaekseom-coast-stop-7",
-            "kind": "generated",
+            "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/busan/busan-haeundae-dongbaekseom-coast-stop-7-wide.jpg",
             "square": "https://rentery.github.io/images/v1/busan/busan-haeundae-dongbaekseom-coast-stop-7-square.jpg",
-            "alt": "Сгенерированное не-документальное изображение вечерней набережной Haeundae, не фото The Bay 101 или Marine City."
+            "alt": "Ночная набережная у The Bay 101: отражения огней Marine City в воде и пешеходный край гавани Хэундэ.",
+            "attribution": {
+              "author": "Photopmh",
+              "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%B6%80%EC%82%B0_%EB%8D%94%EB%B2%A0%EC%9D%B4101.jpg",
+              "retrievedAt": "2026-06-26"
+            }
           }
         },
         {
@@ -4761,10 +4767,16 @@
       ],
       "photo": {
         "id": "busan-haeundae-dongbaekseom-coast-stop-7",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/busan/busan-haeundae-dongbaekseom-coast-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/busan/busan-haeundae-dongbaekseom-coast-stop-7-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение вечерней набережной Haeundae, не фото The Bay 101 или Marine City."
+        "alt": "Ночная набережная у The Bay 101: отражения огней Marine City в воде и пешеходный край гавани Хэундэ.",
+        "attribution": {
+          "author": "Photopmh",
+          "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%B6%80%EC%82%B0_%EB%8D%94%EB%B2%A0%EC%9D%B4101.jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
@@ -4818,5 +4830,5 @@
       }
     }
   ],
-  "packHash": "59887ec46577"
+  "packHash": "8730d3400717"
 }

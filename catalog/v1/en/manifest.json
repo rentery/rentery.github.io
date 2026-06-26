@@ -125,7 +125,7 @@
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "59887ec46577",
+      "packHash": "8730d3400717",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T05:30:50.598Z",
+  "generatedAt": "2026-06-26T05:38:56.833Z",
   "locale": "en",
   "schemaVersion": 1
 }
