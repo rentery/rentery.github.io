@@ -109,7 +109,7 @@
       "packPath": "cities/bangkok/offline-pack.json"
     },
     "barcelona": {
-      "packHash": "0fc0670f94f3",
+      "packHash": "e41569e008be",
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T20:39:04.399Z",
+  "generatedAt": "2026-06-26T20:53:39.215Z",
   "locale": "en",
   "schemaVersion": 1
 }
