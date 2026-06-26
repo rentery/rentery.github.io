@@ -37,7 +37,7 @@
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
-      "packHash": "e5a3f563b364",
+      "packHash": "ee70c6a29cd6",
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T05:38:56.833Z",
+  "generatedAt": "2026-06-26T05:57:19.764Z",
   "locale": "en",
   "schemaVersion": 1
 }
