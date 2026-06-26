@@ -1273,6 +1273,12 @@
         "rules": [],
         "summary": "Old Mission: пн–пт 10:00–16:00, сб–вс 10:00–17:00. Самостоятельный осмотр без брони; экскурсии с гидом временно недоступны."
       },
+      "sourceIds": [
+        "src-mission-old",
+        "src-ramaytush-spanish-arrival",
+        "src-nps-colonization",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-1",
         "kind": "photo",
@@ -1318,6 +1324,10 @@
         "rules": [],
         "summary": "Парк открыт ежедневно 06:00–22:00. Туалеты: весной и летом 08:00–20:00, осенью и зимой 08:00–17:30."
       },
+      "sourceIds": [
+        "src-dolores-park",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-2",
         "kind": "photo",
@@ -1363,12 +1373,25 @@
         "rules": [],
         "summary": "Фасады видны с общественного тротуара. Внутренний доступ зависит от программ и событий; не рассчитывайте на вход без проверки текущего календаря."
       },
+      "sourceIds": [
+        "src-womens-home",
+        "src-womens-mural",
+        "src-womens-history",
+        "src-womens-location",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-3",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/san-francisco/san-francisco-mission-dolores-murals-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/san-francisco/san-francisco-mission-dolores-murals-stop-3-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение улицы Mission District без mural-работы, не фото Women's Building."
+        "alt": "Исторический чёрно-белый вид Women’s Building / Mission Turn Hall в 1993 году, до MaestraPeace; не современное фото мурала.",
+        "attribution": {
+          "author": "Beatrice Coil / Historic American Buildings Survey",
+          "license": "Public Domain - U.S. federal government work; cropped/resized for app",
+          "sourceUrl": "https://www.loc.gov/pictures/item/ca1800.photos.047416p/",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
@@ -1402,6 +1425,11 @@
         "rules": [],
         "summary": "Общественный проезд без музейных часов. Посещайте при дневном свете и учитывайте движение жителей и машин."
       },
+      "sourceIds": [
+        "src-camp-history",
+        "src-camp-rights",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-4",
         "kind": "photo",
@@ -1447,6 +1475,14 @@
         "rules": [],
         "summary": "Открытое городское пространство; доступ к станции зависит от текущего расписания BART."
       },
+      "sourceIds": [
+        "src-calle24-about",
+        "src-sf-cultural-districts",
+        "src-plaza-sandino-kalw",
+        "src-bart-24th",
+        "src-bart-schedules",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-5",
         "kind": "photo",
@@ -1492,6 +1528,10 @@
         "rules": [],
         "summary": "Виден с общественного тротуара в любое время; детали лучше читаются при дневном свете."
       },
+      "sourceIds": [
+        "src-carnaval-landmark",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-6",
         "kind": "photo",
@@ -1537,6 +1577,11 @@
         "rules": [],
         "summary": "Официальная главная страница одновременно указывает пн–сб 13:00–17:00 и пн–пт 10:00–17:00, сб 12:00–17:00. Проверяйте режим в день визита; внешний осмотр не зависит от магазина."
       },
+      "sourceIds": [
+        "src-precita-home",
+        "src-precita-tours",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-7",
         "kind": "photo",
@@ -1582,6 +1627,13 @@
         "rules": [],
         "summary": "Общественный жилой проезд без музейных часов. Посещайте при дневном свете; состав муралов постоянно меняется."
       },
+      "sourceIds": [
+        "src-balmy-history",
+        "src-precita-home",
+        "src-bart-schedules",
+        "src-sfmta-48",
+        "src-osm-route"
+      ],
       "photo": {
         "id": "san-francisco-mission-dolores-murals-stop-8",
         "kind": "photo",
