@@ -1614,6 +1614,12 @@
         "rules": [],
         "summary": "Ежедневно 08:00–17:00. Мессы проходят утром; вход для верующих свободный, остальное время — билет около 4–5 USD. Время работы может меняться из‑за церковных мероприятий."
       },
+      "sourceIds": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-1",
         "kind": "photo",
@@ -1659,6 +1665,10 @@
         "rules": [],
         "summary": "Ежедневно 08:00–18:00. Последний вход за 30 минут до закрытия. Комбинированный билет с собором."
       },
+      "sourceIds": [
+        "src-3",
+        "src-4"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-2",
         "kind": "photo",
@@ -1704,23 +1714,20 @@
         "rules": [],
         "summary": "Открыт круглосуточно, находится под открытым небом у собора."
       },
+      "sourceIds": [
+        "src-3"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-3",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-mkunazini-slave-market-memory-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/zanzibar-city/zanzibar-city-mkunazini-slave-market-memory-stop-3-square.jpg",
-        "alt": "Сгенерированная недокументальная фактура памяти у каменной стены Стоун-Тауна; не для навигации",
-        "blurhash": "L5DuxY^i000102Rl?G%1014;~U?G",
-        "metadata": {
-          "centralLuminance": 0.5866,
-          "wide": {
-            "height": 1067,
-            "width": 1600
-          },
-          "square": {
-            "width": 1000,
-            "height": 1000
-          }
+        "alt": "Фасад англиканского собора и указатель Slave Chambers на территории бывшего невольничьего рынка рядом с мемориалом; контекстное фото, не изображение самой скульптуры.",
+        "attribution": {
+          "author": "Adam Jones",
+          "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Cathedral_with_Sign_for_Slave_Chambers_-_Anglican_Cathedral-Old_Slave_Market_-_Stone_Town_-_Zanzibar_-_Tanzania_(8841982338).jpg",
+          "retrievedAt": "2026-06-26"
         }
       }
     },
@@ -1755,6 +1762,10 @@
         "rules": [],
         "summary": "Открыты ежедневно приблизительно 08:00–18:00. Точные часы варьируют; женщинам и мужчинам раньше отводили разные периоды, сейчас это туристический объект."
       },
+      "sourceIds": [
+        "src-8",
+        "src-9"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-4",
         "kind": "photo",
@@ -1800,6 +1811,10 @@
         "rules": [],
         "summary": "Открыт ежедневно 06:00–21:00; ранним утром и на закате наиболее оживлённый. В дневные часы часть рядов закрывается, но основные павильоны работают."
       },
+      "sourceIds": [
+        "src-6",
+        "src-7"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-5",
         "kind": "photo",
@@ -1845,6 +1860,10 @@
         "rules": [],
         "summary": "Мессы: пн–сб 06:00 и 06:30; вс 07:00 (англ.), 09:00 (суахили) и 11:00 (детская). Для туристов открыт пн–сб 10:00–18:00. Вход около 5 USD, для верующих — бесплатно во время службы."
       },
+      "sourceIds": [
+        "src-10",
+        "src-11"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-6",
         "kind": "photo",
@@ -1890,6 +1909,9 @@
         "rules": [],
         "summary": "Дом частный, внутрь нельзя; фасад можно увидеть в любое время суток."
       },
+      "sourceIds": [
+        "src-12"
+      ],
       "photo": {
         "id": "zanzibar-city-mkunazini-slave-market-memory-stop-7",
         "kind": "photo",
