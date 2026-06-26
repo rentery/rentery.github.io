@@ -73,7 +73,7 @@
       "packPath": "cities/delhi/offline-pack.json"
     },
     "cusco": {
-      "packHash": "72b894d10452",
+      "packHash": "c8aa38f75ba4",
       "packPath": "cities/cusco/offline-pack.json"
     },
     "bruges": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T10:35:23.167Z",
+  "generatedAt": "2026-06-26T10:48:36.825Z",
   "locale": "en",
   "schemaVersion": 1
 }
