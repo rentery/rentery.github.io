@@ -6246,10 +6246,16 @@
         ],
         "photo": {
           "id": "chicago-pilsen-murals-18th-street-stop-4",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/chicago/chicago-pilsen-murals-18th-street-stop-4-wide.jpg",
           "square": "https://rentery.github.io/images/v1/chicago/chicago-pilsen-murals-18th-street-stop-4-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение улицы Pilsen без воспроизведения mural-работы, не фото Galeria del Barrio."
+          "alt": "Мурал Weaving Cultures на 16-й улице у Blue Island в Пилзене; современный ответ Galería del Barrio.",
+          "attribution": {
+            "author": "Raed Mansour",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://www.flickr.com/photos/93084495@N04/48533571297",
+            "retrievedAt": "2026-06-26"
+          }
         }
       },
       {
