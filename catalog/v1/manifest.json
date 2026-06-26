@@ -69,7 +69,7 @@
       "packPath": "cities/dubai/offline-pack.json"
     },
     "delhi": {
-      "packHash": "94784bd69633",
+      "packHash": "331b78be4c1a",
       "packPath": "cities/delhi/offline-pack.json"
     },
     "cusco": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T01:53:10.888Z",
+  "generatedAt": "2026-06-26T02:06:26.884Z",
   "locale": "ru",
   "schemaVersion": 1
 }
