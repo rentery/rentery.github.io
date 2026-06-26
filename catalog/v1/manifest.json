@@ -297,7 +297,7 @@
       "packPath": "cities/kyoto/offline-pack.json"
     },
     "lima": {
-      "packHash": "9b06f0d4d4ad",
+      "packHash": "ec7e79a6afc3",
       "packPath": "cities/lima/offline-pack.json"
     },
     "lisbon": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T07:37:52.934Z",
+  "generatedAt": "2026-06-26T07:48:45.696Z",
   "locale": "ru",
   "schemaVersion": 1
 }
