@@ -133,7 +133,7 @@
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "42f6254e6679",
+      "packHash": "553fefbd852d",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T09:17:54.784Z",
+  "generatedAt": "2026-06-26T09:35:31.630Z",
   "locale": "ru",
   "schemaVersion": 1
 }
