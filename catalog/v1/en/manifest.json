@@ -253,7 +253,7 @@
       "packPath": "cities/salzburg/offline-pack.json"
     },
     "san-francisco": {
-      "packHash": "6a2a40eaf599",
+      "packHash": "f6184781125d",
       "packPath": "cities/san-francisco/offline-pack.json"
     },
     "santiago-chile": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T15:26:41.146Z",
+  "generatedAt": "2026-06-26T15:41:05.002Z",
   "locale": "en",
   "schemaVersion": 1
 }

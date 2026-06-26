@@ -5109,8 +5109,8 @@
       "cityId": "san-francisco",
       "category": "Район",
       "title": "Пресидио и мост: военный край у Золотых ворот",
-      "subtitle": "Это путешествие проведет вас через слои истории и ландшафты Пресидио – бывшей военной базы на краю полуострова. Увидите старые форт и казармы, заглянете в культурные площадки, потрогаете новейший парк на крыше шоссе и выйдете к океану. Между зелеными лужайками и кирпичными батареями вы узнаете, как испанские, мексиканские и американские армии оставили след в этом месте, и почему сегодня это национальный парк, где люди встречаются, чтобы отдыхать и учиться уважать природу и историю.",
-      "blurb": "Это путешествие проведет вас через слои истории и ландшафты Пресидио – бывшей военной базы на краю полуострова. Увидите старые форт и казармы, заглянете в культурные площадки, потрогаете новейший парк на крыше шоссе и выйдете к океану. Между зелеными лужайками и кирпичными батареями вы узнаете, как испанские, мексиканские и американские армии оставили след в этом месте, и почему сегодня это национальный парк, где люди встречаются, чтобы отдыхать и учиться уважать природу и историю.",
+      "subtitle": "От Main Post к Tunnel Tops, Crissy Field, Fort Point и Golden Gate Bridge: как военная кромка стала национальным парком у пролива.",
+      "blurb": "Маршрут связывает штабное плато Пресидио, восстановленный берег, кирпичную крепость, батареи и Golden Gate Bridge в одну читаемую прогулку.",
       "mood": "history",
       "accent": "#6633A3",
       "soft": "#EAE3F2",
@@ -5124,15 +5124,15 @@
       "kids": false,
       "microcopy": {
         "kicker": "Маршрут",
-        "line": "Это путешествие проведет вас через слои истории и ландшафты Пресидио – бывшей военной базы на краю полуострова. Увидите старые форт и казармы, заглянете в культурные площадки, потрогаете новейший парк на крыше шоссе и выйдете к океану. Между зелеными лужайками и кирпичными батареями вы узнаете, как испанские, мексиканские и американские армии оставили след в этом месте, и почему сегодня это национальный парк, где люди встречаются, чтобы отдыхать и учиться уважать природу и историю."
+        "line": "От штабного Main Post к Crissy Field, Fort Point и Golden Gate Bridge: как военная кромка стала общественным парком у пролива."
       },
       "content": {
-        "intro": "Это путешествие проведет вас через слои истории и ландшафты Пресидио – бывшей военной базы на краю полуострова. Увидите старые форт и казармы, заглянете в культурные площадки, потрогаете новейший парк на крыше шоссе и выйдете к океану. Между зелеными лужайками и кирпичными батареями вы узнаете, как испанские, мексиканские и американские армии оставили след в этом месте, и почему сегодня это национальный парк, где люди встречаются, чтобы отдыхать и учиться уважать природу и историю.",
-        "routeLogic": "Это путешествие проведет вас через слои истории и ландшафты Пресидио – бывшей военной базы на краю полуострова. Увидите старые форт и казармы, заглянете в культурные площадки, потрогаете новейший парк на крыше шоссе и выйдете к океану. Между зелеными лужайками и кирпичными батареями вы узнаете, как испанские, мексиканские и американские армии оставили след в этом месте, и почему сегодня это национальный парк, где люди встречаются, чтобы отдыхать и учиться уважать природу и историю.",
-        "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
-        "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
-        "beforeYouGo": "Пресидио открыт круглосуточно и бесплатно, но некоторые здания имеют часы работы. Летом густой туман и ветер – часть местного климата, поэтому берите слои одежды, солнцезащитные очки и стойте к ветру лицом. Строительные работы на Main Post идут с июля 2026 года до зимы 2027 года и могут ограничивать движение и создавать шум – следуйте указателям. Если добираетесь на общественном транспорте, остановки автобуса 28 находятся у Visitor Center и у моста. Парковка в Пресидио платная в будние дни и бесплатна по вечерам и воскресеньям. При посещении Fort Point и Battery East будьте осторожны на ступенях и у обрывов, а на мосту – держитесь правой стороны.",
-        "timing": "3 ч"
+        "intro": "Эта прогулка читает Presidio как край города, где военная инфраструктура стала национальным парком и public waterfront. От Visitor Center и Main Parade Lawn маршрут идет через Presidio Tunnel Tops, спускается к Crissy Field, Warming Hut и Fort Point, затем поднимается к Battery East и Golden Gate Bridge Welcome Center.",
+        "routeLogic": "Сохраняем физически связанный spine Main Post -> Tunnel Tops -> Crissy Field -> Warming Hut / Torpedo Wharf edge -> Fort Point -> Battery East Vista -> Golden Gate Bridge Welcome Center. Это не полный Presidio day, а переход от штабного плато к берегу, крепости, батарее и мосту.",
+        "bestFor": "Для тех, кто хочет увидеть Golden Gate не отдельной открыткой, а результатом военного, инженерного, природного и park-reuse слоев Presidio.",
+        "notFor": "Не лучший маршрут для безветренной прогулки или гарантированных интерьеров: fog/wind, Main Post construction, Fort Point hours, Warming Hut hours and bridge sidewalk/parking alerts need current checks.",
+        "beforeYouGo": "Presidio открыт 24/7 и без входной платы, но Visitor Center, Field Station, Warming Hut, Fort Point and Welcome Center have separate hours. С июля 2026 до Winter 2027 Main Post construction can add noise, detours and traffic. Dress in layers for fog/wind; bridge parking/sidewalks can change during construction/events.",
+        "timing": "Около 3 часов с паузами; добавьте время для Fort Point interior, Field Station or bridge sidewalk."
       },
       "stopList": [
         {
@@ -5140,18 +5140,24 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 1,
           "name": "Посетительский центр Пресидио",
+          "nameLocal": "Presidio Visitor Center",
+          "sourceIds": [
+            "sf_presidio_faq",
+            "sf_presidio_visitor_center"
+          ],
           "note": "Начните с интерактивного знакомства с историей и картой Пресидио.",
           "time": "15 мин",
           "walk": "Выйдите наружу и идите по Montgomery Street мимо ряда краснокирпичных казарм к просторной парадной лужайке.",
           "content": {
-            "context": "Первая остановка – Visitor Center, где вы познакомитесь с четырьмя столетиями Пресидио. Внутри бывшего поста контрольно‑пропускного пункта рассказывают о коренных народах Ramaytush Ohlone, испанских колонистах, мексиканском гарнизоне и американской армии. Мультимедийные стенды и модель парка помогают понять, где вы находитесь и куда идти. Из окна видно свежий ландшафт парка Tunnel Tops, который перекрывает шоссе и соединяет главную часть базы с берегом.",
-            "lookFor": "Интерактивная модель парка, карты походов и железный вентилятор с историческими фотографиями.",
-            "practical": "Центр открыт ежедневно с 10:00 до 17:00. Вход свободный. В туалете есть питьевая вода и сувенирный магазин. Рядом автобусная остановка маршрута 28.",
+            "context": "Начните не с открытки моста, а с передней двери всего Presidio. Visitor Center стоит между Presidio Transit Center и Main Parade Lawn, смотрит на Tunnel Tops и Golden Gate Bridge и помогает собрать маршрут в карту: 3D-модель, интерактивные экраны и зал с четырьмя основными зонами парка объясняют, почему бывшая база теперь читается как национальный парк.",
+            "lookFor": "3D-модель Presidio, цифровые панели с погодой и маршрутами, вид из окон на Tunnel Tops и линию Golden Gate Bridge.",
+            "practical": "Presidio открыт 24/7 и без входной платы; сам Visitor Center открыт ежедневно 10:00-17:00, кроме Thanksgiving, Christmas and New Year's Day. Туалеты находятся рядом в Presidio Transit Center; официальный transit-ориентир - Muni 43 / Presidio Transit Center, а парковка через Lincoln Boulevard платная.",
             "nextMove": "Выйдите наружу и идите по Montgomery Street мимо ряда краснокирпичных казарм к просторной парадной лужайке.",
+            "sourceNote": "Проверено по Presidio FAQ и странице Presidio Visitor Center: парк открыт круглосуточно и бесплатно, Visitor Center открыт 10:00-17:00 daily except major holidays, расположен у Presidio Transit Center и Main Parade Lawn, с 3D-моделью, интерактивными экранами и обзором четырех зон парка.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "presidio_history_overview presidio_history_officers_club Первая остановка – Visitor Center, где вы познакомитесь с четырьмя столетиями Пресидио. Внутри бывшего поста контрольно‑пропускного пункта рассказывают о коренных народах Ramaytush Ohlone, испанских колонистах, мексиканском гарнизоне и американской армии. Мультимедийные стенды и модель парка помогают понять, где вы находитесь и куда идти. Из окна видно свежий ландшафт парка Tunnel Tops, который перекрывает шоссе и соединяет главную часть базы с берегом."
+                "title": "Передняя дверь бывшей базы",
+                "body": "Visitor Center нужен здесь как калибровка масштаба. На одной стороне - Main Parade Lawn и исторический Main Post, на другой - Tunnel Tops и спуск к заливу. Поэтому маршрут начинается с места, где Presidio Trust сам объясняет парк как систему: транспорт, виды, бывшая военная планировка, новые общественные пространства и берег собираются в один читаемый слой."
               }
             ]
           },
@@ -5159,6 +5165,11 @@
           "coordinates": {
             "latitude": 37.7993,
             "longitude": -122.4668
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Presidio открыт 24/7; Visitor Center обычно открыт ежедневно 10:00-17:00, кроме Thanksgiving, Christmas and New Year's Day.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-1",
@@ -5179,18 +5190,25 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 2,
           "name": "Парадная лужайка и казармы на Монтгомери",
+          "nameLocal": "Main Parade Lawn / Montgomery Street Barracks",
+          "sourceIds": [
+            "sf_main_parade_lawn_presidio",
+            "sf_presidio_officers_club",
+            "sf_presidio_current_construction"
+          ],
           "note": "Где когда‑то маршировали солдаты, сегодня устраивают пикники.",
           "time": "15 мин",
           "walk": "От лужайки спуститесь по пешеходным дорожкам к новому парку Tunnel Tops, который находится прямо за дорогой.",
           "content": {
-            "context": "Перед вами – огромная зеленая площадь, известная как Main Parade Lawn. В 1898 году здесь проводили строевые смотры. Позже площадь превратили в парковку, а в 2011 году вернули ей травяное покрытие и снова открыли для прогулок и ярмарок. Красная линия казарм на Монтгомери‑стрит датируется концом XIX века – в них жили войска, а сегодня располагаются офисы и культурные центры. На юго‑западном углу стоит Офицерский клуб, чьи стены подняты еще в 1776 году и считаются старейшими adobe‑строениями города. Лежа на траве, представьте, как здесь проходили парады и салюты, и какие времена пережила эта площадка.",
-            "lookFor": "Ряд симметричных казарм из красного кирпича, фонтаны перед Офицерским клубом, старые пушки, обращенные к заливу.",
-            "practical": "Лужайка открыта круглосуточно. Пикники разрешены, но костры запрещены. Детские программы и фуд‑траки проходят по воскресеньям. При реконструкции Main Post возможны шум и ограждения; следуйте указателям.",
+            "context": "Main Parade Lawn выглядит как спокойная городская поляна, но ее форма выдает бывший плац. В 1898 году здесь был пыльный training ground для солдат из соседних краснокирпичных казарм, в 1937 году место стало парковкой, а в 2011 году большую часть пространства снова превратили в зеленую public lawn. Рядом Officers' Club напоминает, что Presidio существовал задолго до города Сан-Франциско: его первая версия относится к 1776 году.",
+            "lookFor": "Семь акров открытой травы, красную линию Montgomery Street Barracks, Officers' Club на юго-западной стороне и строительные/пешеходные указатели Main Post.",
+            "practical": "Outdoor lawn открыт как часть Presidio. Туалеты - у Presidio Transit Center; небольшие пикники и gatherings до 50 человек обычно не требуют special permit, но organized sports and inflatables здесь не формат. С июля 2026 до Winter 2027 Main Post construction может менять проходы, шум и traffic.",
             "nextMove": "От лужайки спуститесь по пешеходным дорожкам к новому парку Tunnel Tops, который находится прямо за дорогой.",
+            "sourceNote": "Проверено по Presidio Main Parade Lawn, Presidio Officers' Club и текущему construction alert: Main Parade Lawn - seven-acre lawn на бывшем training ground 1898 года, ставшем парковкой в 1937 и зеленым пространством в 2011; Officers' Club впервые established in 1776; Main Post construction заявлен July 2026 through Winter 2027.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "presidio_main_parade_lawn presidio_officers_club Перед вами – огромная зеленая площадь, известная как Main Parade Lawn. В 1898 году здесь проводили строевые смотры. Позже площадь превратили в парковку, а в 2011 году вернули ей травяное покрытие и снова открыли для прогулок и ярмарок. Красная линия казарм на Монтгомери‑стрит датируется концом XIX века – в них жили войска, а сегодня располагаются офисы и культурные центры. На юго‑западном углу стоит Офицерский клуб, чьи стены подняты еще в 1776 году и считаются старейшими adobe‑строениями города. Лежа на траве, представьте, как здесь проходили парады и салюты, и какие времена пережила эта площадка."
+                "title": "Плац после армии",
+                "body": "Здесь хорошо видно, как Presidio меняет функцию, но не стирает планировку. Та же прямоугольная военная геометрия теперь держит picnic blankets, фестивали и прогулки между Visitor Center, Officers' Club и Tunnel Tops. Поэтому точка важна не как «лужайка с видом», а как площадка, где армейская дисциплина буквально стала городской паузой."
               }
             ]
           },
@@ -5198,6 +5216,11 @@
           "coordinates": {
             "latitude": 37.7981,
             "longitude": -122.4589
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Outdoor lawn открыт как часть Presidio 24/7; Officers' Club exhibitions обычно Fri-Sun 11:00-16:00; Main Post construction возможен до Winter 2027.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-2",
@@ -5218,18 +5241,26 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 3,
           "name": "Парк Tunnel Tops",
+          "nameLocal": "Presidio Tunnel Tops / Outpost / Field Station",
+          "sourceIds": [
+            "sf_presidio_tunnel_tops",
+            "sf_outpost_playground",
+            "sf_field_station",
+            "sf_presidio_current_construction"
+          ],
           "note": "Новая зеленая площадка соединяет Пресидио с заливом.",
           "time": "15 мин",
           "walk": "Следуйте по спускающейся тропе вдоль склонов к восстановленным пляжам и болотам Крисси-Филд.",
           "content": {
-            "context": "Вы стоите на крыше автомобильных тоннелей: парк Tunnel Tops открылся в 2022 году и словно стежок сшил две части Пресидио. Дорожки ведут к смотровым площадкам с видом на Золотые ворота, лужайки приглашают к пикникам, а на детской площадке Outpost дети лазают по гигантским брёвнам и осваивают висячие мостики. В Field Station можно потрогать шкуры животных, изучить трепанг и узнать о растениях залива. Этот современный парк напоминает, что даже инженерные сооружения можно превратить в природу.",
-            "lookFor": "Деревянные террасы с панорамой моста, массивные бревна на детской площадке, яркие цветы в обрамлении травяных холмов.",
-            "practical": "Парк открыт круглосуточно. Детская площадка и Field Station работают примерно с 9:30 до 16:00. Туалеты и питьевая вода находятся возле входа. Носите куртку – ветер здесь особенно сильный.",
+            "context": "Tunnel Tops - это не просто новый парк, а физический шов поверх транспортного разреза. Он возвращает Main Post к виду на Crissy Field и залив: лужайки, terraces, Outpost playground и Field Station лежат на переходе от штабного плато к воде. Поэтому здесь лучше смотреть не только на Golden Gate Bridge, но и на саму идею ремонта ландшафта.",
+            "lookFor": "Террасы с видом на мост, Outpost с fallen-tree play structures, Field Station next to the playground и дорожки, которые ведут вниз к Crissy Field.",
+            "practical": "Outdoor Tunnel Tops открыт как часть Presidio и не требует tickets/reservations; Outpost and Field Station have their own hours. Pets are not allowed inside Outpost playground except ADA service animals. Туалеты есть у Presidio Transit Center и рядом с Outpost; construction at Main Post может менять подходы.",
             "nextMove": "Следуйте по спускающейся тропе вдоль склонов к восстановленным пляжам и болотам Крисси-Филд.",
+            "sourceNote": "Проверено по Presidio Tunnel Tops, Outpost Playground, Field Station и Main Post construction notice: outdoor Tunnel Tops открыт как park space, free/no tickets; Outpost работает 09:30-18:00 Apr-Oct и 09:30-17:00 Nov-Mar; Field Station - Wed-Fri 11:00-16:00, Sat-Sun 10:00-17:00; restrooms listed at Transit Center and near Outpost.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "presidio_tunnel_tops Вы стоите на крыше автомобильных тоннелей: парк Tunnel Tops открылся в 2022 году и словно стежок сшил две части Пресидио. Дорожки ведут к смотровым площадкам с видом на Золотые ворота, лужайки приглашают к пикникам, а на детской площадке Outpost дети лазают по гигантским брёвнам и осваивают висячие мостики. В Field Station можно потрогать шкуры животных, изучить трепанг и узнать о растениях залива. Этот современный парк напоминает, что даже инженерные сооружения можно превратить в природу."
+                "title": "Парк как мост поверх дороги",
+                "body": "Главный жест Tunnel Tops - соединение. Раньше движение машин отделяло Main Post от берега; теперь пешеходный ландшафт ведет от Visitor Center вниз к Crissy Field. В маршруте это точка, где военная база перестает быть набором зданий и становится современным парком, построенным вокруг доступа, видов и семейных пространств."
               }
             ]
           },
@@ -5237,6 +5268,11 @@
           "coordinates": {
             "latitude": 37.8008,
             "longitude": -122.466
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Outdoor Tunnel Tops открыт как Presidio park space; Outpost обычно 09:30-18:00 Apr-Oct и 09:30-17:00 Nov-Mar; Field Station Wed-Fri 11:00-16:00, Sat-Sun 10:00-17:00.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-3",
@@ -5257,18 +5293,24 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 4,
           "name": "Пляж и болото Крисси-Филд",
+          "nameLocal": "Crissy Field / Crissy Marsh / East Beach",
+          "sourceIds": [
+            "sf_crissy_field_presidio",
+            "sf_crissy_field_restoration_nps"
+          ],
           "note": "Берег залива, где воздух наполнен солью и криками чаек.",
           "time": "15 мин",
           "walk": "Идите вдоль берега на запад, пока не увидите белое здание Warming Hut на краю Торпедного пирса.",
           "content": {
-            "context": "Мягкие пески и щебет птиц скрывают насыщенную историю. Крисси-Филд был сначала болотом, где жили народы Ohlone, затем поле было засыпано для Выставки Панама‑Тихий океан 1915 года, а впоследствии здесь разместился армейский аэродром. Когда военная база закрылась, консервационный проект (1997–2000) вывез 230 000 кубических метров грунта и восстановил 18‑акровый приливной марш и 40 акров прибрежных лугов. Посажено более 100 000 местных растений, и сегодня это место – оазис для куликов, каякеров и гуляющих.",
-            "lookFor": "Деревянный настил вдоль марша, шатающиеся калифорнийские чайки, ветряные кайт‑серферы и силуэт Золотого моста над водой.",
-            "practical": "Пляж открыт 24/7, вход свободный. Прогулки по настилам подходят для колясок и инвалидных колясок. Ветрено и влажно – возьмите куртку и шапку. Ближайшие туалеты и кафе находятся в Warming Hut.",
+            "context": "Crissy Field выглядит как естественный береговой парк, но это восстановленный ландшафт после военной инфраструктуры и загрязнения. NPS описывает, как cleanup с 1997 года убрал почти 90 000 tons contaminated materials, а restoration 1998-2000 recreated an 18-acre tidal marsh and 16 acres of dune habitat. Под песком и настилами здесь остается более длинная история: estuary, Ohlone seasonal use, Army airfield, а теперь Bay Trail and Golden Gate Promenade.",
+            "lookFor": "Crissy Marsh, wide Golden Gate Promenade, protected west-end shorebird areas, kite/wind patterns over the bay and the bridge framed from the low beach.",
+            "practical": "Outdoor берег открыт как часть Presidio; facilities vary by segment. East Beach parking is free, while West Bluff / Mason areas are paid; Muni 30 and 28 serve nearby areas. Respect wildlife signs, especially near the west end where threatened western snowy plover habitat is noted.",
             "nextMove": "Идите вдоль берега на запад, пока не увидите белое здание Warming Hut на краю Торпедного пирса.",
+            "sourceNote": "Проверено по Presidio Crissy Field и NPS Crissy Field restoration: бывший Army airfield/transportation hub восстановлен как 100-acre recreation landscape; cleanup removed nearly 90,000 tons of contaminated material; 1998-2000 work recreated 18-acre tidal marsh and 16 acres dune habitat, excavated 230,000 cubic yards, and restored tidal flow in November 1999.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "nps_crissy_restoration Мягкие пески и щебет птиц скрывают насыщенную историю. Крисси-Филд был сначала болотом, где жили народы Ohlone, затем поле было засыпано для Выставки Панама‑Тихий океан 1915 года, а впоследствии здесь разместился армейский аэродром. Когда военная база закрылась, консервационный проект (1997–2000) вывез 230 000 кубических метров грунта и восстановил 18‑акровый приливной марш и 40 акров прибрежных лугов. Посажено более 100 000 местных растений, и сегодня это место – оазис для куликов, каякеров и гуляющих."
+                "title": "Берег после бетонного поля",
+                "body": "Crissy Field работает как antidote к идее, что waterfront всегда «природный». Здесь природность заново собрана из engineering, cleanup, community restoration and habitat protection. Поэтому пауза у marsh важна перед Fort Point: маршрут показывает не только старую оборону пролива, но и то, как город возвращает берег людям, птицам и приливу."
               }
             ]
           },
@@ -5276,6 +5318,11 @@
           "coordinates": {
             "latitude": 37.8039,
             "longitude": -122.464
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Outdoor Crissy Field открыт как Presidio park space; restrooms, concessions, parking and recreation tenants have separate hours and rules.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-4",
@@ -5296,18 +5343,24 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 5,
           "name": "Кафе и магазин Warming Hut",
-          "note": "Согрейтесь горячим шоколадом в здании старого армейского склада.",
+          "nameLocal": "Warming Hut Park Store / Torpedo Wharf",
+          "sourceIds": [
+            "sf_warming_hut_presidio",
+            "sf_warming_hut_parks_conservancy"
+          ],
+          "note": "Согрейтесь горячим шоколадом в историческом деревянном здании у променада.",
           "time": "15 мин",
           "walk": "Продолжайте по береговой дорожке в сторону Форта Пойнт; вскоре вы увидите кирпичную крепость под мостом.",
           "content": {
-            "context": "На Торпедном пирсе стоит скромное деревянное здание – бывший армейский склад инженеров начала XX века. В 2001 году его превратили в Warming Hut: здесь подают горячий шоколад, кофе и закуски, продают книги и сувениры, а выручка помогает поддерживать парки. Внутри сохранены балки и запах древесины, а через панорамные окна открываются виды на мост и залив. Этот уютный уголок напоминает, что даже служебные постройки могут стать местом для отдыха и общения.",
-            "lookFor": "Старинные деревянные фермы потолка, фотографии реконструкции, вид на мост из окна и рыбаки на Торпедном пирсе.",
-            "practical": "Магазин открыт: вс‑пн с 9:00 до 18:00, вт–чт 9:00–17:00, пт–сб 9:00–18:00. Здание доступно для инвалидных колясок. Туалеты и питьевая вода находятся внутри. Принимают карты и наличные.",
+            "context": "Warming Hut - маленькая, но очень практичная остановка между Crissy Field and Fort Point. Presidio describes it as a historic wood-frame building with warm drinks, snacks, gifts and park gear; Parks Conservancy adds the service texture: books, prints, toys, apparel, Crissy Mocha, hot chocolate, Equator coffee and cold beverages. В холодном ветре пролива это не просто cafe, а логистический hinge перед крепостью.",
+            "lookFor": "Wood-frame building by the Golden Gate Promenade, Torpedo Wharf next door, bridge views through fog and the paid lot tucked behind the hut.",
+            "practical": "Current posted hours: Sun 09:00-18:00, Mon-Thu 09:00-17:00, Fri-Sat 09:00-18:00. Restrooms are next door, not inside the shop. Large parking lot behind the building is paid; hours and offerings can change, so check before relying on food.",
             "nextMove": "Продолжайте по береговой дорожке в сторону Форта Пойнт; вскоре вы увидите кирпичную крепость под мостом.",
+            "sourceNote": "Проверено по Presidio Warming Hut Park Store и Golden Gate National Parks Conservancy: historic wood-frame building by Golden Gate Promenade with warm drinks/snacks/gifts/gear; Parks Conservancy lists Crissy Mocha, hot chocolate, Equator coffee, snacks, restrooms next door, large paid lot behind, and current daily hours.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "presidio_warming_hut На Торпедном пирсе стоит скромное деревянное здание – бывший армейский склад инженеров начала XX века. В 2001 году его превратили в Warming Hut: здесь подают горячий шоколад, кофе и закуски, продают книги и сувениры, а выручка помогает поддерживать парки. Внутри сохранены балки и запах древесины, а через панорамные окна открываются виды на мост и залив. Этот уютный уголок напоминает, что даже служебные постройки могут стать местом для отдыха и общения."
+                "title": "Теплая пауза на холодном берегу",
+                "body": "Название Warming Hut почти буквально объясняет маршрутную роль места. После открытого Crissy Field и перед ветреным Fort Point здесь можно проверить время, согреться, понять, открыт ли форт, и решить, идти ли к Torpedo Wharf или сразу к кирпичным аркам под мостом. Сервисная точка становится частью драматургии берега."
               }
             ]
           },
@@ -5315,6 +5368,11 @@
           "coordinates": {
             "latitude": 37.8079,
             "longitude": -122.4709
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Current posted hours: Sun 09:00-18:00, Mon-Thu 09:00-17:00, Fri-Sat 09:00-18:00.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-5",
@@ -5335,18 +5393,26 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 6,
           "name": "Форт Пойнт",
+          "nameLocal": "Fort Point National Historic Site",
+          "sourceIds": [
+            "sf_fort_point_history_nps",
+            "sf_fort_point_hours_nps",
+            "sf_fort_point_accessibility_nps",
+            "sf_fort_point_fees_nps"
+          ],
           "note": "Прислушайтесь к эху волн в кирпичных казематах XIX века.",
           "time": "15 мин",
           "walk": "Поднимитесь по тропе Battery East Trail (по лестнице или пандусу) к обзорной площадке Battery East Vista.",
           "content": {
-            "context": "Форт Пойнт построили между 1853 и 1861 годами как часть Третьей системы береговых укреплений США. Его толстые кирпичные стены должны были защитить Золотые Ворота от вражеских кораблей, но пушки так ни разу и не выстрелили в бою. Тем не менее фортификация пережила Гражданскую войну, землетрясение 1906 года и строительство моста: инженер Джозеф Страус разработал арку, которая позволила «оранжевому чуду» подняться над фортом, не разрушая его. Прогуляйтесь по казематам с кирпичными сводами, загляните в командирские комнаты и выйдите на крышу – оттуда открывается уникальный вид на нижнюю часть моста и разбивающиеся волны.",
+            "context": "Fort Point built its drama before the bridge existed. U.S. Army Engineers constructed it in 1853-1861 as part of the Third System of coastal defense, and NPS notes it is the only fortification of that design west of the Mississippi. Its guns never fired in anger, but the building survived changing military technology and bridge construction because Joseph Strauss redesigned the Golden Gate Bridge approach with a special arch over the fort.",
             "lookFor": "Ряды арочных казематов, массивные чугунные пушки, оригинальная винтовая лестница на крышу и арочная опора моста над двором.",
-            "practical": "Форт открыт четверг–понедельник с 10:00 до 17:00, доступ на крышу закрывается в 16:30. Закрыт на День благодарения, Рождество и Новый год. Вход свободный. Ветер сильный, лестницы крутые – наденьте удобную обувь и держите головной убор.",
+            "practical": "Interior hours are Thu-Mon 10:00-17:00; roof access closes 16:30. The exterior area is accessible 7 days, and entry is free/no entrance pass required. First floor access is wheelchair accessible via raised wooden boardwalk; restrooms are outside about 100 yards away. Expect cool, damp, windy weather and check conditions before relying on roof/interior access.",
             "nextMove": "Поднимитесь по тропе Battery East Trail (по лестнице или пандусу) к обзорной площадке Battery East Vista.",
+            "sourceNote": "Проверено по NPS Fort Point history, hours, accessibility and fees: built 1853-1861, Third System, only such fortification west of the Mississippi; guns never fired in anger; Joseph Strauss bridge arch preserved the fort; National Historic Site established 1970; current interior hours Thu-Mon 10:00-17:00, roof closes 16:30, exterior accessible 7 days, free entry.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "nps_fort_point nps_fort_point_preservation Форт Пойнт построили между 1853 и 1861 годами как часть Третьей системы береговых укреплений США. Его толстые кирпичные стены должны были защитить Золотые Ворота от вражеских кораблей, но пушки так ни разу и не выстрелили в бою. Тем не менее фортификация пережила Гражданскую войну, землетрясение 1906 года и строительство моста: инженер Джозеф Страус разработал арку, которая позволила «оранжевому чуду» подняться над фортом, не разрушая его. Прогуляйтесь по казематам с кирпичными сводами, загляните в командирские комнаты и выйдите на крышу – оттуда открывается уникальный вид на нижнюю часть моста и разбивающиеся волны."
+                "title": "Крепость, которую мост не снес",
+                "body": "Fort Point делает Golden Gate Bridge менее абстрактным. Снизу видно, что мост не просто «перекинулся через пролив»: он должен был договориться с уже существующей военной архитектурой. Если интерьер закрыт, exterior stop still works: кирпич, волны и стальная арка показывают тот же конфликт старой обороны и новой инфраструктуры."
               }
             ]
           },
@@ -5354,6 +5420,11 @@
           "coordinates": {
             "latitude": 37.8106,
             "longitude": -122.4773
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Interior Thu-Mon 10:00-17:00; roof closes 16:30; exterior accessible 7 days; closed Thanksgiving, Christmas and New Year's Day.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-6",
@@ -5374,18 +5445,24 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 7,
           "name": "Батарея Ист‑Виста",
+          "nameLocal": "Battery East Vista",
+          "sourceIds": [
+            "sf_battery_east_vista_presidio",
+            "sf_fort_point_brochure_nps"
+          ],
           "note": "Здесь открывается один из лучших видов на мост, а земля хранит следы старых батарей.",
           "time": "15 мин",
           "walk": "Следуйте по дорожке к павильону Welcome Center у Золотого моста – финальной точке маршрута.",
           "content": {
-            "context": "Вы поднялись на Battery East – укрепление конца XIX века, построенное, когда технологии сделали Fort Point уязвимым. Сейчас от батареи остались земляные валы и бетонные пороховые погреба, а в 2015 году здесь создали обзорную площадку с амфитеатром. Это место соединяет старую артиллерию и новые тропы: рядом проходят маршруты Golden Gate Promenade и Coastal Trail, а над головой возвышаются башни моста. Панорама залива, моста и Марин‑Хэдлендс заставляет сердце биться чаще.",
-            "lookFor": "Заросшие травой валы батареи, амфитеатр с деревянными лавками, металлическая модель моста и дикие цветы вдоль тропы.",
-            "practical": "Площадка открыта круглосуточно и бесплатно. Здесь нет туалетов и магазинов. Держитесь подальше от обрывов и закрытых военных строений. Ветер сильный – возьмите куртку.",
+            "context": "Battery East explains why Fort Point became vulnerable. Presidio dates the historic brick and earthen batteries to the 1870s, after the Civil War changed assumptions about coastal artillery; NPS notes that by 1870 some Fort Point cannon were moved up to Battery East. The current overlook, built in 2015, turns that military high ground into an amphitheater-like viewpoint toward the bridge, bay and Marin Headlands.",
+            "lookFor": "Amphitheater-like seating, traces of earthen battery geometry, the trail link to Golden Gate Bridge Welcome Center and the change in perspective from fort-below to bridge-level.",
+            "practical": "Vista is an outdoor stop with paid parking off Lincoln Boulevard and connection to the California Coastal Trail / bridge approach. There are no restrooms or shops at the overlook itself; use Warming Hut, Fort Point exterior restrooms or Welcome Center area as logistics anchors.",
             "nextMove": "Следуйте по дорожке к павильону Welcome Center у Золотого моста – финальной точке маршрута.",
+            "sourceNote": "Проверено по Presidio Battery East Vista and NPS Fort Point brochure/audio description: present overlook built in 2015; historic brick/earthen batteries date to the 1870s after Fort Point was considered vulnerable to newer weapons; NPS notes some cannon were moved to Battery East in 1870; vista connects to bridge/Coastal Trail and has no restrooms or shops.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "presidio_battery_east Вы поднялись на Battery East – укрепление конца XIX века, построенное, когда технологии сделали Fort Point уязвимым. Сейчас от батареи остались земляные валы и бетонные пороховые погреба, а в 2015 году здесь создали обзорную площадку с амфитеатром. Это место соединяет старую артиллерию и новые тропы: рядом проходят маршруты Golden Gate Promenade и Coastal Trail, а над головой возвышаются башни моста. Панорама залива, моста и Марин‑Хэдлендс заставляет сердце биться чаще."
+                "title": "Батарея после кирпичной крепости",
+                "body": "Подъем от Fort Point к Battery East - это не просто лучший ракурс на мост. Он повторяет военную логику: когда низкая кирпичная крепость стала уязвимой, оборону перенесли выше. Сегодня та же высота работает мирно - как место, где можно увидеть сразу Fort Point below, bridge deck above and the bay defense landscape in between."
               }
             ]
           },
@@ -5393,6 +5470,11 @@
           "coordinates": {
             "latitude": 37.8088,
             "longitude": -122.4752
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Outdoor vista открыт как часть Presidio park space; no restrooms/shops on site.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-7",
@@ -5413,18 +5495,26 @@
           "guideId": "san-francisco-presidio-golden-gate-edge",
           "order": 8,
           "name": "Приветственный центр Золотого моста",
+          "nameLocal": "Golden Gate Bridge Welcome Center",
+          "sourceIds": [
+            "sf_golden_gate_bridge_visiting",
+            "sf_golden_gate_bridge_pedestrians",
+            "sf_golden_gate_bridge_parking_alerts",
+            "sf_golden_gate_bridge_service_alerts"
+          ],
           "note": "Потрогайте кабель моста и почувствуйте его масштаб, прежде чем выйти на пешеходную дорожку.",
           "time": "15 мин",
           "walk": "-",
           "content": {
-            "context": "На последней остановке вы стоите у легенды. Золотой мост, открытый в 1937 году, стал символом Калифорнии благодаря своему смелому дизайну и «интернациональному оранжевому» цвету. В Welcome Center демонстрируются видео и экспонаты, рассказывающие о том, как инженеры растянули 27 572 стальных проволоки в каждом кабеле, как строители боролись с туманом и приливами, и как опора моста была построена поверх арки, чтобы сохранить Fort Point. Снаружи можно сфотографироваться на фоне модели кабеля и оранжевых башен, а затем пройти по пешеходной дорожке, которая открыта от рассвета до сумерек.",
-            "lookFor": "Секция кабеля диаметром 0,9 м, интерактивные панели об истории строительства, сувениры с изображением моста и виды на залив с террасы.",
-            "practical": "Welcome Center открыт ежедневно с 9:00 до 18:00, кроме Дня благодарения и Рождества. Пешеходная дорожка моста открыта от рассвета до заката. Туалеты и парковка находятся рядом. Будьте готовы к сильному ветру и толпам туристов.",
+            "context": "Финал маршрута переводит мост из postcard object в действующую транспортную и инженерную систему. Golden Gate Bridge District calls this the first on-site center dedicated to telling the bridge's stories: orientation, exhibits, merchandise and an original 12-foot stainless-steel test tower from 1933. После Fort Point and Battery East the exhibits land differently: bridge, fort, sidewalk, parking and construction alerts are all one managed landscape.",
+            "lookFor": "Original 12-foot 1933 bridge test tower, exhibits on history/science/engineering, east-side pedestrian sidewalk gates and the view back down to Fort Point.",
+            "practical": "Welcome Center is currently open daily 09:00-18:00. Pedestrians use the east sidewalk only: roughly 05:00-18:30 in PST season and 05:00-21:00 in PDT season, with possible earlier closures during construction or events. Parking is very limited, and official 2026 alerts include weekend/holiday visitor-lot closures from May 25 through Oct 12; check same-day bridge alerts before relying on parking or sidewalk access.",
             "nextMove": "На этом маршрут завершается. Чтобы вернуться в центр города, воспользуйтесь автобусом № 28 от остановки у Welcome Center или вызовите такси.",
+            "sourceNote": "Проверено по Golden Gate Bridge District visiting, bikes/pedestrians, directions/parking and service alerts: Welcome Center daily 09:00-18:00, first on-site bridge story center, includes original 12-foot 1933 test tower; pedestrians use east sidewalk with seasonal 05:00-18:30 PST and 05:00-21:00 PDT hours; 2026 alerts note possible early construction closures and weekend/holiday parking-lot closures 2026-05-25 through 2026-10-12.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "parks_conservancy_bridge На последней остановке вы стоите у легенды. Золотой мост, открытый в 1937 году, стал символом Калифорнии благодаря своему смелому дизайну и «интернациональному оранжевому» цвету. В Welcome Center демонстрируются видео и экспонаты, рассказывающие о том, как инженеры растянули 27 572 стальных проволоки в каждом кабеле, как строители боролись с туманом и приливами, и как опора моста была построена поверх арки, чтобы сохранить Fort Point. Снаружи можно сфотографироваться на фоне модели кабеля и оранжевых башен, а затем пройти по пешеходной дорожке, которая открыта от рассвета до сумерек."
+                "title": "Мост как действующая система",
+                "body": "Golden Gate Bridge на этой прогулке не финальная заставка, а последняя инфраструктура после military post, restored marsh, fort and battery. Welcome Center good because it makes the bridge operational again: hours, sidewalk gates, transit, alerts, wind and engineering all matter. The route ends where the icon becomes a place with rules."
               }
             ]
           },
@@ -5432,6 +5522,11 @@
           "coordinates": {
             "latitude": 37.8076,
             "longitude": -122.474
+          },
+          "hours": {
+            "rules": [],
+            "summary": "Welcome Center daily 09:00-18:00; pedestrian east sidewalk usually 05:00-18:30 PST season and 05:00-21:00 PDT season, subject to construction/event closures.",
+            "checkedAt": "2026-06-26"
           },
           "photo": {
             "id": "san-francisco-presidio-golden-gate-edge-stop-8",
@@ -7464,18 +7559,24 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 1,
       "name": "Посетительский центр Пресидио",
+      "nameLocal": "Presidio Visitor Center",
+      "sourceIds": [
+        "sf_presidio_faq",
+        "sf_presidio_visitor_center"
+      ],
       "note": "Начните с интерактивного знакомства с историей и картой Пресидио.",
       "time": "15 мин",
       "walk": "Выйдите наружу и идите по Montgomery Street мимо ряда краснокирпичных казарм к просторной парадной лужайке.",
       "content": {
-        "context": "Первая остановка – Visitor Center, где вы познакомитесь с четырьмя столетиями Пресидио. Внутри бывшего поста контрольно‑пропускного пункта рассказывают о коренных народах Ramaytush Ohlone, испанских колонистах, мексиканском гарнизоне и американской армии. Мультимедийные стенды и модель парка помогают понять, где вы находитесь и куда идти. Из окна видно свежий ландшафт парка Tunnel Tops, который перекрывает шоссе и соединяет главную часть базы с берегом.",
-        "lookFor": "Интерактивная модель парка, карты походов и железный вентилятор с историческими фотографиями.",
-        "practical": "Центр открыт ежедневно с 10:00 до 17:00. Вход свободный. В туалете есть питьевая вода и сувенирный магазин. Рядом автобусная остановка маршрута 28.",
+        "context": "Начните не с открытки моста, а с передней двери всего Presidio. Visitor Center стоит между Presidio Transit Center и Main Parade Lawn, смотрит на Tunnel Tops и Golden Gate Bridge и помогает собрать маршрут в карту: 3D-модель, интерактивные экраны и зал с четырьмя основными зонами парка объясняют, почему бывшая база теперь читается как национальный парк.",
+        "lookFor": "3D-модель Presidio, цифровые панели с погодой и маршрутами, вид из окон на Tunnel Tops и линию Golden Gate Bridge.",
+        "practical": "Presidio открыт 24/7 и без входной платы; сам Visitor Center открыт ежедневно 10:00-17:00, кроме Thanksgiving, Christmas and New Year's Day. Туалеты находятся рядом в Presidio Transit Center; официальный transit-ориентир - Muni 43 / Presidio Transit Center, а парковка через Lincoln Boulevard платная.",
         "nextMove": "Выйдите наружу и идите по Montgomery Street мимо ряда краснокирпичных казарм к просторной парадной лужайке.",
+        "sourceNote": "Проверено по Presidio FAQ и странице Presidio Visitor Center: парк открыт круглосуточно и бесплатно, Visitor Center открыт 10:00-17:00 daily except major holidays, расположен у Presidio Transit Center и Main Parade Lawn, с 3D-моделью, интерактивными экранами и обзором четырех зон парка.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "presidio_history_overview presidio_history_officers_club Первая остановка – Visitor Center, где вы познакомитесь с четырьмя столетиями Пресидио. Внутри бывшего поста контрольно‑пропускного пункта рассказывают о коренных народах Ramaytush Ohlone, испанских колонистах, мексиканском гарнизоне и американской армии. Мультимедийные стенды и модель парка помогают понять, где вы находитесь и куда идти. Из окна видно свежий ландшафт парка Tunnel Tops, который перекрывает шоссе и соединяет главную часть базы с берегом."
+            "title": "Передняя дверь бывшей базы",
+            "body": "Visitor Center нужен здесь как калибровка масштаба. На одной стороне - Main Parade Lawn и исторический Main Post, на другой - Tunnel Tops и спуск к заливу. Поэтому маршрут начинается с места, где Presidio Trust сам объясняет парк как систему: транспорт, виды, бывшая военная планировка, новые общественные пространства и берег собираются в один читаемый слой."
           }
         ]
       },
@@ -7483,6 +7584,11 @@
       "coordinates": {
         "latitude": 37.7993,
         "longitude": -122.4668
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Presidio открыт 24/7; Visitor Center обычно открыт ежедневно 10:00-17:00, кроме Thanksgiving, Christmas and New Year's Day.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-1",
@@ -7503,18 +7609,25 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 2,
       "name": "Парадная лужайка и казармы на Монтгомери",
+      "nameLocal": "Main Parade Lawn / Montgomery Street Barracks",
+      "sourceIds": [
+        "sf_main_parade_lawn_presidio",
+        "sf_presidio_officers_club",
+        "sf_presidio_current_construction"
+      ],
       "note": "Где когда‑то маршировали солдаты, сегодня устраивают пикники.",
       "time": "15 мин",
       "walk": "От лужайки спуститесь по пешеходным дорожкам к новому парку Tunnel Tops, который находится прямо за дорогой.",
       "content": {
-        "context": "Перед вами – огромная зеленая площадь, известная как Main Parade Lawn. В 1898 году здесь проводили строевые смотры. Позже площадь превратили в парковку, а в 2011 году вернули ей травяное покрытие и снова открыли для прогулок и ярмарок. Красная линия казарм на Монтгомери‑стрит датируется концом XIX века – в них жили войска, а сегодня располагаются офисы и культурные центры. На юго‑западном углу стоит Офицерский клуб, чьи стены подняты еще в 1776 году и считаются старейшими adobe‑строениями города. Лежа на траве, представьте, как здесь проходили парады и салюты, и какие времена пережила эта площадка.",
-        "lookFor": "Ряд симметричных казарм из красного кирпича, фонтаны перед Офицерским клубом, старые пушки, обращенные к заливу.",
-        "practical": "Лужайка открыта круглосуточно. Пикники разрешены, но костры запрещены. Детские программы и фуд‑траки проходят по воскресеньям. При реконструкции Main Post возможны шум и ограждения; следуйте указателям.",
+        "context": "Main Parade Lawn выглядит как спокойная городская поляна, но ее форма выдает бывший плац. В 1898 году здесь был пыльный training ground для солдат из соседних краснокирпичных казарм, в 1937 году место стало парковкой, а в 2011 году большую часть пространства снова превратили в зеленую public lawn. Рядом Officers' Club напоминает, что Presidio существовал задолго до города Сан-Франциско: его первая версия относится к 1776 году.",
+        "lookFor": "Семь акров открытой травы, красную линию Montgomery Street Barracks, Officers' Club на юго-западной стороне и строительные/пешеходные указатели Main Post.",
+        "practical": "Outdoor lawn открыт как часть Presidio. Туалеты - у Presidio Transit Center; небольшие пикники и gatherings до 50 человек обычно не требуют special permit, но organized sports and inflatables здесь не формат. С июля 2026 до Winter 2027 Main Post construction может менять проходы, шум и traffic.",
         "nextMove": "От лужайки спуститесь по пешеходным дорожкам к новому парку Tunnel Tops, который находится прямо за дорогой.",
+        "sourceNote": "Проверено по Presidio Main Parade Lawn, Presidio Officers' Club и текущему construction alert: Main Parade Lawn - seven-acre lawn на бывшем training ground 1898 года, ставшем парковкой в 1937 и зеленым пространством в 2011; Officers' Club впервые established in 1776; Main Post construction заявлен July 2026 through Winter 2027.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "presidio_main_parade_lawn presidio_officers_club Перед вами – огромная зеленая площадь, известная как Main Parade Lawn. В 1898 году здесь проводили строевые смотры. Позже площадь превратили в парковку, а в 2011 году вернули ей травяное покрытие и снова открыли для прогулок и ярмарок. Красная линия казарм на Монтгомери‑стрит датируется концом XIX века – в них жили войска, а сегодня располагаются офисы и культурные центры. На юго‑западном углу стоит Офицерский клуб, чьи стены подняты еще в 1776 году и считаются старейшими adobe‑строениями города. Лежа на траве, представьте, как здесь проходили парады и салюты, и какие времена пережила эта площадка."
+            "title": "Плац после армии",
+            "body": "Здесь хорошо видно, как Presidio меняет функцию, но не стирает планировку. Та же прямоугольная военная геометрия теперь держит picnic blankets, фестивали и прогулки между Visitor Center, Officers' Club и Tunnel Tops. Поэтому точка важна не как «лужайка с видом», а как площадка, где армейская дисциплина буквально стала городской паузой."
           }
         ]
       },
@@ -7522,6 +7635,11 @@
       "coordinates": {
         "latitude": 37.7981,
         "longitude": -122.4589
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Outdoor lawn открыт как часть Presidio 24/7; Officers' Club exhibitions обычно Fri-Sun 11:00-16:00; Main Post construction возможен до Winter 2027.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-2",
@@ -7542,18 +7660,26 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 3,
       "name": "Парк Tunnel Tops",
+      "nameLocal": "Presidio Tunnel Tops / Outpost / Field Station",
+      "sourceIds": [
+        "sf_presidio_tunnel_tops",
+        "sf_outpost_playground",
+        "sf_field_station",
+        "sf_presidio_current_construction"
+      ],
       "note": "Новая зеленая площадка соединяет Пресидио с заливом.",
       "time": "15 мин",
       "walk": "Следуйте по спускающейся тропе вдоль склонов к восстановленным пляжам и болотам Крисси-Филд.",
       "content": {
-        "context": "Вы стоите на крыше автомобильных тоннелей: парк Tunnel Tops открылся в 2022 году и словно стежок сшил две части Пресидио. Дорожки ведут к смотровым площадкам с видом на Золотые ворота, лужайки приглашают к пикникам, а на детской площадке Outpost дети лазают по гигантским брёвнам и осваивают висячие мостики. В Field Station можно потрогать шкуры животных, изучить трепанг и узнать о растениях залива. Этот современный парк напоминает, что даже инженерные сооружения можно превратить в природу.",
-        "lookFor": "Деревянные террасы с панорамой моста, массивные бревна на детской площадке, яркие цветы в обрамлении травяных холмов.",
-        "practical": "Парк открыт круглосуточно. Детская площадка и Field Station работают примерно с 9:30 до 16:00. Туалеты и питьевая вода находятся возле входа. Носите куртку – ветер здесь особенно сильный.",
+        "context": "Tunnel Tops - это не просто новый парк, а физический шов поверх транспортного разреза. Он возвращает Main Post к виду на Crissy Field и залив: лужайки, terraces, Outpost playground и Field Station лежат на переходе от штабного плато к воде. Поэтому здесь лучше смотреть не только на Golden Gate Bridge, но и на саму идею ремонта ландшафта.",
+        "lookFor": "Террасы с видом на мост, Outpost с fallen-tree play structures, Field Station next to the playground и дорожки, которые ведут вниз к Crissy Field.",
+        "practical": "Outdoor Tunnel Tops открыт как часть Presidio и не требует tickets/reservations; Outpost and Field Station have their own hours. Pets are not allowed inside Outpost playground except ADA service animals. Туалеты есть у Presidio Transit Center и рядом с Outpost; construction at Main Post может менять подходы.",
         "nextMove": "Следуйте по спускающейся тропе вдоль склонов к восстановленным пляжам и болотам Крисси-Филд.",
+        "sourceNote": "Проверено по Presidio Tunnel Tops, Outpost Playground, Field Station и Main Post construction notice: outdoor Tunnel Tops открыт как park space, free/no tickets; Outpost работает 09:30-18:00 Apr-Oct и 09:30-17:00 Nov-Mar; Field Station - Wed-Fri 11:00-16:00, Sat-Sun 10:00-17:00; restrooms listed at Transit Center and near Outpost.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "presidio_tunnel_tops Вы стоите на крыше автомобильных тоннелей: парк Tunnel Tops открылся в 2022 году и словно стежок сшил две части Пресидио. Дорожки ведут к смотровым площадкам с видом на Золотые ворота, лужайки приглашают к пикникам, а на детской площадке Outpost дети лазают по гигантским брёвнам и осваивают висячие мостики. В Field Station можно потрогать шкуры животных, изучить трепанг и узнать о растениях залива. Этот современный парк напоминает, что даже инженерные сооружения можно превратить в природу."
+            "title": "Парк как мост поверх дороги",
+            "body": "Главный жест Tunnel Tops - соединение. Раньше движение машин отделяло Main Post от берега; теперь пешеходный ландшафт ведет от Visitor Center вниз к Crissy Field. В маршруте это точка, где военная база перестает быть набором зданий и становится современным парком, построенным вокруг доступа, видов и семейных пространств."
           }
         ]
       },
@@ -7561,6 +7687,11 @@
       "coordinates": {
         "latitude": 37.8008,
         "longitude": -122.466
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Outdoor Tunnel Tops открыт как Presidio park space; Outpost обычно 09:30-18:00 Apr-Oct и 09:30-17:00 Nov-Mar; Field Station Wed-Fri 11:00-16:00, Sat-Sun 10:00-17:00.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-3",
@@ -7581,18 +7712,24 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 4,
       "name": "Пляж и болото Крисси-Филд",
+      "nameLocal": "Crissy Field / Crissy Marsh / East Beach",
+      "sourceIds": [
+        "sf_crissy_field_presidio",
+        "sf_crissy_field_restoration_nps"
+      ],
       "note": "Берег залива, где воздух наполнен солью и криками чаек.",
       "time": "15 мин",
       "walk": "Идите вдоль берега на запад, пока не увидите белое здание Warming Hut на краю Торпедного пирса.",
       "content": {
-        "context": "Мягкие пески и щебет птиц скрывают насыщенную историю. Крисси-Филд был сначала болотом, где жили народы Ohlone, затем поле было засыпано для Выставки Панама‑Тихий океан 1915 года, а впоследствии здесь разместился армейский аэродром. Когда военная база закрылась, консервационный проект (1997–2000) вывез 230 000 кубических метров грунта и восстановил 18‑акровый приливной марш и 40 акров прибрежных лугов. Посажено более 100 000 местных растений, и сегодня это место – оазис для куликов, каякеров и гуляющих.",
-        "lookFor": "Деревянный настил вдоль марша, шатающиеся калифорнийские чайки, ветряные кайт‑серферы и силуэт Золотого моста над водой.",
-        "practical": "Пляж открыт 24/7, вход свободный. Прогулки по настилам подходят для колясок и инвалидных колясок. Ветрено и влажно – возьмите куртку и шапку. Ближайшие туалеты и кафе находятся в Warming Hut.",
+        "context": "Crissy Field выглядит как естественный береговой парк, но это восстановленный ландшафт после военной инфраструктуры и загрязнения. NPS описывает, как cleanup с 1997 года убрал почти 90 000 tons contaminated materials, а restoration 1998-2000 recreated an 18-acre tidal marsh and 16 acres of dune habitat. Под песком и настилами здесь остается более длинная история: estuary, Ohlone seasonal use, Army airfield, а теперь Bay Trail and Golden Gate Promenade.",
+        "lookFor": "Crissy Marsh, wide Golden Gate Promenade, protected west-end shorebird areas, kite/wind patterns over the bay and the bridge framed from the low beach.",
+        "practical": "Outdoor берег открыт как часть Presidio; facilities vary by segment. East Beach parking is free, while West Bluff / Mason areas are paid; Muni 30 and 28 serve nearby areas. Respect wildlife signs, especially near the west end where threatened western snowy plover habitat is noted.",
         "nextMove": "Идите вдоль берега на запад, пока не увидите белое здание Warming Hut на краю Торпедного пирса.",
+        "sourceNote": "Проверено по Presidio Crissy Field и NPS Crissy Field restoration: бывший Army airfield/transportation hub восстановлен как 100-acre recreation landscape; cleanup removed nearly 90,000 tons of contaminated material; 1998-2000 work recreated 18-acre tidal marsh and 16 acres dune habitat, excavated 230,000 cubic yards, and restored tidal flow in November 1999.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "nps_crissy_restoration Мягкие пески и щебет птиц скрывают насыщенную историю. Крисси-Филд был сначала болотом, где жили народы Ohlone, затем поле было засыпано для Выставки Панама‑Тихий океан 1915 года, а впоследствии здесь разместился армейский аэродром. Когда военная база закрылась, консервационный проект (1997–2000) вывез 230 000 кубических метров грунта и восстановил 18‑акровый приливной марш и 40 акров прибрежных лугов. Посажено более 100 000 местных растений, и сегодня это место – оазис для куликов, каякеров и гуляющих."
+            "title": "Берег после бетонного поля",
+            "body": "Crissy Field работает как antidote к идее, что waterfront всегда «природный». Здесь природность заново собрана из engineering, cleanup, community restoration and habitat protection. Поэтому пауза у marsh важна перед Fort Point: маршрут показывает не только старую оборону пролива, но и то, как город возвращает берег людям, птицам и приливу."
           }
         ]
       },
@@ -7600,6 +7737,11 @@
       "coordinates": {
         "latitude": 37.8039,
         "longitude": -122.464
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Outdoor Crissy Field открыт как Presidio park space; restrooms, concessions, parking and recreation tenants have separate hours and rules.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-4",
@@ -7620,18 +7762,24 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 5,
       "name": "Кафе и магазин Warming Hut",
-      "note": "Согрейтесь горячим шоколадом в здании старого армейского склада.",
+      "nameLocal": "Warming Hut Park Store / Torpedo Wharf",
+      "sourceIds": [
+        "sf_warming_hut_presidio",
+        "sf_warming_hut_parks_conservancy"
+      ],
+      "note": "Согрейтесь горячим шоколадом в историческом деревянном здании у променада.",
       "time": "15 мин",
       "walk": "Продолжайте по береговой дорожке в сторону Форта Пойнт; вскоре вы увидите кирпичную крепость под мостом.",
       "content": {
-        "context": "На Торпедном пирсе стоит скромное деревянное здание – бывший армейский склад инженеров начала XX века. В 2001 году его превратили в Warming Hut: здесь подают горячий шоколад, кофе и закуски, продают книги и сувениры, а выручка помогает поддерживать парки. Внутри сохранены балки и запах древесины, а через панорамные окна открываются виды на мост и залив. Этот уютный уголок напоминает, что даже служебные постройки могут стать местом для отдыха и общения.",
-        "lookFor": "Старинные деревянные фермы потолка, фотографии реконструкции, вид на мост из окна и рыбаки на Торпедном пирсе.",
-        "practical": "Магазин открыт: вс‑пн с 9:00 до 18:00, вт–чт 9:00–17:00, пт–сб 9:00–18:00. Здание доступно для инвалидных колясок. Туалеты и питьевая вода находятся внутри. Принимают карты и наличные.",
+        "context": "Warming Hut - маленькая, но очень практичная остановка между Crissy Field and Fort Point. Presidio describes it as a historic wood-frame building with warm drinks, snacks, gifts and park gear; Parks Conservancy adds the service texture: books, prints, toys, apparel, Crissy Mocha, hot chocolate, Equator coffee and cold beverages. В холодном ветре пролива это не просто cafe, а логистический hinge перед крепостью.",
+        "lookFor": "Wood-frame building by the Golden Gate Promenade, Torpedo Wharf next door, bridge views through fog and the paid lot tucked behind the hut.",
+        "practical": "Current posted hours: Sun 09:00-18:00, Mon-Thu 09:00-17:00, Fri-Sat 09:00-18:00. Restrooms are next door, not inside the shop. Large parking lot behind the building is paid; hours and offerings can change, so check before relying on food.",
         "nextMove": "Продолжайте по береговой дорожке в сторону Форта Пойнт; вскоре вы увидите кирпичную крепость под мостом.",
+        "sourceNote": "Проверено по Presidio Warming Hut Park Store и Golden Gate National Parks Conservancy: historic wood-frame building by Golden Gate Promenade with warm drinks/snacks/gifts/gear; Parks Conservancy lists Crissy Mocha, hot chocolate, Equator coffee, snacks, restrooms next door, large paid lot behind, and current daily hours.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "presidio_warming_hut На Торпедном пирсе стоит скромное деревянное здание – бывший армейский склад инженеров начала XX века. В 2001 году его превратили в Warming Hut: здесь подают горячий шоколад, кофе и закуски, продают книги и сувениры, а выручка помогает поддерживать парки. Внутри сохранены балки и запах древесины, а через панорамные окна открываются виды на мост и залив. Этот уютный уголок напоминает, что даже служебные постройки могут стать местом для отдыха и общения."
+            "title": "Теплая пауза на холодном берегу",
+            "body": "Название Warming Hut почти буквально объясняет маршрутную роль места. После открытого Crissy Field и перед ветреным Fort Point здесь можно проверить время, согреться, понять, открыт ли форт, и решить, идти ли к Torpedo Wharf или сразу к кирпичным аркам под мостом. Сервисная точка становится частью драматургии берега."
           }
         ]
       },
@@ -7639,6 +7787,11 @@
       "coordinates": {
         "latitude": 37.8079,
         "longitude": -122.4709
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Current posted hours: Sun 09:00-18:00, Mon-Thu 09:00-17:00, Fri-Sat 09:00-18:00.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-5",
@@ -7659,18 +7812,26 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 6,
       "name": "Форт Пойнт",
+      "nameLocal": "Fort Point National Historic Site",
+      "sourceIds": [
+        "sf_fort_point_history_nps",
+        "sf_fort_point_hours_nps",
+        "sf_fort_point_accessibility_nps",
+        "sf_fort_point_fees_nps"
+      ],
       "note": "Прислушайтесь к эху волн в кирпичных казематах XIX века.",
       "time": "15 мин",
       "walk": "Поднимитесь по тропе Battery East Trail (по лестнице или пандусу) к обзорной площадке Battery East Vista.",
       "content": {
-        "context": "Форт Пойнт построили между 1853 и 1861 годами как часть Третьей системы береговых укреплений США. Его толстые кирпичные стены должны были защитить Золотые Ворота от вражеских кораблей, но пушки так ни разу и не выстрелили в бою. Тем не менее фортификация пережила Гражданскую войну, землетрясение 1906 года и строительство моста: инженер Джозеф Страус разработал арку, которая позволила «оранжевому чуду» подняться над фортом, не разрушая его. Прогуляйтесь по казематам с кирпичными сводами, загляните в командирские комнаты и выйдите на крышу – оттуда открывается уникальный вид на нижнюю часть моста и разбивающиеся волны.",
+        "context": "Fort Point built its drama before the bridge existed. U.S. Army Engineers constructed it in 1853-1861 as part of the Third System of coastal defense, and NPS notes it is the only fortification of that design west of the Mississippi. Its guns never fired in anger, but the building survived changing military technology and bridge construction because Joseph Strauss redesigned the Golden Gate Bridge approach with a special arch over the fort.",
         "lookFor": "Ряды арочных казематов, массивные чугунные пушки, оригинальная винтовая лестница на крышу и арочная опора моста над двором.",
-        "practical": "Форт открыт четверг–понедельник с 10:00 до 17:00, доступ на крышу закрывается в 16:30. Закрыт на День благодарения, Рождество и Новый год. Вход свободный. Ветер сильный, лестницы крутые – наденьте удобную обувь и держите головной убор.",
+        "practical": "Interior hours are Thu-Mon 10:00-17:00; roof access closes 16:30. The exterior area is accessible 7 days, and entry is free/no entrance pass required. First floor access is wheelchair accessible via raised wooden boardwalk; restrooms are outside about 100 yards away. Expect cool, damp, windy weather and check conditions before relying on roof/interior access.",
         "nextMove": "Поднимитесь по тропе Battery East Trail (по лестнице или пандусу) к обзорной площадке Battery East Vista.",
+        "sourceNote": "Проверено по NPS Fort Point history, hours, accessibility and fees: built 1853-1861, Third System, only such fortification west of the Mississippi; guns never fired in anger; Joseph Strauss bridge arch preserved the fort; National Historic Site established 1970; current interior hours Thu-Mon 10:00-17:00, roof closes 16:30, exterior accessible 7 days, free entry.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "nps_fort_point nps_fort_point_preservation Форт Пойнт построили между 1853 и 1861 годами как часть Третьей системы береговых укреплений США. Его толстые кирпичные стены должны были защитить Золотые Ворота от вражеских кораблей, но пушки так ни разу и не выстрелили в бою. Тем не менее фортификация пережила Гражданскую войну, землетрясение 1906 года и строительство моста: инженер Джозеф Страус разработал арку, которая позволила «оранжевому чуду» подняться над фортом, не разрушая его. Прогуляйтесь по казематам с кирпичными сводами, загляните в командирские комнаты и выйдите на крышу – оттуда открывается уникальный вид на нижнюю часть моста и разбивающиеся волны."
+            "title": "Крепость, которую мост не снес",
+            "body": "Fort Point делает Golden Gate Bridge менее абстрактным. Снизу видно, что мост не просто «перекинулся через пролив»: он должен был договориться с уже существующей военной архитектурой. Если интерьер закрыт, exterior stop still works: кирпич, волны и стальная арка показывают тот же конфликт старой обороны и новой инфраструктуры."
           }
         ]
       },
@@ -7678,6 +7839,11 @@
       "coordinates": {
         "latitude": 37.8106,
         "longitude": -122.4773
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Interior Thu-Mon 10:00-17:00; roof closes 16:30; exterior accessible 7 days; closed Thanksgiving, Christmas and New Year's Day.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-6",
@@ -7698,18 +7864,24 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 7,
       "name": "Батарея Ист‑Виста",
+      "nameLocal": "Battery East Vista",
+      "sourceIds": [
+        "sf_battery_east_vista_presidio",
+        "sf_fort_point_brochure_nps"
+      ],
       "note": "Здесь открывается один из лучших видов на мост, а земля хранит следы старых батарей.",
       "time": "15 мин",
       "walk": "Следуйте по дорожке к павильону Welcome Center у Золотого моста – финальной точке маршрута.",
       "content": {
-        "context": "Вы поднялись на Battery East – укрепление конца XIX века, построенное, когда технологии сделали Fort Point уязвимым. Сейчас от батареи остались земляные валы и бетонные пороховые погреба, а в 2015 году здесь создали обзорную площадку с амфитеатром. Это место соединяет старую артиллерию и новые тропы: рядом проходят маршруты Golden Gate Promenade и Coastal Trail, а над головой возвышаются башни моста. Панорама залива, моста и Марин‑Хэдлендс заставляет сердце биться чаще.",
-        "lookFor": "Заросшие травой валы батареи, амфитеатр с деревянными лавками, металлическая модель моста и дикие цветы вдоль тропы.",
-        "practical": "Площадка открыта круглосуточно и бесплатно. Здесь нет туалетов и магазинов. Держитесь подальше от обрывов и закрытых военных строений. Ветер сильный – возьмите куртку.",
+        "context": "Battery East explains why Fort Point became vulnerable. Presidio dates the historic brick and earthen batteries to the 1870s, after the Civil War changed assumptions about coastal artillery; NPS notes that by 1870 some Fort Point cannon were moved up to Battery East. The current overlook, built in 2015, turns that military high ground into an amphitheater-like viewpoint toward the bridge, bay and Marin Headlands.",
+        "lookFor": "Amphitheater-like seating, traces of earthen battery geometry, the trail link to Golden Gate Bridge Welcome Center and the change in perspective from fort-below to bridge-level.",
+        "practical": "Vista is an outdoor stop with paid parking off Lincoln Boulevard and connection to the California Coastal Trail / bridge approach. There are no restrooms or shops at the overlook itself; use Warming Hut, Fort Point exterior restrooms or Welcome Center area as logistics anchors.",
         "nextMove": "Следуйте по дорожке к павильону Welcome Center у Золотого моста – финальной точке маршрута.",
+        "sourceNote": "Проверено по Presidio Battery East Vista and NPS Fort Point brochure/audio description: present overlook built in 2015; historic brick/earthen batteries date to the 1870s after Fort Point was considered vulnerable to newer weapons; NPS notes some cannon were moved to Battery East in 1870; vista connects to bridge/Coastal Trail and has no restrooms or shops.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "presidio_battery_east Вы поднялись на Battery East – укрепление конца XIX века, построенное, когда технологии сделали Fort Point уязвимым. Сейчас от батареи остались земляные валы и бетонные пороховые погреба, а в 2015 году здесь создали обзорную площадку с амфитеатром. Это место соединяет старую артиллерию и новые тропы: рядом проходят маршруты Golden Gate Promenade и Coastal Trail, а над головой возвышаются башни моста. Панорама залива, моста и Марин‑Хэдлендс заставляет сердце биться чаще."
+            "title": "Батарея после кирпичной крепости",
+            "body": "Подъем от Fort Point к Battery East - это не просто лучший ракурс на мост. Он повторяет военную логику: когда низкая кирпичная крепость стала уязвимой, оборону перенесли выше. Сегодня та же высота работает мирно - как место, где можно увидеть сразу Fort Point below, bridge deck above and the bay defense landscape in between."
           }
         ]
       },
@@ -7717,6 +7889,11 @@
       "coordinates": {
         "latitude": 37.8088,
         "longitude": -122.4752
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Outdoor vista открыт как часть Presidio park space; no restrooms/shops on site.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-7",
@@ -7737,18 +7914,26 @@
       "guideId": "san-francisco-presidio-golden-gate-edge",
       "order": 8,
       "name": "Приветственный центр Золотого моста",
+      "nameLocal": "Golden Gate Bridge Welcome Center",
+      "sourceIds": [
+        "sf_golden_gate_bridge_visiting",
+        "sf_golden_gate_bridge_pedestrians",
+        "sf_golden_gate_bridge_parking_alerts",
+        "sf_golden_gate_bridge_service_alerts"
+      ],
       "note": "Потрогайте кабель моста и почувствуйте его масштаб, прежде чем выйти на пешеходную дорожку.",
       "time": "15 мин",
       "walk": "-",
       "content": {
-        "context": "На последней остановке вы стоите у легенды. Золотой мост, открытый в 1937 году, стал символом Калифорнии благодаря своему смелому дизайну и «интернациональному оранжевому» цвету. В Welcome Center демонстрируются видео и экспонаты, рассказывающие о том, как инженеры растянули 27 572 стальных проволоки в каждом кабеле, как строители боролись с туманом и приливами, и как опора моста была построена поверх арки, чтобы сохранить Fort Point. Снаружи можно сфотографироваться на фоне модели кабеля и оранжевых башен, а затем пройти по пешеходной дорожке, которая открыта от рассвета до сумерек.",
-        "lookFor": "Секция кабеля диаметром 0,9 м, интерактивные панели об истории строительства, сувениры с изображением моста и виды на залив с террасы.",
-        "practical": "Welcome Center открыт ежедневно с 9:00 до 18:00, кроме Дня благодарения и Рождества. Пешеходная дорожка моста открыта от рассвета до заката. Туалеты и парковка находятся рядом. Будьте готовы к сильному ветру и толпам туристов.",
+        "context": "Финал маршрута переводит мост из postcard object в действующую транспортную и инженерную систему. Golden Gate Bridge District calls this the first on-site center dedicated to telling the bridge's stories: orientation, exhibits, merchandise and an original 12-foot stainless-steel test tower from 1933. После Fort Point and Battery East the exhibits land differently: bridge, fort, sidewalk, parking and construction alerts are all one managed landscape.",
+        "lookFor": "Original 12-foot 1933 bridge test tower, exhibits on history/science/engineering, east-side pedestrian sidewalk gates and the view back down to Fort Point.",
+        "practical": "Welcome Center is currently open daily 09:00-18:00. Pedestrians use the east sidewalk only: roughly 05:00-18:30 in PST season and 05:00-21:00 in PDT season, with possible earlier closures during construction or events. Parking is very limited, and official 2026 alerts include weekend/holiday visitor-lot closures from May 25 through Oct 12; check same-day bridge alerts before relying on parking or sidewalk access.",
         "nextMove": "На этом маршрут завершается. Чтобы вернуться в центр города, воспользуйтесь автобусом № 28 от остановки у Welcome Center или вызовите такси.",
+        "sourceNote": "Проверено по Golden Gate Bridge District visiting, bikes/pedestrians, directions/parking and service alerts: Welcome Center daily 09:00-18:00, first on-site bridge story center, includes original 12-foot 1933 test tower; pedestrians use east sidewalk with seasonal 05:00-18:30 PST and 05:00-21:00 PDT hours; 2026 alerts note possible early construction closures and weekend/holiday parking-lot closures 2026-05-25 through 2026-10-12.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "parks_conservancy_bridge На последней остановке вы стоите у легенды. Золотой мост, открытый в 1937 году, стал символом Калифорнии благодаря своему смелому дизайну и «интернациональному оранжевому» цвету. В Welcome Center демонстрируются видео и экспонаты, рассказывающие о том, как инженеры растянули 27 572 стальных проволоки в каждом кабеле, как строители боролись с туманом и приливами, и как опора моста была построена поверх арки, чтобы сохранить Fort Point. Снаружи можно сфотографироваться на фоне модели кабеля и оранжевых башен, а затем пройти по пешеходной дорожке, которая открыта от рассвета до сумерек."
+            "title": "Мост как действующая система",
+            "body": "Golden Gate Bridge на этой прогулке не финальная заставка, а последняя инфраструктура после military post, restored marsh, fort and battery. Welcome Center good because it makes the bridge operational again: hours, sidewalk gates, transit, alerts, wind and engineering all matter. The route ends where the icon becomes a place with rules."
           }
         ]
       },
@@ -7756,6 +7941,11 @@
       "coordinates": {
         "latitude": 37.8076,
         "longitude": -122.474
+      },
+      "hours": {
+        "rules": [],
+        "summary": "Welcome Center daily 09:00-18:00; pedestrian east sidewalk usually 05:00-18:30 PST season and 05:00-21:00 PDT season, subject to construction/event closures.",
+        "checkedAt": "2026-06-26"
       },
       "photo": {
         "id": "san-francisco-presidio-golden-gate-edge-stop-8",
@@ -8178,5 +8368,5 @@
       }
     }
   ],
-  "packHash": "6a2a40eaf599"
+  "packHash": "f6184781125d"
 }
