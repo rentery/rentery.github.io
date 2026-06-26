@@ -1,7 +1,7 @@
 {
   "cities": {
     "beijing": {
-      "packHash": "347d9abd1268",
+      "packHash": "fb4f4a2a7e1d",
       "packPath": "cities/beijing/offline-pack.json"
     },
     "seoul": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T21:07:52.868Z",
+  "generatedAt": "2026-06-26T21:25:48.858Z",
   "locale": "ru",
   "schemaVersion": 1
 }

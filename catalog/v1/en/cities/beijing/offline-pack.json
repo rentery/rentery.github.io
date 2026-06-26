@@ -4146,604 +4146,84 @@
       "routePath": {
         "coordinates": [
           [
+            116.410513,
+            39.881906
+          ],
+          [
             116.410259,
             39.881898
-          ],
-          [
-            116.410259,
-            39.881896
-          ],
-          [
-            116.41021,
-            39.881894
           ],
           [
             116.40999,
             39.881888
           ],
           [
-            116.409986,
-            39.881937
-          ],
-          [
             116.409209,
             39.881909
-          ],
-          [
-            116.409039,
-            39.881903
           ],
           [
             116.4088,
             39.881894
           ],
           [
-            116.4088,
-            39.881894
+            116.4081,
+            39.88205
           ],
           [
-            116.409039,
-            39.881903
+            116.40745,
+            39.88212
           ],
           [
-            116.409209,
-            39.881909
+            116.406765,
+            39.881572
           ],
           [
-            116.409178,
-            39.882416
+            116.40665,
+            39.8811
           ],
           [
-            116.409175,
-            39.882459
+            116.40662,
+            39.8805
           ],
           [
-            116.408265,
-            39.882432
+            116.40672,
+            39.8796
           ],
           [
-            116.408266,
-            39.882413
+            116.40685,
+            39.8785
           ],
           [
-            116.408214,
-            39.882412
+            116.406983,
+            39.877433
           ],
           [
-            116.407806,
-            39.882402
+            116.4069,
+            39.8765
           ],
           [
-            116.407774,
-            39.882511
+            116.4057,
+            39.87655
           ],
           [
-            116.407711,
-            39.882692
+            116.4046,
+            39.87665
           ],
           [
-            116.407578,
-            39.882868
+            116.4039,
+            39.8774
           ],
           [
-            116.407263,
-            39.883046
+            116.4029,
+            39.8784
           ],
           [
-            116.406738,
-            39.883194
+            116.4016,
+            39.87836
           ],
           [
-            116.406551,
-            39.88324
-          ],
-          [
-            116.40654,
-            39.883453
-          ],
-          [
-            116.405665,
-            39.883436
-          ],
-          [
-            116.404143,
-            39.883405
-          ],
-          [
-            116.404175,
-            39.881862
-          ],
-          [
-            116.404027,
-            39.881857
-          ],
-          [
-            116.404046,
-            39.880913
-          ],
-          [
-            116.405157,
-            39.880945
-          ],
-          [
-            116.405319,
-            39.880949
-          ],
-          [
-            116.405381,
-            39.880951
-          ],
-          [
-            116.405655,
-            39.880959
-          ],
-          [
-            116.406144,
-            39.880973
-          ],
-          [
-            116.406539,
-            39.880991
-          ],
-          [
-            116.406539,
-            39.880991
-          ],
-          [
-            116.406144,
-            39.880973
-          ],
-          [
-            116.405655,
-            39.880959
-          ],
-          [
-            116.405381,
-            39.880951
-          ],
-          [
-            116.405319,
-            39.880949
-          ],
-          [
-            116.405157,
-            39.880945
-          ],
-          [
-            116.405008,
-            39.880941
-          ],
-          [
-            116.405008,
-            39.880941
-          ],
-          [
-            116.404046,
-            39.880913
-          ],
-          [
-            116.403695,
-            39.880903
-          ],
-          [
-            116.403712,
-            39.88058
-          ],
-          [
-            116.403556,
-            39.880577
-          ],
-          [
-            116.40356,
-            39.880481
-          ],
-          [
-            116.403446,
-            39.880397
-          ],
-          [
-            116.403347,
-            39.880394
-          ],
-          [
-            116.403352,
-            39.880303
-          ],
-          [
-            116.40337,
-            39.879991
-          ],
-          [
-            116.402741,
-            39.879975
-          ],
-          [
-            116.402747,
-            39.879884
-          ],
-          [
-            116.402752,
-            39.87981
-          ],
-          [
-            116.402843,
-            39.878408
-          ],
-          [
-            116.402903,
-            39.877484
-          ],
-          [
-            116.40292,
-            39.877229
-          ],
-          [
-            116.402935,
-            39.876995
-          ],
-          [
-            116.402944,
-            39.876855
-          ],
-          [
-            116.402946,
-            39.876834
-          ],
-          [
-            116.402947,
-            39.876794
-          ],
-          [
-            116.402962,
-            39.876544
-          ],
-          [
-            116.402964,
-            39.87651
-          ],
-          [
-            116.403018,
-            39.875563
-          ],
-          [
-            116.403023,
-            39.875471
-          ],
-          [
-            116.403088,
-            39.87434
-          ],
-          [
-            116.403109,
-            39.873991
-          ],
-          [
-            116.403515,
-            39.873998
-          ],
-          [
-            116.405747,
-            39.874046
-          ],
-          [
-            116.405705,
-            39.874745
-          ],
-          [
-            116.406005,
-            39.87475
-          ],
-          [
-            116.406876,
-            39.874765
-          ],
-          [
-            116.407029,
-            39.874771
-          ],
-          [
-            116.407206,
-            39.874777
-          ],
-          [
-            116.407715,
-            39.874793
-          ],
-          [
-            116.408028,
-            39.874803
-          ],
-          [
-            116.408082,
-            39.874805
-          ],
-          [
-            116.40804,
-            39.875601
-          ],
-          [
-            116.407962,
-            39.876561
-          ],
-          [
-            116.407193,
-            39.876533
-          ],
-          [
-            116.407183,
-            39.876645
-          ],
-          [
-            116.407273,
-            39.876742
-          ],
-          [
-            116.407334,
-            39.876835
-          ],
-          [
-            116.407366,
-            39.876972
-          ],
-          [
-            116.40735,
-            39.877071
-          ],
-          [
-            116.407274,
-            39.877197
-          ],
-          [
-            116.407203,
-            39.877265
-          ],
-          [
-            116.407123,
-            39.8773
-          ],
-          [
-            116.407046,
-            39.877312
-          ],
-          [
-            116.407046,
-            39.877312
-          ],
-          [
-            116.407123,
-            39.8773
-          ],
-          [
-            116.407203,
-            39.877265
-          ],
-          [
-            116.407274,
-            39.877197
-          ],
-          [
-            116.40735,
-            39.877071
-          ],
-          [
-            116.407366,
-            39.876972
-          ],
-          [
-            116.407334,
-            39.876835
-          ],
-          [
-            116.407273,
-            39.876742
-          ],
-          [
-            116.407183,
-            39.876645
-          ],
-          [
-            116.407193,
-            39.876533
-          ],
-          [
-            116.407962,
-            39.876561
-          ],
-          [
-            116.40804,
-            39.875601
-          ],
-          [
-            116.408082,
-            39.874805
-          ],
-          [
-            116.408028,
-            39.874803
-          ],
-          [
-            116.407715,
-            39.874793
-          ],
-          [
-            116.407206,
-            39.874777
-          ],
-          [
-            116.407029,
-            39.874771
-          ],
-          [
-            116.406876,
-            39.874765
-          ],
-          [
-            116.406005,
-            39.87475
-          ],
-          [
-            116.405705,
-            39.874745
-          ],
-          [
-            116.405747,
-            39.874046
-          ],
-          [
-            116.403515,
-            39.873998
-          ],
-          [
-            116.403109,
-            39.873991
-          ],
-          [
-            116.403088,
-            39.87434
-          ],
-          [
-            116.403023,
-            39.875471
-          ],
-          [
-            116.403018,
-            39.875563
-          ],
-          [
-            116.402964,
-            39.87651
-          ],
-          [
-            116.405074,
-            39.876575
-          ],
-          [
-            116.405777,
-            39.876596
-          ],
-          [
-            116.40578,
-            39.876505
-          ],
-          [
-            116.406642,
-            39.876528
-          ],
-          [
-            116.406692,
-            39.876529
-          ],
-          [
-            116.406722,
-            39.876529
-          ],
-          [
-            116.406722,
-            39.876529
-          ],
-          [
-            116.406692,
-            39.876529
-          ],
-          [
-            116.406642,
-            39.876528
-          ],
-          [
-            116.40664,
-            39.876633
-          ],
-          [
-            116.406526,
-            39.876722
-          ],
-          [
-            116.406436,
-            39.876816
-          ],
-          [
-            116.405742,
-            39.876793
-          ],
-          [
-            116.405712,
-            39.876925
-          ],
-          [
-            116.405709,
-            39.876935
-          ],
-          [
-            116.405627,
-            39.877171
-          ],
-          [
-            116.405492,
-            39.877232
-          ],
-          [
-            116.405357,
-            39.877693
-          ],
-          [
-            116.40491,
-            39.877685
-          ],
-          [
-            116.403841,
-            39.878449
-          ],
-          [
-            116.402843,
-            39.878408
-          ],
-          [
-            116.401906,
-            39.878369
-          ],
-          [
-            116.401846,
-            39.878367
-          ],
-          [
-            116.401703,
-            39.878362
-          ],
-          [
-            116.401603,
-            39.878359
-          ],
-          [
-            116.401437,
-            39.878353
-          ],
-          [
-            116.401411,
-            39.878747
-          ],
-          [
-            116.401274,
-            39.878741
-          ],
-          [
-            116.401263,
-            39.878985
-          ],
-          [
-            116.400798,
+            116.4008,
             39.878966
-          ],
-          [
-            116.400792,
-            39.879022
-          ],
-          [
-            116.400787,
-            39.879107
-          ],
-          [
-            116.400779,
-            39.879241
           ],
           [
             116.400777,
@@ -4754,683 +4234,160 @@
             39.879232
           ],
           [
-            116.39939,
-            39.879639
-          ],
-          [
-            116.399519,
-            39.87968
-          ],
-          [
-            116.399518,
-            39.879723
-          ],
-          [
-            116.399381,
-            39.87972
-          ],
-          [
-            116.39926,
-            39.879716
-          ],
-          [
             116.399177,
             39.879718
-          ],
-          [
-            116.399173,
-            39.879777
-          ],
-          [
-            116.399169,
-            39.879836
-          ],
-          [
-            116.399166,
-            39.87989
-          ],
-          [
-            116.399091,
-            39.881059
-          ],
-          [
-            116.399151,
-            39.881223
-          ],
-          [
-            116.39921,
-            39.88163
-          ],
-          [
-            116.39925,
-            39.881751
-          ],
-          [
-            116.399317,
-            39.882032
-          ],
-          [
-            116.399404,
-            39.882292
           ],
           [
             116.399357,
             39.882665
           ],
           [
-            116.398933,
-            39.882648
-          ],
-          [
             116.398683,
             39.882475
           ],
           [
-            116.398614,
-            39.882326
-          ],
-          [
-            116.398243,
-            39.882081
-          ],
-          [
-            116.397961,
-            39.881989
-          ],
-          [
-            116.397868,
-            39.881935
+            116.398,
+            39.8818
           ]
         ],
-        "maneuvers": [
+        "segments": [
           {
-            "location": [
-              116.410259,
-              39.881898
+            "kind": "connector",
+            "coordinates": [
+              [
+                116.410513,
+                39.881906
+              ],
+              [
+                116.4088,
+                39.881894
+              ],
+              [
+                116.406765,
+                39.881572
+              ]
             ],
-            "instruction": "Walk west on the walkway.",
-            "distanceM": 129,
-            "type": ""
+            "reason": "manual_park_walk_east_gate_long_corridor_to_hall",
+            "fromStopId": "beijing-temple-of-heaven-ritual-axis-1",
+            "toStopId": "beijing-temple-of-heaven-ritual-axis-3"
           },
           {
-            "location": [
-              116.4088,
-              39.881894
+            "kind": "connector",
+            "coordinates": [
+              [
+                116.406765,
+                39.881572
+              ],
+              [
+                116.40672,
+                39.8796
+              ],
+              [
+                116.406983,
+                39.877433
+              ],
+              [
+                116.4069,
+                39.8765
+              ]
             ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
-            "type": ""
+            "reason": "manual_park_walk_ritual_axis_hall_to_circular_mound",
+            "fromStopId": "beijing-temple-of-heaven-ritual-axis-3",
+            "toStopId": "beijing-temple-of-heaven-ritual-axis-6"
           },
           {
-            "location": [
-              116.4088,
-              39.881894
+            "kind": "connector",
+            "coordinates": [
+              [
+                116.4069,
+                39.8765
+              ],
+              [
+                116.4039,
+                39.8774
+              ],
+              [
+                116.4008,
+                39.878966
+              ],
+              [
+                116.398,
+                39.8818
+              ]
             ],
-            "instruction": "Walk east on the walkway.",
-            "distanceM": 35,
-            "type": ""
-          },
-          {
-            "location": [
-              116.409209,
-              39.881909
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 62,
-            "type": ""
-          },
-          {
-            "location": [
-              116.409175,
-              39.882459
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 119,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407806,
-              39.882402
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 154,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406551,
-              39.88324
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 24,
-            "type": ""
-          },
-          {
-            "location": [
-              116.40654,
-              39.883453
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 205,
-            "type": ""
-          },
-          {
-            "location": [
-              116.404143,
-              39.883405
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 172,
-            "type": ""
-          },
-          {
-            "location": [
-              116.404175,
-              39.881862
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 13,
-            "type": ""
-          },
-          {
-            "location": [
-              116.404027,
-              39.881857
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 105,
-            "type": ""
-          },
-          {
-            "location": [
-              116.404046,
-              39.880913
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 179,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406144,
-              39.880973
-            ],
-            "instruction": "Take the stairs.",
-            "distanceM": 34,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406539,
-              39.880991
-            ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406539,
-              39.880991
-            ],
-            "instruction": "Take the stairs.",
-            "distanceM": 34,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406144,
-              39.880973
-            ],
-            "instruction": "Continue on the walkway.",
-            "distanceM": 96,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405008,
-              39.880941
-            ],
-            "instruction": "Your destination is on the right.",
-            "distanceM": 0,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405008,
-              39.880941
-            ],
-            "instruction": "Walk west on the walkway.",
-            "distanceM": 112,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403695,
-              39.880903
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 36,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403712,
-              39.88058
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 13,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403556,
-              39.880577
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 33,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403347,
-              39.880394
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 45,
-            "type": ""
-          },
-          {
-            "location": [
-              116.40337,
-              39.879991
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 54,
-            "type": ""
-          },
-          {
-            "location": [
-              116.402741,
-              39.879975
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 666,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403109,
-              39.873991
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 225,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405747,
-              39.874046
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 78,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405705,
-              39.874745
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 203,
-            "type": ""
-          },
-          {
-            "location": [
-              116.408082,
-              39.874805
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 196,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407962,
-              39.876561
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 65,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407193,
-              39.876533
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 104,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407046,
-              39.877312
-            ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407046,
-              39.877312
-            ],
-            "instruction": "Walk east on the walkway.",
-            "distanceM": 104,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407193,
-              39.876533
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 65,
-            "type": ""
-          },
-          {
-            "location": [
-              116.407962,
-              39.876561
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 196,
-            "type": ""
-          },
-          {
-            "location": [
-              116.408082,
-              39.874805
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 203,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405705,
-              39.874745
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 78,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405747,
-              39.874046
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 225,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403109,
-              39.873991
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 281,
-            "type": ""
-          },
-          {
-            "location": [
-              116.402964,
-              39.87651
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 241,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405777,
-              39.876596
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 10,
-            "type": ""
-          },
-          {
-            "location": [
-              116.40578,
-              39.876505
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 81,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406722,
-              39.876529
-            ],
-            "instruction": "You have arrived at your destination.",
-            "distanceM": 0,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406722,
-              39.876529
-            ],
-            "instruction": "Walk west on the walkway.",
-            "distanceM": 7,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406642,
-              39.876528
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 39,
-            "type": ""
-          },
-          {
-            "location": [
-              116.406436,
-              39.876816
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 59,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405742,
-              39.876793
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 56,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405492,
-              39.877232
-            ],
-            "instruction": "Turn right.",
-            "distanceM": 53,
-            "type": ""
-          },
-          {
-            "location": [
-              116.405357,
-              39.877693
-            ],
-            "instruction": "Turn left.",
-            "distanceM": 163,
-            "type": ""
-          },
-          {
-            "location": [
-              116.403841,
-              39.878449
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 205,
-            "type": ""
-          },
-          {
-            "location": [
-              116.401437,
-              39.878353
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 56,
-            "type": ""
-          },
-          {
-            "location": [
-              116.401274,
-              39.878741
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 67,
-            "type": ""
-          },
-          {
-            "location": [
-              116.400798,
-              39.878966
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 34,
-            "type": ""
-          },
-          {
-            "location": [
-              116.400777,
-              39.879272
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 117,
-            "type": ""
-          },
-          {
-            "location": [
-              116.399407,
-              39.879232
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 62,
-            "type": ""
-          },
-          {
-            "location": [
-              116.399518,
-              39.879723
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 29,
-            "type": ""
-          },
-          {
-            "location": [
-              116.399177,
-              39.879718
-            ],
-            "instruction": "Turn right onto the walkway.",
-            "distanceM": 332,
-            "type": ""
-          },
-          {
-            "location": [
-              116.399357,
-              39.882665
-            ],
-            "instruction": "Turn left onto the walkway.",
-            "distanceM": 65,
-            "type": ""
-          },
-          {
-            "location": [
-              116.398683,
-              39.882475
-            ],
-            "instruction": "Keep left to take the walkway.",
-            "distanceM": 95,
-            "type": ""
-          },
-          {
-            "location": [
-              116.397868,
-              39.881935
-            ],
-            "instruction": "Your destination is on the left.",
-            "distanceM": 0,
-            "type": ""
+            "reason": "manual_park_walk_circular_mound_to_fasting_palace",
+            "fromStopId": "beijing-temple-of-heaven-ritual-axis-6",
+            "toStopId": "beijing-temple-of-heaven-ritual-axis-7"
           }
         ],
         "source": {
-          "engine": "geoapify",
+          "engine": "manual-park-walk",
           "profile": "walk",
-          "generatedAt": "2026-06-23T17:36:54.937Z"
+          "generatedAt": "2026-06-26T21:15:07.092Z"
         }
       },
       "cityId": "beijing",
       "category": "Район",
       "title": "Тяньтань: геометрия неба и утренний парк",
-      "subtitle": "This walk traces the ritual axis of Beijing’s Temple of Heaven, an imperial site where emperors once communicated with Heaven. Moving from a lively park entrance through painted corridors, palatial halls, a raised bridge and a whispering wall to a cosmic marble altar, you’ll experience the harmony of architecture, cosmology and everyday life. The journey ends in a secluded fasting palace where emperors purified themselves before their celestial rites.",
-      "blurb": "This walk traces the ritual axis of Beijing’s Temple of Heaven, an imperial site where emperors once communicated with Heaven. Moving from a lively park entrance through painted corridors, palatial halls, a raised bridge and a whispering wall to a cosmic marble altar, you’ll experience the harmony of architecture, cosmology and everyday life. The journey ends in a secluded fasting palace where emperors purified themselves before their celestial rites.",
-      "mood": "architecture\nhistory\nculture",
+      "subtitle": "Маршрут по Храму Неба соединяет утреннюю жизнь парка, длинную галерею, Зал молитв за хороший урожай, мост Даньби, Стену эха, Круглый алтарь и Дворец воздержания. Это прогулка о том, как геометрия круга и квадрата превращала императора в посредника между землёй и небом.",
+      "blurb": "Маршрут по Храму Неба соединяет утреннюю жизнь парка, длинную галерею, Зал молитв за хороший урожай, мост Даньби, Стену эха, Круглый алтарь и Дворец воздержания. Это прогулка о том, как геометрия круга и квадрата превращала императора в посредника между землёй и небом.",
+      "mood": "Парк, ритуальная ось и архитектура космоса",
       "accent": "#8F352B",
       "soft": "#F1E1DC",
       "deep": "#6F2A22",
       "ink": "#5D251F",
       "motif": "lane",
-      "duration": "≈2 часа",
+      "duration": "2–3 часа",
       "stops": 7,
-      "distance": "About 2 kilometres",
+      "distance": "2,3 км",
       "pace": "half",
       "kids": false,
       "microcopy": {
         "kicker": "Маршрут",
-        "line": "This walk traces the ritual axis of Beijing’s Temple of Heaven, an imperial site where emperors once communicated with Heaven. Moving from a lively park entrance through painted corridors, palatial halls, a raised bridge and a whispering wall to a cosmic marble altar, you’ll experience the harmony of architecture, cosmology and everyday life. The journey ends in a secluded fasting palace where emperors purified themselves before their celestial rites."
+        "line": "От Восточных ворот и утреннего парка к синей крыше Зала молитв, Стене эха, Круглому алтарю и тихому Чжайгуну."
       },
       "content": {
-        "intro": "This walk traces the ritual axis of Beijing’s Temple of Heaven, an imperial site where emperors once communicated with Heaven. Moving from a lively park entrance through painted corridors, palatial halls, a raised bridge and a whispering wall to a cosmic marble altar, you’ll experience the harmony of architecture, cosmology and everyday life. The journey ends in a secluded fasting palace where emperors purified themselves before their celestial rites.",
-        "routeLogic": "This walk traces the ritual axis of Beijing’s Temple of Heaven, an imperial site where emperors once communicated with Heaven. Moving from a lively park entrance through painted corridors, palatial halls, a raised bridge and a whispering wall to a cosmic marble altar, you’ll experience the harmony of architecture, cosmology and everyday life. The journey ends in a secluded fasting palace where emperors purified themselves before their celestial rites.",
+        "intro": "Тяньтань лучше начинать не с главной открытки, а с живого парка у Восточных ворот: так ритуальная ось не висит в пустоте, а вырастает из сегодняшнего Пекина. За галереей и залом молитв маршрут выходит на Даньби, затем к Императорскому небесному своду, Стене эха, Круглому алтарю и западному Дворцу воздержания.",
+        "routeLogic": "Маршрут держится внутри парка и идёт примерно 2,3 км: сначала западнее от East Gate к Long Corridor и Hall of Prayer for Good Harvests, затем южнее по ритуальной оси к Imperial Vault / Echo Wall и Circular Mound Altar, после чего уходит к Fasting Palace. Старый Geoapify path был раздут петлями, поэтому здесь сохранена ручная парковая линия без ложных обходов.",
         "bestFor": "Для тех, кто хочет пройти ритуальную ось Храма Неба: парк, галерею, главный зал, Стену эха, алтарь и Дворец воздержания.",
         "notFor": "Не лучший выбор для короткой прогулки без билетов: основные залы закрываются раньше парка, а часть маршрута проходит по открытым каменным площадкам.",
-        "beforeYouGo": "Take Beijing Subway line 5 to Tiantan Dongmen (East Gate) station (Exit A). The East Gate of the Temple of Heaven Park is about 100 metres west of the station. Numerous buses also stop at Tiantan Dongmen.\nThe park is open daily from 6:00 to 22:00 (April–October) or 6:30 to 22:00 (November–March). Main scenic areas, including the Hall of Prayer for Good Harvests, Echo Wall, Circular Mound Altar and Fasting Palace, open 8:00 to 18:00 (April–October) or 8:00 to 17:00 (November–March) with last entry 30 minutes before closing. These buildings are closed on Mondays except public holidays. Park admission costs CNY 15 in peak season or CNY 10 off‑season; a through ticket covering all main sites costs CNY 34 (April–October) or CNY 28 (November–March). Foreign visitors can purchase tickets via WeChat.\nArrive early to watch locals practising tai chi and singing in the park. Wear comfortable shoes and carry water; the route is mostly outdoors with uneven stone terraces. To avoid crowds, visit on weekdays and check weather forecasts. Some halls require an additional through ticket and may close during conservation work.",
-        "timing": "Лучше раннее утро или поздний день: утром видна парковая жизнь, а к закрытию основных зон нужно оставить запас не меньше 30 минут."
+        "beforeYouGo": "Ближайшее метро — Tiantan Dongmen, линия 5, выход A. Парк открыт 06:00–22:00 в высокий сезон и 06:30–22:00 в низкий сезон, последний вход в 21:00. Платные центральные зоны обычно открыты 08:00–18:00 с последним входом 17:30 в высокий сезон и 08:00–17:00 с последним входом 16:30 в низкий сезон; по понедельникам они закрыты, кроме государственных праздников.\nОфициальные страницы указывают высокий сезонный комбинированный билет 34 юаня и входной билет 15 юаней; иностранцы могут бронировать через официальный WeChat «Temple of Heaven». Проверяйте дату, потому что отдельные павильоны и слоты могут зависеть от текущих ограничений.",
+        "timing": "Лучше раннее утро: видна парковая жизнь, а до закрытия платных зон остаётся большой запас. На полный маршрут с остановками закладывайте 2–3 часа."
       },
       "stopList": [
         {
           "id": "beijing-temple-of-heaven-ritual-axis-1",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 1,
+          "entry": "по билету",
           "name": "Восточные ворота",
-          "note": "Begin your journey at the park’s East Gate, where early morning visitors practise tai chi and folk songs drift through the pines.",
+          "nameLocal": "天坛东门",
+          "note": "Вход из метро в живой утренний парк",
           "time": "15 мин",
-          "walk": "After entering, follow the path west to the covered Long Corridor that leads toward the Hall of Prayer.",
+          "walk": "5 мин до галереи",
+          "hours": {
+            "summary": "Парк открыт 06:00–22:00 (1 апреля – 31 октября) и 06:30–22:00 (1 ноября – 31 марта), последний вход в 21:00.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "Although the Temple of Heaven’s ceremonial axis traditionally begins at the western side, modern visitors enter through the East Gate. Here the park feels like a neighbourhood square: retirees play chess under cypresses, groups sing revolutionary tunes and vendors sell steamed buns. The gate itself, built into the outer wall representing earth, frames your first glimpse of the sweeping lawns and ancient trees that buffer the sacred precinct. This convivial scene contrasts sharply with the imperial solemnity ahead, grounding the journey in everyday Beijing life.",
-            "lookFor": "The gilded characters reading “Temple of Heaven East Gate” above the archway\nLocals dancing, playing cards or doing tai chi along the paths\nRed lanterns and pine trees framing the entrance",
-            "practical": "Nearest metro: Tiantan Dongmen station (Line 5) Exit A\nRestrooms and ticket counters are located just inside the gate\nThe gate area can be busy; keep belongings secure",
-            "nextMove": "After entering, follow the path west to the covered Long Corridor that leads toward the Hall of Prayer.",
+            "context": "Восточные ворота сегодня — самый удобный вход для маршрута: метро Tiantan Dongmen выходит почти к стене парка. Здесь Храм Неба сначала звучит не как императорский ритуал, а как районное утро: люди поют, растягиваются, играют в карты, идут под старыми кипарисами. Этот живой слой важен, потому что дальше вы будете входить в пространство, где архитектура уже говорит языком неба, земли и императорской власти.",
+            "lookFor": "Плотную зелень у входа: она сразу отделяет парк от шумной улицы.\nГруппы местных жителей с музыкой, тайцзи и утренними упражнениями.\nПервые синие крыши и красные стены, которые ведут взгляд к ритуальной части комплекса.",
+            "practical": "Метро: Tiantan Dongmen, линия 5, выход A.\nСохраните паспорт или документ/QR-код билета: официальная схема ticketing привязана к реальному имени и документу.\nУтром у входа оживлённо, но это лучшее время для парковой части маршрута.",
+            "nextMove": "После входа идите на запад к Длинной галерее, которая ведёт к Залу молитв за хороший урожай.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "The Temple of Heaven complex is enclosed by a square outer wall symbolising the earthly realm and a circular inner wall representing Heaven The East Gate became the main visitor entrance only in modern times; emperors entered from the west during rituals Morning gatherings along the park’s periphery are a decades‑old tradition, offering a glimpse of community life in Beijing"
+                "title": "Почему начинать с парка",
+                "body": "UNESCO описывает Храм Неба как комплекс, где планировка связывает мир людей и небесный порядок. Восточные ворота добавляют к этому современный контраст: до ритуальной оси вы видите не музейную тишину, а обычный Пекин, который использует императорский парк как большую общественную гостиную."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government: часы парка, ticketing и метро Tiantan Dongmen; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "beijing-parks-reservation-guide",
+            "img-temple-heaven-east-gate"
+          ],
           "coordinates": {
             "latitude": 39.881906,
             "longitude": 116.410513
@@ -5453,23 +4410,34 @@
           "id": "beijing-temple-of-heaven-ritual-axis-2",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 2,
+          "entry": "по билету",
           "name": "Длинная крытая галерея",
-          "note": "Stroll through the 72‑bay Long Corridor, a painted promenade alive with the sounds of Beijing’s elders.",
+          "nameLocal": "长廊",
+          "note": "Переход от парковой жизни к ритуальной оси",
           "time": "15 мин",
-          "walk": "Continue along the corridor until you emerge into the open courtyard facing the Hall of Prayer for Good Harvests.",
+          "walk": "5 мин",
+          "hours": {
+            "summary": "Внутри парка; ориентируйтесь на часы парка и платных центральных зон.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "This 350‑metre‑long, five‑metre‑wide covered gallery links the East Gate to the Hall of Prayer. Once used to shelter imperial musicians and officials, it has become a social club for Beijing’s retirees. The pillars and beams are painted in blues, greens and reds with motifs of cranes, peaches and auspicious clouds. On any given morning you might see people knitting, singing opera or practising calligraphy with water on stone slabs. Walking here, you move from the secular world into the ritual axis, accompanied by the hum of daily life.",
-            "lookFor": "Decorative paintings of flowers, clouds and mythical animals on the beams\nGroups of elderly men playing chess and cards\nWomen singing folk songs or revolutionary anthems as they stroll",
-            "practical": "The gallery offers shade and shelter in all seasons\nPlease respect locals by keeping to one side and not disturbing organised activities\nPhotography is allowed but ask permission before photographing people",
-            "nextMove": "Continue along the corridor until you emerge into the open courtyard facing the Hall of Prayer for Good Harvests.",
+            "context": "Крытая галерея связывает восточную парковую сторону с северным ядром Храма Неба. В старой функции это был служебный и процессуальный переход, а сегодня он стал одной из самых человеческих частей маршрута: под расписными балками сидят, поют, играют и прячутся от солнца. Именно здесь удобно почувствовать, что парк не замер в XV веке, а живёт поверх императорской планировки.",
+            "lookFor": "Расписные балки с облаками, птицами и благопожелательными мотивами.\nЛюдей, которые используют галерею как клуб под открытым небом.\nКак коридор постепенно выводит вас к более строгой симметрии главного зала.",
+            "practical": "Держитесь сбоку и не перекрывайте проход местным группам.\nФотографировать архитектуру можно, а людей лучше снимать только с разрешения.\nВ дождь и жару галерея даёт удобную паузу перед открытыми каменными площадками.",
+            "nextMove": "Идите дальше по галерее к открытому двору и Залу молитв за хороший урожай.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "The corridor’s 72 bays are said to echo the 24 solar terms and 12 months of the agricultural calendar In imperial times musicians would line this passageway, accompanying the emperor’s procession with ritual music Beijing’s parks have long served as public living rooms where residents socialise and exercise, a tradition that continues today"
+                "title": "Живой коридор",
+                "body": "В этом месте не нужно пытаться отделить «историческое» от «современного». Галерея работает именно потому, что в ней встречаются оба слоя: ритуальная планировка ведёт к святыням, а повседневные занятия показывают, как пекинцы приручили большое императорское пространство."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government для маршрута и часов парка; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "img-temple-heaven-long-corridor"
+          ],
           "coordinates": {
             "latitude": 39.8819,
             "longitude": 116.4088
@@ -5492,23 +4460,35 @@
           "id": "beijing-temple-of-heaven-ritual-axis-3",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 3,
+          "entry": "по билету",
           "name": "Зал молитв за хороший урожай",
-          "note": "The Temple of Heaven’s iconic triple‑eaved hall rises like a blue crown on a marble terrace.",
+          "nameLocal": "祈年殿",
+          "note": "Синяя круглая икона Храма Неба",
           "time": "15 мин",
-          "walk": "Descend the southern stairway and follow the raised Danbi Bridge toward the Imperial Vault of Heaven.",
+          "walk": "5 мин",
+          "hours": {
+            "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "Built in 1420 and reconstructed after a lightning fire in 1889, the Hall of Prayer for Good Harvests is the ceremonial heart of the complex. The round wooden structure stands 38 metres high and 24 metres in diameter on a three‑tiered white stone terrace. Inside, 28 richly painted pillars support the coffered ceiling: four golden columns represent the seasons, the next 12 symbolise the months, and the outer ring of 12 represents the traditional Chinese hours. The building contains no nails; its mortise‑and‑tenon joints exemplify Ming‑dynasty craftsmanship. Here the emperor knelt each spring to ask Heaven for rains and abundant harvests, reaffirming his mandate to rule.",
-            "lookFor": "Count the three rings of steps and balustrades on the white marble base\nLook up to see dragons and phoenixes painted on the azure ceiling\nFind the golden finial atop the roof gleaming against the sky",
-            "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nA through ticket is required to enter the hall and terrace\nThe stone steps can be slippery when wet; use handrails",
-            "nextMove": "Descend the southern stairway and follow the raised Danbi Bridge toward the Imperial Vault of Heaven.",
+            "context": "Зал молитв за хороший урожай — главный визуальный знак Тяньтаня. Официальная страница Beijing Municipal Government датирует его 1420 годом и указывает размеры около 38,2 м в высоту и 24,2 м в диаметре. Круглый зал стоит на многоярусной белой террасе, а его синяя крыша прямо связывает здание с небесной символикой. Здесь император молился о хорошем урожае, подтверждая не личную набожность, а политический порядок: власть должна была быть согласована с небом.",
+            "lookFor": "Три уровня белой каменной террасы под синим кругом крыши.\nКрасные колонны и расписные балки: цвет здесь работает как часть ритуального языка.\nКак зал стоит севернее Круглого алтаря и собирает на себя всю ось.",
+            "practical": "Для доступа к террасе и центральным объектам нужен комбинированный билет или отдельный билет на scenic spots.\nСтупени могут быть скользкими после дождя; держитесь за перила.\nПо понедельникам центральные объекты обычно закрыты, кроме государственных праздников.",
+            "nextMove": "Спуститесь к южной стороне и продолжайте по поднятой оси Даньби к Императорскому небесному своду.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "The hall’s design embodies the Chinese cosmological concept of a round Heaven and square Earth The three superimposed roofs, covered in blue glazed tiles, symbolise Heaven’s three realms During the Qing dynasty the emperor fasted, bathed and changed into special robes before ascending this terrace to pray"
+                "title": "Круг на квадрате",
+                "body": "Главная формула Тяньтаня — «небо круглое, земля квадратная». Поэтому важна не только красота зала, но и его посадка: круглая небесная форма поднимается над террасой и двором, превращая архитектуру в схему мироустройства, где император занимает роль посредника."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: история, размеры, ритуальная роль и часы центральных зон; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "unesco-temple-of-heaven",
+            "img-temple-heaven-hall-prayer"
+          ],
           "coordinates": {
             "latitude": 39.881572,
             "longitude": 116.406765
@@ -5531,26 +4511,38 @@
           "id": "beijing-temple-of-heaven-ritual-axis-4",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 4,
+          "entry": "по билету",
           "name": "Мост Даньби",
-          "note": "This gently rising causeway was the emperor’s elevated path from the earthly realm to the domain of Heaven.",
+          "nameLocal": "丹陛桥",
+          "note": "Поднятая дорога между северным залом и алтарём",
           "time": "15 мин",
-          "walk": "At the southern end of the bridge, enter the walled courtyard of the Imperial Vault of Heaven and explore the Echo Wall.",
+          "walk": "8 мин",
+          "hours": {
+            "summary": "На ритуальной оси внутри центральной зоны; ориентируйтесь на часы платных scenic spots.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "The Danbi Bridge, also known as the Red Stairs Bridge, is a stone causeway about 360 metres long and nearly 30 metres wide. It slopes imperceptibly from one metre high at the south end to around three metres high at the north, giving the sensation of ascending toward the heavens. Three lanes run along its length: the central, slightly higher path was reserved for deities; the emperor walked on the eastern (left) lane; and high officials used the western (right) lane. Beneath the bridge is an arched tunnel known as the Jin Sheng Gate, through which sacrificial animals were led. Crossing this bridge, you physically and symbolically leave the human world and approach the divine.",
-            "lookFor": "Notice the three parallel lanes separated by low ridges\nPeer over the balustrade to glimpse the tunnel beneath, nicknamed the Gate of Hell\nFeel the gentle incline as you walk south toward the next courtyard",
-            "practical": "Stay within the marked lanes and watch for uneven stone blocks\nThe bridge is outdoors and can become slippery in rain\nThe central lane is roped off to preserve its sanctity",
-            "nextMove": "At the southern end of the bridge, enter the walled courtyard of the Imperial Vault of Heaven and explore the Echo Wall.",
+            "context": "Даньби — не мост через воду, а поднятая каменная ось между Залом молитв и южными алтарями. В старых описаниях её часто называют Vermilion Steps Bridge: здесь процессия буквально переходила от северного зала к месту жертвоприношения. Для маршрута это лучший момент, чтобы почувствовать масштаб: здания уже не отдельные открытки, а части длинной церемониальной линии.",
+            "lookFor": "Три параллельные полосы движения: центральная линия была самой священной.\nМягкий уклон и ощущение, что ось то поднимает, то опускает вас.\nКак северный зал остаётся позади, а впереди начинает читаться круглая стена Императорского свода.",
+            "practical": "Идите по доступной стороне и не заходите за ограждения центральной полосы.\nНа открытом камне летом жарко, а после дождя скользко.\nКоордината остановки сдвинута на центр оси: старый опубликованный pin стоял западнее и ломал маршрут.",
+            "nextMove": "Продолжайте южнее к круглой стене Императорского небесного свода и Стене эха.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "Danbi means ‘red steps’; the bridge was once covered with vermilion carpet during ceremonies The tunnel beneath allowed sacrificial oxen to cross unseen by the emperor The bridge accentuates the north–south axis, guiding processions between the Hall of Prayer and the Circular Mound Altar"
+                "title": "Ось как действие",
+                "body": "UNESCO описывает ансамбль как axial arrangement: Круглый алтарь, Императорский свод и Зал молитв связаны поднятым священным путём. Поэтому Даньби важен не как «ещё один объект», а как движение, которое превращало путь императора в ритуал."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO; координата/routePath исправлены вручную по фактической оси комплекса."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "unesco-temple-of-heaven",
+            "img-danbi-bridge"
+          ],
           "coordinates": {
-            "latitude": 39.8811,
-            "longitude": 116.405
+            "latitude": 39.8796,
+            "longitude": 116.40672
           },
           "photo": {
             "id": "beijing-temple-of-heaven-ritual-axis-stop-4",
@@ -5570,23 +4562,35 @@
           "id": "beijing-temple-of-heaven-ritual-axis-5",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 5,
+          "entry": "по билету",
           "name": "Императорский небесный свод и Стена эха",
-          "note": "Whisper along the perfectly circular Echo Wall and marvel as your voice races around the courtyard.",
+          "nameLocal": "皇穹宇 / 回音壁",
+          "note": "Круглый двор для небесных табличек",
           "time": "15 мин",
-          "walk": "Exit the courtyard through its southern gate and continue south to the Circular Mound Altar.",
+          "walk": "3 мин",
+          "hours": {
+            "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "Beyond the Danbi Bridge lies a smaller circular hall called the Imperial Vault of Heaven. This elegant building houses the tablets of the heavenly gods and sits within a square courtyard encircled by the famous Echo Wall. The wall is 193.2 metres long, 3.7 metres high and nearly a metre thick; its glazed bricks and perfect curvature transmit sound waves so that a whisper spoken against one side can be heard on the opposite side. Outside the wall stands the venerable Nine‑Dragon Cypress, said to be more than five centuries old. Exploring this courtyard offers a playful interlude in the midst of solemn ritual architecture.",
-            "lookFor": "Stand facing the wall and whisper a message to someone on the far side; the words travel along the curved surface\nExamine the circular Imperial Vault’s blue‑tiled roof and white marble base\nFind the gnarled Nine‑Dragon Cypress outside the wall with its twisting limbs",
-            "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nKeep your voice low and respect other visitors when testing the echo\nThe courtyard can become crowded with tour groups in peak season",
-            "nextMove": "Exit the courtyard through its southern gate and continue south to the Circular Mound Altar.",
+            "context": "Императорский небесный свод меньше Зала молитв, но работает как его камерное эхо: здесь хранились таблички божеств, использовавшиеся в жертвенном ритуале на Круглом алтаре. Круглая Стена эха вокруг двора делает акустику почти игровой, но смысл остаётся серьёзным: голос и молитва должны были двигаться по идеально выстроенному пространству.",
+            "lookFor": "Круглую стену вокруг двора и то, как она замыкает звук.\nСинюю крышу Императорского свода, повторяющую небесную палитру главного зала.\nДревние кипарисы вокруг двора: они держат масштаб лучше любой таблички.",
+            "practical": "Проверяйте работу центральных объектов: они закрываются раньше парка и обычно не работают по понедельникам.\nТестируя Стену эха, говорите тихо и не мешайте группам.\nВ пиковые часы двор быстро заполняется экскурсиями.",
+            "nextMove": "Выйдите через южную сторону и пройдите к Круглому алтарю.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "The Imperial Vault is proportionally smaller but stylistically similar to the Hall of Prayer, reinforcing cosmic harmony Sound travels along the smooth glazed bricks of the Echo Wall, reflecting the belief that Heaven hears the emperor’s words The Nine‑Dragon Cypress has inspired poems and legends; its twisting branches resemble dragons spiralling toward the sky"
+                "title": "Голос в круге",
+                "body": "Стена эха легко превращается в туристический фокус, но в контексте Тяньтаня акустика не случайная забава. Круглая форма, гладкая поверхность и ритуальная функция двора работают вместе: пространство будто проверяет, как звук движется вокруг небесного центра."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: роль Imperial Vault / Echo Wall и часы central scenic spots; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "unesco-temple-of-heaven",
+            "img-temple-heaven-echo-wall"
+          ],
           "coordinates": {
             "latitude": 39.877433,
             "longitude": 116.406983
@@ -5609,23 +4613,35 @@
           "id": "beijing-temple-of-heaven-ritual-axis-6",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 6,
+          "entry": "по билету",
           "name": "Круглый алтарь",
-          "note": "Step onto the Heart of Heaven stone and feel your words amplify into the vast sky.",
+          "nameLocal": "圜丘坛",
+          "note": "Открытая сцена зимнего жертвоприношения",
           "time": "15 мин",
-          "walk": "From the altar, follow signs west along shady paths to the secluded Fasting Palace where emperors prepared themselves for these rites.",
+          "walk": "15 мин",
+          "hours": {
+            "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "The Circular Mound Altar is an open‑air triple‑tiered platform built of white marble. Nine concentric rings of slabs radiate from the central round stone known as the Heart of Heaven. The number nine, considered the most powerful yang number, appears everywhere: each terrace has nine steps on each side, and the slabs are arranged in multiples of nine. During the winter solstice, the emperor would ascend in full ritual regalia to offer sacrifices to Heaven here, his voice amplified by the circular design. Standing at the centre today, you can sense the axis mundi where the earthly and celestial realms converged.",
-            "lookFor": "Count the nine rings of stone around the central disc\nStand on the Heart of Heaven stone to test the acoustic amplification\nObserve the carved cloud and dragon motifs on the balustrades and stairways",
-            "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nThis is an outdoor site—bring sun protection in summer and watch your footing on the marble steps\nRespect the sanctity of the central stone; large gatherings may be asked to wait their turn",
-            "nextMove": "From the altar, follow signs west along shady paths to the secluded Fasting Palace where emperors prepared themselves for these rites.",
+            "context": "Круглый алтарь — южная кульминация ритуальной оси. Beijing Municipal Government подчёркивает повторение девятки в плитах, балюстрадах, оградах и ступенях: число должно было обозначать небесный порядок и высший статус ритуала. В отличие от зала с крышей, здесь небо открыто полностью. Поэтому остановка кажется почти пустой, но именно эта пустота и есть её смысл.",
+            "lookFor": "Каменные кольца вокруг центральной точки: они построены на кратности девяти.\nБелый мрамор и открытое небо без крыши — сильный контраст с северным залом.\nРезные облака и драконы на балюстрадах и лестницах.",
+            "practical": "Площадка полностью открыта: летом нужны вода и защита от солнца, зимой — защита от ветра.\nНа центральной точке часто очередь для фото; не задерживайте других посетителей.\nМраморные ступени после дождя требуют аккуратности.",
+            "nextMove": "После алтаря уходите западнее по парковым дорожкам к Дворцу воздержания.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "The repetition of nine symbolises the nine layers of Heaven in Chinese cosmology The three terraces represent Heaven, Earth and the human world Acoustic effects here and at the Echo Wall demonstrate the builders’ understanding of sound and space"
+                "title": "Девятка и пустота",
+                "body": "Круглый алтарь легко недооценить: здесь нет большого павильона, который сам объясняет свою важность. Зато весь смысл зашит в числах и поверхности. Повторение девятки делает площадку моделью небесного порядка, а открытое небо превращает её в самый прямой контакт ритуала с адресатом."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: Circular Mound Altar, девятка, зимнее жертвоприношение и часы; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "unesco-temple-of-heaven",
+            "img-circular-mound-altar"
+          ],
           "coordinates": {
             "latitude": 39.8765,
             "longitude": 116.4069
@@ -5648,23 +4664,35 @@
           "id": "beijing-temple-of-heaven-ritual-axis-7",
           "guideId": "beijing-temple-of-heaven-ritual-axis",
           "order": 7,
-          "name": "Дворец воздержания (Залайгун)",
-          "note": "End your walk in the serene Fasting Palace, where emperors cleansed mind and body before communing with Heaven.",
+          "entry": "по билету",
+          "name": "Дворец воздержания (Чжайгун)",
+          "nameLocal": "斋宫",
+          "note": "Тихий западный финал после открытого алтаря",
           "time": "15 мин",
           "walk": "-",
+          "hours": {
+            "summary": "Платные центральные зоны, включая Fasting Palace, обычно 08:00–18:00 в высокий сезон и 08:00–17:00 в низкий сезон; закрыты по понедельникам, кроме государственных праздников.",
+            "checkedAt": "2026-06-26",
+            "rules": []
+          },
           "content": {
-            "context": "Hidden behind double walls on the western side of the complex, the Fasting Palace (also called the Hall of Abstinence) provided a secluded retreat for emperors prior to ceremonies. Built in 1420, the compound covers around 40,000 square metres with 167 rooms arranged around courtyards. Two concentric walls—an outer wall about 66 metres long and an inner wall about 41 metres—isolated the emperor from worldly distractions. Inside is the beamless Abstinence Hall, where the emperor fasted, bathed and prayed during a mandatory three‑day purification. Nearby stands a Palace of Rest with carved screens and a bell tower housing the 15th‑century Bell of Supreme Harmony. Today, the quiet gardens and cypress‑shaded lanes offer a contemplative finale to your exploration.",
-            "lookFor": "The moat and double walls symbolising separation from the secular world\nThe Beamless Hall’s curved brick arches and incense‑scented interior\nThe Bell of Supreme Harmony—if open, admire its inscriptions and imagined dragon reliefs",
-            "practical": "Entrance to the Fasting Palace may require an additional ticket; check at the gate\nOpen 8:00–17:30/17:00; closed Mondays\nPlease speak softly and do not touch historic artefacts",
-            "nextMove": "From the Fasting Palace you can exit the Temple of Heaven via the West Gate or wander back through shaded paths to the East Gate.",
+            "context": "Дворец воздержания стоит западнее главной оси, и это правильный финал: после открытого алтаря маршрут переходит к подготовке императора к ритуалу. UNESCO прямо отмечает Hall of Abstinence к западу от оси, где император постился после жертвоприношения. В приложении это место лучше читать не как отдельный дворец с набором комнат, а как паузу между телом, властью и ритуальной обязанностью.",
+            "lookFor": "Более тихую западную часть комплекса после людных центральных дворов.\nСтены и ворота, которые создают ощущение изоляции от парка.\nСмена масштаба: после небесной геометрии алтаря здесь снова важны двор и тень.",
+            "practical": "Проверяйте текущий доступ на месте: отдельные дворы и павильоны могут закрываться раньше или частично ограничиваться.\nПо понедельникам платные historical courtyards обычно закрыты, кроме государственных праздников.\nОтсюда удобно выходить к West Gate или возвращаться через тенистые дорожки.",
+            "nextMove": "Маршрут заканчивается у Чжайгуна; дальше можно выйти к западной стороне парка или вернуться к East Gate по зелёным дорожкам.",
             "deepDive": [
               {
-                "title": "Подробнее",
-                "body": "Emperors abstained from meat, alcohol and entertainment for three days before sacrifices, believing that a pure body and mind were necessary to communicate with Heaven The beamless construction symbolised purity and stability, using brick vaults instead of wooden beams The Bell of Supreme Harmony weighs over two tonnes; its deep tone once signalled the start of ceremonies"
+                "title": "Ритуал до ритуала",
+                "body": "Чжайгун напоминает, что жертвоприношение начиналось не в момент выхода на алтарь. Император должен был подготовить тело и поведение к роли посредника. Поэтому финал маршрута здесь тихий: после громкой геометрии круга и квадрата остаётся вопрос дисциплины, ожидания и внутренней настройки."
               }
-            ]
+            ],
+            "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: Fasting Palace / Hall of Abstinence, западное положение, часы и Monday closure; фото — Wikimedia Commons."
           },
-          "entry": "снаружи",
+          "sourceIds": [
+            "temple-of-heaven-beijing-gov",
+            "unesco-temple-of-heaven",
+            "img-hall-abstinence"
+          ],
           "coordinates": {
             "latitude": 39.8818,
             "longitude": 116.398
@@ -5674,7 +4702,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/beijing/beijing-temple-of-heaven-ritual-axis-stop-7-wide.jpg",
             "square": "https://rentery.github.io/images/v1/beijing/beijing-temple-of-heaven-ritual-axis-stop-7-square.jpg",
-            "alt": "Дворец воздержания (Залайгун): Hall of Abstinence East Gate",
+            "alt": "Дворец воздержания (Чжайгун): Hall of Abstinence East Gate",
             "attribution": {
               "author": "BrokenSphere",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -6723,23 +5751,35 @@
       "id": "beijing-temple-of-heaven-ritual-axis-1",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 1,
+      "entry": "по билету",
       "name": "Восточные ворота",
-      "note": "Begin your journey at the park’s East Gate, where early morning visitors practise tai chi and folk songs drift through the pines.",
+      "nameLocal": "天坛东门",
+      "note": "Вход из метро в живой утренний парк",
       "time": "15 мин",
-      "walk": "After entering, follow the path west to the covered Long Corridor that leads toward the Hall of Prayer.",
+      "walk": "5 мин до галереи",
+      "hours": {
+        "summary": "Парк открыт 06:00–22:00 (1 апреля – 31 октября) и 06:30–22:00 (1 ноября – 31 марта), последний вход в 21:00.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "Although the Temple of Heaven’s ceremonial axis traditionally begins at the western side, modern visitors enter through the East Gate. Here the park feels like a neighbourhood square: retirees play chess under cypresses, groups sing revolutionary tunes and vendors sell steamed buns. The gate itself, built into the outer wall representing earth, frames your first glimpse of the sweeping lawns and ancient trees that buffer the sacred precinct. This convivial scene contrasts sharply with the imperial solemnity ahead, grounding the journey in everyday Beijing life.",
-        "lookFor": "The gilded characters reading “Temple of Heaven East Gate” above the archway\nLocals dancing, playing cards or doing tai chi along the paths\nRed lanterns and pine trees framing the entrance",
-        "practical": "Nearest metro: Tiantan Dongmen station (Line 5) Exit A\nRestrooms and ticket counters are located just inside the gate\nThe gate area can be busy; keep belongings secure",
-        "nextMove": "After entering, follow the path west to the covered Long Corridor that leads toward the Hall of Prayer.",
+        "context": "Восточные ворота сегодня — самый удобный вход для маршрута: метро Tiantan Dongmen выходит почти к стене парка. Здесь Храм Неба сначала звучит не как императорский ритуал, а как районное утро: люди поют, растягиваются, играют в карты, идут под старыми кипарисами. Этот живой слой важен, потому что дальше вы будете входить в пространство, где архитектура уже говорит языком неба, земли и императорской власти.",
+        "lookFor": "Плотную зелень у входа: она сразу отделяет парк от шумной улицы.\nГруппы местных жителей с музыкой, тайцзи и утренними упражнениями.\nПервые синие крыши и красные стены, которые ведут взгляд к ритуальной части комплекса.",
+        "practical": "Метро: Tiantan Dongmen, линия 5, выход A.\nСохраните паспорт или документ/QR-код билета: официальная схема ticketing привязана к реальному имени и документу.\nУтром у входа оживлённо, но это лучшее время для парковой части маршрута.",
+        "nextMove": "После входа идите на запад к Длинной галерее, которая ведёт к Залу молитв за хороший урожай.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "The Temple of Heaven complex is enclosed by a square outer wall symbolising the earthly realm and a circular inner wall representing Heaven The East Gate became the main visitor entrance only in modern times; emperors entered from the west during rituals Morning gatherings along the park’s periphery are a decades‑old tradition, offering a glimpse of community life in Beijing"
+            "title": "Почему начинать с парка",
+            "body": "UNESCO описывает Храм Неба как комплекс, где планировка связывает мир людей и небесный порядок. Восточные ворота добавляют к этому современный контраст: до ритуальной оси вы видите не музейную тишину, а обычный Пекин, который использует императорский парк как большую общественную гостиную."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government: часы парка, ticketing и метро Tiantan Dongmen; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "beijing-parks-reservation-guide",
+        "img-temple-heaven-east-gate"
+      ],
       "coordinates": {
         "latitude": 39.881906,
         "longitude": 116.410513
@@ -6762,23 +5802,34 @@
       "id": "beijing-temple-of-heaven-ritual-axis-2",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 2,
+      "entry": "по билету",
       "name": "Длинная крытая галерея",
-      "note": "Stroll through the 72‑bay Long Corridor, a painted promenade alive with the sounds of Beijing’s elders.",
+      "nameLocal": "长廊",
+      "note": "Переход от парковой жизни к ритуальной оси",
       "time": "15 мин",
-      "walk": "Continue along the corridor until you emerge into the open courtyard facing the Hall of Prayer for Good Harvests.",
+      "walk": "5 мин",
+      "hours": {
+        "summary": "Внутри парка; ориентируйтесь на часы парка и платных центральных зон.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "This 350‑metre‑long, five‑metre‑wide covered gallery links the East Gate to the Hall of Prayer. Once used to shelter imperial musicians and officials, it has become a social club for Beijing’s retirees. The pillars and beams are painted in blues, greens and reds with motifs of cranes, peaches and auspicious clouds. On any given morning you might see people knitting, singing opera or practising calligraphy with water on stone slabs. Walking here, you move from the secular world into the ritual axis, accompanied by the hum of daily life.",
-        "lookFor": "Decorative paintings of flowers, clouds and mythical animals on the beams\nGroups of elderly men playing chess and cards\nWomen singing folk songs or revolutionary anthems as they stroll",
-        "practical": "The gallery offers shade and shelter in all seasons\nPlease respect locals by keeping to one side and not disturbing organised activities\nPhotography is allowed but ask permission before photographing people",
-        "nextMove": "Continue along the corridor until you emerge into the open courtyard facing the Hall of Prayer for Good Harvests.",
+        "context": "Крытая галерея связывает восточную парковую сторону с северным ядром Храма Неба. В старой функции это был служебный и процессуальный переход, а сегодня он стал одной из самых человеческих частей маршрута: под расписными балками сидят, поют, играют и прячутся от солнца. Именно здесь удобно почувствовать, что парк не замер в XV веке, а живёт поверх императорской планировки.",
+        "lookFor": "Расписные балки с облаками, птицами и благопожелательными мотивами.\nЛюдей, которые используют галерею как клуб под открытым небом.\nКак коридор постепенно выводит вас к более строгой симметрии главного зала.",
+        "practical": "Держитесь сбоку и не перекрывайте проход местным группам.\nФотографировать архитектуру можно, а людей лучше снимать только с разрешения.\nВ дождь и жару галерея даёт удобную паузу перед открытыми каменными площадками.",
+        "nextMove": "Идите дальше по галерее к открытому двору и Залу молитв за хороший урожай.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "The corridor’s 72 bays are said to echo the 24 solar terms and 12 months of the agricultural calendar In imperial times musicians would line this passageway, accompanying the emperor’s procession with ritual music Beijing’s parks have long served as public living rooms where residents socialise and exercise, a tradition that continues today"
+            "title": "Живой коридор",
+            "body": "В этом месте не нужно пытаться отделить «историческое» от «современного». Галерея работает именно потому, что в ней встречаются оба слоя: ритуальная планировка ведёт к святыням, а повседневные занятия показывают, как пекинцы приручили большое императорское пространство."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government для маршрута и часов парка; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "img-temple-heaven-long-corridor"
+      ],
       "coordinates": {
         "latitude": 39.8819,
         "longitude": 116.4088
@@ -6801,23 +5852,35 @@
       "id": "beijing-temple-of-heaven-ritual-axis-3",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 3,
+      "entry": "по билету",
       "name": "Зал молитв за хороший урожай",
-      "note": "The Temple of Heaven’s iconic triple‑eaved hall rises like a blue crown on a marble terrace.",
+      "nameLocal": "祈年殿",
+      "note": "Синяя круглая икона Храма Неба",
       "time": "15 мин",
-      "walk": "Descend the southern stairway and follow the raised Danbi Bridge toward the Imperial Vault of Heaven.",
+      "walk": "5 мин",
+      "hours": {
+        "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "Built in 1420 and reconstructed after a lightning fire in 1889, the Hall of Prayer for Good Harvests is the ceremonial heart of the complex. The round wooden structure stands 38 metres high and 24 metres in diameter on a three‑tiered white stone terrace. Inside, 28 richly painted pillars support the coffered ceiling: four golden columns represent the seasons, the next 12 symbolise the months, and the outer ring of 12 represents the traditional Chinese hours. The building contains no nails; its mortise‑and‑tenon joints exemplify Ming‑dynasty craftsmanship. Here the emperor knelt each spring to ask Heaven for rains and abundant harvests, reaffirming his mandate to rule.",
-        "lookFor": "Count the three rings of steps and balustrades on the white marble base\nLook up to see dragons and phoenixes painted on the azure ceiling\nFind the golden finial atop the roof gleaming against the sky",
-        "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nA through ticket is required to enter the hall and terrace\nThe stone steps can be slippery when wet; use handrails",
-        "nextMove": "Descend the southern stairway and follow the raised Danbi Bridge toward the Imperial Vault of Heaven.",
+        "context": "Зал молитв за хороший урожай — главный визуальный знак Тяньтаня. Официальная страница Beijing Municipal Government датирует его 1420 годом и указывает размеры около 38,2 м в высоту и 24,2 м в диаметре. Круглый зал стоит на многоярусной белой террасе, а его синяя крыша прямо связывает здание с небесной символикой. Здесь император молился о хорошем урожае, подтверждая не личную набожность, а политический порядок: власть должна была быть согласована с небом.",
+        "lookFor": "Три уровня белой каменной террасы под синим кругом крыши.\nКрасные колонны и расписные балки: цвет здесь работает как часть ритуального языка.\nКак зал стоит севернее Круглого алтаря и собирает на себя всю ось.",
+        "practical": "Для доступа к террасе и центральным объектам нужен комбинированный билет или отдельный билет на scenic spots.\nСтупени могут быть скользкими после дождя; держитесь за перила.\nПо понедельникам центральные объекты обычно закрыты, кроме государственных праздников.",
+        "nextMove": "Спуститесь к южной стороне и продолжайте по поднятой оси Даньби к Императорскому небесному своду.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "The hall’s design embodies the Chinese cosmological concept of a round Heaven and square Earth The three superimposed roofs, covered in blue glazed tiles, symbolise Heaven’s three realms During the Qing dynasty the emperor fasted, bathed and changed into special robes before ascending this terrace to pray"
+            "title": "Круг на квадрате",
+            "body": "Главная формула Тяньтаня — «небо круглое, земля квадратная». Поэтому важна не только красота зала, но и его посадка: круглая небесная форма поднимается над террасой и двором, превращая архитектуру в схему мироустройства, где император занимает роль посредника."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: история, размеры, ритуальная роль и часы центральных зон; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "unesco-temple-of-heaven",
+        "img-temple-heaven-hall-prayer"
+      ],
       "coordinates": {
         "latitude": 39.881572,
         "longitude": 116.406765
@@ -6840,26 +5903,38 @@
       "id": "beijing-temple-of-heaven-ritual-axis-4",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 4,
+      "entry": "по билету",
       "name": "Мост Даньби",
-      "note": "This gently rising causeway was the emperor’s elevated path from the earthly realm to the domain of Heaven.",
+      "nameLocal": "丹陛桥",
+      "note": "Поднятая дорога между северным залом и алтарём",
       "time": "15 мин",
-      "walk": "At the southern end of the bridge, enter the walled courtyard of the Imperial Vault of Heaven and explore the Echo Wall.",
+      "walk": "8 мин",
+      "hours": {
+        "summary": "На ритуальной оси внутри центральной зоны; ориентируйтесь на часы платных scenic spots.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "The Danbi Bridge, also known as the Red Stairs Bridge, is a stone causeway about 360 metres long and nearly 30 metres wide. It slopes imperceptibly from one metre high at the south end to around three metres high at the north, giving the sensation of ascending toward the heavens. Three lanes run along its length: the central, slightly higher path was reserved for deities; the emperor walked on the eastern (left) lane; and high officials used the western (right) lane. Beneath the bridge is an arched tunnel known as the Jin Sheng Gate, through which sacrificial animals were led. Crossing this bridge, you physically and symbolically leave the human world and approach the divine.",
-        "lookFor": "Notice the three parallel lanes separated by low ridges\nPeer over the balustrade to glimpse the tunnel beneath, nicknamed the Gate of Hell\nFeel the gentle incline as you walk south toward the next courtyard",
-        "practical": "Stay within the marked lanes and watch for uneven stone blocks\nThe bridge is outdoors and can become slippery in rain\nThe central lane is roped off to preserve its sanctity",
-        "nextMove": "At the southern end of the bridge, enter the walled courtyard of the Imperial Vault of Heaven and explore the Echo Wall.",
+        "context": "Даньби — не мост через воду, а поднятая каменная ось между Залом молитв и южными алтарями. В старых описаниях её часто называют Vermilion Steps Bridge: здесь процессия буквально переходила от северного зала к месту жертвоприношения. Для маршрута это лучший момент, чтобы почувствовать масштаб: здания уже не отдельные открытки, а части длинной церемониальной линии.",
+        "lookFor": "Три параллельные полосы движения: центральная линия была самой священной.\nМягкий уклон и ощущение, что ось то поднимает, то опускает вас.\nКак северный зал остаётся позади, а впереди начинает читаться круглая стена Императорского свода.",
+        "practical": "Идите по доступной стороне и не заходите за ограждения центральной полосы.\nНа открытом камне летом жарко, а после дождя скользко.\nКоордината остановки сдвинута на центр оси: старый опубликованный pin стоял западнее и ломал маршрут.",
+        "nextMove": "Продолжайте южнее к круглой стене Императорского небесного свода и Стене эха.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "Danbi means ‘red steps’; the bridge was once covered with vermilion carpet during ceremonies The tunnel beneath allowed sacrificial oxen to cross unseen by the emperor The bridge accentuates the north–south axis, guiding processions between the Hall of Prayer and the Circular Mound Altar"
+            "title": "Ось как действие",
+            "body": "UNESCO описывает ансамбль как axial arrangement: Круглый алтарь, Императорский свод и Зал молитв связаны поднятым священным путём. Поэтому Даньби важен не как «ещё один объект», а как движение, которое превращало путь императора в ритуал."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO; координата/routePath исправлены вручную по фактической оси комплекса."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "unesco-temple-of-heaven",
+        "img-danbi-bridge"
+      ],
       "coordinates": {
-        "latitude": 39.8811,
-        "longitude": 116.405
+        "latitude": 39.8796,
+        "longitude": 116.40672
       },
       "photo": {
         "id": "beijing-temple-of-heaven-ritual-axis-stop-4",
@@ -6879,23 +5954,35 @@
       "id": "beijing-temple-of-heaven-ritual-axis-5",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 5,
+      "entry": "по билету",
       "name": "Императорский небесный свод и Стена эха",
-      "note": "Whisper along the perfectly circular Echo Wall and marvel as your voice races around the courtyard.",
+      "nameLocal": "皇穹宇 / 回音壁",
+      "note": "Круглый двор для небесных табличек",
       "time": "15 мин",
-      "walk": "Exit the courtyard through its southern gate and continue south to the Circular Mound Altar.",
+      "walk": "3 мин",
+      "hours": {
+        "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "Beyond the Danbi Bridge lies a smaller circular hall called the Imperial Vault of Heaven. This elegant building houses the tablets of the heavenly gods and sits within a square courtyard encircled by the famous Echo Wall. The wall is 193.2 metres long, 3.7 metres high and nearly a metre thick; its glazed bricks and perfect curvature transmit sound waves so that a whisper spoken against one side can be heard on the opposite side. Outside the wall stands the venerable Nine‑Dragon Cypress, said to be more than five centuries old. Exploring this courtyard offers a playful interlude in the midst of solemn ritual architecture.",
-        "lookFor": "Stand facing the wall and whisper a message to someone on the far side; the words travel along the curved surface\nExamine the circular Imperial Vault’s blue‑tiled roof and white marble base\nFind the gnarled Nine‑Dragon Cypress outside the wall with its twisting limbs",
-        "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nKeep your voice low and respect other visitors when testing the echo\nThe courtyard can become crowded with tour groups in peak season",
-        "nextMove": "Exit the courtyard through its southern gate and continue south to the Circular Mound Altar.",
+        "context": "Императорский небесный свод меньше Зала молитв, но работает как его камерное эхо: здесь хранились таблички божеств, использовавшиеся в жертвенном ритуале на Круглом алтаре. Круглая Стена эха вокруг двора делает акустику почти игровой, но смысл остаётся серьёзным: голос и молитва должны были двигаться по идеально выстроенному пространству.",
+        "lookFor": "Круглую стену вокруг двора и то, как она замыкает звук.\nСинюю крышу Императорского свода, повторяющую небесную палитру главного зала.\nДревние кипарисы вокруг двора: они держат масштаб лучше любой таблички.",
+        "practical": "Проверяйте работу центральных объектов: они закрываются раньше парка и обычно не работают по понедельникам.\nТестируя Стену эха, говорите тихо и не мешайте группам.\nВ пиковые часы двор быстро заполняется экскурсиями.",
+        "nextMove": "Выйдите через южную сторону и пройдите к Круглому алтарю.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "The Imperial Vault is proportionally smaller but stylistically similar to the Hall of Prayer, reinforcing cosmic harmony Sound travels along the smooth glazed bricks of the Echo Wall, reflecting the belief that Heaven hears the emperor’s words The Nine‑Dragon Cypress has inspired poems and legends; its twisting branches resemble dragons spiralling toward the sky"
+            "title": "Голос в круге",
+            "body": "Стена эха легко превращается в туристический фокус, но в контексте Тяньтаня акустика не случайная забава. Круглая форма, гладкая поверхность и ритуальная функция двора работают вместе: пространство будто проверяет, как звук движется вокруг небесного центра."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: роль Imperial Vault / Echo Wall и часы central scenic spots; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "unesco-temple-of-heaven",
+        "img-temple-heaven-echo-wall"
+      ],
       "coordinates": {
         "latitude": 39.877433,
         "longitude": 116.406983
@@ -6918,23 +6005,35 @@
       "id": "beijing-temple-of-heaven-ritual-axis-6",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 6,
+      "entry": "по билету",
       "name": "Круглый алтарь",
-      "note": "Step onto the Heart of Heaven stone and feel your words amplify into the vast sky.",
+      "nameLocal": "圜丘坛",
+      "note": "Открытая сцена зимнего жертвоприношения",
       "time": "15 мин",
-      "walk": "From the altar, follow signs west along shady paths to the secluded Fasting Palace where emperors prepared themselves for these rites.",
+      "walk": "15 мин",
+      "hours": {
+        "summary": "Платные центральные зоны: 08:00–18:00 в высокий сезон, последний вход 17:30; 08:00–17:00 в низкий сезон, последний вход 16:30; закрыты по понедельникам, кроме государственных праздников.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "The Circular Mound Altar is an open‑air triple‑tiered platform built of white marble. Nine concentric rings of slabs radiate from the central round stone known as the Heart of Heaven. The number nine, considered the most powerful yang number, appears everywhere: each terrace has nine steps on each side, and the slabs are arranged in multiples of nine. During the winter solstice, the emperor would ascend in full ritual regalia to offer sacrifices to Heaven here, his voice amplified by the circular design. Standing at the centre today, you can sense the axis mundi where the earthly and celestial realms converged.",
-        "lookFor": "Count the nine rings of stone around the central disc\nStand on the Heart of Heaven stone to test the acoustic amplification\nObserve the carved cloud and dragon motifs on the balustrades and stairways",
-        "practical": "Open 8:00–17:30 (April–October) or 8:00–17:00 (November–March); closed on Mondays\nThis is an outdoor site—bring sun protection in summer and watch your footing on the marble steps\nRespect the sanctity of the central stone; large gatherings may be asked to wait their turn",
-        "nextMove": "From the altar, follow signs west along shady paths to the secluded Fasting Palace where emperors prepared themselves for these rites.",
+        "context": "Круглый алтарь — южная кульминация ритуальной оси. Beijing Municipal Government подчёркивает повторение девятки в плитах, балюстрадах, оградах и ступенях: число должно было обозначать небесный порядок и высший статус ритуала. В отличие от зала с крышей, здесь небо открыто полностью. Поэтому остановка кажется почти пустой, но именно эта пустота и есть её смысл.",
+        "lookFor": "Каменные кольца вокруг центральной точки: они построены на кратности девяти.\nБелый мрамор и открытое небо без крыши — сильный контраст с северным залом.\nРезные облака и драконы на балюстрадах и лестницах.",
+        "practical": "Площадка полностью открыта: летом нужны вода и защита от солнца, зимой — защита от ветра.\nНа центральной точке часто очередь для фото; не задерживайте других посетителей.\nМраморные ступени после дождя требуют аккуратности.",
+        "nextMove": "После алтаря уходите западнее по парковым дорожкам к Дворцу воздержания.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "The repetition of nine symbolises the nine layers of Heaven in Chinese cosmology The three terraces represent Heaven, Earth and the human world Acoustic effects here and at the Echo Wall demonstrate the builders’ understanding of sound and space"
+            "title": "Девятка и пустота",
+            "body": "Круглый алтарь легко недооценить: здесь нет большого павильона, который сам объясняет свою важность. Зато весь смысл зашит в числах и поверхности. Повторение девятки делает площадку моделью небесного порядка, а открытое небо превращает её в самый прямой контакт ритуала с адресатом."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: Circular Mound Altar, девятка, зимнее жертвоприношение и часы; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "unesco-temple-of-heaven",
+        "img-circular-mound-altar"
+      ],
       "coordinates": {
         "latitude": 39.8765,
         "longitude": 116.4069
@@ -6957,23 +6056,35 @@
       "id": "beijing-temple-of-heaven-ritual-axis-7",
       "guideId": "beijing-temple-of-heaven-ritual-axis",
       "order": 7,
-      "name": "Дворец воздержания (Залайгун)",
-      "note": "End your walk in the serene Fasting Palace, where emperors cleansed mind and body before communing with Heaven.",
+      "entry": "по билету",
+      "name": "Дворец воздержания (Чжайгун)",
+      "nameLocal": "斋宫",
+      "note": "Тихий западный финал после открытого алтаря",
       "time": "15 мин",
       "walk": "-",
+      "hours": {
+        "summary": "Платные центральные зоны, включая Fasting Palace, обычно 08:00–18:00 в высокий сезон и 08:00–17:00 в низкий сезон; закрыты по понедельникам, кроме государственных праздников.",
+        "checkedAt": "2026-06-26",
+        "rules": []
+      },
       "content": {
-        "context": "Hidden behind double walls on the western side of the complex, the Fasting Palace (also called the Hall of Abstinence) provided a secluded retreat for emperors prior to ceremonies. Built in 1420, the compound covers around 40,000 square metres with 167 rooms arranged around courtyards. Two concentric walls—an outer wall about 66 metres long and an inner wall about 41 metres—isolated the emperor from worldly distractions. Inside is the beamless Abstinence Hall, where the emperor fasted, bathed and prayed during a mandatory three‑day purification. Nearby stands a Palace of Rest with carved screens and a bell tower housing the 15th‑century Bell of Supreme Harmony. Today, the quiet gardens and cypress‑shaded lanes offer a contemplative finale to your exploration.",
-        "lookFor": "The moat and double walls symbolising separation from the secular world\nThe Beamless Hall’s curved brick arches and incense‑scented interior\nThe Bell of Supreme Harmony—if open, admire its inscriptions and imagined dragon reliefs",
-        "practical": "Entrance to the Fasting Palace may require an additional ticket; check at the gate\nOpen 8:00–17:30/17:00; closed Mondays\nPlease speak softly and do not touch historic artefacts",
-        "nextMove": "From the Fasting Palace you can exit the Temple of Heaven via the West Gate or wander back through shaded paths to the East Gate.",
+        "context": "Дворец воздержания стоит западнее главной оси, и это правильный финал: после открытого алтаря маршрут переходит к подготовке императора к ритуалу. UNESCO прямо отмечает Hall of Abstinence к западу от оси, где император постился после жертвоприношения. В приложении это место лучше читать не как отдельный дворец с набором комнат, а как паузу между телом, властью и ритуальной обязанностью.",
+        "lookFor": "Более тихую западную часть комплекса после людных центральных дворов.\nСтены и ворота, которые создают ощущение изоляции от парка.\nСмена масштаба: после небесной геометрии алтаря здесь снова важны двор и тень.",
+        "practical": "Проверяйте текущий доступ на месте: отдельные дворы и павильоны могут закрываться раньше или частично ограничиваться.\nПо понедельникам платные historical courtyards обычно закрыты, кроме государственных праздников.\nОтсюда удобно выходить к West Gate или возвращаться через тенистые дорожки.",
+        "nextMove": "Маршрут заканчивается у Чжайгуна; дальше можно выйти к западной стороне парка или вернуться к East Gate по зелёным дорожкам.",
         "deepDive": [
           {
-            "title": "Подробнее",
-            "body": "Emperors abstained from meat, alcohol and entertainment for three days before sacrifices, believing that a pure body and mind were necessary to communicate with Heaven The beamless construction symbolised purity and stability, using brick vaults instead of wooden beams The Bell of Supreme Harmony weighs over two tonnes; its deep tone once signalled the start of ceremonies"
+            "title": "Ритуал до ритуала",
+            "body": "Чжайгун напоминает, что жертвоприношение начиналось не в момент выхода на алтарь. Император должен был подготовить тело и поведение к роли посредника. Поэтому финал маршрута здесь тихий: после громкой геометрии круга и квадрата остаётся вопрос дисциплины, ожидания и внутренней настройки."
           }
-        ]
+        ],
+        "sourceNote": "Сверено 2026-06-26 по Beijing Municipal Government и UNESCO: Fasting Palace / Hall of Abstinence, западное положение, часы и Monday closure; фото — Wikimedia Commons."
       },
-      "entry": "снаружи",
+      "sourceIds": [
+        "temple-of-heaven-beijing-gov",
+        "unesco-temple-of-heaven",
+        "img-hall-abstinence"
+      ],
       "coordinates": {
         "latitude": 39.8818,
         "longitude": 116.398
@@ -6983,7 +6094,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/beijing/beijing-temple-of-heaven-ritual-axis-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/beijing/beijing-temple-of-heaven-ritual-axis-stop-7-square.jpg",
-        "alt": "Дворец воздержания (Залайгун): Hall of Abstinence East Gate",
+        "alt": "Дворец воздержания (Чжайгун): Hall of Abstinence East Gate",
         "attribution": {
           "author": "BrokenSphere",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -6993,5 +6104,5 @@
       }
     }
   ],
-  "packHash": "4ef029ceb941"
+  "packHash": "1d75f29f427d"
 }
