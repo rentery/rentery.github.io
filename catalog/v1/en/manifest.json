@@ -77,7 +77,7 @@
       "packPath": "cities/cusco/offline-pack.json"
     },
     "bruges": {
-      "packHash": "7a27f2df08dc",
+      "packHash": "816a1c0eb717",
       "packPath": "cities/bruges/offline-pack.json"
     },
     "boston": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T22:58:19.919Z",
+  "generatedAt": "2026-06-26T23:11:30.840Z",
   "locale": "en",
   "schemaVersion": 1
 }
