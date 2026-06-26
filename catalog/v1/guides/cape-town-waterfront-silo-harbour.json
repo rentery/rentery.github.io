@@ -1661,10 +1661,16 @@
       ],
       "photo": {
         "id": "cape-town-waterfront-silo-harbour-stop-6",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-6-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение района V&A Waterfront, не фото Watershed."
+        "alt": "Фасад Two Oceans Aquarium напротив Watershed в V&A Waterfront; соседний ориентир, не интерьер рынка.",
+        "attribution": {
+          "author": "Jim.henderson",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Oceans_Aquarium_CT_jeh.jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
