@@ -141,7 +141,7 @@
       "packPath": "cities/chiang-mai/offline-pack.json"
     },
     "copenhagen": {
-      "packHash": "ae41cc7564b7",
+      "packHash": "b9ba1d37f9ad",
       "packPath": "cities/copenhagen/offline-pack.json"
     },
     "dublin": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T09:58:12.940Z",
+  "generatedAt": "2026-06-26T10:11:46.435Z",
   "locale": "ru",
   "schemaVersion": 1
 }
