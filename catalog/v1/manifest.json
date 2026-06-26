@@ -101,7 +101,7 @@
       "packPath": "cities/athens/offline-pack.json"
     },
     "auckland": {
-      "packHash": "6014c79d9fd8",
+      "packHash": "6d8b9c3cfa37",
       "packPath": "cities/auckland/offline-pack.json"
     },
     "bangkok": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T16:54:37.771Z",
+  "generatedAt": "2026-06-26T17:50:09.065Z",
   "locale": "ru",
   "schemaVersion": 1
 }
