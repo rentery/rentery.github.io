@@ -197,7 +197,7 @@
       "packPath": "cities/new-orleans/offline-pack.json"
     },
     "new-york": {
-      "packHash": "e12d52c5e5da",
+      "packHash": "e2b6c4ff67ce",
       "packPath": "cities/new-york/offline-pack.json"
     },
     "oaxaca": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T01:12:26.948Z",
+  "generatedAt": "2026-06-26T01:32:50.299Z",
   "locale": "ru",
   "schemaVersion": 1
 }
