@@ -377,7 +377,7 @@
       "packPath": "cities/vancouver/offline-pack.json"
     },
     "varanasi": {
-      "packHash": "01ff99d691ab",
+      "packHash": "389505a76072",
       "packPath": "cities/varanasi/offline-pack.json"
     },
     "venice": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T15:41:03.744Z",
+  "generatedAt": "2026-06-26T15:53:02.944Z",
   "locale": "ru",
   "schemaVersion": 1
 }

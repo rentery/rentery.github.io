@@ -3376,7 +3376,7 @@
     "category": "cultural",
     "title": "Сарнатх: место первой проповеди",
     "subtitle": "По местам, где Будда даровал первое учение",
-    "blurb": "Прогулка по Сарнатху переносит вас в то место, где более двух тысячелетий назад были произнесены первые слова Дхармы. Мы пройдём по древним ступам, монастырским руинам и современным святыням, ощутим тишину Deer Park и увидим львиный капитель, ставший гербом Индии.",
+    "blurb": "Короткий маршрут по Сарнатху связывает ASI-руины, столб Ашоки, Дхамекх-ступу, музей с львиным капителем и современную Mulagandhakuti Vihara.",
     "mood": "peaceful",
     "accent": "#A3334C",
     "soft": "#F2E3E6",
@@ -3390,15 +3390,15 @@
     "kids": false,
     "microcopy": {
       "kicker": "Маршрут",
-      "line": "В рамках маршрута вы познакомитесь с основными памятниками археологического парка Сарнатха: увидите основание столба Ашоки, на месте которого когда‑то возвышалась столица величественного львиного капителя; остановитесь у Чаукханди‑ступы, где Будда встретил своих первых учеников; пройдёте по руинам древнего монастыря Мулатанда Кути, обойдёте величественную Дхамекх‑ступу и осмотрите Дхармараджика‑ступу. Мы также заглянем в археологический музей, узнаем о создании современной Вихары и завершим маршрут среди оленей в парке, где зародилось сообщество буддийских монахов."
+      "line": "От столба Ашоки и ступ к музею и Deer Park: Сарнатх как место первого поворота колеса Дхармы и рождения sangha."
     },
     "content": {
-      "intro": "В рамках маршрута вы познакомитесь с основными памятниками археологического парка Сарнатха: увидите основание столба Ашоки, на месте которого когда‑то возвышалась столица величественного львиного капителя; остановитесь у Чаукханди‑ступы, где Будда встретил своих первых учеников; пройдёте по руинам древнего монастыря Мулатанда Кути, обойдёте величественную Дхамекх‑ступу и осмотрите Дхармараджика‑ступу. Мы также заглянем в археологический музей, узнаем о создании современной Вихары и завершим маршрут среди оленей в парке, где зародилось сообщество буддийских монахов.",
-      "routeLogic": "В рамках маршрута вы познакомитесь с основными памятниками археологического парка Сарнатха: увидите основание столба Ашоки, на месте которого когда‑то возвышалась столица величественного львиного капителя; остановитесь у Чаукханди‑ступы, где Будда встретил своих первых учеников; пройдёте по руинам древнего монастыря Мулатанда Кути, обойдёте величественную Дхамекх‑ступу и осмотрите Дхармараджика‑ступу. Мы также заглянем в археологический музей, узнаем о создании современной Вихары и завершим маршрут среди оленей в парке, где зародилось сообщество буддийских монахов.",
-      "bestFor": "спокойной прогулки по теме маршрута первого знакомства с районом или объектом тех, кто хочет читать город через видимые детали",
-      "notFor": "маршрута без самостоятельного чтения места гонки по точкам без остановок тех, кому нужен только транспортный трансфер",
-      "beforeYouGo": "Проверяйте актуальный доступ к музейным, религиозным и событийным площадкам в день прогулки.",
-      "timing": "150 мин"
+      "intro": "Сарнатх лучше читать не как набор отдельных святынь, а как compact pilgrimage landscape: здесь традиция помещает первую проповедь Будды, ASI хранит археологический слой от Ашоки до средневековья, а современная Mulagandhakuti Vihara продолжает живую буддийскую практику. Короткая дистанция помогает увидеть, как preserved ruins, музейные фрагменты и живой храм отвечают друг другу.",
+      "routeLogic": "Сохраняем короткий spine Ashoka Pillar -> Chaukhandi Stupa -> ancient Mulagandha Kuti / main shrine ruins -> Dhamekh Stupa -> Dharmarajika Stupa -> Sarnath Archaeological Museum -> Mulagandhakuti Vihara -> Deer Park. Это не вся Варанаси и не полный Buddhist circuit, а сфокусированная прогулка внутри Сарнатха.",
+      "bestFor": "Для тех, кто хочет увидеть, как археология ASI, паломническая память и современная буддийская жизнь накладываются вокруг первого учения.",
+      "notFor": "Не лучший маршрут для гарантированного доступа без проверок: музей закрывается по пятницам, temple timings and Deer Park access can change, а ASI ticket/pricing rules should be checked same day.",
+      "beforeYouGo": "Археологические ruins and museum are paid/controlled ASI sites; museum hours are separate from open-air monuments. Проверяйте актуальные tickets, Friday museum closure, temple windows and local heat/festival crowds before leaving Varanasi.",
+      "timing": "Около 2,5 часов с музеем и спокойными паузами; без музея маршрут заметно короче."
     },
     "stopList": [
       {
@@ -3406,18 +3406,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 1,
         "name": "Основание столба Ашоки",
+        "nameLocal": "Ashokan Pillar remains / Lion Capital context",
+        "sourceIds": [
+          "varanasi_sarnath_asi_story",
+          "varanasi_kashi_sarnath",
+          "varanasi_sarnath_asi_visitors"
+        ],
         "note": "Обратите внимание на шлифованную поверхность – камень до сих пор кажется гладким на ощупь.",
         "time": "15 мин",
         "walk": "Пройдите по дорожке на юг к высокой кирпичной башне – это Чаукханди‑ступа.",
         "content": {
-          "context": "Мы начинаем маршрут у основания каменного столба – единственное, что осталось от колонны Ашоки. В III веке до н. э. император Ашока повелел установить здесь монолитную колонну, увенчанную львиным капителем.",
-          "lookFor": "следы креплений в основании столба информационный щит о львином капителе вид на Дхамекх‑ступу с востока",
-          "practical": "Круглосуточно (посещение в пределах рабочего времени археологического парка) Бесплатно при посещении парка, входной билет приобретайте у кассы у главных ворот 10 минут Спокойное место с видом на окружающие руины",
+          "context": "Начните у того, что осталось на месте, а не у того, что стало символом страны. ASI story напоминает: львиный капитель Ашоки из Сарнатха теперь хранится в site museum and has been adopted as India's national emblem. На земле в ruins вы видите broken pillar context: место, где Mauryan statecraft, Buddhist memory and modern India meet.",
+          "lookFor": "Полированный камень основания, информационные щиты о Lion Capital, линию Дхамекх-ступы через ruins and the controlled ASI pathways.",
+          "practical": "Это часть ASI archaeological complex, not a 24-hour free stop. ASI visitor information lists paid monument tickets and asks visitors not to scribble, smoke, spit, use flash or leave ticket counterfoils behind; exact access/ticket rules should be checked at entry.",
           "nextMove": "Пройдите по дорожке на юг к высокой кирпичной башне – это Чаукханди‑ступа.",
+          "sourceNote": "Проверено по ASI Google Arts story, Kashi official Sarnath page and ASI Sarnath Circle visitor information: Lion Capital from Sarnath is in the site museum and adopted as India's national emblem; Kashi identifies the broken Ashoka Pillar remains in the ruins; ASI lists paid monument-ticket categories and visitor conduct rules.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Львы, обращённые в разные стороны, символизировали распространение учения на четыре стороны света. Сейчас на месте колонны – лишь отполированный цилиндр с отверстиями, но табличка напоминает, что именно отсюда происходит герб современной Индии. Отсюда удобно рассмотреть масштаб плато, оценить изысканность резьбы на основании и представить, как колонна возвышалась над древним монастырём."
+              "title": "Столб без львов",
+              "body": "Самая важная деталь здесь отсутствует физически: львиный капитель снят с места и защищен в музее. Поэтому остановка работает в два шага. Сначала вы видите broken landscape of the pillar, then later the museum gives the emblem its sculptural body. Это хороший способ читать Сарнатх: часть смысла в ruins, часть - в сохранении."
             }
           ]
         },
@@ -3425,6 +3432,11 @@
         "coordinates": {
           "latitude": 25.3836,
           "longitude": 83.021
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Open-air ASI ruins follow controlled monument access; Kashi lists archaeological ruins as generally sunrise to sunset / seasonally variable, so check same-day entry rules.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-1",
@@ -3445,18 +3457,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 2,
         "name": "Чаукханди‑ступа",
+        "nameLocal": "Chaukhandi Stupa",
+        "sourceIds": [
+          "varanasi_sarnath_unesco_tentative",
+          "varanasi_kashi_sarnath",
+          "varanasi_sarnath_asi_visitors"
+        ],
         "note": "Подойдите поближе к кирпичной кладке – здесь видны разные слои, свидетельствующие о перестройках разных эпох.",
         "time": "15 мин",
         "walk": "Следуйте по дорожке к востоку; впереди среди зелени скрываются низкие фундаменты – это руины Мулатанда‑Кути.",
         "content": {
-          "context": "Вы стоите у массивного кирпичного холма, который венчает восьмиугольная башня. Это Чаукханди‑ступа – памятник, который отмечает встречу Будды со своими пятью аскетическими учениками, когда он пришёл из Бодх‑Гаи в Сарнатх.",
-          "lookFor": "слои кирпича разных периодов могольская башня с тёмными арками крыша с растительностью – признак запустения",
-          "practical": "Круглосуточно, территория огорожена Входит в комплекс археологического парка; билет общий 15 минут Величественный памятник на холме",
+          "context": "Chaukhandi stands slightly apart from the main cluster, and UNESCO's tentative-list description treats it as Group A: a lofty brick structure crowned by an octagonal Mughal tower. The Kashi portal adds the pilgrimage reading: this is the stop traditionally associated with Buddha meeting the first five disciples after arriving from Bodh Gaya.",
+          "lookFor": "The brick mound, octagonal tower silhouette, the difference between open slope and protected masonry, and the visual jump back toward the main ASI ruins.",
+          "practical": "Treat this as a protected monument, not a climbable viewpoint. ASI visitor rules apply: stay on permitted paths, keep tickets, and avoid touching/scribbling on masonry. If gates or ticketing differ from the main ruins, follow the local staff's current instructions.",
           "nextMove": "Следуйте по дорожке к востоку; впереди среди зелени скрываются низкие фундаменты – это руины Мулатанда‑Кути.",
+          "sourceNote": "Проверено по UNESCO tentative-list page, Kashi official Sarnath page and ASI visitor information: Chaukhandi is a lofty brick structure with an octagonal Mughal tower; UNESCO says the tower was built in 1588 by Goverdhan, son of Raja Todarmal, to commemorate Humayun's visit; Kashi frames it as the traditional meeting place with the first five disciples.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Нижняя часть сложена из красного кирпича времён Гуптов (IV–V век), а сверху возвышается башня, построенная по приказу Моголов в XVI веке в честь визита императора Хумаюна. Ступа разрушена, но даже её очертания дают представление о величии; представьте, как к ней восходили паломники по ныне разрушенным ступеням."
+              "title": "Встреча перед первым учением",
+              "body": "Эта остановка важна именно потому, что она стоит на пороге истории маршрута. До Дхамекх-ступы и музейного львиного капителя еще будет время; здесь же сюжет начинается как встреча teacher and listeners. Архитектура тоже многослойна: Buddhist mound below, Mughal commemorative tower above."
             }
           ]
         },
@@ -3464,6 +3483,11 @@
         "coordinates": {
           "latitude": 25.3845,
           "longitude": 83.0204
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Protected ASI monument access can vary by gate/ticketing; verify same-day hours locally before treating it as open.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-2",
@@ -3484,18 +3508,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 3,
         "name": "Руины Мулатанда‑Кути",
+        "nameLocal": "Ancient Mulagandha Kuti / Main Shrine ruins",
+        "sourceIds": [
+          "varanasi_sarnath_asi_story",
+          "varanasi_sarnath_unesco_tentative",
+          "varanasi_kashi_sarnath"
+        ],
         "note": "Осмотритесь – небольшие круглые ступы вокруг фундамента были воздвигнуты паломниками в разные эпохи.",
         "time": "15 мин",
         "walk": "От руин направьтесь к огромной цилиндрической структуре – Дхамекх‑ступе.",
         "content": {
-          "context": "Перед вами низкие кирпичные фундаменты – это остатки Мулатанда‑Кути, монастыря, где Будда проводил сезонные дожди. Считается, что именно здесь находился первоначальный храм, построенный Ашокой, однако со временем его разобрали.",
-          "lookFor": "прямоугольный контур основания вотивные мини‑ступы фрагменты колонн и перил",
-          "practical": "Круглосуточно (в рамках времени посещения археологического парка) Включено в общий билет 10 минут Тихий уголок среди руин",
+          "context": "Здесь маршрут замедляется до archaeology scale. ASI story describes excavations around Dhamekh, Dharmarajika, Chaukhandi, monasteries and a temple north of Dhamekh; later work exposed structures between Dhamekh Stupa and the Main Shrine. The low brick outlines are the clue: Сарнатх был не одной ступой, а monastery landscape with temples, passages and votive forms.",
+          "lookFor": "Rectangular foundations, votive mini-stupas, reused stone fragments, and the way the ruins point visually toward Dhamekh Stupa.",
+          "practical": "Stay on the marked ASI paths and resist the urge to step onto low brickwork for photos. The stop is outdoors, but it follows the same controlled monument access as the main archaeological site.",
           "nextMove": "От руин направьтесь к огромной цилиндрической структуре – Дхамекх‑ступе.",
+          "sourceNote": "Проверено по ASI Google Arts story, UNESCO tentative-list page and Kashi official page: ASI describes excavations exposing monastery/temple remains around Dhamekh and the Main Shrine; UNESCO lists temples, monasteries, stupas, votive stupas and the Ashokan column among Group B remains dated from the 3rd century BCE to 12th century CE.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Теперь остались лишь прямоугольные основания, окружённые небольшими вотивными ступами. Пройдитесь вокруг, представьте деревянные стены и тростниковую крышу, под которыми Будда и его ученики отдыхали."
+              "title": "Когда святыня становится планом",
+              "body": "В отличие от Дхамекх-ступы, эта точка не дает одного monumental image. Ее сила в плане: foundations, малые ступы и пустые прямоугольники заставляют воображение достраивать монастырь. Хорошая пауза перед большой ступой: здесь видно, что pilgrimage site держался на everyday monastic life, not only on one famous sermon."
             }
           ]
         },
@@ -3503,6 +3534,11 @@
         "coordinates": {
           "latitude": 25.3839,
           "longitude": 83.0221
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Outdoor ASI ruins follow controlled monument access; same-day gate/ticket rules should be checked locally.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-3",
@@ -3523,18 +3559,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 4,
         "name": "Дхамекх‑ступа",
+        "nameLocal": "Dhamekh Stupa",
+        "sourceIds": [
+          "varanasi_sarnath_asi_story",
+          "varanasi_kashi_sarnath",
+          "varanasi_sarnath_unesco_tentative"
+        ],
         "note": "При обходе держитесь на расстоянии – на высоте видны небольшие ниши, украшенные растительным орнаментом.",
         "time": "15 мин",
         "walk": "После осмотра ступы идите по тропе на север к низкому круговому холму – это Дхармараджика‑ступа.",
         "content": {
-          "context": "Огромный цилиндрический монумент высотой более 40 метров и диаметром около 28 метров захватывает дух. Это Дхамекх‑ступа, построенная в V веке, чтобы заменить более раннюю постройку Ашоки.",
-          "lookFor": "каменные панели с лотосами и гусиными парами следы древних лестниц мини‑ступы и алтари у основания",
-          "practical": "Ежедневно 6:00–18:00 Входит в общий билет парка 20 минут Внушительная атмосфера, место паломничества",
+          "context": "Dhamekh is the route's gravitational center. Kashi describes it as the massive cylindrical stupa believed to mark the place where Buddha delivered his first discourse; the present structure dates to the Gupta period on an earlier Ashokan foundation. ASI adds the art-history layer: in the Gupta period the stupa was encased with floral designs carved in stone.",
+          "lookFor": "The over-40-meter cylinder, carved floral/geometric stone bands, blind niches, pilgrims circling clockwise, and the contrast with low monastery ruins nearby.",
+          "practical": "This is a protected monument and an active pilgrimage focus. Circumambulate respectfully if you choose, but stay outside barriers, avoid touching carved panels, and check current ASI access/ticket rules at the gate.",
           "nextMove": "После осмотра ступы идите по тропе на север к низкому круговому холму – это Дхармараджика‑ступа.",
+          "sourceNote": "Проверено по Kashi official Sarnath page, ASI Google Arts story and UNESCO tentative-list page: Dhamekh is described as the principal massive cylindrical stupa connected with Buddha's first discourse, with a Gupta-period present structure on an earlier Ashokan foundation; ASI notes Gupta floral stone encasing and excavations around Dhamekh.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Она отмечает место, где Будда произнёс свою первую проповедь «Сутру о вращении колеса закона». Нижняя часть покрыта резьбой с лотосами, ромбами и глухими нишами, типичными для искусства Гуптов. Подойдите ближе, почувствуйте прохладу камня и обойдите ступу по часовой стрелке, как делают паломники."
+              "title": "Место первого поворота",
+              "body": "Dhamekh работает как vertical anchor for an otherwise low archaeological field. Именно здесь story of first teaching becomes visible at city scale: a cylinder, carvings, circumambulation, and a crowd of visitors moving around memory rather than through a doorway. Не нужно заходить внутрь, чтобы понять, как monument organizes the site."
             }
           ]
         },
@@ -3542,6 +3585,11 @@
         "coordinates": {
           "latitude": 25.3833,
           "longitude": 83.023
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Outdoor ASI monument access is controlled and seasonally variable; verify current hours/tickets before relying on a fixed 06:00-18:00 window.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-4",
@@ -3562,18 +3610,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 5,
         "name": "Дхармараджика‑ступа",
+        "nameLocal": "Dharmarajika Stupa",
+        "sourceIds": [
+          "varanasi_sarnath_asi_story",
+          "varanasi_sarnath_unesco_tentative",
+          "varanasi_sarnath_asi_visitors"
+        ],
         "note": "Вы можете увидеть круглые отверстия в основании – там было деревянное ограждение.",
         "time": "15 мин",
         "walk": "Вернитесь к главной тропе и поверните направо к зданию музея с колоннами – археологическому музею.",
         "content": {
-          "context": "Севернее возвышается круглый холм, покрытый травой. Это остатки Дхармараджика‑ступы – одной из немногих ступ, воздвигнутых императором Ашокой для хранения реликвий Будды.",
-          "lookFor": "низкий круглый вал монолитное каменное перило вотивные мини‑ступы по периметру",
-          "practical": "Круглосуточно (археологический парк) Включено в билет 10 минут Заросшие руины среди зелени",
+          "context": "Dharmarajika is the route's lesson in absence. ASI story says Ashoka raised several monuments at Sarnath, including a 30.4-meter Dharmarajika stupa, and that it was pulled down in 1794 by Jagat Singh of Banaras. UNESCO still lists the Dharmarajika stupa among the major remains of Group B, but what you see is mostly foundation, contour and scattered votive memory.",
+          "lookFor": "The low circular footprint, stone railing fragments, votive stupas around the edge, and the sudden contrast with the mass of Dhamekh behind you.",
+          "practical": "Do not treat the low remains as a platform. Stay on paths and read this as an archaeological stop, not a viewpoint. The same ASI controlled-site access and visitor rules apply.",
           "nextMove": "Вернитесь к главной тропе и поверните направо к зданию музея с колоннами – археологическому музею.",
+          "sourceNote": "Проверено по ASI Google Arts story, UNESCO tentative-list page and ASI visitor information: ASI describes Ashoka's Dharmarajika stupa at Sarnath as 30.4 m high and pulled down in 1794 by Jagat Singh; UNESCO lists Dharmarajika among major Group B remains; ASI asks visitors to preserve monument ambience and avoid damaging behavior.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Когда‑то над этим основанием возвышалась величественная кирпичная конструкция, но в XII веке она была разрушена, а кирпичи увезены для строительства мечетей. Сегодня от неё остался лишь цоколь диаметром около 30 метров и разбросанные вотивные ступы. Посетите западную сторону, где сохранились каменные перила – редкий пример древней резьбы."
+              "title": "Памятник, разобранный до контура",
+              "body": "После Dhamekh легко ждать еще один высокий monument, но Dharmarajika работает наоборот: важность не равна высоте. Здесь история Сарнатха видна как loss, excavation and protection. То, что осталось на уровне земли, помогает понять, почему музей рядом так важен: часть Сарнатха сохраняется уже не в landscape, а в curated fragments."
             }
           ]
         },
@@ -3581,6 +3636,11 @@
         "coordinates": {
           "latitude": 25.3839,
           "longitude": 83.0235
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Outdoor ASI ruins follow controlled monument access; verify current gate/ticket rules locally.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-5",
@@ -3601,18 +3661,26 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 6,
         "name": "Археологический музей Сарнатха",
+        "nameLocal": "Archaeological Museum Sarnath",
+        "sourceIds": [
+          "varanasi_sarnath_museum_planning",
+          "varanasi_sarnath_museum_about",
+          "varanasi_sarnath_museum_gallery1",
+          "varanasi_sarnath_asi_visitors"
+        ],
         "note": "Не пропустите небольшой зал с миниатюрными вотивными ступами – они показывают, как менялись формы памятников.",
         "time": "15 мин",
         "walk": "После музея выйдите на улицу и двигайтесь к современной белой ступе с золотой крышей – это Мулаганда Кути Вихара.",
         "content": {
-          "context": "Небольшое здание с колоннадой, построенное в 1910 году, – это первый музей Археологической службы Индии, специально созданный для хранения находок Сарнатха.",
-          "lookFor": "львиный капитель Ашоки панели с изображениями Джатаки выполненные в песчанике статуи Будды",
-          "practical": "Ежедневно 9:00–17:00, пятница – выходной 5 INR, дети до 15 лет бесплатно 30–45 минут Интересный музей с кондиционированными залами",
+          "context": "Музей нужен не как indoor detour, а как вторая половина археологического маршрута. ASI museum history says the government decided in 1905 to build a site museum adjacent to the excavated area; the building was completed in 1910 and now displays antiquities from the 3rd century BCE to the 12th century CE. Здесь broken pillar получает свой Lion Capital, а first sermon получает sculptural language.",
+          "lookFor": "Lion Capital of Ashoka, the Gupta-period preaching Buddha with deer and five disciples on the pedestal, rail fragments, votive forms and the five-gallery / two-verandah layout.",
+          "practical": "ASI museum planning lists opening hours 09:00-17:00 and Friday closure; ticket is listed as Rs. 5 per head, with free entry for children below 15. Museum rules and display access can change, so check the gate before assuming photography, bags or exact gallery access.",
           "nextMove": "После музея выйдите на улицу и двигайтесь к современной белой ступе с золотой крышей – это Мулаганда Кути Вихара.",
+          "sourceNote": "Проверено по Sarnath Museum ASI planning/about pages, Gallery No. 1 and ASI Sarnath Circle visitor information: museum hours 09:00-17:00, closed Friday, Rs. 5 ticket/free below 15; museum decision in 1905, building completed 1910, five galleries/two verandahs, antiquities from 3rd century BCE to 12th century CE; Gallery No. 1 describes the preaching Buddha image with wheel, deer and five disciples.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Внутри пять галерей, где представлены скульптуры и фрагменты с III века до н. э. по XII век н. э. Главная важный узел – оригинальный львиный капитель с колонны Ашоки: четыре льва, сидящих спинами друг к другу, на круглом абаке с колесом Дхармы. Вы увидите барельефы с жизнью Будды, фрагменты перил, стилизованные колонны и изображения богов."
+              "title": "Где ruins становятся эмблемой",
+              "body": "После пяти outdoor stops музей меняет масштаб: вы больше не смотрите на mound and foundations, а на fragments close enough to read. Lion Capital explains why the broken pillar matters to modern India, while the preaching Buddha image returns you to Deer Park through iconography: wheel in the center, deer at the sides, disciples below."
             }
           ]
         },
@@ -3620,6 +3688,11 @@
         "coordinates": {
           "latitude": 25.383,
           "longitude": 83.0226
+        },
+        "hours": {
+          "rules": [],
+          "summary": "ASI museum: 09:00-17:00, closed Friday; ticket currently listed as Rs. 5/free below 15 on the museum planning page.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-6",
@@ -3640,18 +3713,25 @@
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 7,
         "name": "Мулаганда Кути Вихара",
+        "nameLocal": "Mulagandhakuti Vihara",
+        "sourceIds": [
+          "varanasi_mahabodhi_sarnath",
+          "varanasi_kashi_sarnath",
+          "varanasi_mulagandha_kuti_vihar_listing"
+        ],
         "note": "Сделайте паузу в тишине – храм открыт для медитации и молитвы.",
         "time": "15 мин",
         "walk": "От храма пройдите по аллее к парку с оленями – последняя остановка нашего маршрута.",
         "content": {
-          "context": "Эта современная храмовая ступа была построена обществом Махабодхи в 1931 году. Белоснежное здание украшено золотой крышей и яркими фресками японского художника Косэцу Носу, повествующими о жизни Будды.",
-          "lookFor": "японские фрески с сюжетами Джатаки золотую статую Будды священное дерево Бодхи во дворе",
-          "practical": "Ежедневно 4:30–11:30 и 13:30–17:30 5 INR (для иностранных граждан – 100 INR) 20–30 минут Современный монастырь, храмовое спокойствие",
+          "context": "Mulagandhakuti Vihara brings the route back from excavated fragments to living practice. Maha Bodhi Society says the Vihara was completed and opened on 11 November 1931, one of Anagarika Dharmapala's major achievements, and that religious services and daily Dhammachakka Sajjhayana continue at the Sarnath Center. Kashi and travel listings add the visual layer: frescoes by Japanese artist Kosetsu Nosu and a Bodhi tree in the precinct.",
+          "lookFor": "The modern temple profile, Kosetsu Nosu fresco cycle, golden Buddha image, Bodhi tree, prayer rhythm and the contrast with the ASI ruins behind you.",
+          "practical": "This is a managed religious site, not an ASI museum room. A current visitor listing gives 04:30-11:30 and 13:30-17:30 daily, but Maha Bodhi Society's official center page does not publish a simple visitor-hours table; verify at the gate and keep dress/voice respectful.",
           "nextMove": "От храма пройдите по аллее к парку с оленями – последняя остановка нашего маршрута.",
+          "sourceNote": "Проверено по Maha Bodhi Society Sarnath Center, Kashi official Sarnath page and a current Mulagandha Kuti Vihar visitor listing: MBSI says the Vihara opened on 11 November 1931, is tied to Anagarika Dharmapala, received Buddha relics from the Director-General of Archaeology, and hosts religious services/daily Dhammachakka Sajjhayana; Kashi/Tour My India describe Kosetsu Nosu frescoes and Bodhi tree; listing gives 04:30-11:30 and 13:30-17:30 but this remains a local-check item.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Внутри – золотая статуя Будды и спокойный зал для медитации. Во дворе растёт потомок священного дерева Бодхи, привезённый из Шри‑Ланки. Звон колокола и запах сандала создают атмосферу покоя."
+              "title": "Современная святыня после ruins",
+              "body": "После ASI-памятников Vihara меняет тон: это не excavated past, а место, где Сарнатх продолжает звучать как practice. Поэтому лучше не спешить внутрь только ради отметки. Посмотрите, как twentieth-century Buddhist revival, relic devotion, frescoes and daily chanting отвечают древним ступам через дорогу."
             }
           ]
         },
@@ -3659,6 +3739,11 @@
         "coordinates": {
           "latitude": 25.3834,
           "longitude": 83.0215
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Managed religious site; common visitor listing shows 04:30-11:30 and 13:30-17:30 daily, but verify locally because the official MBSI center page does not publish a simple hours table.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-7",
@@ -3678,19 +3763,26 @@
         "id": "varanasi-sarnath-buddhist-beginnings-8",
         "guideId": "varanasi-sarnath-buddhist-beginnings",
         "order": 8,
-        "name": "Парк оленей (Мригадева)",
+        "name": "Олений парк (Mrigadava)",
+        "nameLocal": "Mrigadava / Deer Park",
+        "sourceIds": [
+          "varanasi_sarnath_asi_story",
+          "varanasi_kashi_sarnath",
+          "varanasi_mahabodhi_sarnath"
+        ],
         "note": "Садитесь на скамейку у пруда и наблюдайте за оленями – эта тишина и есть заключительная медитация.",
         "time": "15 мин",
         "walk": "-",
         "content": {
-          "context": "Завершите прогулку в парке оленей, где, согласно легенде, Будда в одной из прошлых жизней пожертвовал собой, чтобы спасти стадо. На этом месте он прочитал первую проповедь пяти ученикам, и здесь возникла первая община монахов.",
-          "lookFor": "оленей и антилоп противопоставленные современные скульптуры информационные стенды о фауне",
-          "practical": "Ежедневно 8:00–17:30 10 INR для индийцев, 50 INR для иностранцев 15 минут Зелёный парк, идеально для завершения прогулки",
+          "context": "Финал возвращает route title к старому имени места. ASI story says Sarnath is also known in Buddhist literature as Mrigadava or Mrigadaya because deer roamed freely here after a king granted them protection, moved by the Bodhisattva's sacrifice as Nyagrodhamriga. Kashi notes that today's small Deer Park is a modern open animal park/mini-zoo that pays homage to that older spiritual name.",
+          "lookFor": "Quiet lawns, deer enclosures, the softer edge between pilgrimage memory and modern maintained parkland, and the mental line back to Dhamekh Stupa.",
+          "practical": "Treat the modern Deer Park as a separate managed attraction: access, fees and animal areas can change. Do not feed or disturb animals, and do not let this optional finish replace same-day checks for ASI ruins, museum and temple hours.",
           "nextMove": "Отсюда можно вернуться к воротам парка, завершив маршрут.",
+          "sourceNote": "Проверено по ASI Google Arts story, Kashi official Sarnath page and Maha Bodhi Society context: ASI gives the Mrigadava/Mrigadaya deer-park explanation and first-sangha framing; Kashi describes today's Deer Park as a small modern animal park/mini-zoo connected to the older name; MBSI frames Sarnath as the site of Buddha's first sermon and ongoing Dhammachakka observance.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Сегодня парк – ухоженный заповедник с газонами, прудами и вольерами с оленями, антилопами и павлинами. Прогулка среди животных позволяет лучше почувствовать, почему это место называли Мригадева – ‘олений загон’."
+              "title": "Почему маршрут заканчивается оленями",
+              "body": "Deer Park is a gentle ending because it returns the historical site to a moral image: protected animals, first listeners, first community. После pillars, stupas and museum fragments this is the stop that lets the route exhale. It is also the place to remember that modern parkland is not identical to ancient Mrigadava, only an echo of it."
             }
           ]
         },
@@ -3698,6 +3790,11 @@
         "coordinates": {
           "latitude": 25.3825,
           "longitude": 83.0212
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Modern Deer Park access is separate from ASI ruins and can vary; verify local hours/fees before relying on a fixed 08:00-17:30 window.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "varanasi-sarnath-buddhist-beginnings-stop-8",
