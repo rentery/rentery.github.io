@@ -137,7 +137,7 @@
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
-      "packHash": "735877ca8b34",
+      "packHash": "780643d03b4a",
       "packPath": "cities/chiang-mai/offline-pack.json"
     },
     "copenhagen": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T10:23:12.663Z",
+  "generatedAt": "2026-06-26T10:35:23.167Z",
   "locale": "en",
   "schemaVersion": 1
 }
