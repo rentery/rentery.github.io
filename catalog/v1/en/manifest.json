@@ -33,7 +33,7 @@
       "packPath": "cities/bordeaux/offline-pack.json"
     },
     "budapest": {
-      "packHash": "73df31e59eb0",
+      "packHash": "16c8ed71e273",
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T12:52:30.637Z",
+  "generatedAt": "2026-06-26T13:07:01.574Z",
   "locale": "en",
   "schemaVersion": 1
 }
