@@ -3258,11 +3258,17 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 1,
         "name": "Староновая синагога — начало маршрута",
+        "nameLocal": "Staronová synagoga / Old-New Synagogue",
+        "sourceIds": [
+          "old-new-synagogue-official",
+          "prague-city-tourism-old-new-synagogue",
+          "jewish-museum-prague-opening-hours"
+        ],
         "note": "Готическое сердце еврейского квартала.",
         "time": "15 мин",
         "walk": "От Староновой синагоги пройдите несколько шагов к Еврейской ратуше: держитесь улицы у синагоги и ищите фасад с двумя часами.",
         "content": {
-          "context": "Вы начинаете прогулку со Староновой синагоги — старейшего действующего молитвенного дома Европы. Готическое здание конца XIII века выделяется массивными контрфорсами и стрельчатыми сводами. По легенде ангелы принесли сюда камни из разрушенного Иерусалимского храма, а на чердаке до сих пор хранится глиняное сердце Голема. Здесь читали проповеди раввин Лёв и другие мудрецы. Внутри снимки делать нельзя, но послушайте тишину, взгляните на вечный огонь и почувствуйте, как прошлое живёт в настоящем. Имейте в виду, что синагога закрыта по субботам и еврейским праздникам и в пятницу закрывается раньше, чем начинается шаббат.",
+          "context": "Вы начинаете прогулку со Староновой синагоги — старейшего действующего молитвенного дома Европы. Готическое здание конца XIII века выделяется массивными контрфорсами и стрельчатыми сводами. По легенде ангелы принесли сюда камни из разрушенного Иерусалимского храма, а с раввином Лёвом связана самая известная пражская история о Големе. Здесь молитва не стала музейной декорацией: синагога остаётся главным молитвенным домом Пражской еврейской общины. Внутри соблюдайте правила съёмки и поведения, а снаружи посмотрите, как низкие пристройки почти обнимают раннеготическое ядро. Имейте в виду, что синагога закрыта по субботам и еврейским праздникам и в пятницу закрывается раньше, чем начинается шаббат.",
           "lookFor": "Массивные контрфорсы и стрельчатые своды\nВечный огонь и строгий молитвенный интерьер\nЛегенду о Големе и раввине Лёве в местных рассказах",
           "practical": "Проверяйте часы перед визитом: синагога закрыта по субботам и еврейским праздникам, а по пятницам закрывается раньше. Внутри не фотографируют.",
           "nextMove": "От Староновой синагоги пройдите несколько шагов к Еврейской ратуше: держитесь улицы у синагоги и ищите фасад с двумя часами.",
@@ -3271,12 +3277,18 @@
               "title": "Готическое сердце Йозефова",
               "body": "Староновая синагога держит маршрут в живом настоящем: это не только памятник XIII века, но и действующий молитвенный дом. Легенда о камнях из Иерусалима и Големе показывает, как архитектура здесь быстро переходит в память и миф."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по synagogue.cz, Prague City Tourism и Jewish Museum Prague opening hours: Old-New Synagogue - oldest extant/active synagogue in Europe, built in the last third / late 13th century, main synagogue of the Prague Jewish Community, part of the Jewish Town circuit; 2026 visitor hours are seasonal, Saturdays/Jewish holidays closed, Fridays usually close an hour before Shabbat."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.090074,
           "longitude": 14.418603
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Сезонные часы; сб и еврейские праздники закрыто, пт обычно закрывается раньше шаббата.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-1",
@@ -3297,6 +3309,11 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 2,
         "name": "Еврейская ратуша и часы",
+        "nameLocal": "Židovská radnice / Jewish Town Hall",
+        "sourceIds": [
+          "jewish-museum-prague-visit",
+          "jguide-europe-prague-jewish-town-hall"
+        ],
         "note": "Часы с ивритскими цифрами.",
         "time": "15 мин",
         "walk": "От ратуши вернитесь к узким улицам Йозефова и двигайтесь к Пинкасовой синагоге, следующей тихой остановке маршрута.",
@@ -3310,12 +3327,18 @@
               "title": "Самоуправление гетто",
               "body": "Еврейская ратуша напоминает, что квартал был не только религиозным, но и административным пространством. Две системы времени на фасаде делают эту автономию видимой прямо с улицы."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague visit overview and JGuide Europe: Prague Jewish Town is a compact ensemble in former Josefov; Jewish Town Hall is an exterior stop beside the Old-New Synagogue, known for two clock faces, one with Roman numerals and one with Hebrew letters whose hands run counterclockwise following right-to-left Hebrew reading. Public visitor access is not treated as available."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.0895,
           "longitude": 14.4182
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Внешний осмотр с улицы; публичный вход не планируйте.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-2",
@@ -3336,25 +3359,36 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 3,
         "name": "Пинкасова синагога — мемориал Холокоста",
+        "nameLocal": "Pinkasova synagoga / Pinkas Synagogue",
+        "sourceIds": [
+          "jewish-museum-prague-pinkas",
+          "jewish-museum-prague-opening-hours"
+        ],
         "note": "Тихое место памяти.",
         "time": "15 мин",
         "walk": "После Пинкасовой синагоги перейдите к Старому еврейскому кладбищу за стеной: следующая остановка продолжает тему памяти уже через камень и землю.",
         "content": {
           "context": "Синагога была построена в 1535 году купцом Аароном Мешуламом Хоровицем. Сегодня это не просто молитвенный дом, а мемориал: на стенах выписаны имена почти 80 000 чешских и моравских евреев, погибших во время Холокоста. На втором этаже выставлены детские рисунки из лагеря Терезин. Тишина, в которой вы стоите, наполнена голосами тех, чья жизнь была прервана. Обратите внимание на символику на стенах и постарайтесь сохранить эту память. Синагога закрыта в субботу и в еврейские праздники; летом она работает до вечера, а зимой закрывается раньше.",
           "lookFor": "Имена почти 80 000 погибших на стенах\nДетские рисунки из Терезина на втором этаже\nСдержанную тишину мемориального пространства",
-          "practical": "Сохраняйте тишину и заранее проверяйте режим работы: синагога закрыта в субботу и еврейские праздники, а сезонные часы меняются.",
+          "practical": "Сохраняйте тишину и заранее проверяйте режим работы: объект входит в контур Prague Jewish Town, закрыт в субботу и еврейские праздники, а сезонные часы меняются.",
           "nextMove": "После Пинкасовой синагоги перейдите к Старому еврейскому кладбищу за стеной: следующая остановка продолжает тему памяти уже через камень и землю.",
           "deepDive": [
             {
               "title": "Имена вместо экспозиции",
               "body": "Пинкасова синагога меняет тон маршрута: стены становятся списком утраченных жизней. Детские рисунки из Терезина добавляют к официальной памяти личный, почти невыносимо хрупкий слой."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague Pinkas Synagogue and opening-hours pages: memorial to nearly 80,000 Czech and Moravian Shoah victims, created 1955-1960 and reopened in 1995 after reconstruction; upper floor has the permanent Terezin children's drawings exhibition, 4,387 drawings, UNESCO Memory of the World 2025; visitor circuit uses seasonal 2026 hours and closes Saturdays/Jewish holidays."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.08931,
           "longitude": 14.41701
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Сезонные часы Jewish Museum Prague; сб и еврейские праздники закрыто.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-3",
@@ -3375,6 +3409,12 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 4,
         "name": "Старое еврейское кладбище — камни, наложенные временем",
+        "nameLocal": "Starý židovský hřbitov / Old Jewish Cemetery",
+        "sourceIds": [
+          "jewish-museum-prague-old-jewish-cemetery",
+          "jewish-museum-prague-opening-hours",
+          "prague-city-tourism-old-jewish-cemetery"
+        ],
         "note": "Камни, как отражение веков.",
         "time": "15 мин",
         "walk": "От кладбища продолжайте к Клаусовой синагоге рядом с похоронным братством: маршрут переходит от надгробий к традициям общинной жизни.",
@@ -3388,12 +3428,18 @@
               "title": "Слои захоронений",
               "body": "Кладбище показывает физический предел старого гетто: места не хватало, и захоронения ложились слоями. Поэтому камни здесь выглядят как сжатый архив нескольких веков."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague Old Jewish Cemetery, Jewish Museum opening-hours and Prague City Tourism: cemetery was in use between 1439 and 1787, with more than/around 12,000 preserved tombstones; graves were stacked because burial customs prohibit disturbing graves, with some research suggesting up to ten layers; Prague City Tourism notes burial ended after Joseph II's decree in 1787."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.09004,
           "longitude": 14.41766
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Сезонные часы Jewish Museum Prague; сб и еврейские праздники закрыто.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-4",
@@ -3414,25 +3460,36 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 5,
         "name": "Клаусовая синагога и традиции",
+        "nameLocal": "Klausova synagoga / Klausen Synagogue",
+        "sourceIds": [
+          "jewish-museum-prague-klausen",
+          "prague-city-tourism-klausen"
+        ],
         "note": "Одна из самых больших синагог Йозефова.",
         "time": "15 мин",
         "walk": "От Клаусовой синагоги вернитесь в сеть улиц Йозефова и направляйтесь к Майзеловой синагоге, связанной с богатством и покровительством Мордехая Майзеля.",
         "content": {
           "context": "Название происходит от маленьких молитвенных \"клаусов\", стоявших здесь до пожара 1689 года. После него выстроили одноэтажную барочную Клаусовую синагогу — крупнейшую в гетто. Она была связана с Похоронным братством и рассказывала о законах и обычаях еврейской жизни. Внутри обычно размещалась выставка о традициях, но в 2024 году здание закрыли на реконструкцию, которая продлится несколько лет. Осмотрите фасад с декоративными фронтонами и представьте, как сюда приходили семьи отмечать праздники и обряды.",
           "lookFor": "Барочный фасад и декоративные фронтоны\nСледы связи с Похоронным братством\nЗакрытое на реконструкцию здание как часть живой музейной системы",
-          "practical": "Здание закрыто на реконструкцию на несколько лет, поэтому рассчитывайте на внешний осмотр фасада и не планируйте внутреннюю экспозицию.",
+          "practical": "Здание закрыто на реконструкцию: Jewish Museum Prague планирует reopening in 2028 at the latest. Рассчитывайте на внешний осмотр фасада, если нет специального события.",
           "nextMove": "От Клаусовой синагоги вернитесь в сеть улиц Йозефова и направляйтесь к Майзеловой синагоге, связанной с богатством и покровительством Мордехая Майзеля.",
           "deepDive": [
             {
               "title": "Традиции после пожара",
               "body": "Клаусовая синагога возникла после пожара 1689 года на месте маленьких молитвенных домов. Её история связывает бедствие, восстановление и повседневные обряды общины."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague Klausen Synagogue and Prague City Tourism: largest preserved synagogue of the former Prague ghetto, built in 1694 on the site of three smaller 'Klausen' after the 1689 fire; exhibition uninstalled from 2024-07-01, Klausen Synagogue and Ceremonial Hall temporarily closed; planned reopening in 2028 at the latest; only special occasions/short exhibitions possible."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.09023,
           "longitude": 14.41756
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Закрыта на реконструкцию; reopening planned by 2028 at latest.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-5",
@@ -3453,6 +3510,12 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 6,
         "name": "Майзелова синагога — коммерсант и меценат",
+        "nameLocal": "Maiselova synagoga / Maisel Synagogue",
+        "sourceIds": [
+          "jewish-museum-prague-maisel",
+          "jewish-museum-prague-opening-hours",
+          "prague-city-tourism-maisel"
+        ],
         "note": "Узнайте, как торговля помогла создать роскошь.",
         "time": "15 мин",
         "walk": "От Майзеловой синагоги идите к Испанской синагоге: там маршрут резко меняет язык с ренессансной памяти на мавританский орнамент XIX века.",
@@ -3466,12 +3529,18 @@
               "title": "Богатство и уязвимость",
               "body": "История Майзеловой синагоги показывает двойственность процветания. Купеческое богатство позволило создать роскошный молитвенный дом, но оно же делало общину заметной и уязвимой."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague Maisel Synagogue, Prague City Tourism and opening-hours pages: commissioned by Mordecai Maisel, built 1590-1592, largest/grandest synagogue in the ghetto, fire damage in 1689, later Neo-Gothic / pseudo-Gothic remake during Josefov urban renewal, now exhibition on Jews in Bohemian lands from the 10th-18th century; seasonal Jewish Town hours apply."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.08942,
           "longitude": 14.41792
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Сезонные часы Jewish Museum Prague; сб и еврейские праздники закрыто.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-6",
@@ -3492,6 +3561,11 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 7,
         "name": "Испанская синагога — восточный орнамент в сердце Праги",
+        "nameLocal": "Španělská synagoga / Spanish Synagogue",
+        "sourceIds": [
+          "jewish-museum-prague-spanish",
+          "jewish-museum-prague-opening-hours"
+        ],
         "note": "Лепнина, арабески и музыка.",
         "time": "15 мин",
         "walk": "От Испанской синагоги выходите к улице Парижска: широкий бульвар покажет, как старый квартал изменили асанация и модернизация.",
@@ -3505,12 +3579,18 @@
               "title": "Орнамент как заявление",
               "body": "Испанская синагога говорит о новом этапе Йозефова: мавританский стиль стал языком культурного подъёма и интеграции. Здесь память квартала звучит уже через декоративную уверенность XIX века."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Jewish Museum Prague Spanish Synagogue and opening-hours pages: part of the Prague Jewish Town circuit; houses permanent exhibition Jews in the Bohemian Lands, 19th-20th Centuries, focused on emancipation, Czech-Jewish and Zionist movements, Hilsner Affair, urban renewal, Holocaust and post-war renewal; current Jewish Town seasonal hours apply, events/concerts can change the visitor experience."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.08998,
           "longitude": 14.41682
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Сезонные часы Jewish Museum Prague; события и концерты проверяйте отдельно.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-7",
@@ -3531,11 +3611,16 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 8,
         "name": "Улица Парижска и асанация",
+        "nameLocal": "Pařížská ulice / Josefov sanitation",
+        "sourceIds": [
+          "prague-city-tourism-parizska-street",
+          "archiweb-prague-sanitation"
+        ],
         "note": "Бульвар модернизации: от квартала к роскошному проспекту.",
         "time": "15 мин",
         "walk": "От Парижска двигайтесь к монастырю святой Агнессы на краю маршрута: после модернизированного бульвара финал станет тише и средневековее.",
         "content": {
-          "context": "В конце XIX века власти Праги решили санировать перенаселённый и антисанитарный Йозефов. Закон об асанации 1893 года разрешил снос 260 домов в районе. Новая широкая улица, названная сначала Микулашской, а в 1926 году получившая имя Парижска, прорезала старый квартал, соединяя Староместскую площадь с мостом Чеха. По образцу парижских бульваров здесь выросли дома в стиле историзма и арт‑нуво, которые сейчас заняты дорогими бутиками. Эта улица напоминает, что модернизация спасла часть гетто от разрухи, но уничтожила множество средневековых улиц. Посмотрите на дома и сравните их с сохранившимися синагогами — ощутите напряжение между памятью и прогрессом.",
+          "context": "В конце XIX века власти Праги решили санировать перенаселённый и антисанитарный Йозефов. Закон об асанации 1893 года дал правовую основу для сноса и перепланировки значительной части района; к 1914 году крупнейшие работы уже изменили сотни домов в Йозефове, Старом и Новом городе. Новая широкая улица, названная сначала Микулашской, а в 1926 году получившая имя Парижска, прорезала старый квартал, соединяя Староместскую площадь с мостом Чеха. По образцу парижских бульваров здесь выросли дома в стиле историзма и арт-нуво, которые сейчас заняты дорогими бутиками. Эта улица напоминает, что модернизация спасала город от разрухи и антисанитарии, но уничтожила множество средневековых улиц. Посмотрите на дома и сравните их с сохранившимися синагогами — ощутите напряжение между памятью и прогрессом.",
           "lookFor": "Широкий бульвар вместо средневековых переулков\nДома историзма и арт-нуво\nКонтраст бутиков с сохранившимися синагогами",
           "practical": "Парижска оживлённая и коммерческая, поэтому лучше смотреть выше уровня витрин: фасады и линия улицы яснее показывают результат асанации.",
           "nextMove": "От Парижска двигайтесь к монастырю святой Агнессы на краю маршрута: после модернизированного бульвара финал станет тише и средневековее.",
@@ -3544,12 +3629,18 @@
               "title": "Цена модернизации",
               "body": "Асанация конца XIX века спасала район от перенаселённости и антисанитарии, но уничтожила множество старых улиц. Парижска — красивый и болезненный след этой городской операции."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по Prague City Tourism Pařížská Street and Archiweb sanitation overview: Pařížská traverses the Jewish Town and connects Old Town Square with Čechův Bridge, lined with historicist and Art Nouveau façades and luxury boutiques; sanitation changed Prague around the turn of the 19th/20th century, with 469 houses demolished before 1914, including 247 in Josefov, 198 in Old Town and 24 in New Town."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.09014,
           "longitude": 14.4173
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Открытая городская улица; фасады лучше читать выше уровня витрин.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-8",
@@ -3570,11 +3661,16 @@
         "guideId": "prague-josefov-old-town-memory",
         "order": 9,
         "name": "Монастырь св. Агнессы — тишина средневековья",
+        "nameLocal": "Klášter sv. Anežky České / Convent of St Agnes of Bohemia",
+        "sourceIds": [
+          "ngprague-convent-st-agnes",
+          "prague-city-tourism-convent-st-agnes"
+        ],
         "note": "Поворот в мир искусства и созерцания.",
         "time": "15 мин",
         "walk": "-",
         "content": {
-          "context": "В стороне от шумных улиц — обитель XIII века, построенная королём Вацлавом I и его сестрой Агнессой. Это первый готический комплекс Праги, где жили монахини‑клариски и братья‑минориты, а в крипте покоятся представители династии Пржемысловичей. После периодов запустения монастырь был восстановлен и сегодня принадлежит Национальной галерее: здесь выставлены шедевры средневекового искусства, а во дворе разбит тихий сад. Обход завершает маршрут: выйдя из ворот, оглянитесь назад на пройденный путь — от древней синагоги до монастыря, от памяти к современности. Монастырь открыт со вторника по воскресенье с 10:00 до 18:00, в понедельник закрыт.",
+          "context": "В стороне от шумных улиц — обитель XIII века, основанная Агнессой Чешской вместе с братом, королём Вацлавом I. Prague City Tourism называет комплекс одним из важнейших готических зданий Праги и первым готическим зданием в городе и Богемии; National Gallery Prague связывает его сегодня с medieval art and gardens. После плотного Йозефова это меняет тон: вместо тесной памяти гетто появляется тихий монастырский объём, связанный с ранней готикой и искусством.\n\nПосле периодов запустения монастырь был восстановлен и сегодня принадлежит Национальной галерее: здесь выставлены шедевры средневекового искусства, а во дворе разбит сад. Обход завершает маршрут: выйдя из ворот, оглянитесь назад на пройденный путь — от древней синагоги до монастыря, от памяти к современности. Монастырь открыт со вторника по воскресенье с 10:00 до 18:00, в понедельник закрыт.",
           "lookFor": "Готические объёмы монастыря XIII века\nТихий двор и сад\nСвязь комплекса с Национальной галереей и средневековым искусством",
           "practical": "Монастырь открыт со вторника по воскресенье с 10:00 до 18:00, в понедельник закрыт. После маршрута это спокойное место для паузы и просмотра средневекового искусства.",
           "nextMove": "Маршрут завершается у монастыря святой Агнессы. Оглянитесь на путь от синагог и кладбища к монастырскому двору: это и есть дуга памяти Йозефова.",
@@ -3583,12 +3679,18 @@
               "title": "Тихий средневековый финал",
               "body": "Монастырь святой Агнессы выводит прогулку из плотного Йозефова к ранней готике Праги. Финал показывает, что память района живёт рядом с более широким средневековым городом."
             }
-          ]
+          ],
+          "sourceNote": "Проверено по National Gallery Prague and Prague City Tourism: Convent of St Agnes of Bohemia / Klášter sv. Anežky České, founded around 1230 / 1233-1234 by Agnes with King Wenceslas I, important early Gothic complex, National Gallery building with medieval art; museum Tue-Sun 10:00-18:00, Mon closed; gardens have seasonal daily hours and may close in bad weather."
         },
         "entry": "снаружи",
         "coordinates": {
           "latitude": 50.09294,
           "longitude": 14.42405
+        },
+        "hours": {
+          "rules": [],
+          "summary": "Музей вт-вс 10:00-18:00, пн закрыто; сад имеет сезонные часы.",
+          "checkedAt": "2026-06-26"
         },
         "photo": {
           "id": "prague-josefov-old-town-memory-stop-9",
