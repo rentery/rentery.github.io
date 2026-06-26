@@ -2042,6 +2042,11 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "fantes-history",
+            "italianmarket-history",
+            "encyclopedia-immigrant"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-1",
             "kind": "photo",
@@ -2085,6 +2090,10 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "stpaul-history",
+            "stpaul-schedule"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-2",
             "kind": "photo",
@@ -2128,6 +2137,10 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "italianmarket-visitor-center",
+            "our-market-tour"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-3",
             "kind": "photo",
@@ -2171,6 +2184,11 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "fantes-history",
+            "hidden-city-mexican",
+            "encyclopedia-immigrant"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-4",
             "kind": "photo",
@@ -2214,6 +2232,11 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "hidden-city-mexican",
+            "blue-corn-page",
+            "aqui-y-alla"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-5",
             "kind": "photo",
@@ -2257,6 +2280,10 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "pats-history",
+            "genos-article"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-6",
             "kind": "photo",
@@ -2300,12 +2327,22 @@
             "rules": [],
             "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
           },
+          "sourceIds": [
+            "parc-singing",
+            "solo-real-estate-passayunk"
+          ],
           "photo": {
             "id": "philadelphia-south-ninth-immigrant-market-stop-7",
-            "kind": "generated",
+            "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-south-ninth-immigrant-market-stop-7-wide.jpg",
             "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-south-ninth-immigrant-market-stop-7-square.jpg",
-            "alt": "Сгенерированное не-документальное изображение рыночной улицы South 9th, не фото Singing Fountain."
+            "alt": "Навигационный знак East Passyunk District на Passyunk Ave и Tasker St рядом с Singing Fountain; контекстный ориентир района, не фото самого фонтана.",
+            "attribution": {
+              "author": "Nick-philly",
+              "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walk!_Philadelphia_East_Passyunk_District_Directional_Sign_at_Passyunk_Ave_and_Tasker_St_(DSC_3613).jpg",
+              "retrievedAt": "2026-06-26"
+            }
           }
         }
       ],
@@ -4594,6 +4631,11 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "fantes-history",
+        "italianmarket-history",
+        "encyclopedia-immigrant"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-1",
         "kind": "photo",
@@ -4637,6 +4679,10 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "stpaul-history",
+        "stpaul-schedule"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-2",
         "kind": "photo",
@@ -4680,6 +4726,10 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "italianmarket-visitor-center",
+        "our-market-tour"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-3",
         "kind": "photo",
@@ -4723,6 +4773,11 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "fantes-history",
+        "hidden-city-mexican",
+        "encyclopedia-immigrant"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-4",
         "kind": "photo",
@@ -4766,6 +4821,11 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "hidden-city-mexican",
+        "blue-corn-page",
+        "aqui-y-alla"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-5",
         "kind": "photo",
@@ -4809,6 +4869,10 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "pats-history",
+        "genos-article"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-6",
         "kind": "photo",
@@ -4852,12 +4916,22 @@
         "rules": [],
         "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
       },
+      "sourceIds": [
+        "parc-singing",
+        "solo-real-estate-passayunk"
+      ],
       "photo": {
         "id": "philadelphia-south-ninth-immigrant-market-stop-7",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/philadelphia/philadelphia-south-ninth-immigrant-market-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/philadelphia/philadelphia-south-ninth-immigrant-market-stop-7-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение рыночной улицы South 9th, не фото Singing Fountain."
+        "alt": "Навигационный знак East Passyunk District на Passyunk Ave и Tasker St рядом с Singing Fountain; контекстный ориентир района, не фото самого фонтана.",
+        "attribution": {
+          "author": "Nick-philly",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walk!_Philadelphia_East_Passyunk_District_Directional_Sign_at_Passyunk_Ave_and_Tasker_St_(DSC_3613).jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
@@ -5244,5 +5318,5 @@
       }
     }
   ],
-  "packHash": "04d28455fda9"
+  "packHash": "ed8e3c0737b6"
 }
