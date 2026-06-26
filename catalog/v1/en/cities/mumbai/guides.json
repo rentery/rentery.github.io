@@ -3771,7 +3771,11 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-1",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_1",
+          "source_2",
+          "source_3"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-1",
           "kind": "photo",
@@ -3816,13 +3820,23 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-2",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_4",
+          "source_5",
+          "source_7"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-2",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-2-wide.jpg",
           "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-2-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение плотного cloth-market lane в Bhuleshwar, не фото Mangaldas или Mulji Jetha Market."
+          "alt": "Уличный лоток с тканями и одеждой на рынке в Мумбаи; контекстный вид торговой среды рядом с Bhuleshwar, не интерьер Mangaldas или Mulji Jetha Market.",
+          "attribution": {
+            "author": "David Brossard",
+            "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://www.flickr.com/photos/string_bass_dave/14454938985/",
+            "retrievedAt": "2026-06-26"
+          }
         }
       },
       {
@@ -3855,7 +3869,11 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-3",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_6",
+          "source_8",
+          "source_14"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-3",
           "kind": "photo",
@@ -3900,7 +3918,10 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-4",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_8",
+          "source_14"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-4",
           "kind": "photo",
@@ -3945,7 +3966,10 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-5",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_10",
+          "source_13"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-5",
           "kind": "photo",
@@ -3990,7 +4014,10 @@
           "summary": "Открытое городское пространство; выбирайте точку обзора без помех пешеходному потоку."
         },
         "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-6",
-        "sourceIds": [],
+        "sourceIds": [
+          "source_11",
+          "source_12"
+        ],
         "photo": {
           "id": "mumbai-bhuleshwar-markets-mumbadevi-stop-6",
           "kind": "photo",
