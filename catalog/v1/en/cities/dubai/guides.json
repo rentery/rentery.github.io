@@ -7149,10 +7149,16 @@
         ],
         "photo": {
           "id": "dubai-marina-jbr-bluewaters-waterfront-stop-6",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-marina-jbr-bluewaters-waterfront-stop-6-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-marina-jbr-bluewaters-waterfront-stop-6-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение вечерней waterfront-прогулки в Dubai Marina/Bluewaters, не фото пешеходного моста."
+          "alt": "Мостовой переход от JBR/Marina Beach в сторону Bluewaters, вид с воды; на кадре не крупный план настила.",
+          "attribution": {
+            "author": "Sergei Gussev",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Beach.jpg",
+            "retrievedAt": "2026-06-26"
+          }
         }
       },
       {
