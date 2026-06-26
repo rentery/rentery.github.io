@@ -193,7 +193,7 @@
       "packPath": "cities/naples/offline-pack.json"
     },
     "new-orleans": {
-      "packHash": "f872b5b148a2",
+      "packHash": "6bcad8d860c8",
       "packPath": "cities/new-orleans/offline-pack.json"
     },
     "new-york": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T02:37:43.841Z",
+  "generatedAt": "2026-06-26T04:55:13.519Z",
   "locale": "ru",
   "schemaVersion": 1
 }

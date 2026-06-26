@@ -15,8 +15,8 @@
     "photo": {
       "id": "new-orleans-city-hero",
       "kind": "generated",
-      "wide": "",
-      "square": "",
+      "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-wide.jpg",
+      "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-city-hero-square.jpg",
       "alt": "Сгенерированный editorial hero города Новый Орлеан"
     },
     "identity": {
@@ -856,16 +856,19 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-1",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-1-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-1-square.jpg",
             "alt": "French Market arch New Orleans May 2009",
             "attribution": {
               "author": "Derek Bridges",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-16"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Market_arch_New_Orleans_May_2009.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_french_market_official"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-2",
@@ -900,16 +903,19 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-2",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-2-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-2-square.jpg",
             "alt": "French Market Entrance, New Orleans, LA (1 of 1)",
             "attribution": {
               "author": "Reweaver33",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-16"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Market_Entrance%2C_New_Orleans%2C_LA_%281_of_1%29.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_french_market_official"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-3",
@@ -939,16 +945,20 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-3",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-3-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-3-square.jpg",
             "alt": "GallierHouseBelowA.jpg",
             "attribution": {
               "author": "Infrogmation of New Orleans",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-16"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGallierHouseBelowA.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_nps_gallier_asset",
+            "src_hgghh_official"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-4",
@@ -978,16 +988,20 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-4",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-4-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-4-square.jpg",
             "alt": "GallierHouseBelowA.jpg",
             "attribution": {
               "author": "Infrogmation of New Orleans",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-16"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGallierHouseBelowA.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_hgghh_official",
+            "src_nps_gallier_asset"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-5",
@@ -1017,16 +1031,21 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-5",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-5-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-5-square.jpg",
             "alt": "French Quarter Building - Pontalba corner, New Orleans",
             "attribution": {
               "author": "Chris Waits",
               "license": "CC BY 2.0; cropped/resized for app",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-16"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Quarter_Building_-_Pontalba_corner%2C_New_Orleans.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_nps_pontalba_nrhp",
+            "src_lsm_1850",
+            "src_nps_vieux_carre"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-6",
@@ -1056,16 +1075,23 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-6",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-6-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-6-square.jpg",
             "alt": "Jackson Square, собор и бывшая власть",
             "attribution": {
               "author": "Spatms",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-19"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cabildo,_St._Louis_Cathedral,_Presbytere,_New_Orleans.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_nps_jackson_square",
+            "src_stlouis_history",
+            "src_stlouis_visit",
+            "src_lsm_cabildo",
+            "src_lsm_presbytere"
+          ]
         },
         {
           "id": "new-orleans-french-quarter-mississippi-layers-7",
@@ -1100,24 +1126,29 @@
           "photo": {
             "id": "new-orleans-french-quarter-mississippi-layers-stop-7",
             "kind": "photo",
-            "wide": "",
-            "square": "",
+            "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-7-wide.jpg",
+            "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-7-square.jpg",
             "alt": "Goldring Woldenberg Riverfront Park",
             "attribution": {
               "author": "Infrogmation of New Orleans",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-              "sourceUrl": "",
-              "retrievedAt": "2026-06-19"
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woldenberg_Park_New_Orleans_Riverfront_July_2007.jpg",
+              "retrievedAt": "2026-06-26"
             }
-          }
+          },
+          "sourceIds": [
+            "src_axios_riverfront_2026",
+            "src_axios_riverfront_features_2026",
+            "src_french_market_official"
+          ]
         }
       ],
       "cover": {
         "id": "new-orleans-french-quarter-mississippi-layers-cover",
         "kind": "generated",
-        "wide": "",
-        "square": "",
-        "alt": "Сгенерированная editorial-обложка маршрута new-orleans-french-quarter-mississippi-layers"
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-cover-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-cover-square.jpg",
+        "alt": "Сгенерированная editorial-обложка маршрута «Французский квартал и Миссисипи: город у реки»"
       }
     },
     {
@@ -3444,16 +3475,19 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-1",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-1-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-1-square.jpg",
         "alt": "French Market arch New Orleans May 2009",
         "attribution": {
           "author": "Derek Bridges",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Market_arch_New_Orleans_May_2009.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_french_market_official"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-2",
@@ -3488,16 +3522,19 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-2",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-2-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-2-square.jpg",
         "alt": "French Market Entrance, New Orleans, LA (1 of 1)",
         "attribution": {
           "author": "Reweaver33",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Market_Entrance%2C_New_Orleans%2C_LA_%281_of_1%29.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_french_market_official"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-3",
@@ -3527,16 +3564,20 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-3",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-3-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-3-square.jpg",
         "alt": "GallierHouseBelowA.jpg",
         "attribution": {
           "author": "Infrogmation of New Orleans",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGallierHouseBelowA.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_nps_gallier_asset",
+        "src_hgghh_official"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-4",
@@ -3566,16 +3607,20 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-4",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-4-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-4-square.jpg",
         "alt": "GallierHouseBelowA.jpg",
         "attribution": {
           "author": "Infrogmation of New Orleans",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGallierHouseBelowA.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_hgghh_official",
+        "src_nps_gallier_asset"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-5",
@@ -3605,16 +3650,21 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-5",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-5-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-5-square.jpg",
         "alt": "French Quarter Building - Pontalba corner, New Orleans",
         "attribution": {
           "author": "Chris Waits",
           "license": "CC BY 2.0; cropped/resized for app",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-16"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Quarter_Building_-_Pontalba_corner%2C_New_Orleans.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_nps_pontalba_nrhp",
+        "src_lsm_1850",
+        "src_nps_vieux_carre"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-6",
@@ -3644,16 +3694,23 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-6",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-6-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-6-square.jpg",
         "alt": "Jackson Square, собор и бывшая власть",
         "attribution": {
           "author": "Spatms",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-19"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cabildo,_St._Louis_Cathedral,_Presbytere,_New_Orleans.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_nps_jackson_square",
+        "src_stlouis_history",
+        "src_stlouis_visit",
+        "src_lsm_cabildo",
+        "src_lsm_presbytere"
+      ]
     },
     {
       "id": "new-orleans-french-quarter-mississippi-layers-7",
@@ -3688,16 +3745,21 @@
       "photo": {
         "id": "new-orleans-french-quarter-mississippi-layers-stop-7",
         "kind": "photo",
-        "wide": "",
-        "square": "",
+        "wide": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-7-wide.jpg",
+        "square": "https://rentery.github.io/images/v1/new-orleans/new-orleans-french-quarter-mississippi-layers-stop-7-square.jpg",
         "alt": "Goldring Woldenberg Riverfront Park",
         "attribution": {
           "author": "Infrogmation of New Orleans",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
-          "sourceUrl": "",
-          "retrievedAt": "2026-06-19"
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woldenberg_Park_New_Orleans_Riverfront_July_2007.jpg",
+          "retrievedAt": "2026-06-26"
         }
-      }
+      },
+      "sourceIds": [
+        "src_axios_riverfront_2026",
+        "src_axios_riverfront_features_2026",
+        "src_french_market_official"
+      ]
     },
     {
       "id": "new-orleans-garden-district-st-charles-oaks-1",
@@ -4251,5 +4313,5 @@
       }
     }
   ],
-  "packHash": "b8c8ecfcdcd4"
+  "packHash": "175d158682cf"
 }
