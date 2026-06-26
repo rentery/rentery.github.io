@@ -237,7 +237,7 @@
       "packPath": "cities/quito/offline-pack.json"
     },
     "riga": {
-      "packHash": "536af936f7c6",
+      "packHash": "d44908c094b5",
       "packPath": "cities/riga/offline-pack.json"
     },
     "rio-de-janeiro": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T05:20:42.173Z",
+  "generatedAt": "2026-06-26T05:25:26.262Z",
   "locale": "ru",
   "schemaVersion": 1
 }
