@@ -185,7 +185,7 @@
       "packPath": "cities/mumbai/offline-pack.json"
     },
     "munich": {
-      "packHash": "a60214b9f2a8",
+      "packHash": "9f2eefdf9c89",
       "packPath": "cities/munich/offline-pack.json"
     },
     "naples": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T00:42:05.279Z",
+  "generatedAt": "2026-06-26T00:54:23.607Z",
   "locale": "ru",
   "schemaVersion": 1
 }
