@@ -795,10 +795,16 @@
       ],
       "photo": {
         "id": "hanoi-french-quarter-hoa-lo-revolution-stop-2",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-french-quarter-hoa-lo-revolution-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/hanoi/hanoi-french-quarter-hoa-lo-revolution-stop-2-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение улицы в Cathedral Quarter Hanoi, не фото улицы Nha Tho."
+        "alt": "Старый французский фасад и уличная жизнь в квартале у Nha Tho; контекстный вид, не точный адрес на улице Ня Тхо.",
+        "attribution": {
+          "author": "Francisco Anzola",
+          "license": "CC BY 2.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_colonial_house_(7162756227).jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
