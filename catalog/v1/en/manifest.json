@@ -305,7 +305,7 @@
       "packPath": "cities/lisbon/offline-pack.json"
     },
     "london": {
-      "packHash": "b1fcc3603d7a",
+      "packHash": "6aedf141995f",
       "packPath": "cities/london/offline-pack.json"
     },
     "lyon": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T14:10:28.483Z",
+  "generatedAt": "2026-06-26T15:13:12.220Z",
   "locale": "en",
   "schemaVersion": 1
 }
