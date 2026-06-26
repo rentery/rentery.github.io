@@ -2186,31 +2186,32 @@
     },
     "cityId": "ho-chi-minh-city",
     "category": "Район",
-    "title": "District 3: Memory of War and Life Under Trees",
-    "subtitle": "Тихий сосед центра: музеи, виллы, кафе и городские паузы после больших дат.",
-    "blurb": "Район 3 переводит историю в человеческий масштаб: музеи, виллы, кафе и тень старых аллей.",
-    "mood": "history",
+    "title": "Район 3: память войны и жизнь под кронами",
+    "subtitle": "Маршрут от военного музея и подпольного тайника к виллам, буддийским местам памяти и розовой церкви Tân Định.",
+    "blurb": "Маршрут от военного музея и подпольного тайника к виллам, буддийским местам памяти и розовой церкви Tân Định.",
+    "mood": "война, виллы, буддийская память, тень деревьев",
     "accent": "#B35B2E",
     "soft": "#F3E7DD",
     "deep": "#7A3F22",
     "ink": "#5C321F",
     "motif": "lane",
-    "duration": "2-3 часа",
+    "duration": "2,5–3 часа",
     "stops": 8,
-    "distance": "около 4,7 км",
+    "distance": "4,7 км",
     "pace": "half",
     "kids": false,
     "microcopy": {
-      "kicker": "Маршрут",
-      "line": "Тихий сосед центра: музеи, виллы, кафе и городские паузы после больших дат."
+      "kicker": "District 3",
+      "line": "От тяжёлой памяти войны к тенистым улицам, частным виллам и буддийскому финалу"
     },
     "content": {
-      "intro": "District 3 sits just north of the old colonial core yet feels worlds away. Here broad boulevards are shaded by towering dipterocarp trees and lined with crumbling villas, temples and war memorials. This route threads together spaces where Saigon’s modern identity was forged: clandestine bunkers used in the 1968 Tết Offensive, museums chronicling wartime trauma, and the everyday charm of lakeside street stalls and pink churches.",
-      "routeLogic": "Маршрут идет от War Remnants Museum к Tân Định Church. Такой порядок сохраняет логику возвращенного guide pack: сначала задает главный городской контекст, затем ведет через ключевые остановки и завершает прогулку финальной точкой маршрута.",
-      "bestFor": "спокойной прогулки по теме маршрута\nпервого знакомства с районом или объектом\nтех, кто хочет читать город через видимые детали",
-      "notFor": "маршрута без самостоятельного чтения места\nгонки по точкам без остановок\nтех, кому нужен только транспортный трансфер",
-      "beforeYouGo": "Most museums in Ho Chi Minh City close for lunch (around 11:30–13:30) and may shut early on Fridays. Dress modestly when visiting temples or churches (shoulders and knees covered) and remove your shoes before entering prayer halls. The War Remnants Museum contains graphic images; consider whether younger visitors might find them distressing. Bring cash for small entrance fees and street food as credit cards are rarely accepted.",
-      "timing": "2-3 часа"
+      "intro": "Район 3 начинается почти рядом с колониальным центром, но звучит иначе. Здесь меньше парадных фасадов и больше промежутков: тень старых деревьев, ограды вилл, школьные дворы, маленькие кафе, музейные залы и перекрёстки, где город помнит войну не как абстрактную дату, а как семейную и уличную историю. Поэтому этот маршрут лучше идти не как набор «ещё восьми мест», а как смену регистров: государственная память, подпольная сеть, женская история, повседневная площадь, закрытая вилла, буддийский кризис и яркий церковный финал.",
+      "routeLogic": "Маршрут специально не уходит сразу к самым фотогеничным местам. Он начинается в War Remnants Museum, где тон задаёт тяжёлая публичная память, затем уводит в маленький тайник оружия, спрятанный в жилой ткани района. После Southern Women’s Museum прогулка смягчается у Turtle Lake, но не становится лёгкой: Phương Nam Mansion показывает, как частная собственность и колониальная архитектура переживают смену режимов, а Xa Lợi и памятник Thích Quảng Đức возвращают к 1963 году и буддийскому протесту. Tân Định Church нужен как финал: цветной, живой, почти праздничный, но всё ещё встроенный в тот же город памяти.",
+      "bestFor": "тем, кто хочет увидеть Хошимин вне открытки с Нотр-Дамом и мэрией",
+      "notFor": "тем, кто ищет лёгкую прогулку без военной и религиозной памяти",
+      "beforeYouGo": "Проверяйте актуальные часы музеев и религиозных мест в день прогулки. В War Remnants Museum экспозиции графичные; с детьми лучше заранее оценить, подходит ли визит.",
+      "timing": "Лучше начинать утром, пока не слишком жарко, или после обеда, если вы готовы закончить ближе к вечерней жизни у Tân Định.",
+      "fallbackPlan": "Если музей или тайник закрыты, не ломайте маршрут: рассматривайте их как внешние остановки и оставьте больше времени на Turtle Lake, Xa Lợi и Tân Định."
     },
     "stopList": [
       {
@@ -2218,20 +2219,21 @@
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 1,
         "name": "War Remnants Museum",
-        "note": "Vietnam’s war memory in artifacts",
-        "time": "15 мин",
-        "walk": "Head west along Võ Văn Tần and turn right onto Nguyễn Đình Chiểu.  After a 10‑minute walk you’ll reach a small alley at 287/70; look for the sign for the secret bunker café.",
+        "note": "Тяжёлый старт, без которого районная прогулка стала бы слишком декоративной.",
+        "time": "35 мин",
+        "walk": "Идите на запад по Võ Văn Tần, затем сверните к Nguyễn Đình Chiểu. Следующая точка спрятана в жилой ткани, поэтому двигайтесь медленно и сверяйте адрес перед поворотом во двор.",
         "content": {
-          "context": "Opened shortly after reunification, the War Remnants Museum is the most sobering institution in Ho Chi Minh City.  Outside, captured UH‑1 Huey helicopters, M48 tanks and howitzers bake in the sun.  Inside, exhibitions chronicle the Indochina and American wars from Vietnamese perspectives, from a re‑created Côn Đảo prison cell with tiger cages to galleries on the effects of Agent Orange.  Upstairs the ‘Requiem’ collection gathers haunting photographs by war correspondents like Larry Burrows and Tim Page.  The building itself once housed the U.S. Information Agency; today it stands as a place for reflection rather than propaganda.",
-          "lookFor": "Don’t miss the courtyard filled with helicopters, tanks and captured artillery. Inside, the Côn Đảo prison cell re‑creation and the ‘Agent Orange’ exhibit show the war’s human toll. On the top floor, photographs by international journalists offer intimate glimpses of daily life during the conflict.",
-          "practical": "Entry costs about 40 000 ₫; tickets are sold from 07:30 until 17:00. Allow at least 1–2 hours. Exhibits are graphic and emotionally challenging; consider visiting earlier in the day to avoid crowds and heat. Photography is allowed in most galleries but respect signs indicating restrictions.",
-          "nextMove": "Head west along Võ Văn Tần and turn right onto Nguyễn Đình Chiểu.  After a 10‑minute walk you’ll reach a small alley at 287/70; look for the sign for the secret bunker café.",
+          "context": "Начинать прогулку с War Remnants Museum непросто, но это честный вход в район. Перед зданием стоят вертолёты, бронетехника и артиллерия, а внутри война показана не как далёкая геополитика, а как опыт тел, семей, фотографов, заключённых и детей. Важно не спешить: музей задаёт масштаб боли, после которого маленькие улицы District 3 уже не выглядят просто тихими и зелёными.\n\nСамо место работает как резкий контраст к остальному маршруту. Через несколько минут вы окажетесь у тайника в обычном доме, потом у музея женской истории, потом у кафе и вилл. Но именно здесь становится понятно, почему район хранит столько слоёв: государственная память, подпольные сети и повседневная жизнь не разнесены по разным частям города, они лежат почти рядом.",
+          "lookFor": "Военную технику во дворе как публичный язык памяти\nФотографии военных корреспондентов и личные истории, а не только витрины с объектами\nКак музейный тон меняет восприятие тихих улиц после выхода",
+          "practical": "Экспозиции могут быть эмоционально тяжёлыми и графичными. Оставьте время на паузу после визита, держите воду под рукой и не планируйте этот stop как быстрый чекбокс.",
+          "nextMove": "Идите к Nguyễn Đình Chiểu: следующий stop почти противоположен музею по масштабу — не большая институция, а скрытая точка в обычной городской ткани.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "When it opened in 1975 the museum was called the ‘Exhibition House for U.S. and Puppet Crimes’, reflecting an unflinching perspective on the conflict.  Over the decades it has broadened its scope to include context on colonialism and international solidarity.  Exhibitions like ‘Historical Truths’, ‘War Crimes’ and ‘Agent Orange Aftermath’ mix official documents with personal stories.  More than a million people visit annually, making it one of Vietnam’s most visited museums."
+              "title": "Почему здесь начинается маршрут",
+              "body": "War Remnants Museum важен не только как музей войны, но и как настройка оптики. После него районные виллы, кафе, церкви и пагоды перестают быть нейтральной архитектурой: они становятся частью города, который переживал конфликт внутри жилой ткани, а не где-то далеко от повседневности."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по официальной странице музея и возвращённому source registry pack; логистику проверяйте в день визита."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2240,10 +2242,14 @@
         },
         "hours": {
           "rules": [],
-          "summary": "7:30 – 17:30 daily; ticket counter closes at 17:00; open every day including holidays"
+          "summary": "Публичный музей; перед визитом сверяйте актуальные часы и правила на официальной странице."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-1",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-wrm-official",
+          "src-war-remnants-ahoy",
+          "src-photo-war-remnants-commons"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-1",
           "kind": "photo",
@@ -2256,27 +2262,29 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Vietnam,_War_Remnants_Museum.jpg",
             "retrievedAt": "2026-06-24"
           }
-        }
+        },
+        "nameLocal": "Bảo tàng Chứng tích Chiến tranh"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-2",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 2,
-        "name": "Secret Weapon Bunker",
-        "note": "A hidden cellar that armed the Tết Offensive",
-        "time": "15 мин",
-        "walk": "Retrace your steps along Nguyễn Đình Chiểu then turn north on Võ Thị Sáu.  Walk about ten minutes until you see the mustard‑yellow Southern Women’s Museum at number 202 on the left.",
+        "name": "Тайник оружия на Nguyễn Đình Chiểu",
+        "note": "Военная история здесь прячется не на площади, а под полом жилого дома.",
+        "time": "20 мин",
+        "walk": "Вернитесь к Nguyễn Đình Chiểu и двигайтесь к Võ Thị Sáu. Следующая остановка — Southern Women’s Museum — уже не подпольный адрес, а публичная институция памяти.",
         "content": {
-          "context": "Tucked down a narrow alley lies a modest house that played a pivotal role in the 1968 Tết Offensive.  In early 1967 communist operative Trần Văn Lai bought this 14 m‑long property and clandestinely dug two bunkers — one beneath the floorboards and another above the ceiling.  Smuggled weapons packed in coffins and fruit baskets were transported from Củ Chi and hidden here until the uprising.  On the night of 30 January 1968 members of the Saigon Special Forces retrieved almost two tonnes of guns and explosives from the cellar to attack key targets.  Amazingly, the bunker remained undiscovered throughout the war and the house still bears bullet holes and old household furnishings.",
-          "lookFor": "Inside the café, a trapdoor in the tiled floor opens onto an 8 m‑long tunnel lined with ammunition crates. The ground floor walls display photographs of guerrilla operatives. On the mezzanine, a secret loft shows how pistols were hidden in wardrobes.",
-          "practical": "Entrance is free but this is also a family‑run café; buy a drink to support them. The trapdoor and ladders are steep — watch your head when climbing down. The site closes on weekends and may close for lunch.",
-          "nextMove": "Retrace your steps along Nguyễn Đình Chiểu then turn north on Võ Thị Sáu.  Walk about ten minutes until you see the mustard‑yellow Southern Women’s Museum at number 202 on the left.",
+          "context": "Этот stop важен именно своей малостью. История Tết Offensive здесь связана не с парадным мемориалом, а с домом, где оружие прятали так, чтобы район продолжал выглядеть обычным. Легенда места строится вокруг тайников под полом и над потолком, доставки ящиков через город и людей, которые умели превращать бытовое пространство в инфраструктуру подполья.\n\nПоэтому не ждите музейного масштаба. Смысл точки в другом: после War Remnants Museum вы видите, как большая война проходила через маленькие адреса. В District 3 память часто не объявляет себя издалека. Она появляется в переулке, в лестнице, в люке, в семейном кафе, где исторический слой соседствует с повседневной чашкой кофе.",
+          "lookFor": "Насколько обычным выглядит городской адрес\nЛюк, подпол или музейные элементы, если доступ открыт\nФотографии и бытовые детали, которые связывают дом с подпольной сетью",
+          "practical": "Это камерное место, а не крупный музей. Если вход закрыт или хозяева не принимают посетителей, остановитесь снаружи и не пытайтесь попасть внутрь любой ценой.",
+          "nextMove": "Дальше идите к Southern Women’s Museum: маршрут переходит от подпольной мужской/военной логистики к более широкой истории женщин юга Вьетнама.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Trần Văn Lai recruited trusted masons to excavate the bunkers at night while neighbours slept.  Soil was mixed with construction debris to disguise the digging.  Weapons were hidden in coffin‑like crates labelled as ‘wood planks’ to pass South Vietnamese checkpoints.  After 1975 the house returned to its owners; in 1988 it was recognised as a national historic relic.  Visitors today can still feel the claustrophobic tunnels that once held the hopes of an entire movement."
+              "title": "Почему тайник меняет масштаб истории",
+              "body": "Большие военные музеи часто говорят языком экспонатов и дат. Тайник на Nguyễn Đình Chiểu показывает другую сторону памяти: сеть доверия, ночную работу, маскировку, бытовые маршруты и риск, спрятанный в нормальности. Для District 3 это ключевой поворот — война оказывается не только на фронте, но и под полом дома."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по returned source registry: Vietnam Heritage и District 3 guide sources; доступ и формат визита требуют проверки в день прогулки."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2285,37 +2293,49 @@
         },
         "hours": {
           "rules": [],
-          "summary": "9:00 – 17:00 Mon–Fri; closed weekends; free to enter (buy a drink at the café)"
+          "summary": "Небольшой частный/кафе-формат; доступ может меняться, сверяйте на день визита и уважайте правила хозяев."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-2",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-secret-bunker-vietnamheritage",
+          "src-district3-vietnamairlines",
+          "src-hoteldesarts-district3"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-2",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-2-wide.jpg",
           "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-2-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение тихой улицы District 3, не фото Secret Weapon Bunker."
-        }
+          "alt": "Переулок в District 3: реальный городской контекст для скрытого тайника, не фото входа или интерьера bunker.",
+          "attribution": {
+            "author": "Vinnie Cartabiano",
+            "license": "CC BY 2.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alley_in_District_3,_HCMC_(38447694045).jpg",
+            "retrievedAt": "2026-06-26"
+          }
+        },
+        "nameLocal": "Hầm chứa vũ khí bí mật"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-3",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 3,
-        "name": "Southern Women’s Museum",
-        "note": "A mansion honouring the women of Vietnam’s south",
-        "time": "15 мин",
-        "walk": "Continue west along Võ Thị Sáu to its intersection with Phạm Ngọc Thạch.  Turn right and walk north for a few minutes; the road opens onto a plaza with a modernist fountain known as Turtle Lake.",
+        "name": "Музей женщин Южного Вьетнама",
+        "note": "Память о войне здесь расширяется до труда, семьи, одежды и политической мобилизации.",
+        "time": "25 мин",
+        "walk": "Продолжайте по Võ Thị Sáu к Phạm Ngọc Thạch. Когда улица раскроется к кольцу и воде, вы выйдете к Turtle Lake.",
         "content": {
-          "context": "Set inside a grand villa with wraparound verandas, the Southern Women’s Museum celebrates the unsung heroines of Vietnam’s south.  Rooms display embroidered áo dài dresses, woven baskets and kitchen implements alongside photographs and diaries of female couriers, guerrilla fighters and labour organisers.  One gallery chronicles the Long‑Haired Army — groups of women who marched, blocked roads and supplied fighters during the American War.  Upstairs, a contemporary exhibition highlights women’s contributions to agriculture and industry after reunification.",
-          "lookFor": "On the ground floor look for the portrait of General Nguyễn Thị Định, the first female commander of the Viet Cong. Notice the flower‑patterned encaustic tiles and louvered shutters that hint at the mansion’s colonial origins.",
-          "practical": "Admission is free. The museum closes from 11:30 to 13:30 and usually only opens on weekdays; call ahead if visiting on Saturday. Labels are primarily in Vietnamese so hiring a guide or using a translation app will enrich your experience. Air‑conditioning is limited; carry water.",
-          "nextMove": "Continue west along Võ Thị Sáu to its intersection with Phạm Ngọc Thạch.  Turn right and walk north for a few minutes; the road opens onto a plaza with a modernist fountain known as Turtle Lake.",
+          "context": "Southern Women’s Museum нужен маршруту как смена голоса. После военного музея и тайника он показывает, что история юга Вьетнама не сводится к оружию и фронту. В экспозициях соседствуют áo dài, бытовые предметы, фотографии, дневники, истории курьеров, активисток, участниц сопротивления и женщин, которые держали семьи, работу и политические сети.\n\nСмотрите не только на витрины, но и на само здание. Вилла с верандами и тенистыми переходами напоминает, что District 3 долго был районом больших домов, учреждений и тихих улиц. Внутри этого спокойного архитектурного языка музей рассказывает о людях, чья работа часто оставалась за пределами парадной истории.",
+          "lookFor": "Переход от военной памяти к социальной истории\nАo dài, фотографии, корзины, документы и бытовые предметы как политические свидетельства\nВеранды, ставни и плитку виллы, которые связывают музей с архитектурой района",
+          "practical": "Подписи могут быть неравномерно переведены. Если вы не читаете по-вьетнамски, пригодится переводчик в телефоне. В жару планируйте паузу: кондиционирование и режим залов могут различаться.",
+          "nextMove": "Дальше выйдите к Turtle Lake. После музейных залов это будет первый большой городской вдох: вода, бетон, уличная еда и движение вокруг кольца.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Opened in 1985, the museum’s mission is to preserve memories of women who contributed to Vietnam’s liberation and reconstruction.  Exhibits cover not only wartime resistance but also social reforms, literacy campaigns and economic cooperatives.  The villa itself is a relic of early 20th‑century architecture, with thick walls designed to keep interiors cool.  Volunteers often staff the museum and are happy to answer questions."
+              "title": "Почему это не просто «ещё один музей»",
+              "body": "Маршрут к этому моменту уже показал официальную и подпольную память. Southern Women’s Museum добавляет третий слой: труд, одежду, семью, мобилизацию и послевоенное восстановление. Он делает District 3 менее мужским и военным в интонации, не отменяя тяжёлую тему."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по официальной странице музея и returned source registry; часы и доступ проверяйте перед визитом."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2324,37 +2344,48 @@
         },
         "hours": {
           "rules": [],
-          "summary": "7:30 – 11:30 and 13:30 – 17:00 Mon–Fri; free admission; closes for lunch"
+          "summary": "Музейный режим с возможным дневным перерывом; сверяйте официальную страницу перед визитом."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-3",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-southern-women-official",
+          "src-district3-vietnamairlines"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-3",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-3-wide.jpg",
           "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-3-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение leafy District 3 museum/villa street, не фото Southern Women's Museum."
-        }
+          "alt": "Здание на Võ Thị Sáu рядом с кварталом Southern Women's Museum: реальный контекст улицы, не фото музейного интерьера.",
+          "attribution": {
+            "author": "User:VNMC",
+            "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tr%E1%BB%A5_s%E1%BB%9F_ch%C3%ADnh-201_V%C3%B5_Th%E1%BB%8B_S%C3%A1u,_Qu%E1%BA%ADn_3,_Tp-_HCM_2014-07-28_08-02.jpg",
+            "retrievedAt": "2026-06-26"
+          }
+        },
+        "nameLocal": "Bảo tàng Phụ nữ Nam Bộ"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-4",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 4,
         "name": "Turtle Lake",
-        "note": "Saigon’s urban oasis of concrete petals and street food",
-        "time": "15 мин",
-        "walk": "Leave Turtle Lake via Trần Cao Vân street and turn right onto Võ Văn Tần.  After three blocks the road meets Ba Huyện Thanh Quan; the Phương Nam Mansion sits on the corner behind high gates.",
+        "note": "Модернистская площадь, где память растворяется в уличной жизни.",
+        "time": "20 мин",
+        "walk": "Уходите от Turtle Lake по Trần Cao Vân и Võ Văn Tần к углу Ba Huyện Thanh Quan. Phương Nam Mansion лучше смотреть коротко и уважительно, с улицы.",
         "content": {
-          "context": "At the centre of a busy roundabout stands a sculptural fountain where locals meet to eat, chat and escape the heat.  In the 18th century this site marked a gate in the citadel of Gia Định.  Under French rule a water tower stood here until 1921; after independence it became Soldiers’ Square.  Between 1970 and 1974 engineers built the current modernist ensemble: five concrete columns shaped like flower petals surround a circular pool crossed by slender bridges.  A stone turtle once supported a stele in the middle, giving the spot its nickname.  Today the turtle is gone, but Turtle Lake remains a beloved hangout.",
-          "lookFor": "Count the five petal‑like columns rising above the fountain and cross the semicircular bridges that radiate like spokes. In the evening vendors set up carts selling bánh tráng nướng (grilled rice paper) and quail eggs. From the centre you’ll see the radial symmetry of the surrounding boulevards lined with French villas and tamarind trees.",
-          "practical": "There is no admission fee and the plaza is open day and night. Traffic circles around it continuously; use designated crossings and follow locals when crossing. For a relaxed experience visit at dusk when the heat eases and street food stalls open. Keep an eye on your belongings in crowded areas.",
-          "nextMove": "Leave Turtle Lake via Trần Cao Vân street and turn right onto Võ Văn Tần.  After three blocks the road meets Ba Huyện Thanh Quan; the Phương Nam Mansion sits on the corner behind high gates.",
+          "context": "Turtle Lake кажется лёгкой передышкой, но это не пустая площадь. В разные периоды здесь читались городские ворота, водная башня, мемориальная площадь и модернистский жест 1970-х. Сейчас главное — не искать «черепаху», которой уже нет, а почувствовать, как бетонная форма стала местом повседневной жизни: свидания, снеки, школьники, офисные паузы, вечерняя торговля.\n\nПосле первых трёх stop это важный сдвиг. Маршрут выходит из музейной памяти в живой городской круг, где история не исчезает, а становится фоном для еды, разговоров и транспорта. District 3 здесь показывает свою мягкую сторону: тень деревьев, вода, уличные продавцы и много людей, которые не обязаны всё время помнить прошлое вслух.",
+          "lookFor": "Пять бетонных «лепестков» и мостики через воду\nКак люди занимают борта, ступени и проходы вечером\nКонтраст между тяжёлой первой частью маршрута и почти бытовой энергией площади",
+          "practical": "Трафик вокруг кольца плотный. Не перебегайте дорогу ради ракурса: дождитесь перехода и двигайтесь вместе с местными потоками.",
+          "nextMove": "Следующий stop снова закрывает вид: Phương Nam Mansion остаётся за воротами, и именно эта недоступность важна для понимания района вилл.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Some historical sources suggest Turtle Lake was designed by the Vietnamese architect Nguyễn Kỳ with symbolic geometry: the five petals represent a lotus, while the bridges recall hands reaching out.  The original turtle and stele were removed in the late 1970s amid superstitious rumours after its legs were sawed off.  Its official name is Công trường Quốc Tế (International Square), yet locals prefer the more whimsical ‘Turtle Lake’."
+              "title": "Почему озеро без черепахи всё ещё работает",
+              "body": "Turtle Lake показывает, как городская форма переживает собственные объяснения. Официальные названия, легенды о черепахе, модернистская символика и вечерняя уличная еда не отменяют друг друга. Вместе они делают площадь одной из лучших точек, где District 3 перестаёт быть только историческим маршрутом и становится живым районом."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по returned source registry и визуальному Commons-фото; городская история Turtle Lake требует осторожной формулировки без неподтверждённых легенд как факта."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2363,10 +2394,14 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Open 24 hours; public plaza; free entry"
+          "summary": "Открытое общественное пространство; переходите улицы только по безопасным траекториям."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-4",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-turtle-originvietnam",
+          "src-district3-vietnamairlines",
+          "src-photo-turtle-commons"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-4",
           "kind": "photo",
@@ -2379,27 +2414,29 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chung_cu_Vong_Xoay_Ho_con_rua-_q3,_hcm_-_panoramio.jpg",
             "retrievedAt": "2026-06-24"
           }
-        }
+        },
+        "nameLocal": "Hồ Con Rùa / Công trường Quốc tế"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-5",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 5,
         "name": "Phương Nam Mansion",
-        "note": "An opulent colonial villa hidden behind tall gates",
-        "time": "15 мин",
-        "walk": "Continue south on Ba Huyện Thanh Quan for about 400 m.  Turn left onto Sư Vạn Hạnh and you will soon see the seven‑storey bell tower of Xa Lợi Pagoda.",
+        "note": "Редкий случай, когда главный смысл остановки — не войти, а увидеть границу.",
+        "time": "10 мин",
+        "walk": "Продолжайте на юг по Ba Huyện Thanh Quan и поверните к Sư Vạn Hạnh. После виллы маршрут переходит к буддийской линии памяти — Xa Lợi Pagoda.",
         "content": {
-          "context": "Beyond tall iron gates sprawls one of Saigon’s grandest colonial residences.  Occupying an entire block and covering nearly 2 800 m², the Phương Nam Mansion was likely built between 1915 and 1925 by a wealthy businessman.  During the waning days of French Indochina it housed the Far East Air Command and later the French Basketball Federation.  After 1955 it became a private residence and temporary home to future Communist Party leader Nguyễn Văn Linh.  The villa’s cream‑coloured façade is adorned with colonnades, wrought‑iron balconies, stained‑glass windows and ornamental roof ridges.  Inside (glimpsed only in photographs) a grand wooden staircase rises from patterned tile floors.",
-          "lookFor": "From the pavement you can admire the symmetrical colonnades, carved wooden doors and ornate ridge tiles peeking above the fence. The blend of French beaux‑arts symmetry and tropical verandas exemplifies Saigon’s early 20th‑century architecture.",
-          "practical": "The mansion is private property. Do not attempt to enter or photograph over the fence. Respect the residents’ privacy and view the façade briefly from Võ Văn Tần or Ba Huyện Thanh Quan. There are no public facilities here.",
-          "nextMove": "Continue south on Ba Huyện Thanh Quan for about 400 m.  Turn left onto Sư Vạn Hạnh and you will soon see the seven‑storey bell tower of Xa Lợi Pagoda.",
+          "context": "Phương Nam Mansion важен не как «дом, куда надо попасть», а как напоминание о закрытом слое District 3. За оградой видны колонны, веранда, декоративные детали и масштаб участка, который резко отличается от более плотной уличной ткани вокруг. В таких виллах район хранит не только колониальную эстетику, но и историю собственности: кто мог занимать большие участки, как менялись режимы, почему некоторые здания переживают город почти как отдельные острова.\n\nНе пытайтесь превращать эту точку в охоту за интерьером. Сила остановки именно в дистанции. Вы видите фасад, ворота, деревья и забор — и понимаете, что часть городской памяти всегда остаётся закрытой, приватной, продаваемой, охраняемой или просто недоступной. После музеев это другой тип источника: не витрина, а молчание за оградой.",
+          "lookFor": "Ограду и ворота как часть рассказа, а не помеху\nКолонны, веранды и декоративные детали, видимые с улицы\nКак крупный участок меняет ритм квартала",
+          "practical": "Это частная территория. Смотрите с тротуара, не фотографируйте навязчиво через ограду и не заходите внутрь без явного разрешения.",
+          "nextMove": "Дальше идите к Xa Lợi Pagoda. Маршрут переходит от частной виллы к публичному религиозному месту, связанному с кризисом 1963 года.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "The property went on sale in 2013 for around US$47 million, one of the highest asking prices in Saigon.  It eventually sold in 2015 for about US$35 million to a local investor.  Under preservation regulations, any modifications require municipal approval; locals hope the new owner will restore rather than demolish this rare surviving villa."
+              "title": "Почему закрытая вилла нужна маршруту",
+              "body": "District 3 невозможно понять только через открытые музеи и площади. Его характер держится и на закрытых участках: виллах, школах, дипломатических и частных зданиях, где история видна частично. Phương Nam Mansion делает эту неполноту честной: город не всегда объясняет себя посетителю полностью."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по Saigoneer/returned source registry; точные сведения о собственности и доступе меняются, поэтому в app-тексте оставлен только внешний осмотр."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2408,37 +2445,49 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Private property; viewable from the street at any time; no interior access"
+          "summary": "Частная собственность; только внешний осмотр с улицы."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-5",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-phuongnam-saigoneer",
+          "src-hoteldesarts-district3",
+          "src-district3-vietnamairlines"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-5",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-5-wide.jpg",
           "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-5-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение старой villa street в District 3, не фото Phuong Nam Mansion."
-        }
+          "alt": "Улица Bà Huyện Thanh Quan в District 3: реальный контекст закрытых вилл, не фото интерьера Phương Nam Mansion.",
+          "attribution": {
+            "author": "trungydang",
+            "license": "CC BY 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:B%C3%A0_huy%E1%BB%87n_thanh_quan-ph%C6%B0%E1%BB%9Dng_7,_Qu%E1%BA%ADn_3,_TPHCM,_Vi%E1%BB%87t_Nam_-_panoramio.jpg",
+            "retrievedAt": "2026-06-26"
+          }
+        },
+        "nameLocal": "Dinh thự Phương Nam"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-6",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 6,
-        "name": "Xa Lợi Pagoda",
-        "note": "A modern temple at the heart of the 1963 Buddhist struggle",
-        "time": "15 мин",
-        "walk": "Exit the pagoda and head north along Sư Vạn Hạnh.  In about 400 m you’ll reach a small triangular park with a bronze statue of a monk at its centre—the Thích Quảng Đức Monument.",
+        "name": "Пагода Xá Lợi",
+        "note": "Буддийский модернизм и место, откуда память 1963 года становится городской.",
+        "time": "25 мин",
+        "walk": "От пагоды идите на север к небольшому мемориальному пространству Thích Quảng Đức. Это короткий переход, но он соединяет место институции с местом жертвы.",
         "content": {
-          "context": "Completed in 1958, Xa Lợi Pagoda combines modern reinforced concrete with traditional curved roofs and intricate woodwork.  It became the headquarters of the General Buddhist Association of Vietnam and the launch pad for the 1963 protests against the Diệm regime.  The main hall houses a golden statue of the Buddha accompanied by a relic said to be a fragment of the Buddha’s tooth.  To one side stands a seven‑storey, 32‑m bell tower—the tallest in Vietnam when it was built—housing a two‑ton bell cast in the shape of a lotus bud.",
-          "lookFor": "Within the quiet courtyard, look up at the slender bell tower crowned with a tiled roof. Inside the main hall, admire the gilded central Buddha and the carved wooden pillars decorated with dragons and chrysanthemums. Upstairs, a small chapel enshrines the sacred relic.",
-          "practical": "Admission is free. Wear modest clothing and remove your shoes before entering the halls. Avoid visiting during the midday closure between 11:30 and 14:00. Visitors may observe chanting ceremonies in the early morning or late afternoon.",
-          "nextMove": "Exit the pagoda and head north along Sư Vạn Hạnh.  In about 400 m you’ll reach a small triangular park with a bronze statue of a monk at its centre—the Thích Quảng Đức Monument.",
+          "context": "Xa Lợi не похожа на старую пагоду из туристического воображения. Это модернистское буддийское место середины XX века: бетон, чистые линии, высокий колокольный tower, двор и зал, где религиозная жизнь соединена с политической памятью. В 1963 году пагода стала одним из ключевых мест буддийского кризиса, когда протест против режима Ngô Đình Diệm вышел из религиозной сферы в международную повестку.\n\nДля маршрута это важный разворот. До этого вы видели войну, подполье, женскую историю, площадь и частную виллу. Здесь появляется буддийская институция, которая не прячется в тишине: она помнит рейды, аресты, протесты и при этом остаётся действующим местом молитвы. Поэтому двигайтесь мягко. Это не декорация и не музей под открытым небом.",
+          "lookFor": "Высокую колокольню и её масштаб в квартале\nДвор как пространство между улицей и молитвой\nКак модернистская архитектура отличается от старых храмовых образов",
+          "practical": "Одевайтесь скромно, снимайте обувь там, где это требуется, не фотографируйте людей во время молитвы без разрешения. Если идут службы или занятия, ограничьтесь внешним осмотром.",
+          "nextMove": "Дальше маршрут идёт к памятнику Thích Quảng Đức. Он делает связь между пагодой, протестом и городским перекрёстком прямой и болезненной.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "During the Buddhist crisis of 1963, government forces raided Xa Lợi Pagoda and arrested hundreds of monks and nuns.  Two weeks later, a procession of monks left this pagoda and marched to the intersection of Phan Đình Phùng (now Cách Mạng Tháng Tám) and Lê Văn Duyệt (now Nguyễn Đình Chiểu), where Thích Quảng Đức set himself alight in protest.  The pagoda was heavily damaged during the raids but restored after the fall of the Diệm regime.  Today it serves both as a place of worship and as a training college for monks."
+              "title": "Почему Xá Lợi держит нерв маршрута",
+              "body": "Пагода важна не только религиозно, но и политически. В городском маршруте она показывает, что память о 1963 годе не сводится к одному знаменитому кадру самосожжения. За этим кадром стояли общины, институции, шествия, рейды и буддийская инфраструктура, частью которой была Xá Lợi."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по returned source registry и Commons/photo evidence; текущие правила доступа проверяйте на месте."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2447,37 +2496,48 @@
         },
         "hours": {
           "rules": [],
-          "summary": "6:00 – 11:30 and 14:00 – 21:00 daily; free entry"
+          "summary": "Действующее религиозное место; часы и доступ к залам сверяйте на месте, одевайтесь скромно."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-6",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-district3-vietnamairlines",
+          "src-photo-xa-loi-commons"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-6",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-6-wide.jpg",
           "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-6-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение буддийского квартала District 3, не фото Xa Loi Pagoda."
-        }
+          "alt": "Пагода Xá Lợi в Хошимине: точное фото места, использовано после отдельной проверки FoP-риска.",
+          "attribution": {
+            "author": "Gary Todd from Xinzheng, China",
+            "license": "CC0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xa_Loi_Pagoda_(9982345444).jpg",
+            "retrievedAt": "2026-06-26"
+          }
+        },
+        "nameLocal": "Chùa Xá Lợi"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-7",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 7,
-        "name": "Thích Quảng Đức Monument",
-        "note": "Bronze memorial to a monk’s fiery protest",
-        "time": "15 мин",
-        "walk": "Continue north on Cách Mạng Tháng Tám until you reach Hai Bà Trưng.  Turn left and follow the road for about 1 km; the pink spire of Tân Định Church will appear on your right.",
+        "name": "Памятник Thích Quảng Đức",
+        "note": "Один перекрёсток, где личный жест стал мировой новостью.",
+        "time": "20 мин",
+        "walk": "От памятника идите к Hai Bà Trưng и дальше к Tân Định Church. Переход длиннее предыдущих: воспринимайте его как возвращение из тяжёлой памяти в живой северный край District 3.",
         "content": {
-          "context": "On 11 June 1963 Mahayana monk Thích Quảng Đức sat in the middle of a Saigon intersection, doused himself with gasoline and calmly struck a match.  His self‑immolation was an act of protest against President Ngô Đình Diệm’s persecution of Buddhists.  The shocking image, captured by Associated Press photographer Malcolm Browne, galvanised international opinion and hastened the regime’s downfall.  In 2010 authorities unveiled this bronze memorial: the monk sits cross‑legged amid stylised flames on a lotus pedestal, his expression serene.  Relief panels around the base depict the suppression of Buddhists and the eventual triumph of religious freedom.",
-          "lookFor": "Observe the monk’s tranquil face as bronze flames lick around him. The base features lotus motifs and panels showing monks marching and policemen wielding batons, telling the story behind the protest.",
-          "practical": "The monument sits at a busy junction of Cách Mạng Tháng Tám and Nguyễn Thị Minh Khai. Use caution when crossing the street and visit early morning or late afternoon when traffic eases. There is no entrance fee and no facilities on site.",
-          "nextMove": "Continue north on Cách Mạng Tháng Tám until you reach Hai Bà Trưng.  Turn left and follow the road for about 1 km; the pink spire of Tân Định Church will appear on your right.",
+          "context": "Памятник Thích Quảng Đức трудно воспринимать как обычную скульптуру. Он отсылает к 11 июня 1963 года, когда буддийский монах совершил самосожжение в знак протеста против преследования буддистов. Фотография Malcolm Browne стала одним из самых известных образов XX века, но на месте важно не превращать событие в один шоковый кадр. Мемориал возвращает телу, перекрёстку и городу их тяжесть.\n\nОстановитесь так, чтобы не мешать движению, и посмотрите на памятник вместе с улицей вокруг. Это не тихий парк памяти, а городской узел: машины, шум, люди, жара, повседневность. В этом и сила точки. Жест, который изменил международное восприятие режима, произошёл не в отдельном священном пространстве, а в городе, среди дорог и свидетелей.",
+          "lookFor": "Посадку фигуры и мотив огня, но без туристической театральности\nРельефы у основания как попытку рассказать историю события\nНасколько шумный перекрёсток меняет восприятие мемориала",
+          "practical": "Не выходите на проезжую часть ради фотографии. Уважайте мемориальный характер места и держите паузу: это один из самых тяжёлых stop маршрута.",
+          "nextMove": "Финальный переход к Tân Định Church нужен как смена света: после буддийского мемориала маршрут заканчивается у яркой, живой и действующей католической церкви.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "Thích Quảng Đức was born in 1897 in Khánh Hòa Province.  His self‑immolation sent shock waves around the world and inspired similar protests across South Vietnam.  Several months later, a military coup toppled Diệm.  The monk’s heart reportedly did not burn and is kept as a relic at the State Bank of Vietnam.  The monument, inaugurated in 2010, aims to ensure his sacrifice is never forgotten."
+              "title": "Почему это не просто памятник",
+              "body": "Событие 1963 года стало мировой новостью именно через фотографию, но маршрут возвращает его в городскую географию. Связка Xa Lợi — перекрёсток — Tân Định показывает District 3 как место, где религиозные общины, политическая власть и уличная повседневность оказались в одном кадре истории."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по returned source registry; для изображения памятника проведён отдельный rights review из-за modern public artwork risk."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2486,37 +2546,48 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Open 24 hours; public memorial; no entrance fee"
+          "summary": "Открытый городской мемориал у загруженного перекрёстка; будьте осторожны с трафиком."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-7",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-thich-monkeytravel",
+          "src-photo-quang-duc-commons"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-7",
-          "kind": "generated",
+          "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-7-wide.jpg",
           "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-stop-7-square.jpg",
-          "alt": "Сгенерированное не-документальное изображение тихого мемориального street-corner в Ho Chi Minh City, не фото Thich Quang Duc Monument."
-        }
+          "alt": "Перекрёсток Nguyễn Đình Chiểu и Cách Mạng Tháng Tám: контекст места памяти Thích Quảng Đức без крупного плана современной скульптуры.",
+          "attribution": {
+            "author": "trungydang",
+            "license": "CC BY 3.0; cropped/resized for app",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ng%C3%A3_t%C6%B0_nguy%E1%BB%85n_%C4%91%C3%ACnh_chi%E1%BB%83u_v%C3%A0_C%C3%A1ch_mang_th%C3%A1ng_t%C3%A1m-Qu%E1%BA%ADn_3,_TPHCM,_Vi%E1%BB%87t_Nam_-_panoramio.jpg",
+            "retrievedAt": "2026-06-26"
+          }
+        },
+        "nameLocal": "Tượng đài Bồ tát Thích Quảng Đức"
       },
       {
         "id": "ho-chi-minh-city-district-3-memory-villas-8",
         "guideId": "ho-chi-minh-city-district-3-memory-villas",
         "order": 8,
-        "name": "Tân Định Church",
-        "note": "A rosy Romanesque wonder",
-        "time": "15 мин",
+        "name": "Церковь Tân Định",
+        "note": "Яркий финал, который возвращает маршрут из памяти в живую городскую повседневность.",
+        "time": "25 мин",
         "walk": "-",
         "content": {
-          "context": "One of Ho Chi Minh City’s oldest Catholic churches, Tân Định (Church of the Sacred Heart of Jesus) was built between 1870 and 1876 under the direction of French missionary Father Donatien Éveillard.  Its design combines Gothic spires and Romanesque arches with a distinctive salmon‑pink colour that has earned it the nickname ‘the pink church’.  The 52‑m central bell tower anchors a façade decorated with white pilasters, rose windows and sculpted saints.  Inside, a long nave of marble columns leads to an ornate Italian marble altar, while side chapels honour St Therese and the Holy Family.",
-          "lookFor": "Admire the towering central spire topped by a cross and the smaller flanking turrets. The façade’s Baroque‑style pediments and elaborate mouldings glow against the blue sky. Inside, stained‑glass windows cast coloured light onto the polished pews and colonnades.",
-          "practical": "The church welcomes visitors outside of mass times: 8:00–11:00 and 15:00–17:00 on weekdays. Dress modestly and remove hats. Photography is allowed but avoid flash and be respectful of worshippers. There is no entrance fee but donations for maintenance are appreciated.",
-          "nextMove": "This is the final stop.  After your visit, explore the nearby fabric market on Hai Bà Trưng or relax in one of the surrounding cafés.",
+          "context": "Tân Định Church легко запомнить как «розовую церковь», но финал маршрута лучше читать шире. После музея войны, подпольного тайника, вилл и буддийской памяти вы приходите к месту, где религия снова оказывается городской, публичной и очень живой. Фасад с башней, белыми деталями и ярким цветом работает почти как смена тональности: маршрут не становится радостным, но выпускает вас из тяжёлой середины в шумную северную часть района.\n\nЦерковь построена в конце XIX века и остаётся действующим приходом. Поэтому смотрите не только на цвет. Важны масштаб башни, боковые объёмы, поток людей, лавки и кафе вокруг, тканевый рынок поблизости. Здесь District 3 снова показывает свою способность совмещать разные памяти: католическую, колониальную, коммерческую, семейную и повседневную.",
+          "lookFor": "Розовый фасад как городской маркер, а не только фотогеничный фон\nБашню, белые детали и боковые объёмы здания\nКак церковь связана с рынком, кафе и движением Hai Bà Trưng",
+          "practical": "Это действующая церковь. Не заходите во время службы как в музей, одевайтесь сдержанно, не используйте вспышку и не снимайте людей крупно без разрешения.",
+          "nextMove": "Маршрут завершён. После церкви можно остаться в районе: пройти к рынку Tân Định, выпить кофе или уехать на такси/ride-hailing с Hai Bà Trưng.",
           "deepDive": [
             {
-              "title": "Подробнее",
-              "body": "The parish served not only spiritual needs but also social ones: Father Éveillard established an orphanage and boarding school beside the church.  In 1957 the façade was repainted pink, a colour scheme later renewed in the 2010s.  Renovations in the 1920s added Romanesque arches and more elaborate ornamentation.  During the war the church provided refuge for parishioners; today it remains an active congregation and a photogenic symbol of Saigon."
+              "title": "Почему финал именно здесь",
+              "body": "Tân Định возвращает маршруту городскую жизнь после тяжёлой памяти 1963 года. Это не отмена предыдущих тем, а напоминание: District 3 не мемориальный парк. Он живёт через школы, церкви, кафе, рынки, мотоциклы, частные дома и людей, которые каждый день проходят мимо сложной истории."
             }
-          ]
+          ],
+          "sourceNote": "Сверено по returned source registry and Commons/photo evidence; актуальные правила посещения зависят от прихода."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2525,10 +2596,13 @@
         },
         "hours": {
           "rules": [],
-          "summary": "8:00 – 11:00 and 15:00 – 17:00 Mon–Fri for visits; masses held early morning and evening; free entry, donations encouraged"
+          "summary": "Действующая церковь; посещение зависит от служб и текущих правил прихода."
         },
         "photoAssetId": "ho-chi-minh-city-district-3-memory-villas-stop-8",
-        "sourceIds": [],
+        "sourceIds": [
+          "src-tan-dinh-yourvietnamtravel",
+          "src-photo-tan-dinh-commons"
+        ],
         "photo": {
           "id": "ho-chi-minh-city-district-3-memory-villas-stop-8",
           "kind": "photo",
@@ -2541,7 +2615,8 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goc_chup_thang_Nha_tho_Tan_Dinh.jpg",
             "retrievedAt": "2026-06-24"
           }
-        }
+        },
+        "nameLocal": "Nhà thờ Tân Định"
       }
     ],
     "cover": {
@@ -2549,7 +2624,7 @@
       "kind": "generated",
       "wide": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/ho-chi-minh-city/ho-chi-minh-city-district-3-memory-villas-cover-square.jpg",
-      "alt": "Illustration showing District 3’s tree‑lined streets, a pink church spire, a colonial villa and a modernist fountain surrounded by palm trees, with a helicopter silhouette hinting at war history."
+      "alt": "Сгенерированная editorial-обложка: тенистая улица District 3 с виллой за оградой, как вступление к маршруту о памяти, частных домах и городской повседневности."
     },
     "coverAssetId": "ho-chi-minh-city-district-3-memory-villas-cover",
     "basemap": {
