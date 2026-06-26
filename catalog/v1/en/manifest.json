@@ -97,7 +97,7 @@
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
-      "packHash": "96f94370f60a",
+      "packHash": "21c0c2d77b5c",
       "packPath": "cities/athens/offline-pack.json"
     },
     "auckland": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T16:25:23.211Z",
+  "generatedAt": "2026-06-26T16:37:24.285Z",
   "locale": "en",
   "schemaVersion": 1
 }
