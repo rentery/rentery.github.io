@@ -1560,10 +1560,16 @@
       ],
       "photo": {
         "id": "bogota-chapinero-quinta-camacho-stop-5",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bogota/bogota-chapinero-quinta-camacho-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bogota/bogota-chapinero-quinta-camacho-stop-5-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение книжной улицы в Чапинеро, не фото Bibliotheca Wilborada 1047."
+        "alt": "Интерьер Librería Wilborada 1047 во время совместной культурной встречи: книжные полки, Café Cultor и посетители.",
+        "attribution": {
+          "author": "Tanane1047",
+          "license": "CC BY 4.0; cropped/resized for app",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actividad_billetes_y_caf%C3%A9_Wilborada_1047.jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     },
     {
