@@ -285,7 +285,7 @@
       "packPath": "cities/kathmandu/offline-pack.json"
     },
     "krakow": {
-      "packHash": "58b96897fe13",
+      "packHash": "9e1bd8009598",
       "packPath": "cities/krakow/offline-pack.json"
     },
     "kuala-lumpur": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T13:07:01.574Z",
+  "generatedAt": "2026-06-26T13:22:50.217Z",
   "locale": "en",
   "schemaVersion": 1
 }
