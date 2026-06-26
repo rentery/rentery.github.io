@@ -93,7 +93,7 @@
       "packPath": "cities/fes/offline-pack.json"
     },
     "george-town-malaysia": {
-      "packHash": "52bdaf85ba42",
+      "packHash": "d6c8d849e5a9",
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-26T06:40:13.381Z",
+  "generatedAt": "2026-06-26T06:51:37.388Z",
   "locale": "ru",
   "schemaVersion": 1
 }

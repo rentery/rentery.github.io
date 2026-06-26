@@ -998,10 +998,16 @@
       ],
       "photo": {
         "id": "george-town-malaysia-armenian-street-art-clans-stop-7",
-        "kind": "generated",
+        "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-armenian-street-art-clans-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/george-town-malaysia/george-town-malaysia-armenian-street-art-clans-stop-7-square.jpg",
-        "alt": "Сгенерированное не-документальное изображение heritage-улицы Armenian Street без mural-работы, не фото Reaching Up."
+        "alt": "Улица Cannon в Джорджтауне рядом с точкой Reaching Up; контекстный вид квартала, не фото самой фрески.",
+        "attribution": {
+          "author": "Christophe95",
+          "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannon_Street,_George_Town.jpg",
+          "retrievedAt": "2026-06-26"
+        }
       }
     }
   ],
