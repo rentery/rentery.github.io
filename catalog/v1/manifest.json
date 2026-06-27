@@ -57,7 +57,7 @@
       "packPath": "cities/ghent/offline-pack.json"
     },
     "florence": {
-      "packHash": "d15637548dc4",
+      "packHash": "0322107e4ee1",
       "packPath": "cities/florence/offline-pack.json"
     },
     "edinburgh": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T13:42:13.409Z",
+  "generatedAt": "2026-06-27T13:59:49.986Z",
   "locale": "ru",
   "schemaVersion": 1
 }
