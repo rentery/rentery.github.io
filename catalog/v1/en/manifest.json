@@ -65,7 +65,7 @@
       "packPath": "cities/edinburgh/offline-pack.json"
     },
     "dubai": {
-      "packHash": "b5ffa33516e2",
+      "packHash": "2becb52fa616",
       "packPath": "cities/dubai/offline-pack.json"
     },
     "delhi": {
@@ -121,7 +121,7 @@
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
-      "packHash": "8dee937a8368",
+      "packHash": "e1aaa7c673f0",
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
@@ -213,7 +213,7 @@
       "packPath": "cities/oslo/offline-pack.json"
     },
     "paris": {
-      "packHash": "68abbe124166",
+      "packHash": "6ea4acafcb46",
       "packPath": "cities/paris/offline-pack.json"
     },
     "philadelphia": {
@@ -225,7 +225,7 @@
       "packPath": "cities/porto/offline-pack.json"
     },
     "prague": {
-      "packHash": "cf792c5c5604",
+      "packHash": "d15950fc26be",
       "packPath": "cities/prague/offline-pack.json"
     },
     "quebec-city": {
@@ -309,7 +309,7 @@
       "packPath": "cities/london/offline-pack.json"
     },
     "lyon": {
-      "packHash": "ce8fa594dafd",
+      "packHash": "8c95956b3676",
       "packPath": "cities/lyon/offline-pack.json"
     },
     "macao": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T21:17:32.705Z",
+  "generatedAt": "2026-06-27T21:49:27.504Z",
   "locale": "en",
   "schemaVersion": 1
 }

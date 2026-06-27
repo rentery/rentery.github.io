@@ -1199,6 +1199,7 @@
       "generatedAt": "2026-06-18T10:25:19.316Z"
     }
   },
+  "coverAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-cover",
   "cityId": "buenos-aires",
   "category": "Маршрут",
   "title": "Площадь Мая и Авенида де Майо: ось власти",
@@ -1224,7 +1225,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «Площадь Мая и Авенида де Майо: ось власти»"
+    "alt": "Сгенерированная редакционная обложка маршрута «Площадь Мая и Авенида де Майо: ось власти»"
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-basemap.png",
@@ -1239,15 +1240,15 @@
   },
   "content": {
     "intro": "Это прогулка не про один красивый исторический квартал, а про аргентинскую сцену власти. В одном коридоре встречаются Plaza de Mayo, колониальный Cabildo, кафедральный фасад, Casa Rosada, Avenida de Mayo, Café Tortoni и купол Congreso. Идти здесь стоит не как по прямой между двумя достопримечательностями, а как по спору: площадь собирает народный голос, дворец делает власть видимой, проспект переводит столицу на язык бульвара, кафе превращает политику в разговор, а парламентский финал возвращает её в процедуру.",
-    "routeLogic": "Маршрут сохраняет опубликованную ось Plaza de Mayo -> Cabildo -> Catedral Metropolitana -> Casa Rosada -> Avenida de Mayo -> Café Tortoni -> Congreso / Plaza del Congreso. Существующий routePath измеряется примерно в 3,3 км и ведёт от колониального и президентского центра к парламентскому финалу без перестановки остановок.",
-    "bestFor": "первого знакомства с районом через городскую форму",
-    "notFor": "тем, кому нужен быстрый маршрут без исторического чтения",
-    "beforeYouGo": "Проверяйте режимы Cabildo, Museo Casa Rosada, Catedral, Café Tortoni и visitas guiadas del Congreso в день прогулки: часть маршрута открыта снаружи, но интерьеры зависят от расписаний и событий.",
+    "routeLogic": "Маршрут сохраняет опубликованную ось Plaza de Mayo -> Cabildo -> Catedral Metropolitana -> Casa Rosada -> Avenida de Mayo -> Café Tortoni -> Congreso / Plaza del Congreso. Существующая геометрия маршрута измеряется примерно в 3,3 км и ведёт от колониального и президентского центра к парламентскому финалу без перестановки остановок.",
+    "bestFor": "первого знакомства с центром власти через городскую форму; любителей политической истории, фасадов и длинных осей; тех, кто готов идти не быстро, а с остановками на чтение площади и проспекта",
+    "notFor": "тех, кому нужен короткий маршрут без исторического чтения, а также дней с крупными демонстрациями, церемониями или перекрытиями вдоль Plaza de Mayo — Congreso.",
+    "beforeYouGo": "Проверяйте режимы Cabildo, Museo Casa Rosada, Catedral, Café Tortoni и экскурсий по Конгрессу в день прогулки: часть маршрута открыта снаружи, но интерьеры зависят от расписаний и событий.",
     "timing": "Лучше всего идти утром в будний день или ближе к золотому часу. Тогда фасады читаются лучше, очереди в Tortoni обычно короче, а сама ось не растворяется в полуденной деловой спешке."
   },
   "stopList": [
     {
-      "entry": "public_square",
+      "entry": "снаружи",
       "name": "Площадь Мая",
       "nameLocal": "Plaza de Mayo",
       "note": "Здесь страна выходит говорить вслух.",
@@ -1272,11 +1273,12 @@
       "hours": {
         "rules": [],
         "summary": "Открытое городское пространство, обычно доступно круглосуточно; перекрытия возможны из-за митингов, церемоний и охраны.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "ba_tourism_plaza_de_mayo"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-1",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-1",
         "kind": "photo",
@@ -1295,7 +1297,7 @@
       "order": 1
     },
     {
-      "entry": "museum_and_exterior",
+      "entry": "снаружи; музей по расписанию",
       "name": "Cabildo",
       "nameLocal": "Cabildo de Buenos Aires",
       "note": "Семь арок вместо одиннадцати — цена модернизации.",
@@ -1320,12 +1322,13 @@
       "hours": {
         "rules": [],
         "summary": "Museo del Cabildo: ср–вс 10:30–17:40; пн–вт закрыт; спецдни и праздники проверяйте отдельно.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "cabildo_nacional_official",
         "ba_tourism_cabildo"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-2-stop-image-commons-cabildo-2023",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-2-stop-image-commons-cabildo-2023",
         "kind": "photo",
@@ -1344,7 +1347,7 @@
       "order": 2
     },
     {
-      "entry": "religious_site_and_exterior",
+      "entry": "снаружи; храм по расписанию",
       "name": "Кафедральный собор Буэнос-Айреса",
       "nameLocal": "Catedral Metropolitana",
       "note": "Не собор, а почти античный храм.",
@@ -1353,7 +1356,7 @@
       "content": {
         "context": "Подойдите ближе к колоннаде и позвольте глазу немного растеряться: перед вами не готика и не барокко, а почти гражданский неоклассический фронт, который скорее напоминает греческий храм, чем обычный кафедральный собор. В этом и есть характер Буэнос-Айреса — церковная власть здесь тоже учится говорить на языке республиканского фасада. Внутри хранится мавзолей Сан-Мартина, а в городской памяти собор связан и с долгими годами служения будущего папы Франциска. Поэтому это место не только про веру, но и про аргентинское представление о национальном достоинстве: святость, история и государственная символика здесь почти не отделяются друг от друга.",
         "lookFor": "Двенадцать колонн фасада и жесткий классический силуэт на фоне шумного административного центра.",
-        "practical": "Фасад свободен; внутри учитывайте богослужения, аудиогиды/visitas и возможные церковные события.",
+        "practical": "Фасад свободен; внутри учитывайте богослужения, аудиогиды, экскурсии и возможные церковные события.",
         "nextMove": "Переходите к восточному краю площади, к Casa Rosada. После совета и собора вы окажетесь у самого узнаваемого балкона аргентинской политики.",
         "deepDive": [
           {
@@ -1368,13 +1371,14 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Фасад доступен снаружи; интерьер, мессы, visitas guiadas и аудиогиды зависят от расписания Catedral / Arquidiócesis.",
-        "checkedAt": "2026-06-27"
+        "summary": "Фасад доступен снаружи; интерьер, мессы, экскурсии и аудиогиды зависят от расписания Catedral / Arquidiócesis.",
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "argentina_monumentos_catedral_metropolitana",
         "ba_tourism_catedral_metropolitana"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-3",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-3",
         "kind": "photo",
@@ -1393,7 +1397,7 @@
       "order": 3
     },
     {
-      "entry": "government_exterior",
+      "entry": "снаружи; музей по расписанию",
       "name": "Casa Rosada",
       "nameLocal": "Casa Rosada / Museo Casa Rosada",
       "note": "Балкон важнее цвета.",
@@ -1417,20 +1421,21 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Фасад снаружи; Museo Casa Rosada: ср–вс 11:00–18:00, последний вход 17:30, пн–вт закрыто; дворцовые visitas зависят от программы.",
-        "checkedAt": "2026-06-27"
+        "summary": "Фасад снаружи; Museo Casa Rosada: ср–вс 11:00–18:00, последний вход 17:30, пн–вт закрыто; экскурсии по дворцу зависят от программы.",
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "casa_rosada_history",
         "museo_casa_rosada_visit",
         "ba_tourism_casa_rosada"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-4",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-4",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/buenos-aires/buenos-aires-plaza-de-mayo-avenida-power-axis-stop-4-square.jpg",
-        "alt": "Fachada este",
+        "alt": "Восточный фасад Casa Rosada со стороны Plaza de Mayo.",
         "attribution": {
           "author": "Casa Rosada Presidencia de la Nación",
           "license": "CC BY 2.5 AR; cropped/resized for app",
@@ -1443,7 +1448,7 @@
       "order": 4
     },
     {
-      "entry": "public_street",
+      "entry": "снаружи",
       "name": "Авенида де Майо",
       "nameLocal": "Avenida de Mayo",
       "note": "Здесь Буэнос-Айрес решил стать столицей всерьез.",
@@ -1457,7 +1462,7 @@
         "deepDive": [
           {
             "title": "Бульвар без строгой формы",
-            "body": "Avenida de Mayo была объявлена Lugar Histórico Nacional в 1997 году именно за свой городской характер. Она берёт идею большого проспекта у Парижа, но не наследует его строгую дисциплину фасадов: здесь разрешены выступы, купола, башенки, bay windows, балконы и мансарды. Поэтому идти по авениде полезно медленно: это не один архитектурный стиль, а витрина того, как столица Argentina хотела быть европейской, современной и при этом шумно собственной."
+            "body": "Avenida de Mayo была объявлена Lugar Histórico Nacional в 1997 году именно за свой городской характер. Она берёт идею большого проспекта у Парижа, но не наследует его строгую дисциплину фасадов: здесь разрешены выступы, купола, башенки, эркеры, балконы и мансарды. Поэтому идти по авениде полезно медленно: это не один архитектурный стиль, а витрина того, как столица Аргентины хотела быть европейской, современной и при этом шумно собственной."
           }
         ]
       },
@@ -1468,12 +1473,13 @@
       "hours": {
         "rules": [],
         "summary": "Открытая городская улица, доступна круглосуточно; демонстрации и официальные события могут менять проход.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "argentina_monumentos_avenida_de_mayo",
         "ba_tourism_monserrat_avenida_de_mayo"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-5",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-5",
         "kind": "photo",
@@ -1492,7 +1498,7 @@
       "order": 5
     },
     {
-      "entry": "cafe_and_exterior",
+      "entry": "кафе по расписанию",
       "name": "Café Tortoni",
       "nameLocal": "Gran Café Tortoni",
       "note": "Политика здесь училась говорить тише.",
@@ -1506,7 +1512,7 @@
         "deepDive": [
           {
             "title": "Город говорит за столиком",
-            "body": "Официальный сайт Tortoni называет его старейшим кафе Буэнос-Айреса, основанным в 1858 году, а городская tourism-страница добавляет слой bares notables: Borges, Cortázar, Rubinstein, Gardel и длинная культурная память зала. После Plaza de Mayo эта остановка меняет громкость маршрута. Государство здесь не исчезает, оно садится за мраморный столик и превращается в разговор, литературный миф, газетную полемику и туристическую очередь."
+            "body": "Официальный сайт Tortoni называет его старейшим кафе Буэнос-Айреса, основанным в 1858 году, а городская туристическая страница добавляет слой исторических кафе: Борхес, Кортасар, Рубинштейн, Гардель и длинная культурная память зала. После Plaza de Mayo эта остановка меняет громкость маршрута. Государство здесь не исчезает, оно садится за мраморный столик и превращается в разговор, литературный миф, газетную полемику и туристическую очередь."
           }
         ]
       },
@@ -1517,12 +1523,13 @@
       "hours": {
         "rules": [],
         "summary": "Ежедневно 08:00–21:00 по официальному сайту; шоу, очереди и доступ к залам проверяйте отдельно.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "cafe_tortoni_official",
         "ba_tourism_cafe_tortoni"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-6",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-stop-6",
         "kind": "photo",
@@ -1541,7 +1548,7 @@
       "order": 6
     },
     {
-      "entry": "public_square_and_exterior",
+      "entry": "снаружи; экскурсии по записи",
       "name": "Конгресс и площадь Конгресса",
       "nameLocal": "Congreso de la Nación / Plaza del Congreso",
       "note": "Ось заканчивается не тишиной, а аргументом.",
@@ -1550,7 +1557,7 @@
       "content": {
         "context": "Здесь маршрут собирается в законченную фразу. Если Plaza de Mayo была местом рождения и уличного давления, то дворец Congreso — место оформления власти в процедуру, зал, комитет, дебаты и текст закона. Но и здесь Буэнос-Айрес не отказывается от театральности: огромный купол, лестницы, пространство площади, Монумент двум конгрессам и раскрытый горизонт делают парламент не только учреждением, но и образом государства. Остановитесь и оглянитесь назад в сторону Avenida de Mayo. Тогда становится понятно, что весь пройденный путь был не просто прогулкой по прямой, а длинным переходом от колониального совета и президентского балкона к публичной республике, которая должна объяснять себя в словах.",
         "lookFor": "Купол, ось проспекта за спиной и скульптурный язык площади перед дворцом.",
-        "practical": "Площадь открыта; interiores del Congreso смотрят только по бесплатным visitas guiadas с предварительной записью и документом, маршрут может отменяться из-за парламентской работы.",
+        "practical": "Площадь открыта; интерьеры Конгресса смотрят только на бесплатных экскурсиях с предварительной записью и документом, а маршрут может отменяться из-за парламентской работы.",
         "nextMove": "Если хотите закончить красиво, задержитесь еще на несколько минут у монумента и посмотрите назад по линии Avenida de Mayo. Это тот редкий городской коридор, который лучше всего читается именно с конца.",
         "deepDive": [
           {
@@ -1565,8 +1572,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Площадь и фасад доступны снаружи; visitas guiadas del Congreso бесплатные по записи, с DNI/паспортом, и могут меняться или отменяться по парламентской повестке.",
-        "checkedAt": "2026-06-27"
+        "summary": "Площадь и фасад доступны снаружи; экскурсии по Конгрессу бесплатные по записи, с документом или паспортом, и могут меняться или отменяться по парламентской повестке.",
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "ba_tourism_plaza_del_congreso",
@@ -1574,6 +1581,7 @@
         "diputados_visitas_guiadas",
         "senado_visitas_guiadas"
       ],
+      "photoAssetId": "buenos-aires-plaza-de-mayo-avenida-power-axis-7-stop-image-commons-plaza-congreso-cc0",
       "photo": {
         "id": "buenos-aires-plaza-de-mayo-avenida-power-axis-7-stop-image-commons-plaza-congreso-cc0",
         "kind": "photo",

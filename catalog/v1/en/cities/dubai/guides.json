@@ -3082,6 +3082,7 @@
         }
       ]
     },
+    "coverAssetId": "cover-dubai-creek-al-fahidi-deira-souks-generated",
     "cityId": "dubai",
     "category": "Маршрут",
     "title": "Ручей Дубая: Аль-Фахиди, абра и базары",
@@ -3107,7 +3108,7 @@
       "kind": "generated",
       "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-cover-square.jpg",
-      "alt": "Сгенерированная editorial-обложка маршрута «Ручей Дубая: Аль-Фахиди, абра и базары Дейры»"
+      "alt": "Сгенерированная редакционная обложка маршрута «Ручей Дубая: Аль-Фахиди, абра и базары Дейры»"
     },
     "basemap": {
       "image": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-basemap.png",
@@ -3123,10 +3124,10 @@
     "content": {
       "intro": "Если хочется понять, где у Дубая сердце, не смотрите сразу на башни. Смотрите на воду. Ручей не просто разделяет Bur Dubai и Deira — он объясняет, почему город вообще стал городом: по этой воде шли люди, ткань, специи, золото, жемчужная память и деловая привычка смотреть одновременно в сторону Аравии, Ирана, Индии и Восточной Африки.",
       "routeLogic": "Логика хода очень простая и очень дубайская: сначала дом и климат, потом ткань, потом вода, потом товар высокой ценности. Вы идёте не от достопримечательности к достопримечательности, а по старой цепочке городской жизни.",
-      "bestFor": "первое знакомство с историческим Дубаем\nгородские прогулки\nархитектура и наследие\nрынки и уличная фотография",
-      "notFor": "полуденная жара\nбесступенчатый маршрут\nлюди, которым тяжело в плотном рынке и узких проходах\nВ Аль-Фахиди и в старых рынках много неровной плитки, узких проходов и пешеходного потока. Переправа на традиционной абре не является бесступенчатой.",
-      "beforeYouGo": "Для классической переправы держите при себе мелкие наличные: RTA указывает тариф 1 AED с человека на традиционной моторной абре.\nSMCCU в Доме 26 — хороший якорь внутри квартала, но культурные программы бронируются отдельно; офисные часы не равны расписанию туров и трапез.\nНа рынках лучше не спешить с покупкой в первой же лавке: здесь важна не только вещь, но и разговор вокруг неё.\nЕсли цель — не покупки, а атмосфера, этот маршрут лучше всего работает как прогулка на слух, на запах и на свет.",
-      "timing": "15:30-17:00\nТак маршрут успевает пройти Аль-Фахиди при более мягком свете и выйти к рынкам Дейры к их вечернему ритму; в жаркий сезон стартуйте ещё осторожнее."
+      "bestFor": "первое знакомство с историческим Дубаем; городские прогулки про архитектуру, наследие и торговлю; рынки, уличная фотография и маршрут с короткой переправой через ручей",
+      "notFor": "полуденной жары, полностью бесступенчатого маршрута и тех, кому тяжело в плотном рынке: в Аль-Фахиди и старых базарах много неровной плитки, узких проходов и пешеходного потока, а посадка на традиционную абру не безбарьерная.",
+      "beforeYouGo": "Для классической переправы держите при себе мелкие наличные: RTA указывает тариф 1 AED с человека на традиционной моторной абре. SMCCU в Доме 26 — хороший якорь внутри квартала, но культурные программы бронируются отдельно; офисные часы не равны расписанию туров и трапез. На рынках лучше не спешить с покупкой в первой же лавке: здесь важна не только вещь, но и разговор вокруг неё. Если цель — не покупки, а атмосфера, этот маршрут лучше всего работает как прогулка на слух, запах и свет.",
+      "timing": "15:30–17:00: так маршрут успевает пройти Аль-Фахиди при более мягком свете и выйти к рынкам Дейры к их вечернему ритму; в жаркий сезон стартуйте ещё осторожнее."
     },
     "stopList": [
       {
@@ -3155,17 +3156,18 @@
         "hours": {
           "rules": [],
           "summary": "Dubai Culture: ежедневно 07:00-20:00 для района; часы отдельных музеев, галерей и кафе внутри отличаются.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "dubai_culture_al_fahidi"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-1",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-1",
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-1-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-1-square.jpg",
-          "alt": "Аль-Фахиди: вход в квартал ветр",
+          "alt": "Аль-Фахиди: ветровая башня и традиционный дом в историческом квартале.",
           "attribution": {
             "author": "Jpatokal",
             "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -3195,7 +3197,7 @@
           "nextMove": "Дальше двигайтесь к Текстильный рынок: ткань как первый язык торговли.",
           "deepDive": [
             {
-              "title": "Open Doors, Open Minds без витрины",
+              "title": "«Открытые двери, открытые мысли» без витрины",
               "body": "SMCCU формулирует свою задачу как культурное понимание через вопросы и разговор, а не как музейную дистанцию. Поэтому Дом 26 лучше воспринимать как живой переводчик квартала: он объясняет, почему рядом с торговлей так важны кофе, финики, приглашение, скромность и вопрос, заданный без смущения. Даже если вы не идёте на тур, это место меняет тон всей прогулки."
             }
           ]
@@ -3203,18 +3205,19 @@
         "hours": {
           "rules": [],
           "summary": "Офис SMCCU: ежедневно 08:00-20:00; Heritage Tour и культурные трапезы идут по отдельному расписанию и требуют проверки/бронирования.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "smccu_about_house_26",
           "smccu_heritage_tour"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-2",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-2",
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-2-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-2-square.jpg",
-          "alt": "Дом 26 SMCCU: двор, где старый",
+          "alt": "Дом 26 SMCCU: двор центра культурного взаимопонимания в Аль-Фахиди.",
           "attribution": {
             "author": "Nagsdear",
             "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -3252,17 +3255,18 @@
         "hours": {
           "rules": [],
           "summary": "Торговая зона с отдельными лавками; часы меняются по продавцам, пятничный старт может быть позднее. Проверено по официальному профилю рынка Visit Dubai.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "visit_dubai_textile_souk"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-3",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-3",
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-3-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-3-square.jpg",
-          "alt": "Текстильный рынок: ткань как пе",
+          "alt": "Текстильный рынок в Bur Dubai: лавки с тканями под деревянным навесом.",
           "attribution": {
             "author": "Iwona Rege",
             "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -3293,20 +3297,21 @@
           "deepDive": [
             {
               "title": "Ручей как улица, а не декорация",
-              "body": "Visit Dubai продаёт abra crossing как классический опыт старого Дубая, но полезнее смотреть на него прагматично: это короткая связка между двумя берегами одной торговой системы. Когда лодка отходит, вы видите не «вид на город», а инфраструктуру доверия: люди, груз, покупки и деньги пересекают воду быстрее, чем сухопутный обход объяснил бы этот маршрут."
+              "body": "Visit Dubai описывает переправу на абре как классический опыт старого Дубая, но полезнее смотреть на него прагматично: это короткая связка между двумя берегами одной торговой системы. Когда лодка отходит, вы видите не «вид на город», а инфраструктуру доверия: люди, груз, покупки и деньги пересекают воду быстрее, чем сухопутный обход объяснил бы этот маршрут."
             }
           ]
         },
         "hours": {
           "rules": [],
           "summary": "RTA: CR1 Bur Dubai Abra Station - Deira Old Souq Abra Station 06:00-00:00; тариф 1 AED наличными. CR2 Dubai Old Souq - Al Sabkha указан как 24 часа.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "rta_marine_traditional_abra",
           "rta_abra_timings_cr1_cr2",
           "visit_dubai_abra_creek_crossing"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-4",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-4",
           "kind": "photo",
@@ -3350,13 +3355,14 @@
         "hours": {
           "rules": [],
           "summary": "Точка высадки связана с RTA CR1 06:00-00:00; дальше начинается открытая торговая зона с разными часами лавок.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "rta_abra_timings_cr1_cr2",
           "visit_dubai_abra_creek_crossing",
           "visit_dubai_spice_souk"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-5",
         "id": "dubai-creek-al-fahidi-deira-souks-5",
         "guideId": "dubai-creek-al-fahidi-deira-souks",
         "order": 5,
@@ -3400,17 +3406,18 @@
         "hours": {
           "rules": [],
           "summary": "Торговая зона с отдельными лавками; единые часы на официальной странице Visit Dubai не опубликованы. Лучше планировать вторую половину дня или ранний вечер.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "visit_dubai_spice_souk"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-6",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-6",
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-6-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-6-square.jpg",
-          "alt": "Spice Souk: рынок, который снач",
+          "alt": "Spice Souk в Дейре: лавки со специями и ароматными товарами.",
           "attribution": {
             "author": "Stzeman",
             "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -3448,17 +3455,18 @@
         "hours": {
           "rules": [],
           "summary": "Торговая зона с отдельными лавками; единые часы на официальной странице Visit Dubai не опубликованы. Закладывайте запас времени на плотный поток и обратный транспорт.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "sourceIds": [
           "visit_dubai_gold_souk"
         ],
+        "photoAssetId": "dubai-creek-al-fahidi-deira-souks-stop-7",
         "photo": {
           "id": "dubai-creek-al-fahidi-deira-souks-stop-7",
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-7-wide.jpg",
           "square": "https://rentery.github.io/images/v1/dubai/dubai-creek-al-fahidi-deira-souks-stop-7-square.jpg",
-          "alt": "Gold Souk: финал про масштаб, д",
+          "alt": "Gold Souk в Дейре: витрины с золотом и ювелирными изделиями.",
           "attribution": {
             "author": "Imre Solt",
             "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
