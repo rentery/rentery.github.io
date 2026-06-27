@@ -937,7 +937,7 @@
   "title": "Beacon Hill: чёрный Бостон на северном склоне",
   "subtitle": "От Shaw Memorial к African Meeting House: северный склон Beacon Hill как инфраструктура свободы.",
   "blurb": "Маршрут идёт по Black Heritage Trail: памятник 54-му полку, State House, школы, частные дома активистов, церковь и музейные здания, где история свободной чернокожей общины Бостона становится городской тканью.",
-  "mood": "Тихий склон, плотная память.",
+  "mood": "тихий, холмистый, мемориальный",
   "accent": "#8B3E34",
   "soft": "#E6D7CC",
   "deep": "#5A2C29",
@@ -954,9 +954,9 @@
   },
   "content": {
     "intro": "На карте это короткая прогулка по северному склону Beacon Hill. По смыслу — маршрут о том, как свободная чернокожая община Бостона строила школы, церкви, дома взаимопомощи, политические сети и память о военной службе. NPS описывает Black Heritage Trail как прогулку длиной 1,6 мили через Beacon Hill; большинство точек остаются частными зданиями, а Abiel Smith School и African Meeting House открываются через Museum of African American History.\n\nТекущая линия маршрута в приложении идёт примерно 2,3 км: она начинается у Shaw / 54th Regiment Memorial на Boston Common, поднимается к State House и затем собирает северный склон через Pinckney, Phillips, Charles, Joy и Smith Court.",
-    "routeLogic": "Порядок сохраняет опубликованный spine: Shaw / 54th Regiment Memorial -> Massachusetts State House -> Phillips School -> John J. Smith House -> Lewis and Harriet Hayden House -> Charles Street Meeting House -> Abiel Smith School -> African Meeting House. Так маршрут переходит от официального монумента и законодательства к повседневной инфраструктуре свободы: школе, частному дому, дому-убежищу, церкви и музею.",
-    "bestFor": "тех, кто хочет увидеть Beacon Hill через историю свободной чернокожей общины\nтех, кому важны школы, дома активистов, церкви и аболиционистские сети\nготовности идти по холмистым улицам и уважать частные жилые остановки",
-    "notFor": "быстрого маршрута только по интерьерным музеям\nпосетителей, которые не готовы останавливаться у частных домов только с тротуара\nдня, когда вы не успеваете к музейному слоту MAAH, если хотите зайти внутрь финальных остановок",
+    "routeLogic": "Порядок сохраняет опубликованную основу: Shaw / 54th Regiment Memorial -> Massachusetts State House -> Phillips School -> John J. Smith House -> Lewis and Harriet Hayden House -> Charles Street Meeting House -> Abiel Smith School -> African Meeting House. Так маршрут переходит от официального монумента и законодательства к повседневной инфраструктуре свободы: школе, частному дому, дому-убежищу, церкви и музею.",
+    "bestFor": "тех, кто хочет увидеть Beacon Hill через историю свободной чернокожей общины; тех, кому важны школы, дома активистов, церкви и аболиционистские сети; тех, кто готов идти по холмистым улицам и уважать частные жилые остановки",
+    "notFor": "быстрого маршрута только по интерьерным музеям; посетителей, которые не готовы останавливаться у частных домов только с тротуара; дня, когда вы не успеваете к музейному слоту MAAH, если хотите зайти внутрь финальных остановок",
     "beforeYouGo": "Проверьте часы Museum of African American History и слоты билетов перед визитом: Abiel Smith School и African Meeting House открыты по музейному режиму, остальные точки маршрута в основном смотрятся снаружи. Для входа или экскурсии в State House сверяйте официальный сайт legislature.gov. Улицы Beacon Hill крутые; зимой и после дождя заложите больше времени.",
     "timing": "Для прогулки с чтением табличек достаточно 1,5–2 часов. Если заходите в MAAH на Joy Street, подстраивайте маршрут под музейный слот 10:00, 12:00 или 14:00.",
     "fallbackPlan": "Если музейные билеты недоступны, маршрут остаётся полноценной самостоятельной прогулкой на улице: NPS App поддерживает аудиотур, а большинство частных зданий всё равно нельзя посещать внутри."
@@ -977,9 +977,9 @@
       ],
       "walk": "Идите к золотому куполу Massachusetts State House на Beacon Street. На переходах вокруг Boston Common держитесь официальных дорожек и светофоров.",
       "content": {
-        "sourceNote": "Проверено по NPS Shaw / 54th Regiment Memorial и NPS BOAF hours: мемориал стоит на Boston Common напротив Massachusetts State House, открыт как outdoor public site; он посвящён одному из первых Black fighting units в Гражданской войне и first Black regiment from the North; NPS BOAF указывает, что памятник принадлежит City of Boston и открыт 24/7.",
-        "context": "Black Heritage Trail начинается с места, где городская память намеренно выходит на главный край Boston Common. NPS подчёркивает: мемориал Роберту Гулду Шоу и 54-му Массачусетскому полку посвящён одному из первых боевых подразделений чернокожих солдат в Гражданской войне и первому Black regiment from the North.\n\nВажно смотреть не только на всадника. Смысл работы Augustus Saint-Gaudens в том, что маршируют и солдаты: их служба помогла изменить отношение к участию Black soldiers в армии Союза и поддержала набор более 180 000 African Americans во время войны.",
-        "lookFor": "как фигура офицера и ряды солдат делят один рельеф\nнадписи и имена вокруг мемориала\nось между Boston Common и золотым куполом State House",
+        "sourceNote": "Проверено по NPS Shaw / 54th Regiment Memorial и NPS BOAF hours: мемориал стоит на Boston Common напротив Massachusetts State House, открыт как общественное место под открытым небом; он посвящён одному из первых боевых подразделений чернокожих солдат в Гражданской войне и первому чернокожему полку с Севера; NPS BOAF указывает, что памятник принадлежит City of Boston и открыт 24/7.",
+        "context": "Black Heritage Trail начинается с места, где городская память намеренно выходит на главный край Boston Common. NPS подчёркивает: мемориал Роберту Гулду Шоу и 54-му Массачусетскому полку посвящён одному из первых боевых подразделений чернокожих солдат в Гражданской войне и первому чернокожему полку с Севера.\n\nВажно смотреть не только на всадника. Смысл работы Augustus Saint-Gaudens в том, что маршируют и солдаты: их служба помогла изменить отношение к участию чернокожих солдат в армии Союза и поддержала набор более 180 000 афроамериканцев во время войны.",
+        "lookFor": "как фигура офицера и ряды солдат делят один рельеф; надписи и имена вокруг мемориала; ось между Boston Common и золотым куполом State House",
         "practical": "Памятник находится на открытом воздухе и открыт круглосуточно. Это популярное место памяти и собраний; не перекрывайте проход и не залезайте на элементы мемориала.",
         "nextMove": "Идите к золотому куполу Massachusetts State House на Beacon Street. На переходах вокруг Boston Common держитесь официальных дорожек и светофоров.",
         "deepDive": [
@@ -995,7 +995,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Outdoor memorial on Boston Common; NPS BOAF notes it is open 24 hours, 7 days a week.",
+        "summary": "Мемориал под открытым небом на Boston Common; NPS BOAF отмечает, что он открыт 24 часа в сутки, 7 дней в неделю.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-1",
@@ -1017,7 +1017,7 @@
       "id": "boston-beacon-hill-black-heritage-2",
       "guideId": "boston-beacon-hill-black-heritage",
       "order": 2,
-      "entry": "снаружи / бесплатные tours по режиму",
+      "entry": "снаружи / бесплатные экскурсии по режиму",
       "name": "Massachusetts State House",
       "nameLocal": "Massachusetts State House",
       "note": "Здесь история Black Beacon Hill пересекается с законодательством: петиции против рабства, Fugitive Slave Law и школьная десегрегация.",
@@ -1028,14 +1028,14 @@
       ],
       "walk": "От Государственного дома идите на запад вдоль Beacon Street до пересечения с Joy Street. Поверните направо и поднимитесь вверх по Joy Street к перекрёстку с Pinckney Street, где вас ждёт Филлипс Скул.",
       "content": {
-        "sourceNote": "Проверено по NPS Massachusetts State House и официальной странице State House Tours legislature.gov: здание спроектировано Charles Bulfinch, строительство завершено в 1798 году, это seat of state government; NPS связывает его с петициями abolitionists, Fugitive Slave Law и ban on segregated education in 1855; legislature.gov lists free docent tours 10:00-15:30, about 45 minutes, meeting in Doric Hall.",
-        "context": "На этом маршруте State House не просто красивая золотая точка на холме. NPS прямо связывает его с вопросами justice, liberty and representation: Black and White abolitionists petitioned against slavery and the 1850 Fugitive Slave Law, а African Americans petitioned for equal access to education.\n\nЭта законодательная линия важна перед следующими школьными остановками. В 1855 году Massachusetts Legislature запретила школьную сегрегацию; без этого решения Phillips School не стала бы одной из первых интегрированных школ Бостона.",
-        "lookFor": "золотой купол как официальный контрапункт частным домам trail\nDoric Hall / входную логику, если вы идёте на tour\nкак Beacon Street отделяет монументальную власть от жилого северного склона",
-        "practical": "Бесплатные docent tours указаны на legislature.gov с 10:00 до 15:30 и длятся примерно 45 минут; группы советуют бронировать заранее. Для маршрута достаточно exterior stop, если вы не планировали отдельный визит внутрь.",
+        "sourceNote": "Проверено по NPS Massachusetts State House и официальной странице State House Tours legislature.gov: здание спроектировано Charles Bulfinch, строительство завершено в 1798 году, это центр правительства штата; NPS связывает его с петициями аболиционистов, Fugitive Slave Law и запретом сегрегированного образования в 1855 году; legislature.gov указывает бесплатные экскурсии с 10:00 до 15:30, около 45 минут, сбор в Doric Hall.",
+        "context": "На этом маршруте State House не просто красивая золотая точка на холме. NPS прямо связывает его с вопросами справедливости, свободы и представительства: чернокожие и белые аболиционисты подавали здесь петиции против рабства и Fugitive Slave Law 1850 года, а афроамериканцы добивались равного доступа к образованию.\n\nЭта законодательная линия важна перед следующими школьными остановками. В 1855 году законодательное собрание Массачусетса запретило школьную сегрегацию; без этого решения Phillips School не стала бы одной из первых интегрированных школ Бостона.",
+        "lookFor": "золотой купол как официальный контрапункт частным домам маршрута; Doric Hall и входную логику, если вы идёте на экскурсию; как Beacon Street отделяет монументальную власть от жилого северного склона",
+        "practical": "Бесплатные экскурсии на legislature.gov указаны с 10:00 до 15:30 и длятся примерно 45 минут; группам советуют бронировать заранее. Для маршрута достаточно наружной остановки, если вы не планировали отдельный визит внутрь.",
         "nextMove": "От Государственного дома идите на запад вдоль Beacon Street до пересечения с Joy Street. Поверните направо и поднимитесь вверх по Joy Street к перекрёстку с Pinckney Street, где вас ждёт Филлипс Скул.",
         "deepDive": [
           {
-            "title": "Закон как часть walking trail",
+            "title": "Закон как часть пешего маршрута",
             "body": "Black Heritage Trail часто кажется маршрутом по домам и церквям, но State House показывает другой слой: движение за равное образование и против рабства нуждалось не только в домах-убежищах, но и в законодательных изменениях."
           }
         ]
@@ -1046,7 +1046,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Exterior always readable; official legislature.gov tour page lists free docent tours 10:00-15:30, about 45 minutes, meeting in Doric Hall. Check same-day access before entering.",
+        "summary": "Фасад читается всегда; официальная страница legislature.gov указывает бесплатные экскурсии 10:00-15:30, около 45 минут, сбор в Doric Hall. Перед входом проверьте доступ в тот же день.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-2",
@@ -1079,15 +1079,15 @@
       ],
       "walk": "Продолжайте идти вверх по Pinckney Street до дома № 86 – красного кирпичного рядового дома с белой дверью. Это следующий пункт – дом Джона Дж. Смита.",
       "content": {
-        "sourceNote": "Проверено по NPS Phillips School: location Anderson and Pinckney streets, Black Heritage Trail Site, open to public: no, managed as private residence; built in 1824; educated only white students until 1855; Black students attended Abiel Smith School; Massachusetts became the first state to prohibit public school segregation in 1855.",
-        "context": "На углу Pinckney and Anderson streets стоит здание, которое полезно читать без романтизации. NPS пишет, что Phillips School была построена в 1824 году и до 1855 года учила только белых учеников, пока чернокожие ученики ходили в недофинансированную и переполненную Abiel Smith School.\n\nСмысл остановки не в том, что фасад выглядит особенно драматично. Смысл в результате долгой борьбы родителей, активистов и союзников: после закона 1855 года Massachusetts стала первым штатом, запретившим public school segregation, а Phillips School стала одной из первых интегрированных школ Бостона.",
-        "lookFor": "угловое положение школы между Pinckney и Anderson\nскромность фасада по сравнению с масштабом конфликта\nкак близко отсюда до Abiel Smith School, где учились Black children до интеграции",
+        "sourceNote": "Проверено по NPS Phillips School: локация на Anderson and Pinckney streets, объект Black Heritage Trail, открыт для публики: нет, используется как частная резиденция; построена в 1824 году; до 1855 года обучала только белых учеников; чернокожие ученики ходили в Abiel Smith School; в 1855 году Massachusetts стал первым штатом, запретившим сегрегацию в государственных школах.",
+        "context": "На углу Pinckney and Anderson streets стоит здание, которое полезно читать без романтизации. NPS пишет, что Phillips School была построена в 1824 году и до 1855 года учила только белых учеников, пока чернокожие ученики ходили в недофинансированную и переполненную Abiel Smith School.\n\nСмысл остановки не в том, что фасад выглядит особенно драматично. Смысл в результате долгой борьбы родителей, активистов и союзников: после закона 1855 года Massachusetts стал первым штатом, запретившим сегрегацию в государственных школах, а Phillips School стала одной из первых интегрированных школ Бостона.",
+        "lookFor": "угловое положение школы между Pinckney и Anderson; скромность фасада по сравнению с масштабом конфликта; как близко отсюда до Abiel Smith School, где чернокожие дети учились до интеграции",
         "practical": "Здание является частной резиденцией. Осматривайте его только с тротуара, не заглядывайте в окна и не заходите во двор. Лучше всего виден фасад с перекрёстка Pinckney и Anderson Street.",
         "nextMove": "Продолжайте идти вверх по Pinckney Street до дома № 86 – красного кирпичного рядового дома с белой дверью. Это следующий пункт – дом Джона Дж. Смита.",
         "deepDive": [
           {
             "title": "Равное образование как городской конфликт",
-            "body": "Phillips School показывает, что Black Heritage Trail говорит не только о спасении от рабства. В Бостоне борьба шла и за обычное право ребёнка учиться в равной public school, а не в отдельной и недофинансированной системе."
+            "body": "Phillips School показывает, что Black Heritage Trail говорит не только о спасении от рабства. В Бостоне борьба шла и за обычное право ребёнка учиться в равной государственной школе, а не в отдельной и недофинансированной системе."
           }
         ]
       },
@@ -1097,7 +1097,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Private residence / Black Heritage Trail Site; NPS lists open to public: no. View only from the sidewalk.",
+        "summary": "Частная резиденция и объект Black Heritage Trail; NPS указывает, что для публики он не открыт. Осмотр только с тротуара.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-3",
@@ -1122,7 +1122,7 @@
       "entry": "частный фасад, только снаружи",
       "name": "John J. Smith House",
       "nameLocal": "John J. Smith House",
-      "note": "Дом активиста, чья парикмахерская стала центром abolitionist activity.",
+      "note": "Дом активиста, чья парикмахерская стала центром аболиционистской работы.",
       "time": "12 мин",
       "sourceIds": [
         "src-john-j-smith-house-nps",
@@ -1130,9 +1130,9 @@
       ],
       "walk": "Вернитесь к пересечению Pinckney Street и Anderson Street и поверните направо на Phillips Street. Через несколько домов, под номером 66, вы увидите дом Льюиса и Харриет Хейденов.",
       "content": {
-        "sourceNote": "Проверено по NPS John J. Smith House: 86 Pinckney Street, home of John J. Smith and a site on the Underground Railroad, Black Heritage Trail Site, open to public: no; Smith lived here 1878-1893, operated an abolitionist barbershop, helped Shadrach Minkins escape in 1851 with Lewis Hayden, recruited for Black Massachusetts regiments and 5th Cavalry, and served in the Massachusetts House and Boston Common Council.",
-        "context": "NPS описывает John J. Smith House как дом активиста и Underground Railroad site. Сам Смит родился свободным в Richmond, Virginia, переехал в Boston в 1840-х, а его barbershop стал местом abolitionist activity and secret councils.\n\nЭта остановка связывает бытовой бизнес, rescue network и городскую политику. В 1851 году Smith вместе с Lewis Hayden помог Shadrach Minkins скрыться после rescue from the courthouse; во время Civil War он recruiting for Black Massachusetts regiments and the 5th Cavalry, а позже служил в Massachusetts House of Representatives и Boston Common Council.",
-        "lookFor": "86 Pinckney Street как частный дом, а не музей\nкак узкая улица заставляет представить сеть соседей и доверия\nсоседство с Phillips School и Hayden House в одной walking geography",
+        "sourceNote": "Проверено по NPS John J. Smith House: 86 Pinckney Street, дом John J. Smith и объект Underground Railroad, объект Black Heritage Trail, открыт для публики: нет; Smith жил здесь в 1878-1893 годах, держал аболиционистскую парикмахерскую, вместе с Lewis Hayden помог Shadrach Minkins скрыться в 1851 году, набирал людей в чернокожие Массачусетские полки и 5-й кавалерийский полк, служил в Massachusetts House и Boston Common Council.",
+        "context": "NPS описывает John J. Smith House как дом активиста и объект Underground Railroad. Сам Смит родился свободным в Richmond, Virginia, переехал в Boston в 1840-х, а его парикмахерская стала местом аболиционистской работы и тайных советов.\n\nЭта остановка связывает бытовой бизнес, сеть спасения и городскую политику. В 1851 году Smith вместе с Lewis Hayden помог Shadrach Minkins скрыться после спасения из суда; во время Civil War он набирал людей в чернокожие Массачусетские полки и 5-й кавалерийский полк, а позже служил в Massachusetts House of Representatives и Boston Common Council.",
+        "lookFor": "86 Pinckney Street как частный дом, а не музей; как узкая улица заставляет представить сеть соседей и доверия; соседство с Phillips School и Hayden House в одной пешеходной географии",
         "practical": "Дом является частной резиденцией. Пожалуйста, не заходите на крыльцо и говорите тихо; любые попытки постучать будут нарушением частной жизни.",
         "nextMove": "Вернитесь к пересечению Pinckney Street и Anderson Street и поверните направо на Phillips Street. Через несколько домов, под номером 66, вы увидите дом Льюиса и Харриет Хейденов.",
         "deepDive": [
@@ -1148,7 +1148,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Private residence / Black Heritage Trail Site; NPS lists open to public: no. View only from the sidewalk.",
+        "summary": "Частная резиденция и объект Black Heritage Trail; NPS указывает, что для публики он не открыт. Осмотр только с тротуара.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-4",
@@ -1173,7 +1173,7 @@
       "entry": "частный фасад, только снаружи",
       "name": "Lewis and Harriet Hayden House",
       "nameLocal": "Lewis and Harriet Hayden House",
-      "note": "Один из ключевых Underground Railroad адресов Beacon Hill, связанный с documented freedom seekers.",
+      "note": "Один из ключевых адресов Underground Railroad на Beacon Hill, связанный с документированными беглецами к свободе.",
       "time": "12 мин",
       "sourceIds": [
         "src-hayden-house-nps",
@@ -1181,15 +1181,15 @@
       ],
       "walk": "Продолжайте идти по Phillips Street до его окончания. Поверните направо на Charles Street и идите до перекрёстка с Mount Vernon Street, где стоит следующее здание – Charles Street Meeting House.",
       "content": {
-        "sourceNote": "Проверено по NPS Lewis and Harriet Hayden House: 66 Phillips Street, home to Lewis and Harriet Hayden and a site on the Underground Railroad, open to public: no, private residence; after escaping slavery in Kentucky, the Haydens settled in Boston; their home became the most active Underground Railroad safe house in the city, sheltering scores of documented freedom seekers including William and Ellen Craft; listed as a National Underground Railroad Network to Freedom site.",
-        "context": "Этот фасад легко пройти слишком быстро, но NPS называет Hayden House самым активным домом-убежищем Underground Railroad в Бостоне. Lewis and Harriet Hayden бежали из рабства в Kentucky, поселились на north slope of Beacon Hill и укрывали documented freedom seekers.\n\nДом особенно важен как адрес риска и организации. William and Ellen Craft останавливались здесь в Boston; Lewis Hayden also took part in the Shadrach Minkins rescue in 1851 and the attempted Anthony Burns rescue in 1854, then recruited for the 54th Massachusetts Infantry Regiment and served in the Massachusetts General Court.",
-        "lookFor": "зелёные ставни и дверь как тихий маркер, а не зрелище\nкак близко дом-убежище стоит к другим адресам organizing network\nтабличку/маркер Network to Freedom, если он виден без захода на частную территорию",
+        "sourceNote": "Проверено по NPS Lewis and Harriet Hayden House: 66 Phillips Street, дом Lewis and Harriet Hayden и объект Underground Railroad, открыт для публики: нет, частная резиденция; после бегства из рабства в Kentucky Хейдены поселились в Boston; их дом стал самым активным убежищем Underground Railroad в городе и укрывал десятки документированных беглецов к свободе, включая William and Ellen Craft; включён в National Underground Railroad Network to Freedom.",
+        "context": "Этот фасад легко пройти слишком быстро, но NPS называет Hayden House самым активным домом-убежищем Underground Railroad в Бостоне. Lewis and Harriet Hayden бежали из рабства в Kentucky, поселились на северном склоне Beacon Hill и укрывали документированных беглецов к свободе.\n\nДом особенно важен как адрес риска и организации. William and Ellen Craft останавливались здесь в Boston; Lewis Hayden также участвовал в спасении Shadrach Minkins в 1851 году и в попытке спасения Anthony Burns в 1854 году, затем набирал людей в 54-й Массачусетский пехотный полк и служил в Massachusetts General Court.",
+        "lookFor": "зелёные ставни и дверь как тихий маркер, а не зрелище; как близко дом-убежище стоит к другим адресам организационной сети; табличку/маркер Network to Freedom, если он виден без захода на частную территорию",
         "practical": "Дом частный. Любуйтесь фасадом с тротуара и уважайте соседей. Летом вокруг дома растут цветочные ящики – не трогайте их.",
         "nextMove": "Продолжайте идти по Phillips Street до его окончания. Поверните направо на Charles Street и идите до перекрёстка с Mount Vernon Street, где стоит следующее здание – Charles Street Meeting House.",
         "deepDive": [
           {
-            "title": "Safe house как общественная работа",
-            "body": "В Hayden House слово «дом» не означает приватность без политики. Здесь private residence became civic infrastructure: shelter, trust, secrecy, money, courthouse action and later elected office worked as one survival system."
+            "title": "Дом-убежище как общественная работа",
+            "body": "В Hayden House слово «дом» не означает приватность без политики. Здесь частная резиденция стала гражданской инфраструктурой: убежище, доверие, тайна, деньги, действия у суда и позднее выборная должность работали как одна система выживания."
           }
         ]
       },
@@ -1199,7 +1199,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Private residence / Black Heritage Trail Site; NPS lists open to public: no. View only from the sidewalk.",
+        "summary": "Частная резиденция и объект Black Heritage Trail; NPS указывает, что для публики он не открыт. Осмотр только с тротуара.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-5",
@@ -1224,7 +1224,7 @@
       "entry": "частное здание, только снаружи",
       "name": "Charles Street Meeting House",
       "nameLocal": "Charles Street Meeting House",
-      "note": "Здание, где church history, abolition, suffrage, Black institutions and later LGBTQ community history overlap.",
+      "note": "Здание, где пересекаются история церкви, аболиционизм, суфражистское движение, чернокожие институции и поздняя история LGBTQ-сообщества.",
       "time": "12 мин",
       "sourceIds": [
         "src-charles-street-meeting-house-nps",
@@ -1232,15 +1232,15 @@
       ],
       "walk": "Сойдите вниз по Charles Street к оживлённому перекрёстку Cambridge Street, затем пересеките дорогу и поднимитесь вверх по Joy Street. На правой стороне вы увидите здание Школы Абьела Смита.",
       "content": {
-        "sourceNote": "Проверено по NPS Charles Street Meeting House: in 1876 Third Baptist sold the building to the First African Methodist Episcopal Church; as Charles Street A.M.E. Church it became the largest of Boston's five Black churches; when the church moved to Roxbury in 1939, it became the last Black institution to leave Beacon Hill. NPS also notes abolition lectures/meetings, women's suffrage meetings, 1895 Black clubwomen organizing, later gay/lesbian/bisexual community safe space, and private-property no-public-access caveat.",
-        "context": "Charles Street Meeting House показывает, как одно здание меняло общественную роль вместе с районом. NPS отмечает, что в 1876 году Third Baptist sold the building to the First African Methodist Episcopal Church; как Charles Street A.M.E. Church оно стало largest of Boston's five Black churches.\n\nЗдесь важна не одна дата, а серия uses. В здании проходили abolition lectures and meetings, suffrage meetings, а после 1895 First National Conference of Colored Women of America — meeting that helped lay the foundation for the National Association of Colored Women's Clubs. Когда церковь переехала в Roxbury in 1939, это был last Black institution to leave Beacon Hill.",
-        "lookFor": "церковный силуэт на плотном углу Charles и Mount Vernon\nкак здание стоит уже ближе к коммерческому Charles Street, чем к тихим домам Pinckney\nследы приспособления historic church к новым функциям",
-        "practical": "NPS помечает historic buildings on the Black Heritage Trail as private property when they are not public sites. Рассматривайте фасад и башню с противоположной стороны улицы и будьте осторожны при переходе перекрёстков.",
+        "sourceNote": "Проверено по NPS Charles Street Meeting House: в 1876 году Third Baptist продала здание First African Methodist Episcopal Church; как Charles Street A.M.E. Church оно стало крупнейшей из пяти чернокожих церквей Бостона; когда церковь переехала в Roxbury в 1939 году, это была последняя чернокожая институция, покинувшая Beacon Hill. NPS также отмечает аболиционистские лекции и собрания, суфражистские встречи, организацию чернокожих клубных активисток в 1895 году, позднее безопасное пространство для LGBTQ-сообщества и оговорку о частной собственности без публичного доступа.",
+        "context": "Charles Street Meeting House показывает, как одно здание меняло общественную роль вместе с районом. NPS отмечает, что в 1876 году Third Baptist продала здание First African Methodist Episcopal Church; как Charles Street A.M.E. Church оно стало крупнейшей из пяти чернокожих церквей Бостона.\n\nЗдесь важна не одна дата, а череда функций. В здании проходили аболиционистские лекции и собрания, суфражистские встречи, а после First National Conference of Colored Women of America 1895 года — встреча, которая помогла заложить основу National Association of Colored Women's Clubs. Когда церковь переехала в Roxbury в 1939 году, это была последняя чернокожая институция, покинувшая Beacon Hill.",
+        "lookFor": "церковный силуэт на плотном углу Charles и Mount Vernon; как здание стоит уже ближе к коммерческому Charles Street, чем к тихим домам Pinckney; следы приспособления исторической церкви к новым функциям",
+        "practical": "NPS напоминает: исторические здания Black Heritage Trail, которые не являются публичными объектами, остаются частной собственностью. Рассматривайте фасад и башню с противоположной стороны улицы и будьте осторожны при переходе перекрёстков.",
         "nextMove": "Сойдите вниз по Charles Street к оживлённому перекрёстку Cambridge Street, затем пересеките дорогу и поднимитесь вверх по Joy Street. На правой стороне вы увидите здание Школы Абьела Смита.",
         "deepDive": [
           {
             "title": "Последний уход с Beacon Hill",
-            "body": "Фраза NPS о last Black institution to leave Beacon Hill важна: маршрут не только о присутствии, но и о displacement. К 1939 году Black institutional life смещалась в Roxbury, а Beacon Hill постепенно становился другим социальным пространством."
+            "body": "Фраза NPS о последней чернокожей институции, покинувшей Beacon Hill, важна: маршрут не только о присутствии, но и о вытеснении. К 1939 году чернокожая институциональная жизнь смещалась в Roxbury, а Beacon Hill постепенно становился другим социальным пространством."
           }
         ]
       },
@@ -1250,7 +1250,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Private-property Black Heritage Trail building; no public interior access for the route. View only from the sidewalk/opposite corner.",
+        "summary": "Здание Black Heritage Trail в частной собственности; для маршрута публичного доступа внутрь нет. Осмотр только с тротуара или противоположного угла.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-6",
@@ -1275,7 +1275,7 @@
       "entry": "музей по слоту билета",
       "name": "Abiel Smith School",
       "nameLocal": "Abiel Smith School",
-      "note": "Первое в США public school building, построенное specifically for educating African American children.",
+      "note": "Первое в США здание государственной школы, построенное специально для обучения афроамериканских детей.",
       "time": "15 мин",
       "sourceIds": [
         "src-abiel-smith-school-nps",
@@ -1284,15 +1284,15 @@
       ],
       "walk": "Пройдите через ворота во внутренний двор Smith Court. Слева стоит Африканская встречная церковь – заключительный пункт нашей прогулки.",
       "content": {
-        "sourceNote": "Проверено по NPS Abiel Smith School, MAAH Boston Campus и NPS BOAF hours: школа открылась в 1835 году как первое здание, построенное специально для Black public school; MAAH называет её oldest public school in the United States built solely for educating African American children. MAAH Boston hours at check time: 10:00-16:00 Tue-Sun, ticket entries 10:00, 12:00, 14:00; NPS указывает timed ticket entry и бронирование через MAAH.",
-        "context": "После нескольких частных жилых остановок вы наконец подходите к зданию, куда можно зайти по музейному билету. NPS пишет, что Abiel Smith School opened in 1835 as the first building erected for the sole purpose of housing a Black public school; MAAH формулирует ещё сильнее: oldest public school in the United States built solely for educating African American children.\n\nШкола важна не как «просто музей в конце». Она объясняет конфликт у Phillips School: overcrowded and underfunded education, вечерние занятия для взрослых, community organizing и борьба за equal school rights в 1800s Boston.",
-        "lookFor": "простоту кирпичного фасада на Joy Street\nкак школьное здание стоит рядом с African Meeting House\nмузейный вход как переход от outdoor trail к archival/exhibition story",
-        "practical": "MAAH указывает Boston Museum Hours 10:00-16:00 Tuesday-Sunday; входные слоты на странице Boston Campus: 10:00, 12:00 или 14:00. NPS подчёркивает вход по timed ticket и советует проверять MAAH website перед визитом.",
+        "sourceNote": "Проверено по NPS Abiel Smith School, MAAH Boston Campus и NPS BOAF hours: школа открылась в 1835 году как первое здание, построенное специально для чернокожей государственной школы; MAAH называет её старейшей государственной школой в США, построенной исключительно для обучения афроамериканских детей. На момент проверки часы MAAH Boston: 10:00-16:00 со вторника по воскресенье, входные слоты 10:00, 12:00, 14:00; NPS указывает вход по временному билету и бронирование через MAAH.",
+        "context": "После нескольких частных жилых остановок вы наконец подходите к зданию, куда можно зайти по музейному билету. NPS пишет, что Abiel Smith School открылась в 1835 году как первое здание, построенное специально для чернокожей государственной школы; MAAH формулирует ещё сильнее: старейшая государственная школа в США, построенная исключительно для обучения афроамериканских детей.\n\nШкола важна не как «просто музей в конце». Она объясняет конфликт у Phillips School: переполненное и недофинансированное образование, вечерние занятия для взрослых, общинная самоорганизация и борьба за равные школьные права в Бостоне XIX века.",
+        "lookFor": "простоту кирпичного фасада на Joy Street; как школьное здание стоит рядом с African Meeting House; музейный вход как переход от уличного маршрута к архивно-выставочной истории",
+        "practical": "MAAH указывает часы Boston Campus 10:00-16:00 со вторника по воскресенье; входные слоты на странице Boston Campus: 10:00, 12:00 или 14:00. NPS подчёркивает вход по временному билету и советует проверять сайт MAAH перед визитом.",
         "nextMove": "Пройдите через ворота во внутренний двор Smith Court. Слева стоит Африканская встречная церковь – заключительный пункт нашей прогулки.",
         "deepDive": [
           {
             "title": "От отдельной школы к музею борьбы",
-            "body": "Abiel Smith School одновременно хранит память о self-built institution и о неравенстве, из которого оно выросло. Именно поэтому маршрут не заканчивает школьную тему на Phillips School: здесь видна цена separate education before integration."
+            "body": "Abiel Smith School одновременно хранит память об институции, созданной самой общиной, и о неравенстве, из которого она выросла. Именно поэтому маршрут не заканчивает школьную тему на Phillips School: здесь видна цена раздельного образования до интеграции."
           }
         ]
       },
@@ -1302,7 +1302,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "MAAH Boston Campus lists 10:00-16:00 Tue-Sun and timed entries at 10:00, 12:00, 14:00; reserve/check tickets before visiting.",
+        "summary": "MAAH Boston Campus указывает 10:00-16:00 со вторника по воскресенье и входные слоты 10:00, 12:00, 14:00; перед визитом бронируйте и проверяйте билеты.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-7",
@@ -1327,7 +1327,7 @@
       "entry": "музей по слоту билета",
       "name": "African Meeting House",
       "nameLocal": "African Meeting House",
-      "note": "Oldest surviving Black church structure in the nation и финальная точка Black Heritage Trail.",
+      "note": "Старейшее сохранившееся здание чернокожей церкви в США и финальная точка Black Heritage Trail.",
       "time": "15 мин",
       "sourceIds": [
         "src-african-meeting-house-nps",
@@ -1336,15 +1336,15 @@
       ],
       "walk": "-",
       "content": {
-        "sourceNote": "Проверено по NPS African Meeting House, MAAH Boston Campus и NPS BOAF hours: opened in 1806; oldest surviving Black church structure in the nation; National Historic Landmark, Black Heritage Trail Site and Network to Freedom Site; served as church, school, gathering place for political activism and cultural life; hosted Frederick Douglass, Maria Stewart, Sarah Grimke, William Lloyd Garrison and William Cooper Nell; MAAH says it is the last stop on the Black Heritage Trail and is open for talks/tours/events with timed ticket access.",
-        "context": "African Meeting House — не просто финальная точка маршрута. NPS называет его oldest surviving Black church structure in the nation. Здание открылось в 1806 году и служило church, school and gathering place for political activism and cultural life.\n\nЗдесь сходятся почти все линии прогулки: education before Abiel Smith School, abolitionist organizing, women's rights, civil rights, Underground Railroad support and community meetings. NPS также объясняет прозвище Black Faneuil Hall: здесь собирались activist organizations, включая Massachusetts General Colored Association, New England Anti-slavery Society и New England Freedom Association.",
-        "lookFor": "как Meeting House стоит не на парадной улице, а внутри Smith Court\nпростые кирпичные стены как counterpoint к State House и Shaw Memorial\nпереход от exterior memory к музейному пространству community organizing",
-        "practical": "Доступ внутрь идёт через слот билета MAAH; музейный режим совпадает с Boston Campus hours. Проверяйте билеты и события перед визитом, потому что talks, tours and events могут менять доступность пространства.",
-        "nextMove": "Маршрут завершён. Через Smith Court можно спуститься обратно на Joy Street и к Park Street Station; если музей открыт, оставьте время на Abiel Smith School exhibitions и African Meeting House talks/tours.",
+        "sourceNote": "Проверено по NPS African Meeting House, MAAH Boston Campus и NPS BOAF hours: открыт в 1806 году; старейшее сохранившееся здание чернокожей церкви в США; National Historic Landmark, объект Black Heritage Trail и Network to Freedom; служил церковью, школой, местом политической активности и культурной жизни; принимал Frederick Douglass, Maria Stewart, Sarah Grimke, William Lloyd Garrison и William Cooper Nell; MAAH называет его последней остановкой Black Heritage Trail и открывает для лекций, экскурсий и событий по временному билету.",
+        "context": "African Meeting House — не просто финальная точка маршрута. NPS называет его старейшим сохранившимся зданием чернокожей церкви в США. Здание открылось в 1806 году и служило церковью, школой и местом собраний для политической активности и культурной жизни.\n\nЗдесь сходятся почти все линии прогулки: образование до Abiel Smith School, аболиционистская организация, права женщин, гражданские права, поддержка Underground Railroad и общинные собрания. NPS также объясняет прозвище Black Faneuil Hall: здесь собирались активистские организации, включая Massachusetts General Colored Association, New England Anti-slavery Society и New England Freedom Association.",
+        "lookFor": "как Meeting House стоит не на парадной улице, а внутри Smith Court; простые кирпичные стены как контрапункт State House и Shaw Memorial; переход от уличной памяти к музейному пространству общинной самоорганизации",
+        "practical": "Доступ внутрь идёт через слот билета MAAH; музейный режим совпадает с часами Boston Campus. Проверяйте билеты и события перед визитом, потому что лекции, экскурсии и мероприятия могут менять доступность пространства.",
+        "nextMove": "Маршрут завершён. Через Smith Court можно спуститься обратно на Joy Street и к Park Street Station; если музей открыт, оставьте время на выставки Abiel Smith School и лекции или экскурсии African Meeting House.",
         "deepDive": [
           {
             "title": "Почему «Black Faneuil Hall»",
-            "body": "Прозвище работает потому, что Meeting House был не только religious building. Он был местом собраний, речей, школ, mutual aid and political strategy — то есть public hall для общины, которой часто отказывали в равном доступе к публичной власти."
+            "body": "Прозвище работает потому, что Meeting House был не только религиозным зданием. Он был местом собраний, речей, школ, взаимопомощи и политической стратегии — то есть общественным залом для общины, которой часто отказывали в равном доступе к публичной власти."
           }
         ]
       },
@@ -1354,7 +1354,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "MAAH Boston Campus lists 10:00-16:00 Tue-Sun and timed entries at 10:00, 12:00, 14:00; reserve/check tickets and event access before visiting.",
+        "summary": "MAAH Boston Campus указывает 10:00-16:00 со вторника по воскресенье и входные слоты 10:00, 12:00, 14:00; перед визитом бронируйте и проверяйте билеты и доступность событий.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "boston-beacon-hill-black-heritage-stop-8",

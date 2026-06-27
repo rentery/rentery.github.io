@@ -65,7 +65,7 @@
       "packPath": "cities/edinburgh/offline-pack.json"
     },
     "dubai": {
-      "packHash": "cbad4305d348",
+      "packHash": "fbe232592073",
       "packPath": "cities/dubai/offline-pack.json"
     },
     "delhi": {
@@ -81,7 +81,7 @@
       "packPath": "cities/bruges/offline-pack.json"
     },
     "boston": {
-      "packHash": "db7f194926fc",
+      "packHash": "c64b7cc8ff70",
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
@@ -269,7 +269,7 @@
       "packPath": "cities/hong-kong/offline-pack.json"
     },
     "istanbul": {
-      "packHash": "d7c02f0749a9",
+      "packHash": "4ca37fea19fb",
       "packPath": "cities/istanbul/offline-pack.json"
     },
     "jaipur": {
@@ -313,11 +313,11 @@
       "packPath": "cities/lyon/offline-pack.json"
     },
     "macao": {
-      "packHash": "dbb4b5638938",
+      "packHash": "ff8dc8cd9ad3",
       "packPath": "cities/macao/offline-pack.json"
     },
     "madrid": {
-      "packHash": "c86170fcac61",
+      "packHash": "1203947a0028",
       "packPath": "cities/madrid/offline-pack.json"
     },
     "marrakesh": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T17:35:29.439Z",
+  "generatedAt": "2026-06-27T18:14:05.864Z",
   "locale": "ru",
   "schemaVersion": 1
 }
