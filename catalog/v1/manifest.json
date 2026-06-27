@@ -269,7 +269,7 @@
       "packPath": "cities/hong-kong/offline-pack.json"
     },
     "istanbul": {
-      "packHash": "a2147ab0d650",
+      "packHash": "d7c02f0749a9",
       "packPath": "cities/istanbul/offline-pack.json"
     },
     "jaipur": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T11:50:50.888Z",
+  "generatedAt": "2026-06-27T12:02:08.416Z",
   "locale": "ru",
   "schemaVersion": 1
 }
