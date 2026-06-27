@@ -117,7 +117,7 @@
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
-      "packHash": "8e5c2bca0810",
+      "packHash": "2018a068e9de",
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
@@ -125,11 +125,11 @@
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "f1a3df05b7a3",
+      "packHash": "2c9613a17c2b",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
-      "packHash": "084cb44cf0f2",
+      "packHash": "3269b4d0e517",
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
@@ -397,7 +397,7 @@
       "packPath": "cities/washington-dc/offline-pack.json"
     },
     "wellington": {
-      "packHash": "433b39af06f1",
+      "packHash": "b61df71d189b",
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
@@ -409,12 +409,12 @@
       "packPath": "cities/zanzibar-city/offline-pack.json"
     },
     "zurich": {
-      "packHash": "097667c53983",
+      "packHash": "d1f0d99b0e44",
       "packPath": "cities/zurich/offline-pack.json"
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T18:49:37.613Z",
+  "generatedAt": "2026-06-27T20:11:47.274Z",
   "locale": "en",
   "schemaVersion": 1
 }
