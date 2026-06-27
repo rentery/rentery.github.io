@@ -4231,9 +4231,9 @@
     "content": {
       "intro": "Ванмиеу и Куок Ты Зям часто называют сердцем учебной памяти Ханоя. Храм литературы связан с 1070 годом, а национальная академия Куок Ты Зям, по современным справкам VNA, обучала будущих служилых людей с 1076 по 1779 год. Эта прогулка не превращает комплекс в набор легенд: вы читаете ось дворов, павильон, каменные стелы и соседние культурные места как одну историю о знаниях, государстве и городской памяти.",
       "routeLogic": "Маршрут держит компактную академическую ось: сначала внешний пролог у озера Хо Ван, затем вход в Ванмиеу-Куок Ты Зям, павильон Кхюэ Ван, колодец Тхиен Куанг и докторские стелы, после этого двор Тай Хок. Две финальные точки выводят тему за стены комплекса: Национальный музей изобразительных искусств показывает, как образование превращается в визуальную культуру, а сквер с памятником Ленину напоминает, что память Ханоя многослойна и не всегда академична.",
-      "bestFor": "тех, кто хочет понять Ханой через образование и ритуал\nлюбителей спокойных дворов, каменных надписей и музейных пауз\nпервого знакомства с районом Ванмиеу без длинных переездов",
-      "notFor": "маршрута только по бесплатным внешним точкам\nтех, кто не хочет заходить в билетные пространства\nпрогулки в самый жаркий полдень без тени и воды",
-      "beforeYouGo": "На проверку 27.06.2026 официальный сайт Ванмиеу-Куок Ты Зям был в реконструкции и показывал запуск 30.06.2026, поэтому часы и билет храма сверяйте в день визита на месте или по текущим каналам центра. Национальный музей изобразительных искусств официально работает вт-вс 08:30-17:00, понедельник закрыт; взрослый билет указан как 40 000 VND. Берите воду, наличные и одежду для уважительного посещения храмового комплекса.",
+      "bestFor": "Для тех, кто хочет понять Ханой через образование и ритуал; для любителей спокойных дворов, каменных надписей и музейных пауз; для первого знакомства с районом Ванмиеу без длинных переездов.",
+      "notFor": "Не для маршрута только по бесплатным внешним точкам; не для тех, кто не хочет заходить в билетные пространства; не для прогулки в самый жаркий полдень без тени и воды.",
+      "beforeYouGo": "На проверку 28.06.2026 официальный сайт Ванмиеу-Куок Ты Зям был в реконструкции и показывал coming soon, поэтому часы и билет храма сверяйте в день визита на месте или по текущим каналам центра. Национальный музей изобразительных искусств официально работает вт-вс 08:30-17:00, понедельник закрыт; взрослый билет указан как 40 000 VND. Берите воду, наличные и одежду для уважительного посещения храмового комплекса.",
       "timing": "2,5–3 часа; без захода в музей искусств можно уложиться примерно в 2 часа"
     },
     "stopList": [
@@ -4266,7 +4266,7 @@
         "hours": {
           "rules": [],
           "summary": "Озеро и внешняя зона доступны как городское пространство; события и пространство чтения проверяйте по текущим объявлениям центра.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-1",
         "sourceIds": [
@@ -4316,7 +4316,7 @@
         "hours": {
           "rules": [],
           "summary": "Билетная зона Ванмиеу-Куок Ты Зям; часы и билет сверяйте в день визита, официальный сайт на проверку был в реконструкции.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-2",
         "sourceIds": [
@@ -4328,7 +4328,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-2-wide.jpg",
           "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-2-square.jpg",
-          "alt": "Dai Trung gate, Temple of Literature, Hanoi, Vietnam",
+          "alt": "Ворота Дай Чунг внутри комплекса Ванмиеу-Куок Ты Зям в Ханое.",
           "attribution": {
             "author": "Jakub Hałun",
             "license": "Creative Commons Attribution 4.0 International; cropped/resized for app",
@@ -4366,7 +4366,7 @@
         "hours": {
           "rules": [],
           "summary": "Билетная зона Ванмиеу-Куок Ты Зям; часы и билет сверяйте в день визита, официальный сайт на проверку был в реконструкции.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-3",
         "sourceIds": [
@@ -4379,7 +4379,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-3-wide.jpg",
           "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-3-square.jpg",
-          "alt": "Khue Van Pavilion (Temple of Literature, Hanoi)",
+          "alt": "Павильон Кхюэ Ван Как в комплексе Храма литературы в Ханое.",
           "attribution": {
             "author": "David Stanley",
             "license": "Creative Commons Attribution 2.0 Generic; cropped/resized for app",
@@ -4417,7 +4417,7 @@
         "hours": {
           "rules": [],
           "summary": "Билетная зона Ванмиеу-Куок Ты Зям; часы и билет сверяйте в день визита, официальный сайт на проверку был в реконструкции.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-4",
         "sourceIds": [
@@ -4429,7 +4429,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-4-wide.jpg",
           "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-4-square.jpg",
-          "alt": "Stelae of Doctors – Temple of Literature, Hanoi",
+          "alt": "Докторские стелы на каменных черепахах у колодца Тхиен Куанг в Ханое.",
           "attribution": {
             "author": "Daderot",
             "license": "Creative Commons CC0 1.0 Universal Public Domain Dedication; cropped/resized for app",
@@ -4467,7 +4467,7 @@
         "hours": {
           "rules": [],
           "summary": "Билетная зона Ванмиеу-Куок Ты Зям; часы и билет сверяйте в день визита, официальный сайт на проверку был в реконструкции.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-5",
         "sourceIds": [
@@ -4548,7 +4548,7 @@
             }
           ],
           "summary": "Официально: вт-вс 08:30-17:00, понедельник закрыт; взрослый билет 40 000 VND.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-6",
         "sourceIds": [
@@ -4560,7 +4560,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-6-wide.jpg",
           "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-6-square.jpg",
-          "alt": "Vietnam National Museum of Fine Arts, Hanoi",
+          "alt": "Фасад Национального музея изобразительных искусств Вьетнама в Ханое.",
           "attribution": {
             "author": "Smuconlaw",
             "license": "Creative Commons Attribution-ShareAlike 3.0 Unported; cropped/resized for app; ShareAlike applies",
@@ -4598,7 +4598,7 @@
         "hours": {
           "rules": [],
           "summary": "Открытый городской сквер; доступ может меняться во время городских работ или мероприятий.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "hanoi-van-mieu-scholar-city-stop-7",
         "sourceIds": [
@@ -4609,7 +4609,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-7-wide.jpg",
           "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-stop-7-square.jpg",
-          "alt": "Statue of Lenin in Hanoi",
+          "alt": "Бронзовый памятник Ленину в небольшом городском сквере Ханоя.",
           "attribution": {
             "author": "Alexey Komarov",
             "license": "Creative Commons Attribution-ShareAlike 4.0 International; cropped/resized for app; ShareAlike applies",
@@ -4624,7 +4624,7 @@
       "kind": "generated",
       "wide": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/hanoi/hanoi-van-mieu-scholar-city-cover-square.jpg",
-      "alt": "Сгенерированная editorial-обложка маршрута «hanoi-van-mieu-scholar-city»"
+      "alt": "Сгенерированная обложка маршрута «Ванмиеу: учёный город Ханоя»"
     },
     "coverAssetId": "hanoi-van-mieu-scholar-city-cover",
     "basemap": {

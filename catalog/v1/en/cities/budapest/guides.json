@@ -5936,8 +5936,8 @@
     "content": {
       "intro": "Андрашши – это не просто улица, это коридор через время. Она была проложена в 1870‑е, чтобы соединить центр Пешта с городским парком. С тех пор проспект стал витриной венгерских амбиций: здесь демонстрируются лучшая архитектура неоренессанса, первые автомобили, трамваи и первая электрическая подземка континентальной Европы. Слева и справа тянутся липовые аллеи, а под землёй дрожит легендарная линия M1. Этот маршрут знакомит с местами, где пересекаются искусство, музыка и история – от величественного оперного театра до уютных площадей, от мрачных страниц XX века до торжества национального героизма. Неспешная прогулка позволяет почувствовать, как город менялся на протяжении более ста лет. Начав у Государственной оперы, вы пройдёте мимо музыкальной площади, пересечёте оживлённый Октагон, увидите музей памяти о диктатурах и выйдете к кругу, где жил и работал Золтан Кодай. Затем вас ждёт величественная площадь Героев, замок, словно собранный из разных эпох, и горячие купальни Сечени, где можно завершить день уже не прогулкой, а водой.",
       "routeLogic": "Маршрут сохраняет прямую историческую ось Андрашши: от театрального центра Пешта через транспортные и мемориальные узлы проспекта к площади Героев, Варошлигету и купальням Сечени. Так бульвар читается не как набор отдельных фасадов, а как городская линия, построенная вокруг тысячелетнего юбилея и линии M1.",
-      "bestFor": "первого знакомства с Андрашши и Варошлигетом\nтех, кто хочет пройти UNESCO-ось пешком, а не только проехать на M1\nлюбителей архитектуры, городской истории и спокойных остановок",
-      "notFor": "быстрого маршрута на один час\nдня, где нужно полноценно зайти в OperaTour, House of Terror, музей Вайдахуняда и купальни сразу\nпрогулки с маленькими детьми, если финал планируется в Сечени: официальный возрастной порог купален изменился",
+      "bestFor": "Для первого знакомства с Андрашши и Варошлигетом; для тех, кто хочет пройти UNESCO-ось пешком, а не только проехать на M1; для любителей архитектуры, городской истории и спокойных остановок.",
+      "notFor": "Не для быстрого маршрута на один час; не для дня, где нужно полноценно зайти в OperaTour, House of Terror, музей Вайдахуняда и купальни сразу; не для прогулки с маленькими детьми, если финал планируется в Сечени: официальный возрастной порог купален изменился.",
       "beforeYouGo": "Сверьте текущие часы OperaTour, House of Terror, музея в Вайдахуняде, Kodály Museum и купален Сечени: маршрут работает снаружи, но интерьеры живут по отдельным расписаниям.",
       "timing": "3–4 часа пешком без полноценного музейного визита; OperaTour, House of Terror, музей Вайдахуняда или купальни легко превращают прогулку в полдня."
     },
@@ -5971,7 +5971,7 @@
         "hours": {
           "rules": [],
           "summary": "Экстерьер доступен как городская точка; официальный OperaTour и спектакли идут по отдельному расписанию, которое лучше проверять в день визита.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-1",
         "sourceIds": [
@@ -5984,7 +5984,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-1-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-1-square.jpg",
-          "alt": "Hungarian State Opera House in Budapest",
+          "alt": "Фасад Венгерского государственного оперного театра на проспекте Андрашши в Будапеште.",
           "attribution": {
             "author": "Jeremy Oakley",
             "license": "CC BY 2.0; cropped/resized for app",
@@ -6022,7 +6022,7 @@
         "hours": {
           "rules": [],
           "summary": "Площадь открыта; здание Академии Листа доступно по концертному или экскурсионному расписанию, а не как свободный проходной интерьер.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-2",
         "sourceIds": [
@@ -6034,7 +6034,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-2-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-2-square.jpg",
-          "alt": "Liszt Ferenc Square in Budapest",
+          "alt": "Площадь Ференца Листа с памятником композитору в Будапеште.",
           "attribution": {
             "author": "B jonas",
             "license": "CC BY 4.0; cropped/resized for app",
@@ -6072,7 +6072,7 @@
         "hours": {
           "rules": [],
           "summary": "Открытый городской перекрёсток; закладывайте время на светофоры и плотное движение у M1 и трамваев 4/6.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-3",
         "sourceIds": [
@@ -6084,7 +6084,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-3-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-3-square.jpg",
-          "alt": "Oktogon in Budapest",
+          "alt": "Перекрёсток Октагон на проспекте Андрашши в Будапеште.",
           "attribution": {
             "author": "Fred Romero",
             "license": "CC BY 2.0; cropped/resized for app",
@@ -6122,7 +6122,7 @@
         "hours": {
           "rules": [],
           "summary": "Экстерьер доступен с улицы; музей обычно открыт вт–вс 10:00–18:00, касса до 17:30, понедельник закрыт.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-4",
         "sourceIds": [
@@ -6134,7 +6134,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-4-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-4-square.jpg",
-          "alt": "House of Terror exterior in Budapest",
+          "alt": "Чёрный фасад Дома террора на проспекте Андрашши в Будапеште.",
           "attribution": {
             "author": "Chmee2 / Valtameri",
             "license": "CC BY 3.0; cropped/resized for app",
@@ -6172,7 +6172,7 @@
         "hours": {
           "rules": [],
           "summary": "Открытая площадь; Kodály Museum работает по ограниченному расписанию и рекомендует предварительную запись даже в будни.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-5",
         "sourceIds": [
@@ -6184,7 +6184,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-5-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-5-square.jpg",
-          "alt": "Kodaly korond statue context in Budapest",
+          "alt": "Статуя и зелёная площадь Кодай-кёрёнд на проспекте Андрашши в Будапеште.",
           "attribution": {
             "author": "Apród",
             "license": "CC BY 3.0; cropped/resized for app",
@@ -6222,7 +6222,7 @@
         "hours": {
           "rules": [],
           "summary": "Открытая городская площадь у входа в Варошлигет; церемонии, митинги и фестивали могут менять движение и обзорные точки.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-6",
         "sourceIds": [
@@ -6234,7 +6234,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-6-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-6-square.jpg",
-          "alt": "Heroes Square in Budapest",
+          "alt": "Монументальная площадь Героев с колоннадой и центральной колонной в Будапеште.",
           "attribution": {
             "author": "Petr Šmerkl / User:Sveter",
             "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -6272,7 +6272,7 @@
         "hours": {
           "rules": [],
           "summary": "Двор читается как открытая парковая остановка; музей в замке обычно работает вт–вс 10:00–17:00, понедельник закрыт.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-7",
         "sourceIds": [
@@ -6284,7 +6284,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-7-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-7-square.jpg",
-          "alt": "Vajdahunyad Castle in Budapest",
+          "alt": "Фасад и башни замка Вайдахуняд в городском парке Будапешта.",
           "attribution": {
             "author": "Jorge Franganillo",
             "license": "CC BY 2.0; cropped/resized for app",
@@ -6322,7 +6322,7 @@
         "hours": {
           "rules": [],
           "summary": "Экстерьер доступен в парке; купальни обычно работают пн–чт 07:00–20:00, пт 07:00–22:00, сб–вс 08:00–20:00, с кассой до часа перед закрытием.",
-          "checkedAt": "2026-06-27"
+          "checkedAt": "2026-06-28"
         },
         "photoAssetId": "budapest-andrassy-city-park-millennium-stop-8",
         "sourceIds": [
@@ -6334,7 +6334,7 @@
           "kind": "photo",
           "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-8-wide.jpg",
           "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-stop-8-square.jpg",
-          "alt": "Szechenyi Spa in Budapest",
+          "alt": "Необарочный фасад купален Сечени в городском парке Будапешта.",
           "attribution": {
             "author": "Christine Zenino",
             "license": "CC BY 2.0; cropped/resized for app",
@@ -6349,7 +6349,7 @@
       "kind": "generated",
       "wide": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/budapest/budapest-andrassy-city-park-millennium-cover-square.jpg",
-      "alt": "Сгенерированная editorial-обложка маршрута «budapest-andrassy-city-park-millennium»"
+      "alt": "Сгенерированная обложка маршрута «Андрашши и Варошлигет: городская ось тысячелетия»"
     },
     "coverAssetId": "budapest-andrassy-city-park-millennium-cover",
     "basemap": {

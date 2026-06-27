@@ -3767,8 +3767,8 @@
       "content": {
         "intro": "Этот маршрут показывает Мумбаи не через парадный фасад Форта, а через старый торговый центр, где город покупает, молится, ремонтируется и ест. Здесь важны не отдельные памятники, а плотность: муниципальный рынок, тканевые лавки, храм имени города, ювелирные и свадебные ряды, мусульманский квартал и вечерняя еда стоят в нескольких кварталах друг от друга.",
         "routeLogic": "Порядок сохраняет живую торговую ось: от большого муниципального рынка у Crawford Market вы входите в тканевые ряды Mangaldas и Mulji Jetha, затем в храм Мумбадеви и лавочный Бхулешвар. После этого маршрут выводит к Бхенди-базару и Чор-базару, где старые чавлы и антикварные лавки соседствуют с реконструкцией, а финал у Минар-масджид и Mohammed Ali Road переводит дневную торговлю в вечернюю еду.",
-        "bestFor": "тех, кто хочет увидеть торговый Мумбаи без витринного глянца\nлюбителей рынков, храмовых кварталов и уличной еды\nпутешественников, готовых к толпе, торгу, шуму и очень плотному движению",
-        "notFor": "маршрута без тесных улиц и переполненных переходов\nтех, кому нужен гарантированный интерьер на каждой остановке\nпрогулки с крупным багажом, открытыми сумками или нетерпением к рынкам",
+        "bestFor": "Для тех, кто хочет увидеть торговый Мумбаи без витринного глянца; для любителей рынков, храмовых кварталов и уличной еды; для путешественников, готовых к толпе, торгу, шуму и очень плотному движению.",
+        "notFor": "Не для маршрута без тесных улиц и переполненных переходов; не для тех, кому нужен гарантированный интерьер на каждой остановке; не для прогулки с крупным багажом, открытыми сумками или нетерпением к рынкам.",
         "beforeYouGo": "Идите днём или к раннему вечеру, в закрытой удобной обуви и с небольшой сумкой впереди. Для Мумбадеви нужна уважительная одежда и снятие обуви; официальный даршан указан как 06:30-20:55. У рынков нет одного централизованного расписания: отдельные лавки закрываются по воскресеньям, пятницам, на обед, во время молитвы или из-за ремонта. Для еды у Mohammed Ali Road лучше приходить после 19:00, а в Рамадан ориентироваться на закат и толпы.",
         "timing": "2,5–3 часа; с покупками, храмовой очередью или вечерней едой легко станет дольше"
       },
@@ -3802,7 +3802,7 @@
           "hours": {
             "rules": [],
             "summary": "Муниципальный рынок с разными рядами и частными лавками; воскресенье и ремонты могут менять доступ.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-1",
           "sourceIds": [
@@ -3815,7 +3815,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-1-wide.jpg",
             "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-1-square.jpg",
-            "alt": "Crawford Market tower, Mumbai",
+            "alt": "Башня и фасад Crawford Market, официально Mahatma Jyotiba Phule Mandai, в Мумбаи.",
             "attribution": {
               "author": "Bernard Gagnon",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -3853,7 +3853,7 @@
           "hours": {
             "rules": [],
             "summary": "Частные текстильные лавки с дневным режимом; воскресенье часто закрыто или сокращено, конкретные часы проверяйте на месте.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-2",
           "sourceIds": [
@@ -3940,7 +3940,7 @@
               }
             ],
             "summary": "Официально: даршан ежедневно 06:30-20:55; храм закрывается в 21:00.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-3",
           "sourceIds": [
@@ -3952,7 +3952,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-3-wide.jpg",
             "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-3-square.jpg",
-            "alt": "Sikhara of Mumba Devi Temple, Mumbai",
+            "alt": "Шикхара храма Шри Мумбадеви среди плотной застройки Бхулешвара в Мумбаи.",
             "attribution": {
               "author": "PHMS",
               "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -3990,7 +3990,7 @@
           "hours": {
             "rules": [],
             "summary": "Рыночные лавки и небольшие храмы работают по-разному; лучше идти днём или ранним вечером и сверяться на месте.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-4",
           "sourceIds": [
@@ -4002,7 +4002,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-4-wide.jpg",
             "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-4-square.jpg",
-            "alt": "Buildings in Bhuleshwar, Mumbai",
+            "alt": "Плотная городская застройка и фасады района Бхулешвар в Мумбаи.",
             "attribution": {
               "author": "Abhishekbijur",
               "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -4040,7 +4040,7 @@
           "hours": {
             "rules": [],
             "summary": "Рыночные часы меняются по лавкам; пятница, реконструкция и муниципальные работы могут менять доступ.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-5",
           "sourceIds": [
@@ -4053,7 +4053,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-5-wide.jpg",
             "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-5-square.jpg",
-            "alt": "Chor Bazaar, Mutton Street, Mumbai",
+            "alt": "Лавки и уличная сцена Chor Bazaar на Mutton Street в Мумбаи.",
             "attribution": {
               "author": "Rajarshi Mitra",
               "license": "CC BY 2.0; cropped/resized for app",
@@ -4091,7 +4091,7 @@
           "hours": {
             "rules": [],
             "summary": "Действующая мечеть и вечерняя пищевая улица; доступ и проход зависят от молитвы, Рамадана и текущих ограничений.",
-            "checkedAt": "2026-06-27"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-6",
           "sourceIds": [
@@ -4103,7 +4103,7 @@
             "kind": "photo",
             "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-6-wide.jpg",
             "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-6-square.jpg",
-            "alt": "Minara Masjid, Mumbai",
+            "alt": "Зелёный купол и минареты Minara Masjid на Mohammed Ali Road в Мумбаи.",
             "attribution": {
               "author": "ruffin_ready’s",
               "license": "CC BY 2.0; cropped/resized for app",
@@ -4118,7 +4118,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «mumbai-bhuleshwar-markets-mumbadevi»"
+        "alt": "Сгенерированная обложка маршрута «Бхулешвар, рынки и храм Мумбадеви»"
       },
       "coverAssetId": "mumbai-bhuleshwar-markets-mumbadevi-cover",
       "basemap": {
@@ -4802,7 +4802,7 @@
       "hours": {
         "rules": [],
         "summary": "Муниципальный рынок с разными рядами и частными лавками; воскресенье и ремонты могут менять доступ.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-1",
       "sourceIds": [
@@ -4815,7 +4815,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-1-square.jpg",
-        "alt": "Crawford Market tower, Mumbai",
+        "alt": "Башня и фасад Crawford Market, официально Mahatma Jyotiba Phule Mandai, в Мумбаи.",
         "attribution": {
           "author": "Bernard Gagnon",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -4853,7 +4853,7 @@
       "hours": {
         "rules": [],
         "summary": "Частные текстильные лавки с дневным режимом; воскресенье часто закрыто или сокращено, конкретные часы проверяйте на месте.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-2",
       "sourceIds": [
@@ -4940,7 +4940,7 @@
           }
         ],
         "summary": "Официально: даршан ежедневно 06:30-20:55; храм закрывается в 21:00.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-3",
       "sourceIds": [
@@ -4952,7 +4952,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-3-square.jpg",
-        "alt": "Sikhara of Mumba Devi Temple, Mumbai",
+        "alt": "Шикхара храма Шри Мумбадеви среди плотной застройки Бхулешвара в Мумбаи.",
         "attribution": {
           "author": "PHMS",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -4990,7 +4990,7 @@
       "hours": {
         "rules": [],
         "summary": "Рыночные лавки и небольшие храмы работают по-разному; лучше идти днём или ранним вечером и сверяться на месте.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-4",
       "sourceIds": [
@@ -5002,7 +5002,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-4-square.jpg",
-        "alt": "Buildings in Bhuleshwar, Mumbai",
+        "alt": "Плотная городская застройка и фасады района Бхулешвар в Мумбаи.",
         "attribution": {
           "author": "Abhishekbijur",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -5040,7 +5040,7 @@
       "hours": {
         "rules": [],
         "summary": "Рыночные часы меняются по лавкам; пятница, реконструкция и муниципальные работы могут менять доступ.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-5",
       "sourceIds": [
@@ -5053,7 +5053,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-5-square.jpg",
-        "alt": "Chor Bazaar, Mutton Street, Mumbai",
+        "alt": "Лавки и уличная сцена Chor Bazaar на Mutton Street в Мумбаи.",
         "attribution": {
           "author": "Rajarshi Mitra",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -5091,7 +5091,7 @@
       "hours": {
         "rules": [],
         "summary": "Действующая мечеть и вечерняя пищевая улица; доступ и проход зависят от молитвы, Рамадана и текущих ограничений.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "mumbai-bhuleshwar-markets-mumbadevi-stop-6",
       "sourceIds": [
@@ -5103,7 +5103,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/mumbai/mumbai-bhuleshwar-markets-mumbadevi-stop-6-square.jpg",
-        "alt": "Minara Masjid, Mumbai",
+        "alt": "Зелёный купол и минареты Minara Masjid на Mohammed Ali Road в Мумбаи.",
         "attribution": {
           "author": "ruffin_ready’s",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -5113,5 +5113,5 @@
       }
     }
   ],
-  "packHash": "fb83fb801670"
+  "packHash": "be5e4789566f"
 }

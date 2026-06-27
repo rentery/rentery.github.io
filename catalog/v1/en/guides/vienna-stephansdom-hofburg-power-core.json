@@ -867,8 +867,8 @@
   "content": {
     "intro": "Это прогулка не про открытки, а про механизмы центра. В Вене власть редко действует в лоб: она поднимается башней, прячется в гербе, обещает спасение после бедствия, выстраивает театральный вход, заставляет улицу выглядеть как церемония и даже память превращает в архитектурную позу. Начало у Стефансдома важно именно поэтому. Здесь город сначала смотрит вверх. Шпиль задаёт вертикаль, к которой всё остальное вынуждено относиться: рынок, ремесло, процессии, дворы, витрины и дворец. Дальше ось будет почти незаметно менять регистр. У стеклянного ствола на углу вы почувствуете город цехов и привычек. На Грабене власть уже учится говорить языком барокко: беда превращается в монумент, а благодарность — в публичный спектакль. У Петерскирхе этот спектакль становится уютнее и интимнее: купол не подавляет, а втягивает. Потом вас подберёт Кольмаркт — улица, которая делает из движения социальный фильтр. Она не кричит о статусе; она шлифует его. На Михаэлерплац церковь, двор и модернистская дерзость оказываются в одном кадре, и город вдруг честно признаётся, что он состоит не из одного стиля, а из постоянного спора. В Швейцарских воротах спор исчезает: там снова чистая династическая уверенность, имена и знаки, вырезанные в камне как будто навсегда. Но на Хельденплац становится ясно, что навсегда не бывает. Имперская сцена остаётся впечатляющей, однако рядом с парадностью всегда стоит память о том, что большие площади умеют не только славить, но и поглощать голоса тех, кто на них собирается. Идти этот маршрут лучше медленно. Не охотясь за «главным видом», а замечая, как город всё время меняет язык, не меняя центра.",
     "routeLogic": "Маршрут идёт от соборной вертикали к имперской площади через ремесленную память, барочную благодарность, церковный купол, придворную торговую улицу, многослойный Михаэлерплац и ренессансное ядро Хофбурга. Порядок сохраняет короткую восток-западную линию центра и заканчивает её на площади, где парадность уже неотделима от политической памяти XX века.",
-    "bestFor": "первого знакомства с внутренним городом\nлюбителей городской истории, архитектуры и символики власти\nсамостоятельной прогулки без спешки и с короткими интерьерными паузами",
-    "notFor": "маршрута без туристической плотности в центре\nтех, кому нужен только быстрый проход без остановок\nпрогулки, где все интерьеры гарантированы без богослужений, событий или очередей",
+    "bestFor": "Для первого знакомства с внутренним городом; для любителей городской истории, архитектуры и символики власти; для самостоятельной прогулки без спешки и с короткими интерьерными паузами.",
+    "notFor": "Не для маршрута без туристической плотности в центре; не для тех, кому нужен только быстрый проход без остановок; не для прогулки, где все интерьеры гарантированы без богослужений, событий или очередей.",
     "beforeYouGo": "Идите утром или ближе к вечеру, когда Stephansplatz и Graben чуть легче читать. Стефансдом и Петерскирхе действующие храмы: службы, туры, концерты и отдельные зоны могут менять доступ. Для музеев Хофбурга, сокровищницы и платных туров проверяйте официальный сайт в день прогулки; этот маршрут хорошо работает и как уличная линия без билетов.",
     "timing": "2–3 часа; с башней, катакомбами, Петерскирхе, музеями Хофбурга или ожиданием на Stephansplatz добавьте отдельное время"
   },
@@ -877,7 +877,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «vienna-stephansdom-hofburg-power-core»"
+    "alt": "Сгенерированная обложка маршрута «Стефансдом и Хофбург: ядро власти»"
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-basemap.png",
@@ -944,7 +944,7 @@
           }
         ],
         "summary": "WienTourismus / Stephansdom: собор обычно открыт пн-сб 06:00-22:00, вс/праздники 07:00-22:00; башни, катакомбы и туры живут по отдельному расписанию.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "Встаньте так, чтобы южная башня уводила взгляд почти болезненно вверх. WienTourismus называет Стефансдом символом Вены и центром города; это не рекламная фраза, а рабочая логика площади. Отсюда маршрут сразу задаёт вертикаль, с которой дальше спорят рынок, ремесло, барокко и дворец.",
@@ -962,12 +962,13 @@
         "stephansdom-official",
         "wien-info-stephansdom"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-1",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-1",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-1-square.jpg",
-        "alt": "Stephansdom (St. Stephen's Cathedral), Wien (Vienna), Austria .jpg",
+        "alt": "Готический Стефансдом с высокой южной башней в центре Вены.",
         "attribution": {
           "author": "Sharon Hahn Darlin",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -993,7 +994,7 @@
       "hours": {
         "rules": [],
         "summary": "Уличный объект за стеклом на углу Palais Equitable; смотрите с тротуара, не блокируя поток у Graben и Kärntner Straße.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "После собора взгляд резко опускается к витрине с тёмным стволом. Stock im Eisen обычно объясняют как средневековый Nagelbaum, дерево с сотнями гвоздей, которое город сохранил у угла Palais Equitable. Это маленький, почти странный противовес всей парадности вокруг.",
@@ -1011,12 +1012,13 @@
         "stock-im-eisen-wien-museum",
         "stock-im-eisen-secondary"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-2",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-2",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-2-square.jpg",
-        "alt": "Stock im Eisen 001.jpg",
+        "alt": "Stock im Eisen за стеклом на углу Palais Equitable в центре Вены.",
         "attribution": {
           "author": "Gnosos",
           "license": "Public Domain; cropped/resized for app",
@@ -1042,7 +1044,7 @@
       "hours": {
         "rules": [],
         "summary": "Пешеходная улица и уличный монумент; доступ открыт, но события, толпы и праздничное оформление могут менять удобные точки обзора.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "На Graben центр снова расширяется. Пестзойле напоминает о чуме 1679 года и о том, как благодарность, страх и династическая благочестивость стали публичной барочной формой. Колонна не просто отмечает бедствие: она учит горожан видеть спасение как сцену.",
@@ -1060,12 +1062,13 @@
         "pestsaule-secondary",
         "graben-kohlmarkt-wien-info"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-3",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-3",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-3-square.jpg",
-        "alt": "Pestsäule am Graben.jpg",
+        "alt": "Барочная Пестзойле на пешеходной улице Graben в Вене.",
         "attribution": {
           "author": "Cheeky76",
           "license": "CC BY-SA 3.0 AT; cropped/resized for app; ShareAlike applies",
@@ -1127,7 +1130,7 @@
           }
         ],
         "summary": "Официальный сайт Peterskirche: пн-пт 08:00-19:00, сб-вс 09:00-19:00; мессы, исповедь, групповые визиты и концерты могут менять доступ.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "Петерскирхе сжимает барокко до почти камерного масштаба. Официальная история храма выводит его место к раннему христианскому слою Vindobona, а нынешний облик связывает с барочной церковью 1701-1733 годов. Поэтому это не просто красивая пауза рядом с Graben, а сжатый город: Рим, барокко, литургия и туристический центр в одном небольшом объёме.",
@@ -1146,12 +1149,13 @@
         "peterskirche-official-history",
         "archdiocese-peterskirche"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-4",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-4",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-4-square.jpg",
-        "alt": "Peterskirche, Vienna, facade.jpg",
+        "alt": "Барочный фасад Петерскирхе на небольшой площади Petersplatz в Вене.",
         "attribution": {
           "author": "Gerda Arendt",
           "license": "CC0 1.0; cropped/resized for app",
@@ -1177,7 +1181,7 @@
       "hours": {
         "rules": [],
         "summary": "Пешеходная торговая улица доступна как уличный маршрут; часы зависят от отдельных магазинов, кафе и сезонной нагрузки.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "Kohlmarkt ведёт от Graben к Hofburg так, будто роскошь всегда была естественным продолжением двора. WienTourismus описывает этот участок вместе с Graben и Kärntner Straße как престижную «Golden U», где бывшие придворные поставщики и сегодняшние люксовые бренды делают статус почти городской инфраструктурой.",
@@ -1195,12 +1199,13 @@
         "kohlmarkt-wien-info",
         "kohlmarkt-history-secondary"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-5",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-5",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-5-square.jpg",
-        "alt": "Kohlmarkt Wien 2022-08-08 01.jpg",
+        "alt": "Пешеходная улица Kohlmarkt с витринами и перспективой к Хофбургу.",
         "attribution": {
           "author": "Leonhard Lenz",
           "license": "CC0 1.0; cropped/resized for app",
@@ -1226,7 +1231,7 @@
       "hours": {
         "rules": [],
         "summary": "Площадь и видимые раскопки читаются с улицы; Michaelerkirche, Sisi Museum, Imperial Apartments, Spanish Riding School и другие входы работают отдельно.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "На Михаэлерплац город честно показывает, что центр не обязан быть цельным. Wien Museum и Stadtarchäologie связывают раскопки с примерно 2000 годами городской истории, Sisi Museum напоминает о завершённом в конце XIX века Michaelertrakt, а напротив стоит Looshaus, вызвавший скандал своим отказом от привычной декоративности.",
@@ -1246,12 +1251,13 @@
         "hofburg-sisi-museum-history",
         "looshaus-wien-info"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-6",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-6",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-6-square.jpg",
-        "alt": "Hofburg Michaelerplatz 2.jpg",
+        "alt": "Михаэлерплац с фасадами Хофбурга и городской площадью в центре Вены.",
         "attribution": {
           "author": "Ricardalovesmonuments",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1277,7 +1283,7 @@
       "hours": {
         "rules": [],
         "summary": "Ворота и дворовая сцена читаются снаружи; проходы, церемонии, охрана и музейные входы Хофбурга могут менять удобный маршрут.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "Schweizertor строит более жёсткую сцену, чем Михаэлерплац. Официальная история Hofburg / Sisi Museum датирует ворота 1552 годом и связывает их с Pietro Ferabosco; WienTourismus называет Swiss Wing старейшей сохранившейся частью комплекса. Здесь Хофбург перестаёт спорить и снова говорит династическим языком.",
@@ -1295,12 +1301,13 @@
         "hofburg-sisi-museum-schweizertor",
         "wien-info-hofburg"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-7",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-7",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-7-square.jpg",
-        "alt": "Top Schweizertor Hofburg Vienna.jpg",
+        "alt": "Красно-чёрные Швейцарские ворота в старейшей части Хофбурга.",
         "attribution": {
           "author": "Jebulon",
           "license": "CC0 1.0; cropped/resized for app",
@@ -1326,7 +1333,7 @@
       "hours": {
         "rules": [],
         "summary": "Открытая площадь перед Neue Burg; события, охрана, демонстрации и музейные часы по периметру могут менять доступ и атмосферу.",
-        "checkedAt": "2026-06-27"
+        "checkedAt": "2026-06-28"
       },
       "content": {
         "context": "Heldenplatz нужен как финал именно потому, что он неудобен. WienTourismus связывает этот участок с Neue Burg и поздней фазой строительства Хофбурга, а образовательный проект Die Welt der Habsburger прямо напоминает о 15 марта 1938 года, когда с балкона Neue Burg была инсценирована поддержка Anschluss. Площадь великолепна, но не невинна.",
@@ -1344,12 +1351,13 @@
         "wien-info-hofburg-heldenplatz",
         "habsburger-heldenplatz-1938"
       ],
+      "photoAssetId": "vienna-stephansdom-hofburg-power-core-stop-8",
       "photo": {
         "id": "vienna-stephansdom-hofburg-power-core-stop-8",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/vienna/vienna-stephansdom-hofburg-power-core-stop-8-square.jpg",
-        "alt": "Heldenplatz-1.jpg",
+        "alt": "Хельденплац и крыло Neue Burg в имперском центре Вены.",
         "attribution": {
           "author": "Peterwuttke",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
