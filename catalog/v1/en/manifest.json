@@ -337,7 +337,7 @@
       "packPath": "cities/shanghai/offline-pack.json"
     },
     "singapore": {
-      "packHash": "eb994a89992e",
+      "packHash": "999c13d7a25d",
       "packPath": "cities/singapore/offline-pack.json"
     },
     "stockholm": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T09:52:17.050Z",
+  "generatedAt": "2026-06-27T10:03:31.541Z",
   "locale": "en",
   "schemaVersion": 1
 }
