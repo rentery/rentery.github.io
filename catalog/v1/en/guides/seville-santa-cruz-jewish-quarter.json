@@ -965,10 +965,10 @@
     "line": "Jardines de Murillo, Callejón del Agua, площади Santa Cruz и церковь Santa María la Blanca"
   },
   "content": {
-    "intro": "Santa Cruz легко продать как лабиринт романтики, но хороший маршрут начинается чуть строже: у Jardines de Murillo, на границе бывших садов Alcázar и квартала, который Visit Sevilla описывает как средневековую judería с извилистыми улицами, скрытыми patio и спокойными площадями. Здесь важна не одна легенда, а смена городских слоёв: королевская стена, вода Caños de Carmona, реконструкция Juan Talavera начала XX века, память о Murillo и Дон Жуане, церковь, пережившая мечеть, синагогу и барокко.\n\nФинал у Hospital de los Venerables оставляет маршрут немного незавершённым нарочно. Внутри это один из больших барочных адресов Santa Cruz, но сейчас он отмечен как временно закрытый на работы. Поэтому прогулка работает как exterior-first чтение района: вы видите, как Santa Cruz управляет тенью, узостью, легендами и доступом.",
+    "intro": "Santa Cruz легко продать как лабиринт романтики, но хороший маршрут начинается чуть строже: у Jardines de Murillo, на границе бывших садов Alcázar и квартала, который Visit Sevilla описывает как средневековую judería с извилистыми улицами, скрытыми patio и спокойными площадями. Здесь важна не одна легенда, а смена городских слоёв: королевская стена, вода Caños de Carmona, реконструкция Juan Talavera начала XX века, память о Murillo и Дон Жуане, церковь, пережившая мечеть, синагогу и барокко.\n\nФинал у Hospital de los Venerables оставляет маршрут немного незавершённым нарочно. Внутри это один из больших барочных адресов Santa Cruz, но сейчас он отмечен как временно закрытый на работы. Поэтому прогулка работает как внешнее чтение района: вы видите, как Santa Cruz управляет тенью, узостью, легендами и доступом.",
     "routeLogic": "Маршрут держит опубликованную связку Jardines de Murillo -> Callejón del Agua -> Plaza de Doña Elvira -> Plaza de Santa Cruz -> Santa María la Blanca -> Calle Mateos Gago -> Hospital de los Venerables. По линии карты это около 2,4 км: больше старой подписи, но соответствует реальному обходу через переулки и финальный выход к Venerables.",
-    "bestFor": "первого знакомства с Santa Cruz после Cathedral / Alcázar\nтех, кто любит читать район по стенам, воде, площадям и малым паузам\nжаркого дня, если идти утром или ближе к вечеру",
-    "notFor": "безбарьерного маршрута без брусчатки и узких проходов\nдня, когда нужны гарантированные интерьеры в каждой точке\nскоростного чек-листа только по Cathedral и Alcázar",
+    "bestFor": "первого знакомства с Santa Cruz после Cathedral / Alcázar; тех, кто любит читать район по стенам, воде, площадям и малым паузам; жаркого дня, если идти утром или ближе к вечеру",
+    "notFor": "безбарьерного маршрута без брусчатки и узких проходов; дня, когда нужны гарантированные интерьеры в каждой точке; скоростного чек-листа только по Cathedral и Alcázar",
     "beforeYouGo": "Большая часть маршрута внешняя и гибкая. Jardines de Murillo имеют сезонные часы, Santa María la Blanca допускает культурные визиты в ограниченные окна и закрывает их летом из-за работ по сохранению и реставрации, а Hospital de los Venerables на момент проверки помечен как временно закрытый. Проверяйте эти два интерьера в день прогулки; внешняя версия маршрута остаётся рабочей без билетов.",
     "timing": "2–3 часа: меньше, если идти только снаружи, дольше при культурном визите в Santa María la Blanca, жаре, толпе или вечерних паузах на площадях."
   },
@@ -1005,7 +1005,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Visit Sevilla: 08:00-22:00 in winter and 08:00-00:00 in summer; public garden access can still be affected by maintenance or city events.",
+        "summary": "Visit Sevilla указывает 08:00-22:00 зимой и 08:00-00:00 летом; доступ к саду всё равно может меняться из-за ухода, работ или городских событий.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-1",
@@ -1055,7 +1055,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Public alley, free exterior access; comfort depends on crowding, nearby works, and residential privacy.",
+        "summary": "Общественный переулок, бесплатный внешний проход; комфорт зависит от толпы, соседних работ и уважения к жилым окнам.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-2",
@@ -1105,7 +1105,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Public square, free exterior access; restaurants and terraces follow their own schedules.",
+        "summary": "Общественная площадь, бесплатный внешний доступ; рестораны и террасы работают по собственным графикам.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-3",
@@ -1155,7 +1155,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Visit Sevilla: public square open 24h; access can vary only because of events, works, or crowd control.",
+        "summary": "Visit Sevilla указывает общественную площадь с доступом 24/7; ограничения возможны только из-за событий, работ или управления потоком.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-4",
@@ -1205,7 +1205,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Official cultural visit window: Monday-Thursday 11:30-13:00 and 18:00-19:00; July-August suspended for conservation/restoration; times may change for pastoral needs or works.",
+        "summary": "Официальное окно культурных визитов: понедельник-четверг 11:30-13:00 и 18:00-19:00; в июле-августе визиты приостанавливают из-за работ по сохранению и реставрации.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-5",
@@ -1255,7 +1255,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Public street, free exterior access; bars, shops, delivery windows, and crowding vary by time of day.",
+        "summary": "Открытая городская улица; бары, магазины, доставка и плотность людей меняются по времени дня.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-6",
@@ -1290,7 +1290,7 @@
       "content": {
         "context": "Узкая улочка выводит вас к элегантному барочному фасаду с арочным входом и балконом над ним. Это Hospital de los Venerables – дом престарелых священников, построенный в 1676–1697 годах братством соборных служащих. За стенами прячется двухъярусный дворик с колоннами из мрамора, галереями и фонтаном в нижней впадине. Пока здание закрыто для посещения, можно оценить внешний декор: черепичная крыша с бело‑красными полосами, небольшой купол часовни и кованая решётка ворот. Представьте, как здесь в тени колоннад отдыхали старики‑каноники, а позднее – как сюда приходили любители живописи смотреть полотна Мурильо и Веласкеса.",
         "lookFor": "барочный фасад на Plaza de los Venerables\nарочный вход, балкон и линию крыши\nмасштаб здания внутри тесного квартала\nкак быстро Santa Cruz снова становится жилой и тихой",
-        "practical": "Visit Sevilla сейчас указывает, что объект временно закрыт на реставрационные работы; официальный сайт Los Venerables находится в maintenance mode. Смотрите фасад с улицы и не планируйте интерьер как гарантированную часть маршрута.",
+        "practical": "Visit Sevilla сейчас указывает, что объект временно закрыт на реставрационные работы; официальный сайт Los Venerables находится в режиме обслуживания. Смотрите фасад с улицы и не планируйте интерьер как гарантированную часть маршрута.",
         "nextMove": "На этом месте маршрут заканчивается. Поблизости можно выпить кофе или продолжить исследовать квартал, например, дойти до Alfalfa или Calle Pimienta.",
         "deepDive": [
           {
@@ -1306,7 +1306,7 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Visit Sevilla: temporarily closed for renovation work; exterior viewing only unless a current official event/access notice says otherwise.",
+        "summary": "Visit Sevilla указывает временное закрытие на реставрационные работы; планируйте внешний осмотр, если только свежая официальная афиша не говорит о доступе.",
         "checkedAt": "2026-06-27"
       },
       "photoAssetId": "seville-santa-cruz-jewish-quarter-stop-7",
