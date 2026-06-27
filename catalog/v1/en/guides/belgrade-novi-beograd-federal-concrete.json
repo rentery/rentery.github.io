@@ -1891,6 +1891,174 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_prijateljstva_-_panoramio_(5).jpg",
           "retrievedAt": "2026-06-23"
         }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:78d8be011937d6b9cfa11a183925e847daad5dad2e1203cb07a73b282d13ba3d",
+          "contentLocale": "ru",
+          "durationSeconds": 109.453,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 109.453,
+              "fileSizeBytes": 1604248,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8571868538856506,
+              "peakGain": 1.0397393918183433
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-1.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 13,
+              "maxChunkBytes": 314,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-1.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 109.4533125,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "friendship_park",
+                    "found": true,
+                    "alternatives": [
+                      "парк дружбы"
+                    ]
+                  },
+                  {
+                    "id": "pupin",
+                    "found": true,
+                    "alternatives": [
+                      "михайла пупина",
+                      "михайло пупин",
+                      "пупина"
+                    ]
+                  },
+                  {
+                    "id": "non_aligned",
+                    "found": true,
+                    "alternatives": [
+                      "движения неприсоединения",
+                      "движения неприсоединение",
+                      "неприсоединения"
+                    ]
+                  },
+                  {
+                    "id": "eternal_fire",
+                    "found": true,
+                    "alternatives": [
+                      "вечный огонь"
+                    ]
+                  },
+                  {
+                    "id": "novi_belgrade",
+                    "found": true,
+                    "alternatives": [
+                      "нови белград",
+                      "новий белград",
+                      "новый белград",
+                      "нового белграда"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Парк Дружбы. Войдите в парк со стороны проспекта Михайла Пупина и остановитесь у начала длинной аллеи, обсаженной молодыми и зрелыми платанами. На металлических табличках у подножия деревьев имена Тита, Неру, Насер, Индира Ганди, королева Елизавета, Стро, Фидель Кастро. В 1961 году участники движения «Неприсоединение» заложили здесь аллею мира, и каждый высокопоставленный гость добавлял свое дерево. Теперь перед вами зеленый коридор, где шум листьев перекликается с эхо больших саммитов. Слева, на небольшом холме, стоит памятник «Вечный огонь». Его зажгли в память о жертвах бомбардировок 1999 года, и он напоминает, как быстро мирная эйфория может смениться трагедией. Смотрите вперед, в просвете между деревьями виден старый город и крепость на другом берегу. Новий Белград был задуман как широкая, открытая столица и парк дружбы, его зеленый парадный двор. Пройдитесь по аллее, таблички и стволы расскажут о том, сколько стран оставили здесь след. На первом саммите движения «Неприсоединение» в Белграде лидеры стран Азии, Африки и Латинской Америки посадили в парке свои деревья как символ дружбы. Со временем аллея пополнилась посадками Брежнева, Ясера Арафата и других политиков. Даже группа Rolling Stones, выступавшая здесь в 2007 году, оставила свою платановую подпись. Парк до сих пор остается площадкой для митингов и концертов, соединяя политику и повседневность.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-1.asr.json"
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:e5fd308d002c3c5e2ef7181a23b47cae398d2adb68e000ed8a1962358e822dc3",
+          "speechTextHash": "sha256:e5fd308d002c3c5e2ef7181a23b47cae398d2adb68e000ed8a1962358e822dc3",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
+        }
       }
     },
     {
@@ -1935,6 +2103,171 @@
           "license": "CC BY 2.0; cropped/resized for app",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_contemporary_art,_New_Belgrade.jpg",
           "retrievedAt": "2026-06-23"
+        }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:bc47b74642732de90d066027281ee48e28fac276d52c42d5ec469bef4475e5f4",
+          "contentLocale": "ru",
+          "durationSeconds": 92.399,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 92.399,
+              "fileSizeBytes": 1341111,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8525789976119995,
+              "peakGain": 1.0453587768758823
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-2.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 10,
+              "maxChunkBytes": 358,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-2.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 92.3993125,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "modern_art_museum",
+                    "found": true,
+                    "alternatives": [
+                      "музей современного искусства"
+                    ]
+                  },
+                  {
+                    "id": "antic",
+                    "found": true,
+                    "alternatives": [
+                      "антич",
+                      "антича",
+                      "антич и иванка"
+                    ]
+                  },
+                  {
+                    "id": "raspopovic",
+                    "found": true,
+                    "alternatives": [
+                      "распопович"
+                    ]
+                  },
+                  {
+                    "id": "sixties",
+                    "found": true,
+                    "alternatives": [
+                      "шестидесятые годы",
+                      "60 е годы"
+                    ]
+                  },
+                  {
+                    "id": "october_award",
+                    "found": true,
+                    "alternatives": [
+                      "октябрьской премией",
+                      "октябрьская премия"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Музей современного искусства. Снаружи музей напоминает раковину из белого мрамора и стекла. Он поднят на тонких колоннах, а крыша сложена из шести взаимосвязанных блоков, как кристалл. Архитекторы Иван Антич и Иван Караспопович придумали его в 60-е годы как новый тип музея, здание без фасада и задней стороны, связанное с парком. Внутреннее пространство развивается спирально, чтобы посетитель плавно переходил из зала в зал, а свет попадал через скатные фонари на крыше. Пройдитесь по периметру. Вы увидите, как прозрачные стены отражают зелень и реку. Это не просто галерея, а символ культурного престижа молодого государства. После долгой реконструкции музей вновь открылся в 2017 году и теперь регулярно показывает сербский модернизм и международные выставки. По замыслу Антича и Распопович музей состоит из шести одинаковых кубов, размещенных в шахматном порядке. Эта структура задает маршрут внутри. Посетитель движется по спирали, проходя три уровня, а свет попадает через потолочные фонари. Белый мрамор и стекло подчеркивают чистоту формы. Проект был отмечен Октябрьской премией Белграда в 1965 году и считается образцом модернистского музейного дизайна.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-2.asr.json"
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:fbc26f268f1b6d6089f76309bcdfbca2493d9d3b5ceb3a4eaba3441b12bcb0ec",
+          "speechTextHash": "sha256:fbc26f268f1b6d6089f76309bcdfbca2493d9d3b5ceb3a4eaba3441b12bcb0ec",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
         }
       }
     },
@@ -1981,6 +2314,174 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beograd_Usce_Tower_IMG_9218.JPG",
           "retrievedAt": "2026-06-23"
         }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:5186bdbc2ca7c2710f10eb7e09fb8be26fbd3203b0a482deef83b2d7ecedcf0b",
+          "contentLocale": "ru",
+          "durationSeconds": 101.305,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 101.305,
+              "fileSizeBytes": 1484225,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8220984935760498,
+              "peakGain": 1.084116982451688
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-3.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 12,
+              "maxChunkBytes": 352,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-3.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 101.3046875,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "usce",
+                    "found": true,
+                    "alternatives": [
+                      "ушче",
+                      "ушце",
+                      "уще",
+                      "ушща",
+                      "уща"
+                    ]
+                  },
+                  {
+                    "id": "central_committee",
+                    "found": true,
+                    "alternatives": [
+                      "центральный комитет"
+                    ]
+                  },
+                  {
+                    "id": "nato",
+                    "found": true,
+                    "alternatives": [
+                      "нато"
+                    ]
+                  },
+                  {
+                    "id": "two_thousands",
+                    "found": true,
+                    "alternatives": [
+                      "двухтысячных",
+                      "2000 х"
+                    ]
+                  },
+                  {
+                    "id": "twenties",
+                    "found": true,
+                    "alternatives": [
+                      "двадцатых годах",
+                      "двадцатые годы",
+                      "2020 х годах"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Перед вами Кула Ушща, бывший ЦК. Спуститесь по бульвару Кузской башни с чередующимися полосами стекла и бетона. Это бывшая палата соцполитических организаций, построенная в 1962-1964 годах по проекту архитектора Михаила Янковича. В ее 25 этажах заседали Центральный комитет и другие органы Югославии. Башня символизировала вертикаль власти. По замыслу, она должна была подниматься над стройными кварталами Нового Белграда. В 1999 году верхние этажи были сильно повреждены во время бомбардировок НАТО, а в 2000-х здания реконструировали и надстроили несколько ярусов. Сейчас это бизнес-центр, а по соседству в 2020-х годах выросла стеклянная башня-близнец. Если приглядеться, вы заметите различия. Старая башня более тяжелая и подчеркнуто угловатая, новая, гладкая и прозрачная. Вместе они образуют ворота на входе в деловой район. Башня проектировалась как часть ансамбля Нового Белграда. После распада Югославии ее функции изменились. Сначала она пустовала, затем была продана и превращена в офисный центр. В 2020 году рядом построили вторую, более высокую башню, а прежний корпус переименовали Ушчи-1. Обсерватория на верхнем этаже когда-то была открыта для посетителей, но теперь закрыта.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-3.asr.json"
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:713234f27c7d780ea5f4965cdb591d2329057923b78375ab9d024c69eb069e34",
+          "speechTextHash": "sha256:713234f27c7d780ea5f4965cdb591d2329057923b78375ab9d024c69eb069e34",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
+        }
       }
     },
     {
@@ -2025,6 +2526,170 @@
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Serbia_2.jpg",
           "retrievedAt": "2026-06-23"
+        }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:8208c2f4310d8619798858f016be5116e4b32d018677705f4b45f70839d7e107",
+          "contentLocale": "ru",
+          "durationSeconds": 102.285,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 102.285,
+              "fileSizeBytes": 1489194,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8009057641029358,
+              "peakGain": 1.1128037505536021
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-4.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 13,
+              "maxChunkBytes": 344,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-4.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 102.2853125,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "palace_serbia",
+                    "found": true,
+                    "alternatives": [
+                      "дворец сербии"
+                    ]
+                  },
+                  {
+                    "id": "union_exec",
+                    "found": true,
+                    "alternatives": [
+                      "союзный исполком",
+                      "союзным исполнительным советом",
+                      "сив"
+                    ]
+                  },
+                  {
+                    "id": "brac",
+                    "found": true,
+                    "alternatives": [
+                      "брач"
+                    ]
+                  },
+                  {
+                    "id": "non_aligned",
+                    "found": true,
+                    "alternatives": [
+                      "неприсоединенных стран",
+                      "неприсоединенных стран"
+                    ]
+                  },
+                  {
+                    "id": "jankovic",
+                    "found": true,
+                    "alternatives": [
+                      "янкович"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Дворец Сербии, союзный исполком. Перед вами огромный белый комплекс в форме буквы «Н». Его фасады облицованы мрамором с Далматинского острова Брач. Здание начинали строить сразу после войны как дом правительства и президиума, но работы тянулись. Первые проекты были пересмотрены, стройку замораживали, возвращали. И, наконец, завершили к первой конференции неприсоединенных стран в 1961 году. С тех пор здесь располагаются правительственные учреждения Сербии. Встаньте на широкой площади перед входом, чтобы увидеть симметрию. Две длинные боковые крылья соединены центральным блоком. Внутри находятся залы, названные в честь республик бывшей федерации. Украшенные мозаиками и картинами. Но попасть туда можно только по предварительной записи или во время редких дней открытых дверей. Здание до сих пор используется для официальных встреч и подписаний. Над входом часто развивается государственный флаг. Работы над СИФСоюзным исполнительным советом начались в 1947 году, но вскоре были заморожены. В 1954 году архитектор Михаила Янкович предложил новый проект. Издание в стиле соцмодернизма выросло к 1961 году. Каждое крыло предназначалось для разных ведомств, а центральный зал – для приемов. Здание охраняется как памятник культуры.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-4.asr.json"
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:c3f15c867fa7d3fe92002f2be98db49e30719e372cdbcb0d166e629c0144edeb",
+          "speechTextHash": "sha256:c3f15c867fa7d3fe92002f2be98db49e30719e372cdbcb0d166e629c0144edeb",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
         }
       }
     },
@@ -2071,6 +2736,183 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_proteusbcn_-_El_SAVA_Center.jpg",
           "retrievedAt": "2026-06-23"
         }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:2236da0c91977af09ca3d0729fb80ebf72113496e709d28d77fb682bb6d3a456",
+          "contentLocale": "ru",
+          "durationSeconds": 109.111,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 109.111,
+              "fileSizeBytes": 1582377,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8373599648475647,
+              "peakGain": 1.0643581918750933
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-5.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 14,
+              "maxChunkBytes": 316,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-5.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 109.1113125,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "sava_center",
+                    "found": true,
+                    "alternatives": [
+                      "сава центр",
+                      "савва центр",
+                      "савацентр"
+                    ]
+                  },
+                  {
+                    "id": "osce_csce",
+                    "found": true,
+                    "alternatives": [
+                      "обсе",
+                      "опсе",
+                      "сбсе",
+                      "сбсэ",
+                      "сбса"
+                    ]
+                  },
+                  {
+                    "id": "pritzker",
+                    "found": true,
+                    "alternatives": [
+                      "притцкера",
+                      "притцкеровской",
+                      "притскера",
+                      "притскеровской"
+                    ]
+                  },
+                  {
+                    "id": "twenties_years",
+                    "found": true,
+                    "alternatives": [
+                      "двадцатые годы",
+                      "2020 е годы"
+                    ]
+                  },
+                  {
+                    "id": "hundred_thousand_m2",
+                    "found": true,
+                    "alternatives": [
+                      "ста тысяч квадратных метров",
+                      "сто тысяч квадратных метров",
+                      "100 тысяч квадратных метров"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Савва-центр. На огромном перекрёстке появляется низкое здание из голубого стекла и бетона. Это Савва-центр, первый крупный конференц-комплекс Югославии. Он был построен всего за 12 месяцев в 1976-1977 годах, чтобы принять саммит ОПСЕ тогда СБСЭ. Архитектор Стоян Максимович спроектировал его в виде нескольких объёмов, объединённых стеклянными галереями. Главное голубое зало вмещает более 4000 зрителей. За этот проект автор был номинирован на премию Притскера. В 2020-е годы центр пережил масштабную реконструкцию, улучшили акустику, энергоэффективность и благоустроили общественные пространства. Сегодня здесь проходят концерты, балеты, киносмотры и международные конгрессы. Если вам повезёт, можно попасть внутрь на мероприятие и оценить модернистский интерьер. В противном случае прогуляйтесь по площади, чтобы почувствовать масштаб и увидеть сочетание стекла, бетона и воды на фонтане. Савва-центр площадью около 100 тысяч квадратных метров был возведён в рекордные сроки к саммиту СБСа 1977 года. В 1978 году комплекс вошёл в шорт-лист Притскеровской премии. В 2020 году его выкупила частная компания и начало реконструкцию, были заменены инженерные системы, добавлены зелёные насаждения и открыта крыша. Голубая зала вновь принимает мировые звёзды и крупные конгрессы.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-5.asr.json",
+              "boundaryTrim": {
+                "status": "applied",
+                "reason": "faster-whisper hallucinated \"Продолжение следует\" at or after audio duration; clipped from catalog transcript only"
+              }
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:c51dbc98e8800b8f00ea11dd7ca37e44c1df89e4011f4c8b41a8dcee50b70dee",
+          "speechTextHash": "sha256:c51dbc98e8800b8f00ea11dd7ca37e44c1df89e4011f4c8b41a8dcee50b70dee",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
+        }
       }
     },
     {
@@ -2116,6 +2958,176 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_-_Block_23,_southwest_side.jpg",
           "retrievedAt": "2026-06-23"
         }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:b58c811661fe3ce190e2f629cd09873e5889a836999a3f51b41dafd98e74334c",
+          "contentLocale": "ru",
+          "durationSeconds": 119.927,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 119.927,
+              "fileSizeBytes": 1728752,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8724334239959717,
+              "peakGain": 1.0215689972669602
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-6.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 14,
+              "maxChunkBytes": 322,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-6.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 119.9273125,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "block_23",
+                    "found": true,
+                    "alternatives": [
+                      "блок двадцать три",
+                      "блок 23"
+                    ]
+                  },
+                  {
+                    "id": "two_hundred_flats",
+                    "found": true,
+                    "alternatives": [
+                      "двухсот квартир",
+                      "200 квартир"
+                    ]
+                  },
+                  {
+                    "id": "seven_thousand",
+                    "found": true,
+                    "alternatives": [
+                      "семи тысяч пятьсот шестьдесят",
+                      "семь тысяч пятьсот шестьдесят",
+                      "7560"
+                    ]
+                  },
+                  {
+                    "id": "partizan",
+                    "found": true,
+                    "alternatives": [
+                      "партизан"
+                    ]
+                  },
+                  {
+                    "id": "seventies",
+                    "found": true,
+                    "alternatives": [
+                      "семидесятых годах",
+                      "70 х годах"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Жилой блок 23. Свернув с магистрали, вы попадаете в лабиринт дворов и башен. Блок 23. Один из самых амбициозных жилых проектов Нового Белграда. Его строили с 1969 по 1976 год. Четыре башни высотой 21 этаж. Два длинных десятиэтажных корпуса и несколько зигзагообразных четырехэтажных блоков образуют единый ансамбль. Архитекторы Александр Степанович, Бронислав Караджич и Бужидар Янкович стремились совместить масштаб и уют. Поэтому высокие башни чередуются с низкими крыльями, а в центре расположены зеленые дворы. Пройдите во внутренний двор и почувствуйте, как бетонные стены образуют квартал в квартале. Здесь есть детские площадки, школа и магазины, а на стенах – граффити фанатов клуба «Партизан» и посвящения местным героям. Обратите внимание на балконы. Они образуют волнистый рисунок, который архитектор назвал «бетонным барокко». Несмотря на суровую внешность, квартиры светлые и имеют гибкую планировку, а на крышах как дахто размещались студии художников. Блок 23 был экспериментальной площадкой. Здесь разместили около 200 квартир для 7560 жителей, две школы и детские сады. Архитекторы использовали движущуюся опалубку, что ускорило строительство. В советских и западных журналах «Квартал» называли примером конструктивной эстетики и гибкого жилья, а в 70-х годах он получил премию города за архитектуру. Сегодня Блок живет обычной жизнью, жители адаптировали пространство под себя, но планировка сохраняет первоначальный замысел.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-6.asr.json",
+              "boundaryTrim": {
+                "status": "applied",
+                "reason": "faster-whisper hallucinated \"Продолжение следует\" at or after audio duration; clipped from catalog transcript only"
+              }
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:6a89149819e67a6a23b872c24e89c884062b5a3597930f9dc6b5e8259041cf77",
+          "speechTextHash": "sha256:6a89149819e67a6a23b872c24e89c884062b5a3597930f9dc6b5e8259041cf77",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
+        }
       }
     },
     {
@@ -2160,6 +3172,175 @@
           "license": "CC BY 2.0; cropped/resized for app",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beograd_-_Zapadna_kapija_Beograda_Kula_Geneks_(31238873088).jpg",
           "retrievedAt": "2026-06-23"
+        }
+      },
+      "audioAssets": {
+        "ru": {
+          "checksum": "sha256:6e05a473ab7c69700f55c5ae76e4f172513d7ce9945020a010cf6cde662d4d84",
+          "contentLocale": "ru",
+          "durationSeconds": 104.888,
+          "generatedAt": "2026-06-27T20:11:34Z",
+          "manifestUrl": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.json",
+          "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+          "qa": {
+            "technical": {
+              "status": "pass",
+              "durationSeconds": 104.888,
+              "fileSizeBytes": 1530208,
+              "sampleRate": 24000,
+              "peakNormalizeDb": -1,
+              "rawPeak": 0.8199868202209473,
+              "peakGain": 1.0869088577467574
+            },
+            "plusPreflight": {
+              "status": "ready_to_render",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-7.preflight.json"
+            },
+            "semanticChunks": {
+              "status": "pass",
+              "chunkCount": 13,
+              "maxChunkBytes": 326,
+              "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-7.chunks.txt"
+            },
+            "asr": {
+              "status": "pass",
+              "tool": "faster-whisper",
+              "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+              "language": "ru",
+              "languageProbability": 1,
+              "durationSeconds": 104.888,
+              "checks": {
+                "status": "pass",
+                "missingRequired": [],
+                "foundForbidden": [],
+                "required": [
+                  {
+                    "id": "western_gate",
+                    "found": true,
+                    "alternatives": [
+                      "западные ворота белграда",
+                      "западные ворота"
+                    ]
+                  },
+                  {
+                    "id": "genex",
+                    "found": true,
+                    "alternatives": [
+                      "дженекс",
+                      "генекс"
+                    ]
+                  },
+                  {
+                    "id": "floor_26",
+                    "found": true,
+                    "alternatives": [
+                      "двадцать шестого этажа",
+                      "двадцать шестова этажа",
+                      "26 го этажа"
+                    ]
+                  },
+                  {
+                    "id": "height_meters",
+                    "found": true,
+                    "alternatives": [
+                      "сто пятнадцать метров",
+                      "сто пятнадцать метров",
+                      "115 метров",
+                      "135 метров"
+                    ]
+                  },
+                  {
+                    "id": "eighties",
+                    "found": true,
+                    "alternatives": [
+                      "восьмидесятых годах",
+                      "80 х годах"
+                    ]
+                  }
+                ],
+                "forbidden": [
+                  {
+                    "id": "bad_1960_e",
+                    "found": false,
+                    "term": "шестьдесят е"
+                  },
+                  {
+                    "id": "bad_2000_h",
+                    "found": false,
+                    "term": "две тысячи х"
+                  },
+                  {
+                    "id": "bad_2020_h",
+                    "found": false,
+                    "term": "две тысячи двадцать х"
+                  },
+                  {
+                    "id": "bad_100_0",
+                    "found": false,
+                    "term": "сто ноль"
+                  },
+                  {
+                    "id": "bad_200_flats",
+                    "found": false,
+                    "term": "два сто квартир"
+                  },
+                  {
+                    "id": "bad_7560",
+                    "found": false,
+                    "term": "семь пятьсот шестьдесят"
+                  },
+                  {
+                    "id": "bad_floor_suffix",
+                    "found": false,
+                    "term": "шесть го этажа"
+                  },
+                  {
+                    "id": "reference_tail_pamyati",
+                    "found": false,
+                    "term": "памяти"
+                  },
+                  {
+                    "id": "reference_tail_propustit",
+                    "found": false,
+                    "term": "пропустить"
+                  },
+                  {
+                    "id": "reference_tail_ostanovkami",
+                    "found": false,
+                    "term": "остановками чтобы рассмотреть детали"
+                  }
+                ]
+              },
+              "transcript": "Западные ворота Белграда Дженекс Тауэр. На горизонте растет пара башен, объединенных двухэтажным мостом с круглой конструкцией наверху. Это западные ворота Белграда, или Дженекс Тауэр, построенные в 1977-1980 годах архитектором Михаилом Метровичем. Левая, более высокая башня, жилой дом, правая, когда кто служила штаб-квартирой экспортного концерна Дженекс. На уровне 26-го этажа их соединяет мост-галерея с бывшим вращающимся рестораном, который совершал оборот за час. Остановитесь напротив фасада и обратите внимание на контраст. Тяжелые бетонные плиты и круглые окна напоминают космический корабль. Крыльцо ведет в закрытый двор, куда можно попасть только жильцам. Сегодня коммерческая башня частично пустует, а жилую населяют семьи. Комплекс стоит прямо над магистралью, словно ворота, встречая всех, кто приезжает в город со стороны аэропорта. Дженекс Тауэр высотой около 115 метров, 135 метров с антенной, состоит из двух башен. Жилой архитектор Метрович хотел создать узнаваемый символ западного въезда в Белград. Ресторан на вершине был популярен в 80-х годах, но затем закрылся. Комплекс часто используется в кино и фотосъемках, как образец брутального. Несмотря на споры о его эстетике, здание включено в списки знаковых сооружений периода югославского модернизма.",
+              "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-7.asr.json"
+            },
+            "voiceStability": {
+              "status": "pass",
+              "tool": "fixed_f5_reference_consistency",
+              "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+              "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+              "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+            },
+            "manualListening": {
+              "status": "not_run",
+              "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+            },
+            "overall": {
+              "status": "pass_for_app_listening_hot_swap",
+              "flags": [
+                "manual_listening_not_run",
+                "voice_embedding_not_run"
+              ]
+            }
+          },
+          "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+          "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+          "sourceTextHash": "sha256:f3ac93263bbb81454afce7b0ed7f0c2a7cd89fbb1a02d1795accbd4db476a4e6",
+          "speechTextHash": "sha256:f3ac93263bbb81454afce7b0ed7f0c2a7cd89fbb1a02d1795accbd4db476a4e6",
+          "status": "audio_accepted",
+          "url": "https://rentery.github.io/audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.opus",
+          "voiceMode": "reference_voice",
+          "voiceProfile": "ru-classic-guide-male-02-f5-reference"
         }
       }
     }

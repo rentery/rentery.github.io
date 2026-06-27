@@ -1,21 +1,178 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-6",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-  "speechTextHash": "sha256:f46a5b857a9a7fa23048c1299d15921b9628b264e3a73f438777c91ff4162d32",
-  "durationSeconds": 148.16,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:6a89149819e67a6a23b872c24e89c884062b5a3597930f9dc6b5e8259041cf77",
+  "speechTextHash": "sha256:6a89149819e67a6a23b872c24e89c884062b5a3597930f9dc6b5e8259041cf77",
+  "ttsInputTextHash": "sha256:096f4a01abffba60383637ff83c785e357e21974f0904f8855370da2ef91ffb0",
+  "durationSeconds": 119.927,
   "sampleRate": 24000,
-  "checksum": "sha256:7b4a201da5aed28d0373c8515f32249abeec4ea810819696ec90e15ef5ef5087",
+  "checksum": "sha256:b58c811661fe3ce190e2f629cd09873e5889a836999a3f51b41dafd98e74334c",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-6-ru-f08960d32177136a.json",
-  "createdAt": "2026-06-21T17:06:58Z",
-  "generatedAt": "2026-06-21T17:06:58Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 119.927,
+      "fileSizeBytes": 1728752,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8724334239959717,
+      "peakGain": 1.0215689972669602
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-6.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 14,
+      "maxChunkBytes": 322,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-6.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 119.9273125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "block_23",
+            "found": true,
+            "alternatives": [
+              "блок двадцать три",
+              "блок 23"
+            ]
+          },
+          {
+            "id": "two_hundred_flats",
+            "found": true,
+            "alternatives": [
+              "двухсот квартир",
+              "200 квартир"
+            ]
+          },
+          {
+            "id": "seven_thousand",
+            "found": true,
+            "alternatives": [
+              "семи тысяч пятьсот шестьдесят",
+              "семь тысяч пятьсот шестьдесят",
+              "7560"
+            ]
+          },
+          {
+            "id": "partizan",
+            "found": true,
+            "alternatives": [
+              "партизан"
+            ]
+          },
+          {
+            "id": "seventies",
+            "found": true,
+            "alternatives": [
+              "семидесятых годах",
+              "70 х годах"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Жилой блок 23. Свернув с магистрали, вы попадаете в лабиринт дворов и башен. Блок 23. Один из самых амбициозных жилых проектов Нового Белграда. Его строили с 1969 по 1976 год. Четыре башни высотой 21 этаж. Два длинных десятиэтажных корпуса и несколько зигзагообразных четырехэтажных блоков образуют единый ансамбль. Архитекторы Александр Степанович, Бронислав Караджич и Бужидар Янкович стремились совместить масштаб и уют. Поэтому высокие башни чередуются с низкими крыльями, а в центре расположены зеленые дворы. Пройдите во внутренний двор и почувствуйте, как бетонные стены образуют квартал в квартале. Здесь есть детские площадки, школа и магазины, а на стенах – граффити фанатов клуба «Партизан» и посвящения местным героям. Обратите внимание на балконы. Они образуют волнистый рисунок, который архитектор назвал «бетонным барокко». Несмотря на суровую внешность, квартиры светлые и имеют гибкую планировку, а на крышах как дахто размещались студии художников. Блок 23 был экспериментальной площадкой. Здесь разместили около 200 квартир для 7560 жителей, две школы и детские сады. Архитекторы использовали движущуюся опалубку, что ускорило строительство. В советских и западных журналах «Квартал» называли примером конструктивной эстетики и гибкого жилья, а в 70-х годах он получил премию города за архитектуру. Сегодня Блок живет обычной жизнью, жители адаптировали пространство под себя, но планировка сохраняет первоначальный замысел.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-6.asr.json",
+      "boundaryTrim": {
+        "status": "applied",
+        "reason": "faster-whisper hallucinated \"Продолжение следует\" at or after audio duration; clipped from catalog transcript only"
+      }
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

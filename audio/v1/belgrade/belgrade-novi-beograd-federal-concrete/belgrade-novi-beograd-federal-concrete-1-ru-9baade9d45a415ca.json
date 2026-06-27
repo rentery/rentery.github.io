@@ -1,21 +1,176 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-1",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-  "speechTextHash": "sha256:c0bdb362667ea54518bc28c01c6d1542912e47bd49fe272f27e1bdaaa696fab0",
-  "durationSeconds": 125.2,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:e5fd308d002c3c5e2ef7181a23b47cae398d2adb68e000ed8a1962358e822dc3",
+  "speechTextHash": "sha256:e5fd308d002c3c5e2ef7181a23b47cae398d2adb68e000ed8a1962358e822dc3",
+  "ttsInputTextHash": "sha256:3655ca2b8977beea64af88367d39965528e7d0490ed3a84ea94d4ed498997d24",
+  "durationSeconds": 109.453,
   "sampleRate": 24000,
-  "checksum": "sha256:68b8f01d946c6d0a6faddacbf09763be2445383a95bb97b7de27167d8619ef94",
+  "checksum": "sha256:78d8be011937d6b9cfa11a183925e847daad5dad2e1203cb07a73b282d13ba3d",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-1-ru-9baade9d45a415ca.json",
-  "createdAt": "2026-06-21T17:06:56Z",
-  "generatedAt": "2026-06-21T17:06:56Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 109.453,
+      "fileSizeBytes": 1604248,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8571868538856506,
+      "peakGain": 1.0397393918183433
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-1.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 13,
+      "maxChunkBytes": 314,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-1.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 109.4533125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "friendship_park",
+            "found": true,
+            "alternatives": [
+              "парк дружбы"
+            ]
+          },
+          {
+            "id": "pupin",
+            "found": true,
+            "alternatives": [
+              "михайла пупина",
+              "михайло пупин",
+              "пупина"
+            ]
+          },
+          {
+            "id": "non_aligned",
+            "found": true,
+            "alternatives": [
+              "движения неприсоединения",
+              "движения неприсоединение",
+              "неприсоединения"
+            ]
+          },
+          {
+            "id": "eternal_fire",
+            "found": true,
+            "alternatives": [
+              "вечный огонь"
+            ]
+          },
+          {
+            "id": "novi_belgrade",
+            "found": true,
+            "alternatives": [
+              "нови белград",
+              "новий белград",
+              "новый белград",
+              "нового белграда"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Парк Дружбы. Войдите в парк со стороны проспекта Михайла Пупина и остановитесь у начала длинной аллеи, обсаженной молодыми и зрелыми платанами. На металлических табличках у подножия деревьев имена Тита, Неру, Насер, Индира Ганди, королева Елизавета, Стро, Фидель Кастро. В 1961 году участники движения «Неприсоединение» заложили здесь аллею мира, и каждый высокопоставленный гость добавлял свое дерево. Теперь перед вами зеленый коридор, где шум листьев перекликается с эхо больших саммитов. Слева, на небольшом холме, стоит памятник «Вечный огонь». Его зажгли в память о жертвах бомбардировок 1999 года, и он напоминает, как быстро мирная эйфория может смениться трагедией. Смотрите вперед, в просвете между деревьями виден старый город и крепость на другом берегу. Новий Белград был задуман как широкая, открытая столица и парк дружбы, его зеленый парадный двор. Пройдитесь по аллее, таблички и стволы расскажут о том, сколько стран оставили здесь след. На первом саммите движения «Неприсоединение» в Белграде лидеры стран Азии, Африки и Латинской Америки посадили в парке свои деревья как символ дружбы. Со временем аллея пополнилась посадками Брежнева, Ясера Арафата и других политиков. Даже группа Rolling Stones, выступавшая здесь в 2007 году, оставила свою платановую подпись. Парк до сих пор остается площадкой для митингов и концертов, соединяя политику и повседневность.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-1.asr.json"
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

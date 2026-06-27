@@ -1,21 +1,176 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-3",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-  "speechTextHash": "sha256:f7cfa0efa98501f24174efd70db4b15337d2cd7557ba5ae7d13c31ff7ba29785",
-  "durationSeconds": 129.2,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:713234f27c7d780ea5f4965cdb591d2329057923b78375ab9d024c69eb069e34",
+  "speechTextHash": "sha256:713234f27c7d780ea5f4965cdb591d2329057923b78375ab9d024c69eb069e34",
+  "ttsInputTextHash": "sha256:f233ce802642f25bd135a4e1a652e746796eb7776c1b1848bb1d9252b112eafe",
+  "durationSeconds": 101.305,
   "sampleRate": 24000,
-  "checksum": "sha256:307653d94117e63b86270a6d2d6cd5e28f71480dd1c3da17c1e360c88b751b35",
+  "checksum": "sha256:5186bdbc2ca7c2710f10eb7e09fb8be26fbd3203b0a482deef83b2d7ecedcf0b",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-3-ru-2e054493b489d1b6.json",
-  "createdAt": "2026-06-21T17:06:57Z",
-  "generatedAt": "2026-06-21T17:06:57Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 101.305,
+      "fileSizeBytes": 1484225,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8220984935760498,
+      "peakGain": 1.084116982451688
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-3.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 12,
+      "maxChunkBytes": 352,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-3.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 101.3046875,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "usce",
+            "found": true,
+            "alternatives": [
+              "ушче",
+              "ушце",
+              "уще",
+              "ушща",
+              "уща"
+            ]
+          },
+          {
+            "id": "central_committee",
+            "found": true,
+            "alternatives": [
+              "центральный комитет"
+            ]
+          },
+          {
+            "id": "nato",
+            "found": true,
+            "alternatives": [
+              "нато"
+            ]
+          },
+          {
+            "id": "two_thousands",
+            "found": true,
+            "alternatives": [
+              "двухтысячных",
+              "2000 х"
+            ]
+          },
+          {
+            "id": "twenties",
+            "found": true,
+            "alternatives": [
+              "двадцатых годах",
+              "двадцатые годы",
+              "2020 х годах"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Перед вами Кула Ушща, бывший ЦК. Спуститесь по бульвару Кузской башни с чередующимися полосами стекла и бетона. Это бывшая палата соцполитических организаций, построенная в 1962-1964 годах по проекту архитектора Михаила Янковича. В ее 25 этажах заседали Центральный комитет и другие органы Югославии. Башня символизировала вертикаль власти. По замыслу, она должна была подниматься над стройными кварталами Нового Белграда. В 1999 году верхние этажи были сильно повреждены во время бомбардировок НАТО, а в 2000-х здания реконструировали и надстроили несколько ярусов. Сейчас это бизнес-центр, а по соседству в 2020-х годах выросла стеклянная башня-близнец. Если приглядеться, вы заметите различия. Старая башня более тяжелая и подчеркнуто угловатая, новая, гладкая и прозрачная. Вместе они образуют ворота на входе в деловой район. Башня проектировалась как часть ансамбля Нового Белграда. После распада Югославии ее функции изменились. Сначала она пустовала, затем была продана и превращена в офисный центр. В 2020 году рядом построили вторую, более высокую башню, а прежний корпус переименовали Ушчи-1. Обсерватория на верхнем этаже когда-то была открыта для посетителей, но теперь закрыта.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-3.asr.json"
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

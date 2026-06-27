@@ -1,21 +1,172 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-4",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-  "speechTextHash": "sha256:d4882056fa2d1e5a9939a5eeaa0ba082c52abd911dfecfba4561898d87c6499a",
-  "durationSeconds": 118.88,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:c3f15c867fa7d3fe92002f2be98db49e30719e372cdbcb0d166e629c0144edeb",
+  "speechTextHash": "sha256:c3f15c867fa7d3fe92002f2be98db49e30719e372cdbcb0d166e629c0144edeb",
+  "ttsInputTextHash": "sha256:2d526950b88fda7af64b2f30d5f2e97d469459ee65165e9be76007eed1e0f733",
+  "durationSeconds": 102.285,
   "sampleRate": 24000,
-  "checksum": "sha256:2d9eb507fe8c7b7d552fa773ce45ff95aeaec27861fb6788a95a90fe2aaca61d",
+  "checksum": "sha256:8208c2f4310d8619798858f016be5116e4b32d018677705f4b45f70839d7e107",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-4-ru-68c1934354328e93.json",
-  "createdAt": "2026-06-21T17:06:57Z",
-  "generatedAt": "2026-06-21T17:06:57Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 102.285,
+      "fileSizeBytes": 1489194,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8009057641029358,
+      "peakGain": 1.1128037505536021
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-4.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 13,
+      "maxChunkBytes": 344,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-4.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 102.2853125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "palace_serbia",
+            "found": true,
+            "alternatives": [
+              "дворец сербии"
+            ]
+          },
+          {
+            "id": "union_exec",
+            "found": true,
+            "alternatives": [
+              "союзный исполком",
+              "союзным исполнительным советом",
+              "сив"
+            ]
+          },
+          {
+            "id": "brac",
+            "found": true,
+            "alternatives": [
+              "брач"
+            ]
+          },
+          {
+            "id": "non_aligned",
+            "found": true,
+            "alternatives": [
+              "неприсоединенных стран",
+              "неприсоединенных стран"
+            ]
+          },
+          {
+            "id": "jankovic",
+            "found": true,
+            "alternatives": [
+              "янкович"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Дворец Сербии, союзный исполком. Перед вами огромный белый комплекс в форме буквы «Н». Его фасады облицованы мрамором с Далматинского острова Брач. Здание начинали строить сразу после войны как дом правительства и президиума, но работы тянулись. Первые проекты были пересмотрены, стройку замораживали, возвращали. И, наконец, завершили к первой конференции неприсоединенных стран в 1961 году. С тех пор здесь располагаются правительственные учреждения Сербии. Встаньте на широкой площади перед входом, чтобы увидеть симметрию. Две длинные боковые крылья соединены центральным блоком. Внутри находятся залы, названные в честь республик бывшей федерации. Украшенные мозаиками и картинами. Но попасть туда можно только по предварительной записи или во время редких дней открытых дверей. Здание до сих пор используется для официальных встреч и подписаний. Над входом часто развивается государственный флаг. Работы над СИФСоюзным исполнительным советом начались в 1947 году, но вскоре были заморожены. В 1954 году архитектор Михаила Янкович предложил новый проект. Издание в стиле соцмодернизма выросло к 1961 году. Каждое крыло предназначалось для разных ведомств, а центральный зал – для приемов. Здание охраняется как памятник культуры.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-4.asr.json"
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

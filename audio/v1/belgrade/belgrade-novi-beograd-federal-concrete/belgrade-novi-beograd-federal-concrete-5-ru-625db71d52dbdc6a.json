@@ -1,21 +1,185 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-5",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-  "speechTextHash": "sha256:c79bbb5e3c2ef6902711b3c802351b9b926c7f84590032c3b7563f2c581c7ff2",
-  "durationSeconds": 115.92,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:c51dbc98e8800b8f00ea11dd7ca37e44c1df89e4011f4c8b41a8dcee50b70dee",
+  "speechTextHash": "sha256:c51dbc98e8800b8f00ea11dd7ca37e44c1df89e4011f4c8b41a8dcee50b70dee",
+  "ttsInputTextHash": "sha256:b90048f258a8446f5903e2cf55d435d159ec4e4cb2c000a9548b0303d9cf9113",
+  "durationSeconds": 109.111,
   "sampleRate": 24000,
-  "checksum": "sha256:7b0567b706df27d4585c689cf635f28c6120a119c98e7abbd09ff202613ffa12",
+  "checksum": "sha256:2236da0c91977af09ca3d0729fb80ebf72113496e709d28d77fb682bb6d3a456",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-5-ru-625db71d52dbdc6a.json",
-  "createdAt": "2026-06-21T17:06:58Z",
-  "generatedAt": "2026-06-21T17:06:58Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 109.111,
+      "fileSizeBytes": 1582377,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8373599648475647,
+      "peakGain": 1.0643581918750933
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-5.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 14,
+      "maxChunkBytes": 316,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-5.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 109.1113125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "sava_center",
+            "found": true,
+            "alternatives": [
+              "сава центр",
+              "савва центр",
+              "савацентр"
+            ]
+          },
+          {
+            "id": "osce_csce",
+            "found": true,
+            "alternatives": [
+              "обсе",
+              "опсе",
+              "сбсе",
+              "сбсэ",
+              "сбса"
+            ]
+          },
+          {
+            "id": "pritzker",
+            "found": true,
+            "alternatives": [
+              "притцкера",
+              "притцкеровской",
+              "притскера",
+              "притскеровской"
+            ]
+          },
+          {
+            "id": "twenties_years",
+            "found": true,
+            "alternatives": [
+              "двадцатые годы",
+              "2020 е годы"
+            ]
+          },
+          {
+            "id": "hundred_thousand_m2",
+            "found": true,
+            "alternatives": [
+              "ста тысяч квадратных метров",
+              "сто тысяч квадратных метров",
+              "100 тысяч квадратных метров"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Савва-центр. На огромном перекрёстке появляется низкое здание из голубого стекла и бетона. Это Савва-центр, первый крупный конференц-комплекс Югославии. Он был построен всего за 12 месяцев в 1976-1977 годах, чтобы принять саммит ОПСЕ тогда СБСЭ. Архитектор Стоян Максимович спроектировал его в виде нескольких объёмов, объединённых стеклянными галереями. Главное голубое зало вмещает более 4000 зрителей. За этот проект автор был номинирован на премию Притскера. В 2020-е годы центр пережил масштабную реконструкцию, улучшили акустику, энергоэффективность и благоустроили общественные пространства. Сегодня здесь проходят концерты, балеты, киносмотры и международные конгрессы. Если вам повезёт, можно попасть внутрь на мероприятие и оценить модернистский интерьер. В противном случае прогуляйтесь по площади, чтобы почувствовать масштаб и увидеть сочетание стекла, бетона и воды на фонтане. Савва-центр площадью около 100 тысяч квадратных метров был возведён в рекордные сроки к саммиту СБСа 1977 года. В 1978 году комплекс вошёл в шорт-лист Притскеровской премии. В 2020 году его выкупила частная компания и начало реконструкцию, были заменены инженерные системы, добавлены зелёные насаждения и открыта крыша. Голубая зала вновь принимает мировые звёзды и крупные конгрессы.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-5.asr.json",
+      "boundaryTrim": {
+        "status": "applied",
+        "reason": "faster-whisper hallucinated \"Продолжение следует\" at or after audio duration; clipped from catalog transcript only"
+      }
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

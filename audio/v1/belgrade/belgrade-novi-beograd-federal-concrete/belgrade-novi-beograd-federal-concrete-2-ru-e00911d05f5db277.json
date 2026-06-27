@@ -1,21 +1,173 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-2",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-  "speechTextHash": "sha256:9546d2da5fe00d774ca2bdb6ac8e451b3bf6b7784d109e93439da8813778c155",
-  "durationSeconds": 108.32,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:fbc26f268f1b6d6089f76309bcdfbca2493d9d3b5ceb3a4eaba3441b12bcb0ec",
+  "speechTextHash": "sha256:fbc26f268f1b6d6089f76309bcdfbca2493d9d3b5ceb3a4eaba3441b12bcb0ec",
+  "ttsInputTextHash": "sha256:0efe35a0c88018400db4ba6485596b0a5073c5e756bc7258aab8938ab67b5d9d",
+  "durationSeconds": 92.399,
   "sampleRate": 24000,
-  "checksum": "sha256:735eacae4833c5043d8c9449ad6ecc6a34f8d9003630e5d220276f4ba02abe96",
+  "checksum": "sha256:bc47b74642732de90d066027281ee48e28fac276d52c42d5ec469bef4475e5f4",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-2-ru-e00911d05f5db277.json",
-  "createdAt": "2026-06-21T17:06:56Z",
-  "generatedAt": "2026-06-21T17:06:56Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 92.399,
+      "fileSizeBytes": 1341111,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8525789976119995,
+      "peakGain": 1.0453587768758823
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-2.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 10,
+      "maxChunkBytes": 358,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-2.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 92.3993125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "modern_art_museum",
+            "found": true,
+            "alternatives": [
+              "музей современного искусства"
+            ]
+          },
+          {
+            "id": "antic",
+            "found": true,
+            "alternatives": [
+              "антич",
+              "антича",
+              "антич и иванка"
+            ]
+          },
+          {
+            "id": "raspopovic",
+            "found": true,
+            "alternatives": [
+              "распопович"
+            ]
+          },
+          {
+            "id": "sixties",
+            "found": true,
+            "alternatives": [
+              "шестидесятые годы",
+              "60 е годы"
+            ]
+          },
+          {
+            "id": "october_award",
+            "found": true,
+            "alternatives": [
+              "октябрьской премией",
+              "октябрьская премия"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Музей современного искусства. Снаружи музей напоминает раковину из белого мрамора и стекла. Он поднят на тонких колоннах, а крыша сложена из шести взаимосвязанных блоков, как кристалл. Архитекторы Иван Антич и Иван Караспопович придумали его в 60-е годы как новый тип музея, здание без фасада и задней стороны, связанное с парком. Внутреннее пространство развивается спирально, чтобы посетитель плавно переходил из зала в зал, а свет попадал через скатные фонари на крыше. Пройдитесь по периметру. Вы увидите, как прозрачные стены отражают зелень и реку. Это не просто галерея, а символ культурного престижа молодого государства. После долгой реконструкции музей вновь открылся в 2017 году и теперь регулярно показывает сербский модернизм и международные выставки. По замыслу Антича и Распопович музей состоит из шести одинаковых кубов, размещенных в шахматном порядке. Эта структура задает маршрут внутри. Посетитель движется по спирали, проходя три уровня, а свет попадает через потолочные фонари. Белый мрамор и стекло подчеркивают чистоту формы. Проект был отмечен Октябрьской премией Белграда в 1965 году и считается образцом модернистского музейного дизайна.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-2.asr.json"
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }

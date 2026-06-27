@@ -1,21 +1,177 @@
 {
   "schema": "travel-guides.audioAsset.v1",
-  "status": "generated",
+  "status": "audio_accepted",
   "cityId": "belgrade",
   "guideId": "belgrade-novi-beograd-federal-concrete",
   "stopId": "belgrade-novi-beograd-federal-concrete-7",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-  "voiceProfile": "ru-classic-guide-female-qwen3-v1",
-  "voiceMode": "voice_design_no_human_reference",
-  "sourceTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-  "speechTextHash": "sha256:06a417e6421b020b947a049e129afba84154de75ddf06961946a82d14e423844",
-  "durationSeconds": 143.2,
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-classic-guide-male-02-f5-reference",
+  "voiceMode": "reference_voice",
+  "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-27-belgrade-novi-f5-male-02-hot-swap\\reference\\ru-classic-guide-male-02-f5-ref.wav",
+  "referenceSourceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\classic_guide\\male\\ru-classic-guide-male-02.opus",
+  "referenceText": "Сейчас мы пойдём медленно, с короткими остановками, чтобы рассмотреть детали, которые легко пропустить. ",
+  "sourceTextHash": "sha256:f3ac93263bbb81454afce7b0ed7f0c2a7cd89fbb1a02d1795accbd4db476a4e6",
+  "speechTextHash": "sha256:f3ac93263bbb81454afce7b0ed7f0c2a7cd89fbb1a02d1795accbd4db476a4e6",
+  "ttsInputTextHash": "sha256:9aab86012975d22a152c16b6c5d0a75d11538d0bedb30024a7d64b44132cf473",
+  "durationSeconds": 104.888,
   "sampleRate": 24000,
-  "checksum": "sha256:fe2935ca482ec984174e96c40291250e84e30b8aa6bd4823c3ab109fa86910dd",
+  "checksum": "sha256:6e05a473ab7c69700f55c5ae76e4f172513d7ce9945020a010cf6cde662d4d84",
   "publicPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-novi-beograd-federal-concrete/belgrade-novi-beograd-federal-concrete-7-ru-fbc81cffcb6c32be.json",
-  "createdAt": "2026-06-21T17:06:59Z",
-  "generatedAt": "2026-06-21T17:06:59Z"
+  "createdAt": "2026-06-27T20:11:34Z",
+  "generatedAt": "2026-06-27T20:11:34Z",
+  "qa": {
+    "technical": {
+      "status": "pass",
+      "durationSeconds": 104.888,
+      "fileSizeBytes": 1530208,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1,
+      "rawPeak": 0.8199868202209473,
+      "peakGain": 1.0869088577467574
+    },
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/final-preflight/belgrade-novi-beograd-federal-concrete-7.preflight.json"
+    },
+    "semanticChunks": {
+      "status": "pass",
+      "chunkCount": 13,
+      "maxChunkBytes": 326,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/chunks/belgrade-novi-beograd-federal-concrete-7.chunks.txt"
+    },
+    "asr": {
+      "status": "pass",
+      "tool": "faster-whisper",
+      "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 104.888,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "western_gate",
+            "found": true,
+            "alternatives": [
+              "западные ворота белграда",
+              "западные ворота"
+            ]
+          },
+          {
+            "id": "genex",
+            "found": true,
+            "alternatives": [
+              "дженекс",
+              "генекс"
+            ]
+          },
+          {
+            "id": "floor_26",
+            "found": true,
+            "alternatives": [
+              "двадцать шестого этажа",
+              "двадцать шестова этажа",
+              "26 го этажа"
+            ]
+          },
+          {
+            "id": "height_meters",
+            "found": true,
+            "alternatives": [
+              "сто пятнадцать метров",
+              "сто пятнадцать метров",
+              "115 метров",
+              "135 метров"
+            ]
+          },
+          {
+            "id": "eighties",
+            "found": true,
+            "alternatives": [
+              "восьмидесятых годах",
+              "80 х годах"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1960_e",
+            "found": false,
+            "term": "шестьдесят е"
+          },
+          {
+            "id": "bad_2000_h",
+            "found": false,
+            "term": "две тысячи х"
+          },
+          {
+            "id": "bad_2020_h",
+            "found": false,
+            "term": "две тысячи двадцать х"
+          },
+          {
+            "id": "bad_100_0",
+            "found": false,
+            "term": "сто ноль"
+          },
+          {
+            "id": "bad_200_flats",
+            "found": false,
+            "term": "два сто квартир"
+          },
+          {
+            "id": "bad_7560",
+            "found": false,
+            "term": "семь пятьсот шестьдесят"
+          },
+          {
+            "id": "bad_floor_suffix",
+            "found": false,
+            "term": "шесть го этажа"
+          },
+          {
+            "id": "reference_tail_pamyati",
+            "found": false,
+            "term": "памяти"
+          },
+          {
+            "id": "reference_tail_propustit",
+            "found": false,
+            "term": "пропустить"
+          },
+          {
+            "id": "reference_tail_ostanovkami",
+            "found": false,
+            "term": "остановками чтобы рассмотреть детали"
+          }
+        ]
+      },
+      "transcript": "Западные ворота Белграда Дженекс Тауэр. На горизонте растет пара башен, объединенных двухэтажным мостом с круглой конструкцией наверху. Это западные ворота Белграда, или Дженекс Тауэр, построенные в 1977-1980 годах архитектором Михаилом Метровичем. Левая, более высокая башня, жилой дом, правая, когда кто служила штаб-квартирой экспортного концерна Дженекс. На уровне 26-го этажа их соединяет мост-галерея с бывшим вращающимся рестораном, который совершал оборот за час. Остановитесь напротив фасада и обратите внимание на контраст. Тяжелые бетонные плиты и круглые окна напоминают космический корабль. Крыльцо ведет в закрытый двор, куда можно попасть только жильцам. Сегодня коммерческая башня частично пустует, а жилую населяют семьи. Комплекс стоит прямо над магистралью, словно ворота, встречая всех, кто приезжает в город со стороны аэропорта. Дженекс Тауэр высотой около 115 метров, 135 метров с антенной, состоит из двух башен. Жилой архитектор Метрович хотел создать узнаваемый символ западного въезда в Белград. Ресторан на вершине был популярен в 80-х годах, но затем закрылся. Комплекс часто используется в кино и фотосъемках, как образец брутального. Несмотря на споры о его эстетике, здание включено в списки знаковых сооружений периода югославского модернизма.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-novi-f5-male-02-hot-swap/asr/belgrade-novi-beograd-federal-concrete-7.asr.json"
+    },
+    "voiceStability": {
+      "status": "pass",
+      "tool": "fixed_f5_reference_consistency",
+      "referenceVoiceProfile": "ru-classic-guide-male-02-f5-reference",
+      "referenceVoiceId": "ru-classic-guide-male-02-f5-ref-third-sentence",
+      "note": "All seven stops were rendered in the same F5 hot-swap run with the same fixed refWav/refText; speaker-embedding scorer was not rerun for this lane."
+    },
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
+    },
+    "overall": {
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run"
+      ]
+    }
+  }
 }
