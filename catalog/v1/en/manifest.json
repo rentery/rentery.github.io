@@ -53,11 +53,11 @@
       "packPath": "cities/granada/offline-pack.json"
     },
     "ghent": {
-      "packHash": "197059578289",
+      "packHash": "2d45b188559d",
       "packPath": "cities/ghent/offline-pack.json"
     },
     "florence": {
-      "packHash": "160381e2b0e8",
+      "packHash": "d3e65438377e",
       "packPath": "cities/florence/offline-pack.json"
     },
     "edinburgh": {
@@ -277,7 +277,7 @@
       "packPath": "cities/jaipur/offline-pack.json"
     },
     "jerusalem": {
-      "packHash": "a9d5d2d50dc5",
+      "packHash": "2308f232d8c9",
       "packPath": "cities/jerusalem/offline-pack.json"
     },
     "kathmandu": {
@@ -361,7 +361,7 @@
       "packPath": "cities/tbilisi/offline-pack.json"
     },
     "tokyo": {
-      "packHash": "a617ae1c7ea4",
+      "packHash": "d39d9a4a9347",
       "packPath": "cities/tokyo/offline-pack.json"
     },
     "tunis": {
@@ -381,7 +381,7 @@
       "packPath": "cities/varanasi/offline-pack.json"
     },
     "venice": {
-      "packHash": "f544391a4ff1",
+      "packHash": "ff2ca6a44d69",
       "packPath": "cities/venice/offline-pack.json"
     },
     "vienna": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T15:46:00.012Z",
+  "generatedAt": "2026-06-27T17:35:30.451Z",
   "locale": "en",
   "schemaVersion": 1
 }
