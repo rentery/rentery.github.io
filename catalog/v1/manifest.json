@@ -261,7 +261,7 @@
       "packPath": "cities/santiago-chile/offline-pack.json"
     },
     "seville": {
-      "packHash": "a66a98bc491a",
+      "packHash": "211690017727",
       "packPath": "cities/seville/offline-pack.json"
     },
     "hong-kong": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T09:40:43.344Z",
+  "generatedAt": "2026-06-27T09:52:16.152Z",
   "locale": "ru",
   "schemaVersion": 1
 }
