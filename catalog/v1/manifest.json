@@ -337,7 +337,7 @@
       "packPath": "cities/shanghai/offline-pack.json"
     },
     "singapore": {
-      "packHash": "b6afe17df3eb",
+      "packHash": "f70261f4eaf2",
       "packPath": "cities/singapore/offline-pack.json"
     },
     "stockholm": {
@@ -345,7 +345,7 @@
       "packPath": "cities/stockholm/offline-pack.json"
     },
     "sydney": {
-      "packHash": "a2965abba491",
+      "packHash": "5dbcea0e452c",
       "packPath": "cities/sydney/offline-pack.json"
     },
     "taipei": {
@@ -357,11 +357,11 @@
       "packPath": "cities/tallinn/offline-pack.json"
     },
     "tbilisi": {
-      "packHash": "9361744fce81",
+      "packHash": "b23e8a11e6f7",
       "packPath": "cities/tbilisi/offline-pack.json"
     },
     "tokyo": {
-      "packHash": "4651a713dee9",
+      "packHash": "e2588cb790a1",
       "packPath": "cities/tokyo/offline-pack.json"
     },
     "tunis": {
@@ -369,7 +369,7 @@
       "packPath": "cities/tunis/offline-pack.json"
     },
     "valencia": {
-      "packHash": "d3d1ea6bde89",
+      "packHash": "48cc36f67a85",
       "packPath": "cities/valencia/offline-pack.json"
     },
     "vancouver": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T20:11:46.258Z",
+  "generatedAt": "2026-06-27T20:52:22.096Z",
   "locale": "ru",
   "schemaVersion": 1
 }

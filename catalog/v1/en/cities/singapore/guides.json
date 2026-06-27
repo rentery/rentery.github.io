@@ -2535,15 +2535,15 @@
     "kids": false,
     "microcopy": {
       "kicker": "Маршрут",
-      "line": "Sultan Gate, MHC, Masjid Sultan, торговые улицы и street art"
+      "line": "Sultan Gate, Malay Heritage Centre, Masjid Sultan, торговые улицы и стрит-арт"
     },
     "content": {
-      "intro": "Kampong Gelam удобно читать не как один «арабский квартал», а как компактный район с несколькими слоями. National Heritage Board описывает его как место бывшей малайской королевской резиденции, Masjid Sultan и разных общин — Javanese, Sumatrans, Baweanese, Banjarese, Arabs, Chinese and Indians. На расстоянии чуть больше километра здесь меняются дворцовая память, молитва, хаджевые истории, текстильная торговля, независимые лавки и murals.\n\nМаршрут начинается у Sultan Gate и Malay Heritage Centre, который снова открыт после обновления 25 апреля 2026 года. Затем вы проходите к Masjid Sultan, спускаетесь по Bussorah Street и Arab Street, сворачиваете в Haji Lane и заканчиваете у легального street-art коридора. Вся прогулка внешняя по костяку, но MHC и mosque можно добавить как interior stops, если их режим совпадает с вашим временем.",
+      "intro": "Kampong Gelam удобно читать не как один «арабский квартал», а как компактный район с несколькими слоями. National Heritage Board описывает его как бывшую малайскую королевскую землю с Masjid Sultan и общинами яванцев, суматранцев, бавеанцев, банджарцев, арабов, китайцев и индийцев. На расстоянии чуть больше километра здесь меняются дворцовая память, молитва, хаджевые истории, текстильная торговля, независимые лавки и уличное искусство.\n\nМаршрут начинается у Sultan Gate и Malay Heritage Centre, снова открытого после обновления 25 апреля 2026 года. Затем вы проходите к Masjid Sultan, спускаетесь по Bussorah Street и Arab Street, сворачиваете в Haji Lane и заканчиваете у легального коридора стрит-арта. Костяк прогулки внешний, но Malay Heritage Centre и мечеть можно добавить как внутренние остановки, если их режим совпадает с вашим временем.",
       "routeLogic": "Маршрут держит короткую связку Sultan Gate -> Istana Kampong Gelam / Malay Heritage Centre -> Masjid Sultan -> Bussorah Street -> Arab Street -> Haji Lane / Gelam Gallery -> Graffiti Hall of Fame. По линии карты это около 1,1 км: компактная петля, где каждый следующий слой района находится буквально за поворотом.",
-      "bestFor": "первого знакомства с Kampong Gelam без длинного перехода\nтех, кто хочет связать Malay royalty, Masjid Sultan, textile trade и murals\nдня, когда удобно проверить MHC или mosque access",
-      "notFor": "полного музейного дня по Singapore heritage institutions\nмаршрута без жары, влажности и уличной толпы\nгарантированного входа в prayer hall или paid galleries без проверки времени",
-      "beforeYouGo": "MHC galleries работают Tuesday-Sunday 10:00-18:00, last admission 17:30, а compound — 08:00-21:00; Monday закрыто. В Masjid Sultan visitor access отделён от prayer use, особенно по пятницам и во время молитв, поэтому проверяйте текущие mosque notices. Для улиц берите воду: тени немного, а Haji Lane и Bussorah Street быстро заполняются к вечеру.",
-      "timing": "2–3 часа: быстрее как внешняя прогулка, дольше с MHC galleries, guided walk, mosque visit или плотной вечерней остановкой на Haji Lane."
+      "bestFor": "первого знакомства с Kampong Gelam без длинного перехода; тех, кто хочет связать малайскую королевскую память, Masjid Sultan, текстильную торговлю и уличное искусство; дня, когда удобно проверить доступ в Malay Heritage Centre или мечеть",
+      "notFor": "полного музейного дня по институциям наследия Сингапура; маршрута без жары, влажности и уличной толпы; гарантированного входа в молитвенный зал или платные галереи без проверки времени",
+      "beforeYouGo": "Галереи Malay Heritage Centre работают со вторника по воскресенье 10:00–18:00, последний вход 17:30; двор открыт 08:00–21:00, понедельник закрыт. В Masjid Sultan доступ посетителей отделён от молитвенного режима, особенно по пятницам и во время молитв, поэтому проверяйте текущие объявления мечети. Для улиц берите воду: тени немного, а Haji Lane и Bussorah Street быстро заполняются к вечеру.",
+      "timing": "2–3 часа: быстрее как внешняя прогулка, дольше с галереями Malay Heritage Centre, экскурсией, посещением мечети или плотной вечерней остановкой на Haji Lane."
     },
     "stopList": [
       {
@@ -2567,7 +2567,7 @@
           "deepDive": [
             {
               "title": "Королевский вход в живой район",
-              "body": "Sultan Gate важен не как отдельная арка, а как порог к бывшей королевской земле. National Heritage Board описывает Kampong Gelam как район, где когда-то жила малайская знать и где рядом сформировались разные общины. Поэтому первая остановка сразу задаёт масштаб: перед вами не просто красивая улица, а вход в участок, где palace, mosque, shophouses, business и современный tourism постоянно спорят за одну компактную сетку улиц."
+              "body": "Sultan Gate важен не как отдельная арка, а как порог к бывшей королевской земле. National Heritage Board описывает Kampong Gelam как район малайской знати и нескольких общин, поэтому первая остановка сразу задаёт масштаб: перед вами не красивая улица сама по себе, а вход в сетку, где дворец, мечеть, шопхаусы, бизнес и современный туризм делят один компактный квартал."
             }
           ],
           "sourceNote": "История Sultan Gate и деревьев гелам подготовлена на основе материалов Malay Heritage Centre и Heritage Trail."
@@ -2579,7 +2579,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Public street / exterior stop; Malay Heritage Centre compound access follows its current Tuesday-Sunday 08:00-21:00 schedule and is closed on Mondays.",
+          "summary": "Открытая улица и внешний осмотр; двор Malay Heritage Centre работает по текущему графику со вторника по воскресенье 08:00–21:00 и закрыт по понедельникам.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-1",
@@ -2612,14 +2612,14 @@
         ],
         "walk": "Выйдя из дворца, поверните направо и двигайтесь к вершине улицы Muscat Street — впереди вы увидите купол мечети.",
         "content": {
-          "context": "Перед вами величественное двухэтажное здание с колоннадой и верандой — Istana Kampong Gelam, теперь Malay Heritage Centre. NLB фиксирует важную свежую деталь: после трёх лет renovation центр reopened 25 April 2026. Официальный сайт MHC описывает его как institution National Heritage Board, посвящённый истории, культуре и вкладу Malay community in Singapore. На маршруте это место работает как якорь: дворцовая земля превращена в публичное чтение малайского наследия.",
+          "context": "Перед вами величественное двухэтажное здание с колоннадой и верандой — Istana Kampong Gelam, теперь Malay Heritage Centre. После трёх лет обновления центр снова открыт с 25 апреля 2026 года; официальный сайт называет его институцией National Heritage Board о истории, культуре и вкладе малайской общины Сингапура. На маршруте это якорь: дворцовая земля превращена в публичное чтение малайского наследия.",
           "lookFor": "Подойдите ближе к главному входу — над ним видна трёхчастная лоджия с балюстрадой, характерная для дворцов Юго‑Восточной Азии. Зайдите в галереи: там показаны наряды, музыкальные инструменты и старые фотографии.",
-          "practical": "Официальный MHC schedule: permanent galleries Tuesday-Sunday 10:00-18:00, last admission 17:30; compound Tuesday-Sunday 08:00-21:00; Monday closed. Admission rules differ for Singapore residents and visitors, so check current fees before planning the interior.",
+          "practical": "Официальный график Malay Heritage Centre: постоянные галереи вторник-воскресенье 10:00–18:00, последний вход 17:30; двор вторник-воскресенье 08:00–21:00; понедельник закрыт. Правила входа и цена отличаются для жителей Сингапура и туристов, поэтому проверяйте текущие билеты перед интерьером.",
           "nextMove": "Выйдя из дворца, поверните направо и двигайтесь к вершине улицы Muscat Street — впереди вы увидите купол мечети.",
           "deepDive": [
             {
-              "title": "Дворец после reopening",
-              "body": "Старый текст легко обещал музей как неизменную точку, но MHC как раз пережил большую перезагрузку. В апреле 2026 года Prime Minister Lawrence Wong говорил на reopening festival о centre с более свежими galleries и improved facilities. Для прогулки это полезная поправка: вы стоите не у закрытого исторического декора, а у снова работающего института, где Kampong Gelam рассказывает о Malay world, migration, trade, food, language and community."
+              "title": "Дворец после обновления",
+              "body": "Старый текст легко обещал музей как неизменную точку, но Malay Heritage Centre пережил большую перезагрузку. После фестиваля открытия 25 апреля - 3 мая 2026 года это снова действующая институция с обновлёнными галереями и пространствами. Для прогулки это полезная поправка: вы стоите не у закрытого исторического декора, а у места, где Kampong Gelam рассказывает о малайском мире, миграции, торговле, еде, языке и общине."
             }
           ],
           "sourceNote": "Информация о часах работы, билетах и истории дворца взята с официального сайта Malay Heritage Centre и материалов о его реставрации."
@@ -2631,7 +2631,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Permanent galleries: Tuesday-Sunday 10:00-18:00, last admission 17:30; compound: Tuesday-Sunday 08:00-21:00; closed Mondays.",
+          "summary": "Постоянные галереи: вторник-воскресенье 10:00–18:00, последний вход 17:30; двор: вторник-воскресенье 08:00–21:00; понедельник закрыт.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-2",
@@ -2666,12 +2666,12 @@
         "content": {
           "context": "Перед вами сверкающий золотой купол и минареты — это мечеть Султана, духовное сердце Кампонг Гелам. Первая мечеть была построена на этом месте в 1824 году, а нынешнее здание возвели в 1928 году по проекту архитектора Денниса Сансадая. Купол украшен сотнями стеклянных бутылок, подаренных бедными прихожанами. Внутри — просторный главный зал с зелёно-красными коврами, свет проникает через витражи.",
           "lookFor": "Обратите внимание на чередование арочных окон и кремово‑черных полос, характерных для мавританского стиля. Заходя внутрь, снимите обувь и возьмите лёгкое покрывало у входа, если одежда открывает плечи или колени.",
-          "practical": "Visit Singapore указывает, что mosque welcomes visitors on a guided tour or free walk. Visitor access is not the same as prayer access: Fridays, prayer times, Ramadan and events can change the visitor window. Dress modestly, remove shoes where required, and follow current mosque notices.",
+          "practical": "Официальная туристическая страница Сингапура указывает, что мечеть принимает посетителей с экскурсией или самостоятельным проходом. Доступ посетителей не равен молитвенному доступу: пятницы, время молитв, Рамадан и события могут менять окно посещения. Оденьтесь скромно, снимайте обувь там, где требуется, и следуйте текущим объявлениям мечети.",
           "nextMove": "Перейдите улицу и войдите на Bussorah Street — пешеходную аллею, ведущую от мечети к старым лавкам и кафе.",
           "deepDive": [
             {
               "title": "Мечеть как центр квартала",
-              "body": "NLB описывает Masjid Sultan как focal point исторического Kampong Glam: первая мечеть появилась в 1824 году, нынешнее здание завершили в 1932 году, а national monument status оно получило в 1975 году. На маршруте это не просто photogenic dome. Мечеть объясняет, почему окружающие улицы связаны с Malay community, pilgrimage, prayer, textiles, food and Friday rhythms."
+              "body": "NLB описывает Masjid Sultan как центр исторического Kampong Glam: первая мечеть появилась в 1824 году, нынешнее здание завершили в 1932 году, а статус national monument оно получило в 1975 году. На маршруте это не просто фотогеничный купол. Мечеть объясняет, почему окружающие улицы связаны с малайской общиной, паломничеством, молитвой, тканями, едой и пятничным ритмом."
             }
           ],
           "sourceNote": "Часы работы и правила посещения взяты с VisitSingapore, а сведения о куполе и истории мечети основаны на Heritage Trail."
@@ -2683,7 +2683,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Visitor access is separate from prayer use and can change for Fridays, prayer times, Ramadan, guided tours, and mosque events; check current Masjid Sultan notices.",
+          "summary": "Доступ посетителей отделён от молитвенного режима и может меняться по пятницам, во время молитв, Рамадана, экскурсий и событий мечети; проверяйте текущие объявления Masjid Sultan.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-3",
@@ -2718,12 +2718,12 @@
         "content": {
           "context": "Вы выходите на тенистую пешеходную улицу Bussorah Street, где раньше жили паломники. В XIX–XX веках этот квартал называли Kampong Kaji, что на яванском означает \"паломническая деревня\". Паломники из Индонезии, Малайзии и Саудовской Аравии приходили сюда, чтобы зарегистрироваться у шаейх хаджи, купить белые одежды и отправить багаж на корабль. Соседи устраивали совместные ужины и помогали друг другу готовиться к хаджу — традиция взаимопомощи \"готов-ройон\" живёт до сих пор. Сегодня улица покрыта кафельной плиткой и окружена кафе, сувенирными лавками и книжными магазинами.",
           "lookFor": "Посмотрите на расписные деревянные окна и черепичные крыши шопхаусов. На уровне крыши многие здания сохранили ажурные вентиляционные отверстия с исламскими узорами. В одном из кафе продают традиционный десерт тейр тарик — сладкий взбитый чай.",
-          "practical": "Улица открыта как public street; cafés, restaurants and shops set their own hours. Для вида на mosque и спокойного прохода приходите до вечерней толпы, а для еды и света — ближе к закату.",
+          "practical": "Улица открыта как общественный проход; кафе, рестораны и магазины работают по своим графикам. Для вида на Masjid Sultan и спокойного прохода приходите до вечерней толпы, а для еды и света — ближе к закату.",
           "nextMove": "В конце улицы поверните налево на Arab Street — торговую артерию района.",
           "deepDive": [
             {
-              "title": "Улица между mosque и port memory",
-              "body": "Visit Singapore's Kampong Gelam map напоминает, что Haji Lane hosted Muslim pilgrims before yearly Hajj, а Arab Street carried baskets and textiles. Bussorah Street держит этот смысл на виду: она выстраивает прямую перспективу к Masjid Sultan и показывает, как pilgrimage, commerce and hospitality были не отдельными сюжетами, а соседними функциями одного квартала."
+              "title": "Улица между мечетью и портовой памятью",
+              "body": "Карта официального туристического сайта по Kampong Gelam напоминает о хаджевых историях Haji Lane и торговле корзинами и тканями на Arab Street. Bussorah Street держит этот смысл на виду: она выстраивает перспективу к Masjid Sultan и показывает, что паломничество, торговля и гостеприимство были соседними функциями одного квартала."
             }
           ],
           "sourceNote": "Данные о паломниках, традиции gotong royong и старых профессиях взяты из National Heritage Board’s Heritage Trail."
@@ -2735,7 +2735,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Public pedestrian street; individual cafés, restaurants, shops, and events set their own hours.",
+          "summary": "Открытая пешеходная улица; кафе, рестораны, магазины и события работают по индивидуальным графикам.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-4",
@@ -2768,17 +2768,17 @@
         ],
         "walk": "Идите обратно на Muscat Street и сверните в узкий переулок Haji Lane, который выходит на Gelam Gallery.",
         "content": {
-          "context": "Arab Street держит торговый слой Kampong Gelam: Visit Singapore's map связывает её с baskets and textiles, а neighbourhood materials до сих пор выделяют fabric and textile trade как одну из главных тем улицы. Здесь меняется не дворцовая память, а повседневная витрина района — ткани, ковры, лампы, perfume oils, café fronts and shop signs рядом с mosque axis.",
+          "context": "Arab Street держит торговый слой Kampong Gelam: карта официального туристического сайта связывает её с корзинами и тканями, а районные материалы до сих пор выделяют тканевую торговлю как одну из главных тем улицы. Здесь меняется не дворцовая память, а повседневная витрина района — ткани, ковры, лампы, парфюмерные масла, фасады кафе и вывески рядом с осью мечети.",
           "lookFor": "Сравните витрины текстильных лавок, ковры на выносных стойках, арабскую каллиграфию на вывесках и вид на Masjid Sultan в просветах улиц. Хорошая остановка не требует покупки: здесь важна сама плотность торговли.",
-          "practical": "Arab Street is a public street; individual textile shops, perfume counters, cafés, and restaurants set their own hours. Ramadan, public holidays, prayer times and private business schedules can shift the rhythm, so use this stop as a street-reading point rather than a guaranteed shopping appointment.",
+          "practical": "Arab Street — открытая улица; текстильные лавки, парфюмерные магазины, кафе и рестораны работают по своим графикам. Рамадан, праздники, молитвенное время и частные расписания могут менять ритм, поэтому используйте остановку как чтение улицы, а не как гарантированную покупку.",
           "nextMove": "Идите обратно на Muscat Street и сверните в узкий переулок Haji Lane, который выходит на Gelam Gallery.",
           "deepDive": [
             {
               "title": "Торговая улица тканей и ароматов",
-              "body": "Старый текст превращал Arab Street в почти музейную улицу с точными семейными преемственностями, но для app-гайда безопаснее держаться проверяемого слоя: public street, textile trade, perfume and carpet shops, café frontage. В связке маршрута это остановка о commerce. Она показывает, как Kampong Gelam жил не только palace и mosque, но и ежедневной покупкой ткани, запахом oud, переговорами у витрины и туристическим browsing."
+              "body": "Старый текст превращал Arab Street в почти музейную улицу с точными семейными преемственностями, но для app-гайда надёжнее держаться проверяемого слоя: открытая улица, текстиль, парфюмерия, ковры и кафе. В связке маршрута это остановка о торговле: Kampong Gelam жил не только дворцом и мечетью, но и ежедневной покупкой ткани, запахом уда, переговорами у витрины и прогулочным разглядыванием лавок."
             }
           ],
-          "sourceNote": "Информация основана на Visit Singapore Kampong Gelam map, National Heritage Board trail context and Visit Kampong Gelam materials about Arab Street textiles."
+          "sourceNote": "Информация основана на карте официального туристического сайта по Kampong Gelam, контексте National Heritage Board trail и районных материалах об Arab Street и тканях."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2787,7 +2787,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Public street; individual textile shops, perfume shops, cafés, restaurants, and events set their own hours.",
+          "summary": "Открытая улица; текстильные лавки, парфюмерные магазины, кафе, рестораны и события работают по индивидуальным графикам.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-5",
@@ -2820,17 +2820,17 @@
         ],
         "walk": "Перейдите через North Bridge Road к Bali Lane и продолжайте по нему до длинного барьера вдоль шоссе — там начинается Hall of Fame.",
         "content": {
-          "context": "Haji Lane — узкий переулок, где память о pilgrimage соседствует с независимыми магазинами и murals. Visit Kampong Gelam explains that Arab pilgrim brokers once helped Muslims prepare for Hajj here; now the lane is read through boutiques, cafés and street art. On Muscat Street, Gelam Gallery adds a formal outdoor-art layer: the community site describes it as Singapore's first outdoor art gallery, created in 2019 with more than 30 artworks.",
-          "lookFor": "Не гонитесь за конкретным mural: уличное искусство меняется. Лучше сравните три масштаба — узкие shophouses Haji Lane, café/shop fronts and the more curated corridor of Gelam Gallery.",
-          "practical": "Haji Lane is a public lane; individual shops, cafés and bars set their own hours. Gelam Gallery is an outdoor, free stop listed by Visit Kampong Gelam as open 24/7. Daylight gives better murals and less crowding; evening gives the lane's social rhythm.",
+          "context": "Haji Lane — узкий переулок, где память о хадже соседствует с независимыми магазинами и уличным искусством. Районные материалы объясняют, что арабские паломнические посредники помогали мусульманам готовиться к хаджу именно здесь; сегодня переулок читается через бутики, кафе и стрит-арт. На Muscat Street Gelam Gallery добавляет формальный слой уличного искусства: районный сайт называет её первой открытой галереей Сингапура, созданной в 2019 году с более чем 30 работами.",
+          "lookFor": "Не гонитесь за конкретной росписью: уличное искусство меняется. Лучше сравните три масштаба — узкие шопхаусы Haji Lane, фасады кафе и магазинов, более оформленный коридор Gelam Gallery.",
+          "practical": "Haji Lane — открытый переулок; магазины, кафе и бары работают по своим графикам. Gelam Gallery — бесплатная уличная остановка, указанная районными материалами как открытая 24/7. Днём лучше видны стенные работы и меньше толпа; вечером сильнее социальный ритм улицы.",
           "nextMove": "Перейдите через North Bridge Road к Bali Lane и продолжайте по нему до длинного барьера вдоль шоссе — там начинается Hall of Fame.",
           "deepDive": [
             {
               "title": "Паломнический переулок, ставший арт-адресом",
-              "body": "Название Haji Lane не декоративное: оно напоминает о времени, когда путешествие к Hajj было частью портовой экономики района. Сегодня та же компактность работает иначе. В нескольких шагах помещаются souvenir browsing, indie retail, café culture, tourist photos and a curated outdoor gallery. Поэтому остановка не сводится к bright walls: это пример того, как Kampong Gelam переиспользует старые shop-house lanes без полного стирания прежнего смысла."
+              "body": "Название Haji Lane не декоративное: оно напоминает о времени, когда путь к хаджу был частью портовой экономики района. Сегодня та же компактность работает иначе: сувенирные лавки, независимый ритейл, кафе, туристические фото и оформленная открытая галерея помещаются в нескольких шагах. Поэтому остановка не сводится к ярким стенам: это пример того, как Kampong Gelam переиспользует старые шопхаусные переулки без полного стирания прежнего смысла."
             }
           ],
-          "sourceNote": "Сведения о происхождении Haji Lane, murals and Gelam Gallery взяты из Visit Kampong Gelam pages and wall-murals materials."
+          "sourceNote": "Сведения о происхождении Haji Lane, росписях и Gelam Gallery взяты из районных страниц и материалов о стенных работах."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2839,7 +2839,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Public lane; Gelam Gallery is an outdoor free stop listed as open 24/7, while individual Haji Lane shops, cafés, bars, and events set their own hours.",
+          "summary": "Открытый переулок; Gelam Gallery — бесплатная уличная остановка, указанная как 24/7, а магазины, кафе, бары и события Haji Lane работают по своим графикам.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-6",
@@ -2871,17 +2871,17 @@
         ],
         "walk": "-",
         "content": {
-          "context": "Финал выводит к Graffiti Hall of Fame along Bali Lane and Ophir Road. Visit Kampong Gelam's wall-murals page describes the 2021 project as a nearly 240 m by 5 m legal graffiti stretch with 17 Singapore-based artists and QR codes for the works. После palace, mosque and trade streets это самый современный слой маршрута: стена показывает, что район не только сохраняют, но и программируют как outdoor culture.",
-          "lookFor": "Ищите QR codes and artist panels, но не относитесь к конкретным изображениям как к вечным: murals can be repainted or refreshed. Лучшее чтение здесь — масштаб легальной стены рядом с traffic edge Ophir Road.",
-          "practical": "Outdoor gallery access is free and effectively street-level; daylight is best for details and safer crossing. The wall sits by a busy road, so keep to pavements and use crossings when returning toward Bugis or Haji Lane.",
+          "context": "Финал выводит к Graffiti Hall of Fame вдоль Bali Lane и Ophir Road. Материалы проекта описывают его как легальный граффити-коридор почти 240 м длиной и 5 м высотой с 17 сингапурскими художниками и QR-кодами к работам. После дворца, мечети и торговых улиц это самый современный слой маршрута: стена показывает, что район не только сохраняют, но и программируют как уличную культуру.",
+          "lookFor": "Ищите QR-коды и подписи художников, но не относитесь к конкретным изображениям как к вечным: работы могут обновлять и перекрашивать. Лучшее чтение здесь — масштаб легальной стены рядом с транспортной кромкой Ophir Road.",
+          "practical": "Уличная галерея бесплатна и читается с тротуара; дневной свет лучше для деталей и безопаснее для переходов. Стена стоит рядом с оживлённой дорогой, поэтому держитесь тротуаров и переходов, когда возвращаетесь к Bugis или Haji Lane.",
           "nextMove": "Маршрут завершён. Вы можете вернуться к MRT Bugis, прогуляться обратно через Haji Lane или остаться на ужин в одном из кафе. Тем, кому хочется продолжить исследование, стоит заглянуть в соседний Литтл-Индия.",
           "deepDive": [
             {
-              "title": "Легальная стена для street art",
-              "body": "Эта остановка помогает не спутать heritage district с frozen district. В Kampong Gelam официальная память и contemporary expression стоят почти рядом: Masjid Sultan задаёт религиозный центр, Arab Street держит trade memory, Haji Lane собирает indie tourism, а Graffiti Hall of Fame добавляет sanctioned street art. Для путешественника это аккуратная точка выхода: район не заканчивается прошлым, он продолжает договариваться о том, что можно показывать на улице."
+              "title": "Легальная стена для стрит-арта",
+              "body": "Эта остановка помогает не спутать район наследия с замороженным районом. В Kampong Gelam официальная память и современное уличное выражение стоят почти рядом: Masjid Sultan задаёт религиозный центр, Arab Street держит торговую память, Haji Lane собирает независимый туристический ритм, а Graffiti Hall of Fame добавляет разрешённый стрит-арт. Район не заканчивается прошлым — он продолжает договариваться о том, что можно показывать на улице."
             }
           ],
-          "sourceNote": "Информация о Graffiti Hall of Fame взята из Visit Kampong Gelam wall-murals materials and Gelam Gallery page."
+          "sourceNote": "Информация о Graffiti Hall of Fame взята из районных материалов Hall of Fame и страницы Gelam Gallery."
         },
         "entry": "снаружи",
         "coordinates": {
@@ -2890,7 +2890,7 @@
         },
         "hours": {
           "rules": [],
-          "summary": "Outdoor street-art wall; viewable from public pavement, with daylight recommended for details and road safety.",
+          "summary": "Уличная стена на открытом воздухе, видимая с общественного тротуара; дневной свет рекомендован для деталей и безопасности у дороги.",
           "checkedAt": "2026-06-27"
         },
         "photoAssetId": "singapore-kampong-gelam-sultan-streets-stop-7",
