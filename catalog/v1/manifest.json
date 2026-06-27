@@ -409,12 +409,12 @@
       "packPath": "cities/zanzibar-city/offline-pack.json"
     },
     "zurich": {
-      "packHash": "921f6dd2ee2d",
+      "packHash": "3b6d068a92fc",
       "packPath": "cities/zurich/offline-pack.json"
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T10:48:43.852Z",
+  "generatedAt": "2026-06-27T11:04:09.616Z",
   "locale": "ru",
   "schemaVersion": 1
 }
