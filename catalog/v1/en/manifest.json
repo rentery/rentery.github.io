@@ -49,7 +49,7 @@
       "packPath": "cities/chicago/offline-pack.json"
     },
     "granada": {
-      "packHash": "f27e1f2a2926",
+      "packHash": "da9a35a83c6d",
       "packPath": "cities/granada/offline-pack.json"
     },
     "ghent": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T07:48:30.691Z",
+  "generatedAt": "2026-06-27T08:02:05.483Z",
   "locale": "en",
   "schemaVersion": 1
 }
