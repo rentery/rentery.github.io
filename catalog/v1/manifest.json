@@ -309,7 +309,7 @@
       "packPath": "cities/london/offline-pack.json"
     },
     "lyon": {
-      "packHash": "355ad2ba9750",
+      "packHash": "f62d14338d93",
       "packPath": "cities/lyon/offline-pack.json"
     },
     "macao": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T08:02:04.674Z",
+  "generatedAt": "2026-06-27T08:15:59.055Z",
   "locale": "ru",
   "schemaVersion": 1
 }
