@@ -6,63 +6,183 @@
   "stopId": "belgrade-fortress-rivers-first-city-1",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:a526905723292db19615ebc60deb252563100c11de207bb249bf5f7b8e482eee",
-  "speechTextHash": "sha256:eaefd0c35f47dbe7b3d9edc702b41053e838ce4262bb2b317553a4f5d57439d1",
-  "durationSeconds": 104.48,
+  "speechTextHash": "sha256:d14339a62681950846a49765a4cf62bb06eaa40b64d07b0e4f1d51021882a4de",
+  "durationSeconds": 140.444,
   "sampleRate": 24000,
-  "checksum": "sha256:b89b18fc8e91fe23fa7c81fb5264ca2f8a5dae5c6e0d731e8a5a52fd90713ed9",
+  "checksum": "sha256:4b523b35c35f964a3e9f48554dd3a559c3509e3d305ab2e14a719117b925cbd4",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca-r3.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca-r3.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 104.487,
-      "words": 207,
-      "wpm": 118.9,
-      "meanVolumeDb": -22.5,
-      "maxVolumeDb": -4.4
+      "durationSeconds": 140.444,
+      "fileSizeBytes": 1807618,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.8194686770439148,
+      "peakGain": 1.087596101108797
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-1.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 21,
-      "totalSilenceSeconds": 9.613,
-      "silenceRatio": 0.092,
-      "maxSilenceSeconds": 0.771
+      "chunkCount": 17,
+      "maxChunkBytes": 275,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-1.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 104.48,
-      "transcript": "Площадь республики. Белград любит встречаться здесь, но рождается не здесь. Начните не с фасадов, а с вопроса. Встаньте так, чтобы видеть памятник князю Михаилу, театр, музей и поток людей, который проходит через площадь, как через очевидный центр. Здесь Белград кажется собранным и гражданским. Официальная сцена – привычное место встреч, начало городского дня. Но именно в этом месте есть ловушка. Площадь отлично объясняет современный Белград, но почти не говорит, почему город вообще возник здесь. Отсюда не чувствуется край плато и не видно, как близко центр подходит к высоте над двумя реками. Город сначала показывает себя как нормальную столицу, а уже потом выпускает вас к месту, где рельеф объясняет его лучше любых символов. Смотрите на памятник, как на точку сбора перед настоящим разговором. Белград здесь не раскрывается полностью, он только назначает встречу. Настоящая логика начнет проступать, когда вы пойдете по оси старого центра на запад. Как площадь кажется почти плоской, ось памятника между музеем и театром. Поток людей, который делает место привычным, а не пограничным. Лучше стоять чуть в стороне от постамента, а не прямо под ним. Это удобная стартовая точка, но не задерживайтесь слишком долго. Смысл маршрута раскрывается дальше. Идите по улице Князя Михаила на запад, в сторону Калимигдана. Сейчас важно почувствовать, как площадь превращается в вытянутую городскую ось.",
-      "similarity": 99.9,
-      "wer": 0.005
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 140.4373125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "republic_square",
+            "found": true,
+            "alternatives": [
+              "площадь республики",
+              "республики"
+            ]
+          },
+          {
+            "id": "national_theatre",
+            "found": true,
+            "alternatives": [
+              "народный театр"
+            ]
+          },
+          {
+            "id": "stambol_gate",
+            "found": true,
+            "alternatives": [
+              "стамбольские ворота",
+              "стамбольских ворот"
+            ]
+          },
+          {
+            "id": "prince_mihailo_shot",
+            "found": true,
+            "alternatives": [
+              "князя михаила застрелили",
+              "михаила застрелили"
+            ]
+          },
+          {
+            "id": "pazzi",
+            "found": true,
+            "alternatives": [
+              "пацци"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_ego_stress",
+            "found": false,
+            "term": "его застрелили"
+          },
+          {
+            "id": "bad_year_genitive",
+            "found": false,
+            "term": "тысяча восемьсот шестьдесят восьмом годов"
+          },
+          {
+            "id": "bad_pazzi_enrico",
+            "found": false,
+            "term": "энрико пацци"
+          }
+        ]
+      },
+      "transcript": "Площадь Республики. Встаньте у конного памятника. Белградцы так и назначают встречи. У коня. Перед вами Народный театр, открытый в 1869 году и Народный музей, старейший в стране. Днем это самая безобидная, самая гражданская точка города. Кофе, поток людей, городская сцена. А теперь то, чего не видно. Ровно здесь, перед театром, до 1866 года стояли Стамбульские ворота, Османский выход на Стамбульскую дорогу. Перед ними турки сажали накол восставших сербов и выставляли казненных прямо на въезде в город. Князь Михаил снес ворота, когда Белград стал выходить из-под османской власти. Любимое место встреч горожан стоит на бывшем эшафоте. Сам памятник – первый художественный монумент Сербии. Его автор – флорентийский скульптор Пацци. Памятник поставили в 1882 году. Рука князя вытянута вдаль, в сторону городов. В 1867 году османы, наконец, вывели из этих городов гарнизоны и отдали ключи от крепости. Михаил добился этого почти без единого выстрела. А через год, в 1868 году, князя Михаила застрелили. Человек, выгнавший турок, не пережил собственной победы и года. Запомните этот жест руки. Весь маршрут – это путь туда, к крепости, которую он вернул городу. Отсюда и пойдем по улице, носящей его имя. Монумент князю Михаилу, поставленный в 1882 году. Первый художественный памятник Сербии. Он стоит ровно там, где османы казнили сербов у Стамбольских ворот. Город не просто убрал ворота. Он поставил на их месте знак собственного освобождения. Спросите белградца, где встретится в центре, и он скажет у коня. Конная статуя князя стала народным адресом встреч, а о бывшем эшафоте под ней не помнит почти никто.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-1.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9958,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T20:22:33Z",
-  "generatedAt": "2026-06-21T20:22:33Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:eaefd0c35f47dbe7b3d9edc702b41053e838ce4262bb2b317553a4f5d57439d1",
+  "fileSizeBytes": 1807618,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca-r3.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4101,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-1.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-1-ru-edaf475f9e54c2ca-r3",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 17,
+      "chunkByteLengths": [
+        185,
+        228,
+        236,
+        275,
+        188,
+        260,
+        191,
+        211,
+        232,
+        256,
+        173,
+        216,
+        239,
+        129,
+        168,
+        124,
+        195
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-1/report.json"
+  }
 }

@@ -6,63 +6,173 @@
   "stopId": "belgrade-fortress-rivers-first-city-5",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
-  "speechTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
-  "durationSeconds": 101.44,
+  "speechTextHash": "sha256:3e48bacf34481f0f3d4565605aca5e3b62475639ac99b6e58648d2b3e2f94d88",
+  "durationSeconds": 132.945,
   "sampleRate": 24000,
-  "checksum": "sha256:429d02b272a85547bb0aa24910c1d23c73cdbdc575e86277630dc11f9ecf1574",
+  "checksum": "sha256:363fab046ee9f2e1e4ca42def687d1db995ffe36ee8c12acc3fb7f5713a3436f",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 101.447,
-      "words": 221,
-      "wpm": 130.7,
-      "meanVolumeDb": -22.2,
-      "maxVolumeDb": -3.3
+      "durationSeconds": 132.945,
+      "fileSizeBytes": 1696740,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.7986705899238586,
+      "peakGain": 1.1159180635644954
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-5.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 13,
-      "totalSilenceSeconds": 5.511,
-      "silenceRatio": 0.054,
-      "maxSilenceSeconds": 0.761
+      "chunkCount": 17,
+      "maxChunkBytes": 267,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-5.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 101.44,
-      "transcript": "Победник и край над слиянием. Вот точка, ради которой Белград вообще стоит именно здесь. Не стойте строго под колонной. Отойдите так, чтобы в поле зрения были и сам Победник, и свободный край площадки, и дальние берега. Здесь маршрут отвечает на свой главный вопрос без всякой карты. Белград возник не потому, что место было уютным, а потому, что с этого края можно было видеть, ждать и контролировать движение по воде. И есть еще одна важная деталь. Победник вообще не должен был стоять здесь. Он задумывался как часть фонтана для Тиразии в самом центре города, но в итоге оказался на вершине гребня над слиянием. Это неожиданно сделало памятник сильнее. Вместо городской декорации он стал знаком самой географии Белграда. Отсюда особенно ясно, что речь идет не об одной реке, а о встрече двух направлений. Савва подводит к городу, Дунай открывает его дальше. Белгород здесь неуютная середина долины, а наблюдательная точка на краю большого водного узла. Как Савва и Дунай читаются как разные направления. Свободный край площадки, а не только сам памятник, современный город на дальних берегах и старые стены под ногами. Не прилипайте к пьедесталу. География важнее крупного плана статуи В ясную погоду это место почти всегда съедает больше времени, чем кажется Начинайте спуск в нижний город по дорожке в сторону Ружицы После главного обзора важно увидеть ту же крепость снизу, у воды",
-      "similarity": 99.6,
-      "wer": 0.027
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 132.9386875,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "pobednik",
+            "found": true,
+            "alternatives": [
+              "победник",
+              "победника"
+            ]
+          },
+          {
+            "id": "mestrovic",
+            "found": true,
+            "alternatives": [
+              "мештрович"
+            ]
+          },
+          {
+            "id": "terazije",
+            "found": true,
+            "alternatives": [
+              "теразие",
+              "теразије",
+              "терази",
+              "теразие",
+              "теразье",
+              "теразе"
+            ]
+          },
+          {
+            "id": "zemun",
+            "found": true,
+            "alternatives": [
+              "земун",
+              "зимун",
+              "зе мун"
+            ]
+          },
+          {
+            "id": "rivers",
+            "found": true,
+            "alternatives": [
+              "две реки",
+              "двум рекам"
+            ]
+          }
+        ],
+        "forbidden": []
+      },
+      "transcript": "Победник и край над слиянием. Отойдите от колонны так, чтобы видите фигуру и свободный край над слиянием. Здесь маршрут отвечает на свой главный вопрос без карты. Белград возник тут не ради уюта, а потому что с этого края можно было видеть, ждать и держать под контролем движение сразу по двум рекам. А у самой статуи отличная городская история. Победника. Извоял Иван Мештрович в честь побед Сербии над Османской империей и Австро-Венгрией. Сначала его хотели поставить фонтаном на теразе в самом центре. Но фигура, обнаженный мужчина и благопристойная публика возмутилась. Голый мужчина среди дам в центре города. Неприлично. Победителя в наказание сослали на край крепости и поставили в 1928 году. И ссылка обернулась удачей. Здесь, на гребне, он встал лицом за реки. Туда, где до 1918 года проходила граница с Австро-Венгрией. К самому недавнему врагу. Земун на том берегу был тогда еще австрийским городом. Из декорации фонтана он стал тем, чем фонтан стать не смог бы. Знаком самой границы и победы. В руках у него сокол и опущенный меч. Запомните, вид отсюда не открытка, а старая линия фронта по воде. Теперь спуститесь к самой воде. Ту же крепость нужно увидеть снизу, где она держала удар. На теразе победника. Не пустили из-за ноготы. Ссылка на край крепости неожиданно дала ему то, чего не дал бы фонтан в центре. Горизонт. Две реки и врага за водой. Сегодня это главный символ Белграда. До 1918 года Земун на том берегу был частью Австро-Венгрии. Победник смотрит именно туда, за реку, к недавней границе и недавнему противнику. Тот же Земун ждет вас в отдельном маршруте по Дунайскому городу внутри Белграда.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-5.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9954,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:42:10Z",
-  "generatedAt": "2026-06-21T19:42:10Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:9b6aa5c28bc3dbd08bd202062fd05df719dbc52ed462397049e484d55652310e",
+  "fileSizeBytes": 1696740,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4205,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-5.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-5-ru-85fbea0cab42f21f",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 17,
+      "chunkByteLengths": [
+        207,
+        109,
+        267,
+        90,
+        189,
+        127,
+        243,
+        252,
+        248,
+        156,
+        255,
+        129,
+        264,
+        222,
+        243,
+        164,
+        157
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-5/report.json"
+  }
 }

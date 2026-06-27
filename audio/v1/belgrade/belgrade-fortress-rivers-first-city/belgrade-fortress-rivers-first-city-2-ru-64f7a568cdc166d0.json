@@ -6,63 +6,180 @@
   "stopId": "belgrade-fortress-rivers-first-city-2",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:36a56c6cca4f4defc06dd985b0af5f4550e5015d242b27d76c2586df993f77c5",
-  "speechTextHash": "sha256:e7cd89caaa03861e5025bc2dff68c2063f38e8b45779b89a6ad15a124e1bb7e1",
-  "durationSeconds": 100.96,
+  "speechTextHash": "sha256:de3dc6bc43dedb38cfab1912b864704ea333e4767ceeb4ef8dd05f0460bda4b8",
+  "durationSeconds": 120.806,
   "sampleRate": 24000,
-  "checksum": "sha256:f63e1853a802d8b71dc2841c83e864f1ab60eff7bf3db167de5cd8882dd47976",
+  "checksum": "sha256:ce80310fa091d597d7fe571f133aeb413bf6baa59499cf95b69540e010af99f5",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 100.966,
-      "words": 210,
-      "wpm": 124.8,
-      "meanVolumeDb": -22.0,
-      "maxVolumeDb": -4.0
+      "durationSeconds": 120.806,
+      "fileSizeBytes": 1553059,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.813082218170166,
+      "peakGain": 1.0961387645882819
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-2.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 22,
-      "totalSilenceSeconds": 10.46,
-      "silenceRatio": 0.104,
-      "maxSilenceSeconds": 0.777
+      "chunkCount": 17,
+      "maxChunkBytes": 264,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-2.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 100.96,
-      "transcript": "Улица князя Михаила. Это не просто витрины, это хребет, который тянет город к краю. Лучше всего читать улицу князя Михаила не как торговую улицу, а как направленную линию. Встаньте посередине и посмотрите вперед, она будто сама тянет вас к Калимикдану. Это не случайный комфорт, а очень старая городская логика. Под ногами чувствуется устойчивая верхняя полка центра, линия, по которой проще всего идти к крепости. Отсюда Белград выглядит удивительно спокойным и почти европейски ровным. Фасады, окна, витрины, музыканты, разговоры. Но именно эта нормальность и важна. Она показывает, как пограничный город научился жить не только войной и высотой, но и гражданской жизнью. На поверхности улица на глубине рельеф, который все еще упрямо ведет к краю крепости. Не ищите здесь реку глазами. Ее специально еще не видно. Улица князя Михаила работает как длинный вдох перед выходом на обрыв. Вы еще в городе, но уже идете туда, где город перестанет быть фасадом и станет географией, как улица постепенно тянет взгляд к Калимикдану. Смену ощущения от центра к направлению, фасады, которые делают пограничный город удивительно собранным. Смотрите не в витрины, а вдоль общей оси улицы. Если толпа плотная, остановитесь на более широком участке и посмотрите вдаль. Продолжайте на запад. Затем уходите к Косанчищеву-Венцу и смотровому краю над Савой. Там рельеф скажет больше, чем фасады.",
-      "similarity": 99.5,
-      "wer": 0.014
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 120.8,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "knez_mihailo",
+            "found": true,
+            "alternatives": [
+              "князя михаила"
+            ]
+          },
+          {
+            "id": "singidunum",
+            "found": true,
+            "alternatives": [
+              "сингидунума",
+              "сингидунум",
+              "сингидунома"
+            ]
+          },
+          {
+            "id": "roman_aqueducts",
+            "found": true,
+            "alternatives": [
+              "римские акведуки",
+              "акведуки"
+            ]
+          },
+          {
+            "id": "emilijan",
+            "found": true,
+            "alternatives": [
+              "эмилиян йосимович",
+              "йосимович"
+            ]
+          },
+          {
+            "id": "fortress_axis",
+            "found": true,
+            "alternatives": [
+              "городом и крепостью",
+              "к крепости"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_year_genitive",
+            "found": false,
+            "term": "шестьдесят седьмой годов"
+          },
+          {
+            "id": "bad_city_plural",
+            "found": false,
+            "term": "город а"
+          }
+        ]
+      },
+      "transcript": "Улица князя Михаила. Улица князя Михаила тянет вперед будто сама собой, кажется просто удобная торговая улица. На самом деле под вами две очень старые линии. Первая римская. Улица повторяет одну из главных осей Сингидунома, римского лагеря и города на этом гребне. Здесь же под нынешним центром шли римские акведуки. Вы идете по дороге, которой почти 2000 лет, только теперь по бокам витрины, а не легионеры. Вторая линия, 1867 год. Тогда математик и градостроитель Эмилиан Йосимович три года вымерял Белград и составил его первый регулярный план. Это он превратил кривую турецкую тропу в прямую улицу, кратчайшую связь между городом и крепостью и провел ее именем князя Михаила. Того самого, чей памятник вы только что видели. В год, когда османы отдали крепость, город прокладывал к ней прямую парадную дорогу. Поэтому не смотрите в витрины, смотрите вдоль оси. Это примизна не про шопинг, а про два жеста разом. Римскую инженерию и сербское желание идти к крепости по прямой в полный рост. Держитесь линии, она сама выведет к краю плато. Эмилиан Йосимович, фигура для Белграда примерно того же масштаба, что барон Осман для Парижа. Его план впервые задал оси современного города и улица князя Михаила главная из них. Прямая улица была политическим заявлением, город, выходящий из-под турок, чертит себя по линейке. Улица идет по оси римского Сингидунома и вдоль нее проходили римские акведуки. Удобство, с которым ноги сами несут вас к крепости. Это инженерное решение почти двухтысячелетней давности?",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-2.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9961,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:37:27Z",
-  "generatedAt": "2026-06-21T19:37:27Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:e7cd89caaa03861e5025bc2dff68c2063f38e8b45779b89a6ad15a124e1bb7e1",
+  "fileSizeBytes": 1553059,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4102,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-2.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-2-ru-64f7a568cdc166d0",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 17,
+      "chunkByteLengths": [
+        222,
+        125,
+        176,
+        102,
+        190,
+        110,
+        226,
+        264,
+        257,
+        99,
+        246,
+        95,
+        186,
+        170,
+        189,
+        154,
+        214
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-2/report.json"
+  }
 }

@@ -6,63 +6,185 @@
   "stopId": "belgrade-fortress-rivers-first-city-7",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:0a02d2f4b41a36f4568f69a6235876aaa2b5fff3876817d72c62208f9322e8de",
-  "speechTextHash": "sha256:89c240fc3187b8b87507216a4547617d33706946db4e0731f31fed623adff459",
-  "durationSeconds": 112.64,
+  "speechTextHash": "sha256:20d3740f5c5809b0074435f7cbc1704c6971bd0d9d89e90f4f1d121a12c96783",
+  "durationSeconds": 146.842,
   "sampleRate": 24000,
-  "checksum": "sha256:a1d82686938818375c9a66e4b617cdb88a95191d2acde120adffda9e38adbbeb",
+  "checksum": "sha256:832059b84b4e0c4fc78163a3fd2d934dd9447307eb7c1a2442760ff5ac60a986",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 112.647,
-      "words": 245,
-      "wpm": 130.5,
-      "meanVolumeDb": -22.4,
-      "maxVolumeDb": -3.6
+      "durationSeconds": 146.842,
+      "fileSizeBytes": 1885773,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.9482842087745667,
+      "peakGain": 0.939856353071066
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-7.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 21,
-      "totalSilenceSeconds": 8.708,
-      "silenceRatio": 0.077,
-      "maxSilenceSeconds": 0.633
+      "chunkCount": 20,
+      "maxChunkBytes": 266,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-7.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 112.64,
-      "transcript": "Речная башня у воды. Финал у воды, где город держит речной удар. Подойдите так, чтобы башня читалась на фоне воды, а потом посмотрите назад на плато. Это один из самых точных финалов для первого знакомства с Белградом. Высокий центр уже позади. Здесь начинается другая правда города. Пропорт, подступы, слабое место и последнюю линию напряжения у самой воды. Официальная история башни особенно сильна тем, что она не дает романтизировать это место. Башня была построена около 1460 года для защиты входа в Нижнегородский порт. Позже она стала печально известной тюрьмой и местом казней. То есть одна и та же точка была и обороной, и контролем, и памятью о насилии. На речном краю Белград всегда читается гуще, чем в центре. Здесь география сразу превращается в политику и человеческую судьбу. Если посмотреть отсюда назад на весь маршрут, его форма становится ясной. Площадь дала современный центр, улица, городской хребет, край крепости, ответ про высоту и две реки, а башня у воды закрывает круг. Первый Белград – это город, который поднял голову на высоту и все равно никогда не мог перестать жить у реки. Насколько низко по отношению к плато стоит башня? Воду как подступ, а не как фон разницу между обзорной крепостью наверху и портовой обороной здесь. Если силы заканчиваются, это лучшая точка для финальной паузы. Смысл маршрута уже собран полностью. Если возвращаетесь пешком в центр, добавьте отдельное время на обратный подъем. Финиш. Постойте еще минуту у воды и посмотрите назад на высоту. Так маршрут лучше всего закрывается в голове.",
-      "similarity": 99.9,
-      "wer": 0.012
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 146.8353125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "nebojsa",
+            "found": true,
+            "alternatives": [
+              "небойша",
+              "небојша",
+              "не бойся",
+              "небоша"
+            ]
+          },
+          {
+            "id": "rigas",
+            "found": true,
+            "alternatives": [
+              "ригаса фереоса",
+              "ригасу",
+              "фереоса",
+              "регаса фереоса",
+              "регаса ферееоса",
+              "регасу",
+              "ригаса ферееоса"
+            ]
+          },
+          {
+            "id": "danube",
+            "found": true,
+            "alternatives": [
+              "дунай",
+              "дунайский"
+            ]
+          },
+          {
+            "id": "tower_prison",
+            "found": true,
+            "alternatives": [
+              "тюрьму и место казней",
+              "место казней"
+            ]
+          },
+          {
+            "id": "fearless",
+            "found": true,
+            "alternatives": [
+              "бесстрашная",
+              "бесстрашный"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_rigas",
+            "found": false,
+            "term": "рига су"
+          }
+        ]
+      },
+      "transcript": "Речная башня у воды. Башня стоит у самой воды в самой низкой и уязвимой точке всей крепости. Ее имя не бойся, не бойся, бесстрашное. Имя обещает храбрость. История здания целиком про страх. Ее построили около 1460 года при венгерском владычестве как мощную пушечную башню, чтобы держать под огнем вход в Дунайский порт. Это единственная средневековая башня крепости, дошедшая до нас. При османах эту огневую точку превратили в тюрьму и место казней. Высота и толщина стель, что прежде защищали, теперь работали наоборот, отсюда не убежать. В 1798 году здесь задушили Ригаса Фериоса, греческого поэта и просветителя, который первым всерьез мечтал о восстании балканских народов против османов и напечатал карту будущей свободной Греции. Его схватили в Триесте, австрийцы выдали его туркам, привезли в Белград и казнили в этой башне, а тело бросили в Дунай. Та самая река, которую башня старожила, унесла одного из первых людей, мечтавших о свободных Балканах. Сегодня внутри музей и первый этаж отдан Ригасу. В записи звучат строки его стихов. Отсюда оглянитесь на весь путь. Площадь дала современный центр и встала на месте османского эшафота. Улица оказалась римской дорогой. Касанчиев-Винац, обрыв и сгоревшая память. Победник, победа лицом к старой границе. Ружица, люстра из пуль. А эта башня у воды все стягивает. Бесстрашная, в которой умирали от страха. Самый точный портрет Белграда, города на стыке, где красивый вид всегда стоял вплотную к насилию. Не бойся, так переводится не больше. В ней пытали и казнили. Белград любит такие совпадения. Самый бесстрашный по имени угол крепости стал самым страшным по сути. Сегодня внутри музей Ригаса Фериоса как место памяти. Так Дунайская башня связала в одной точке две балканские истории, сербскую и греческую. Обе про жизнь рядом с большой водой и большой империей.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-7.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9945,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:42:18Z",
-  "generatedAt": "2026-06-21T19:42:18Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:89c240fc3187b8b87507216a4547617d33706946db4e0731f31fed623adff459",
+  "fileSizeBytes": 1885773,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4207,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-7.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-7-ru-de4a3989958194ef",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 20,
+      "chunkByteLengths": [
+        266,
+        114,
+        218,
+        215,
+        128,
+        174,
+        205,
+        236,
+        229,
+        198,
+        229,
+        203,
+        217,
+        63,
+        260,
+        134,
+        199,
+        110,
+        170,
+        107
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-7/report.json"
+  }
 }

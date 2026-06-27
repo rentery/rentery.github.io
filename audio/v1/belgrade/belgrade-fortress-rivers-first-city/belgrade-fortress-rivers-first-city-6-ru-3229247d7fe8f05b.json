@@ -6,63 +6,182 @@
   "stopId": "belgrade-fortress-rivers-first-city-6",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:4e8516cf069b08221a7e58880188e8486c0887c4045f4dfd67cadde0bc3ac1d5",
-  "speechTextHash": "sha256:1356330e2ffa24a1eeddce6a9d176afb5b387be49981a5b79a3b48d1fd93dfe4",
-  "durationSeconds": 104.96,
+  "speechTextHash": "sha256:e75df9d0150334a00c72c77d8644142e4a7178adfb3b4275a42b3b804cb8d9fe",
+  "durationSeconds": 128.05,
   "sampleRate": 24000,
-  "checksum": "sha256:853bbacaa25cc78c264734fc72965bc7257037abf1a5fce3da06f98b34e02249",
+  "checksum": "sha256:75bc1ea58e98b5c21ef3c2428fb4edcaa16d17bd08e8bdeee1341161e20d2d39",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 104.966,
-      "words": 208,
-      "wpm": 118.9,
-      "meanVolumeDb": -22.5,
-      "maxVolumeDb": -3.8
+      "durationSeconds": 128.05,
+      "fileSizeBytes": 1644406,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.9048779010772705,
+      "peakGain": 0.9849405506231262
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-6.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 14,
-      "totalSilenceSeconds": 5.846,
-      "silenceRatio": 0.056,
-      "maxSilenceSeconds": 0.504
+      "chunkCount": 16,
+      "maxChunkBytes": 274,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-6.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 104.96,
-      "transcript": "Нижний город у Ружицы. Снизу крепость снова становится тяжелой вещью у воды. В нижнем городе полезно сразу обернуться назад и посмотреть вверх. Та же крепость, которая наверху казалась широкой и почти прогулочной, снизу снова набирает вес. Стены становятся выше, камень тяжелее, а весь красивый обзор вдруг превращается в давление массы. Высоты и спуска. У Ружицы этот контраст чувствуется особенно сильно. Сегодня это тихое и очень любимое святилище внутри крепостных стен, но здание выросло из бывшего австрийского порохового магазина до XVII века, переделанного в церковь в 1867 году. Поэтому в этом углу нижнего города всегда живут сразу две памяти – военная и человеческая. Камень здесь помнит не только оборону, но и привычку искать укрытие, тишину и ритуал прямо внутри крепости. Если остановиться на победнике, Белград легко понять слишком торжественно, как город обзора и символа. Нижний город возвращает другую правду. Порт, мастерские, воду, влажность, уязвимость и ежедневный труд под верхней линией защиты. Как высоко теперь кажутся верхние стены? Соседство военного камня и тихого церковного угла. Разницу между обзорной крепостью наверху и жизнью внизу. Это хороший момент для короткой передышки на более тихом участке маршрута. После дождя дорожки и спуск здесь ощущаются тяжелее, чем наверху. Продолжайте на восток, к речной башне. Там нижний город дойдет до своей самой речной и самой уязвимой точки.",
-      "similarity": 99.9,
-      "wer": 0.01
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 128.0433125,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "ruzica",
+            "found": true,
+            "alternatives": [
+              "ружица",
+              "ружицы"
+            ]
+          },
+          {
+            "id": "krasnov",
+            "found": true,
+            "alternatives": [
+              "николай краснов",
+              "краснов"
+            ]
+          },
+          {
+            "id": "kragujevac",
+            "found": true,
+            "alternatives": [
+              "крагуеваце",
+              "крагуевац",
+              "крагуеватце",
+              "крагуеватц"
+            ]
+          },
+          {
+            "id": "chandeliers",
+            "found": true,
+            "alternatives": [
+              "люстры",
+              "люстры здесь"
+            ]
+          },
+          {
+            "id": "bullets",
+            "found": true,
+            "alternatives": [
+              "гильз",
+              "пуль",
+              "сабель"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_1915_year_plural",
+            "found": false,
+            "term": "1915 годов"
+          },
+          {
+            "id": "bad_1915_genitive_year",
+            "found": false,
+            "term": "пятнадцатого года"
+          }
+        ]
+      },
+      "transcript": "Нижний город у Ружицы. Спустившись, обернитесь и посмотрите вверх. Та же крепость, что сверху казалась прогулочной, снизу снова набирает вес. Стены выше, камень тяжелее. Обзор превращается в давление массы и высоты. Церковь Ружица прячет в себе двойную память. Сто с лишним лет это пространство было турецким пороховым складом. В Первую мировую австро-венгерский. Обстрел почти сравнял его с землей в 1915 году. Заново церковь отстроил русский иммигрант, архитектор Николай Краснов. Работы закончили к 1937 году. То есть храм буквально вырос из военного склада. Но зайдите внутрь ради другого. Две люстры здесь отлиты из войны, из стрелянных гильз, винтовочных и пистолетных пуль, орудийных частей и сабель. Их собрали сербские солдаты на Солоникском фронте и переплавили на заводе в Крагуеватце. Замысел жесткий и точный. Пусть свеча капает воском на оружие, чтобы свет напоминал, что война не должна повториться. У входа стоят две фигуры – средневековый сербский воин и пехотинец Первой мировой. Запомните эти люстры. На Касанчевом венце память страны сгорела книгами. Здесь она переплавлена из пуль в свет. Дальше у самой воды та же память станет камнем тюрьмы. Их отлили на военном заводе в Крагуеватце из переплавленных гильз, пуль и сабель, собранных солдатами на фронте. Замысел художников – воск свечей капает на оружие, свет против войны. Сто лет – турецкий пороховой погреб. В 1915 здание почти разрушено австрийским обстрелом. Заново отстроено русским эмигрантом Николаем Красновым к 1937 году. Военная и человеческая память в одних стенах.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-6.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9954,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:42:14Z",
-  "generatedAt": "2026-06-21T19:42:14Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:1356330e2ffa24a1eeddce6a9d176afb5b387be49981a5b79a3b48d1fd93dfe4",
+  "fileSizeBytes": 1644406,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4206,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-6.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-6-ru-3229247d7fe8f05b",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 16,
+      "chunkByteLengths": [
+        272,
+        230,
+        131,
+        208,
+        251,
+        156,
+        215,
+        169,
+        230,
+        204,
+        177,
+        107,
+        214,
+        136,
+        224,
+        274
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-6/report.json"
+  }
 }

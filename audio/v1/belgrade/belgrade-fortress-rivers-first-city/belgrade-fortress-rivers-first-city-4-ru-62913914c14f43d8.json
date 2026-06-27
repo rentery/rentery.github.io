@@ -6,63 +6,178 @@
   "stopId": "belgrade-fortress-rivers-first-city-4",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:394d161348ff1ab7d227d2687723ea05120fafb92143f57d1dabf1e6bc8f59a6",
-  "speechTextHash": "sha256:f2b47b81faa8cf30c93616dfafefb6e7a742a054037a3ded668aca6324e1ff71",
-  "durationSeconds": 101.92,
+  "speechTextHash": "sha256:e9d55fc24e63b523bf36a40d57b1ad41de7045de17d5cf656fdc609bd3822365",
+  "durationSeconds": 115.069,
   "sampleRate": 24000,
-  "checksum": "sha256:14da8bf74c8b7d009d1f8e0b7c09c1d8bd9b0a31b357167b76391dd3e7982961",
+  "checksum": "sha256:d2ce5039d3d54c056f0885cb90300765a420fed7c14406a0e5295b70101729b3",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 101.927,
-      "words": 218,
-      "wpm": 128.3,
-      "meanVolumeDb": -22.7,
-      "maxVolumeDb": -4.4
+      "durationSeconds": 115.069,
+      "fileSizeBytes": 1467995,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.76311194896698,
+      "peakGain": 1.1679163710386484
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-4.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 20,
-      "totalSilenceSeconds": 9.201,
-      "silenceRatio": 0.09,
-      "maxSilenceSeconds": 0.679
+      "chunkCount": 15,
+      "maxChunkBytes": 270,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-4.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 101.92,
-      "transcript": "Сахат, капия – крепостной проход, который замедляет вход. Остановитесь перед мостом и воротами так, чтобы видеть и сам проем, и башню с часами над стеной. Здесь особенно ясно чувствуется разница между городской и крепостной логикой. Пока вы были на площади и улице, Белград приглашал. Здесь он начинает фильтровать мост, ров, толщина стены и сам рисунок прохода, созданный не для удобства, а для задержки. И в этом месте есть прекрасный контраст. Сама Сахат Копия хранит след более старого прохода в средневековом бедеме, а башня с часами над ней – редкая для крепости вещь, уже не только военная, но и городская. Башня говорит языком времени и повседневности, но она стоит прямо над системой контроля доступа. Оборона и мирный городской ритм буквально наложены друг на друга. Постойте здесь чуть дольше. После косанчищего венца вы входите уже не просто на видовую площадку, а в пространство, где высота была превращена в дисциплину и защиту. Белград здесь читается как город слоев, а не одного красивого пейзажа. Мост и ров перед стеной чувство, что вход устроен не слишком прямым. Часы над военной оболочкой ворот. Лучшая точка. Чуть отступить назад, чтобы целиком видеть ворота и башню. Не спешите проходить сразу внутрь. Смысл стоп именно в ощущении задержки. Пройдите в верхний город и держите путь к победнику. После контролируемого входа вас ждет точка, где вид раскрывается уже без сдерживания.",
-      "similarity": 99.2,
-      "wer": 0.018
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 115.0626875,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "sahat_gate",
+            "found": true,
+            "alternatives": [
+              "сахат капия",
+              "сахат"
+            ]
+          },
+          {
+            "id": "clock_tower",
+            "found": true,
+            "alternatives": [
+              "часовая башня",
+              "башню с часами"
+            ]
+          },
+          {
+            "id": "austrians",
+            "found": true,
+            "alternatives": [
+              "австрийцы"
+            ]
+          },
+          {
+            "id": "ottomans",
+            "found": true,
+            "alternatives": [
+              "османы"
+            ]
+          },
+          {
+            "id": "twenty_seven_half",
+            "found": true,
+            "alternatives": [
+              "двадцать семь с половиной",
+              "двадцать семь",
+              "27 5",
+              "27 5"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_decimal_reading",
+            "found": false,
+            "term": "двадцать семь пять метра"
+          },
+          {
+            "id": "bad_same_time",
+            "found": false,
+            "term": "одно временно"
+          }
+        ]
+      },
+      "transcript": "Сахат Капия. Встаньте перед воротами так, чтобы видите проем и восьмигранную башню с часами над стеной. До сих пор Белград вас приглашал. Площадь, улица, вид. Здесь он начинает фильтровать. Мост, ров, толщина стены и неудобный ломанный проход, сделанный не для удобства, а чтобы задержать входящего. Сама башня – свидетель смены хозяев. Ее барочную 27,5 метра начали строить около 1740 года австрийцы. Они ненадолго взяли Белград и принялись перестраивать крепость на европейский лад. А достраивали уже османы. В 1739 году турки вернули город и доламывали австрийское барокко. Часовая башня осталась стоять буквально на стыке двух империй. Начата одними, закончена другими. И еще тонкость. Часы – вещь сугубо мирная, городская. Время они отбивают не колоколом, а гонгом, но висят прямо над системой контроля входа. Повседневный ритм города и военная дисциплина – здесь буквально наложены друг на друга крепость, которая одновременно сторожит и показывает время. Пройдите ворота медленно, как и задумано. За ними – верхний город и точка, где вид раскроется уже без всякого сдерживания. Австрийцы держали Белград недолго – с 1717 по 1739 год и успели перестроить его в барокко. По миру 1739 года город вернулся османом. И те снесли почти все австрийское. Часовая башня – один из немногих свидетелей того короткого европейского Белграда.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-4.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9953,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:37:34Z",
-  "generatedAt": "2026-06-21T19:37:34Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:f2b47b81faa8cf30c93616dfafefb6e7a742a054037a3ded668aca6324e1ff71",
+  "fileSizeBytes": 1467995,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4204,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-4.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-4-ru-62913914c14f43d8",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 15,
+      "chunkByteLengths": [
+        204,
+        104,
+        267,
+        72,
+        214,
+        162,
+        235,
+        218,
+        240,
+        189,
+        178,
+        155,
+        270,
+        203,
+        165
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-4/report.json"
+  }
 }

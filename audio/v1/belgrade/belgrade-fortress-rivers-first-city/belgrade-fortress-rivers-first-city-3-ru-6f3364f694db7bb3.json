@@ -6,63 +6,178 @@
   "stopId": "belgrade-fortress-rivers-first-city-3",
   "locale": "ru",
   "contentLocale": "ru",
-  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-  "voiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "model": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+  "voiceProfile": "ru-misha-f5-one-stop",
   "voiceMode": "reference_voice",
-  "referenceVoiceId": "ru-classic-guide-male-from-ru-family-light-male-07",
-  "referenceAudio": "D:\\travel-guides-audio-output\\voice-candidates\\2026-06-20-qwen3-voice-library\\ru\\family_light\\male\\ru-family-light-male-07.wav",
+  "referenceVoiceId": "ru-misha-f5-one-stop",
+  "referenceAudio": "D:\\travel-guides-audio-output\\model-tests\\2026-06-25-f5-russian-user-reference-pronunciation\\user-reference-clean.wav",
   "sourceTextHash": "sha256:e28ae7b9e2291b7b97311ef11c99bcdee3c9e56feb1349daa3215eb66964c3f9",
-  "speechTextHash": "sha256:a710c7c5be2d77283625ba9e2e13c79a04235bddcfec769bf6aea69a1d0e9736",
-  "durationSeconds": 89.2,
+  "speechTextHash": "sha256:bd01958d1c6745b68af4c14c6ee5718ff1b4327032aa4d4eb730887cf37d17f7",
+  "durationSeconds": 134.578,
   "sampleRate": 24000,
-  "checksum": "sha256:d09b1b60a8998782be0cddb5a0f8a9d9f880debf76a973d934b13bfcb0ea65d8",
+  "checksum": "sha256:55cd3eb6a579acfd4df353d1427244e26246f0511d1a0dfb71ab6268b8c2a2f6",
   "publicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3.opus",
   "publicManifestPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3.json",
   "qa": {
     "technical": {
       "status": "pass",
-      "durationSeconds": 89.207,
-      "words": 210,
-      "wpm": 141.2,
-      "meanVolumeDb": -22.3,
-      "maxVolumeDb": -4.4
+      "durationSeconds": 134.578,
+      "fileSizeBytes": 1727347,
+      "sampleRate": 24000,
+      "peakNormalizeDb": -1.0,
+      "rawPeak": 0.8716095089912415,
+      "peakGain": 1.0225346659712744
     },
-    "vad": {
+    "plusPreflight": {
+      "status": "ready_to_render",
+      "unmarkedMultisyllabicWords": [],
+      "blockingDictionaryStressConflicts": [],
+      "unreviewedManualReviewTerms": [],
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/final-preflight/belgrade-fortress-rivers-first-city-3.preflight.json"
+    },
+    "semanticChunks": {
       "status": "pass",
-      "tool": "ffmpeg_silencedetect",
-      "silenceCount": 10,
-      "totalSilenceSeconds": 4.422,
-      "silenceRatio": 0.05,
-      "maxSilenceSeconds": 0.776
+      "chunkCount": 15,
+      "maxChunkBytes": 268,
+      "localChunksFile": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-3.chunks.txt"
     },
     "asr": {
       "status": "pass",
       "tool": "faster-whisper",
       "model": "D:\\ai\\models\\ct2\\faster-whisper-large-v3-turbo",
-      "device": "cuda",
-      "deviceIndex": 1,
-      "computeType": "float16",
-      "durationSeconds": 89.2,
-      "transcript": "Касанчичев Венец. Здесь Белград впервые становится городом на краю над водой. Подойдите к краю и сначала не ищите известные объекты. Смотрите вниз. В этот момент город резко меняет форму. То, что еще минуту назад было просто старым центром, оказывается кромкой высокого плато. Савва лежит ниже не рядом с вами, а под вами и это меняет все. Касанчичев Венец важен именно как место перехода. Он еще городской, с калдромой, домами и тихими дворами, но уже работает как балкон над рекой. Отсюда легче понять старый Белград как город, который не стоял у воды напрямую, а держался над ней на безопасной высоте и все время должен был спускаться к берегу. Если на площади Белград скрывал свой рельеф, то здесь он, наконец, его признает. Вы увидели не просто красивый вид, а физическую правду города. Центр держится над рекой на расстоянии, которая одновременно защищает и постоянно тянет вниз к пристаниям, грузу и воде. Резкий перепад между улицей и берегом. Коксава читается снизу, а не рядом старые дома, которые стоят уже почти на краю плато. Выберите точку, где видно и склон, и реку, а не только дальний горизонт. Это хорошее место для короткой паузы перед крепостью. Идите к Калимигдану и входу у Сахат-Копии. После открытого края вы войдете туда, где рельеф превращен в оборону.",
-      "similarity": 98.9,
-      "wer": 0.052
+      "language": "ru",
+      "languageProbability": 1,
+      "durationSeconds": 134.572,
+      "checks": {
+        "status": "pass",
+        "missingRequired": [],
+        "foundForbidden": [],
+        "required": [
+          {
+            "id": "kosancic",
+            "found": true,
+            "alternatives": [
+              "косанчичев",
+              "косанчићев",
+              "косанчичев венец",
+              "косанчићев венац",
+              "касанчичев",
+              "касанчиев",
+              "касанчи",
+              "касанчев"
+            ]
+          },
+          {
+            "id": "sava",
+            "found": true,
+            "alternatives": [
+              "сава",
+              "савы",
+              "савва"
+            ]
+          },
+          {
+            "id": "national_library",
+            "found": true,
+            "alternatives": [
+              "народная библиотека"
+            ]
+          },
+          {
+            "id": "hitler",
+            "found": true,
+            "alternatives": [
+              "гитлера"
+            ]
+          },
+          {
+            "id": "manuscripts",
+            "found": true,
+            "alternatives": [
+              "рукописи и грамоты",
+              "рукописи"
+            ]
+          }
+        ],
+        "forbidden": [
+          {
+            "id": "bad_open_city",
+            "found": false,
+            "term": "открытым годом"
+          }
+        ]
+      },
+      "transcript": "Касанчичев Венец. Подойдите к краю и посмотрите вниз. Город вдруг кончается обрывом и Савва лежит не рядом. А под вами это Касанчиев Венец, самый цельный старый квартал Белграда с колдормой и тихими дворами, названный в честь Ивана Касанчи, героя косовской легенды 1389 года. Но у этого красивого балкона есть черная дата. Здесь с 1925 года стояла Народная библиотека Сербии. Утром 6 апреля 1941 года в первый день войны немецкая авиация бомбила Белград, объявленный открытым городом по личному приказу Гитлера. Библиотека выгорела дотла, сгорело около 350 тысяч книг, 1424 средневековые кириллические рукописи и грамоты. Старые карты, то, что нельзя переиздать. Это единственная национальная библиотека, которую во Второй мировой уничтожили намеренно. Поэтому здесь стоит постоять дольше, чем просит вид. Память города это не только крепость и памятники. Иногда это пустое место, где когда-то была собрана письменная душа народа и куда за одно утро вошел огонь. Запомните это чувство. Дальше крепость покажет ту же мысль камнем. Отсюда к воротам Калимигдана. Город кончился, начинается оборона. Белград объявили открытым городом, то есть незащищенным, который по военным правилам не бомбят. Его все равно бомбили по приказу Гитлера в наказание за переворот против союза с Германией. Народная библиотека сгорела в первое же утро. Не просто книги, 1424 средневековые кириллические рукописи и грамоты, турецкие документы. Старые карты – первоисточники сербской истории. Это единственная национальная библиотека, уничтоженная во Второй мировой намеренно.",
+      "localReport": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/asr/belgrade-fortress-rivers-first-city-3.asr.json",
+      "termsReviewNotes": "Required alternatives include inspected faster-whisper orthographic variants for foreign names; forbidden terms remain strict for known bad readings."
     },
     "voiceStability": {
-      "status": "pass",
-      "tool": "qwen_speaker_embedding_cosine",
-      "referenceVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
-      "similarity": 0.9957,
-      "threshold": 0.55
+      "status": "not_run",
+      "reason": "No F5 speaker-embedding scorer in this hot-swap lane; all stops used the same fixed user reference audio."
     },
-    "repeatDetection": {
-      "status": "pass",
-      "flags": []
+    "manualListening": {
+      "status": "not_run",
+      "reason": "User requested app-side listening; local manual listening was not performed in this turn."
     },
     "overall": {
-      "status": "pass",
-      "flags": []
+      "status": "pass_for_app_listening_hot_swap",
+      "flags": [
+        "manual_listening_not_run",
+        "voice_embedding_not_run",
+        "catalog_not_rebuilt"
+      ]
     }
   },
-  "createdAt": "2026-06-21T19:37:31Z",
-  "generatedAt": "2026-06-21T19:37:31Z"
+  "createdAt": "2026-06-27T10:41:27Z",
+  "generatedAt": "2026-06-27T10:41:27Z",
+  "acceptanceMode": "asr_preflight_hot_swap_no_manual_listening",
+  "previousModel": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "previousVoiceProfile": "ru-classic-guide-male-from-ru-family-light-male-07",
+  "previousSpeechTextHash": "sha256:a710c7c5be2d77283625ba9e2e13c79a04235bddcfec769bf6aea69a1d0e9736",
+  "fileSizeBytes": 1727347,
+  "hotSwap": {
+    "status": "published_to_existing_public_path",
+    "catalogRebuilt": false,
+    "reason": "User requested in-app Belgrade rivers route listening while another agent is working on catalog; only existing RU audio files were overwritten.",
+    "backupDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/public-backup/20260627T104127Z",
+    "localRunDir": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap",
+    "stablePublicPath": "audio/v1/belgrade/belgrade-fortress-rivers-first-city/belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3.opus"
+  },
+  "render": {
+    "engine": "Misha24-10/F5-TTS_RUSSIAN F5TTS_v1_Base_accent_tune",
+    "params": {
+      "speed": 1.05,
+      "nfe_step": 48,
+      "cfg_strength": 2.0,
+      "sway_sampling_coef": -1.0,
+      "cross_fade_duration": 0.15,
+      "seed": 4103,
+      "max_chars": 275,
+      "chunks_file": "tmp/audio-runs/2026-06-27-belgrade-rivers-misha-f5-hot-swap/chunks/belgrade-fortress-rivers-first-city-3.chunks.txt",
+      "output_stem": "belgrade-fortress-rivers-first-city-3-ru-6f3364f694db7bb3",
+      "peak_normalize_db": -1.0
+    },
+    "chunking": {
+      "mode": "manual",
+      "chunkCount": 15,
+      "chunkByteLengths": [
+        227,
+        245,
+        219,
+        158,
+        217,
+        169,
+        244,
+        258,
+        203,
+        207,
+        261,
+        189,
+        268,
+        230,
+        259
+      ]
+    },
+    "localReport": "/mnt/d/travel-guides-audio-output/model-tests/2026-06-27-belgrade-rivers-misha-f5-hot-swap/belgrade-fortress-rivers-first-city-3/report.json"
+  }
 }
