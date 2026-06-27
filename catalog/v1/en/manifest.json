@@ -257,7 +257,7 @@
       "packPath": "cities/san-francisco/offline-pack.json"
     },
     "santiago-chile": {
-      "packHash": "b26b4839853f",
+      "packHash": "dd5ea00af452",
       "packPath": "cities/santiago-chile/offline-pack.json"
     },
     "seville": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T09:27:26.609Z",
+  "generatedAt": "2026-06-27T09:40:44.251Z",
   "locale": "en",
   "schemaVersion": 1
 }
