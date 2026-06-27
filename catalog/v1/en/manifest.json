@@ -129,7 +129,7 @@
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
-      "packHash": "a7f97701426b",
+      "packHash": "084cb44cf0f2",
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T12:24:50.034Z",
+  "generatedAt": "2026-06-27T12:32:16.481Z",
   "locale": "en",
   "schemaVersion": 1
 }
