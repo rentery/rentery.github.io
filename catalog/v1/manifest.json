@@ -277,7 +277,7 @@
       "packPath": "cities/jaipur/offline-pack.json"
     },
     "jerusalem": {
-      "packHash": "198876ad1115",
+      "packHash": "750496002b9f",
       "packPath": "cities/jerusalem/offline-pack.json"
     },
     "kathmandu": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T12:43:27.371Z",
+  "generatedAt": "2026-06-27T13:34:07.266Z",
   "locale": "ru",
   "schemaVersion": 1
 }
