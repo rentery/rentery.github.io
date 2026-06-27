@@ -397,7 +397,7 @@
       "packPath": "cities/washington-dc/offline-pack.json"
     },
     "wellington": {
-      "packHash": "ffad8d63e7a8",
+      "packHash": "117fc33466ee",
       "packPath": "cities/wellington/offline-pack.json"
     },
     "xian": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T10:39:32.658Z",
+  "generatedAt": "2026-06-27T10:48:43.852Z",
   "locale": "ru",
   "schemaVersion": 1
 }
