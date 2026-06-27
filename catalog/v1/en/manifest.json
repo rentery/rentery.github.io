@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "d67469bde61e",
+      "packHash": "7880cfb829d3",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -153,7 +153,7 @@
       "packPath": "cities/dubrovnik/offline-pack.json"
     },
     "hanoi": {
-      "packHash": "d0fb32ab198d",
+      "packHash": "6718525bfb42",
       "packPath": "cities/hanoi/offline-pack.json"
     },
     "havana": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T06:52:52.298Z",
+  "generatedAt": "2026-06-27T07:07:58.372Z",
   "locale": "en",
   "schemaVersion": 1
 }
