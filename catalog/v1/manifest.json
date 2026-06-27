@@ -361,7 +361,7 @@
       "packPath": "cities/tbilisi/offline-pack.json"
     },
     "tokyo": {
-      "packHash": "4b21fa06e7b6",
+      "packHash": "9e4dbfca4772",
       "packPath": "cities/tokyo/offline-pack.json"
     },
     "tunis": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T10:22:31.765Z",
+  "generatedAt": "2026-06-27T10:32:29.106Z",
   "locale": "ru",
   "schemaVersion": 1
 }
