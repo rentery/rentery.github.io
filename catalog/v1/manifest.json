@@ -245,7 +245,7 @@
       "packPath": "cities/rio-de-janeiro/offline-pack.json"
     },
     "rome": {
-      "packHash": "2d8693da352e",
+      "packHash": "65793969479d",
       "packPath": "cities/rome/offline-pack.json"
     },
     "salzburg": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T09:10:27.354Z",
+  "generatedAt": "2026-06-27T09:20:03.726Z",
   "locale": "ru",
   "schemaVersion": 1
 }
