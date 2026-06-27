@@ -121,7 +121,7 @@
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
-      "packHash": "9ed7937ff739",
+      "packHash": "fac85bc370c3",
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T08:40:03.152Z",
+  "generatedAt": "2026-06-27T08:48:10.289Z",
   "locale": "ru",
   "schemaVersion": 1
 }
