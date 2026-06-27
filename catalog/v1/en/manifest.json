@@ -225,7 +225,7 @@
       "packPath": "cities/porto/offline-pack.json"
     },
     "prague": {
-      "packHash": "faa202df7bab",
+      "packHash": "cf792c5c5604",
       "packPath": "cities/prague/offline-pack.json"
     },
     "quebec-city": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T08:28:57.010Z",
+  "generatedAt": "2026-06-27T08:40:04.037Z",
   "locale": "en",
   "schemaVersion": 1
 }
