@@ -53,7 +53,7 @@
       "packPath": "cities/granada/offline-pack.json"
     },
     "ghent": {
-      "packHash": "bb828d03ff4a",
+      "packHash": "a5054f27dd1a",
       "packPath": "cities/ghent/offline-pack.json"
     },
     "florence": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-27T13:59:49.986Z",
+  "generatedAt": "2026-06-27T14:41:19.358Z",
   "locale": "ru",
   "schemaVersion": 1
 }
