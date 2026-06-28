@@ -81,11 +81,11 @@
       "packPath": "cities/bruges/offline-pack.json"
     },
     "boston": {
-      "packHash": "c64b7cc8ff70",
+      "packHash": "8d70cf3ab9b4",
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
-      "packHash": "1bea6ad89011",
+      "packHash": "0e3f5e21bfc1",
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T07:51:32.271Z",
+  "generatedAt": "2026-06-28T08:14:04.942Z",
   "locale": "ru",
   "schemaVersion": 1
 }
