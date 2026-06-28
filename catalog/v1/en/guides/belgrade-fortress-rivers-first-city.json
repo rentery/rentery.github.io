@@ -2118,7 +2118,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-1",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 1
+      "order": 1,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-1",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Открытая городская площадь; музей и театр работают по отдельным календарям."
+      }
     },
     {
       "entry": "free",
@@ -2171,7 +2177,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-2",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 2
+      "order": 2,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-2",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Пешеходная улица; открыта постоянно, кафе и магазины по своим часам."
+      }
     },
     {
       "entry": "free",
@@ -2248,7 +2260,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-3",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 3
+      "order": 3,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-3",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Открытый квартал и мемориальная точка; смотрите с улицы."
+      }
     },
     {
       "entry": "free",
@@ -2293,7 +2311,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-4",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 4
+      "order": 4,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-4",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Ворота доступны как внешний проход; Часовая башня обычно Вт-Вс 11:00-19:00 летом / 10:00-17:00 зимой."
+      }
     },
     {
       "entry": "free",
@@ -2333,7 +2357,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-5",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 5
+      "order": 5,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-5",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Открытая смотровая точка крепости; доступ может меняться из-за работ, ветра или событий."
+      }
     },
     {
       "entry": "outside",
@@ -2383,7 +2413,13 @@
       },
       "id": "belgrade-fortress-rivers-first-city-6",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 6
+      "order": 6,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-6",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Нижний город открыт как внешний маршрут; Ружица действует по церковному режиму."
+      }
     },
     {
       "entry": "outside",
@@ -2428,7 +2464,14 @@
       },
       "id": "belgrade-fortress-rivers-first-city-7",
       "guideId": "belgrade-fortress-rivers-first-city",
-      "order": 7
+      "order": 7,
+      "photoAssetId": "belgrade-fortress-rivers-first-city-stop-7",
+      "hours": {
+        "rules": [],
+        "checkedAt": "2026-06-28",
+        "summary": "Снаружи доступна как точка маршрута; башня Небойша обычно Ср-Вс 11:00-19:00 летом / 10:00-17:00 зимой."
+      }
     }
-  ]
+  ],
+  "coverAssetId": "belgrade-fortress-rivers-first-city-cover"
 }
