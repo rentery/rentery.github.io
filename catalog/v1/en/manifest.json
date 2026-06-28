@@ -133,15 +133,15 @@
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "55baf5609d8d",
+      "packHash": "e259cbbce633",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
-      "packHash": "780643d03b4a",
+      "packHash": "6e5b54a4614f",
       "packPath": "cities/chiang-mai/offline-pack.json"
     },
     "copenhagen": {
-      "packHash": "ca7ccc4b53ed",
+      "packHash": "ea45c82081d5",
       "packPath": "cities/copenhagen/offline-pack.json"
     },
     "dublin": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T11:09:38.603Z",
+  "generatedAt": "2026-06-28T11:37:28.920Z",
   "locale": "en",
   "schemaVersion": 1
 }
