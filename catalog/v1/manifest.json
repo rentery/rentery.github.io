@@ -1,7 +1,7 @@
 {
   "cities": {
     "beijing": {
-      "packHash": "fb4f4a2a7e1d",
+      "packHash": "44d1d65d2fa8",
       "packPath": "cities/beijing/offline-pack.json"
     },
     "seoul": {
@@ -109,7 +109,7 @@
       "packPath": "cities/bangkok/offline-pack.json"
     },
     "barcelona": {
-      "packHash": "b7c7065f50d4",
+      "packHash": "5e930cab26d8",
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T05:20:51.130Z",
+  "generatedAt": "2026-06-28T05:57:44.315Z",
   "locale": "ru",
   "schemaVersion": 1
 }
