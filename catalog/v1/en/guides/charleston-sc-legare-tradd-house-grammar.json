@@ -1082,9 +1082,9 @@
   "content": {
     "intro": "В Charleston легко увлечься красотой: ставни, жасмин, кованые ворота, ровные фасады. Этот маршрут предлагает другой темп чтения. От Four Corners of Law вы входите в South of Broad и смотрите, как дом становится инструментом климата, статуса, приватности и контроля. Single house, piazza, боковой вход, садовая стена, музейный особняк и узкая аллея показывают не только вкус, но и устройство общества, где богатство, ремесло и принудительный труд были связаны в одну городскую форму.",
     "routeLogic": "Сначала Broad/Meeting и St Michael's задают рамку закона и церкви, затем Legare и Sword Gate объясняют single house, piazza и границу владения. Tradd ведёт к Nathaniel Russell, Heyward-Washington и Stoll's Alley без прежнего лишнего возврата.",
-    "bestFor": "Для тех, кто любит медленно читать городскую ткань и готов видеть за красотой дома климат, собственность, труд и память.",
-    "notFor": "Не подходит как интерьерный музейный марафон: часть точек частные, а музейные дома требуют отдельного времени и актуальной проверки доступа.",
-    "beforeYouGo": "Держите маршрут как внешнюю прогулку. Если хотите попасть внутрь St Michael's, Nathaniel Russell или Heyward-Washington, проверяйте расписание и правила у самих институций.",
+    "bestFor": "Тем, кто любит медленно читать городскую ткань, частные фасады и скрытую логику домов\nТем, кто готов видеть за красотой климат, собственность, труд и память\nТем, кому интереснее South of Broad как грамматика улиц, чем набор интерьерных визитов",
+    "notFor": "Тем, кто хочет музейный марафон с гарантированным входом в каждый дом\nТем, кто не готов уважать частные пороги, ворота и жилые улицы\nТем, кому нужен маршрут без жары, неровных тротуаров и медленного наблюдения",
+    "beforeYouGo": "Держите маршрут как внешнюю прогулку: значительная часть точек — частные дома и жилые улицы.\nЕсли хотите попасть внутрь St. Michael’s, Nathaniel Russell или Heyward-Washington, сверяйте часы и правила у самих институций.\nГоворите тише обычного, не снимайте через ворота и не превращайте пороги в фотозоны.",
     "timing": "Лучше идти утром или ближе к вечеру, когда South of Broad тише и боковые piazza читаются по свету и тени.",
     "fallbackPlan": "Если времени мало, сократите до Four Corners, Legare/Sword Gate и Stoll's Alley: базовая грамматика маршрута сохранится."
   },
@@ -1108,7 +1108,8 @@
             "title": "Почему старт с закона",
             "body": "Four Corners помогает не читать South of Broad как набор открыток. Перед вами город, где архитектура служила не только комфорту и вкусу, но и порядку: кто молится, кто судит, кто управляет, кто владеет, кто остаётся невидимым. Эта рамка нужна перед улицами Legare и Tradd."
           }
-        ]
+        ],
+        "sourceNote": "Four Corners of Law оставлен как наружный civic-узел; текст сверен по устойчивому городскому контексту Broad/Meeting и не требует музейного входа, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1117,7 +1118,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Оживленный городской перекресток; осмотр с тротуара в любое разумное дневное время.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-1",
       "photo": {
@@ -1125,7 +1127,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-1-square.jpg",
-        "alt": "Historic postcard view of Broad and Meeting Streets at Charleston's Four Corners of Law.",
+        "alt": "Исторический вид Four Corners of Law на Broad и Meeting Streets.",
         "attribution": {
           "author": "Curt Teich & Co.",
           "license": "Public domain; cropped/resized for app",
@@ -1151,14 +1153,15 @@
       "content": {
         "context": "St Michael's ставит церковную власть в тот же городской квадрат, где стоят суды и ратуша. Приход был учреждён в 1751 году, а здание строили в 1750-е; сегодня его часто называют старейшим сохранившимся церковным зданием на чарлстонском полуострове. Белая штукатурка, портик и шпиль выглядят почти безмятежно, но эта безмятежность была частью колониального порядка. Для маршрута церковь важна как первая вертикаль: она объясняет, что чарлстонский дом вырос рядом с институтами, которые определяли собственность, статус, наследование и публичную репутацию.",
         "lookFor": "Шпиль, белый портик, положение церкви ровно на углу и контраст между религиозной вертикалью и низкими жилыми улицами дальше.",
-        "practical": "Если церковь доступна для посещения, соблюдайте правила прихода. Для маршрута достаточно внешнего угла и связи с Four Corners.",
+        "practical": "Церковь и churchyard открыты Пн-Чт 09:00-16:00 и закрыты Пт-Сб; возможны закрытия без предупреждения из-за служб, похорон и событий.\nSelf-guided tours доступны, когда церковь открыта; после воскресных служб бывают complimentary tours.\nДля маршрута достаточно наружного угла, если доступ закрыт.",
         "nextMove": "Идите к Legare Street: там официальный язык перекрёстка перейдёт в язык частных домов и боковых piazza.",
         "deepDive": [
           {
             "title": "Шпиль как городской знак",
             "body": "St Michael's легко принять за декоративный фон, но он работает как навигационная и социальная точка. В колониальном городе церковь была неотделима от управления общиной, а её фасад на Broad и Meeting делает религиозный порядок частью той же схемы, что и суды."
           }
-        ]
+        ],
+        "sourceNote": "Часы, self-guided tours и оговорки о закрытиях сверены по St. Michael’s Church, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1167,7 +1170,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Церковь и churchyard Пн-Чт 09:00-16:00; Пт-Сб закрыты; возможны закрытия из-за событий.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-2",
       "photo": {
@@ -1175,7 +1179,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-2-square.jpg",
-        "alt": "St. Michael's Episcopal Church facade and steeple in Charleston.",
+        "alt": "Фасад и шпиль St. Michael’s Episcopal Church в Чарлстоне.",
         "attribution": {
           "author": "Upstateherd",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1208,7 +1212,8 @@
             "title": "Не налоговая легенда",
             "body": "Популярный миф объясняет single house налогом на ширину фасада, но надёжной основы у этой версии нет. Гораздо важнее планировка: один ряд комнат, боковая piazza, ориентация к воздуху и свету, а также плотные участки старого города."
           }
-        ]
+        ],
+        "sourceNote": "Точка проверена как наружная прогулка по Legare Street: private-property etiquette и архитектурная грамматика важнее неподтвержденных деталей отдельных домов, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1217,7 +1222,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Жилая улица с частными домами; наружный осмотр с тротуара.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-4",
       "photo": {
@@ -1225,7 +1231,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-4-square.jpg",
-        "alt": "John Fullerton House at 15 Legare Street, an example of a Charleston single house with piazzas.",
+        "alt": "Дом на Legare Street с боковой piazza и оградой.",
         "attribution": {
           "author": "ProfReader",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1258,7 +1264,8 @@
             "title": "Железо как язык",
             "body": "Чарлстонское железо часто воспринимают как украшение, но у ворот есть более жёсткая функция: они дозируют взгляд и движение. Sword Gate House делает это предельно явно. Мечи романтизируют границу, превращая запрет в красивый знак, и именно поэтому остановка важна для темы маршрута."
           }
-        ]
+        ],
+        "sourceNote": "Sword Gate House оставлен как частная наружная точка; текст описывает видимые ворота и уличную композицию без обещания доступа, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1267,7 +1274,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Частная собственность; наружный осмотр с улицы без входа.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-5",
       "photo": {
@@ -1275,7 +1283,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-5-square.jpg",
-        "alt": "Close view of the Sword Gate House ironwork at 32 Legare Street.",
+        "alt": "Кованые Sword Gates у дома на Legare Street.",
         "attribution": {
           "author": "CharlestonSCwriter",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1308,7 +1316,8 @@
             "title": "Улица как предложение",
             "body": "Название маршрута про «грамматику» особенно хорошо работает на Tradd. Один дом похож на слово, но улица показывает синтаксис: повтор, вариацию, паузу, скрытый сад, ворота, служебный проход. Так становится видно, что стиль не был индивидуальной прихотью, а устойчивым городским языком."
           }
-        ]
+        ],
+        "sourceNote": "Tradd Street сверена как residential streetscape; маршрут сохраняет правило смотреть форму улицы, не отдельные частные интерьеры, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1317,7 +1326,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Жилая улица; наружный осмотр с уважением к частным домам.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-6",
       "photo": {
@@ -1325,7 +1335,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-6-square.jpg",
-        "alt": "129 Tradd Street Charleston single house exterior.",
+        "alt": "Charleston single house на Tradd Street.",
         "attribution": {
           "author": "ProfReader",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1351,14 +1361,15 @@
       "content": {
         "context": "Nathaniel Russell House показывает вершину чарлстонского домашнего спектакля. Внешне это строгий федеральный особняк, но знаменитая тема внутри — свободно летящая трёхэтажная лестница, инженерный и ремесленный жест, который Historic Charleston Foundation подчёркивает как архитектурное чудо. Важно не отделять это чудо от экономики дома. Богатство Russell было связано с торговлей, Атлантикой и системой рабства; за гладкими линиями интерьера стояли мастера, рабочие и порабощённые люди, чьи имена гораздо хуже сохранялись в городском архиве. Эта остановка переводит грамматику фасада в вопрос: кто строил красоту и кто мог ею владеть.",
         "lookFor": "Полуовальный выступ, высокие окна, дистанцию от улицы и контраст между внешней сдержанностью и известной внутренней лестницей.",
-        "practical": "Это музейный дом с меняющимся расписанием и правилами. Даже без входа фасад хорошо завершает тему Legare/Tradd как языка статуса.",
+        "practical": "Nathaniel Russell House открыт Пн 13:00-16:00, Вт-Вс 10:00-16:00; гости могут оставаться до 17:00.\nБилеты доступны отдельно или в combo с Aiken-Rhett House.\nЕсли не заходите внутрь, фасад всё равно завершает тему статуса и дистанции от улицы.",
         "nextMove": "Идите к Heyward-Washington House на Church Street: следующий дом переносит тему частной архитектуры в революционную публичную память.",
         "deepDive": [
           {
             "title": "Красота и бухгалтерия",
             "body": "Дом Рассела нельзя честно читать только как шедевр вкуса. Его архитектурная изысканность была частью мира, где торговые доходы и принудительный труд превращались в интерьеры, сады и социальный престиж. Поэтому здесь важна двойная оптика: восхищение мастерством и отказ забывать его условия."
           }
-        ]
+        ],
+        "sourceNote": "Часы, билеты и ограничения исторического дома сверены по Historic Charleston Foundation, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1367,7 +1378,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Пн 13:00-16:00, Вт-Вс 10:00-16:00; гости могут оставаться до 17:00.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-3",
       "photo": {
@@ -1375,7 +1387,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-3-square.jpg",
-        "alt": "Nathaniel Russell House exterior in Charleston.",
+        "alt": "Nathaniel Russell House в Чарлстоне.",
         "attribution": {
           "author": "Ymblanter",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1401,14 +1413,15 @@
       "content": {
         "context": "Heyward-Washington House выглядит спокойнее, чем его историческая нагрузка. Charleston Museum напоминает: дом построен в 1772 году для Thomas Heyward Jr., одного из подписантов Декларации независимости от Южной Каролины; George Washington останавливался здесь во время визита 1791 года. Но музейная ценность дома не только в больших именах. На участке есть кухня XVIII века и сад, через которые лучше видно, как дом работал как хозяйственная система. После Nathaniel Russell это вторая версия элитного дома: георгианская симметрия, революционный канон и снова вопрос о тех, чьим трудом частная свобода становилась удобной.",
         "lookFor": "Центральную дверь, симметрию окон, глубину участка и подсказки о кухне и саде за главным домом.",
-        "practical": "Проверяйте актуальный доступ у Charleston Museum, если хотите идти внутрь. Снаружи уважайте жилой масштаб Church Street.",
+        "practical": "Heyward-Washington House открыт Пн-Сб 10:00-17:00, Вс 12:00-17:00; последний audio tour в 16:15.\nЭто музей Charleston Museum, поэтому проверяйте билеты и правила у музея.\nСнаружи держите тихий темп на жилой Church Street.",
         "nextMove": "Идите к Stoll's Alley: финал сузит город до прохода, где домовая грамматика становится почти шёпотом.",
         "deepDive": [
           {
             "title": "Дом как музейная рамка",
             "body": "Имя Washington делает дом удобным памятником, но маршруту важна более сложная рамка. Здесь можно увидеть, как музей превращает частный дом в рассказ о революции, мебели, кухне, саде и труде. Это помогает не свести Charleston к великим фамилиям и красивым комнатам."
           }
-        ]
+        ],
+        "sourceNote": "Часы Heyward-Washington House сверены по The Charleston Museum; наружная практика обновлена для жилой улицы, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1417,7 +1430,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Пн-Сб 10:00-17:00, Вс 12:00-17:00; последний audio tour 16:15.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-7",
       "photo": {
@@ -1425,7 +1439,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-7-square.jpg",
-        "alt": "Heyward-Washington House Georgian museum house exterior.",
+        "alt": "Heyward-Washington House с симметричным фасадом и исторической улицей вокруг.",
         "attribution": {
           "author": "ProfReader",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1458,7 +1472,8 @@
             "title": "Финал в промежутке",
             "body": "После больших домов Stoll's Alley возвращает маршруту скромность. Аллеи напоминают, что городская история живёт не только там, где есть табличка и билет, но и в щелях между владениями. Там особенно заметно, как Charleston соединяет красоту, приватность и контроль движения."
           }
-        ]
+        ],
+        "sourceNote": "Stoll’s Alley оставлена как узкая наружная residential lane; app-текст уточнен как этикет прохода, а не как объект посещения, 2026-06-28."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -1467,7 +1482,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Городская точка маршрута; для музеев, храмов и частных домов сверяйте актуальный доступ на официальных сайтах или на месте."
+        "summary": "Узкая жилая аллея; проходите тихо и не задерживайтесь у частных окон и ворот.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "charleston-sc-legare-tradd-house-grammar-stop-8",
       "photo": {
@@ -1475,7 +1491,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-stop-8-square.jpg",
-        "alt": "Brick-lined Stoll's Alley in South of Broad, Charleston.",
+        "alt": "Кирпичная Stoll’s Alley в South of Broad, Charleston.",
         "attribution": {
           "author": "Warren LeMay from Covington, KY, United States",
           "license": "CC0; cropped/resized for app",
@@ -1495,7 +1511,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/charleston-sc/charleston-sc-legare-tradd-house-grammar-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «charleston-sc-legare-tradd-house-grammar»"
+    "alt": "Сгенерированная обложка: South of Broad, боковые piazza, кованые ворота и тихая грамматика домов Чарлстона."
   },
   "coverAssetId": "charleston-sc-legare-tradd-house-grammar-cover"
 }
