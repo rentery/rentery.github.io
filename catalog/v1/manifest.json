@@ -21,7 +21,7 @@
       "packPath": "cities/tivat/offline-pack.json"
     },
     "amsterdam": {
-      "packHash": "11183236d5db",
+      "packHash": "c65f5bdaacc8",
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
@@ -29,11 +29,11 @@
       "packPath": "cities/bologna/offline-pack.json"
     },
     "bordeaux": {
-      "packHash": "1221035066e8",
+      "packHash": "6eb149b9d1e8",
       "packPath": "cities/bordeaux/offline-pack.json"
     },
     "budapest": {
-      "packHash": "ffb927c42719",
+      "packHash": "a70e631f80af",
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T06:27:03.695Z",
+  "generatedAt": "2026-06-28T06:34:48.464Z",
   "locale": "ru",
   "schemaVersion": 1
 }
