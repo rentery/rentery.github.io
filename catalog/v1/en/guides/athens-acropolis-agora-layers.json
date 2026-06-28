@@ -1930,8 +1930,9 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «Акрополь и Агора: Афины как сцена власти»"
+    "alt": "Маршрутная обложка: Акрополь, южный склон, Агора и римские слои Афин."
   },
+  "coverAssetId": "athens-acropolis-agora-layers-cover",
   "basemap": {
     "image": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-basemap.png",
     "center": {
@@ -1946,14 +1947,14 @@
   "content": {
     "intro": "Афины легко превратить в перечень обязательных руин: Парфенон, кариатиды, Агора, башня. Этот маршрут устроен иначе. Он начинается не наверху, а снизу, на южном склоне Акрополя, где город сначала собирал себя голосом, хором и зрительской чашей. Потом вы поднимаетесь на плато, где та же энергия становится мраморной программой Периклова века: храм, миф, культ и реставрационные леса работают как один спор о том, что значит быть вечным.\n\nПосле Акрополя прогулка специально спускается на Ареопаг и в Древнюю агору. Здесь высокий символ приходится проверять землей: гладким судебным камнем, пылью рынка, ремесленным холмом, колоннадой, которую XX век почти заново собрал, чтобы показать прошлое. Финал у Римской агоры не добавляет еще одну эпоху для галочки. Он меняет темп: город, который начинался с голоса и высоты, заканчивает у башни, где власть учится считать ветер, часы и движение людей.",
     "routeLogic": "Маршрут идет последовательно от южного склона Акрополя вверх на священное плато, затем вниз к Ареопагу и через Древнюю агору к Римской агоре. Это не петля ради галочек, а спуск по уровням города: театр -> мраморная программа -> судебный камень -> гражданская площадь -> ремесленный холм -> музейная реконструкция -> римский рынок и время.",
-    "bestFor": "первого знакомства с Афинами через рельеф, власть, театр, рынок и ремесло",
-    "notFor": "тем, кому нужен быстрый чеклист без остановок",
-    "beforeYouGo": "Бронируйте ранний слот на Акрополь и начинайте с южного входа: так маршрут не ломает драматургию подъема. Для Древней и Римской агоры проверяйте отдельные билеты, последние входы и операционные ограничения у официального ticketing-оператора в день прогулки.\nКамень на Акрополе и Ареопаге отполирован ногами и может быть скользким даже в сухую погоду. На маршруте есть ступени, уклоны, древние покрытия и открытые участки без тени.\nСолнца много, отражение от мрамора сильное. Вода, головной убор и паузы важнее, чем попытка пройти все «на бегу».\nЭто не fully step-free маршрут: если нужна мягкая доступность, его стоит адаптировать отдельно.",
+    "bestFor": "Для первого знакомства с Афинами через рельеф, власть, театр, рынок и ремесло.",
+    "notFor": "Не лучший выбор для тех, кому нужен быстрый чеклист без остановок или полностью безбарьерный маршрут.",
+    "beforeYouGo": "Бронируйте ранний слот на Акрополь и начинайте с южного входа: так маршрут не ломает драматургию подъема. Для Древней и Римской агоры проверяйте отдельные билеты, последние входы и операционные ограничения у официального билетного оператора в день прогулки. Камень на Акрополе и Ареопаге отполирован ногами и может быть скользким даже в сухую погоду. На маршруте есть ступени, уклоны, древние покрытия и открытые участки без тени. Вода, головной убор и паузы важнее, чем попытка пройти все на бегу. Это не полностью безбарьерный маршрут: если нужна мягкая доступность, его стоит адаптировать отдельно.",
     "timing": "Лучше идти в первой половине дня или ближе к вечеру."
   },
   "stopList": [
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Южный склон и театр Диониса",
       "nameLocal": "Νότια Κλιτύς Ακρόπολης / Θέατρο Διονύσου",
       "note": "Город сперва проигрывает себя на сцене.",
@@ -1969,18 +1970,25 @@
             "title": "Сначала город становится публикой",
             "body": "У театра есть почти незаметная политическая сила: он собирает людей в одно тело до того, как они примут решение или построят храм. Афины здесь еще не командуют высотой. Они пробуют общий взгляд, общий смех и общий страх. Дальше маршрут покажет, как эта коллективная энергия поднимается на скалу и превращается в архитектуру."
           }
-        ]
+        ],
+        "sourceNote": "Проверено по ODAP/hhticket для Acropolis and Slopes; контекст южного склона и театра сверяется по музейно-наследственным источникам маршрута."
       },
       "coordinates": {
         "latitude": 37.97034,
         "longitude": 23.72778
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Acropolis and Slopes; бронируйте timed slot и проверяйте последний вход на hhticket/ODAP в день визита.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-1",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-1",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-1-square.jpg",
-        "alt": "Athen Akropolis (18512008726).jpg",
+        "alt": "Вид на южный склон Акрополя и театр Диониса под скалой",
         "attribution": {
           "author": "dronepicr",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -1998,7 +2006,7 @@
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Парфенон",
       "nameLocal": "Παρθενώνας",
       "note": "Казна, храм и политический жест в одном объёме.",
@@ -2014,18 +2022,25 @@
             "title": "Вечность, которую ремонтируют",
             "body": "Хороший момент на Парфеноне наступает не тогда, когда вы нашли лучший ракурс, а когда заметили строительные следы. Они не портят античность, а объясняют ее: памятник, переживший войны, взрывы, пожары и переделки, существует потому, что каждое поколение заново решает, как именно его сохранять."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket; контекст ансамбля и реставраций - по UNESCO, YSMA и Acropolis Museum."
       },
       "coordinates": {
         "latitude": 37.9715,
         "longitude": 23.7266
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Acropolis and Slopes; timed slot и последний вход проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-2",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-2",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-2-square.jpg",
-        "alt": "The Parthenon in Athens.jpg",
+        "alt": "Парфенон на плато Акрополя в Афинах",
         "attribution": {
           "author": "Steve Swayne",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -2044,7 +2059,7 @@
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Эрехтейон",
       "nameLocal": "Ερέχθειο",
       "note": "Здесь миф нужен не для украшения, а для права на город.",
@@ -2060,18 +2075,25 @@
             "title": "Асимметрия как документ",
             "body": "Не пытайтесь мысленно выпрямить Эрехтейон. Его перекос и сложность не ошибка, а документ: новая классическая архитектура не стерла более старые святыни, а встроила их в себя. После Парфенона это почти политическая поправка к маршруту: красивый порядок всегда стоит поверх того, что было раньше."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket; мифологический и архитектурный контекст - по UNESCO, YSMA и Acropolis Museum."
       },
       "coordinates": {
         "latitude": 37.9721,
         "longitude": 23.7265
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Acropolis and Slopes; движение на плато и последний вход проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-3",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-3",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-3-square.jpg",
-        "alt": "Erechtheum Acropolis Athens.jpg",
+        "alt": "Эрехтейон и портик кариатид на Акрополе",
         "attribution": {
           "author": "Jebulon",
           "license": "CC0 1.0; cropped/resized for app",
@@ -2106,18 +2128,25 @@
             "title": "Суд без декораций",
             "body": "У Ареопага сильная антиэкскурсионная природа: тут как будто почти нечего показывать. Но именно пустота делает его нужным. После храмов и фронтонов вы попадаете в место, где город не убеждает красотой, а оставляет человека на камне перед видом вниз."
           }
-        ]
+        ],
+        "sourceNote": "Практика внешнего осмотра и осторожность на скользкой скале сверены по стабильным visitor notes; исторический контекст связан с Acropolis/Agora sources."
       },
       "coordinates": {
         "latitude": 37.97222,
         "longitude": 23.72361
       },
+      "hours": {
+        "rules": [],
+        "summary": "Открытая скала вне билетной линии; проходите в светлое время и избегайте подъема после дождя.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-4",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-4",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-4-square.jpg",
-        "alt": "Areopagus hill.jpg",
+        "alt": "Скала Ареопага рядом с Акрополем",
         "attribution": {
           "author": "O.Mustafin",
           "license": "CC0 1.0; cropped/resized for app",
@@ -2135,7 +2164,7 @@
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Сердце Древней агоры",
       "nameLocal": "Αρχαία Αγορά Αθηνών",
       "note": "Демократия пахла рынком, пылью и речью.",
@@ -2151,18 +2180,25 @@
             "title": "Пустота как устройство города",
             "body": "Самая важная часть агоры может показаться пустой. Но в таком месте пустота не провал, а инфраструктура: людям нужно было где сходиться, спорить, ждать, продавать, слышать новости и расходиться. Если Акрополь говорит от имени города, Агора показывает, как город каждый день заново производит себя."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket для Ancient Agora; исторический контекст и раскопки - по ASCSA."
       },
       "coordinates": {
         "latitude": 37.975,
         "longitude": 23.7225
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Ancient Agora and Museum of Ancient Agora; часы и последний вход проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-5",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-5",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-5-square.jpg",
-        "alt": "AncientAgoraofAthensColour.jpg",
+        "alt": "Древняя агора Афин с видом на Акрополь",
         "attribution": {
           "author": "dennis and aimee jonez",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
@@ -2180,7 +2216,7 @@
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Храм Гефеста",
       "nameLocal": "Ναός Ηφαίστου",
       "note": "Над ремеслом тоже поднимают фронтон.",
@@ -2196,18 +2232,25 @@
             "title": "Политика начинается с материала",
             "body": "У этой точки хороший земной смысл: прежде чем возникнет мраморный идеал, кто-то должен резать камень, плавить металл, считать пропорции и держать инструмент. Храм Гефеста возвращает в маршрут людей, которых обычно не видно на открытках Акрополя."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket для Ancient Agora; храмовый и ремесленный контекст - по ASCSA."
       },
       "coordinates": {
         "latitude": 37.97562,
         "longitude": 23.72139
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Ancient Agora; часы и последний вход проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-6",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-6",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-6-square.jpg",
-        "alt": "Temple of Hephaestus (South), Athens - 20070711.jpg",
+        "alt": "Храм Гефеста на западном краю Древней агоры",
         "attribution": {
           "author": "Barcex",
           "license": "CC BY-SA 2.5; cropped/resized for app; ShareAlike applies",
@@ -2220,11 +2263,12 @@
       "order": 6,
       "sourceIds": [
         "src_ascsa_agora_excavations",
+        "src_hhticket_official",
         "src_openstreetmap"
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Стоя Аттала",
       "nameLocal": "Στοά του Αττάλου",
       "note": "Память власти можно почти заново собрать под колоннадой.",
@@ -2240,18 +2284,25 @@
             "title": "Реконструкция без стыда",
             "body": "Стоя полезна именно потому, что не прячет свою современность. Она показывает археологию не как романтическую груду камней, а как дисциплину выбора: что восстановить, чем дополнить, как объяснить. После нее руины вокруг становятся не беднее, а понятнее."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket для Ancient Agora; история реконструкции Стои Аттала - по ASCSA."
       },
       "coordinates": {
         "latitude": 37.97556,
         "longitude": 23.7237
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Ancient Agora and Museum of Ancient Agora; часы и последний вход проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-7",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-7",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-7-square.jpg",
-        "alt": "Attica 06-13 Athens 22 View from Acropolis Hill - Museum of Ancient Agora.jpg",
+        "alt": "Стоя Аттала и музей Древней агоры, вид сверху",
         "attribution": {
           "author": "A.Savin",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -2264,11 +2315,12 @@
       "order": 7,
       "sourceIds": [
         "src_ascsa_agora_excavations",
+        "src_hhticket_official",
         "src_openstreetmap"
       ]
     },
     {
-      "entry": "снаружи",
+      "entry": "по билету",
       "name": "Римская агора и Башня ветров",
       "nameLocal": "Ρωμαϊκή Αγορά / Ωρολόγιο του Κυρρήστου",
       "note": "Империя меняет не только пространство, но и время.",
@@ -2284,18 +2336,25 @@
             "title": "Когда город начинает считать",
             "body": "Башня ветров хороша тем, что не разделяет красоту и пользу. Она выглядит как памятник, но мыслит как прибор. После всего маршрута это почти сухая афинская шутка: город, который столько говорил о богах и славе, заканчивает прогулку устройством для погоды, воды и часов."
           }
-        ]
+        ],
+        "sourceNote": "Практика посещения сверена по ODAP/hhticket для Roman Agora; контекст Башни ветров - по EIE/heritage source маршрута."
       },
       "coordinates": {
         "latitude": 37.97426,
         "longitude": 23.72707
       },
+      "hours": {
+        "rules": [],
+        "summary": "Следует сезонному режиму Roman Agora; часы, последний вход и доступ к Tower of the Winds проверяйте на hhticket/ODAP.",
+        "checkedAt": "2026-06-28"
+      },
+      "photoAssetId": "athens-acropolis-agora-layers-stop-8",
       "photo": {
         "id": "athens-acropolis-agora-layers-stop-8",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/athens/athens-acropolis-agora-layers-stop-8-square.jpg",
-        "alt": "The Clocktower of Andronicus Cyrrhestes in Athens on May 6, 2021.jpg",
+        "alt": "Башня ветров в Римской агоре Афин",
         "attribution": {
           "author": "George E. Koronaios",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",

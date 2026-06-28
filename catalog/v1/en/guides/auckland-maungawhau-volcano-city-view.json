@@ -1875,9 +1875,9 @@
   "content": {
     "intro": "Maungawhau / Mount Eden часто продают как быстрый обзорный холм, но сильнее всего он работает как место, где город стоит на живой геологии и на памяти pā. Эта прогулка начинает в Mt Eden Village, затем поднимается через Puhi Huia Road к Te Ipu Kōrero и ведет по boardwalk вокруг кратера. Важно держаться троп: Tūpuna Maunga Authority прямо объясняет, что настил защищает последние следы tūāpapa, rua и чувствительный tihi.",
     "routeLogic": "Маршрут идет от Mt Eden Village и Methodist Church к Puhi Huia Road, затем через Te Ipu Kōrero поднимается к кратеру Te Kapua kai a Mataoho, boardwalk/ātea, западному гребню и северному виду на Waitematā Harbour и сеть tūpuna maunga.",
-    "bestFor": "вулканической геологии, pā-террас, уважительной boardwalk-прогулки и обзорных видов на Окленд",
-    "notFor": "тех, кому нужен полностью плоский маршрут без подъема, ступеней, ветра и возможных временных дорожных ограничений",
-    "beforeYouGo": "Главные ворота Maungawhau открыты 07:00-20:30 летом и 07:00-19:00 зимой; сезон привязан к daylight savings. Summit/tihi закрыт для частных автомобилей с 2016 года, так что подъем пеший. Te Ipu Kōrero заявлен как бесплатный и открытый по выходным. В 2026 году на юго-западном склоне идут/планировались Batger Quarry stabilisation works: Puhi Huia Road и нижний walking track могут временно сужаться или закрываться, следуйте указателям.",
+    "bestFor": "Для вулканической геологии, pā-террас, прогулки по бордволку и обзорных видов на Окленд.",
+    "notFor": "Не лучший выбор для тех, кому нужен полностью плоский маршрут без подъема, ступеней, ветра и временных ограничений дорожек.",
+    "beforeYouGo": "Главные ворота Maungawhau открыты 07:00-20:30 летом и 07:00-19:00 зимой; сезон привязан к переходу на летнее время. Tihi закрыт для частных автомобилей с 2016 года, так что подъем пеший. Te Ipu Kōrero заявлен как бесплатный и открытый по выходным. В 2026 году на юго-западном склоне идут или планировались работы Batger Quarry: Puhi Huia Road и нижняя тропа могут временно сужаться или закрываться, следуйте указателям на месте.",
     "timing": "Лучше идти утром или ближе к закату, но оставляйте запас до закрытия ворот и не задерживайтесь на tihi после сумерек."
   },
   "stopList": [
@@ -1897,8 +1897,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Деревня Маунт‑Иден и исторический центр».",
       "content": {
         "context": "Начните в Mt Eden Village, у угла Mount Eden Road и Ngauruhoe Street. Местная история связывает ядро торговой деревни с магазином Alfred Cucksey 1873 года: к концу 1870-х рядом уже были школа и церковь, а tram service начала XX века помогла расширить retail cluster. Сегодня эта остановка нужна не как “милый пригород”, а как контраст к maunga: внизу — дорожная, торговая и церковная инфраструктура колониального поселения, наверху — более древняя pā-логика террас и кратера. Methodist Church / Village Centre рядом построили в 1900 году по проекту Arthur Herbert White, и она до сих пор работает как community venue.",
-        "lookFor": "Timber-gothic силуэт Methodist Church\nЛинию Mount Eden Road как раннюю связь с городом\nКак магазины и кафе стоят прямо у подножья maunga",
-        "practical": "Это exterior-first остановка на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
+        "lookFor": "Timber-gothic силуэт Methodist Church; Линию Mount Eden Road как раннюю связь с городом; Как магазины и кафе стоят прямо у подножья maunga",
+        "practical": "Это остановка для внешнего осмотра на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
         "nextMove": "От деревни идите по Mount Eden Road к Puhi Huia Road и поднимайтесь к парковкам/воротам Maungawhau.",
         "deepDive": [
           {
@@ -1906,13 +1906,14 @@
             "body": "Mt Eden Village помогает не романтизировать вулкан как отдельную природную открытку. Maungawhau всегда был связан с поселением: сначала как pā и food-storage landscape, потом как ориентир для suburb, дороги, трамвая, церкви и магазинов."
           }
         ],
-        "sourceNote": "Проверено по Mt Eden Village history, Mt Eden Village Centre About and Mt Eden Village churches pages: village nucleus grew from Alfred Cucksey's 1873 store; late-1870s school/church and 1908/1920s tram service shaped the retail cluster; Methodist Church was built in 1900 to Arthur Herbert White's design and now operates as the community Village Centre."
+        "sourceNote": "Проверено по Mt Eden Village history, Village Centre и churches: торговое ядро связывают с магазином Alfred Cucksey 1873 года, церковью/школой конца 1870-х, трамваем начала XX века и Methodist Church 1900 года."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.88247,
         "longitude": 174.76152
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-1",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-1",
         "kind": "photo",
@@ -1929,7 +1930,7 @@
       "hours": {
         "rules": [],
         "summary": "Открытая улица; часы Village Centre, церкви, кафе и магазинов различаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -1946,8 +1947,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Парковка Puhi Huia: путь к маунгау».",
       "content": {
         "context": "Puhi Huia Road — место, где прогулка меняет режим. Tūpuna Maunga Authority перечисляет здесь visitor car parks, public toilets и главные gate hours, но важнее другое: с января 2016 года summit road и tihi закрыты для частных автомобилей, мотоциклов и скутеров. Maungawhau стал первым maunga, возвращенным пешеходному пространству под Authority. Поэтому старт подъема не просто логистика; это видимое решение о том, что культурно и археологически важный tihi не должен работать как автомобильная смотровая площадка.",
-        "lookFor": "Ворота и signage на Puhi Huia Road\nПарковки у roundabout и старого Tea Kiosk\nПереход от улицы к pedestrian maunga",
-        "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Dogs under control on leash; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижнего walking track из-за Batger Quarry works.",
+        "lookFor": "Ворота и signage на Puhi Huia Road; Парковки у roundabout и старого Tea Kiosk; Переход от улицы к pedestrian maunga",
+        "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Собак держите на поводке и под контролем; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижней тропы из-за работ Batger Quarry.",
         "nextMove": "Пройдите через ворота и поднимайтесь по дороге к старому kiosk / Te Ipu Kōrero; следуйте текущим указателям, если работы меняют обычный путь.",
         "deepDive": [
           {
@@ -1955,13 +1956,14 @@
             "body": "У Puhi Huia Road становится понятно, что сохранение maunga — это не абстрактное уважение. Оно выражено в воротах, запрете частных машин на summit road, просьбе держать собак на поводке и необходимости идти по обозначенной поверхности."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page: main entrance gate hours summer 07:00-20:30 and winter 07:00-19:00; summit road/tihi permanently closed to private vehicles in January 2016; toilets and visitor car parks listed around Puhi Huia Road; dogs under control on leash; Batger Quarry stabilisation works in 2026 may narrow Puhi Huia Road and temporarily close the lower walking track."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority: главные ворота Maungawhau имеют сезонные часы; summit road/tihi закрыты для частных машин с 2016 года; у Puhi Huia Road есть парковки/туалеты, собаки только на поводке, а работы Batger Quarry могут менять проход."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8785,
         "longitude": 174.7642
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-2",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-2",
         "kind": "photo",
@@ -1978,7 +1980,7 @@
       "hours": {
         "rules": [],
         "summary": "Главные ворота Maungawhau: лето 07:00-20:30, зима 07:00-19:00; follow onsite signs during works.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -1996,8 +1998,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Центр посетителей Te Ipu Kōrero o Maungawhau».",
       "content": {
         "context": "Te Ipu Kōrero o Maungawhau помогает не свести подъём к “виду на Sky Tower”. AucklandNZ описывает здесь panels, short film и augmented-reality model: visitor experience показывает eruption 28,000 years ago, Maungawhau pā around 1200AD, whare, rua and mara kai on terraced slopes. Tūpuna Maunga Authority добавляет, что education centre находится в kiosk, а Friend & Whau café делит с ним mid-point на Maunga. Если центр закрыт, остановка всё равно важна как место, где официальный маршрут прямо говорит: геология и mana whenua narrative здесь неразделимы.",
-        "lookFor": "Старый kiosk и вход в Te Ipu Kōrero\nСвязку education centre и café на середине подъема\nПереход от road approach к boardwalk/tihi",
-        "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку exterior/logistics stop и проверяйте текущие объявления перед визитом.",
+        "lookFor": "Старый kiosk и вход в Te Ipu Kōrero; Связку education centre и café на середине подъема; Переход от road approach к boardwalk/tihi",
+        "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку внешней/логистической остановкой и проверяйте текущие объявления перед визитом.",
         "nextMove": "После kiosk поднимайтесь выше к boardwalk и держитесь обозначенного маршрута вокруг кратера.",
         "deepDive": [
           {
@@ -2005,13 +2007,14 @@
             "body": "Главная роль Te Ipu Kōrero — сменить язык восприятия. До него можно думать о maunga как о парке и подъёме; после него boardwalk читается как защита pā-следов, а кратер — как геологический и культурный центр истории."
           }
         ],
-        "sourceNote": "Проверено по AucklandNZ Te Ipu Kōrero and Tūpuna Maunga Authority Maungawhau pages: centre has information panels, short film and interactive augmented-reality model of the eruption and pā life; AucklandNZ says it is open weekends and free; TMA places Te Ipu Kōrero and Friend & Whau café in the kiosk."
+        "sourceNote": "Проверено по AucklandNZ и Tūpuna Maunga Authority: Te Ipu Kōrero размещен в старом kiosk, рассказывает о вулкане и pā-ландшафте, заявлен как бесплатный и открытый по выходным."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8788,
         "longitude": 174.7648
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-3",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-3",
         "kind": "photo",
@@ -2028,7 +2031,7 @@
       "hours": {
         "rules": [],
         "summary": "Te Ipu Kōrero: бесплатно, открыто по выходным; проверьте текущие объявления, если центр обязателен для вашего маршрута.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -2046,7 +2049,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Кратер Te Kapua kai a Mataoho».",
       "content": {
         "context": "У края кратера источник лучше любой метафоры: Tūpuna Maunga Authority описывает Maungawhau как elongated scoria cone из двух перекрывающихся конусов, извергшихся около 28,000 лет назад. Южный конус — самый молодой и высокий, с кратером около 180 метров в диаметре и 50 метров глубиной. Его имя Te Kapua kai a Mataoho переводится как “food bowl of Mataoho”, deity responsible for volcanic activity. Не спускайтесь внутрь и не уходите с настила: склоны вокруг кратера — не пустая трава, а wāhi tapu и археологический ландшафт pā.",
-        "lookFor": "Глубину и почти правильную чашу кратера\nТеррасы и pits вокруг rim track\nКак boardwalk удерживает вас над чувствительной поверхностью",
+        "lookFor": "Глубину и почти правильную чашу кратера; Террасы и pits вокруг rim track; Как boardwalk удерживает вас над чувствительной поверхностью",
         "practical": "Держитесь boardwalk и обозначенных троп; не срезайте по склонам и не заходите в кратер. На tihi бывает сильный ветер, а после дождя настил и подходы могут быть скользкими.",
         "nextMove": "Двигайтесь по boardwalk к ātea и новым viewing platforms на гребне.",
         "deepDive": [
@@ -2055,13 +2058,14 @@
             "body": "Самое сильное место Maungawhau — то, куда вы не должны идти. Кратер виден почти полностью, но boardwalk задаёт дистанцию: смотреть можно, повреждать поверхность нельзя. Это делает уважение частью маршрута, а не подписью на табличке."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records 196m summit, about 28,000-year eruption, two overlapping scoria cones, southern crater about 180m wide and 50m deep, Te Kapua kai a Mataoho meaning, pā terraces/pits and boardwalk protection; AucklandNZ describes the summit crater as wāhi tapu and tells visitors to stick to paths."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: кратер Te Kapua kai a Mataoho и tihi требуют движения по обозначенным дорожкам/бордволку; режим зависит от расписания ворот и временных закрытий."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.877903,
         "longitude": 174.763983
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-4",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-4",
         "kind": "photo",
@@ -2078,7 +2082,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; держитесь boardwalk/paths и проверяйте временные closures.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -2096,7 +2100,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Бордволк и ātea на гребне».",
       "content": {
         "context": "Boardwalk здесь — не декоративная дорожка для фотографий. Authority пишет, что до него rutting around the crater rim contributed to erosion of sensitive features, а новая система должна улучшить visitor experience и защитить Maunga. Extension июня 2023 года добавил ātea, platforms и seating, открыл views from the harbours to the network of Tūpuna Maunga и включил native planting для kahukōwhai и mokomoko. Камень в части design вернули с Mount Eden prison после demolition, с blessing mana whenua. Поэтому сидеть здесь на скамейке — значит находиться внутри очень продуманного компромисса между доступом и защитой.",
-        "lookFor": "Широкую ātea и новые seating/viewing points\nNative planting вокруг boardwalk\nКак настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
+        "lookFor": "Широкую ātea и новые seating/viewing points; Native planting вокруг boardwalk; Как настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
         "practical": "Не сходите с boardwalk ради фотографии. Ветер на ātea может быть резким; придерживайте шляпы, телефоны и детские вещи.",
         "nextMove": "От ātea продолжайте к западной стороне кратера, где лучше читать направление lava flows и форму пригородов вокруг maunga.",
         "deepDive": [
@@ -2105,13 +2109,14 @@
             "body": "Этот boardwalk хорош тем, что не пытается стать главной достопримечательностью. Он поднимает человека над землей, делает route legible и одновременно говорит: самое важное здесь — maunga, а не настил."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and 2023 boardwalk extension announcement: August 2020 boardwalk joined by June 2023 tihi/crater/rim extension with ātea, platforms, seating, native planting for kahukōwhai and mokomoko, stone returned from demolished Mount Eden prison, and explicit purpose of protecting pā remnants, tūāpapa and rua."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority: tihi и ātea доступны пешком, но чувствительные археологические склоны защищены; держитесь настилов и не сходите на закрытые участки."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.877719,
         "longitude": 174.765228
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-5",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-5",
         "kind": "photo",
@@ -2128,7 +2133,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; используйте только boardwalk и открытые viewing points.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -2146,7 +2151,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Западный вид: лавовые реки и Waitākere Ranges».",
       "content": {
         "context": "На западной стороне попробуйте увидеть не только skyline, но и разлитую форму вулкана. Tūpuna Maunga Authority описывает lava flows Maungawhau во все стороны: northeast к Khyber Pass Road и Newmarket, southwest к Balmoral Road, west around Gribblehirst Park in Morningside. Эти названия сегодня звучат как адреса и дороги, но на гребне они снова становятся следами потока. Science Learning Hub также описывает Mt Eden как scoria cone из двух перекрывающихся cones, связанных с Auckland Volcanic Field. Поэтому западный вид нужен маршруту как map-in-the-body: вы стоите на source, а город лежит на последствиях.",
-        "lookFor": "Западный уклон от crater rim\nНаправление к Balmoral, Morningside и Gribblehirst Park\nКак дороги и suburbs повторяют более старую вулканическую форму",
+        "lookFor": "Западный уклон от crater rim; Направление к Balmoral, Morningside и Gribblehirst Park; Как дороги и suburbs повторяют более старую вулканическую форму",
         "practical": "Это windy exterior viewpoint. Держитесь открытого boardwalk/viewing area и не заходите на травяные склоны, даже если вид кажется лучше на шаг в сторону.",
         "nextMove": "Продолжайте круг по boardwalk к северной стороне: дальше вулканическая карта складывается с видом на гавани и другие maunga.",
         "deepDive": [
@@ -2155,13 +2160,14 @@
             "body": "С западного гребня Maungawhau перестает быть отдельным конусом. Его lava flows становятся дорожной и пригородной логикой: то, что выглядит обычным urban fabric, выросло поверх более старой формы земли."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page and Science Learning Hub Auckland Volcanic Field map: TMA records Maungawhau lava flows northeast to Khyber Pass/Newmarket, southwest to Balmoral Road and west around Gribblehirst Park in Morningside; Science Learning Hub identifies Mt Eden as a scoria cone with two overlapping cones around 28,000 years ago."
+        "sourceNote": "Проверено по AucklandNZ, Tūpuna Maunga Authority и геологическим источникам Auckland: западные виды помогают читать лавовые потоки и связь Maungawhau с соседними вулканическими формами."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.878,
         "longitude": 174.762
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-6",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-6",
         "kind": "photo",
@@ -2178,7 +2184,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; exposed viewpoint, stay on boardwalk/open paths.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -2196,7 +2202,7 @@
       "walk": "-",
       "content": {
         "context": "Северный вид завершает маршрут не postcard-панорамой, а network view. Authority пишет, что с summit открываются виды на city, harbours and network of other maunga; 2023 ātea специально framed views from the harbours to the network of Tūpuna Maunga across Tāmaki Makaurau. Поэтому смотрите не только на центр и Waitematā, но и на другие конусы в городе. Maungawhau был enormous pā, но он никогда не существовал в одиночку: settlement, movement, food storage, defense and whakapapa связывали maunga между собой. Финал хорош именно этим: вы стоите на одном maunga и видите город как поле связанных вершин.",
-        "lookFor": "Waitematā Harbour и city centre\nRangitoto и другие видимые maunga на горизонте\nКак boardwalk направляет взгляд, не требуя сходить с tihi",
+        "lookFor": "Waitematā Harbour и city centre; Rangitoto и другие видимые maunga на горизонте; Как boardwalk направляет взгляд, не требуя сходить с tihi",
         "practical": "На северных viewing points бывает тесно. Уступайте место, не задерживайте проход ради фото и начинайте спуск с запасом до закрытия ворот.",
         "nextMove": "Спускайтесь по обозначенному route обратно к Puhi Huia Road. Если продолжаете в village, держитесь открытых дорожек и текущих signage.",
         "deepDive": [
@@ -2205,13 +2211,14 @@
             "body": "Панорама важна не количеством landmarks, а тем, что она меняет масштаб. Maungawhau превращается из одиночной вершины в часть сети tūpuna maunga, гавани и городской ткани. Так финал возвращает взгляд от selfie view к общей карте Tāmaki Makaurau."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records spectacular views over city, harbours and network of other maunga; 2023 boardwalk/ātea designed for views from harbours to Tūpuna Maunga network; AucklandNZ frames the summit as panoramic city/harbour/coastline viewpoint and asks visitors to respect paths/wāhi tapu."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: северные виды показывают город, гавань и цепочку maunga; посещение зависит от расписания ворот, погоды и указателей на месте."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8764,
         "longitude": 174.7648
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-7",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-7",
         "kind": "photo",
@@ -2228,7 +2235,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; начинайте спуск с запасом до закрытия ворот.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     }
   ],
@@ -2237,7 +2244,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «auckland-maungawhau-volcano-city-view»"
+    "alt": "Маршрутная обложка: Maungawhau, кратер, бордволк и городские виды Окленда."
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-basemap.png",

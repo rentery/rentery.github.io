@@ -3276,9 +3276,9 @@
       "content": {
         "intro": "Maungawhau / Mount Eden часто продают как быстрый обзорный холм, но сильнее всего он работает как место, где город стоит на живой геологии и на памяти pā. Эта прогулка начинает в Mt Eden Village, затем поднимается через Puhi Huia Road к Te Ipu Kōrero и ведет по boardwalk вокруг кратера. Важно держаться троп: Tūpuna Maunga Authority прямо объясняет, что настил защищает последние следы tūāpapa, rua и чувствительный tihi.",
         "routeLogic": "Маршрут идет от Mt Eden Village и Methodist Church к Puhi Huia Road, затем через Te Ipu Kōrero поднимается к кратеру Te Kapua kai a Mataoho, boardwalk/ātea, западному гребню и северному виду на Waitematā Harbour и сеть tūpuna maunga.",
-        "bestFor": "вулканической геологии, pā-террас, уважительной boardwalk-прогулки и обзорных видов на Окленд",
-        "notFor": "тех, кому нужен полностью плоский маршрут без подъема, ступеней, ветра и возможных временных дорожных ограничений",
-        "beforeYouGo": "Главные ворота Maungawhau открыты 07:00-20:30 летом и 07:00-19:00 зимой; сезон привязан к daylight savings. Summit/tihi закрыт для частных автомобилей с 2016 года, так что подъем пеший. Te Ipu Kōrero заявлен как бесплатный и открытый по выходным. В 2026 году на юго-западном склоне идут/планировались Batger Quarry stabilisation works: Puhi Huia Road и нижний walking track могут временно сужаться или закрываться, следуйте указателям.",
+        "bestFor": "Для вулканической геологии, pā-террас, прогулки по бордволку и обзорных видов на Окленд.",
+        "notFor": "Не лучший выбор для тех, кому нужен полностью плоский маршрут без подъема, ступеней, ветра и временных ограничений дорожек.",
+        "beforeYouGo": "Главные ворота Maungawhau открыты 07:00-20:30 летом и 07:00-19:00 зимой; сезон привязан к переходу на летнее время. Tihi закрыт для частных автомобилей с 2016 года, так что подъем пеший. Te Ipu Kōrero заявлен как бесплатный и открытый по выходным. В 2026 году на юго-западном склоне идут или планировались работы Batger Quarry: Puhi Huia Road и нижняя тропа могут временно сужаться или закрываться, следуйте указателям на месте.",
         "timing": "Лучше идти утром или ближе к закату, но оставляйте запас до закрытия ворот и не задерживайтесь на tihi после сумерек."
       },
       "stopList": [
@@ -3298,8 +3298,8 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Деревня Маунт‑Иден и исторический центр».",
           "content": {
             "context": "Начните в Mt Eden Village, у угла Mount Eden Road и Ngauruhoe Street. Местная история связывает ядро торговой деревни с магазином Alfred Cucksey 1873 года: к концу 1870-х рядом уже были школа и церковь, а tram service начала XX века помогла расширить retail cluster. Сегодня эта остановка нужна не как “милый пригород”, а как контраст к maunga: внизу — дорожная, торговая и церковная инфраструктура колониального поселения, наверху — более древняя pā-логика террас и кратера. Methodist Church / Village Centre рядом построили в 1900 году по проекту Arthur Herbert White, и она до сих пор работает как community venue.",
-            "lookFor": "Timber-gothic силуэт Methodist Church\nЛинию Mount Eden Road как раннюю связь с городом\nКак магазины и кафе стоят прямо у подножья maunga",
-            "practical": "Это exterior-first остановка на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
+            "lookFor": "Timber-gothic силуэт Methodist Church; Линию Mount Eden Road как раннюю связь с городом; Как магазины и кафе стоят прямо у подножья maunga",
+            "practical": "Это остановка для внешнего осмотра на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
             "nextMove": "От деревни идите по Mount Eden Road к Puhi Huia Road и поднимайтесь к парковкам/воротам Maungawhau.",
             "deepDive": [
               {
@@ -3307,13 +3307,14 @@
                 "body": "Mt Eden Village помогает не романтизировать вулкан как отдельную природную открытку. Maungawhau всегда был связан с поселением: сначала как pā и food-storage landscape, потом как ориентир для suburb, дороги, трамвая, церкви и магазинов."
               }
             ],
-            "sourceNote": "Проверено по Mt Eden Village history, Mt Eden Village Centre About and Mt Eden Village churches pages: village nucleus grew from Alfred Cucksey's 1873 store; late-1870s school/church and 1908/1920s tram service shaped the retail cluster; Methodist Church was built in 1900 to Arthur Herbert White's design and now operates as the community Village Centre."
+            "sourceNote": "Проверено по Mt Eden Village history, Village Centre и churches: торговое ядро связывают с магазином Alfred Cucksey 1873 года, церковью/школой конца 1870-х, трамваем начала XX века и Methodist Church 1900 года."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.88247,
             "longitude": 174.76152
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-1",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-1",
             "kind": "photo",
@@ -3330,7 +3331,7 @@
           "hours": {
             "rules": [],
             "summary": "Открытая улица; часы Village Centre, церкви, кафе и магазинов различаются.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3347,8 +3348,8 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Парковка Puhi Huia: путь к маунгау».",
           "content": {
             "context": "Puhi Huia Road — место, где прогулка меняет режим. Tūpuna Maunga Authority перечисляет здесь visitor car parks, public toilets и главные gate hours, но важнее другое: с января 2016 года summit road и tihi закрыты для частных автомобилей, мотоциклов и скутеров. Maungawhau стал первым maunga, возвращенным пешеходному пространству под Authority. Поэтому старт подъема не просто логистика; это видимое решение о том, что культурно и археологически важный tihi не должен работать как автомобильная смотровая площадка.",
-            "lookFor": "Ворота и signage на Puhi Huia Road\nПарковки у roundabout и старого Tea Kiosk\nПереход от улицы к pedestrian maunga",
-            "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Dogs under control on leash; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижнего walking track из-за Batger Quarry works.",
+            "lookFor": "Ворота и signage на Puhi Huia Road; Парковки у roundabout и старого Tea Kiosk; Переход от улицы к pedestrian maunga",
+            "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Собак держите на поводке и под контролем; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижней тропы из-за работ Batger Quarry.",
             "nextMove": "Пройдите через ворота и поднимайтесь по дороге к старому kiosk / Te Ipu Kōrero; следуйте текущим указателям, если работы меняют обычный путь.",
             "deepDive": [
               {
@@ -3356,13 +3357,14 @@
                 "body": "У Puhi Huia Road становится понятно, что сохранение maunga — это не абстрактное уважение. Оно выражено в воротах, запрете частных машин на summit road, просьбе держать собак на поводке и необходимости идти по обозначенной поверхности."
               }
             ],
-            "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page: main entrance gate hours summer 07:00-20:30 and winter 07:00-19:00; summit road/tihi permanently closed to private vehicles in January 2016; toilets and visitor car parks listed around Puhi Huia Road; dogs under control on leash; Batger Quarry stabilisation works in 2026 may narrow Puhi Huia Road and temporarily close the lower walking track."
+            "sourceNote": "Проверено по Tūpuna Maunga Authority: главные ворота Maungawhau имеют сезонные часы; summit road/tihi закрыты для частных машин с 2016 года; у Puhi Huia Road есть парковки/туалеты, собаки только на поводке, а работы Batger Quarry могут менять проход."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.8785,
             "longitude": 174.7642
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-2",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-2",
             "kind": "photo",
@@ -3379,7 +3381,7 @@
           "hours": {
             "rules": [],
             "summary": "Главные ворота Maungawhau: лето 07:00-20:30, зима 07:00-19:00; follow onsite signs during works.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3397,8 +3399,8 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Центр посетителей Te Ipu Kōrero o Maungawhau».",
           "content": {
             "context": "Te Ipu Kōrero o Maungawhau помогает не свести подъём к “виду на Sky Tower”. AucklandNZ описывает здесь panels, short film и augmented-reality model: visitor experience показывает eruption 28,000 years ago, Maungawhau pā around 1200AD, whare, rua and mara kai on terraced slopes. Tūpuna Maunga Authority добавляет, что education centre находится в kiosk, а Friend & Whau café делит с ним mid-point на Maunga. Если центр закрыт, остановка всё равно важна как место, где официальный маршрут прямо говорит: геология и mana whenua narrative здесь неразделимы.",
-            "lookFor": "Старый kiosk и вход в Te Ipu Kōrero\nСвязку education centre и café на середине подъема\nПереход от road approach к boardwalk/tihi",
-            "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку exterior/logistics stop и проверяйте текущие объявления перед визитом.",
+            "lookFor": "Старый kiosk и вход в Te Ipu Kōrero; Связку education centre и café на середине подъема; Переход от road approach к boardwalk/tihi",
+            "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку внешней/логистической остановкой и проверяйте текущие объявления перед визитом.",
             "nextMove": "После kiosk поднимайтесь выше к boardwalk и держитесь обозначенного маршрута вокруг кратера.",
             "deepDive": [
               {
@@ -3406,13 +3408,14 @@
                 "body": "Главная роль Te Ipu Kōrero — сменить язык восприятия. До него можно думать о maunga как о парке и подъёме; после него boardwalk читается как защита pā-следов, а кратер — как геологический и культурный центр истории."
               }
             ],
-            "sourceNote": "Проверено по AucklandNZ Te Ipu Kōrero and Tūpuna Maunga Authority Maungawhau pages: centre has information panels, short film and interactive augmented-reality model of the eruption and pā life; AucklandNZ says it is open weekends and free; TMA places Te Ipu Kōrero and Friend & Whau café in the kiosk."
+            "sourceNote": "Проверено по AucklandNZ и Tūpuna Maunga Authority: Te Ipu Kōrero размещен в старом kiosk, рассказывает о вулкане и pā-ландшафте, заявлен как бесплатный и открытый по выходным."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.8788,
             "longitude": 174.7648
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-3",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-3",
             "kind": "photo",
@@ -3429,7 +3432,7 @@
           "hours": {
             "rules": [],
             "summary": "Te Ipu Kōrero: бесплатно, открыто по выходным; проверьте текущие объявления, если центр обязателен для вашего маршрута.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3447,7 +3450,7 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Кратер Te Kapua kai a Mataoho».",
           "content": {
             "context": "У края кратера источник лучше любой метафоры: Tūpuna Maunga Authority описывает Maungawhau как elongated scoria cone из двух перекрывающихся конусов, извергшихся около 28,000 лет назад. Южный конус — самый молодой и высокий, с кратером около 180 метров в диаметре и 50 метров глубиной. Его имя Te Kapua kai a Mataoho переводится как “food bowl of Mataoho”, deity responsible for volcanic activity. Не спускайтесь внутрь и не уходите с настила: склоны вокруг кратера — не пустая трава, а wāhi tapu и археологический ландшафт pā.",
-            "lookFor": "Глубину и почти правильную чашу кратера\nТеррасы и pits вокруг rim track\nКак boardwalk удерживает вас над чувствительной поверхностью",
+            "lookFor": "Глубину и почти правильную чашу кратера; Террасы и pits вокруг rim track; Как boardwalk удерживает вас над чувствительной поверхностью",
             "practical": "Держитесь boardwalk и обозначенных троп; не срезайте по склонам и не заходите в кратер. На tihi бывает сильный ветер, а после дождя настил и подходы могут быть скользкими.",
             "nextMove": "Двигайтесь по boardwalk к ātea и новым viewing platforms на гребне.",
             "deepDive": [
@@ -3456,13 +3459,14 @@
                 "body": "Самое сильное место Maungawhau — то, куда вы не должны идти. Кратер виден почти полностью, но boardwalk задаёт дистанцию: смотреть можно, повреждать поверхность нельзя. Это делает уважение частью маршрута, а не подписью на табличке."
               }
             ],
-            "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records 196m summit, about 28,000-year eruption, two overlapping scoria cones, southern crater about 180m wide and 50m deep, Te Kapua kai a Mataoho meaning, pā terraces/pits and boardwalk protection; AucklandNZ describes the summit crater as wāhi tapu and tells visitors to stick to paths."
+            "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: кратер Te Kapua kai a Mataoho и tihi требуют движения по обозначенным дорожкам/бордволку; режим зависит от расписания ворот и временных закрытий."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.877903,
             "longitude": 174.763983
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-4",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-4",
             "kind": "photo",
@@ -3479,7 +3483,7 @@
           "hours": {
             "rules": [],
             "summary": "Доступ по gate hours Maungawhau; держитесь boardwalk/paths и проверяйте временные closures.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3497,7 +3501,7 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Бордволк и ātea на гребне».",
           "content": {
             "context": "Boardwalk здесь — не декоративная дорожка для фотографий. Authority пишет, что до него rutting around the crater rim contributed to erosion of sensitive features, а новая система должна улучшить visitor experience и защитить Maunga. Extension июня 2023 года добавил ātea, platforms и seating, открыл views from the harbours to the network of Tūpuna Maunga и включил native planting для kahukōwhai и mokomoko. Камень в части design вернули с Mount Eden prison после demolition, с blessing mana whenua. Поэтому сидеть здесь на скамейке — значит находиться внутри очень продуманного компромисса между доступом и защитой.",
-            "lookFor": "Широкую ātea и новые seating/viewing points\nNative planting вокруг boardwalk\nКак настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
+            "lookFor": "Широкую ātea и новые seating/viewing points; Native planting вокруг boardwalk; Как настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
             "practical": "Не сходите с boardwalk ради фотографии. Ветер на ātea может быть резким; придерживайте шляпы, телефоны и детские вещи.",
             "nextMove": "От ātea продолжайте к западной стороне кратера, где лучше читать направление lava flows и форму пригородов вокруг maunga.",
             "deepDive": [
@@ -3506,13 +3510,14 @@
                 "body": "Этот boardwalk хорош тем, что не пытается стать главной достопримечательностью. Он поднимает человека над землей, делает route legible и одновременно говорит: самое важное здесь — maunga, а не настил."
               }
             ],
-            "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and 2023 boardwalk extension announcement: August 2020 boardwalk joined by June 2023 tihi/crater/rim extension with ātea, platforms, seating, native planting for kahukōwhai and mokomoko, stone returned from demolished Mount Eden prison, and explicit purpose of protecting pā remnants, tūāpapa and rua."
+            "sourceNote": "Проверено по Tūpuna Maunga Authority: tihi и ātea доступны пешком, но чувствительные археологические склоны защищены; держитесь настилов и не сходите на закрытые участки."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.877719,
             "longitude": 174.765228
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-5",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-5",
             "kind": "photo",
@@ -3529,7 +3534,7 @@
           "hours": {
             "rules": [],
             "summary": "Доступ по gate hours Maungawhau; используйте только boardwalk и открытые viewing points.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3547,7 +3552,7 @@
           "walk": "Продолжайте к следующей точке маршрута после остановки «Западный вид: лавовые реки и Waitākere Ranges».",
           "content": {
             "context": "На западной стороне попробуйте увидеть не только skyline, но и разлитую форму вулкана. Tūpuna Maunga Authority описывает lava flows Maungawhau во все стороны: northeast к Khyber Pass Road и Newmarket, southwest к Balmoral Road, west around Gribblehirst Park in Morningside. Эти названия сегодня звучат как адреса и дороги, но на гребне они снова становятся следами потока. Science Learning Hub также описывает Mt Eden как scoria cone из двух перекрывающихся cones, связанных с Auckland Volcanic Field. Поэтому западный вид нужен маршруту как map-in-the-body: вы стоите на source, а город лежит на последствиях.",
-            "lookFor": "Западный уклон от crater rim\nНаправление к Balmoral, Morningside и Gribblehirst Park\nКак дороги и suburbs повторяют более старую вулканическую форму",
+            "lookFor": "Западный уклон от crater rim; Направление к Balmoral, Morningside и Gribblehirst Park; Как дороги и suburbs повторяют более старую вулканическую форму",
             "practical": "Это windy exterior viewpoint. Держитесь открытого boardwalk/viewing area и не заходите на травяные склоны, даже если вид кажется лучше на шаг в сторону.",
             "nextMove": "Продолжайте круг по boardwalk к северной стороне: дальше вулканическая карта складывается с видом на гавани и другие maunga.",
             "deepDive": [
@@ -3556,13 +3561,14 @@
                 "body": "С западного гребня Maungawhau перестает быть отдельным конусом. Его lava flows становятся дорожной и пригородной логикой: то, что выглядит обычным urban fabric, выросло поверх более старой формы земли."
               }
             ],
-            "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page and Science Learning Hub Auckland Volcanic Field map: TMA records Maungawhau lava flows northeast to Khyber Pass/Newmarket, southwest to Balmoral Road and west around Gribblehirst Park in Morningside; Science Learning Hub identifies Mt Eden as a scoria cone with two overlapping cones around 28,000 years ago."
+            "sourceNote": "Проверено по AucklandNZ, Tūpuna Maunga Authority и геологическим источникам Auckland: западные виды помогают читать лавовые потоки и связь Maungawhau с соседними вулканическими формами."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.878,
             "longitude": 174.762
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-6",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-6",
             "kind": "photo",
@@ -3579,7 +3585,7 @@
           "hours": {
             "rules": [],
             "summary": "Доступ по gate hours Maungawhau; exposed viewpoint, stay on boardwalk/open paths.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         },
         {
@@ -3597,7 +3603,7 @@
           "walk": "-",
           "content": {
             "context": "Северный вид завершает маршрут не postcard-панорамой, а network view. Authority пишет, что с summit открываются виды на city, harbours and network of other maunga; 2023 ātea специально framed views from the harbours to the network of Tūpuna Maunga across Tāmaki Makaurau. Поэтому смотрите не только на центр и Waitematā, но и на другие конусы в городе. Maungawhau был enormous pā, но он никогда не существовал в одиночку: settlement, movement, food storage, defense and whakapapa связывали maunga между собой. Финал хорош именно этим: вы стоите на одном maunga и видите город как поле связанных вершин.",
-            "lookFor": "Waitematā Harbour и city centre\nRangitoto и другие видимые maunga на горизонте\nКак boardwalk направляет взгляд, не требуя сходить с tihi",
+            "lookFor": "Waitematā Harbour и city centre; Rangitoto и другие видимые maunga на горизонте; Как boardwalk направляет взгляд, не требуя сходить с tihi",
             "practical": "На северных viewing points бывает тесно. Уступайте место, не задерживайте проход ради фото и начинайте спуск с запасом до закрытия ворот.",
             "nextMove": "Спускайтесь по обозначенному route обратно к Puhi Huia Road. Если продолжаете в village, держитесь открытых дорожек и текущих signage.",
             "deepDive": [
@@ -3606,13 +3612,14 @@
                 "body": "Панорама важна не количеством landmarks, а тем, что она меняет масштаб. Maungawhau превращается из одиночной вершины в часть сети tūpuna maunga, гавани и городской ткани. Так финал возвращает взгляд от selfie view к общей карте Tāmaki Makaurau."
               }
             ],
-            "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records spectacular views over city, harbours and network of other maunga; 2023 boardwalk/ātea designed for views from harbours to Tūpuna Maunga network; AucklandNZ frames the summit as panoramic city/harbour/coastline viewpoint and asks visitors to respect paths/wāhi tapu."
+            "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: северные виды показывают город, гавань и цепочку maunga; посещение зависит от расписания ворот, погоды и указателей на месте."
           },
           "entry": "снаружи",
           "coordinates": {
             "latitude": -36.8764,
             "longitude": 174.7648
           },
+          "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-7",
           "photo": {
             "id": "auckland-maungawhau-volcano-city-view-stop-7",
             "kind": "photo",
@@ -3629,7 +3636,7 @@
           "hours": {
             "rules": [],
             "summary": "Доступ по gate hours Maungawhau; начинайте спуск с запасом до закрытия ворот.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           }
         }
       ],
@@ -3638,7 +3645,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «auckland-maungawhau-volcano-city-view»"
+        "alt": "Маршрутная обложка: Maungawhau, кратер, бордволк и городские виды Окленда."
       },
       "basemap": {
         "image": "https://rentery.github.io/images/v1/auckland/auckland-maungawhau-volcano-city-view-basemap.png",
@@ -5676,9 +5683,9 @@
       "content": {
         "intro": "Эта прогулка показывает Окленд не через гавань, а через землю: кратер Pukekawa, военный мемориал на гребне, стеклянные теплицы в ложбине, лесную тропу к Parnell и англиканский соборный квартал. По дороге город всё время меняет масштаб — от парковой травы и следов старой водной инфраструктуры до официальной памяти и пригородной улицы с домами XIX-XX веков.",
         "routeLogic": "Маршрут идёт от кратера Pukekawa / Auckland Domain к музею и мемориальному двору, затем через Wintergardens и Lover’s Walk выводит к Parnell Village и Holy Trinity Cathedral.",
-        "bestFor": "парка, военной памяти, теплиц, лесной дорожки и старого пригорода за одну прогулку",
-        "notFor": "тех, кому нужен короткий городской маршрут без подъёмов, парковых троп и перехода к Parnell",
-        "beforeYouGo": "Проверьте актуальный статус Auckland Museum: на официальной странице может быть предупреждение о закрытии. У Wintergardens и Holy Trinity Cathedral свои часы; после дождя берите обувь с хорошим сцеплением.",
+        "bestFor": "Для тех, кто хочет соединить парк, военную память, зимний сад, лесную тропу и старый Parnell за одну прогулку.",
+        "notFor": "Не лучший выбор для тех, кому нужен короткий городской маршрут без подъемов, парковых троп и перехода к Parnell.",
+        "beforeYouGo": "Проверьте актуальный статус Auckland Museum на официальной странице: часы и предупреждения могут меняться. У Wintergardens и Holy Trinity Cathedral свои часы; после дождя берите обувь с хорошим сцеплением.",
         "timing": "Лучше утром или в первой половине дня: так проще совместить парк, Wintergardens и соборные часы."
       },
       "stopList": [
@@ -5686,6 +5693,7 @@
           "id": "auckland-domain-parnell-memory-park-1",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 1,
+          "entry": "снаружи",
           "name": "Пукекава / Auckland Domain",
           "nameLocal": "Pukekawa / Auckland Domain",
           "sourceIds": [
@@ -5697,7 +5705,7 @@
           "walk": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
           "content": {
             "context": "Вы начинаете в Pukekawa / Auckland Domain — одном из крупнейших парков Окленда и старейшей зелёной сцене города. Маорийское название Pukekawa обычно связывают с памятью о погибших в древних войнах; современный парк при этом живёт очень буднично: лужайки, спорт, пикники, тропы и музей на гребне. Важно смотреть не только на траву, но и на форму земли: это вулканический рельеф, который город превратил в общественный резерв, место отдыха и парадный подступ к военному мемориалу.",
-            "lookFor": "Широкую чашу парка и перепады рельефа\nОсь на музейный холм над открытым полем\nПереход от спортивных лужаек к участкам native bush",
+            "lookFor": "Широкую чашу парка и перепады рельефа; Ось на музейный холм над открытым полем; Переход от спортивных лужаек к участкам native bush",
             "practical": "Парк открыт круглосуточно, но отдельные объекты внутри него работают по своим часам. Дорожки могут быть мокрыми после дождя; для этой прогулки лучше обувь, в которой спокойно идти по траве, лестницам и лесной тропе.",
             "nextMove": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
             "deepDive": [
@@ -5706,7 +5714,7 @@
                 "body": "Pukekawa легко принять за просто красивую зелёную паузу. Но смысл остановки в другом: здесь город присвоил вулканическую форму как общую территорию, а затем добавил к ней музей, мемориал, теплицы и прогулочные тропы. Поэтому маршрут стартует с земли, а не со здания."
               }
             ],
-            "sourceNote": "Проверено по AucklandNZ Pukekawa Auckland Domain и Parnell Business Association heritage page: парк открыт 24 часа, описан как один из крупнейших парков Окленда с Wintergardens, Auckland Museum и native forest walk; Parnell page связывает название Pukekawa с памятью о погибших в древних войнах."
+            "sourceNote": "Проверено по Auckland Council и AucklandNZ: Pukekawa/Auckland Domain - открытый парк вокруг вулканического кратера, с дорожками, спортивными зонами и музейной осью; доступ зависит от парковых событий и состояния троп."
           },
           "coordinates": {
             "latitude": -36.8591583,
@@ -5715,8 +5723,9 @@
           "hours": {
             "rules": [],
             "summary": "Парк открыт круглосуточно; часы отдельных объектов внутри отличаются.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-1",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-1",
             "kind": "photo",
@@ -5735,6 +5744,7 @@
           "id": "auckland-domain-parnell-memory-park-2",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 2,
+          "entry": "по билету",
           "name": "Auckland War Memorial Museum",
           "nameLocal": "Tāmaki Paenga Hira / Auckland War Memorial Museum",
           "sourceIds": [
@@ -5746,8 +5756,8 @@
           "time": "15 мин",
           "walk": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
           "content": {
-            "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как exterior-first точка.",
-            "lookFor": "Классический фасад и широкие ступени на гребне холма\nСвязку музейного здания с Court of Honour ниже\nНадписи и мемориальную символику вокруг входа",
+            "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как точка для внешнего осмотра.",
+            "lookFor": "Классический фасад и широкие ступени на гребне холма; Связку музейного здания с Court of Honour ниже; Надписи и мемориальную символику вокруг входа",
             "practical": "Перед входом обязательно проверьте официальный сайт Auckland Museum: страница часов показывает стандартные интервалы, но также может выводить alert о закрытии. Если музей закрыт, не теряйте остановку: фасад, ступени и переход к ценотафу остаются главным смыслом маршрута.",
             "nextMove": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
             "deepDive": [
@@ -5756,7 +5766,7 @@
                 "body": "В маршруте музей не просто культурная остановка между парком и Parnell. Он объясняет, почему Domain читается как гражданская сцена: природный холм, архитектурная симметрия и военная память поставлены в одну линию, а город подходит к ним пешком через парк."
               }
             ],
-            "sourceNote": "Проверено по Auckland Museum hours/admission and galleries pages and NZ History Auckland cenotaph page: official hours page lists regular hours and prices but also currently displays a closure alert; galleries page notes open/closed gallery conditions; NZ History records the 28 November 1929 cenotaph consecration and museum opening sequence."
+            "sourceNote": "Проверено по Auckland Museum: часы, билеты и состояние галерей нужно сверять на официальной странице перед входом; если музей закрыт, фасад и ступени остаются открытым маршрутом к мемориальной оси."
           },
           "coordinates": {
             "latitude": -36.8594444,
@@ -5765,8 +5775,9 @@
           "hours": {
             "rules": [],
             "summary": "Проверяйте официальный сайт: страница часов может показывать стандартное расписание и отдельный alert о закрытии.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-2",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-2",
             "kind": "photo",
@@ -5785,6 +5796,7 @@
           "id": "auckland-domain-parnell-memory-park-3",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 3,
+          "entry": "снаружи",
           "name": "Ценотаф и Court of Honour",
           "nameLocal": "Auckland Cenotaph / Court of Honour",
           "sourceIds": [
@@ -5796,7 +5808,7 @@
           "walk": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
           "content": {
             "context": "Постоянный Auckland Cenotaph вырос из временного памятника, который ставили к Anzac Day у Town Hall в 1922 году. В 1928 году Returned Soldiers’ Association предложила перенести эту форму к новому War Memorial Museum, и 28 ноября 1929 года ценотаф освятили в Court of Honour. Он повторяет лондонский Whitehall Cenotaph, но стоит уже в другой городской драматургии: перед музеем, на склоне парка, лицом к открытой лужайке. Поэтому здесь важно не искать “дополнительный памятник”, а увидеть, как музей и площадь работают одной мемориальной машиной.",
-            "lookFor": "Саркофаг наверху обелиска\nНадпись The Glorious Dead и даты MCMXIV / MCMXVIII\nКак Court of Honour выравнивает взгляд между парком и музеем",
+            "lookFor": "Саркофаг наверху обелиска; Надпись The Glorious Dead и даты MCMXIV / MCMXVIII; Как Court of Honour выравнивает взгляд между парком и музеем",
             "practical": "Ценотаф находится снаружи, но в дни ANZAC Day и других церемоний возможны ограничения, толпа и перекрытия. Остановитесь сбоку от главной оси, чтобы не мешать памятным мероприятиям и фотографиям.",
             "nextMove": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
             "deepDive": [
@@ -5805,7 +5817,7 @@
                 "body": "Ценотаф повторяет Whitehall, но не копирует Лондон полностью. В Окленде та же форма поставлена у паркового холма и музея, поэтому строгий имперский язык начинает говорить о конкретной провинциальной памяти, списках погибших и ежегодных церемониях города."
               }
             ],
-            "sourceNote": "Проверено по NZ History Auckland cenotaph and Auckland Museum hours/admission pages: temporary Town Hall cenotaph first erected for Anzac Day 1922; permanent cenotaph proposed in 1928, consecrated 28 November 1929, designed by Grierson, Aimer and Draffin as a Whitehall replica with concrete faced in Portland stone; first Anzac Day ceremony here was 25 April 1930."
+            "sourceNote": "Проверено по NZ History и Auckland Museum: постоянный ценотаф был освящен 28 ноября 1929 года и используется для памятных церемоний, особенно вокруг ANZAC Day."
           },
           "coordinates": {
             "latitude": -36.859264,
@@ -5814,8 +5826,9 @@
           "hours": {
             "rules": [],
             "summary": "Открытая мемориальная площадка; церемонии и музейные/парковые события могут ограничивать доступ.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-3",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-3",
             "kind": "photo",
@@ -5834,6 +5847,7 @@
           "id": "auckland-domain-parnell-memory-park-4",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 4,
+          "entry": "свободно",
           "name": "Зимний сад Auckland Domain",
           "nameLocal": "Auckland Domain Wintergardens",
           "sourceIds": [
@@ -5846,7 +5860,7 @@
           "walk": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
           "content": {
             "context": "Wintergardens прячутся ниже музейного холма, и это резкая смена регистра после ценотафа. Вместо официальной памяти — две barrel-vaulted glasshouses, двор с прудом, статуи и ботаническая витрина, где умеренная и тропическая коллекции поставлены друг напротив друга. Auckland Council описывал их как 100-летние glasshouses, заново открытые после двухлетней реставрации в 2023 году; проект раннего XX века связывают с William Gummer и практикой Gummer and Ford. Здесь парк становится почти комнатой: стекло, влажность, сезонные посадки и фернерий вместо широкого поля.",
-            "lookFor": "Парные стеклянные своды по сторонам двора\nМраморные статуи 1920-30-х годов и пруд\nКонтраст тропической влажности и умеренных сезонных посадок",
+            "lookFor": "Парные стеклянные своды по сторонам двора; Мраморные статуи 1920-30-х годов и пруд; Контраст тропической влажности и умеренных сезонных посадок",
             "practical": "Вход свободный. New Zealand Gardens Trust указывает сезонные часы: 1 ноября-31 марта ежедневно 09:00-17:00, 1 апреля-31 октября ежедневно 09:00-16:30. Внутри влажно, а дорожки вокруг могут быть скользкими после дождя.",
             "nextMove": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
             "deepDive": [
@@ -5855,7 +5869,7 @@
                 "body": "Wintergardens важны не только редкими растениями. Они меняют температуру маршрута: после камня, ступеней и военной памяти вы входите в место ухода, реставрации и сезонности. Это помогает увидеть Domain как набор городских функций, а не просто большой парк."
               }
             ],
-            "sourceNote": "Проверено по New Zealand Gardens Trust, OurAuckland and Parnell Business Association: Wintergardens have two display glasshouses, courtyard/pond/statues and fernery; NZGT lists free admission and seasonal daily hours; OurAuckland records two-year restoration and 2023 reopening of the 100-year-old glasshouses, designed in the early 1900s by William Gummer / Gummer and Ford."
+            "sourceNote": "Проверено по New Zealand Gardens Trust и OurAuckland: Wintergardens имеют два стеклянных павильона, двор с прудом и сезонные часы; комплекс был восстановлен и вновь открыт после реставрации."
           },
           "coordinates": {
             "latitude": -36.863333,
@@ -5864,8 +5878,9 @@
           "hours": {
             "rules": [],
             "summary": "Бесплатно; 1 ноя-31 мар 09:00-17:00, 1 апр-31 окт 09:00-16:30 ежедневно.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-4",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-4",
             "kind": "photo",
@@ -5884,6 +5899,7 @@
           "id": "auckland-domain-parnell-memory-park-5",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 5,
+          "entry": "снаружи",
           "name": "Тропа Lover’s Walk",
           "nameLocal": "Lover’s Walk / Pukekawa Auckland Domain",
           "sourceIds": [
@@ -5896,7 +5912,7 @@
           "walk": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
           "content": {
             "context": "Lover’s Walk нужна маршруту как тихий разрез через парк. Auckland Council в 2023 году писал о новой связке через Pukekawa / Auckland Domain к Parnell Station: она соединяется с уже существующей Lover’s Walk и продолжает пешеходную связь дальше к Carlaw Park Student Village. Поэтому эта остановка не про романтическую легенду, а про то, как зелёная ложбина стала рабочим городским проходом. Рядом с этой темой лежит и старая водная инфраструктура: Engineering New Zealand описывает первые городские водные резервуары в Auckland Domain, начавшие работу в январе 1866 года; сегодняшние duck ponds связаны с той системой.",
-            "lookFor": "Деревянные настилы и короткие мостики на влажных участках\nПереход от декоративных теплиц к native bush\nОщущение, что парк одновременно прогулочный и транзитный",
+            "lookFor": "Деревянные настилы и короткие мостики на влажных участках; Переход от декоративных теплиц к native bush; Ощущение, что парк одновременно прогулочный и транзитный",
             "practical": "После дождя Lover’s Walk и соседние тропы могут быть скользкими. Если участок закрыт или слишком мокрый, используйте более широкие парковые дорожки к Parnell Station и дальше к Parnell Road.",
             "nextMove": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
             "deepDive": [
@@ -5905,7 +5921,7 @@
                 "body": "Эта тропа хороша тем, что выводит Domain из парадного режима. После музея и Wintergardens вы идёте не к очередному объекту, а через живую инфраструктуру ходьбы: настилы, влажный овраг, связь со станцией и выход к пригородной улице."
               }
             ],
-            "sourceNote": "Проверено по OurAuckland Parnell Station walkway article, AucklandNZ Pukekawa Auckland Domain and Engineering New Zealand water reservoirs page: 2023 path connects with pre-existing Lover's Walk; AucklandNZ describes a native forest walk in the Domain; first city water supply reservoirs in Auckland Domain began operation in January 1866 and today's duck ponds are linked to those reservoirs."
+            "sourceNote": "Проверено по OurAuckland, AucklandNZ и Engineering NZ: Lover's Walk связывает зимние сады, native bush и путь к Parnell; влажные участки и старые водные резервуары объясняют осторожность после дождя."
           },
           "coordinates": {
             "latitude": -36.855098,
@@ -5914,8 +5930,9 @@
           "hours": {
             "rules": [],
             "summary": "Парковая тропа; проверяйте состояние дорожек после дождя и обходите закрытые участки.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-5",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-5",
             "kind": "photo",
@@ -5934,6 +5951,7 @@
           "id": "auckland-domain-parnell-memory-park-6",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 6,
+          "entry": "снаружи",
           "name": "Parnell Village и Parnell Road",
           "nameLocal": "Parnell Road / Village of Parnell",
           "sourceIds": [
@@ -5946,8 +5964,8 @@
           "walk": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
           "content": {
             "context": "Parnell Heritage датирует основание пригорода сентябрём 1841 года: Роберт Тод разделил участок на 36 маленьких allotments и рекламировал их как Village of Parnell. Parnell Business Association подчёркивает тот же образ “первого пригорода”, но сегодняшняя улица не является законсервированным 1840-м годом. В 1960-70-х Les Harvey скупал и восстанавливал обветшавшие дома и лавки, превращая их в рестораны, кафе, craft shops и boutiques. Поэтому смотрите на Parnell Road как на слой за слоем: ранний suburb, церковный центр епархии, трамвайная улица начала XX века и поздний heritage-retail проект.",
-            "lookFor": "Деревянные и кирпичные фасады разного возраста\nНебольшие проходы во дворы между магазинами и кафе\nКак улица постепенно подводит к церковному комплексу Parnell",
-            "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательный indoor stop без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
+            "lookFor": "Деревянные и кирпичные фасады разного возраста; Небольшие проходы во дворы между магазинами и кафе; Как улица постепенно подводит к церковному комплексу Parnell",
+            "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательную остановку внутри без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
             "nextMove": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
             "deepDive": [
               {
@@ -5955,7 +5973,7 @@
                 "body": "Parnell важен именно своей неоднозначностью. Он честно старый по городским меркам Окленда, но привычный образ “village” во многом собран заново через реставрацию и коммерческую адаптацию. Это не делает место фальшивым; наоборот, показывает, как наследие начинает работать городской экономикой."
               }
             ],
-            "sourceNote": "Проверено по Parnell Heritage and Parnell Business Association heritage pages: Parnell claims Auckland's oldest suburb identity, Robert Tod's September 1841 Village of Parnell allotments are treated as the foundation moment, Bishop Selwyn chose Parnell as Church of England focus in 1842, tramcars ran up Parnell Road in the early 1900s, and Les Harvey's restorations created modern Parnell Village in/after the 1960s-70s."
+            "sourceNote": "Проверено по Parnell Heritage и Business Association: Parnell связывает себя с участками Robert Tod 1841 года, церковным центром Bishop Selwyn и реставрациями Les Harvey, создавшими современный Parnell Village."
           },
           "coordinates": {
             "latitude": -36.8564896,
@@ -5964,8 +5982,9 @@
           "hours": {
             "rules": [],
             "summary": "Открытая улица; часы магазинов, кафе и галерей различаются.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-6",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-6",
             "kind": "photo",
@@ -5984,6 +6003,7 @@
           "id": "auckland-domain-parnell-memory-park-7",
           "guideId": "auckland-domain-parnell-memory-park",
           "order": 7,
+          "entry": "свободно",
           "name": "Holy Trinity Cathedral",
           "nameLocal": "Holy Trinity Cathedral / St Mary’s-in-Holy Trinity",
           "sourceIds": [
@@ -5997,7 +6017,7 @@
           "walk": "-",
           "content": {
             "context": "Holy Trinity Cathedral завершает маршрут не как одиночная достопримечательность, а как церковный precinct. Parnell Business Association напоминает, что Bishop Selwyn выбрал Parnell центром англиканской церкви в Auckland ещё в 1842 году. Сегодня это читается через соседство разных эпох: St Mary’s, деревянная Gothic Revival церковь Benjamin Mountfort, была построена в 1886-1898 годах и в 1982 году переехала через Parnell Road; современный Cathedral Nave был завершён в 1995 году. Внутри главный жест — Great Window над входом: официальный cathedral tour называет его крупнейшей площадью витража в Southern Hemisphere и прямо связывает европейские и Polynesian мотивы.",
-            "lookFor": "Great Window над входом в Cathedral Nave\nДеревянную St Mary’s-in-Holy Trinity рядом с собором\nКак старый и новый объёмы образуют один precinct, а не два отдельных здания",
+            "lookFor": "Great Window над входом в Cathedral Nave; Деревянную St Mary’s-in-Holy Trinity рядом с собором; Как старый и новый объёмы образуют один precinct, а не два отдельных здания",
             "practical": "Регулярные часы посещения собора: пн-сб 10:00-15:00, вс 12:00-15:00. Вход свободный, пожертвования приветствуются; службы, концерты и частные события могут менять доступ, поэтому проверьте расписание перед визитом.",
             "nextMove": "На этом маршрут заканчивается. Для возвращения в центр проверьте ближайшие автобусы по Parnell Road или спуститесь к станции Parnell, если удобно по расписанию.",
             "deepDive": [
@@ -6006,7 +6026,7 @@
                 "body": "После парка, мемориала и торговой улицы собор показывает ещё один слой Parnell: не пригородную витрину, а институциональное место. Смысл финала в соседстве St Mary’s и нового nave — город не заменяет старую форму новой, а переставляет их рядом и заставляет работать вместе."
               }
             ],
-            "sourceNote": "Проверено по Holy Trinity Cathedral Discover, Cathedral Nave and St Mary's pages plus Parnell heritage page: regular visiting hours Mon-Sat 10:00-15:00 and Sun 12:00-15:00; St Mary's foundation stone 1886, completed/consecrated 1898, moved across Parnell Road on 6 March 1982; Cathedral Nave completed in 1995; Great Window is described by the cathedral as the largest expanse of stained glass in the Southern Hemisphere."
+            "sourceNote": "Проверено по Holy Trinity Cathedral и Parnell heritage: St Mary's заложена в 1886 и перенесена в 1982 году, Cathedral Nave завершен в 1995-м; часы посещения и доступ зависят от служб/событий."
           },
           "coordinates": {
             "latitude": -36.8598177,
@@ -6051,8 +6071,9 @@
               }
             ],
             "summary": "Пн-сб 10:00-15:00, вс 12:00-15:00; службы и события могут менять доступ.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-domain-parnell-memory-park-stop-7",
           "photo": {
             "id": "auckland-domain-parnell-memory-park-stop-7",
             "kind": "photo",
@@ -6073,7 +6094,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «auckland-domain-parnell-memory-park»"
+        "alt": "Маршрутная обложка: Auckland Domain, музей, зимний сад, Parnell и память."
       },
       "basemap": {
         "image": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-basemap.png",
@@ -7514,8 +7535,8 @@
       "content": {
         "intro": "Карангахапе‑роуд держится на гребне между Waitematā и путями к Manukau: сначала это был Te Ara o Karangahape, затем торговая улица, церковный узел, тихоокеанский адрес, галерейная полоса и ночная сцена. Эта прогулка специально делает короткие складки вокруг Pitt Street, Mercury Lane, East Street и Galatos Street, чтобы показать не один фасад, а плотный культурный разрез K Road.",
         "routeLogic": "Маршрут начинается у Symonds Street и Karangahape Road Bridge, затем складывается вокруг центрального участка K Road: Artspace Aotearoa, St Kevin’s Arcade и Myers Park, Samoa House, Pitt Street churches, Galatos и бывший George Courts Department Store у Mercury Lane.",
-        "bestFor": "тем, кто любит городскую культуру, независимые галереи, музыку, архитектуру и районы с несколькими слоями памяти",
-        "notFor": "тем, кто хочет тихую природную прогулку без трафика, лестниц и вечерней городской среды",
+        "bestFor": "Для тех, кто любит городскую культуру, независимые галереи, музыку, архитектуру и районы с несколькими слоями памяти.",
+        "notFor": "Не лучший выбор для тихой природной прогулки без трафика, лестниц и вечерней городской среды.",
         "beforeYouGo": "Днем маршрут лучше для архитектуры, галерей и парка; вечером оживают клубы и бары, но вход внутрь зависит от конкретного события. Проверяйте Artspace, Samoa House Library и Galatos по официальным страницам перед визитом.",
         "timing": "90 мин",
         "fallbackPlan": "Если галереи, библиотека или клубы закрыты, проходите маршрут как прогулку по фасадам, аркадам, мосту и парку; основные уличные точки видны снаружи."
@@ -7537,7 +7558,7 @@
           "walk": "Начните маршрут на восточном конце Карангахапе‑роуд, где она пересекает Симондс‑стрит и мост над скоростной магистралью. Спуститесь к стеклянным павильонам автобусных остановок — оттуда открывается панорама на центр Окленда и Истсайд. Держите спину к мосту, а взгляд направьте вдоль гребня на запад.",
           "content": {
             "context": "K Road лучше начинать не с витрин, а с гребня. Karangahape Road Business Association и Artspace объясняют Te Ara o Karangahape как древний путь маори к Manukau Harbour: Karangahape Road и Symonds Street старше Queen Street и были частью маршрута, который европейский город позже превратил в дорогу. Обновление улицы оставило этот слой в видимой инфраструктуре. На мосту и у остановок ищите стекло, вдохновленное pāua, стальные tukutuku-панели, созданные Тессой Харрис (Ngāi Tai ki Tāmaki) с командой, и круглые вставки в мощении — они отсылают к shell path, который мог светиться в лунном свете. Шум магистрали внизу делает смысл точки жестче: старый путь теперь проходит над самым современным разрезом города.",
-            "lookFor": "цветные pāua bus shelters на мосту\ntukutuku-панели на нижних стенах overbridge\nстальные диски shell path в мощении",
+            "lookFor": "цветные pāua bus shelters на мосту; tukutuku-панели на нижних стенах overbridge; стальные диски shell path в мощении",
             "practical": "Это открытый уличный участок с автобусами, велодорожками и плотным трафиком. Переходите только по сигналу и не стойте на узких местах overbridge, особенно вечером и после дождя.",
             "nextMove": "Начните у пересечения Karangahape Road и Symonds Street, затем двигайтесь по гребню к западу в сторону East Street и Artspace Aotearoa.",
             "deepDive": [
@@ -7546,7 +7567,7 @@
                 "body": "В этой точке K Road перестает быть просто “районом с барами”. Вы стоите на транспортном слое, который помнит гораздо более старую логику ходьбы: гребень, путь, ориентиры, раковины и вид на гавань. Именно поэтому мост и автобусные павильоны работают как вход в маршрут."
               }
             ],
-            "sourceNote": "Проверено по K Road Business Association heritage page, OurAuckland Karangahape Road enhancement coverage and Auckland Transport enhancement brochure: Te Ara o Karangahape is described as a Māori walking route toward Manukau; the street upgrade uses pāua-inspired bus shelters, tukutuku panels and stainless-steel shell-path disks tied to mana whenua design narratives."
+            "sourceNote": "Проверено по K Road Business Association, OurAuckland и Auckland Transport: Te Ara o Karangahape связан с маорийским маршрутом, а обновление улицы использует pāua-навесы, tukutuku-панели и элементы shell path mana whenua."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7556,8 +7577,9 @@
           "hours": {
             "rules": [],
             "summary": "Открытый уличный участок; трафик, события и дорожные работы могут менять комфорт прохода.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-1",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-1",
             "kind": "photo",
@@ -7587,8 +7609,8 @@
           "walk": "Продвигаясь по западному направлению, через пару минут вы увидите на левой стороне улицы яркую металлическую звезду и вывеску Tautai Pacific Arts Trust. Это вход в Artspace Aotearoa, находящийся на углу Карангахапе‑роуд и Ист‑стрит. Поверните налево, чтобы осмотреть фасад и заглянуть внутрь.",
           "content": {
             "context": "Artspace Aotearoa работает на K Road с другой скоростью, чем музеи на парадных площадях. Галерею основали в 1987 году художники и arts workers как публичное пространство для практик, которым тогда не хватало институциональной поддержки в Tāmaki Makaurau и дальше. Вход свободный, а программа меняется вопросами, выставками, чтениями и встречами. Важно и здание: Artspace находится на первом этаже бывшего central post office на 292 Karangahape Road и делит адрес с Tautai. Поэтому эта остановка связывает K Road сразу с несколькими слоями — почтовая инфраструктура 1970-х, современное искусство, Pacific arts и доступная городская культура без музейного порога.",
-            "lookFor": "металлическую звезду и вывеску у входа\nафиши текущих выставок\nчитальную комнату, если она открыта",
-            "practical": "Вход свободный. На дату проверки Artspace указывает часы вт-пт 10:00-18:00, чт до 20:00, сб 11:00-16:00, вс-пн закрыто; по вторникам 10:00-12:00 проходят low-sensory hours. Перед входом сверяйте текущую выставку и события.",
+            "lookFor": "металлическую звезду и вывеску у входа; афиши текущих выставок; читальную комнату, если она открыта",
+            "practical": "Вход свободный. На дату проверки Artspace указывает часы вт-пт 10:00-18:00, чт до 20:00, сб 11:00-16:00, вс-пн закрыто; по вторникам 10:00-12:00 проходят малосенсорные часы. Перед входом сверяйте текущую выставку и события.",
             "nextMove": "Продвигаясь по западному направлению, через пару минут вы увидите на левой стороне улицы яркую металлическую звезду и вывеску Tautai Pacific Arts Trust. Это вход в Artspace Aotearoa, находящийся на углу Карангахапе‑роуд и Ист‑стрит. Поверните налево, чтобы осмотреть фасад и заглянуть внутрь.",
             "deepDive": [
               {
@@ -7596,7 +7618,7 @@
                 "body": "Для маршрута Artspace важен не как “галерея по пути”, а как доказательство, что K Road умеет быть институцией без тяжелой музейной оболочки. Здесь экспериментальная сцена, чтения и публичный доступ живут в бывшем почтовом здании на той же улице, где рядом работают клубы, библиотеки и аркады."
               }
             ],
-            "sourceNote": "Проверено по Artspace Aotearoa About and Access pages: founded in 1987 by artists and arts workers as a public contemporary art gallery; free and open to all; located at 292 Karangahape Road on the ground floor of the former central post office; current access page lists Tue-Fri/Sat hours, Thursday late opening and Tuesday low-sensory hours."
+            "sourceNote": "Проверено по Artspace Aotearoa: галерея основана в 1987 году, работает бесплатно на Karangahape Road; обычные часы, позднее открытие и малосенсорный интервал сверены по странице Access."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7631,9 +7653,10 @@
                 "closes": "16:00"
               }
             ],
-            "summary": "Вт-ср/пт 10:00-18:00, чт 10:00-20:00, сб 11:00-16:00; вт 10:00-12:00 low-sensory hours.",
-            "checkedAt": "2026-06-26"
+            "summary": "Вт-ср/пт 10:00-18:00, чт 10:00-20:00, сб 11:00-16:00; вт 10:00-12:00 — малосенсорные часы.",
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-2",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-2",
             "kind": "photo",
@@ -7663,7 +7686,7 @@
           "walk": "От Artspace вернитесь немного к востоку по Karangahape Road. У радужного перехода и сводчатого входа под табличкой \"St Kevin’s Arcade\" начинается проход к Myers Park.",
           "content": {
             "context": "St Kevin’s Arcade показывает, каким K Road был до того, как его стали описывать только через nightlife. Официальная история аркады датирует её 1924 годом и расширением 1926 года, когда K Road была престижной торговой полосой, сравнимой с Oxford Street: здесь работали портные, dressmakers, tea rooms и фотостудии. Сегодня AucklandNZ описывает аркаду как heritage arcade и культурный хаб с независимыми бутиками, винтажем, книжными магазинами, студиями, кафе и eateries. Самое важное — не список арендаторов, а вертикальная роль здания: оно связывает шумный торговый гребень с зеленью Myers Park ниже.",
-            "lookFor": "сводчатый вход St Kevin’s Arcade\nрадужный переход у фасада\nвид из аркады вниз на Майерс‑парк",
+            "lookFor": "сводчатый вход St Kevin’s Arcade; радужный переход у фасада; вид из аркады вниз на Майерс‑парк",
             "practical": "Внутри много небольших магазинов и кафе: проходите не спеша, не задерживайтесь на лестницах и учитывайте часы отдельных арендаторов.",
             "nextMove": "Пройдите через аркаду к лестнице и площадке над Myers Park; следующая остановка начинается уже на перепаде высоты.",
             "deepDive": [
@@ -7672,7 +7695,7 @@
                 "body": "Аркада работает как городской шарнир. С улицы она кажется торговой витриной, но внутри раскрывается как проход к парку, лестнице и старой долине. Поэтому ее стоит проходить, а не только фотографировать фасад."
               }
             ],
-            "sourceNote": "Проверено по official St Kevin's Arcade history and AucklandNZ St Kevin's Arcade page: built in 1924 and extended in 1926; K Road was then a premier shopping destination; arcade historically housed tailors, dressmakers, tea rooms and photography studios; AucklandNZ describes its current mix of independent boutiques, vintage/designer stores, secondhand bookshops, creative studios, cafes and eateries."
+            "sourceNote": "Проверено по St Kevin's Arcade и AucklandNZ: аркада построена в 1924 году, расширена в 1926-м и сегодня занята независимыми магазинами, кафе и творческими арендаторами."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7682,8 +7705,9 @@
           "hours": {
             "rules": [],
             "summary": "Проход и арендаторы работают по разным графикам; проверяйте конкретные магазины и кафе.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-3",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-3",
             "kind": "photo",
@@ -7714,7 +7738,7 @@
           "walk": "Покинув аркаду по лестнице вниз, вы окажетесь у начала пальмовой аллеи Майерс‑парка. Стоя под высокими финиковыми пальмами, обернитесь вверх: виден статуя Моисея, которую город получил в 1971 году, а наверху — аркада святого Кевина.",
           "content": {
             "context": "Myers Park — не просто зеленая пауза под K Road. AucklandNZ описывает его как связь между Karangahape Road, Aotea Square и Queen Street: деревья, пальмовая аллея, playground, splash pad, toilets, seating и drinking fountains держат парк как повседневную инфраструктуру. Heritage New Zealand добавляет более ранний слой: в 1913 году Arthur Myers дал деньги на выкуп оврага под детский парк, а в январе 1915 года объявил еще одну сумму на free kindergarten; Myers Kindergarten открылся в 1916 году и считается старейшим purpose-built kindergarten в Новой Зеландии, всё ещё использующимся по назначению. Сегодня к этому добавилась Waimahara — интерактивная работа Graham Tipene, которая вспоминает Te Waihorotiu, скрытый поток под долиной.",
-            "lookFor": "пальмовую аллею под аркадой\nкопию скульптуры Моисея у лестницы\nперепад высоты между шумной К‑роуд и тихим парком",
+            "lookFor": "пальмовую аллею под аркадой; копию скульптуры Моисея у лестницы; перепад высоты между шумной К‑роуд и тихим парком",
             "practical": "Лестница и дорожки после дождя могут быть скользкими. Splash pad работает летом 10:00-20:00; Waimahara и парк лучше воспринимать днем или ранним вечером, когда есть люди и хорошая видимость.",
             "nextMove": "Покинув аркаду по лестнице вниз, вы окажетесь у начала пальмовой аллеи Майерс‑парка. Стоя под высокими финиковыми пальмами, обернитесь вверх: виден статуя Моисея, которую город получил в 1971 году, а наверху — аркада святого Кевина.",
             "deepDive": [
@@ -7723,7 +7747,7 @@
                 "body": "Спуск в Myers Park меняет масштаб маршрута. Вместо очередного фасада вы попадаете в овраг, где город решал задачи здоровья, детства, отдыха, воды и света. Поэтому здесь важно почувствовать не тишину вообще, а то, как K Road раскрывается вниз."
               }
             ],
-            "sourceNote": "Проверено по AucklandNZ Myers Park, Heritage New Zealand Myers Kindergarten and OurAuckland Waimahara pages: park links Karangahape Road with Aotea Square/Queen Street and includes trees, palms, playground, splash pad, toilets and seating; Heritage NZ records Arthur Myers' 1913/1915 donations and 1916 kindergarten; OurAuckland records Waimahara by Graham Tipene as an interactive artwork responding to waiata and recalling Te Waihorotiu."
+            "sourceNote": "Проверено по AucklandNZ, Heritage New Zealand и OurAuckland: Myers Park связывает K Road с Queen Street, хранит след пожертвований Arthur Myers и включает Waimahara, playground/splash pad и зеленый спуск."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7733,8 +7757,9 @@
           "hours": {
             "rules": [],
             "summary": "Открытый парк; splash pad летом 10:00-20:00, Waimahara открыт 24 часа, но после темноты используйте городскую осторожность.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-4",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-4",
             "kind": "photo",
@@ -7766,7 +7791,7 @@
           "walk": "Вернувшись на Карангахапе‑роуд, продолжайте идти западнее до перекрестка с Меркьюри‑лейн. На южной стороне улицы, чуть дальше перекрестка, стоит темное бетонное здание с оконными решетками — это Дом Самоа. Справа через дорогу находится белая церковь в полинезийском стиле.",
           "content": {
             "context": "Maota Samoa удерживает тихоокеанский слой K Road без музейной витрины. Objectspace описывает Samoa House как award-winning building, построенное в 1979 году Jasmad (ныне Jasmax); ведущий архитектор Ivan Mercep ездил в Falealili, Poutasi, чтобы изучить техники строительства fale. Samoa House Library уточняет, что здание построили на средства Samoa House Appeal Fund, открыли в 1978 году, и что здесь был первый fale outside Samoa; раньше тут находилось Samoan Consulate, community spaces и offices. На втором уровне сегодня работает Samoa House Library — независимая art library и alternative education platform. Через дорогу Te Ara фиксирует еще один важный адрес: Newton Pacific Islanders Congregational Church, первая ethnic Pacific Island church в Новой Зеландии, основанная в Auckland в 1947 году.",
-            "lookFor": "силуэт крыши Maota Samoa, напоминающий фале\nоконные решетки и бетонный корпус 1970‑х\nцерковь островитянской общины через дорогу",
+            "lookFor": "силуэт крыши Maota Samoa, напоминающий фале; оконные решетки и бетонный корпус 1970‑х; церковь островитянской общины через дорогу",
             "practical": "Осматривайте Samoa House и church с улицы уважительно: это не декорации, а рабочие общинные адреса. Samoa House Library на дату проверки открыта вт-пт 11:00-17:00; для лифта и доступа внутрь просит связаться заранее.",
             "nextMove": "Вернувшись на Карангахапе‑роуд, продолжайте идти западнее до перекрестка с Меркьюри‑лейн. На южной стороне улицы, чуть дальше перекрестка, стоит темное бетонное здание с оконными решетками — это Дом Самоа. Справа через дорогу находится белая церковь в полинезийском стиле.",
             "deepDive": [
@@ -7775,7 +7800,7 @@
                 "body": "Эта остановка нужна маршруту, потому что K Road была и остается не только богемной улицей. Samoa House и Newton PICC показывают Pacific Auckland как сеть зданий, библиотек, церковных общин и политической памяти, а не как абстрактную “мультикультурность”."
               }
             ],
-            "sourceNote": "Проверено по Objectspace Maota Samoa event page, Samoa House Library home/about/contact pages and Te Ara Newton Pacific Islanders Congregational Church entry: Samoa House/Maota Samoa was designed by Jasmad/Jasmax with Ivan Mercep's fale research and opened in 1978/1979 depending on source framing; it housed Samoa/Nauru consular and community spaces; Samoa House Library is an independent art library open Tue-Fri 11:00-17:00; Newton PICC was founded in 1947 as New Zealand's first ethnic Pacific Island church."
+            "sourceNote": "Проверено по Objectspace, Samoa House Library и Te Ara: Maota Samoa/Samoa House открыт в конце 1970-х как общинный адрес; библиотека имеет ограниченные часы, а Newton PICC связан с историей тихоокеанских общин Окленда."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7806,8 +7831,9 @@
               }
             ],
             "summary": "Samoa House Library вт-пт 11:00-17:00; Samoa House и церковные пространства могут быть закрыты для частных событий.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-5",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-5",
             "kind": "photo",
@@ -7837,7 +7863,7 @@
           "walk": "От Samoa House вернитесь на восток к перекрестку Pitt Street и Queen Street. Здесь над тротуарами одновременно видны кирпичный Methodist Church и классический портик Baptist Tabernacle.",
           "content": {
             "context": "Перекресток Pitt Street показывает, что K Road долго была не только торговлей и ночной жизнью, но и религиозной инфраструктурой растущего города. Heritage New Zealand пишет, что Pitt Street Church открылась 14 октября 1866 года, была спроектирована Philip Herapath и включала каменные головы, которые связывают с резчиком Anton Teutenberg; интерьер следовал nonconformist preaching hall tradition и вмещал 650 человек. Через дорогу Baptist Tabernacle, по материалам K Road Business Association, открылся в 1886 году и был рассчитан на впечатление: crest of Queen Street, huge Roman Imperial Portico, видимость с waterfront. Две церкви спорят фасадами, но вместе показывают K Road как место общинных собраний.",
-            "lookFor": "стрельчатые окна Methodist Church\nклассический портик Baptist Tabernacle\nконтраст красного кирпича и светлой колоннады на одном перекрестке",
+            "lookFor": "стрельчатые окна Methodist Church; классический портик Baptist Tabernacle; контраст красного кирпича и светлой колоннады на одном перекрестке",
             "practical": "Смотрите интерьеры только если двери открыты для посетителей; во время служб, репетиций и общинных событий держитесь тихо и не фотографируйте людей без согласия.",
             "nextMove": "От перекрестка уходите к югу/западу на Galatos Street: следующая остановка спрятана за главным гребнем K Road.",
             "deepDive": [
@@ -7846,7 +7872,7 @@
                 "body": "Эта пара важна именно вместе. Методистская церковь говорит языком кирпича, каменной резьбы и preaching hall, а Tabernacle — языком городской оси и портика. Между ними K Road становится не “богемной полосой”, а публичным перекрестком веры, собраний и видимости."
               }
             ],
-            "sourceNote": "Проверено по Heritage New Zealand Pitt Street Church listing and K Road Business Association Baptist Tabernacle page: Pitt Street Church opened 14 October 1866, designed by Philip Herapath with stone heads attributed to Anton Teutenberg and a 650-person preaching-hall interior; Baptist Tabernacle opened in 1886 and is described as a highly visible Queen Street crest building with Roman Imperial Portico."
+            "sourceNote": "Проверено по Heritage NZ и K Road Business Association: Pitt Street Methodist Church открыта в 1866 году, Baptist Tabernacle - в 1886-м; оба интерьера зависят от служб и событий."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7856,8 +7882,9 @@
           "hours": {
             "rules": [],
             "summary": "Фасады видны с улицы; интерьер только во время открытых служб, событий или по текущему расписанию общин.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-6",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-6",
             "kind": "photo",
@@ -7888,8 +7915,8 @@
           "walk": "Сверните с Карангахапе‑роуд на узкую Галатос‑стрит (Galatos Street), которая начинается между офисными зданиями. На углу с улицей стоит небольшой двухэтажный дом из 1930‑х. Это музыкальный клуб Galatos. Его вход украшен неоном, а изнутри часто доносятся звуки репетиций.",
           "content": {
             "context": "Galatos прячет ночную сцену K Road не на главной витрине, а в боковой улице. AudioCulture выводит его историю от Druids’ Hall: зал открылся 6 мая 1908 года и десятилетиями принимал танцы; позднее здание стало Galatos bar and venue. Современный сайт Galatos описывает его как live music and theatre venue, доступный для gigs, concerts, dance nights, film nights, shoots и corporate events; можно нанять один уровень или все три. Поэтому эта остановка не про мифическую “ночную улицу” вообще, а про инфраструктуру: main room, upper bar, lower bar, охрана, билеты, R18 и расписание конкретных событий.",
-            "lookFor": "неоновый вход Galatos на боковой улице\nскромный фасад клуба среди офисных зданий\nночные афиши и следы музыкальной сцены",
-            "practical": "Днем это точка для внешнего осмотра; внутрь идите только на конкретное событие. Galatos указывает R18, standing-only формат для большинства шоу и event-dependent door sales, поэтому проверяйте сайт/соцсети в день визита.",
+            "lookFor": "неоновый вход Galatos на боковой улице; скромный фасад клуба среди офисных зданий; ночные афиши и следы музыкальной сцены",
+            "practical": "Днем это точка для внешнего осмотра; внутрь идите только на конкретное событие. Galatos указывает R18, формат без сидячих мест для большинства шоу и продажи на входе по условиям события, поэтому проверяйте сайт/соцсети в день визита.",
             "nextMove": "Сверните с Карангахапе‑роуд на узкую Галатос‑стрит (Galatos Street), которая начинается между офисными зданиями. На углу с улицей стоит небольшой двухэтажный дом из 1930‑х. Это музыкальный клуб Galatos. Его вход украшен неоном, а изнутри часто доносятся звуки репетиций.",
             "deepDive": [
               {
@@ -7897,7 +7924,7 @@
                 "body": "Galatos хорош тем, что не выглядит как большой городской landmark. Его сила в масштабе: боковая улица, несколько уровней, афиши, охрана, проходы, поздний вход. Именно такие места объясняют, почему K Road держит музыкальную сцену не только вывесками, но и рабочими залами."
               }
             ],
-            "sourceNote": "Проверено по AudioCulture Galatos article and official Galatos venue-hire/customer-support pages: Druids' Hall opened on 6 May 1908 and later became Galatos; modern Galatos describes live music/theatre venue hire for gigs, concerts, dance nights and film/corporate events, one level or all three; customer support notes R18, event-dependent door sales, mostly standing shows and main-room accessibility limits."
+            "sourceNote": "Проверено по AudioCulture и Galatos: бывший Druids' Hall открылся в 1908 году; современный Galatos работает как площадка событий с R18, билетами/продажами на входе и доступностью, зависящими от конкретного события."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7906,9 +7933,10 @@
           },
           "hours": {
             "rules": [],
-            "summary": "Только по событиям; R18, расписание, билеты и door sales проверяйте на официальном сайте/соцсетях Galatos.",
-            "checkedAt": "2026-06-26"
+            "summary": "Только по событиям; R18, расписание, билеты и продажи на входе проверяйте на официальном сайте/соцсетях Galatos.",
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-7",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-7",
             "kind": "photo",
@@ -7939,7 +7967,7 @@
           "walk": "-",
           "content": {
             "context": "Финал у George Courts возвращает маршрут из ночной сцены к торговой памяти K Road. K Road Business Association называет здание одним из landmark buildings улицы: бывший George Courts Department Store завершили в 1926 году, а после закрытия магазина в 1988 году его превратили в apartment building в 1993-м. DigitalNZ/New Zealand Fashion Museum добавляет, что история началась как drapery business братьев Court в 1886 году; к 1920 году George купил участки у Karangahape Road и France Street (ныне Mercury Lane) для нового department store, вдохновленного Selfridges. Heritage New Zealand фиксирует здание как Category 2 historic place и private/no public access. Поэтому смотрите на фасад как на публичную память о магазине, а не как на входной stop.",
-            "lookFor": "крупный фасад бывшего George Court Department Store\nследы department-store масштаба: окна, ритм этажей, угловое положение\nMercury Lane / бывшую France Street как торговый адрес",
+            "lookFor": "крупный фасад бывшего George Court Department Store; следы department-store масштаба: окна, ритм этажей, угловое положение; Mercury Lane / бывшую France Street как торговый адрес",
             "practical": "Здание частное: не заходите в жилые/служебные части без приглашения. Для фотографий используйте широкую часть тротуара и не задерживайтесь на углу у потока машин.",
             "nextMove": "На этом маршрут заканчивается. Для продолжения K Road можно идти дальше к Ponsonby Road, но этот guide сознательно завершается у Mercury Lane и бывшего George Courts.",
             "deepDive": [
@@ -7948,7 +7976,7 @@
                 "body": "George Courts важен тем, что не совпадает с современным образом K Road как nightlife strip. Его фасад напоминает о времени, когда сюда ехали за тканями, витринами, лифтами и поздними прогулками по магазинам. Без этого слоя ночная культура улицы выглядит слишком плоской."
               }
             ],
-            "sourceNote": "Проверено по K Road Business Association George Courts page, Heritage New Zealand George Courts listing and DigitalNZ/New Zealand Fashion Museum Fashion Strip: building completed in 1926; store closed in 1988 and converted to apartments in 1993; business began as Court brothers' drapery in 1886; by 1920 George had bought sites at Karangahape Road and France Street/Mercury Lane for a Selfridges-inspired department store; Heritage NZ lists the private building as Historic Place Category 2."
+            "sourceNote": "Проверено по K Road Business Association, Heritage NZ и DigitalNZ: здание George Court завершено в 1926 году, магазин закрылся в 1988-м, в 1993-м здание переоборудовали под квартиры; сегодня это частный исторический объект."
           },
           "entry": "снаружи",
           "coordinates": {
@@ -7958,8 +7986,9 @@
           "hours": {
             "rules": [],
             "summary": "Частное здание; фасад виден с улицы, доступ внутрь зависит от жильцов и арендаторов.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
+          "photoAssetId": "auckland-karangahape-road-night-culture-stop-8",
           "photo": {
             "id": "auckland-karangahape-road-night-culture-stop-8",
             "kind": "photo",
@@ -7980,7 +8009,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/auckland/auckland-karangahape-road-night-culture-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/auckland/auckland-karangahape-road-night-culture-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «auckland-karangahape-road-night-culture»"
+        "alt": "Маршрутная обложка: Karangahape Road, Artspace, Samoa House, Galatos и ночная культура."
       },
       "basemap": {
         "image": "https://rentery.github.io/images/v1/auckland/auckland-karangahape-road-night-culture-basemap.png",
@@ -8319,8 +8348,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Деревня Маунт‑Иден и исторический центр».",
       "content": {
         "context": "Начните в Mt Eden Village, у угла Mount Eden Road и Ngauruhoe Street. Местная история связывает ядро торговой деревни с магазином Alfred Cucksey 1873 года: к концу 1870-х рядом уже были школа и церковь, а tram service начала XX века помогла расширить retail cluster. Сегодня эта остановка нужна не как “милый пригород”, а как контраст к maunga: внизу — дорожная, торговая и церковная инфраструктура колониального поселения, наверху — более древняя pā-логика террас и кратера. Methodist Church / Village Centre рядом построили в 1900 году по проекту Arthur Herbert White, и она до сих пор работает как community venue.",
-        "lookFor": "Timber-gothic силуэт Methodist Church\nЛинию Mount Eden Road как раннюю связь с городом\nКак магазины и кафе стоят прямо у подножья maunga",
-        "practical": "Это exterior-first остановка на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
+        "lookFor": "Timber-gothic силуэт Methodist Church; Линию Mount Eden Road как раннюю связь с городом; Как магазины и кафе стоят прямо у подножья maunga",
+        "practical": "Это остановка для внешнего осмотра на оживленной улице. Village Centre и церковь имеют собственные часы и события; не заходите внутрь без проверки текущего расписания.",
         "nextMove": "От деревни идите по Mount Eden Road к Puhi Huia Road и поднимайтесь к парковкам/воротам Maungawhau.",
         "deepDive": [
           {
@@ -8328,13 +8357,14 @@
             "body": "Mt Eden Village помогает не романтизировать вулкан как отдельную природную открытку. Maungawhau всегда был связан с поселением: сначала как pā и food-storage landscape, потом как ориентир для suburb, дороги, трамвая, церкви и магазинов."
           }
         ],
-        "sourceNote": "Проверено по Mt Eden Village history, Mt Eden Village Centre About and Mt Eden Village churches pages: village nucleus grew from Alfred Cucksey's 1873 store; late-1870s school/church and 1908/1920s tram service shaped the retail cluster; Methodist Church was built in 1900 to Arthur Herbert White's design and now operates as the community Village Centre."
+        "sourceNote": "Проверено по Mt Eden Village history, Village Centre и churches: торговое ядро связывают с магазином Alfred Cucksey 1873 года, церковью/школой конца 1870-х, трамваем начала XX века и Methodist Church 1900 года."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.88247,
         "longitude": 174.76152
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-1",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-1",
         "kind": "photo",
@@ -8351,7 +8381,7 @@
       "hours": {
         "rules": [],
         "summary": "Открытая улица; часы Village Centre, церкви, кафе и магазинов различаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8368,8 +8398,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Парковка Puhi Huia: путь к маунгау».",
       "content": {
         "context": "Puhi Huia Road — место, где прогулка меняет режим. Tūpuna Maunga Authority перечисляет здесь visitor car parks, public toilets и главные gate hours, но важнее другое: с января 2016 года summit road и tihi закрыты для частных автомобилей, мотоциклов и скутеров. Maungawhau стал первым maunga, возвращенным пешеходному пространству под Authority. Поэтому старт подъема не просто логистика; это видимое решение о том, что культурно и археологически важный tihi не должен работать как автомобильная смотровая площадка.",
-        "lookFor": "Ворота и signage на Puhi Huia Road\nПарковки у roundabout и старого Tea Kiosk\nПереход от улицы к pedestrian maunga",
-        "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Dogs under control on leash; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижнего walking track из-за Batger Quarry works.",
+        "lookFor": "Ворота и signage на Puhi Huia Road; Парковки у roundabout и старого Tea Kiosk; Переход от улицы к pedestrian maunga",
+        "practical": "Главные ворота: летом 07:00-20:30, зимой 07:00-19:00. Собак держите на поводке и под контролем; не заходите на закрытые склоны. В 2026 году возможны сужения Puhi Huia Road и временные закрытия нижней тропы из-за работ Batger Quarry.",
         "nextMove": "Пройдите через ворота и поднимайтесь по дороге к старому kiosk / Te Ipu Kōrero; следуйте текущим указателям, если работы меняют обычный путь.",
         "deepDive": [
           {
@@ -8377,13 +8407,14 @@
             "body": "У Puhi Huia Road становится понятно, что сохранение maunga — это не абстрактное уважение. Оно выражено в воротах, запрете частных машин на summit road, просьбе держать собак на поводке и необходимости идти по обозначенной поверхности."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page: main entrance gate hours summer 07:00-20:30 and winter 07:00-19:00; summit road/tihi permanently closed to private vehicles in January 2016; toilets and visitor car parks listed around Puhi Huia Road; dogs under control on leash; Batger Quarry stabilisation works in 2026 may narrow Puhi Huia Road and temporarily close the lower walking track."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority: главные ворота Maungawhau имеют сезонные часы; summit road/tihi закрыты для частных машин с 2016 года; у Puhi Huia Road есть парковки/туалеты, собаки только на поводке, а работы Batger Quarry могут менять проход."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8785,
         "longitude": 174.7642
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-2",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-2",
         "kind": "photo",
@@ -8400,7 +8431,7 @@
       "hours": {
         "rules": [],
         "summary": "Главные ворота Maungawhau: лето 07:00-20:30, зима 07:00-19:00; follow onsite signs during works.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8418,8 +8449,8 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Центр посетителей Te Ipu Kōrero o Maungawhau».",
       "content": {
         "context": "Te Ipu Kōrero o Maungawhau помогает не свести подъём к “виду на Sky Tower”. AucklandNZ описывает здесь panels, short film и augmented-reality model: visitor experience показывает eruption 28,000 years ago, Maungawhau pā around 1200AD, whare, rua and mara kai on terraced slopes. Tūpuna Maunga Authority добавляет, что education centre находится в kiosk, а Friend & Whau café делит с ним mid-point на Maunga. Если центр закрыт, остановка всё равно важна как место, где официальный маршрут прямо говорит: геология и mana whenua narrative здесь неразделимы.",
-        "lookFor": "Старый kiosk и вход в Te Ipu Kōrero\nСвязку education centre и café на середине подъема\nПереход от road approach к boardwalk/tihi",
-        "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку exterior/logistics stop и проверяйте текущие объявления перед визитом.",
+        "lookFor": "Старый kiosk и вход в Te Ipu Kōrero; Связку education centre и café на середине подъема; Переход от road approach к boardwalk/tihi",
+        "practical": "AucklandNZ указывает: Te Ipu Kōrero открыт по выходным, вход бесплатный. Если вы идете в будний день, считайте эту точку внешней/логистической остановкой и проверяйте текущие объявления перед визитом.",
         "nextMove": "После kiosk поднимайтесь выше к boardwalk и держитесь обозначенного маршрута вокруг кратера.",
         "deepDive": [
           {
@@ -8427,13 +8458,14 @@
             "body": "Главная роль Te Ipu Kōrero — сменить язык восприятия. До него можно думать о maunga как о парке и подъёме; после него boardwalk читается как защита pā-следов, а кратер — как геологический и культурный центр истории."
           }
         ],
-        "sourceNote": "Проверено по AucklandNZ Te Ipu Kōrero and Tūpuna Maunga Authority Maungawhau pages: centre has information panels, short film and interactive augmented-reality model of the eruption and pā life; AucklandNZ says it is open weekends and free; TMA places Te Ipu Kōrero and Friend & Whau café in the kiosk."
+        "sourceNote": "Проверено по AucklandNZ и Tūpuna Maunga Authority: Te Ipu Kōrero размещен в старом kiosk, рассказывает о вулкане и pā-ландшафте, заявлен как бесплатный и открытый по выходным."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8788,
         "longitude": 174.7648
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-3",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-3",
         "kind": "photo",
@@ -8450,7 +8482,7 @@
       "hours": {
         "rules": [],
         "summary": "Te Ipu Kōrero: бесплатно, открыто по выходным; проверьте текущие объявления, если центр обязателен для вашего маршрута.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8468,7 +8500,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Кратер Te Kapua kai a Mataoho».",
       "content": {
         "context": "У края кратера источник лучше любой метафоры: Tūpuna Maunga Authority описывает Maungawhau как elongated scoria cone из двух перекрывающихся конусов, извергшихся около 28,000 лет назад. Южный конус — самый молодой и высокий, с кратером около 180 метров в диаметре и 50 метров глубиной. Его имя Te Kapua kai a Mataoho переводится как “food bowl of Mataoho”, deity responsible for volcanic activity. Не спускайтесь внутрь и не уходите с настила: склоны вокруг кратера — не пустая трава, а wāhi tapu и археологический ландшафт pā.",
-        "lookFor": "Глубину и почти правильную чашу кратера\nТеррасы и pits вокруг rim track\nКак boardwalk удерживает вас над чувствительной поверхностью",
+        "lookFor": "Глубину и почти правильную чашу кратера; Террасы и pits вокруг rim track; Как boardwalk удерживает вас над чувствительной поверхностью",
         "practical": "Держитесь boardwalk и обозначенных троп; не срезайте по склонам и не заходите в кратер. На tihi бывает сильный ветер, а после дождя настил и подходы могут быть скользкими.",
         "nextMove": "Двигайтесь по boardwalk к ātea и новым viewing platforms на гребне.",
         "deepDive": [
@@ -8477,13 +8509,14 @@
             "body": "Самое сильное место Maungawhau — то, куда вы не должны идти. Кратер виден почти полностью, но boardwalk задаёт дистанцию: смотреть можно, повреждать поверхность нельзя. Это делает уважение частью маршрута, а не подписью на табличке."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records 196m summit, about 28,000-year eruption, two overlapping scoria cones, southern crater about 180m wide and 50m deep, Te Kapua kai a Mataoho meaning, pā terraces/pits and boardwalk protection; AucklandNZ describes the summit crater as wāhi tapu and tells visitors to stick to paths."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: кратер Te Kapua kai a Mataoho и tihi требуют движения по обозначенным дорожкам/бордволку; режим зависит от расписания ворот и временных закрытий."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.877903,
         "longitude": 174.763983
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-4",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-4",
         "kind": "photo",
@@ -8500,7 +8533,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; держитесь boardwalk/paths и проверяйте временные closures.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8518,7 +8551,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Бордволк и ātea на гребне».",
       "content": {
         "context": "Boardwalk здесь — не декоративная дорожка для фотографий. Authority пишет, что до него rutting around the crater rim contributed to erosion of sensitive features, а новая система должна улучшить visitor experience и защитить Maunga. Extension июня 2023 года добавил ātea, platforms и seating, открыл views from the harbours to the network of Tūpuna Maunga и включил native planting для kahukōwhai и mokomoko. Камень в части design вернули с Mount Eden prison после demolition, с blessing mana whenua. Поэтому сидеть здесь на скамейке — значит находиться внутри очень продуманного компромисса между доступом и защитой.",
-        "lookFor": "Широкую ātea и новые seating/viewing points\nNative planting вокруг boardwalk\nКак настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
+        "lookFor": "Широкую ātea и новые seating/viewing points; Native planting вокруг boardwalk; Как настил обходит tūāpapa и rua вместо того, чтобы вести прямо по ним",
         "practical": "Не сходите с boardwalk ради фотографии. Ветер на ātea может быть резким; придерживайте шляпы, телефоны и детские вещи.",
         "nextMove": "От ātea продолжайте к западной стороне кратера, где лучше читать направление lava flows и форму пригородов вокруг maunga.",
         "deepDive": [
@@ -8527,13 +8560,14 @@
             "body": "Этот boardwalk хорош тем, что не пытается стать главной достопримечательностью. Он поднимает человека над землей, делает route legible и одновременно говорит: самое важное здесь — maunga, а не настил."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and 2023 boardwalk extension announcement: August 2020 boardwalk joined by June 2023 tihi/crater/rim extension with ātea, platforms, seating, native planting for kahukōwhai and mokomoko, stone returned from demolished Mount Eden prison, and explicit purpose of protecting pā remnants, tūāpapa and rua."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority: tihi и ātea доступны пешком, но чувствительные археологические склоны защищены; держитесь настилов и не сходите на закрытые участки."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.877719,
         "longitude": 174.765228
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-5",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-5",
         "kind": "photo",
@@ -8550,7 +8584,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; используйте только boardwalk и открытые viewing points.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8568,7 +8602,7 @@
       "walk": "Продолжайте к следующей точке маршрута после остановки «Западный вид: лавовые реки и Waitākere Ranges».",
       "content": {
         "context": "На западной стороне попробуйте увидеть не только skyline, но и разлитую форму вулкана. Tūpuna Maunga Authority описывает lava flows Maungawhau во все стороны: northeast к Khyber Pass Road и Newmarket, southwest к Balmoral Road, west around Gribblehirst Park in Morningside. Эти названия сегодня звучат как адреса и дороги, но на гребне они снова становятся следами потока. Science Learning Hub также описывает Mt Eden как scoria cone из двух перекрывающихся cones, связанных с Auckland Volcanic Field. Поэтому западный вид нужен маршруту как map-in-the-body: вы стоите на source, а город лежит на последствиях.",
-        "lookFor": "Западный уклон от crater rim\nНаправление к Balmoral, Morningside и Gribblehirst Park\nКак дороги и suburbs повторяют более старую вулканическую форму",
+        "lookFor": "Западный уклон от crater rim; Направление к Balmoral, Morningside и Gribblehirst Park; Как дороги и suburbs повторяют более старую вулканическую форму",
         "practical": "Это windy exterior viewpoint. Держитесь открытого boardwalk/viewing area и не заходите на травяные склоны, даже если вид кажется лучше на шаг в сторону.",
         "nextMove": "Продолжайте круг по boardwalk к северной стороне: дальше вулканическая карта складывается с видом на гавани и другие maunga.",
         "deepDive": [
@@ -8577,13 +8611,14 @@
             "body": "С западного гребня Maungawhau перестает быть отдельным конусом. Его lava flows становятся дорожной и пригородной логикой: то, что выглядит обычным urban fabric, выросло поверх более старой формы земли."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau page and Science Learning Hub Auckland Volcanic Field map: TMA records Maungawhau lava flows northeast to Khyber Pass/Newmarket, southwest to Balmoral Road and west around Gribblehirst Park in Morningside; Science Learning Hub identifies Mt Eden as a scoria cone with two overlapping cones around 28,000 years ago."
+        "sourceNote": "Проверено по AucklandNZ, Tūpuna Maunga Authority и геологическим источникам Auckland: западные виды помогают читать лавовые потоки и связь Maungawhau с соседними вулканическими формами."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.878,
         "longitude": 174.762
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-6",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-6",
         "kind": "photo",
@@ -8600,7 +8635,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; exposed viewpoint, stay on boardwalk/open paths.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
@@ -8618,7 +8653,7 @@
       "walk": "-",
       "content": {
         "context": "Северный вид завершает маршрут не postcard-панорамой, а network view. Authority пишет, что с summit открываются виды на city, harbours and network of other maunga; 2023 ātea специально framed views from the harbours to the network of Tūpuna Maunga across Tāmaki Makaurau. Поэтому смотрите не только на центр и Waitematā, но и на другие конусы в городе. Maungawhau был enormous pā, но он никогда не существовал в одиночку: settlement, movement, food storage, defense and whakapapa связывали maunga между собой. Финал хорош именно этим: вы стоите на одном maunga и видите город как поле связанных вершин.",
-        "lookFor": "Waitematā Harbour и city centre\nRangitoto и другие видимые maunga на горизонте\nКак boardwalk направляет взгляд, не требуя сходить с tihi",
+        "lookFor": "Waitematā Harbour и city centre; Rangitoto и другие видимые maunga на горизонте; Как boardwalk направляет взгляд, не требуя сходить с tihi",
         "practical": "На северных viewing points бывает тесно. Уступайте место, не задерживайте проход ради фото и начинайте спуск с запасом до закрытия ворот.",
         "nextMove": "Спускайтесь по обозначенному route обратно к Puhi Huia Road. Если продолжаете в village, держитесь открытых дорожек и текущих signage.",
         "deepDive": [
@@ -8627,13 +8662,14 @@
             "body": "Панорама важна не количеством landmarks, а тем, что она меняет масштаб. Maungawhau превращается из одиночной вершины в часть сети tūpuna maunga, гавани и городской ткани. Так финал возвращает взгляд от selfie view к общей карте Tāmaki Makaurau."
           }
         ],
-        "sourceNote": "Проверено по Tūpuna Maunga Authority Maungawhau and AucklandNZ Maungawhau pages: TMA records spectacular views over city, harbours and network of other maunga; 2023 boardwalk/ātea designed for views from harbours to Tūpuna Maunga network; AucklandNZ frames the summit as panoramic city/harbour/coastline viewpoint and asks visitors to respect paths/wāhi tapu."
+        "sourceNote": "Проверено по Tūpuna Maunga Authority и AucklandNZ: северные виды показывают город, гавань и цепочку maunga; посещение зависит от расписания ворот, погоды и указателей на месте."
       },
       "entry": "снаружи",
       "coordinates": {
         "latitude": -36.8764,
         "longitude": 174.7648
       },
+      "photoAssetId": "auckland-maungawhau-volcano-city-view-stop-7",
       "photo": {
         "id": "auckland-maungawhau-volcano-city-view-stop-7",
         "kind": "photo",
@@ -8650,13 +8686,14 @@
       "hours": {
         "rules": [],
         "summary": "Доступ по gate hours Maungawhau; начинайте спуск с запасом до закрытия ворот.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       }
     },
     {
       "id": "auckland-domain-parnell-memory-park-1",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 1,
+      "entry": "снаружи",
       "name": "Пукекава / Auckland Domain",
       "nameLocal": "Pukekawa / Auckland Domain",
       "sourceIds": [
@@ -8668,7 +8705,7 @@
       "walk": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
       "content": {
         "context": "Вы начинаете в Pukekawa / Auckland Domain — одном из крупнейших парков Окленда и старейшей зелёной сцене города. Маорийское название Pukekawa обычно связывают с памятью о погибших в древних войнах; современный парк при этом живёт очень буднично: лужайки, спорт, пикники, тропы и музей на гребне. Важно смотреть не только на траву, но и на форму земли: это вулканический рельеф, который город превратил в общественный резерв, место отдыха и парадный подступ к военному мемориалу.",
-        "lookFor": "Широкую чашу парка и перепады рельефа\nОсь на музейный холм над открытым полем\nПереход от спортивных лужаек к участкам native bush",
+        "lookFor": "Широкую чашу парка и перепады рельефа; Ось на музейный холм над открытым полем; Переход от спортивных лужаек к участкам native bush",
         "practical": "Парк открыт круглосуточно, но отдельные объекты внутри него работают по своим часам. Дорожки могут быть мокрыми после дождя; для этой прогулки лучше обувь, в которой спокойно идти по траве, лестницам и лесной тропе.",
         "nextMove": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
         "deepDive": [
@@ -8677,7 +8714,7 @@
             "body": "Pukekawa легко принять за просто красивую зелёную паузу. Но смысл остановки в другом: здесь город присвоил вулканическую форму как общую территорию, а затем добавил к ней музей, мемориал, теплицы и прогулочные тропы. Поэтому маршрут стартует с земли, а не со здания."
           }
         ],
-        "sourceNote": "Проверено по AucklandNZ Pukekawa Auckland Domain и Parnell Business Association heritage page: парк открыт 24 часа, описан как один из крупнейших парков Окленда с Wintergardens, Auckland Museum и native forest walk; Parnell page связывает название Pukekawa с памятью о погибших в древних войнах."
+        "sourceNote": "Проверено по Auckland Council и AucklandNZ: Pukekawa/Auckland Domain - открытый парк вокруг вулканического кратера, с дорожками, спортивными зонами и музейной осью; доступ зависит от парковых событий и состояния троп."
       },
       "coordinates": {
         "latitude": -36.8591583,
@@ -8686,8 +8723,9 @@
       "hours": {
         "rules": [],
         "summary": "Парк открыт круглосуточно; часы отдельных объектов внутри отличаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-1",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-1",
         "kind": "photo",
@@ -8706,6 +8744,7 @@
       "id": "auckland-domain-parnell-memory-park-2",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 2,
+      "entry": "по билету",
       "name": "Auckland War Memorial Museum",
       "nameLocal": "Tāmaki Paenga Hira / Auckland War Memorial Museum",
       "sourceIds": [
@@ -8717,8 +8756,8 @@
       "time": "15 мин",
       "walk": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
       "content": {
-        "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как exterior-first точка.",
-        "lookFor": "Классический фасад и широкие ступени на гребне холма\nСвязку музейного здания с Court of Honour ниже\nНадписи и мемориальную символику вокруг входа",
+        "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как точка для внешнего осмотра.",
+        "lookFor": "Классический фасад и широкие ступени на гребне холма; Связку музейного здания с Court of Honour ниже; Надписи и мемориальную символику вокруг входа",
         "practical": "Перед входом обязательно проверьте официальный сайт Auckland Museum: страница часов показывает стандартные интервалы, но также может выводить alert о закрытии. Если музей закрыт, не теряйте остановку: фасад, ступени и переход к ценотафу остаются главным смыслом маршрута.",
         "nextMove": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
         "deepDive": [
@@ -8727,7 +8766,7 @@
             "body": "В маршруте музей не просто культурная остановка между парком и Parnell. Он объясняет, почему Domain читается как гражданская сцена: природный холм, архитектурная симметрия и военная память поставлены в одну линию, а город подходит к ним пешком через парк."
           }
         ],
-        "sourceNote": "Проверено по Auckland Museum hours/admission and galleries pages and NZ History Auckland cenotaph page: official hours page lists regular hours and prices but also currently displays a closure alert; galleries page notes open/closed gallery conditions; NZ History records the 28 November 1929 cenotaph consecration and museum opening sequence."
+        "sourceNote": "Проверено по Auckland Museum: часы, билеты и состояние галерей нужно сверять на официальной странице перед входом; если музей закрыт, фасад и ступени остаются открытым маршрутом к мемориальной оси."
       },
       "coordinates": {
         "latitude": -36.8594444,
@@ -8736,8 +8775,9 @@
       "hours": {
         "rules": [],
         "summary": "Проверяйте официальный сайт: страница часов может показывать стандартное расписание и отдельный alert о закрытии.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-2",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-2",
         "kind": "photo",
@@ -8756,6 +8796,7 @@
       "id": "auckland-domain-parnell-memory-park-3",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 3,
+      "entry": "снаружи",
       "name": "Ценотаф и Court of Honour",
       "nameLocal": "Auckland Cenotaph / Court of Honour",
       "sourceIds": [
@@ -8767,7 +8808,7 @@
       "walk": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
       "content": {
         "context": "Постоянный Auckland Cenotaph вырос из временного памятника, который ставили к Anzac Day у Town Hall в 1922 году. В 1928 году Returned Soldiers’ Association предложила перенести эту форму к новому War Memorial Museum, и 28 ноября 1929 года ценотаф освятили в Court of Honour. Он повторяет лондонский Whitehall Cenotaph, но стоит уже в другой городской драматургии: перед музеем, на склоне парка, лицом к открытой лужайке. Поэтому здесь важно не искать “дополнительный памятник”, а увидеть, как музей и площадь работают одной мемориальной машиной.",
-        "lookFor": "Саркофаг наверху обелиска\nНадпись The Glorious Dead и даты MCMXIV / MCMXVIII\nКак Court of Honour выравнивает взгляд между парком и музеем",
+        "lookFor": "Саркофаг наверху обелиска; Надпись The Glorious Dead и даты MCMXIV / MCMXVIII; Как Court of Honour выравнивает взгляд между парком и музеем",
         "practical": "Ценотаф находится снаружи, но в дни ANZAC Day и других церемоний возможны ограничения, толпа и перекрытия. Остановитесь сбоку от главной оси, чтобы не мешать памятным мероприятиям и фотографиям.",
         "nextMove": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
         "deepDive": [
@@ -8776,7 +8817,7 @@
             "body": "Ценотаф повторяет Whitehall, но не копирует Лондон полностью. В Окленде та же форма поставлена у паркового холма и музея, поэтому строгий имперский язык начинает говорить о конкретной провинциальной памяти, списках погибших и ежегодных церемониях города."
           }
         ],
-        "sourceNote": "Проверено по NZ History Auckland cenotaph and Auckland Museum hours/admission pages: temporary Town Hall cenotaph first erected for Anzac Day 1922; permanent cenotaph proposed in 1928, consecrated 28 November 1929, designed by Grierson, Aimer and Draffin as a Whitehall replica with concrete faced in Portland stone; first Anzac Day ceremony here was 25 April 1930."
+        "sourceNote": "Проверено по NZ History и Auckland Museum: постоянный ценотаф был освящен 28 ноября 1929 года и используется для памятных церемоний, особенно вокруг ANZAC Day."
       },
       "coordinates": {
         "latitude": -36.859264,
@@ -8785,8 +8826,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытая мемориальная площадка; церемонии и музейные/парковые события могут ограничивать доступ.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-3",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-3",
         "kind": "photo",
@@ -8805,6 +8847,7 @@
       "id": "auckland-domain-parnell-memory-park-4",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 4,
+      "entry": "свободно",
       "name": "Зимний сад Auckland Domain",
       "nameLocal": "Auckland Domain Wintergardens",
       "sourceIds": [
@@ -8817,7 +8860,7 @@
       "walk": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
       "content": {
         "context": "Wintergardens прячутся ниже музейного холма, и это резкая смена регистра после ценотафа. Вместо официальной памяти — две barrel-vaulted glasshouses, двор с прудом, статуи и ботаническая витрина, где умеренная и тропическая коллекции поставлены друг напротив друга. Auckland Council описывал их как 100-летние glasshouses, заново открытые после двухлетней реставрации в 2023 году; проект раннего XX века связывают с William Gummer и практикой Gummer and Ford. Здесь парк становится почти комнатой: стекло, влажность, сезонные посадки и фернерий вместо широкого поля.",
-        "lookFor": "Парные стеклянные своды по сторонам двора\nМраморные статуи 1920-30-х годов и пруд\nКонтраст тропической влажности и умеренных сезонных посадок",
+        "lookFor": "Парные стеклянные своды по сторонам двора; Мраморные статуи 1920-30-х годов и пруд; Контраст тропической влажности и умеренных сезонных посадок",
         "practical": "Вход свободный. New Zealand Gardens Trust указывает сезонные часы: 1 ноября-31 марта ежедневно 09:00-17:00, 1 апреля-31 октября ежедневно 09:00-16:30. Внутри влажно, а дорожки вокруг могут быть скользкими после дождя.",
         "nextMove": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
         "deepDive": [
@@ -8826,7 +8869,7 @@
             "body": "Wintergardens важны не только редкими растениями. Они меняют температуру маршрута: после камня, ступеней и военной памяти вы входите в место ухода, реставрации и сезонности. Это помогает увидеть Domain как набор городских функций, а не просто большой парк."
           }
         ],
-        "sourceNote": "Проверено по New Zealand Gardens Trust, OurAuckland and Parnell Business Association: Wintergardens have two display glasshouses, courtyard/pond/statues and fernery; NZGT lists free admission and seasonal daily hours; OurAuckland records two-year restoration and 2023 reopening of the 100-year-old glasshouses, designed in the early 1900s by William Gummer / Gummer and Ford."
+        "sourceNote": "Проверено по New Zealand Gardens Trust и OurAuckland: Wintergardens имеют два стеклянных павильона, двор с прудом и сезонные часы; комплекс был восстановлен и вновь открыт после реставрации."
       },
       "coordinates": {
         "latitude": -36.863333,
@@ -8835,8 +8878,9 @@
       "hours": {
         "rules": [],
         "summary": "Бесплатно; 1 ноя-31 мар 09:00-17:00, 1 апр-31 окт 09:00-16:30 ежедневно.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-4",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-4",
         "kind": "photo",
@@ -8855,6 +8899,7 @@
       "id": "auckland-domain-parnell-memory-park-5",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 5,
+      "entry": "снаружи",
       "name": "Тропа Lover’s Walk",
       "nameLocal": "Lover’s Walk / Pukekawa Auckland Domain",
       "sourceIds": [
@@ -8867,7 +8912,7 @@
       "walk": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
       "content": {
         "context": "Lover’s Walk нужна маршруту как тихий разрез через парк. Auckland Council в 2023 году писал о новой связке через Pukekawa / Auckland Domain к Parnell Station: она соединяется с уже существующей Lover’s Walk и продолжает пешеходную связь дальше к Carlaw Park Student Village. Поэтому эта остановка не про романтическую легенду, а про то, как зелёная ложбина стала рабочим городским проходом. Рядом с этой темой лежит и старая водная инфраструктура: Engineering New Zealand описывает первые городские водные резервуары в Auckland Domain, начавшие работу в январе 1866 года; сегодняшние duck ponds связаны с той системой.",
-        "lookFor": "Деревянные настилы и короткие мостики на влажных участках\nПереход от декоративных теплиц к native bush\nОщущение, что парк одновременно прогулочный и транзитный",
+        "lookFor": "Деревянные настилы и короткие мостики на влажных участках; Переход от декоративных теплиц к native bush; Ощущение, что парк одновременно прогулочный и транзитный",
         "practical": "После дождя Lover’s Walk и соседние тропы могут быть скользкими. Если участок закрыт или слишком мокрый, используйте более широкие парковые дорожки к Parnell Station и дальше к Parnell Road.",
         "nextMove": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
         "deepDive": [
@@ -8876,7 +8921,7 @@
             "body": "Эта тропа хороша тем, что выводит Domain из парадного режима. После музея и Wintergardens вы идёте не к очередному объекту, а через живую инфраструктуру ходьбы: настилы, влажный овраг, связь со станцией и выход к пригородной улице."
           }
         ],
-        "sourceNote": "Проверено по OurAuckland Parnell Station walkway article, AucklandNZ Pukekawa Auckland Domain and Engineering New Zealand water reservoirs page: 2023 path connects with pre-existing Lover's Walk; AucklandNZ describes a native forest walk in the Domain; first city water supply reservoirs in Auckland Domain began operation in January 1866 and today's duck ponds are linked to those reservoirs."
+        "sourceNote": "Проверено по OurAuckland, AucklandNZ и Engineering NZ: Lover's Walk связывает зимние сады, native bush и путь к Parnell; влажные участки и старые водные резервуары объясняют осторожность после дождя."
       },
       "coordinates": {
         "latitude": -36.855098,
@@ -8885,8 +8930,9 @@
       "hours": {
         "rules": [],
         "summary": "Парковая тропа; проверяйте состояние дорожек после дождя и обходите закрытые участки.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-5",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-5",
         "kind": "photo",
@@ -8905,6 +8951,7 @@
       "id": "auckland-domain-parnell-memory-park-6",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 6,
+      "entry": "снаружи",
       "name": "Parnell Village и Parnell Road",
       "nameLocal": "Parnell Road / Village of Parnell",
       "sourceIds": [
@@ -8917,8 +8964,8 @@
       "walk": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
       "content": {
         "context": "Parnell Heritage датирует основание пригорода сентябрём 1841 года: Роберт Тод разделил участок на 36 маленьких allotments и рекламировал их как Village of Parnell. Parnell Business Association подчёркивает тот же образ “первого пригорода”, но сегодняшняя улица не является законсервированным 1840-м годом. В 1960-70-х Les Harvey скупал и восстанавливал обветшавшие дома и лавки, превращая их в рестораны, кафе, craft shops и boutiques. Поэтому смотрите на Parnell Road как на слой за слоем: ранний suburb, церковный центр епархии, трамвайная улица начала XX века и поздний heritage-retail проект.",
-        "lookFor": "Деревянные и кирпичные фасады разного возраста\nНебольшие проходы во дворы между магазинами и кафе\nКак улица постепенно подводит к церковному комплексу Parnell",
-        "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательный indoor stop без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
+        "lookFor": "Деревянные и кирпичные фасады разного возраста; Небольшие проходы во дворы между магазинами и кафе; Как улица постепенно подводит к церковному комплексу Parnell",
+        "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательную остановку внутри без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
         "nextMove": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
         "deepDive": [
           {
@@ -8926,7 +8973,7 @@
             "body": "Parnell важен именно своей неоднозначностью. Он честно старый по городским меркам Окленда, но привычный образ “village” во многом собран заново через реставрацию и коммерческую адаптацию. Это не делает место фальшивым; наоборот, показывает, как наследие начинает работать городской экономикой."
           }
         ],
-        "sourceNote": "Проверено по Parnell Heritage and Parnell Business Association heritage pages: Parnell claims Auckland's oldest suburb identity, Robert Tod's September 1841 Village of Parnell allotments are treated as the foundation moment, Bishop Selwyn chose Parnell as Church of England focus in 1842, tramcars ran up Parnell Road in the early 1900s, and Les Harvey's restorations created modern Parnell Village in/after the 1960s-70s."
+        "sourceNote": "Проверено по Parnell Heritage и Business Association: Parnell связывает себя с участками Robert Tod 1841 года, церковным центром Bishop Selwyn и реставрациями Les Harvey, создавшими современный Parnell Village."
       },
       "coordinates": {
         "latitude": -36.8564896,
@@ -8935,8 +8982,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытая улица; часы магазинов, кафе и галерей различаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-6",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-6",
         "kind": "photo",
@@ -8955,6 +9003,7 @@
       "id": "auckland-domain-parnell-memory-park-7",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 7,
+      "entry": "свободно",
       "name": "Holy Trinity Cathedral",
       "nameLocal": "Holy Trinity Cathedral / St Mary’s-in-Holy Trinity",
       "sourceIds": [
@@ -8968,7 +9017,7 @@
       "walk": "-",
       "content": {
         "context": "Holy Trinity Cathedral завершает маршрут не как одиночная достопримечательность, а как церковный precinct. Parnell Business Association напоминает, что Bishop Selwyn выбрал Parnell центром англиканской церкви в Auckland ещё в 1842 году. Сегодня это читается через соседство разных эпох: St Mary’s, деревянная Gothic Revival церковь Benjamin Mountfort, была построена в 1886-1898 годах и в 1982 году переехала через Parnell Road; современный Cathedral Nave был завершён в 1995 году. Внутри главный жест — Great Window над входом: официальный cathedral tour называет его крупнейшей площадью витража в Southern Hemisphere и прямо связывает европейские и Polynesian мотивы.",
-        "lookFor": "Great Window над входом в Cathedral Nave\nДеревянную St Mary’s-in-Holy Trinity рядом с собором\nКак старый и новый объёмы образуют один precinct, а не два отдельных здания",
+        "lookFor": "Great Window над входом в Cathedral Nave; Деревянную St Mary’s-in-Holy Trinity рядом с собором; Как старый и новый объёмы образуют один precinct, а не два отдельных здания",
         "practical": "Регулярные часы посещения собора: пн-сб 10:00-15:00, вс 12:00-15:00. Вход свободный, пожертвования приветствуются; службы, концерты и частные события могут менять доступ, поэтому проверьте расписание перед визитом.",
         "nextMove": "На этом маршрут заканчивается. Для возвращения в центр проверьте ближайшие автобусы по Parnell Road или спуститесь к станции Parnell, если удобно по расписанию.",
         "deepDive": [
@@ -8977,7 +9026,7 @@
             "body": "После парка, мемориала и торговой улицы собор показывает ещё один слой Parnell: не пригородную витрину, а институциональное место. Смысл финала в соседстве St Mary’s и нового nave — город не заменяет старую форму новой, а переставляет их рядом и заставляет работать вместе."
           }
         ],
-        "sourceNote": "Проверено по Holy Trinity Cathedral Discover, Cathedral Nave and St Mary's pages plus Parnell heritage page: regular visiting hours Mon-Sat 10:00-15:00 and Sun 12:00-15:00; St Mary's foundation stone 1886, completed/consecrated 1898, moved across Parnell Road on 6 March 1982; Cathedral Nave completed in 1995; Great Window is described by the cathedral as the largest expanse of stained glass in the Southern Hemisphere."
+        "sourceNote": "Проверено по Holy Trinity Cathedral и Parnell heritage: St Mary's заложена в 1886 и перенесена в 1982 году, Cathedral Nave завершен в 1995-м; часы посещения и доступ зависят от служб/событий."
       },
       "coordinates": {
         "latitude": -36.8598177,
@@ -9022,8 +9071,9 @@
           }
         ],
         "summary": "Пн-сб 10:00-15:00, вс 12:00-15:00; службы и события могут менять доступ.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-7",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-7",
         "kind": "photo",
@@ -9054,7 +9104,7 @@
       "walk": "Начните маршрут на восточном конце Карангахапе‑роуд, где она пересекает Симондс‑стрит и мост над скоростной магистралью. Спуститесь к стеклянным павильонам автобусных остановок — оттуда открывается панорама на центр Окленда и Истсайд. Держите спину к мосту, а взгляд направьте вдоль гребня на запад.",
       "content": {
         "context": "K Road лучше начинать не с витрин, а с гребня. Karangahape Road Business Association и Artspace объясняют Te Ara o Karangahape как древний путь маори к Manukau Harbour: Karangahape Road и Symonds Street старше Queen Street и были частью маршрута, который европейский город позже превратил в дорогу. Обновление улицы оставило этот слой в видимой инфраструктуре. На мосту и у остановок ищите стекло, вдохновленное pāua, стальные tukutuku-панели, созданные Тессой Харрис (Ngāi Tai ki Tāmaki) с командой, и круглые вставки в мощении — они отсылают к shell path, который мог светиться в лунном свете. Шум магистрали внизу делает смысл точки жестче: старый путь теперь проходит над самым современным разрезом города.",
-        "lookFor": "цветные pāua bus shelters на мосту\ntukutuku-панели на нижних стенах overbridge\nстальные диски shell path в мощении",
+        "lookFor": "цветные pāua bus shelters на мосту; tukutuku-панели на нижних стенах overbridge; стальные диски shell path в мощении",
         "practical": "Это открытый уличный участок с автобусами, велодорожками и плотным трафиком. Переходите только по сигналу и не стойте на узких местах overbridge, особенно вечером и после дождя.",
         "nextMove": "Начните у пересечения Karangahape Road и Symonds Street, затем двигайтесь по гребню к западу в сторону East Street и Artspace Aotearoa.",
         "deepDive": [
@@ -9063,7 +9113,7 @@
             "body": "В этой точке K Road перестает быть просто “районом с барами”. Вы стоите на транспортном слое, который помнит гораздо более старую логику ходьбы: гребень, путь, ориентиры, раковины и вид на гавань. Именно поэтому мост и автобусные павильоны работают как вход в маршрут."
           }
         ],
-        "sourceNote": "Проверено по K Road Business Association heritage page, OurAuckland Karangahape Road enhancement coverage and Auckland Transport enhancement brochure: Te Ara o Karangahape is described as a Māori walking route toward Manukau; the street upgrade uses pāua-inspired bus shelters, tukutuku panels and stainless-steel shell-path disks tied to mana whenua design narratives."
+        "sourceNote": "Проверено по K Road Business Association, OurAuckland и Auckland Transport: Te Ara o Karangahape связан с маорийским маршрутом, а обновление улицы использует pāua-навесы, tukutuku-панели и элементы shell path mana whenua."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9073,8 +9123,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытый уличный участок; трафик, события и дорожные работы могут менять комфорт прохода.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-1",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-1",
         "kind": "photo",
@@ -9104,8 +9155,8 @@
       "walk": "Продвигаясь по западному направлению, через пару минут вы увидите на левой стороне улицы яркую металлическую звезду и вывеску Tautai Pacific Arts Trust. Это вход в Artspace Aotearoa, находящийся на углу Карангахапе‑роуд и Ист‑стрит. Поверните налево, чтобы осмотреть фасад и заглянуть внутрь.",
       "content": {
         "context": "Artspace Aotearoa работает на K Road с другой скоростью, чем музеи на парадных площадях. Галерею основали в 1987 году художники и arts workers как публичное пространство для практик, которым тогда не хватало институциональной поддержки в Tāmaki Makaurau и дальше. Вход свободный, а программа меняется вопросами, выставками, чтениями и встречами. Важно и здание: Artspace находится на первом этаже бывшего central post office на 292 Karangahape Road и делит адрес с Tautai. Поэтому эта остановка связывает K Road сразу с несколькими слоями — почтовая инфраструктура 1970-х, современное искусство, Pacific arts и доступная городская культура без музейного порога.",
-        "lookFor": "металлическую звезду и вывеску у входа\nафиши текущих выставок\nчитальную комнату, если она открыта",
-        "practical": "Вход свободный. На дату проверки Artspace указывает часы вт-пт 10:00-18:00, чт до 20:00, сб 11:00-16:00, вс-пн закрыто; по вторникам 10:00-12:00 проходят low-sensory hours. Перед входом сверяйте текущую выставку и события.",
+        "lookFor": "металлическую звезду и вывеску у входа; афиши текущих выставок; читальную комнату, если она открыта",
+        "practical": "Вход свободный. На дату проверки Artspace указывает часы вт-пт 10:00-18:00, чт до 20:00, сб 11:00-16:00, вс-пн закрыто; по вторникам 10:00-12:00 проходят малосенсорные часы. Перед входом сверяйте текущую выставку и события.",
         "nextMove": "Продвигаясь по западному направлению, через пару минут вы увидите на левой стороне улицы яркую металлическую звезду и вывеску Tautai Pacific Arts Trust. Это вход в Artspace Aotearoa, находящийся на углу Карангахапе‑роуд и Ист‑стрит. Поверните налево, чтобы осмотреть фасад и заглянуть внутрь.",
         "deepDive": [
           {
@@ -9113,7 +9164,7 @@
             "body": "Для маршрута Artspace важен не как “галерея по пути”, а как доказательство, что K Road умеет быть институцией без тяжелой музейной оболочки. Здесь экспериментальная сцена, чтения и публичный доступ живут в бывшем почтовом здании на той же улице, где рядом работают клубы, библиотеки и аркады."
           }
         ],
-        "sourceNote": "Проверено по Artspace Aotearoa About and Access pages: founded in 1987 by artists and arts workers as a public contemporary art gallery; free and open to all; located at 292 Karangahape Road on the ground floor of the former central post office; current access page lists Tue-Fri/Sat hours, Thursday late opening and Tuesday low-sensory hours."
+        "sourceNote": "Проверено по Artspace Aotearoa: галерея основана в 1987 году, работает бесплатно на Karangahape Road; обычные часы, позднее открытие и малосенсорный интервал сверены по странице Access."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9148,9 +9199,10 @@
             "closes": "16:00"
           }
         ],
-        "summary": "Вт-ср/пт 10:00-18:00, чт 10:00-20:00, сб 11:00-16:00; вт 10:00-12:00 low-sensory hours.",
-        "checkedAt": "2026-06-26"
+        "summary": "Вт-ср/пт 10:00-18:00, чт 10:00-20:00, сб 11:00-16:00; вт 10:00-12:00 — малосенсорные часы.",
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-2",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-2",
         "kind": "photo",
@@ -9180,7 +9232,7 @@
       "walk": "От Artspace вернитесь немного к востоку по Karangahape Road. У радужного перехода и сводчатого входа под табличкой \"St Kevin’s Arcade\" начинается проход к Myers Park.",
       "content": {
         "context": "St Kevin’s Arcade показывает, каким K Road был до того, как его стали описывать только через nightlife. Официальная история аркады датирует её 1924 годом и расширением 1926 года, когда K Road была престижной торговой полосой, сравнимой с Oxford Street: здесь работали портные, dressmakers, tea rooms и фотостудии. Сегодня AucklandNZ описывает аркаду как heritage arcade и культурный хаб с независимыми бутиками, винтажем, книжными магазинами, студиями, кафе и eateries. Самое важное — не список арендаторов, а вертикальная роль здания: оно связывает шумный торговый гребень с зеленью Myers Park ниже.",
-        "lookFor": "сводчатый вход St Kevin’s Arcade\nрадужный переход у фасада\nвид из аркады вниз на Майерс‑парк",
+        "lookFor": "сводчатый вход St Kevin’s Arcade; радужный переход у фасада; вид из аркады вниз на Майерс‑парк",
         "practical": "Внутри много небольших магазинов и кафе: проходите не спеша, не задерживайтесь на лестницах и учитывайте часы отдельных арендаторов.",
         "nextMove": "Пройдите через аркаду к лестнице и площадке над Myers Park; следующая остановка начинается уже на перепаде высоты.",
         "deepDive": [
@@ -9189,7 +9241,7 @@
             "body": "Аркада работает как городской шарнир. С улицы она кажется торговой витриной, но внутри раскрывается как проход к парку, лестнице и старой долине. Поэтому ее стоит проходить, а не только фотографировать фасад."
           }
         ],
-        "sourceNote": "Проверено по official St Kevin's Arcade history and AucklandNZ St Kevin's Arcade page: built in 1924 and extended in 1926; K Road was then a premier shopping destination; arcade historically housed tailors, dressmakers, tea rooms and photography studios; AucklandNZ describes its current mix of independent boutiques, vintage/designer stores, secondhand bookshops, creative studios, cafes and eateries."
+        "sourceNote": "Проверено по St Kevin's Arcade и AucklandNZ: аркада построена в 1924 году, расширена в 1926-м и сегодня занята независимыми магазинами, кафе и творческими арендаторами."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9199,8 +9251,9 @@
       "hours": {
         "rules": [],
         "summary": "Проход и арендаторы работают по разным графикам; проверяйте конкретные магазины и кафе.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-3",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-3",
         "kind": "photo",
@@ -9231,7 +9284,7 @@
       "walk": "Покинув аркаду по лестнице вниз, вы окажетесь у начала пальмовой аллеи Майерс‑парка. Стоя под высокими финиковыми пальмами, обернитесь вверх: виден статуя Моисея, которую город получил в 1971 году, а наверху — аркада святого Кевина.",
       "content": {
         "context": "Myers Park — не просто зеленая пауза под K Road. AucklandNZ описывает его как связь между Karangahape Road, Aotea Square и Queen Street: деревья, пальмовая аллея, playground, splash pad, toilets, seating и drinking fountains держат парк как повседневную инфраструктуру. Heritage New Zealand добавляет более ранний слой: в 1913 году Arthur Myers дал деньги на выкуп оврага под детский парк, а в январе 1915 года объявил еще одну сумму на free kindergarten; Myers Kindergarten открылся в 1916 году и считается старейшим purpose-built kindergarten в Новой Зеландии, всё ещё использующимся по назначению. Сегодня к этому добавилась Waimahara — интерактивная работа Graham Tipene, которая вспоминает Te Waihorotiu, скрытый поток под долиной.",
-        "lookFor": "пальмовую аллею под аркадой\nкопию скульптуры Моисея у лестницы\nперепад высоты между шумной К‑роуд и тихим парком",
+        "lookFor": "пальмовую аллею под аркадой; копию скульптуры Моисея у лестницы; перепад высоты между шумной К‑роуд и тихим парком",
         "practical": "Лестница и дорожки после дождя могут быть скользкими. Splash pad работает летом 10:00-20:00; Waimahara и парк лучше воспринимать днем или ранним вечером, когда есть люди и хорошая видимость.",
         "nextMove": "Покинув аркаду по лестнице вниз, вы окажетесь у начала пальмовой аллеи Майерс‑парка. Стоя под высокими финиковыми пальмами, обернитесь вверх: виден статуя Моисея, которую город получил в 1971 году, а наверху — аркада святого Кевина.",
         "deepDive": [
@@ -9240,7 +9293,7 @@
             "body": "Спуск в Myers Park меняет масштаб маршрута. Вместо очередного фасада вы попадаете в овраг, где город решал задачи здоровья, детства, отдыха, воды и света. Поэтому здесь важно почувствовать не тишину вообще, а то, как K Road раскрывается вниз."
           }
         ],
-        "sourceNote": "Проверено по AucklandNZ Myers Park, Heritage New Zealand Myers Kindergarten and OurAuckland Waimahara pages: park links Karangahape Road with Aotea Square/Queen Street and includes trees, palms, playground, splash pad, toilets and seating; Heritage NZ records Arthur Myers' 1913/1915 donations and 1916 kindergarten; OurAuckland records Waimahara by Graham Tipene as an interactive artwork responding to waiata and recalling Te Waihorotiu."
+        "sourceNote": "Проверено по AucklandNZ, Heritage New Zealand и OurAuckland: Myers Park связывает K Road с Queen Street, хранит след пожертвований Arthur Myers и включает Waimahara, playground/splash pad и зеленый спуск."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9250,8 +9303,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытый парк; splash pad летом 10:00-20:00, Waimahara открыт 24 часа, но после темноты используйте городскую осторожность.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-4",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-4",
         "kind": "photo",
@@ -9283,7 +9337,7 @@
       "walk": "Вернувшись на Карангахапе‑роуд, продолжайте идти западнее до перекрестка с Меркьюри‑лейн. На южной стороне улицы, чуть дальше перекрестка, стоит темное бетонное здание с оконными решетками — это Дом Самоа. Справа через дорогу находится белая церковь в полинезийском стиле.",
       "content": {
         "context": "Maota Samoa удерживает тихоокеанский слой K Road без музейной витрины. Objectspace описывает Samoa House как award-winning building, построенное в 1979 году Jasmad (ныне Jasmax); ведущий архитектор Ivan Mercep ездил в Falealili, Poutasi, чтобы изучить техники строительства fale. Samoa House Library уточняет, что здание построили на средства Samoa House Appeal Fund, открыли в 1978 году, и что здесь был первый fale outside Samoa; раньше тут находилось Samoan Consulate, community spaces и offices. На втором уровне сегодня работает Samoa House Library — независимая art library и alternative education platform. Через дорогу Te Ara фиксирует еще один важный адрес: Newton Pacific Islanders Congregational Church, первая ethnic Pacific Island church в Новой Зеландии, основанная в Auckland в 1947 году.",
-        "lookFor": "силуэт крыши Maota Samoa, напоминающий фале\nоконные решетки и бетонный корпус 1970‑х\nцерковь островитянской общины через дорогу",
+        "lookFor": "силуэт крыши Maota Samoa, напоминающий фале; оконные решетки и бетонный корпус 1970‑х; церковь островитянской общины через дорогу",
         "practical": "Осматривайте Samoa House и church с улицы уважительно: это не декорации, а рабочие общинные адреса. Samoa House Library на дату проверки открыта вт-пт 11:00-17:00; для лифта и доступа внутрь просит связаться заранее.",
         "nextMove": "Вернувшись на Карангахапе‑роуд, продолжайте идти западнее до перекрестка с Меркьюри‑лейн. На южной стороне улицы, чуть дальше перекрестка, стоит темное бетонное здание с оконными решетками — это Дом Самоа. Справа через дорогу находится белая церковь в полинезийском стиле.",
         "deepDive": [
@@ -9292,7 +9346,7 @@
             "body": "Эта остановка нужна маршруту, потому что K Road была и остается не только богемной улицей. Samoa House и Newton PICC показывают Pacific Auckland как сеть зданий, библиотек, церковных общин и политической памяти, а не как абстрактную “мультикультурность”."
           }
         ],
-        "sourceNote": "Проверено по Objectspace Maota Samoa event page, Samoa House Library home/about/contact pages and Te Ara Newton Pacific Islanders Congregational Church entry: Samoa House/Maota Samoa was designed by Jasmad/Jasmax with Ivan Mercep's fale research and opened in 1978/1979 depending on source framing; it housed Samoa/Nauru consular and community spaces; Samoa House Library is an independent art library open Tue-Fri 11:00-17:00; Newton PICC was founded in 1947 as New Zealand's first ethnic Pacific Island church."
+        "sourceNote": "Проверено по Objectspace, Samoa House Library и Te Ara: Maota Samoa/Samoa House открыт в конце 1970-х как общинный адрес; библиотека имеет ограниченные часы, а Newton PICC связан с историей тихоокеанских общин Окленда."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9323,8 +9377,9 @@
           }
         ],
         "summary": "Samoa House Library вт-пт 11:00-17:00; Samoa House и церковные пространства могут быть закрыты для частных событий.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-5",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-5",
         "kind": "photo",
@@ -9354,7 +9409,7 @@
       "walk": "От Samoa House вернитесь на восток к перекрестку Pitt Street и Queen Street. Здесь над тротуарами одновременно видны кирпичный Methodist Church и классический портик Baptist Tabernacle.",
       "content": {
         "context": "Перекресток Pitt Street показывает, что K Road долго была не только торговлей и ночной жизнью, но и религиозной инфраструктурой растущего города. Heritage New Zealand пишет, что Pitt Street Church открылась 14 октября 1866 года, была спроектирована Philip Herapath и включала каменные головы, которые связывают с резчиком Anton Teutenberg; интерьер следовал nonconformist preaching hall tradition и вмещал 650 человек. Через дорогу Baptist Tabernacle, по материалам K Road Business Association, открылся в 1886 году и был рассчитан на впечатление: crest of Queen Street, huge Roman Imperial Portico, видимость с waterfront. Две церкви спорят фасадами, но вместе показывают K Road как место общинных собраний.",
-        "lookFor": "стрельчатые окна Methodist Church\nклассический портик Baptist Tabernacle\nконтраст красного кирпича и светлой колоннады на одном перекрестке",
+        "lookFor": "стрельчатые окна Methodist Church; классический портик Baptist Tabernacle; контраст красного кирпича и светлой колоннады на одном перекрестке",
         "practical": "Смотрите интерьеры только если двери открыты для посетителей; во время служб, репетиций и общинных событий держитесь тихо и не фотографируйте людей без согласия.",
         "nextMove": "От перекрестка уходите к югу/западу на Galatos Street: следующая остановка спрятана за главным гребнем K Road.",
         "deepDive": [
@@ -9363,7 +9418,7 @@
             "body": "Эта пара важна именно вместе. Методистская церковь говорит языком кирпича, каменной резьбы и preaching hall, а Tabernacle — языком городской оси и портика. Между ними K Road становится не “богемной полосой”, а публичным перекрестком веры, собраний и видимости."
           }
         ],
-        "sourceNote": "Проверено по Heritage New Zealand Pitt Street Church listing and K Road Business Association Baptist Tabernacle page: Pitt Street Church opened 14 October 1866, designed by Philip Herapath with stone heads attributed to Anton Teutenberg and a 650-person preaching-hall interior; Baptist Tabernacle opened in 1886 and is described as a highly visible Queen Street crest building with Roman Imperial Portico."
+        "sourceNote": "Проверено по Heritage NZ и K Road Business Association: Pitt Street Methodist Church открыта в 1866 году, Baptist Tabernacle - в 1886-м; оба интерьера зависят от служб и событий."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9373,8 +9428,9 @@
       "hours": {
         "rules": [],
         "summary": "Фасады видны с улицы; интерьер только во время открытых служб, событий или по текущему расписанию общин.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-6",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-6",
         "kind": "photo",
@@ -9405,8 +9461,8 @@
       "walk": "Сверните с Карангахапе‑роуд на узкую Галатос‑стрит (Galatos Street), которая начинается между офисными зданиями. На углу с улицей стоит небольшой двухэтажный дом из 1930‑х. Это музыкальный клуб Galatos. Его вход украшен неоном, а изнутри часто доносятся звуки репетиций.",
       "content": {
         "context": "Galatos прячет ночную сцену K Road не на главной витрине, а в боковой улице. AudioCulture выводит его историю от Druids’ Hall: зал открылся 6 мая 1908 года и десятилетиями принимал танцы; позднее здание стало Galatos bar and venue. Современный сайт Galatos описывает его как live music and theatre venue, доступный для gigs, concerts, dance nights, film nights, shoots и corporate events; можно нанять один уровень или все три. Поэтому эта остановка не про мифическую “ночную улицу” вообще, а про инфраструктуру: main room, upper bar, lower bar, охрана, билеты, R18 и расписание конкретных событий.",
-        "lookFor": "неоновый вход Galatos на боковой улице\nскромный фасад клуба среди офисных зданий\nночные афиши и следы музыкальной сцены",
-        "practical": "Днем это точка для внешнего осмотра; внутрь идите только на конкретное событие. Galatos указывает R18, standing-only формат для большинства шоу и event-dependent door sales, поэтому проверяйте сайт/соцсети в день визита.",
+        "lookFor": "неоновый вход Galatos на боковой улице; скромный фасад клуба среди офисных зданий; ночные афиши и следы музыкальной сцены",
+        "practical": "Днем это точка для внешнего осмотра; внутрь идите только на конкретное событие. Galatos указывает R18, формат без сидячих мест для большинства шоу и продажи на входе по условиям события, поэтому проверяйте сайт/соцсети в день визита.",
         "nextMove": "Сверните с Карангахапе‑роуд на узкую Галатос‑стрит (Galatos Street), которая начинается между офисными зданиями. На углу с улицей стоит небольшой двухэтажный дом из 1930‑х. Это музыкальный клуб Galatos. Его вход украшен неоном, а изнутри часто доносятся звуки репетиций.",
         "deepDive": [
           {
@@ -9414,7 +9470,7 @@
             "body": "Galatos хорош тем, что не выглядит как большой городской landmark. Его сила в масштабе: боковая улица, несколько уровней, афиши, охрана, проходы, поздний вход. Именно такие места объясняют, почему K Road держит музыкальную сцену не только вывесками, но и рабочими залами."
           }
         ],
-        "sourceNote": "Проверено по AudioCulture Galatos article and official Galatos venue-hire/customer-support pages: Druids' Hall opened on 6 May 1908 and later became Galatos; modern Galatos describes live music/theatre venue hire for gigs, concerts, dance nights and film/corporate events, one level or all three; customer support notes R18, event-dependent door sales, mostly standing shows and main-room accessibility limits."
+        "sourceNote": "Проверено по AudioCulture и Galatos: бывший Druids' Hall открылся в 1908 году; современный Galatos работает как площадка событий с R18, билетами/продажами на входе и доступностью, зависящими от конкретного события."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9423,9 +9479,10 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Только по событиям; R18, расписание, билеты и door sales проверяйте на официальном сайте/соцсетях Galatos.",
-        "checkedAt": "2026-06-26"
+        "summary": "Только по событиям; R18, расписание, билеты и продажи на входе проверяйте на официальном сайте/соцсетях Galatos.",
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-7",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-7",
         "kind": "photo",
@@ -9456,7 +9513,7 @@
       "walk": "-",
       "content": {
         "context": "Финал у George Courts возвращает маршрут из ночной сцены к торговой памяти K Road. K Road Business Association называет здание одним из landmark buildings улицы: бывший George Courts Department Store завершили в 1926 году, а после закрытия магазина в 1988 году его превратили в apartment building в 1993-м. DigitalNZ/New Zealand Fashion Museum добавляет, что история началась как drapery business братьев Court в 1886 году; к 1920 году George купил участки у Karangahape Road и France Street (ныне Mercury Lane) для нового department store, вдохновленного Selfridges. Heritage New Zealand фиксирует здание как Category 2 historic place и private/no public access. Поэтому смотрите на фасад как на публичную память о магазине, а не как на входной stop.",
-        "lookFor": "крупный фасад бывшего George Court Department Store\nследы department-store масштаба: окна, ритм этажей, угловое положение\nMercury Lane / бывшую France Street как торговый адрес",
+        "lookFor": "крупный фасад бывшего George Court Department Store; следы department-store масштаба: окна, ритм этажей, угловое положение; Mercury Lane / бывшую France Street как торговый адрес",
         "practical": "Здание частное: не заходите в жилые/служебные части без приглашения. Для фотографий используйте широкую часть тротуара и не задерживайтесь на углу у потока машин.",
         "nextMove": "На этом маршрут заканчивается. Для продолжения K Road можно идти дальше к Ponsonby Road, но этот guide сознательно завершается у Mercury Lane и бывшего George Courts.",
         "deepDive": [
@@ -9465,7 +9522,7 @@
             "body": "George Courts важен тем, что не совпадает с современным образом K Road как nightlife strip. Его фасад напоминает о времени, когда сюда ехали за тканями, витринами, лифтами и поздними прогулками по магазинам. Без этого слоя ночная культура улицы выглядит слишком плоской."
           }
         ],
-        "sourceNote": "Проверено по K Road Business Association George Courts page, Heritage New Zealand George Courts listing and DigitalNZ/New Zealand Fashion Museum Fashion Strip: building completed in 1926; store closed in 1988 and converted to apartments in 1993; business began as Court brothers' drapery in 1886; by 1920 George had bought sites at Karangahape Road and France Street/Mercury Lane for a Selfridges-inspired department store; Heritage NZ lists the private building as Historic Place Category 2."
+        "sourceNote": "Проверено по K Road Business Association, Heritage NZ и DigitalNZ: здание George Court завершено в 1926 году, магазин закрылся в 1988-м, в 1993-м здание переоборудовали под квартиры; сегодня это частный исторический объект."
       },
       "entry": "снаружи",
       "coordinates": {
@@ -9475,8 +9532,9 @@
       "hours": {
         "rules": [],
         "summary": "Частное здание; фасад виден с улицы, доступ внутрь зависит от жильцов и арендаторов.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-karangahape-road-night-culture-stop-8",
       "photo": {
         "id": "auckland-karangahape-road-night-culture-stop-8",
         "kind": "photo",
@@ -9492,5 +9550,5 @@
       }
     }
   ],
-  "packHash": "3126a62b3e11"
+  "packHash": "1fc12b8dee98"
 }

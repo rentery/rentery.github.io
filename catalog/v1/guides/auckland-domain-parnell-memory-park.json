@@ -2021,9 +2021,9 @@
   "content": {
     "intro": "Эта прогулка показывает Окленд не через гавань, а через землю: кратер Pukekawa, военный мемориал на гребне, стеклянные теплицы в ложбине, лесную тропу к Parnell и англиканский соборный квартал. По дороге город всё время меняет масштаб — от парковой травы и следов старой водной инфраструктуры до официальной памяти и пригородной улицы с домами XIX-XX веков.",
     "routeLogic": "Маршрут идёт от кратера Pukekawa / Auckland Domain к музею и мемориальному двору, затем через Wintergardens и Lover’s Walk выводит к Parnell Village и Holy Trinity Cathedral.",
-    "bestFor": "парка, военной памяти, теплиц, лесной дорожки и старого пригорода за одну прогулку",
-    "notFor": "тех, кому нужен короткий городской маршрут без подъёмов, парковых троп и перехода к Parnell",
-    "beforeYouGo": "Проверьте актуальный статус Auckland Museum: на официальной странице может быть предупреждение о закрытии. У Wintergardens и Holy Trinity Cathedral свои часы; после дождя берите обувь с хорошим сцеплением.",
+    "bestFor": "Для тех, кто хочет соединить парк, военную память, зимний сад, лесную тропу и старый Parnell за одну прогулку.",
+    "notFor": "Не лучший выбор для тех, кому нужен короткий городской маршрут без подъемов, парковых троп и перехода к Parnell.",
+    "beforeYouGo": "Проверьте актуальный статус Auckland Museum на официальной странице: часы и предупреждения могут меняться. У Wintergardens и Holy Trinity Cathedral свои часы; после дождя берите обувь с хорошим сцеплением.",
     "timing": "Лучше утром или в первой половине дня: так проще совместить парк, Wintergardens и соборные часы."
   },
   "stopList": [
@@ -2031,6 +2031,7 @@
       "id": "auckland-domain-parnell-memory-park-1",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 1,
+      "entry": "снаружи",
       "name": "Пукекава / Auckland Domain",
       "nameLocal": "Pukekawa / Auckland Domain",
       "sourceIds": [
@@ -2042,7 +2043,7 @@
       "walk": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
       "content": {
         "context": "Вы начинаете в Pukekawa / Auckland Domain — одном из крупнейших парков Окленда и старейшей зелёной сцене города. Маорийское название Pukekawa обычно связывают с памятью о погибших в древних войнах; современный парк при этом живёт очень буднично: лужайки, спорт, пикники, тропы и музей на гребне. Важно смотреть не только на траву, но и на форму земли: это вулканический рельеф, который город превратил в общественный резерв, место отдыха и парадный подступ к военному мемориалу.",
-        "lookFor": "Широкую чашу парка и перепады рельефа\nОсь на музейный холм над открытым полем\nПереход от спортивных лужаек к участкам native bush",
+        "lookFor": "Широкую чашу парка и перепады рельефа; Ось на музейный холм над открытым полем; Переход от спортивных лужаек к участкам native bush",
         "practical": "Парк открыт круглосуточно, но отдельные объекты внутри него работают по своим часам. Дорожки могут быть мокрыми после дождя; для этой прогулки лучше обувь, в которой спокойно идти по траве, лестницам и лесной тропе.",
         "nextMove": "От открытого кратерного поля поднимайтесь к музейному холму: фасад Auckland War Memorial Museum будет работать как ориентир.",
         "deepDive": [
@@ -2051,7 +2052,7 @@
             "body": "Pukekawa легко принять за просто красивую зелёную паузу. Но смысл остановки в другом: здесь город присвоил вулканическую форму как общую территорию, а затем добавил к ней музей, мемориал, теплицы и прогулочные тропы. Поэтому маршрут стартует с земли, а не со здания."
           }
         ],
-        "sourceNote": "Проверено по AucklandNZ Pukekawa Auckland Domain и Parnell Business Association heritage page: парк открыт 24 часа, описан как один из крупнейших парков Окленда с Wintergardens, Auckland Museum и native forest walk; Parnell page связывает название Pukekawa с памятью о погибших в древних войнах."
+        "sourceNote": "Проверено по Auckland Council и AucklandNZ: Pukekawa/Auckland Domain - открытый парк вокруг вулканического кратера, с дорожками, спортивными зонами и музейной осью; доступ зависит от парковых событий и состояния троп."
       },
       "coordinates": {
         "latitude": -36.8591583,
@@ -2060,8 +2061,9 @@
       "hours": {
         "rules": [],
         "summary": "Парк открыт круглосуточно; часы отдельных объектов внутри отличаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-1",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-1",
         "kind": "photo",
@@ -2080,6 +2082,7 @@
       "id": "auckland-domain-parnell-memory-park-2",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 2,
+      "entry": "по билету",
       "name": "Auckland War Memorial Museum",
       "nameLocal": "Tāmaki Paenga Hira / Auckland War Memorial Museum",
       "sourceIds": [
@@ -2091,8 +2094,8 @@
       "time": "15 мин",
       "walk": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
       "content": {
-        "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как exterior-first точка.",
-        "lookFor": "Классический фасад и широкие ступени на гребне холма\nСвязку музейного здания с Court of Honour ниже\nНадписи и мемориальную символику вокруг входа",
+        "context": "Музей на вершине Domain Hill не стоит отделять от мемориального пространства перед ним. Постоянный ценотаф у подножия был освящён 28 ноября 1929 года, а затем в той же церемонии губернатор-генерал официально открыл музей. Архитекторы Grierson, Aimer and Draffin проектировали и здание, и мемориальную площадку как единую композицию: строгий фасад, ступени и открытый Court of Honour превращают музейный холм в городской алтарь памяти. Внутренние галереи важны, но на дату проверки официальный сайт музея также показывает предупреждение о закрытии, поэтому эта остановка работает прежде всего как точка для внешнего осмотра.",
+        "lookFor": "Классический фасад и широкие ступени на гребне холма; Связку музейного здания с Court of Honour ниже; Надписи и мемориальную символику вокруг входа",
         "practical": "Перед входом обязательно проверьте официальный сайт Auckland Museum: страница часов показывает стандартные интервалы, но также может выводить alert о закрытии. Если музей закрыт, не теряйте остановку: фасад, ступени и переход к ценотафу остаются главным смыслом маршрута.",
         "nextMove": "Осмотрите фасад и ступени, затем спуститесь к Court of Honour: ценотаф стоит прямо перед музейным холмом.",
         "deepDive": [
@@ -2101,7 +2104,7 @@
             "body": "В маршруте музей не просто культурная остановка между парком и Parnell. Он объясняет, почему Domain читается как гражданская сцена: природный холм, архитектурная симметрия и военная память поставлены в одну линию, а город подходит к ним пешком через парк."
           }
         ],
-        "sourceNote": "Проверено по Auckland Museum hours/admission and galleries pages and NZ History Auckland cenotaph page: official hours page lists regular hours and prices but also currently displays a closure alert; galleries page notes open/closed gallery conditions; NZ History records the 28 November 1929 cenotaph consecration and museum opening sequence."
+        "sourceNote": "Проверено по Auckland Museum: часы, билеты и состояние галерей нужно сверять на официальной странице перед входом; если музей закрыт, фасад и ступени остаются открытым маршрутом к мемориальной оси."
       },
       "coordinates": {
         "latitude": -36.8594444,
@@ -2110,8 +2113,9 @@
       "hours": {
         "rules": [],
         "summary": "Проверяйте официальный сайт: страница часов может показывать стандартное расписание и отдельный alert о закрытии.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-2",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-2",
         "kind": "photo",
@@ -2130,6 +2134,7 @@
       "id": "auckland-domain-parnell-memory-park-3",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 3,
+      "entry": "снаружи",
       "name": "Ценотаф и Court of Honour",
       "nameLocal": "Auckland Cenotaph / Court of Honour",
       "sourceIds": [
@@ -2141,7 +2146,7 @@
       "walk": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
       "content": {
         "context": "Постоянный Auckland Cenotaph вырос из временного памятника, который ставили к Anzac Day у Town Hall в 1922 году. В 1928 году Returned Soldiers’ Association предложила перенести эту форму к новому War Memorial Museum, и 28 ноября 1929 года ценотаф освятили в Court of Honour. Он повторяет лондонский Whitehall Cenotaph, но стоит уже в другой городской драматургии: перед музеем, на склоне парка, лицом к открытой лужайке. Поэтому здесь важно не искать “дополнительный памятник”, а увидеть, как музей и площадь работают одной мемориальной машиной.",
-        "lookFor": "Саркофаг наверху обелиска\nНадпись The Glorious Dead и даты MCMXIV / MCMXVIII\nКак Court of Honour выравнивает взгляд между парком и музеем",
+        "lookFor": "Саркофаг наверху обелиска; Надпись The Glorious Dead и даты MCMXIV / MCMXVIII; Как Court of Honour выравнивает взгляд между парком и музеем",
         "practical": "Ценотаф находится снаружи, но в дни ANZAC Day и других церемоний возможны ограничения, толпа и перекрытия. Остановитесь сбоку от главной оси, чтобы не мешать памятным мероприятиям и фотографиям.",
         "nextMove": "От ценотафа обойдите музей с восточной стороны и спуститесь по аллее; через несколько минут откроется комплекс зимних теплиц.",
         "deepDive": [
@@ -2150,7 +2155,7 @@
             "body": "Ценотаф повторяет Whitehall, но не копирует Лондон полностью. В Окленде та же форма поставлена у паркового холма и музея, поэтому строгий имперский язык начинает говорить о конкретной провинциальной памяти, списках погибших и ежегодных церемониях города."
           }
         ],
-        "sourceNote": "Проверено по NZ History Auckland cenotaph and Auckland Museum hours/admission pages: temporary Town Hall cenotaph first erected for Anzac Day 1922; permanent cenotaph proposed in 1928, consecrated 28 November 1929, designed by Grierson, Aimer and Draffin as a Whitehall replica with concrete faced in Portland stone; first Anzac Day ceremony here was 25 April 1930."
+        "sourceNote": "Проверено по NZ History и Auckland Museum: постоянный ценотаф был освящен 28 ноября 1929 года и используется для памятных церемоний, особенно вокруг ANZAC Day."
       },
       "coordinates": {
         "latitude": -36.859264,
@@ -2159,8 +2164,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытая мемориальная площадка; церемонии и музейные/парковые события могут ограничивать доступ.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-3",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-3",
         "kind": "photo",
@@ -2179,6 +2185,7 @@
       "id": "auckland-domain-parnell-memory-park-4",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 4,
+      "entry": "свободно",
       "name": "Зимний сад Auckland Domain",
       "nameLocal": "Auckland Domain Wintergardens",
       "sourceIds": [
@@ -2191,7 +2198,7 @@
       "walk": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
       "content": {
         "context": "Wintergardens прячутся ниже музейного холма, и это резкая смена регистра после ценотафа. Вместо официальной памяти — две barrel-vaulted glasshouses, двор с прудом, статуи и ботаническая витрина, где умеренная и тропическая коллекции поставлены друг напротив друга. Auckland Council описывал их как 100-летние glasshouses, заново открытые после двухлетней реставрации в 2023 году; проект раннего XX века связывают с William Gummer и практикой Gummer and Ford. Здесь парк становится почти комнатой: стекло, влажность, сезонные посадки и фернерий вместо широкого поля.",
-        "lookFor": "Парные стеклянные своды по сторонам двора\nМраморные статуи 1920-30-х годов и пруд\nКонтраст тропической влажности и умеренных сезонных посадок",
+        "lookFor": "Парные стеклянные своды по сторонам двора; Мраморные статуи 1920-30-х годов и пруд; Контраст тропической влажности и умеренных сезонных посадок",
         "practical": "Вход свободный. New Zealand Gardens Trust указывает сезонные часы: 1 ноября-31 марта ежедневно 09:00-17:00, 1 апреля-31 октября ежедневно 09:00-16:30. Внутри влажно, а дорожки вокруг могут быть скользкими после дождя.",
         "nextMove": "От теплиц уходите к дорожкам Pukekawa и ищите соединение с Lover’s Walk в сторону Parnell Station и Parnell Road.",
         "deepDive": [
@@ -2200,7 +2207,7 @@
             "body": "Wintergardens важны не только редкими растениями. Они меняют температуру маршрута: после камня, ступеней и военной памяти вы входите в место ухода, реставрации и сезонности. Это помогает увидеть Domain как набор городских функций, а не просто большой парк."
           }
         ],
-        "sourceNote": "Проверено по New Zealand Gardens Trust, OurAuckland and Parnell Business Association: Wintergardens have two display glasshouses, courtyard/pond/statues and fernery; NZGT lists free admission and seasonal daily hours; OurAuckland records two-year restoration and 2023 reopening of the 100-year-old glasshouses, designed in the early 1900s by William Gummer / Gummer and Ford."
+        "sourceNote": "Проверено по New Zealand Gardens Trust и OurAuckland: Wintergardens имеют два стеклянных павильона, двор с прудом и сезонные часы; комплекс был восстановлен и вновь открыт после реставрации."
       },
       "coordinates": {
         "latitude": -36.863333,
@@ -2209,8 +2216,9 @@
       "hours": {
         "rules": [],
         "summary": "Бесплатно; 1 ноя-31 мар 09:00-17:00, 1 апр-31 окт 09:00-16:30 ежедневно.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-4",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-4",
         "kind": "photo",
@@ -2229,6 +2237,7 @@
       "id": "auckland-domain-parnell-memory-park-5",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 5,
+      "entry": "снаружи",
       "name": "Тропа Lover’s Walk",
       "nameLocal": "Lover’s Walk / Pukekawa Auckland Domain",
       "sourceIds": [
@@ -2241,7 +2250,7 @@
       "walk": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
       "content": {
         "context": "Lover’s Walk нужна маршруту как тихий разрез через парк. Auckland Council в 2023 году писал о новой связке через Pukekawa / Auckland Domain к Parnell Station: она соединяется с уже существующей Lover’s Walk и продолжает пешеходную связь дальше к Carlaw Park Student Village. Поэтому эта остановка не про романтическую легенду, а про то, как зелёная ложбина стала рабочим городским проходом. Рядом с этой темой лежит и старая водная инфраструктура: Engineering New Zealand описывает первые городские водные резервуары в Auckland Domain, начавшие работу в январе 1866 года; сегодняшние duck ponds связаны с той системой.",
-        "lookFor": "Деревянные настилы и короткие мостики на влажных участках\nПереход от декоративных теплиц к native bush\nОщущение, что парк одновременно прогулочный и транзитный",
+        "lookFor": "Деревянные настилы и короткие мостики на влажных участках; Переход от декоративных теплиц к native bush; Ощущение, что парк одновременно прогулочный и транзитный",
         "practical": "После дождя Lover’s Walk и соседние тропы могут быть скользкими. Если участок закрыт или слишком мокрый, используйте более широкие парковые дорожки к Parnell Station и дальше к Parnell Road.",
         "nextMove": "Держитесь дорожки к Parnell Station, затем выходите к Parnell Road и поднимайтесь к историческому торговому участку.",
         "deepDive": [
@@ -2250,7 +2259,7 @@
             "body": "Эта тропа хороша тем, что выводит Domain из парадного режима. После музея и Wintergardens вы идёте не к очередному объекту, а через живую инфраструктуру ходьбы: настилы, влажный овраг, связь со станцией и выход к пригородной улице."
           }
         ],
-        "sourceNote": "Проверено по OurAuckland Parnell Station walkway article, AucklandNZ Pukekawa Auckland Domain and Engineering New Zealand water reservoirs page: 2023 path connects with pre-existing Lover's Walk; AucklandNZ describes a native forest walk in the Domain; first city water supply reservoirs in Auckland Domain began operation in January 1866 and today's duck ponds are linked to those reservoirs."
+        "sourceNote": "Проверено по OurAuckland, AucklandNZ и Engineering NZ: Lover's Walk связывает зимние сады, native bush и путь к Parnell; влажные участки и старые водные резервуары объясняют осторожность после дождя."
       },
       "coordinates": {
         "latitude": -36.855098,
@@ -2259,8 +2268,9 @@
       "hours": {
         "rules": [],
         "summary": "Парковая тропа; проверяйте состояние дорожек после дождя и обходите закрытые участки.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-5",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-5",
         "kind": "photo",
@@ -2279,6 +2289,7 @@
       "id": "auckland-domain-parnell-memory-park-6",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 6,
+      "entry": "снаружи",
       "name": "Parnell Village и Parnell Road",
       "nameLocal": "Parnell Road / Village of Parnell",
       "sourceIds": [
@@ -2291,8 +2302,8 @@
       "walk": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
       "content": {
         "context": "Parnell Heritage датирует основание пригорода сентябрём 1841 года: Роберт Тод разделил участок на 36 маленьких allotments и рекламировал их как Village of Parnell. Parnell Business Association подчёркивает тот же образ “первого пригорода”, но сегодняшняя улица не является законсервированным 1840-м годом. В 1960-70-х Les Harvey скупал и восстанавливал обветшавшие дома и лавки, превращая их в рестораны, кафе, craft shops и boutiques. Поэтому смотрите на Parnell Road как на слой за слоем: ранний suburb, церковный центр епархии, трамвайная улица начала XX века и поздний heritage-retail проект.",
-        "lookFor": "Деревянные и кирпичные фасады разного возраста\nНебольшие проходы во дворы между магазинами и кафе\nКак улица постепенно подводит к церковному комплексу Parnell",
-        "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательный indoor stop без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
+        "lookFor": "Деревянные и кирпичные фасады разного возраста; Небольшие проходы во дворы между магазинами и кафе; Как улица постепенно подводит к церковному комплексу Parnell",
+        "practical": "Магазины, кафе и галереи работают по разным графикам; не закладывайте обязательную остановку внутри без проверки конкретного места. Для транспорта сверяйте текущие автобусы/поезда с Auckland Transport, особенно если возвращаетесь не пешком.",
         "nextMove": "Двигайтесь по Parnell Road на юг, пока не увидите шпиль современного собора Holy Trinity Cathedral.",
         "deepDive": [
           {
@@ -2300,7 +2311,7 @@
             "body": "Parnell важен именно своей неоднозначностью. Он честно старый по городским меркам Окленда, но привычный образ “village” во многом собран заново через реставрацию и коммерческую адаптацию. Это не делает место фальшивым; наоборот, показывает, как наследие начинает работать городской экономикой."
           }
         ],
-        "sourceNote": "Проверено по Parnell Heritage and Parnell Business Association heritage pages: Parnell claims Auckland's oldest suburb identity, Robert Tod's September 1841 Village of Parnell allotments are treated as the foundation moment, Bishop Selwyn chose Parnell as Church of England focus in 1842, tramcars ran up Parnell Road in the early 1900s, and Les Harvey's restorations created modern Parnell Village in/after the 1960s-70s."
+        "sourceNote": "Проверено по Parnell Heritage и Business Association: Parnell связывает себя с участками Robert Tod 1841 года, церковным центром Bishop Selwyn и реставрациями Les Harvey, создавшими современный Parnell Village."
       },
       "coordinates": {
         "latitude": -36.8564896,
@@ -2309,8 +2320,9 @@
       "hours": {
         "rules": [],
         "summary": "Открытая улица; часы магазинов, кафе и галерей различаются.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-6",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-6",
         "kind": "photo",
@@ -2329,6 +2341,7 @@
       "id": "auckland-domain-parnell-memory-park-7",
       "guideId": "auckland-domain-parnell-memory-park",
       "order": 7,
+      "entry": "свободно",
       "name": "Holy Trinity Cathedral",
       "nameLocal": "Holy Trinity Cathedral / St Mary’s-in-Holy Trinity",
       "sourceIds": [
@@ -2342,7 +2355,7 @@
       "walk": "-",
       "content": {
         "context": "Holy Trinity Cathedral завершает маршрут не как одиночная достопримечательность, а как церковный precinct. Parnell Business Association напоминает, что Bishop Selwyn выбрал Parnell центром англиканской церкви в Auckland ещё в 1842 году. Сегодня это читается через соседство разных эпох: St Mary’s, деревянная Gothic Revival церковь Benjamin Mountfort, была построена в 1886-1898 годах и в 1982 году переехала через Parnell Road; современный Cathedral Nave был завершён в 1995 году. Внутри главный жест — Great Window над входом: официальный cathedral tour называет его крупнейшей площадью витража в Southern Hemisphere и прямо связывает европейские и Polynesian мотивы.",
-        "lookFor": "Great Window над входом в Cathedral Nave\nДеревянную St Mary’s-in-Holy Trinity рядом с собором\nКак старый и новый объёмы образуют один precinct, а не два отдельных здания",
+        "lookFor": "Great Window над входом в Cathedral Nave; Деревянную St Mary’s-in-Holy Trinity рядом с собором; Как старый и новый объёмы образуют один precinct, а не два отдельных здания",
         "practical": "Регулярные часы посещения собора: пн-сб 10:00-15:00, вс 12:00-15:00. Вход свободный, пожертвования приветствуются; службы, концерты и частные события могут менять доступ, поэтому проверьте расписание перед визитом.",
         "nextMove": "На этом маршрут заканчивается. Для возвращения в центр проверьте ближайшие автобусы по Parnell Road или спуститесь к станции Parnell, если удобно по расписанию.",
         "deepDive": [
@@ -2351,7 +2364,7 @@
             "body": "После парка, мемориала и торговой улицы собор показывает ещё один слой Parnell: не пригородную витрину, а институциональное место. Смысл финала в соседстве St Mary’s и нового nave — город не заменяет старую форму новой, а переставляет их рядом и заставляет работать вместе."
           }
         ],
-        "sourceNote": "Проверено по Holy Trinity Cathedral Discover, Cathedral Nave and St Mary's pages plus Parnell heritage page: regular visiting hours Mon-Sat 10:00-15:00 and Sun 12:00-15:00; St Mary's foundation stone 1886, completed/consecrated 1898, moved across Parnell Road on 6 March 1982; Cathedral Nave completed in 1995; Great Window is described by the cathedral as the largest expanse of stained glass in the Southern Hemisphere."
+        "sourceNote": "Проверено по Holy Trinity Cathedral и Parnell heritage: St Mary's заложена в 1886 и перенесена в 1982 году, Cathedral Nave завершен в 1995-м; часы посещения и доступ зависят от служб/событий."
       },
       "coordinates": {
         "latitude": -36.8598177,
@@ -2396,8 +2409,9 @@
           }
         ],
         "summary": "Пн-сб 10:00-15:00, вс 12:00-15:00; службы и события могут менять доступ.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
+      "photoAssetId": "auckland-domain-parnell-memory-park-stop-7",
       "photo": {
         "id": "auckland-domain-parnell-memory-park-stop-7",
         "kind": "photo",
@@ -2418,7 +2432,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «auckland-domain-parnell-memory-park»"
+    "alt": "Маршрутная обложка: Auckland Domain, музей, зимний сад, Parnell и память."
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/auckland/auckland-domain-parnell-memory-park-basemap.png",
