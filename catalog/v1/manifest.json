@@ -125,15 +125,15 @@
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "74a12cb80b97",
+      "packHash": "1ce3e7d661a9",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
-      "packHash": "218d725cb26c",
+      "packHash": "f070e664dfae",
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "553fefbd852d",
+      "packHash": "4fe2cb580c16",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T10:38:13.191Z",
+  "generatedAt": "2026-06-28T11:09:37.666Z",
   "locale": "ru",
   "schemaVersion": 1
 }
