@@ -1346,9 +1346,9 @@
   "deep": "#244E5D",
   "ink": "#253A3B",
   "motif": "lane",
-  "duration": "2–3 часа",
+  "duration": "2–3 часа",
   "stops": 8,
-  "distance": "2.5 км",
+  "distance": "2,5 км",
   "pace": "half",
   "kids": true,
   "microcopy": {
@@ -1358,9 +1358,9 @@
   "content": {
     "intro": "Эта прогулка по набережной Кейптауна приглашает вас пройти по следам старого порта, где тысячи кораблей ждали прилива. Сейчас здесь — магазины и скверы, но историю всё ещё можно прочитать в кирпичах и металлических конструкциях. Начните у красной Часовой башни, пройдите мимо мачты с падающим шаром точного времени, загляните в стеклянные ворота на остров Роббен и перейдите качающийся мост, разделяющий гавань и город. В финале вас ждёт бетонный силос, превращённый в музей современного искусства, и панорама на Table Mountain. Путь рассчитан на неторопливый шаг: вы успеете послушать истории капитанов и узников, увидеть морских котиков и заглянуть в крытый рынок дизайна. Обязательно сделайте паузу на демонстрации Time Ball и оставьте время для посещения Zeitz MOCAA.",
     "routeLogic": "Маршрут следует естественному ходу истории: от старого капитанского офиса у входа в порт к сооружениям, которые мерили время и открывали путь к острову узников. Затем вы пересекаете воду по новому качающемуся мосту, чтобы оказаться на площади, где стоят бронзовые нобелевские лауреаты, и в крытом рынке современных ремёсел. Через зелёный Battery Park маршрут выходит к Silo District, где старые зерновые силосы превратились в крупнейший музей африканского искусства. Такой порядок позволяет почувствовать, как из практичных объектов — часов, мачт, пристани — выросли культурные символы города.",
-    "bestFor": "любителям истории портовых городов семьям с любопытными детьми искателям искусства и дизайна тем, кто любит сочетание старого и нового",
-    "notFor": "тем, кто ищет уединённую природу и тишину торопливым туристам, желающим увидеть всё за час тем, кто избегает музеев и городской суеты",
-    "beforeYouGo": "Возьмите удобную обувь и ветровку — на набережной бывает ветрено. Билеты на туры на остров Роббен лучше купить заранее онлайн. Вход в Zeitz MOCAA платный, последняя запись — 17:30; детям до 18 лет бесплатно. Демонстрация Time Ball проходит в 13:00 по понедельникам и четвергам. Проверьте прогноз погоды: паромы и некоторые активности зависят от состояния моря.",
+    "bestFor": "Тем, кто хочет прочитать V&A Waterfront как рабочую гавань, музейный waterfront, общественные площади, design-market и Silo District, а не только торговый центр.",
+    "notFor": "Тем, кто ищет тихую природную прогулку или гарантированный проход внутрь всех объектов без учета погоды, паромов, мостов и расписаний музеев.",
+    "beforeYouGo": "Проверяйте текущие часы V&A Waterfront, Robben Island Museum и Zeitz MOCAA в день визита. Паромы на Robben Island зависят от погоды и билетов; пешеходные мосты могут временно открываться для судов.",
     "timing": "Планируйте 2–3 часа. Начните до полудня, чтобы успеть на демонстрацию Time Ball и не торопиться в музеях и на рынке.",
     "fallbackPlan": "Если паромы отменены или погода испортилась, задержитесь в Watershed, посетите океанариум рядом или исследуйте каналы Battery Park. Вечером можно вернуться к Clock Tower, чтобы увидеть её подсвеченной."
   },
@@ -1384,7 +1384,7 @@
             "body": "Башня была построена в 1882 году как офис портового капитана и место наблюдения за доками. Часы заказали в Эдинбурге, а на первом этаже находился измеритель приливов. Несмотря на декоративный вид, она выполняла практическую функцию. В 1997–1998 годах башня была тщательно восстановлена, и реставраторы сняли старые слои краски, чтобы вернуть первоначальный красный оттенок."
           }
         ],
-        "sourceNote": "Информация по истории и времени работы взята с официального сайта V&A Waterfront и местных материалов."
+        "sourceNote": "Проверено 2026-06-28 по V&A Waterfront / Clock Tower visitor references: precinct-hours могут отличаться от часов отдельных музеев и магазинов."
       },
       "entry": "снаружи",
       "nameLocal": "Clock Tower",
@@ -1395,7 +1395,7 @@
       "hours": {
         "rules": [],
         "summary": "Внешний осмотр доступен ежедневно 09:00–21:00. Внутрь попасть нельзя.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-1",
       "sourceIds": [
@@ -1409,7 +1409,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-1-square.jpg",
-        "alt": "Красная готическая Часовая башня на фоне гавани V&A Waterfront",
+        "alt": "Clock Tower у V&A Waterfront в Кейптауне.",
         "attribution": {
           "author": "De Zuid-Afrikaan",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1437,7 +1437,7 @@
             "body": "В XIX веке подобные башни стояли во всех крупных портах мира. В Кейптауне первый «временной шар» установили в 1836 году в Королевской обсерватории. Он сигнализировал точное время морякам, для которых исправный хронометр был жизненно важен. Позже шар переместился на Signal Hill, а затем сюда, поближе к докам. В 1982 году башню объявили национальным памятником, а в 1997 году её отреставрировали. Сейчас команда Waterfront готовит новую реконструкцию механизма."
           }
         ],
-        "sourceNote": "Даты и детали взяты из материалов пресс‑офиса V&A Waterfront."
+        "sourceNote": "Проверено 2026-06-28 по Waterfront heritage references: Time Ball остается внешним историческим ориентиром; демонстрации и точное время сверяются на месте."
       },
       "entry": "снаружи",
       "nameLocal": "Time Ball Tower",
@@ -1448,7 +1448,7 @@
       "hours": {
         "rules": [],
         "summary": "Доступен для внешнего осмотра ежедневно 09:00–21:00. Шар поднимают в 12:55 и сбрасывают в 13:00 по понедельникам и четвергам.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-2",
       "sourceIds": [
@@ -1460,7 +1460,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-2-square.jpg",
-        "alt": "Башня Time Ball с тонкой мачтой и шаром на фоне гавани",
+        "alt": "Time Ball Tower у исторической гавани V&A Waterfront.",
         "attribution": {
           "author": "Andrew Hall",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1488,7 +1488,7 @@
             "body": "Роббен-Айленд — это место ссылки уже четырёхсот лет: сюда высылали вождей племён, колониальных чиновников и людей, выступавших против апартеида. Самый известный узник, Нельсон Мандела, провёл на острове 18 лет. Сегодня посетители видят каменный карьер, где заключённые выполняли тяжёлую работу, и камеры бывшей тюрьмы, слушают рассказы бывших заключённых и гидов."
           }
         ],
-        "sourceNote": "Данные о работе gateway и экскурсиях взяты с официального сайта Robben Island Museum."
+        "sourceNote": "Проверено 2026-06-28 по Robben Island Museum: туры обычно отправляются от Nelson Mandela Gateway в 09:00, 11:00, 13:00 и 15:00, но зависят от погоды и билетов."
       },
       "entry": "по билету",
       "nameLocal": "Nelson Mandela Gateway",
@@ -1498,8 +1498,8 @@
       },
       "hours": {
         "rules": [],
-        "summary": "Открыт ежедневно 7:30–18:00. Паромы на остров отправляются несколько раз в день в зависимости от погоды.",
-        "checkedAt": "2026-06-21"
+        "summary": "Robben Island Museum обычно отправляет туры от Nelson Mandela Gateway в 09:00, 11:00, 13:00 и 15:00; паромы зависят от погоды, судна и билетов.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-3",
       "sourceIds": [
@@ -1511,7 +1511,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-3-square.jpg",
-        "alt": "Современное стеклянное здание Nelson Mandela Gateway на набережной",
+        "alt": "Nelson Mandela Gateway, откуда отправляются туры Robben Island Museum.",
         "attribution": {
           "author": "Moheen Reeyad",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1539,7 +1539,7 @@
             "body": "Новый качающийся мост был построен в 2019 году, чтобы заменить узкий переход 1997 года. Его длина составляет 42 метра, а ширина — 4 метра; по мосту проходят более 2,4 млн человек в год. Конструкция вращается на массивном подшипнике с помощью гидравлических двигателей, что позволяет быстро открывать проход судам. За этот проект инженеры компании SMEC получили награду Африканского института стальных конструкций в 2020 году."
           }
         ],
-        "sourceNote": "Факты о мосте взяты из инженерных отчётов, новостных статей и официальных рекомендаций Marine Wildlife Walk."
+        "sourceNote": "Проверено 2026-06-28 по V&A Waterfront: мостовой проход остается пешеходной связью гавани, но может временно закрываться для движения судов."
       },
       "entry": "снаружи",
       "nameLocal": "Swing Bridge & Harbour Edge",
@@ -1550,7 +1550,7 @@
       "hours": {
         "rules": [],
         "summary": "Пешеходный мост открыт круглосуточно; может быть временно закрыт, когда проплывают суда.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-4",
       "sourceIds": [
@@ -1564,7 +1564,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-4-square.jpg",
-        "alt": "Капские морские котики отдыхают на шинах у причала V&A Waterfront",
+        "alt": "Swing Bridge и пешеходный край гавани V&A Waterfront.",
         "attribution": {
           "author": "MyAngelG",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -1592,7 +1592,7 @@
             "body": "Альберт Лутули получил Нобелевскую премию мира в 1960 году за ненасильственное сопротивление апартеиду. Десмонд Туту в 1984 году был отмечен за борьбу за права человека. Фредерик Виллем де Клерк и Нельсон Мандела разделили премию в 1993 году за работу по мирному демонтажу апартеида и подготовку первых демократических выборов. Скульптор Клодетт Шрёдерс изобразила их без педагогического пафоса — просто стоящими рядом людьми. Скульптура Нории Мабасы «Мир и демократия» напоминает о роли женщин и детей в этом процессе."
           }
         ],
-        "sourceNote": "Сведения о площади и её скульптурах взяты с официального сайта V&A Waterfront."
+        "sourceNote": "Проверено 2026-06-28 по V&A Waterfront: Nobel Square остается открытой общественной остановкой с мемориальными скульптурами."
       },
       "entry": "снаружи",
       "nameLocal": "Nobel Square",
@@ -1603,7 +1603,7 @@
       "hours": {
         "rules": [],
         "summary": "Открыта ежедневно 09:00–21:00. Доступ свободный.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-5",
       "sourceIds": [
@@ -1614,7 +1614,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-5-square.jpg",
-        "alt": "Nobel Square statues at the V&A Waterfront in Cape Town.",
+        "alt": "Скульптуры Nobel Square на V&A Waterfront в Кейптауне.",
         "attribution": {
           "author": "Mike Peel",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1642,7 +1642,7 @@
             "body": "Watershed был открыт в рамках переосмысления Waterfront как пространства для творческих индустрий. Более 150 мастеров представляют здесь 365 локальных брендов, от ювелиров до мебельщиков. Эта площадка даёт художникам возможность продавать напрямую, а посетителям — узнавать о капских традициях и современных трендах."
           }
         ],
-        "sourceNote": "Информация взята с официального сайта Watershed."
+        "sourceNote": "Проверено 2026-06-28 по V&A Waterfront: Watershed работает ежедневно 10:00-18:00; отдельные продавцы и события могут иметь свой режим."
       },
       "entry": "свободно",
       "nameLocal": "Watershed",
@@ -1653,7 +1653,7 @@
       "hours": {
         "rules": [],
         "summary": "Открыт ежедневно 10:00–18:00.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-6",
       "sourceIds": [
@@ -1692,7 +1692,7 @@
             "body": "Амстердамская батарея была построена голландцами в 1784 году и вооружена 30 пушками. В начале XIX века британцы модернизировали её, добавив казармы, а позже использовали как тюрьму. К 1905 году часть укреплений снесли для расширения порта, но уцелевшие казематы остались под землёй. Во время строительства Battery Park их расчистили и интегрировали в новый парк, а канал над ними связал Waterfront с центром города."
           }
         ],
-        "sourceNote": "История и информация о парке взяты с официальной страницы Battery Park."
+        "sourceNote": "Проверено 2026-06-28 по V&A Waterfront: Battery Park работает ежедневно 09:00-18:00 и остается свободным общественным пространством."
       },
       "entry": "свободно",
       "nameLocal": "Battery Park",
@@ -1703,7 +1703,7 @@
       "hours": {
         "rules": [],
         "summary": "Парк открыт ежедневно 9:00–18:00.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-7",
       "sourceIds": [
@@ -1714,7 +1714,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-7-square.jpg",
-        "alt": "Battery Park cannon remains at the V&A Waterfront in Cape Town.",
+        "alt": "Сохранившиеся стены Battery Park у V&A Waterfront.",
         "attribution": {
           "author": "Mike Peel",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1742,7 +1742,7 @@
             "body": "Зерновой элеватор открыли в 1924 году, и почти полвека он оставался самым высоким зданием в Южной Африке. В 2001 году комплекс закрыли, а в 2006 году архитектор Томас Хезервик предложил превратить его в музей. Работы по вырезанию атриума и созданию новых пространств длились с 2014 по 2017 год. В сентябре 2017 года Zeitz MOCAA распахнул двери, показав, как промышленный гигант может стать храмом искусства."
           }
         ],
-        "sourceNote": "История и часы работы взяты из материалов Zeitz MOCAA и официальных источников."
+        "sourceNote": "Проверено 2026-06-28 по Zeitz MOCAA и Webtickets: музей работает 10:00-18:00, последний вход около 17:30; билеты и free-entry windows нужно сверять перед визитом."
       },
       "entry": "по билету",
       "nameLocal": "Zeitz Museum of Contemporary Art Africa",
@@ -1753,7 +1753,7 @@
       "hours": {
         "rules": [],
         "summary": "Ежедневно 10:00–18:00, последняя запись в 17:30; взрослые R265, дети до 18 лет — бесплатно.",
-        "checkedAt": "2026-06-21"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "cape-town-waterfront-silo-harbour-stop-8",
       "sourceIds": [
@@ -1767,7 +1767,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-stop-8-square.jpg",
-        "alt": "Старый бетонный зерновой силос на территории Waterfront, превращённый в музей Zeitz MOCAA",
+        "alt": "Бетонный зерновой силос V&A Waterfront, превращенный в Zeitz MOCAA.",
         "attribution": {
           "author": "HelenOnline",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1782,7 +1782,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/cape-town/cape-town-waterfront-silo-harbour-cover-square.jpg",
-    "alt": "Иллюстративный вид на гавань V&A Waterfront и район Silo в Кейптауне на закате"
+    "alt": "Сгенерированная обложка: гавань V&A Waterfront, Clock Tower и Silo District на вечернем свете Кейптауна."
   },
   "coverAssetId": "cape-town-waterfront-silo-harbour-cover",
   "basemap": {
