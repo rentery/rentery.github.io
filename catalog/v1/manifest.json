@@ -117,15 +117,15 @@
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
-      "packHash": "2784a8e64f98",
+      "packHash": "82aa134c86fb",
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
-      "packHash": "09c15221392c",
+      "packHash": "a67d201992e0",
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "1a140eb9e998",
+      "packHash": "74a12cb80b97",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T09:23:09.278Z",
+  "generatedAt": "2026-06-28T10:38:13.191Z",
   "locale": "ru",
   "schemaVersion": 1
 }
