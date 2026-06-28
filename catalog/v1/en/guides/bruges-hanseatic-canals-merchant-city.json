@@ -895,7 +895,7 @@
             "body": "Главный поворот этой остановки простой: Jan van Eyckplein была не тихой музейной декорацией, а частью торговой машины. Ганзейские и другие иностранные купцы попадали в город через такие водные узлы, а городская власть превращала движение товаров в пошлины, склады, посредников и репутацию."
           }
         ],
-        "sourceNote": "Visit Bruges describes Jan van Eyckplein as the Manhattan of Burgundian Bruges and a lively port with loading around the Toll House and Rijkepijndershuis; its Hanseatic Quarter page frames Bruges as a 13th-15th century hub between northern Hanseatic cities, England/Germany and France/Spain/Italy."
+        "sourceNote": "Visit Bruges описывает Jan van Eyckplein как «Манхэттен Бургундского Брюгге» и оживлённый порт у Tolhuis и Rijkepijndershuis; страница Hanseatic Quarter задаёт рамку Брюгге как торгового узла XIII-XV веков между северными ганзейскими городами, Англией/Германией и Францией/Испанией/Италией."
       },
       "entry": "свободно",
       "nameLocal": "Jan van Eyckplein",
@@ -906,7 +906,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство; для VR-бинокля и уличной навигации проверяйте только погоду и доступ к площади.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-1",
@@ -924,7 +924,8 @@
       "sourceIds": [
         "visitbruges-jan-van-eyckplein",
         "visitbruges-hanseatic-quarter"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-1"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-2",
@@ -945,7 +946,7 @@
             "body": "Ложа помогает увидеть, что торговля была не только обменом товаров, но и социальной инфраструктурой. Горожане принимали партнеров, иностранные купцы держали рядом свои представительства, а башня превращала водный трафик в видимую часть городской власти."
           }
         ],
-        "sourceNote": "Visit Bruges dates Poortersloge to 1395-1417, identifies it as the building of the commercial elite/burgesses, notes the international trade setting, the nearby nation houses, later art-school/archive uses and current contemporary-art role."
+        "sourceNote": "Датировка Poortersloge 1395-1417 годами, роль здания торговой элиты, международный торговый контекст, соседние национные дома, последующие функции школы/архива и нынешняя роль площадки современного искусства сверены по Visit Bruges."
       },
       "entry": "снаружи + по календарю",
       "nameLocal": "Poortersloge",
@@ -956,7 +957,7 @@
       "hours": {
         "rules": [],
         "summary": "Внешний осмотр свободный; выставки внутри зависят от календаря Visit Bruges и могут быть бесплатными.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-2",
@@ -974,7 +975,8 @@
       "sourceIds": [
         "visitbruges-poortersloge",
         "structurae-poortersloge-coords"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-2"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-3",
@@ -995,7 +997,7 @@
             "body": "После Jan van Eyckplein и Poortersloge Tolhuis добавляет недостающий слой: торговля требовала правил. Пошлина, фасад грузчиков и гербы на портике показывают, что средневековый порт был одновременно местом движения, контроля и публичного представления статуса."
           }
         ],
-        "sourceNote": "Visit Bruges says tolls were levied at St John's Bridge, links the 1477 rebuild to Pieter van Luxemburg, and highlights the late-Gothic porch with polychrome coat of arms plus the nearby stevedores' guild-house facade."
+        "sourceNote": "Пошлины у моста Святого Иоанна, перестройка Tolhuis в 1477 году при Питере ван Люксембурге, позднеготический портик с полихромным гербом и фасад гильдии грузчиков сверены по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Tolhuis",
@@ -1006,7 +1008,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный внешний осмотр; внутренний доступ не нужен для маршрута.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-3",
@@ -1024,7 +1026,8 @@
       "sourceIds": [
         "visitbruges-tolhuis",
         "structurae-tolhuis-coords"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-3"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-4",
@@ -1045,7 +1048,7 @@
             "body": "На этом участке маршрут делает вдох. Вы уже видели площадь, ложу и таможню; Spiegelrei показывает ту же торговую географию как отражение. В Брюгге вода не просто украшает центр, а связывает рабочую историю с тем, как город сегодня видят и фотографируют."
           }
         ],
-        "sourceNote": "Visit Bruges describes Koningsbrug as a 20th-century bridge on a historical site, framing Jan van Eyckplein; the same page explains Spiegelrei through mirror-like smooth water and notes that boats turn around here."
+        "sourceNote": "Koningsbrug как мост XX века на историческом месте, рамка для Jan van Eyckplein, разворот лодок и смысл названия Spiegelrei как зеркальной воды сверены по Visit Bruges."
       },
       "entry": "свободно",
       "nameLocal": "Koningsbrug / Spiegelrei",
@@ -1056,7 +1059,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской мост и канал; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-4",
@@ -1074,7 +1077,8 @@
       "sourceIds": [
         "visitbruges-koningsbrug",
         "visitbruges-gouden-handrei"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-4"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-5",
@@ -1095,7 +1099,7 @@
             "body": "После пошлин и биржевых институтов легенда о золотой руке кажется внезапной, но она тоже работает на тему маршрута. Средневековый город объяснял богатство не только документами и гербами, но и историями, которые закреплялись в камне, названии и привычке смотреть на мост внимательнее."
           }
         ],
-        "sourceNote": "Visit Bruges' bridge trail starts at Gouden-Handrei Bridge, describes the hand holding an eel and the golden-hand legend, then links the route to Torenbrug and Augustine Bridge with medieval stone benches used as shop displays."
+        "sourceNote": "Каменная рука с угрём, легенда о золотой руке и связка Gouden-Handreibrug, Torenbrug и Augustinebrug со средневековыми каменными торговыми скамьями сверены по маршруту мостов Visit Bruges."
       },
       "entry": "свободно",
       "nameLocal": "Gouden-Handrei / Gouden-Handreibrug",
@@ -1106,7 +1110,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской канал и мосты; после дождя камень может быть скользким.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-5",
@@ -1124,7 +1128,8 @@
       "sourceIds": [
         "visitbruges-gouden-handrei",
         "visitbruges-bridges-trail"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-5"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-6",
@@ -1145,7 +1150,7 @@
             "body": "Augustijnenrei важен как смена темпа. В начале маршрута торговля звучала через порт, башню и пошлину; здесь она читается в старом канале, мостовой форме и уличной памяти. Такой Брюгге не требует входного билета, но требует идти медленнее."
           }
         ],
-        "sourceNote": "Visit Bruges says Augustijnenrei was excavated in the 12th century, names the disappeared Augustinian monastery as the source of the name, and identifies Augustine Bridge as one of Bruges' oldest bridges; the bridge-trail page links its stone benches to medieval shop displays."
+        "sourceNote": "Канал Augustijnenrei XII века, исчезнувший августинский монастырь в названии и Augustine Bridge как один из старейших мостов Брюгге сверены по Visit Bruges; каменные скамьи как торговые витрины — по маршруту мостов."
       },
       "entry": "свободно",
       "nameLocal": "Augustijnenrei / Augustijnenbrug",
@@ -1156,7 +1161,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской канал и мост; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-6",
@@ -1174,7 +1179,8 @@
       "sourceIds": [
         "visitbruges-augustijnenrei",
         "visitbruges-bridges-trail"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-6"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-7",
@@ -1195,7 +1201,7 @@
             "body": "Oude Beursplein собирает весь маршрут в одну идею: городская форма может стать языком торговли. Порт, ложа, таможня и мосты приводят к месту, где обмен товарами и кредитом превратился в слово, понятное далеко за пределами Брюгге."
           }
         ],
-        "sourceNote": "Visit Bruges' Dutch Oude Beursplein page identifies the corner by Academiestraat/Grauwwerkersstraat as the medieval place for money matters, notes the Genoa, Florence and Venice nation houses, the Ter Beurse inn and the spread of the word beurs."
+        "sourceNote": "Средневековое место денежных дел у Academiestraat/Grauwwerkersstraat, дома Генуи, Флоренции и Венеции, гостиница Ter Beurse и распространение слова `beurs` сверены по нидерландской странице Visit Bruges об Oude Beursplein."
       },
       "entry": "свободно",
       "nameLocal": "Oude Beursplein / Ter Beurse",
@@ -1206,7 +1212,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство; внутренние бизнесы и музеи вокруг имеют собственные расписания.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-7",
@@ -1225,7 +1231,8 @@
         "visitbruges-old-stock-exchange",
         "visitbruges-bridges-trail",
         "commons-saa-halle-photo"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-7"
     }
   ],
   "cover": {
@@ -1233,7 +1240,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «bruges-hanseatic-canals-merchant-city»"
+    "alt": "Сгенерированная обложка маршрута «Каналы Ганзы: северный рынок Европы»"
   },
   "coverAssetId": "bruges-hanseatic-canals-merchant-city-cover",
   "basemap": {

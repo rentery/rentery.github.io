@@ -585,7 +585,7 @@
     "routeLogic": "Маршрут идет от открытой воды к закрытому двору. Сначала Minnewaterpark и Minnewaterbrug дают южный водный порог города. Затем Sashuis и Wijngaardplein показывают, как вода, кареты, лебеди и ворота сходятся в одной точке. После этого белый двор Ten Wijngaerde и Begijnhofkerk переводят прогулку в историю бегинок и женской религиозной независимости, а Godshuis De Vos завершает ее темой городской благотворительности.",
     "bestFor": "Тем, кто хочет короткую тихую прогулку: вода, пороги, бегинаж, церковь и фламандская благотворительность без музейного марафона.",
     "notFor": "Большим шумным группам и тем, кто хочет постоянно заходить внутрь: часть маршрута держится на внешнем осмотре и уважении к жилой тишине.",
-    "beforeYouGo": "Пешая часть по routePath около 900 м. В бегинаже сохраняйте тишину, не подходите к окнам жилых домов и не фотографируйте жителей без разрешения. Visit Bruges ведет календарь для Begijnhof и Begijnhofkerk и предупреждает, что часы могут меняться; UNESCO-страница также напоминает, что ворота закрываются в сумерках.",
+    "beforeYouGo": "Пешая часть маршрута — около 900 м. В бегинаже сохраняйте тишину, не подходите к окнам жилых домов и не фотографируйте жителей без разрешения. Visit Bruges ведёт календарь для Begijnhof и Begijnhofkerk и предупреждает, что часы могут меняться; UNESCO-страница также напоминает, что ворота закрываются в сумерках.",
     "timing": "Лучше утром или ближе к вечеру, когда вода и белые фасады читаются спокойнее.",
     "fallbackPlan": "Если церковь закрыта, проведите больше времени во дворе бегинажа и завершите прогулку на Katelijnestraat."
   },
@@ -609,7 +609,7 @@
             "body": "На Minnewater хорошо видно, как туристическая романтика и городская география накладываются друг на друга. Visit Bruges не просит проверять легенду как факт: важнее понять, что именно здесь город начинает замедляться перед входом в бегинаж."
           }
         ],
-        "sourceNote": "Visit Bruges describes Minnewaterpark as a southern park between the green Ramparts and Lake of Love, near the hushed Beguinage; its Minnewater page explains the water-nymph name, tragic love-story motif, greenery and best photo points by the bridge or Lockhouse."
+        "sourceNote": "Роль Minnewaterpark как южного парка между зелёными валами и Lake of Love, рядом с тихим бегинажем, сверена по Visit Bruges; страница Minnewater объясняет водную этимологию, легенду любви, зелень и лучшие видовые точки у моста и Sashuis."
       },
       "entry": "снаружи",
       "nameLocal": "Minnewaterpark",
@@ -620,7 +620,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство у Lake of Love; проверяйте погоду и состояние дорожек.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-1",
       "sourceIds": [
@@ -659,7 +659,7 @@
             "body": "Легенда о вечной любви здесь важна не как исторический документ, а как современный способ читать место. Она делает мост эмоциональным порогом, но следующий шаг к Sashuis сразу возвращает прогулку к инженерии воды."
           }
         ],
-        "sourceNote": "Visit Bruges identifies Minnewaterbrug as Lovers' Bridge, a free outdoor bridge over Minnewater, and records the popular legend that crossing it with a beloved promises eternal love."
+        "sourceNote": "Visit Bruges идентифицирует Minnewaterbrug как Lovers’ Bridge, свободный открытый мост над Minnewater, и передаёт популярную легенду о вечной любви после перехода с любимым человеком."
       },
       "entry": "снаружи",
       "nameLocal": "Minnewaterbrug",
@@ -670,7 +670,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской мост; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-2",
       "sourceIds": [
@@ -709,7 +709,7 @@
             "body": "Sashuis помогает удержать баланс маршрута: Minnewater кажется природной паузой, но городская вода требовала управления. Шлюзы и lock keeper's house показывают, что южная тишина Брюгге тоже была инфраструктурой."
           }
         ],
-        "sourceNote": "Visit Bruges says streams converged here into the Reie, 12th-13th century locks controlled the city water level, the current 16th-century Sashuis regulated canal water management until the 1970s, and the reservoir holes remain visible."
+        "sourceNote": "История слияния потоков в Reie, шлюзов XII-XIII веков, нынешнего Sashuis XVI века и видимых отверстий резервуара сверена по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Sashuis",
@@ -720,7 +720,7 @@
       "hours": {
         "rules": [],
         "summary": "Внешний осмотр свободный; отверстия бывших водосбросов видны с улицы.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-3",
       "sourceIds": [
@@ -759,7 +759,7 @@
             "body": "Для маршрута важнее не легенда о происхождении лебедей, а практика места: Visit Bruges прямо говорит, что Wijngaardplein — единственная точка в Брюгге, где лебедей кормят. Поэтому эта площадь всегда выглядит чуть более живой, чем тихий двор за воротами."
           }
         ],
-        "sourceNote": "Visit Bruges says Wijngaardplein combines the Beguinage main gate, Sashuis, carriage pause and the only place in Bruges where swans are fed; it also repeats that the 16th-century Sashuis replaced a 13th-century lock complex and has been unused since the 1970s."
+        "sourceNote": "Роль Wijngaardplein как узла у ворот бегинажа, Sashuis, конных экипажей и единственного места кормления лебедей в Брюгге сверена по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Wijngaardplein",
@@ -770,7 +770,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободная городская площадь; часы ворот бегинажа проверяйте по календарю Visit Bruges.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-4",
       "sourceIds": [
@@ -810,7 +810,7 @@
             "body": "UNESCO-страница Visit Bruges хорошо объясняет отличие: бегинки не были связаны формальными вечными обетами и не давали обет бедности, могли сохранять собственность и выходить из общины. Именно поэтому бегинаж важен не только как красивый белый двор, но и как редкая форма женской автономии."
           }
         ],
-        "sourceNote": "Visit Bruges dates the Begijnhof to 1245, describes beguines as emancipated lay-women and asks visitors to keep silence; its UNESCO page records 1998 World Heritage recognition, 152 beguines in 11 convents in the 15th century, the 1927 end of the beguine community, and the continuing women-only residential character."
+        "sourceNote": "Основание Begijnhof в 1245 году, история бегинок, статус Всемирного наследия 1998 года, конец общины в 1927 году, женский жилой характер и просьба о тишине сверены по Visit Bruges и UNESCO-странице города."
       },
       "entry": "снаружи",
       "nameLocal": "Prinselijk Begijnhof Ten Wijngaerde",
@@ -821,7 +821,7 @@
       "hours": {
         "rules": [],
         "summary": "Вход свободный; Visit Bruges ведет календарь и предупреждает, что часы могут меняться, а ворота закрываются в сумерках.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-5",
       "sourceIds": [
@@ -862,7 +862,7 @@
             "body": "Пресс-материалы Visit Bruges называют Our Lady of Spermalie старейшей деревянной Sedes sapientiae в Брюгге и отмечают Our Lady of the Vineyard как единственный объект, переживший и иконоборчество, и пожар XVI века. Это хороший пример того, как скромный интерьер хранит более глубокий слой, чем обещает фасад."
           }
         ],
-        "sourceNote": "Visit Bruges says the Beguinage Church has stood here since the mid-13th century, the current church was erected in the early 17th century after a 16th-century fire, and the interior includes 18th-century baroque elements, Saint Elizabeth, Our Lady of Spermalie and other art treasures; the press page adds Our Lady of the Vineyard and Jacob van Oost details."
+        "sourceNote": "История Beguinage Church с середины XIII века, перестройка после пожара XVI века, барочные элементы XVIII века и ключевые святыни сверены по Visit Bruges и пресс-материалам Visit Bruges."
       },
       "entry": "по месту",
       "nameLocal": "Begijnhofkerk / Sint-Elisabethkerk",
@@ -873,7 +873,7 @@
       "hours": {
         "rules": [],
         "summary": "Вход свободный; часы по календарю Visit Bruges, возможны изменения и ограничения из-за служб.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-6",
       "sourceIds": [
@@ -912,7 +912,7 @@
             "body": "После бегинажа Godshuis De Vos показывает соседнюю форму заботы: не общину бегинок, а маленький комплекс жилья и капеллы. В этом южном квартале тишина связана не только с молитвой, но и с городской обязанностью беречь уязвимых жителей."
           }
         ],
-        "sourceNote": "Onroerend Erfgoed identifies Godshuis De Vos at Noordstraat 2B, 4-8 as built circa 1713-1715 by C. de Vos, originally six and now four dwellings around a small garden with central chapel; EGHN says Godshuis De Vos is an 18th-century almshouse in Noordstraat and asks visitors to respect residents' privacy."
+        "sourceNote": "Датировка Godshuis De Vos около 1713-1715 годов, заказчик C. de Vos, исходные шесть и нынешние четыре жилища вокруг малого сада с часовней сверены по Onroerend Erfgoed; просьба уважать частную жизнь жителей — по EGHN."
       },
       "entry": "снаружи",
       "nameLocal": "Godshuis De Vos",
@@ -923,7 +923,7 @@
       "hours": {
         "rules": [],
         "summary": "Частный жилой комплекс; только внешний осмотр с улицы.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-7",
       "sourceIds": [
@@ -950,7 +950,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/bruges/bruges-minnewater-beguinage-silence-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bruges/bruges-minnewater-beguinage-silence-cover-square.jpg",
-    "alt": "Иллюстрация с кирпичным мостом над тихим каналом, лебедями и белыми домами бегинажа в Брюгге"
+    "alt": "Сгенерированная обложка маршрута «Минневатер и бегинаж: южная тишина»"
   },
   "coverAssetId": "bruges-minnewater-beguinage-silence-cover",
   "basemap": {

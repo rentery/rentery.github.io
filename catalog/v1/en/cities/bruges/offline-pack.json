@@ -1810,7 +1810,7 @@
                 "body": "Главный поворот этой остановки простой: Jan van Eyckplein была не тихой музейной декорацией, а частью торговой машины. Ганзейские и другие иностранные купцы попадали в город через такие водные узлы, а городская власть превращала движение товаров в пошлины, склады, посредников и репутацию."
               }
             ],
-            "sourceNote": "Visit Bruges describes Jan van Eyckplein as the Manhattan of Burgundian Bruges and a lively port with loading around the Toll House and Rijkepijndershuis; its Hanseatic Quarter page frames Bruges as a 13th-15th century hub between northern Hanseatic cities, England/Germany and France/Spain/Italy."
+            "sourceNote": "Visit Bruges описывает Jan van Eyckplein как «Манхэттен Бургундского Брюгге» и оживлённый порт у Tolhuis и Rijkepijndershuis; страница Hanseatic Quarter задаёт рамку Брюгге как торгового узла XIII-XV веков между северными ганзейскими городами, Англией/Германией и Францией/Испанией/Италией."
           },
           "entry": "свободно",
           "nameLocal": "Jan van Eyckplein",
@@ -1821,7 +1821,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободное открытое пространство; для VR-бинокля и уличной навигации проверяйте только погоду и доступ к площади.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-1",
@@ -1839,7 +1839,8 @@
           "sourceIds": [
             "visitbruges-jan-van-eyckplein",
             "visitbruges-hanseatic-quarter"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-1"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-2",
@@ -1860,7 +1861,7 @@
                 "body": "Ложа помогает увидеть, что торговля была не только обменом товаров, но и социальной инфраструктурой. Горожане принимали партнеров, иностранные купцы держали рядом свои представительства, а башня превращала водный трафик в видимую часть городской власти."
               }
             ],
-            "sourceNote": "Visit Bruges dates Poortersloge to 1395-1417, identifies it as the building of the commercial elite/burgesses, notes the international trade setting, the nearby nation houses, later art-school/archive uses and current contemporary-art role."
+            "sourceNote": "Датировка Poortersloge 1395-1417 годами, роль здания торговой элиты, международный торговый контекст, соседние национные дома, последующие функции школы/архива и нынешняя роль площадки современного искусства сверены по Visit Bruges."
           },
           "entry": "снаружи + по календарю",
           "nameLocal": "Poortersloge",
@@ -1871,7 +1872,7 @@
           "hours": {
             "rules": [],
             "summary": "Внешний осмотр свободный; выставки внутри зависят от календаря Visit Bruges и могут быть бесплатными.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-2",
@@ -1889,7 +1890,8 @@
           "sourceIds": [
             "visitbruges-poortersloge",
             "structurae-poortersloge-coords"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-2"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-3",
@@ -1910,7 +1912,7 @@
                 "body": "После Jan van Eyckplein и Poortersloge Tolhuis добавляет недостающий слой: торговля требовала правил. Пошлина, фасад грузчиков и гербы на портике показывают, что средневековый порт был одновременно местом движения, контроля и публичного представления статуса."
               }
             ],
-            "sourceNote": "Visit Bruges says tolls were levied at St John's Bridge, links the 1477 rebuild to Pieter van Luxemburg, and highlights the late-Gothic porch with polychrome coat of arms plus the nearby stevedores' guild-house facade."
+            "sourceNote": "Пошлины у моста Святого Иоанна, перестройка Tolhuis в 1477 году при Питере ван Люксембурге, позднеготический портик с полихромным гербом и фасад гильдии грузчиков сверены по Visit Bruges."
           },
           "entry": "снаружи",
           "nameLocal": "Tolhuis",
@@ -1921,7 +1923,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободный внешний осмотр; внутренний доступ не нужен для маршрута.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-3",
@@ -1939,7 +1941,8 @@
           "sourceIds": [
             "visitbruges-tolhuis",
             "structurae-tolhuis-coords"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-3"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-4",
@@ -1960,7 +1963,7 @@
                 "body": "На этом участке маршрут делает вдох. Вы уже видели площадь, ложу и таможню; Spiegelrei показывает ту же торговую географию как отражение. В Брюгге вода не просто украшает центр, а связывает рабочую историю с тем, как город сегодня видят и фотографируют."
               }
             ],
-            "sourceNote": "Visit Bruges describes Koningsbrug as a 20th-century bridge on a historical site, framing Jan van Eyckplein; the same page explains Spiegelrei through mirror-like smooth water and notes that boats turn around here."
+            "sourceNote": "Koningsbrug как мост XX века на историческом месте, рамка для Jan van Eyckplein, разворот лодок и смысл названия Spiegelrei как зеркальной воды сверены по Visit Bruges."
           },
           "entry": "свободно",
           "nameLocal": "Koningsbrug / Spiegelrei",
@@ -1971,7 +1974,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободный городской мост и канал; проверяйте только погоду и состояние мощения.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-4",
@@ -1989,7 +1992,8 @@
           "sourceIds": [
             "visitbruges-koningsbrug",
             "visitbruges-gouden-handrei"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-4"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-5",
@@ -2010,7 +2014,7 @@
                 "body": "После пошлин и биржевых институтов легенда о золотой руке кажется внезапной, но она тоже работает на тему маршрута. Средневековый город объяснял богатство не только документами и гербами, но и историями, которые закреплялись в камне, названии и привычке смотреть на мост внимательнее."
               }
             ],
-            "sourceNote": "Visit Bruges' bridge trail starts at Gouden-Handrei Bridge, describes the hand holding an eel and the golden-hand legend, then links the route to Torenbrug and Augustine Bridge with medieval stone benches used as shop displays."
+            "sourceNote": "Каменная рука с угрём, легенда о золотой руке и связка Gouden-Handreibrug, Torenbrug и Augustinebrug со средневековыми каменными торговыми скамьями сверены по маршруту мостов Visit Bruges."
           },
           "entry": "свободно",
           "nameLocal": "Gouden-Handrei / Gouden-Handreibrug",
@@ -2021,7 +2025,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободный городской канал и мосты; после дождя камень может быть скользким.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-5",
@@ -2039,7 +2043,8 @@
           "sourceIds": [
             "visitbruges-gouden-handrei",
             "visitbruges-bridges-trail"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-5"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-6",
@@ -2060,7 +2065,7 @@
                 "body": "Augustijnenrei важен как смена темпа. В начале маршрута торговля звучала через порт, башню и пошлину; здесь она читается в старом канале, мостовой форме и уличной памяти. Такой Брюгге не требует входного билета, но требует идти медленнее."
               }
             ],
-            "sourceNote": "Visit Bruges says Augustijnenrei was excavated in the 12th century, names the disappeared Augustinian monastery as the source of the name, and identifies Augustine Bridge as one of Bruges' oldest bridges; the bridge-trail page links its stone benches to medieval shop displays."
+            "sourceNote": "Канал Augustijnenrei XII века, исчезнувший августинский монастырь в названии и Augustine Bridge как один из старейших мостов Брюгге сверены по Visit Bruges; каменные скамьи как торговые витрины — по маршруту мостов."
           },
           "entry": "свободно",
           "nameLocal": "Augustijnenrei / Augustijnenbrug",
@@ -2071,7 +2076,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободный городской канал и мост; проверяйте только погоду и состояние мощения.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-6",
@@ -2089,7 +2094,8 @@
           "sourceIds": [
             "visitbruges-augustijnenrei",
             "visitbruges-bridges-trail"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-6"
         },
         {
           "id": "bruges-hanseatic-canals-merchant-city-7",
@@ -2110,7 +2116,7 @@
                 "body": "Oude Beursplein собирает весь маршрут в одну идею: городская форма может стать языком торговли. Порт, ложа, таможня и мосты приводят к месту, где обмен товарами и кредитом превратился в слово, понятное далеко за пределами Брюгге."
               }
             ],
-            "sourceNote": "Visit Bruges' Dutch Oude Beursplein page identifies the corner by Academiestraat/Grauwwerkersstraat as the medieval place for money matters, notes the Genoa, Florence and Venice nation houses, the Ter Beurse inn and the spread of the word beurs."
+            "sourceNote": "Средневековое место денежных дел у Academiestraat/Grauwwerkersstraat, дома Генуи, Флоренции и Венеции, гостиница Ter Beurse и распространение слова `beurs` сверены по нидерландской странице Visit Bruges об Oude Beursplein."
           },
           "entry": "свободно",
           "nameLocal": "Oude Beursplein / Ter Beurse",
@@ -2121,7 +2127,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободное открытое пространство; внутренние бизнесы и музеи вокруг имеют собственные расписания.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photo": {
             "id": "bruges-hanseatic-canals-merchant-city-stop-7",
@@ -2140,7 +2146,8 @@
             "visitbruges-old-stock-exchange",
             "visitbruges-bridges-trail",
             "commons-saa-halle-photo"
-          ]
+          ],
+          "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-7"
         }
       ],
       "cover": {
@@ -2148,7 +2155,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bruges/bruges-hanseatic-canals-merchant-city-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «bruges-hanseatic-canals-merchant-city»"
+        "alt": "Сгенерированная обложка маршрута «Каналы Ганзы: северный рынок Европы»"
       },
       "coverAssetId": "bruges-hanseatic-canals-merchant-city-cover",
       "basemap": {
@@ -3317,7 +3324,7 @@
                 "body": "Не спешите сразу в Groeningemuseum. Сначала дайте глазу собрать район снаружи: вода, мост и башня помогают понять, почему музеи здесь не выглядят отдельными учреждениями, а продолжают городскую ткань."
               }
             ],
-            "sourceNote": "Visit Bruges описывает Nepomucenusbrug как мост со статуей покровителя мостов и акцентирует панораму Дейвера и башни O.L.V.-kerk; Hof Arents рядом дает вид на O.L.V.-kerk, Gruuthuse и Boniface Bridge."
+            "sourceNote": "Панорама Nepomucenusbrug, Дейвера и башни O.L.V.-kerk сверена по Visit Bruges; видовые связи Hof Arents с O.L.V.-kerk, Gruuthuse и Boniface Bridge сверены там же."
           },
           "entry": "свободно",
           "nameLocal": "Dijver / Nepomucenusbrug",
@@ -3328,7 +3335,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободное открытое пространство у канала; проверяйте только погоду и состояние мощения.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-1",
           "sourceIds": [
@@ -3368,7 +3375,7 @@
                 "body": "Не ищите только громкие имена. Сила этой коллекции в том, как религиозная сцена становится городской: заказчик, ткань, товар, молитва и пейзаж помещены в один невероятно подробный мир."
               }
             ],
-            "sourceNote": "Musea Brugge перечисляет в Groeningemuseum шесть веков искусства и ключевых фламандских примитивов; та же страница дает сезонные часы и текущую цену стандартного билета."
+            "sourceNote": "Шесть веков искусства и ключевые фламандские примитивы в Groeningemuseum, сезонные часы и текущая цена стандартного билета сверены по Musea Brugge."
           },
           "entry": "по билету",
           "nameLocal": "Groeningemuseum",
@@ -3379,7 +3386,7 @@
           "hours": {
             "rules": [],
             "summary": "1 апр-2 ноя: 10:00-18:00; 3 ноя-31 мар: 09:30-17:00; закрыто по понедельникам, с праздничными исключениями.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-2",
           "sourceIds": [
@@ -3419,7 +3426,7 @@
                 "body": "Эта остановка хороша не количеством объектов, а тем, как они накладываются. В одном повороте видны современная скульптура, бывшая торговая структура, дворцовая линия Gruuthuse и церковный шпиль."
               }
             ],
-            "sourceNote": "Visit Bruges описывает Hof Arents как сад с видом на O.L.V.-kerk, Gruuthuse и Boniface Bridge, отмечает Four Horsemen of the Apocalypse by Rik Poot and the remaining Water Halls columns."
+            "sourceNote": "Hof Arents как сад с видами на O.L.V.-kerk, Gruuthuse и Boniface Bridge, четыре всадника Апокалипсиса Рика Поота и оставшиеся колонны Water Halls сверены по Visit Bruges."
           },
           "entry": "свободно",
           "nameLocal": "Hof Arents / De Vier Ruiters van de Apocalyps",
@@ -3430,7 +3437,7 @@
           "hours": {
             "rules": [],
             "summary": "Открытое садовое пространство с календарем Visit Bruges; точные часы могут меняться по дню.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-3",
           "sourceIds": [
@@ -3470,7 +3477,7 @@
                 "body": "Связь Gruuthuse с O.L.V.-kerk важна не только как красивый переход. Она показывает, как частная власть могла встроиться в сакральное пространство и сделать даже молитву вопросом положения."
               }
             ],
-            "sourceNote": "Musea Brugge описывает Gruuthusemuseum как 500 years of Bruges history, выделяет девиз Louis van Gruuthuse and the late 15th-century oratory linking the palace to O.L.V.-kerk; та же страница дает часы, билет и ограничения доступности."
+            "sourceNote": "Gruuthusemuseum как 500 лет истории Брюгге, девиз Луи ван Грютхусе, поздне XV-вековая оратория к O.L.V.-kerk, часы, билет и ограничения доступности сверены по Musea Brugge."
           },
           "entry": "по билету",
           "nameLocal": "Gruuthusemuseum",
@@ -3481,7 +3488,7 @@
           "hours": {
             "rules": [],
             "summary": "09:30-17:00; закрыто по средам; праздничные исключения и события проверяйте в календаре Musea Brugge.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-4",
           "sourceIds": [
@@ -3521,7 +3528,7 @@
                 "body": "Эта остановка особенно хорошо показывает, что в Брюгге искусство не отделено от социальной архитектуры. Микеланджело, мавзолеи и ораторий Gruuthuse говорят не только о красоте, но и о том, кто имел право быть рядом с ней."
               }
             ],
-            "sourceNote": "Musea Brugge подтверждает бесплатный вход в церковь и платную музейную часть, перечисляет Michelangelo's Madonna and Child, mausoleums of Charles the Bold and Mary of Burgundy, 115.5 m brick tower, связь с Gruuthuse через ораторий, а также текущие часы/цены и закрытия для служб."
+            "sourceNote": "Бесплатный вход в церковь, платная музейная часть, «Мадонна с младенцем» Микеланджело, мавзолеи Карла Смелого и Марии Бургундской, 115,5-метровая кирпичная башня, связь с Gruuthuse через ораторий, текущие часы/цены и закрытия для служб сверены по Musea Brugge."
           },
           "entry": "свободно + по билету",
           "nameLocal": "Onze-Lieve-Vrouwekerk / O.L.V.-kerk Museum",
@@ -3532,7 +3539,7 @@
           "hours": {
             "rules": [],
             "summary": "Музейная часть обычно 09:30-17:00, воскресенье 13:30-17:00; возможны закрытия из-за свадеб, похорон и католических праздников.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-5",
           "sourceIds": [
@@ -3572,7 +3579,7 @@
                 "body": "Сила госпиталя в том, что искусство здесь не висит в нейтральной коробке. Картины, больничные палаты, аптечная память и современная экспозиция постоянно напоминают: красота была встроена в институт помощи."
               }
             ],
-            "sourceNote": "Musea Brugge описывает Museum Sint-Janshospitaal как 12th-century hospital and one of Europe's oldest preserved hospital buildings, выделяет Memling collection, four works created for the hospital, St Ursula Shrine and Closer to Memling attic experience; та же страница дает часы, билет и accessibility."
+            "sourceNote": "Sint-Janshospitaal как госпиталь XII века и одно из старейших сохранившихся больничных зданий Европы, коллекция Мемлинга, четыре работы для госпиталя, рака Святой Урсулы, Closer to Memling и доступность сверены по Musea Brugge."
           },
           "entry": "по билету",
           "nameLocal": "Museum Sint-Janshospitaal",
@@ -3583,7 +3590,7 @@
           "hours": {
             "rules": [],
             "summary": "09:30-17:00; закрыто по понедельникам; праздничные исключения проверяйте в календаре Musea Brugge.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-6",
           "sourceIds": [
@@ -3623,7 +3630,7 @@
                 "body": "Финал хорош именно потому, что он не закрывает маршрут музейной точкой. После билетов, витрин и интерьеров вы попадаете в пространство, где искусство, служба и городская история продолжают сосуществовать."
               }
             ],
-            "sourceNote": "Официальный сайт Sint-Salvatorskathedraal описывает собор как episcopal/chapter/parish church, датирует нижнюю башню XI веком, нынешнее тело 1275-1527 and neo-Romanesque tower crown 1844-1871, перечисляет ключевые типы искусства and publishes current opening hours."
+            "sourceNote": "Статус Sint-Salvatorskathedraal как епископальной, капитульной и приходской церкви, башня XI века, корпус 1275-1527 годов, неороманское завершение башни 1844-1871 годов, ключевые виды искусства и текущие часы сверены по официальному сайту собора."
           },
           "entry": "свободно",
           "nameLocal": "Sint-Salvatorskathedraal",
@@ -3634,7 +3641,7 @@
           "hours": {
             "rules": [],
             "summary": "Пн-пт 10:00-13:00 и 14:00-17:30; сб 10:00-13:00 и 14:00-15:30; вс 14:00-17:00; сокровищница по отдельному графику.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-7",
           "sourceIds": [
@@ -3661,7 +3668,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/bruges/bruges-museum-quarter-flemish-primitives-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bruges/bruges-museum-quarter-flemish-primitives-cover-square.jpg",
-        "alt": "Сгенерированная editorial-обложка маршрута «bruges-museum-quarter-flemish-primitives»"
+        "alt": "Сгенерированная обложка маршрута «Музейный квартал: город в масляной краске»"
       },
       "coverAssetId": "bruges-museum-quarter-flemish-primitives-cover",
       "basemap": {
@@ -4263,7 +4270,7 @@
         "routeLogic": "Маршрут идет от открытой воды к закрытому двору. Сначала Minnewaterpark и Minnewaterbrug дают южный водный порог города. Затем Sashuis и Wijngaardplein показывают, как вода, кареты, лебеди и ворота сходятся в одной точке. После этого белый двор Ten Wijngaerde и Begijnhofkerk переводят прогулку в историю бегинок и женской религиозной независимости, а Godshuis De Vos завершает ее темой городской благотворительности.",
         "bestFor": "Тем, кто хочет короткую тихую прогулку: вода, пороги, бегинаж, церковь и фламандская благотворительность без музейного марафона.",
         "notFor": "Большим шумным группам и тем, кто хочет постоянно заходить внутрь: часть маршрута держится на внешнем осмотре и уважении к жилой тишине.",
-        "beforeYouGo": "Пешая часть по routePath около 900 м. В бегинаже сохраняйте тишину, не подходите к окнам жилых домов и не фотографируйте жителей без разрешения. Visit Bruges ведет календарь для Begijnhof и Begijnhofkerk и предупреждает, что часы могут меняться; UNESCO-страница также напоминает, что ворота закрываются в сумерках.",
+        "beforeYouGo": "Пешая часть маршрута — около 900 м. В бегинаже сохраняйте тишину, не подходите к окнам жилых домов и не фотографируйте жителей без разрешения. Visit Bruges ведёт календарь для Begijnhof и Begijnhofkerk и предупреждает, что часы могут меняться; UNESCO-страница также напоминает, что ворота закрываются в сумерках.",
         "timing": "Лучше утром или ближе к вечеру, когда вода и белые фасады читаются спокойнее.",
         "fallbackPlan": "Если церковь закрыта, проведите больше времени во дворе бегинажа и завершите прогулку на Katelijnestraat."
       },
@@ -4287,7 +4294,7 @@
                 "body": "На Minnewater хорошо видно, как туристическая романтика и городская география накладываются друг на друга. Visit Bruges не просит проверять легенду как факт: важнее понять, что именно здесь город начинает замедляться перед входом в бегинаж."
               }
             ],
-            "sourceNote": "Visit Bruges describes Minnewaterpark as a southern park between the green Ramparts and Lake of Love, near the hushed Beguinage; its Minnewater page explains the water-nymph name, tragic love-story motif, greenery and best photo points by the bridge or Lockhouse."
+            "sourceNote": "Роль Minnewaterpark как южного парка между зелёными валами и Lake of Love, рядом с тихим бегинажем, сверена по Visit Bruges; страница Minnewater объясняет водную этимологию, легенду любви, зелень и лучшие видовые точки у моста и Sashuis."
           },
           "entry": "снаружи",
           "nameLocal": "Minnewaterpark",
@@ -4298,7 +4305,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободное открытое пространство у Lake of Love; проверяйте погоду и состояние дорожек.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-1",
           "sourceIds": [
@@ -4337,7 +4344,7 @@
                 "body": "Легенда о вечной любви здесь важна не как исторический документ, а как современный способ читать место. Она делает мост эмоциональным порогом, но следующий шаг к Sashuis сразу возвращает прогулку к инженерии воды."
               }
             ],
-            "sourceNote": "Visit Bruges identifies Minnewaterbrug as Lovers' Bridge, a free outdoor bridge over Minnewater, and records the popular legend that crossing it with a beloved promises eternal love."
+            "sourceNote": "Visit Bruges идентифицирует Minnewaterbrug как Lovers’ Bridge, свободный открытый мост над Minnewater, и передаёт популярную легенду о вечной любви после перехода с любимым человеком."
           },
           "entry": "снаружи",
           "nameLocal": "Minnewaterbrug",
@@ -4348,7 +4355,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободный городской мост; проверяйте только погоду и состояние мощения.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-2",
           "sourceIds": [
@@ -4387,7 +4394,7 @@
                 "body": "Sashuis помогает удержать баланс маршрута: Minnewater кажется природной паузой, но городская вода требовала управления. Шлюзы и lock keeper's house показывают, что южная тишина Брюгге тоже была инфраструктурой."
               }
             ],
-            "sourceNote": "Visit Bruges says streams converged here into the Reie, 12th-13th century locks controlled the city water level, the current 16th-century Sashuis regulated canal water management until the 1970s, and the reservoir holes remain visible."
+            "sourceNote": "История слияния потоков в Reie, шлюзов XII-XIII веков, нынешнего Sashuis XVI века и видимых отверстий резервуара сверена по Visit Bruges."
           },
           "entry": "снаружи",
           "nameLocal": "Sashuis",
@@ -4398,7 +4405,7 @@
           "hours": {
             "rules": [],
             "summary": "Внешний осмотр свободный; отверстия бывших водосбросов видны с улицы.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-3",
           "sourceIds": [
@@ -4437,7 +4444,7 @@
                 "body": "Для маршрута важнее не легенда о происхождении лебедей, а практика места: Visit Bruges прямо говорит, что Wijngaardplein — единственная точка в Брюгге, где лебедей кормят. Поэтому эта площадь всегда выглядит чуть более живой, чем тихий двор за воротами."
               }
             ],
-            "sourceNote": "Visit Bruges says Wijngaardplein combines the Beguinage main gate, Sashuis, carriage pause and the only place in Bruges where swans are fed; it also repeats that the 16th-century Sashuis replaced a 13th-century lock complex and has been unused since the 1970s."
+            "sourceNote": "Роль Wijngaardplein как узла у ворот бегинажа, Sashuis, конных экипажей и единственного места кормления лебедей в Брюгге сверена по Visit Bruges."
           },
           "entry": "снаружи",
           "nameLocal": "Wijngaardplein",
@@ -4448,7 +4455,7 @@
           "hours": {
             "rules": [],
             "summary": "Свободная городская площадь; часы ворот бегинажа проверяйте по календарю Visit Bruges.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-4",
           "sourceIds": [
@@ -4488,7 +4495,7 @@
                 "body": "UNESCO-страница Visit Bruges хорошо объясняет отличие: бегинки не были связаны формальными вечными обетами и не давали обет бедности, могли сохранять собственность и выходить из общины. Именно поэтому бегинаж важен не только как красивый белый двор, но и как редкая форма женской автономии."
               }
             ],
-            "sourceNote": "Visit Bruges dates the Begijnhof to 1245, describes beguines as emancipated lay-women and asks visitors to keep silence; its UNESCO page records 1998 World Heritage recognition, 152 beguines in 11 convents in the 15th century, the 1927 end of the beguine community, and the continuing women-only residential character."
+            "sourceNote": "Основание Begijnhof в 1245 году, история бегинок, статус Всемирного наследия 1998 года, конец общины в 1927 году, женский жилой характер и просьба о тишине сверены по Visit Bruges и UNESCO-странице города."
           },
           "entry": "снаружи",
           "nameLocal": "Prinselijk Begijnhof Ten Wijngaerde",
@@ -4499,7 +4506,7 @@
           "hours": {
             "rules": [],
             "summary": "Вход свободный; Visit Bruges ведет календарь и предупреждает, что часы могут меняться, а ворота закрываются в сумерках.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-5",
           "sourceIds": [
@@ -4540,7 +4547,7 @@
                 "body": "Пресс-материалы Visit Bruges называют Our Lady of Spermalie старейшей деревянной Sedes sapientiae в Брюгге и отмечают Our Lady of the Vineyard как единственный объект, переживший и иконоборчество, и пожар XVI века. Это хороший пример того, как скромный интерьер хранит более глубокий слой, чем обещает фасад."
               }
             ],
-            "sourceNote": "Visit Bruges says the Beguinage Church has stood here since the mid-13th century, the current church was erected in the early 17th century after a 16th-century fire, and the interior includes 18th-century baroque elements, Saint Elizabeth, Our Lady of Spermalie and other art treasures; the press page adds Our Lady of the Vineyard and Jacob van Oost details."
+            "sourceNote": "История Beguinage Church с середины XIII века, перестройка после пожара XVI века, барочные элементы XVIII века и ключевые святыни сверены по Visit Bruges и пресс-материалам Visit Bruges."
           },
           "entry": "по месту",
           "nameLocal": "Begijnhofkerk / Sint-Elisabethkerk",
@@ -4551,7 +4558,7 @@
           "hours": {
             "rules": [],
             "summary": "Вход свободный; часы по календарю Visit Bruges, возможны изменения и ограничения из-за служб.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-6",
           "sourceIds": [
@@ -4590,7 +4597,7 @@
                 "body": "После бегинажа Godshuis De Vos показывает соседнюю форму заботы: не общину бегинок, а маленький комплекс жилья и капеллы. В этом южном квартале тишина связана не только с молитвой, но и с городской обязанностью беречь уязвимых жителей."
               }
             ],
-            "sourceNote": "Onroerend Erfgoed identifies Godshuis De Vos at Noordstraat 2B, 4-8 as built circa 1713-1715 by C. de Vos, originally six and now four dwellings around a small garden with central chapel; EGHN says Godshuis De Vos is an 18th-century almshouse in Noordstraat and asks visitors to respect residents' privacy."
+            "sourceNote": "Датировка Godshuis De Vos около 1713-1715 годов, заказчик C. de Vos, исходные шесть и нынешние четыре жилища вокруг малого сада с часовней сверены по Onroerend Erfgoed; просьба уважать частную жизнь жителей — по EGHN."
           },
           "entry": "снаружи",
           "nameLocal": "Godshuis De Vos",
@@ -4601,7 +4608,7 @@
           "hours": {
             "rules": [],
             "summary": "Частный жилой комплекс; только внешний осмотр с улицы.",
-            "checkedAt": "2026-06-26"
+            "checkedAt": "2026-06-28"
           },
           "photoAssetId": "bruges-minnewater-beguinage-silence-stop-7",
           "sourceIds": [
@@ -4628,7 +4635,7 @@
         "kind": "generated",
         "wide": "https://rentery.github.io/images/v1/bruges/bruges-minnewater-beguinage-silence-cover-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bruges/bruges-minnewater-beguinage-silence-cover-square.jpg",
-        "alt": "Иллюстрация с кирпичным мостом над тихим каналом, лебедями и белыми домами бегинажа в Брюгге"
+        "alt": "Сгенерированная обложка маршрута «Минневатер и бегинаж: южная тишина»"
       },
       "coverAssetId": "bruges-minnewater-beguinage-silence-cover",
       "basemap": {
@@ -5032,7 +5039,7 @@
             "body": "Главный поворот этой остановки простой: Jan van Eyckplein была не тихой музейной декорацией, а частью торговой машины. Ганзейские и другие иностранные купцы попадали в город через такие водные узлы, а городская власть превращала движение товаров в пошлины, склады, посредников и репутацию."
           }
         ],
-        "sourceNote": "Visit Bruges describes Jan van Eyckplein as the Manhattan of Burgundian Bruges and a lively port with loading around the Toll House and Rijkepijndershuis; its Hanseatic Quarter page frames Bruges as a 13th-15th century hub between northern Hanseatic cities, England/Germany and France/Spain/Italy."
+        "sourceNote": "Visit Bruges описывает Jan van Eyckplein как «Манхэттен Бургундского Брюгге» и оживлённый порт у Tolhuis и Rijkepijndershuis; страница Hanseatic Quarter задаёт рамку Брюгге как торгового узла XIII-XV веков между северными ганзейскими городами, Англией/Германией и Францией/Испанией/Италией."
       },
       "entry": "свободно",
       "nameLocal": "Jan van Eyckplein",
@@ -5043,7 +5050,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство; для VR-бинокля и уличной навигации проверяйте только погоду и доступ к площади.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-1",
@@ -5061,7 +5068,8 @@
       "sourceIds": [
         "visitbruges-jan-van-eyckplein",
         "visitbruges-hanseatic-quarter"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-1"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-2",
@@ -5082,7 +5090,7 @@
             "body": "Ложа помогает увидеть, что торговля была не только обменом товаров, но и социальной инфраструктурой. Горожане принимали партнеров, иностранные купцы держали рядом свои представительства, а башня превращала водный трафик в видимую часть городской власти."
           }
         ],
-        "sourceNote": "Visit Bruges dates Poortersloge to 1395-1417, identifies it as the building of the commercial elite/burgesses, notes the international trade setting, the nearby nation houses, later art-school/archive uses and current contemporary-art role."
+        "sourceNote": "Датировка Poortersloge 1395-1417 годами, роль здания торговой элиты, международный торговый контекст, соседние национные дома, последующие функции школы/архива и нынешняя роль площадки современного искусства сверены по Visit Bruges."
       },
       "entry": "снаружи + по календарю",
       "nameLocal": "Poortersloge",
@@ -5093,7 +5101,7 @@
       "hours": {
         "rules": [],
         "summary": "Внешний осмотр свободный; выставки внутри зависят от календаря Visit Bruges и могут быть бесплатными.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-2",
@@ -5111,7 +5119,8 @@
       "sourceIds": [
         "visitbruges-poortersloge",
         "structurae-poortersloge-coords"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-2"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-3",
@@ -5132,7 +5141,7 @@
             "body": "После Jan van Eyckplein и Poortersloge Tolhuis добавляет недостающий слой: торговля требовала правил. Пошлина, фасад грузчиков и гербы на портике показывают, что средневековый порт был одновременно местом движения, контроля и публичного представления статуса."
           }
         ],
-        "sourceNote": "Visit Bruges says tolls were levied at St John's Bridge, links the 1477 rebuild to Pieter van Luxemburg, and highlights the late-Gothic porch with polychrome coat of arms plus the nearby stevedores' guild-house facade."
+        "sourceNote": "Пошлины у моста Святого Иоанна, перестройка Tolhuis в 1477 году при Питере ван Люксембурге, позднеготический портик с полихромным гербом и фасад гильдии грузчиков сверены по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Tolhuis",
@@ -5143,7 +5152,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный внешний осмотр; внутренний доступ не нужен для маршрута.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-3",
@@ -5161,7 +5170,8 @@
       "sourceIds": [
         "visitbruges-tolhuis",
         "structurae-tolhuis-coords"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-3"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-4",
@@ -5182,7 +5192,7 @@
             "body": "На этом участке маршрут делает вдох. Вы уже видели площадь, ложу и таможню; Spiegelrei показывает ту же торговую географию как отражение. В Брюгге вода не просто украшает центр, а связывает рабочую историю с тем, как город сегодня видят и фотографируют."
           }
         ],
-        "sourceNote": "Visit Bruges describes Koningsbrug as a 20th-century bridge on a historical site, framing Jan van Eyckplein; the same page explains Spiegelrei through mirror-like smooth water and notes that boats turn around here."
+        "sourceNote": "Koningsbrug как мост XX века на историческом месте, рамка для Jan van Eyckplein, разворот лодок и смысл названия Spiegelrei как зеркальной воды сверены по Visit Bruges."
       },
       "entry": "свободно",
       "nameLocal": "Koningsbrug / Spiegelrei",
@@ -5193,7 +5203,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской мост и канал; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-4",
@@ -5211,7 +5221,8 @@
       "sourceIds": [
         "visitbruges-koningsbrug",
         "visitbruges-gouden-handrei"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-4"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-5",
@@ -5232,7 +5243,7 @@
             "body": "После пошлин и биржевых институтов легенда о золотой руке кажется внезапной, но она тоже работает на тему маршрута. Средневековый город объяснял богатство не только документами и гербами, но и историями, которые закреплялись в камне, названии и привычке смотреть на мост внимательнее."
           }
         ],
-        "sourceNote": "Visit Bruges' bridge trail starts at Gouden-Handrei Bridge, describes the hand holding an eel and the golden-hand legend, then links the route to Torenbrug and Augustine Bridge with medieval stone benches used as shop displays."
+        "sourceNote": "Каменная рука с угрём, легенда о золотой руке и связка Gouden-Handreibrug, Torenbrug и Augustinebrug со средневековыми каменными торговыми скамьями сверены по маршруту мостов Visit Bruges."
       },
       "entry": "свободно",
       "nameLocal": "Gouden-Handrei / Gouden-Handreibrug",
@@ -5243,7 +5254,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской канал и мосты; после дождя камень может быть скользким.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-5",
@@ -5261,7 +5272,8 @@
       "sourceIds": [
         "visitbruges-gouden-handrei",
         "visitbruges-bridges-trail"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-5"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-6",
@@ -5282,7 +5294,7 @@
             "body": "Augustijnenrei важен как смена темпа. В начале маршрута торговля звучала через порт, башню и пошлину; здесь она читается в старом канале, мостовой форме и уличной памяти. Такой Брюгге не требует входного билета, но требует идти медленнее."
           }
         ],
-        "sourceNote": "Visit Bruges says Augustijnenrei was excavated in the 12th century, names the disappeared Augustinian monastery as the source of the name, and identifies Augustine Bridge as one of Bruges' oldest bridges; the bridge-trail page links its stone benches to medieval shop displays."
+        "sourceNote": "Канал Augustijnenrei XII века, исчезнувший августинский монастырь в названии и Augustine Bridge как один из старейших мостов Брюгге сверены по Visit Bruges; каменные скамьи как торговые витрины — по маршруту мостов."
       },
       "entry": "свободно",
       "nameLocal": "Augustijnenrei / Augustijnenbrug",
@@ -5293,7 +5305,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской канал и мост; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-6",
@@ -5311,7 +5323,8 @@
       "sourceIds": [
         "visitbruges-augustijnenrei",
         "visitbruges-bridges-trail"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-6"
     },
     {
       "id": "bruges-hanseatic-canals-merchant-city-7",
@@ -5332,7 +5345,7 @@
             "body": "Oude Beursplein собирает весь маршрут в одну идею: городская форма может стать языком торговли. Порт, ложа, таможня и мосты приводят к месту, где обмен товарами и кредитом превратился в слово, понятное далеко за пределами Брюгге."
           }
         ],
-        "sourceNote": "Visit Bruges' Dutch Oude Beursplein page identifies the corner by Academiestraat/Grauwwerkersstraat as the medieval place for money matters, notes the Genoa, Florence and Venice nation houses, the Ter Beurse inn and the spread of the word beurs."
+        "sourceNote": "Средневековое место денежных дел у Academiestraat/Grauwwerkersstraat, дома Генуи, Флоренции и Венеции, гостиница Ter Beurse и распространение слова `beurs` сверены по нидерландской странице Visit Bruges об Oude Beursplein."
       },
       "entry": "свободно",
       "nameLocal": "Oude Beursplein / Ter Beurse",
@@ -5343,7 +5356,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство; внутренние бизнесы и музеи вокруг имеют собственные расписания.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photo": {
         "id": "bruges-hanseatic-canals-merchant-city-stop-7",
@@ -5362,7 +5375,8 @@
         "visitbruges-old-stock-exchange",
         "visitbruges-bridges-trail",
         "commons-saa-halle-photo"
-      ]
+      ],
+      "photoAssetId": "bruges-hanseatic-canals-merchant-city-stop-7"
     },
     {
       "id": "bruges-museum-quarter-flemish-primitives-1",
@@ -5383,7 +5397,7 @@
             "body": "Не спешите сразу в Groeningemuseum. Сначала дайте глазу собрать район снаружи: вода, мост и башня помогают понять, почему музеи здесь не выглядят отдельными учреждениями, а продолжают городскую ткань."
           }
         ],
-        "sourceNote": "Visit Bruges описывает Nepomucenusbrug как мост со статуей покровителя мостов и акцентирует панораму Дейвера и башни O.L.V.-kerk; Hof Arents рядом дает вид на O.L.V.-kerk, Gruuthuse и Boniface Bridge."
+        "sourceNote": "Панорама Nepomucenusbrug, Дейвера и башни O.L.V.-kerk сверена по Visit Bruges; видовые связи Hof Arents с O.L.V.-kerk, Gruuthuse и Boniface Bridge сверены там же."
       },
       "entry": "свободно",
       "nameLocal": "Dijver / Nepomucenusbrug",
@@ -5394,7 +5408,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство у канала; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-1",
       "sourceIds": [
@@ -5434,7 +5448,7 @@
             "body": "Не ищите только громкие имена. Сила этой коллекции в том, как религиозная сцена становится городской: заказчик, ткань, товар, молитва и пейзаж помещены в один невероятно подробный мир."
           }
         ],
-        "sourceNote": "Musea Brugge перечисляет в Groeningemuseum шесть веков искусства и ключевых фламандских примитивов; та же страница дает сезонные часы и текущую цену стандартного билета."
+        "sourceNote": "Шесть веков искусства и ключевые фламандские примитивы в Groeningemuseum, сезонные часы и текущая цена стандартного билета сверены по Musea Brugge."
       },
       "entry": "по билету",
       "nameLocal": "Groeningemuseum",
@@ -5445,7 +5459,7 @@
       "hours": {
         "rules": [],
         "summary": "1 апр-2 ноя: 10:00-18:00; 3 ноя-31 мар: 09:30-17:00; закрыто по понедельникам, с праздничными исключениями.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-2",
       "sourceIds": [
@@ -5485,7 +5499,7 @@
             "body": "Эта остановка хороша не количеством объектов, а тем, как они накладываются. В одном повороте видны современная скульптура, бывшая торговая структура, дворцовая линия Gruuthuse и церковный шпиль."
           }
         ],
-        "sourceNote": "Visit Bruges описывает Hof Arents как сад с видом на O.L.V.-kerk, Gruuthuse и Boniface Bridge, отмечает Four Horsemen of the Apocalypse by Rik Poot and the remaining Water Halls columns."
+        "sourceNote": "Hof Arents как сад с видами на O.L.V.-kerk, Gruuthuse и Boniface Bridge, четыре всадника Апокалипсиса Рика Поота и оставшиеся колонны Water Halls сверены по Visit Bruges."
       },
       "entry": "свободно",
       "nameLocal": "Hof Arents / De Vier Ruiters van de Apocalyps",
@@ -5496,7 +5510,7 @@
       "hours": {
         "rules": [],
         "summary": "Открытое садовое пространство с календарем Visit Bruges; точные часы могут меняться по дню.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-3",
       "sourceIds": [
@@ -5536,7 +5550,7 @@
             "body": "Связь Gruuthuse с O.L.V.-kerk важна не только как красивый переход. Она показывает, как частная власть могла встроиться в сакральное пространство и сделать даже молитву вопросом положения."
           }
         ],
-        "sourceNote": "Musea Brugge описывает Gruuthusemuseum как 500 years of Bruges history, выделяет девиз Louis van Gruuthuse and the late 15th-century oratory linking the palace to O.L.V.-kerk; та же страница дает часы, билет и ограничения доступности."
+        "sourceNote": "Gruuthusemuseum как 500 лет истории Брюгге, девиз Луи ван Грютхусе, поздне XV-вековая оратория к O.L.V.-kerk, часы, билет и ограничения доступности сверены по Musea Brugge."
       },
       "entry": "по билету",
       "nameLocal": "Gruuthusemuseum",
@@ -5547,7 +5561,7 @@
       "hours": {
         "rules": [],
         "summary": "09:30-17:00; закрыто по средам; праздничные исключения и события проверяйте в календаре Musea Brugge.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-4",
       "sourceIds": [
@@ -5587,7 +5601,7 @@
             "body": "Эта остановка особенно хорошо показывает, что в Брюгге искусство не отделено от социальной архитектуры. Микеланджело, мавзолеи и ораторий Gruuthuse говорят не только о красоте, но и о том, кто имел право быть рядом с ней."
           }
         ],
-        "sourceNote": "Musea Brugge подтверждает бесплатный вход в церковь и платную музейную часть, перечисляет Michelangelo's Madonna and Child, mausoleums of Charles the Bold and Mary of Burgundy, 115.5 m brick tower, связь с Gruuthuse через ораторий, а также текущие часы/цены и закрытия для служб."
+        "sourceNote": "Бесплатный вход в церковь, платная музейная часть, «Мадонна с младенцем» Микеланджело, мавзолеи Карла Смелого и Марии Бургундской, 115,5-метровая кирпичная башня, связь с Gruuthuse через ораторий, текущие часы/цены и закрытия для служб сверены по Musea Brugge."
       },
       "entry": "свободно + по билету",
       "nameLocal": "Onze-Lieve-Vrouwekerk / O.L.V.-kerk Museum",
@@ -5598,7 +5612,7 @@
       "hours": {
         "rules": [],
         "summary": "Музейная часть обычно 09:30-17:00, воскресенье 13:30-17:00; возможны закрытия из-за свадеб, похорон и католических праздников.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-5",
       "sourceIds": [
@@ -5638,7 +5652,7 @@
             "body": "Сила госпиталя в том, что искусство здесь не висит в нейтральной коробке. Картины, больничные палаты, аптечная память и современная экспозиция постоянно напоминают: красота была встроена в институт помощи."
           }
         ],
-        "sourceNote": "Musea Brugge описывает Museum Sint-Janshospitaal как 12th-century hospital and one of Europe's oldest preserved hospital buildings, выделяет Memling collection, four works created for the hospital, St Ursula Shrine and Closer to Memling attic experience; та же страница дает часы, билет и accessibility."
+        "sourceNote": "Sint-Janshospitaal как госпиталь XII века и одно из старейших сохранившихся больничных зданий Европы, коллекция Мемлинга, четыре работы для госпиталя, рака Святой Урсулы, Closer to Memling и доступность сверены по Musea Brugge."
       },
       "entry": "по билету",
       "nameLocal": "Museum Sint-Janshospitaal",
@@ -5649,7 +5663,7 @@
       "hours": {
         "rules": [],
         "summary": "09:30-17:00; закрыто по понедельникам; праздничные исключения проверяйте в календаре Musea Brugge.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-6",
       "sourceIds": [
@@ -5689,7 +5703,7 @@
             "body": "Финал хорош именно потому, что он не закрывает маршрут музейной точкой. После билетов, витрин и интерьеров вы попадаете в пространство, где искусство, служба и городская история продолжают сосуществовать."
           }
         ],
-        "sourceNote": "Официальный сайт Sint-Salvatorskathedraal описывает собор как episcopal/chapter/parish church, датирует нижнюю башню XI веком, нынешнее тело 1275-1527 and neo-Romanesque tower crown 1844-1871, перечисляет ключевые типы искусства and publishes current opening hours."
+        "sourceNote": "Статус Sint-Salvatorskathedraal как епископальной, капитульной и приходской церкви, башня XI века, корпус 1275-1527 годов, неороманское завершение башни 1844-1871 годов, ключевые виды искусства и текущие часы сверены по официальному сайту собора."
       },
       "entry": "свободно",
       "nameLocal": "Sint-Salvatorskathedraal",
@@ -5700,7 +5714,7 @@
       "hours": {
         "rules": [],
         "summary": "Пн-пт 10:00-13:00 и 14:00-17:30; сб 10:00-13:00 и 14:00-15:30; вс 14:00-17:00; сокровищница по отдельному графику.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-museum-quarter-flemish-primitives-stop-7",
       "sourceIds": [
@@ -5740,7 +5754,7 @@
             "body": "На Minnewater хорошо видно, как туристическая романтика и городская география накладываются друг на друга. Visit Bruges не просит проверять легенду как факт: важнее понять, что именно здесь город начинает замедляться перед входом в бегинаж."
           }
         ],
-        "sourceNote": "Visit Bruges describes Minnewaterpark as a southern park between the green Ramparts and Lake of Love, near the hushed Beguinage; its Minnewater page explains the water-nymph name, tragic love-story motif, greenery and best photo points by the bridge or Lockhouse."
+        "sourceNote": "Роль Minnewaterpark как южного парка между зелёными валами и Lake of Love, рядом с тихим бегинажем, сверена по Visit Bruges; страница Minnewater объясняет водную этимологию, легенду любви, зелень и лучшие видовые точки у моста и Sashuis."
       },
       "entry": "снаружи",
       "nameLocal": "Minnewaterpark",
@@ -5751,7 +5765,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободное открытое пространство у Lake of Love; проверяйте погоду и состояние дорожек.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-1",
       "sourceIds": [
@@ -5790,7 +5804,7 @@
             "body": "Легенда о вечной любви здесь важна не как исторический документ, а как современный способ читать место. Она делает мост эмоциональным порогом, но следующий шаг к Sashuis сразу возвращает прогулку к инженерии воды."
           }
         ],
-        "sourceNote": "Visit Bruges identifies Minnewaterbrug as Lovers' Bridge, a free outdoor bridge over Minnewater, and records the popular legend that crossing it with a beloved promises eternal love."
+        "sourceNote": "Visit Bruges идентифицирует Minnewaterbrug как Lovers’ Bridge, свободный открытый мост над Minnewater, и передаёт популярную легенду о вечной любви после перехода с любимым человеком."
       },
       "entry": "снаружи",
       "nameLocal": "Minnewaterbrug",
@@ -5801,7 +5815,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободный городской мост; проверяйте только погоду и состояние мощения.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-2",
       "sourceIds": [
@@ -5840,7 +5854,7 @@
             "body": "Sashuis помогает удержать баланс маршрута: Minnewater кажется природной паузой, но городская вода требовала управления. Шлюзы и lock keeper's house показывают, что южная тишина Брюгге тоже была инфраструктурой."
           }
         ],
-        "sourceNote": "Visit Bruges says streams converged here into the Reie, 12th-13th century locks controlled the city water level, the current 16th-century Sashuis regulated canal water management until the 1970s, and the reservoir holes remain visible."
+        "sourceNote": "История слияния потоков в Reie, шлюзов XII-XIII веков, нынешнего Sashuis XVI века и видимых отверстий резервуара сверена по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Sashuis",
@@ -5851,7 +5865,7 @@
       "hours": {
         "rules": [],
         "summary": "Внешний осмотр свободный; отверстия бывших водосбросов видны с улицы.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-3",
       "sourceIds": [
@@ -5890,7 +5904,7 @@
             "body": "Для маршрута важнее не легенда о происхождении лебедей, а практика места: Visit Bruges прямо говорит, что Wijngaardplein — единственная точка в Брюгге, где лебедей кормят. Поэтому эта площадь всегда выглядит чуть более живой, чем тихий двор за воротами."
           }
         ],
-        "sourceNote": "Visit Bruges says Wijngaardplein combines the Beguinage main gate, Sashuis, carriage pause and the only place in Bruges where swans are fed; it also repeats that the 16th-century Sashuis replaced a 13th-century lock complex and has been unused since the 1970s."
+        "sourceNote": "Роль Wijngaardplein как узла у ворот бегинажа, Sashuis, конных экипажей и единственного места кормления лебедей в Брюгге сверена по Visit Bruges."
       },
       "entry": "снаружи",
       "nameLocal": "Wijngaardplein",
@@ -5901,7 +5915,7 @@
       "hours": {
         "rules": [],
         "summary": "Свободная городская площадь; часы ворот бегинажа проверяйте по календарю Visit Bruges.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-4",
       "sourceIds": [
@@ -5941,7 +5955,7 @@
             "body": "UNESCO-страница Visit Bruges хорошо объясняет отличие: бегинки не были связаны формальными вечными обетами и не давали обет бедности, могли сохранять собственность и выходить из общины. Именно поэтому бегинаж важен не только как красивый белый двор, но и как редкая форма женской автономии."
           }
         ],
-        "sourceNote": "Visit Bruges dates the Begijnhof to 1245, describes beguines as emancipated lay-women and asks visitors to keep silence; its UNESCO page records 1998 World Heritage recognition, 152 beguines in 11 convents in the 15th century, the 1927 end of the beguine community, and the continuing women-only residential character."
+        "sourceNote": "Основание Begijnhof в 1245 году, история бегинок, статус Всемирного наследия 1998 года, конец общины в 1927 году, женский жилой характер и просьба о тишине сверены по Visit Bruges и UNESCO-странице города."
       },
       "entry": "снаружи",
       "nameLocal": "Prinselijk Begijnhof Ten Wijngaerde",
@@ -5952,7 +5966,7 @@
       "hours": {
         "rules": [],
         "summary": "Вход свободный; Visit Bruges ведет календарь и предупреждает, что часы могут меняться, а ворота закрываются в сумерках.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-5",
       "sourceIds": [
@@ -5993,7 +6007,7 @@
             "body": "Пресс-материалы Visit Bruges называют Our Lady of Spermalie старейшей деревянной Sedes sapientiae в Брюгге и отмечают Our Lady of the Vineyard как единственный объект, переживший и иконоборчество, и пожар XVI века. Это хороший пример того, как скромный интерьер хранит более глубокий слой, чем обещает фасад."
           }
         ],
-        "sourceNote": "Visit Bruges says the Beguinage Church has stood here since the mid-13th century, the current church was erected in the early 17th century after a 16th-century fire, and the interior includes 18th-century baroque elements, Saint Elizabeth, Our Lady of Spermalie and other art treasures; the press page adds Our Lady of the Vineyard and Jacob van Oost details."
+        "sourceNote": "История Beguinage Church с середины XIII века, перестройка после пожара XVI века, барочные элементы XVIII века и ключевые святыни сверены по Visit Bruges и пресс-материалам Visit Bruges."
       },
       "entry": "по месту",
       "nameLocal": "Begijnhofkerk / Sint-Elisabethkerk",
@@ -6004,7 +6018,7 @@
       "hours": {
         "rules": [],
         "summary": "Вход свободный; часы по календарю Visit Bruges, возможны изменения и ограничения из-за служб.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-6",
       "sourceIds": [
@@ -6043,7 +6057,7 @@
             "body": "После бегинажа Godshuis De Vos показывает соседнюю форму заботы: не общину бегинок, а маленький комплекс жилья и капеллы. В этом южном квартале тишина связана не только с молитвой, но и с городской обязанностью беречь уязвимых жителей."
           }
         ],
-        "sourceNote": "Onroerend Erfgoed identifies Godshuis De Vos at Noordstraat 2B, 4-8 as built circa 1713-1715 by C. de Vos, originally six and now four dwellings around a small garden with central chapel; EGHN says Godshuis De Vos is an 18th-century almshouse in Noordstraat and asks visitors to respect residents' privacy."
+        "sourceNote": "Датировка Godshuis De Vos около 1713-1715 годов, заказчик C. de Vos, исходные шесть и нынешние четыре жилища вокруг малого сада с часовней сверены по Onroerend Erfgoed; просьба уважать частную жизнь жителей — по EGHN."
       },
       "entry": "снаружи",
       "nameLocal": "Godshuis De Vos",
@@ -6054,7 +6068,7 @@
       "hours": {
         "rules": [],
         "summary": "Частный жилой комплекс; только внешний осмотр с улицы.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "bruges-minnewater-beguinage-silence-stop-7",
       "sourceIds": [
@@ -6076,5 +6090,5 @@
       }
     }
   ],
-  "packHash": "816a1c0eb717"
+  "packHash": "f3a613d0066e"
 }
