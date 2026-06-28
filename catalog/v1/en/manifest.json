@@ -1,11 +1,11 @@
 {
   "cities": {
     "beijing": {
-      "packHash": "dde6256ef6c0",
+      "packHash": "6a9efd129237",
       "packPath": "cities/beijing/offline-pack.json"
     },
     "seoul": {
-      "packHash": "3df93d88e12a",
+      "packHash": "f52faf5fa812",
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
@@ -21,7 +21,7 @@
       "packPath": "cities/tivat/offline-pack.json"
     },
     "amsterdam": {
-      "packHash": "8fd80fbd0467",
+      "packHash": "8c26f2a5ef81",
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T06:11:51.192Z",
+  "generatedAt": "2026-06-28T06:27:04.538Z",
   "locale": "en",
   "schemaVersion": 1
 }
