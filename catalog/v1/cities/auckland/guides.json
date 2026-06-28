@@ -1038,8 +1038,9 @@
       "kind": "generated",
       "wide": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-cover-wide.jpg",
       "square": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-cover-square.jpg",
-      "alt": "Сгенерированная editorial-обложка маршрута «Набережная и Бритомарт: город у Waitematā»"
+      "alt": "Маршрутная обложка: Waitematā waterfront, Britomart, паромы, Viaduct и Silo Park."
     },
+    "coverAssetId": "auckland-waterfront-britomart-harbour-layers-cover",
     "basemap": {
       "image": "https://rentery.github.io/images/v1/auckland/auckland-waterfront-britomart-harbour-layers-basemap.png",
       "center": {
@@ -1054,8 +1055,8 @@
     "content": {
       "intro": "Эта прогулка идет не вдоль воды как по открытке, а вдоль границы между сушей и тем, что когда-то было морем. У нижней Queen Street вы стоите на месте бывшего Commercial Bay, под ногами у вас насыпная земля, впереди — паромы, под землей — железная дорога, а вокруг — здания, которые пережили смену эпох и функций. Дальше маршрут раскрывает Окленд как портовый организм: сначала город встречал людей с воды, потом опирался на почту, причалы, склады и верфи, а сегодня учится делать набережную снова общественной. Здесь важно смотреть не только вперед, на горизонт, но и по сторонам: на фасады, кромку воды, мост, старые силосы и следы инфраструктуры. Waitematā в этом маршруте — не фон, а причина, по которой город вообще здесь сложился. Если день ветреный, история ощущается почти физически: этот waterfront все еще живет в ритме прилива, транспорта и смены погоды.",
       "routeLogic": "Маршрут ведет от Te Komititanga и исторического CPO к Ferry Building, затем вдоль Hobson Wharf и Viaduct Harbour через Te Wero Wynyard Crossing в Silo Park. Это короткая линия по насыпной кромке Waitematā: железнодорожный порог, паромная архитектура, морской музей, бывшая портовая акватория, подвижный мост и силосы.",
-      "bestFor": "Waitematā Harbour\nнасыпная земля\nпорт и паромы\nжелезная дорога\nгородское переосмысление набережной\nмаорийские названия и смыслы",
-      "notFor": "тем, кому нужен быстрый чеклист без остановок",
+      "bestFor": "Для Waitematā Harbour, насыпной земли, портовой истории, паромов, железной дороги и нового смысла набережной.",
+      "notFor": "Не лучший выбор для тех, кому нужен быстрый чеклист без остановок или прогулка без ветра у воды.",
       "beforeYouGo": "Маршрут можно пройти бесплатно и снаружи; вход в Maritime Museum оплачивается для приезжих, а для жителей Auckland Region заявлен бесплатным при подтверждении адреса. Waitematā Station и музей имеют свои часы, Te Wero Wynyard Crossing после ремонта открыт, но мост может подниматься для судов и менять режим при работах. На открытой кромке Waitematā бывает ветрено и мокро даже в теплый день.",
       "timing": "Лучше идти в первой половине дня или ближе к вечеру."
     },
@@ -1074,7 +1075,7 @@
         "walk": "5 мин",
         "content": {
           "context": "Начните у Te Komititanga, где город буквально собирает несколько своих слоев в одном месте. Auckland Transport пишет, что имя Waitematā для бывшей Britomart Station подарено mana whenua и связано с близостью гавани: одно толкование выводит название из сходства спокойной воды с matā, обсидианом. Над станцией стоит Chief Post Office 1912 года: во время работ City Rail Link его переносили на временные опоры, пока тоннели строили под зданием. Поэтому эта точка не просто транспортный узел. Это место, где маорийское имя, эдвардианский фасад, железная дорога и бывшая береговая линия сходятся прямо под ногами.",
-          "lookFor": "Фасад Chief Post Office и вход в станцию\nОткрытую площадь Te Komititanga как связку Queen Street и воды\nОсь к гавани и Commercial Bay",
+          "lookFor": "Фасад Chief Post Office и вход в станцию; Открытую площадь Te Komititanga как связку Queen Street и воды; Ось к гавани и Commercial Bay",
           "practical": "Площадь открыта как городское пространство; станция работает по расписанию Auckland Transport. Основной вход в Waitematā Station проходит через исторический CPO с Te Komititanga.",
           "nextMove": "Идите к Ferry Building через нижнюю Queen Street: путь короткий, но он сразу показывает, насколько тесно здесь связаны железная дорога, паромы и берег.",
           "deepDive": [
@@ -1083,7 +1084,7 @@
               "body": "Waitematā здесь важна не как красивое слово, а как пересборка городского порога. Станция все еще помнит Britomart и CPO, но новое имя возвращает в фокус гавань и mana whenua. Поэтому маршрут начинается не у воды, а у места, где вода уже стала инфраструктурой."
             }
           ],
-          "sourceNote": "Проверено по Auckland Transport Waitematā Station and OurAuckland downtown public space/CPO coverage: AT records the Waitematā name transition, station hours, CPO entrance, CPO-centered design, 1912 Category One CPO and CRL engineering lift; OurAuckland records Te Komititanga as the Lower Queen Street square connecting waterfront, Commercial Bay, Britomart and transport links."
+          "sourceNote": "Проверено по Auckland Transport Waitematā Station и OurAuckland: часы станции, вход через CPO и роль Te Komititanga как связи waterfront, Commercial Bay, Britomart и транспорта."
         },
         "coordinates": {
           "latitude": -36.844,
@@ -1092,8 +1093,9 @@
         "hours": {
           "rules": [],
           "summary": "Waitematā Station: пн-чт 05:00-23:00, пт 05:00-01:15, сб 05:45-01:15, вс 05:45-23:00; площадь открыта как public space.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-1",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-1",
           "kind": "photo",
@@ -1124,7 +1126,7 @@
         "walk": "5 мин",
         "content": {
           "context": "Ferry Building выглядит празднично, но Heritage New Zealand описывает его как очень практичную часть портовой перестройки 1909-1912 годов. Имперский барочный фасад, центральная башня, бывший time ball, потом clock and siren, работали на порядок гавани: отсюда регулировалась и представлялась паромная жизнь города. Здание сначала держало штаб-квартиры Devonport Steam Ferry Company и Takapuna Tramways Ferry Company, а Harbour Historic Area вокруг него вырос из планов Auckland Harbour Board по причалам, железнодорожной связи и reclamation. У этой остановки Waitematā перестает быть горизонтом и становится городской улицей.",
-          "lookFor": "Центральную башню Ferry Building\nСтык старого фасада и современных паромных пирсов\nРельеф Quay Street как насыпную портовую кромку",
+          "lookFor": "Центральную башню Ferry Building; Стык старого фасада и современных паромных пирсов; Рельеф Quay Street как насыпную портовую кромку",
           "practical": "Фасад и терминальная зона доступны снаружи. Паромы, билеты и причалы проверяйте по Auckland Transport: расписания и платформы меняются чаще, чем само здание.",
           "nextMove": "Дальше идите вдоль Quay Street в сторону музея: путь держится у самой кромки воды и постепенно переводит взгляд от терминала к морской памяти города.",
           "deepDive": [
@@ -1133,7 +1135,7 @@
               "body": "Сила Ferry Building в том, что монументальность здесь не отделена от рутины. Башня, часы, сирена, компании-перевозчики и очереди к воде говорили об одном: гавань была не декорацией, а системой ежедневных связей до того, как мост и автомобильная логика изменили баланс."
             }
           ],
-          "sourceNote": "Проверено по Heritage New Zealand Ferry Building and Harbour Historic Area: Ferry Building erected 1909-1912 during dock reorganisation, designed in Imperial Baroque, first housed key ferry operators, later affected by Auckland Harbour Bridge; Harbour Historic Area records reclamation, Hamer Plan wharves, Queen St Wharf, Ferry Building opening and Quay Street rail/port role."
+          "sourceNote": "Проверено по Heritage New Zealand Ferry Building и Harbour Historic Area: здание 1909-1912 годов связано с перестройкой доков, паромами, Quay Street и Hamer Plan wharves."
         },
         "coordinates": {
           "latitude": -36.843,
@@ -1142,8 +1144,9 @@
         "hours": {
           "rules": [],
           "summary": "Наружный осмотр открыт как часть waterfront; паромные сервисы и терминальные зоны зависят от текущего расписания Auckland Transport.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-2",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-2",
           "kind": "photo",
@@ -1183,7 +1186,7 @@
               "body": "Музей нужен маршруту не как “внутренний бонус”, а как смена масштаба. У Ferry Building вода была транспортом, у музея она становится биографией страны: миграции, торговля, инженерия, досуг и соревнования складываются в одну длинную морскую культуру."
             }
           ],
-          "sourceNote": "Проверено по New Zealand Maritime Museum Visit and About pages: museum open daily except Christmas Day 10:00-17:00 with final admission 16:00; Auckland Region residents free with valid proof, visitors pay listed ticket categories; accessibility guidance notes most facilities/exhibits accessible; About page records Hui Te Ananui a Tangaroa name meaning, maritime story scope, Hobson Wharf opening in August 1993 and Waitematā/Viaduct location."
+          "sourceNote": "Проверено по New Zealand Maritime Museum Visit/About: часы 10:00-17:00, последний вход 16:00, закрытие на Christmas Day, условие бесплатного входа для жителей и контекст имени Hui Te Ananui a Tangaroa."
         },
         "coordinates": {
           "latitude": -36.8422,
@@ -1192,8 +1195,9 @@
         "hours": {
           "rules": [],
           "summary": "Ежедневно 10:00-17:00, последний вход 16:00; закрыто Christmas Day.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-3",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-3",
           "kind": "photo",
@@ -1225,8 +1229,8 @@
         "walk": "5 мин",
         "content": {
           "context": "Viaduct Harbour легко читать как красивую марину, но эта гладкость держится на очень рабочей истории waterfront. Heritage New Zealand связывает район Quay Street, wharves, reclamation and rail с крупной перестройкой Auckland Harbour Board и Hamer Plan начала XX века. Дальше к западу Auckland Council описывает Wynyard Quarter как территорию, которая постепенно выходит из недавней industrial identity и становится публичным кварталом. Поэтому здесь стоит смотреть не только на яхты и террасы, а на саму смену роли воды: гавань была портовой машиной, затем городской витриной, а теперь — общественной сценой.",
-          "lookFor": "Линию воды как главный организатор пространства\nПереход от причалов и марины к Wynyard Quarter\nСлои reclamation, rail и public waterfront",
-          "practical": "Открытая waterfront-прогулка доступна без билета. Кафе, рестораны, пристани и события работают по отдельным графикам; не планируйте обязательный indoor stop без проверки.",
+          "lookFor": "Линию воды как главный организатор пространства; Переход от причалов и марины к Wynyard Quarter; Слои reclamation, rail и public waterfront",
+          "practical": "Открытая waterfront-прогулка доступна без билета. Кафе, рестораны, пристани и события работают по отдельным графикам; не планируйте обязательную остановку внутри без проверки.",
           "nextMove": "К мосту Wynyard Crossing идите медленно: впереди точка, где сам маршрут буквально должен считаться с движением воды.",
           "deepDive": [
             {
@@ -1234,7 +1238,7 @@
               "body": "Эта остановка не спорит с приятной картинкой Viaduct Harbour. Она добавляет к ней невидимую механику: причалы, железнодорожные связи, reclamation и позднейшую регенерацию. Вода здесь стала более прогулочной, но ее портовая организация все еще читается в форме края."
             }
           ],
-          "sourceNote": "Проверено по Heritage New Zealand Harbour Historic Area, Auckland Council/AUDO Wynyard Quarter and New Zealand Maritime Museum About pages: Harbour Historic Area records reclamation, Hamer Plan wharves and Quay Street rail; Wynyard Quarter page records the transformation from industrial port identity to public waterfront; Maritime Museum situates the museum in Viaduct Basin on Waitematā Harbour."
+          "sourceNote": "Проверено по Heritage NZ, AUDO Wynyard Quarter и Maritime Museum: насыпная кромка гавани, переход от промышленного берега к общественной набережной и контекст Viaduct Basin."
         },
         "coordinates": {
           "latitude": -36.8435,
@@ -1243,8 +1247,9 @@
         "hours": {
           "rules": [],
           "summary": "Открытая набережная; режим заведений, причалов и событий меняется отдельно.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-4",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-4",
           "kind": "photo",
@@ -1276,7 +1281,7 @@
         "walk": "5 мин",
         "content": {
           "context": "На Te Wero Wynyard Crossing город на секунду признает, что вода не стала просто видом. Auckland Council описывает мост как временное решение к Rugby World Cup 2011, которое позже потребовало большого ремонта; после structural, mechanical and electrical works он снова открылся для публики в декабре 2024 года. OurAuckland при reopening предупреждал о начальном режиме 07:30-23:30 и мониторинге работы, а городские waterfront-материалы напоминают, что это double-bascule bridge для пешеходов и велосипедистов. Поэтому остановка хороша именно своей условностью: пройти можно, но мост всё равно остается частью живой гавани.",
-          "lookFor": "Подъемную механику моста\nШов между Viaduct Harbour и Wynyard Quarter\nСитуации, когда движение пешеходов уступает судам",
+          "lookFor": "Подъемную механику моста; Шов между Viaduct Harbour и Wynyard Quarter; Ситуации, когда движение пешеходов уступает судам",
           "practical": "Мост открыт после ремонта, но может подниматься для судов или получать временные ограничения. Если проход закрыт, следуйте текущим указателям waterfront; не рассчитывайте на мост как на неизменную круглосуточную точку.",
           "nextMove": "Перейдите в Wynyard Quarter и продолжайте к Silo Park: там город уже не прячет индустриальное прошлое, а показывает его почти впрямую.",
           "deepDive": [
@@ -1285,7 +1290,7 @@
               "body": "Мост нужен маршруту не только как переход. Он физически показывает компромисс новой набережной: город хочет непрерывную прогулочную линию, но гавань сохраняет право прерывать ее ради судов, ремонта и безопасности."
             }
           ],
-          "sourceNote": "Проверено по Auckland Council/AUDO Wynyard Crossing Bridge maintenance and OurAuckland reopening pages: bridge repaired/reopened December 2024 after structural/mechanical/electrical works; temporary 2011 Rugby World Cup origin recorded; OurAuckland reported initial 07:30-23:30 operation and monitoring before around-the-clock service; waterfront guide material describes Te Wero as a double-bascule pedestrian/cycle bridge."
+          "sourceNote": "Проверено по AUDO и OurAuckland: Wynyard Crossing открылся после ремонта 2023-2024 годов, начался как временный мост к Rugby World Cup 2011 и все еще может зависеть от разводок/maintenance."
         },
         "coordinates": {
           "latitude": -36.8413,
@@ -1294,8 +1299,9 @@
         "hours": {
           "rules": [],
           "summary": "Открыт после ремонта; возможны подъемы для судов, временные ограничения и maintenance notices.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-5",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-5",
           "kind": "photo",
@@ -1327,7 +1333,7 @@
         "walk": "-",
         "content": {
           "context": "Финал лучше читать не как парк “после порта”, а как парк, который оставил портовую фактуру на виду. Auckland Council пишет, что бетонные silos 1961 года использовались как holding bay для цемента, пришедшего с судов; позже Silo Park стал частью first stage Wynyard Quarter regeneration, завершенной в 2011 году. Сам Wynyard Quarter описан как 37 гектаров земли почти с 3 км береговой линии, где бывшая industrial port identity постепенно меняется на место для жизни, работы, отдыха и public space. После скрытой воды у Te Komititanga вы приходите туда, где индустриальная память почти невозможно не заметить.",
-          "lookFor": "Бетонные силосы и их масштаб\nШирокую линию воды и северный воздух Wynyard Quarter\nКак industrial shell стала общественным пространством",
+          "lookFor": "Бетонные силосы и их масштаб; Широкую линию воды и северный воздух Wynyard Quarter; Как industrial shell стала общественным пространством",
           "practical": "Открытое общественное пространство; события, площадки и соседние заведения работают по отдельным графикам. Ветер здесь чувствуется сильнее, чем в глубине центра.",
           "nextMove": "Здесь маршрут можно закончить, посидеть у воды или идти дальше по Wynyard Quarter — уже не за фактами, а за собственным ритмом набережной.",
           "deepDive": [
@@ -1336,7 +1342,7 @@
               "body": "Silo Park хорош тем, что не сглаживает waterfront до чистого leisure. Силосы, открытая вода и новая городская мебель стоят в одном кадре, поэтому финал маршрута показывает не победу отдыха над индустрией, а более интересное сосуществование."
             }
           ],
-          "sourceNote": "Проверено по Auckland Council/AUDO Silo Park memory lane and Wynyard Quarter pages: silos erected in 1961 and originally held cement unloaded from ships; first stage of Silo Park completed in 2011 as part of Wynyard Quarter regeneration; Wynyard Quarter covers about 37ha and almost 3km of coastal frontage, evolving from industrial port identity to public waterfront while retaining marine/fishing industries."
+          "sourceNote": "Проверено по AUDO Silo Park/Wynyard Quarter: силосы построены в 1961 году для цемента, первая общественная стадия парка завершена в 2011-м, а площадка остается зависимой от событий."
         },
         "coordinates": {
           "latitude": -36.8412,
@@ -1345,8 +1351,9 @@
         "hours": {
           "rules": [],
           "summary": "Открытое public space; режим событий, площадок и соседних заведений меняется отдельно.",
-          "checkedAt": "2026-06-26"
+          "checkedAt": "2026-06-28"
         },
+        "photoAssetId": "auckland-waterfront-britomart-harbour-layers-stop-6",
         "photo": {
           "id": "auckland-waterfront-britomart-harbour-layers-stop-6",
           "kind": "photo",
