@@ -25,7 +25,7 @@
       "packPath": "cities/amsterdam/offline-pack.json"
     },
     "bologna": {
-      "packHash": "5a319205e3d7",
+      "packHash": "f8268f808dae",
       "packPath": "cities/bologna/offline-pack.json"
     },
     "bordeaux": {
@@ -85,7 +85,7 @@
       "packPath": "cities/boston/offline-pack.json"
     },
     "bogota": {
-      "packHash": "89534e4b9407",
+      "packHash": "7536d842e34e",
       "packPath": "cities/bogota/offline-pack.json"
     },
     "fes": {
@@ -113,7 +113,7 @@
       "packPath": "cities/barcelona/offline-pack.json"
     },
     "berlin": {
-      "packHash": "87e7269dbec6",
+      "packHash": "30ed469dfa26",
       "packPath": "cities/berlin/offline-pack.json"
     },
     "brussels": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T05:10:49.264Z",
+  "generatedAt": "2026-06-28T05:20:51.130Z",
   "locale": "ru",
   "schemaVersion": 1
 }

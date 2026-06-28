@@ -1320,7 +1320,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «Бранденбургские ворота и новый центр: власть, память, пустоты»"
+    "alt": "Сгенерированная обложка маршрута «Бранденбургские ворота и новый центр: власть, память, пустоты»"
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-basemap.png",
@@ -1336,8 +1336,8 @@
   "content": {
     "intro": "Эта прогулка не пересказывает Берлин по эпохам. Она ведет по короткой оси, на которой видно, как город одновременно показывает власть, стыдится власти, мемориализирует катастрофу и снова строит витрину современности. Вы начинаете у Рейхстага, где демократия выставлена наружу через газон, прозрачную купольную надстройку и эффект публичности. Затем проходите к Бранденбургским воротам, которые слишком долго были не входом в город, а знаком закрытого прохода. После этого ось резко меняет тональность: поле стел лишает привычной ориентации, Потсдамер Плац показывает, как пустота может быть застроена почти с агрессивной скоростью, а Niederkirchnerstraße связывает два режима контроля подряд — сначала нацистский аппарат террора, потом берлинскую стену.",
     "routeLogic": "Эта прогулка не пересказывает Берлин по эпохам. Она ведет по короткой оси, на которой видно, как город одновременно показывает власть, стыдится власти, мемориализирует катастрофу и снова строит витрину современности. Вы начинаете у Рейхстага, где демократия выставлена наружу через газон, прозрачную купольную надстройку и эффект публичности. Затем проходите к Бранденбургским воротам, которые слишком долго были не входом в город, а знаком закрытого прохода. После этого ось резко меняет тональность: поле стел лишает привычной ориентации, Потсдамер Плац показывает, как пустота может быть застроена почти с агрессивной скоростью, а Niederkirchnerstraße связывает два режима контроля подряд — сначала нацистский аппарат террора, потом берлинскую стену. Финал у Checkpoint Charlie возвращает тему границы в ее самом буквальном виде: не как красивую метафору, а как машину допуска, досмотра и исключения. Это хороший маршрут, если вам нужен не список достопримечательностей, а нерв города. Он не слишком длинный физически, но эмоционально становится тяжелее после третьей остановки.",
-    "bestFor": "власть\nпамять\nграница\nпустота\nпослевоенное переизобретение города",
-    "notFor": "тем, кому нужен быстрый чеклист без остановок",
+    "bestFor": "тем, кто хочет читать новый центр Берлина через власть, память, границу и послевоенное переизобретение города",
+    "notFor": "тем, кому нужен быстрый чеклист без остановок; тем, кто не хочет задерживаться у мемориальных мест; тем, кто ищет лёгкую прогулку без тяжёлых исторических тем",
     "beforeYouGo": "Маршрут почти целиком проходит по ровным городским тротуарам. Поле стел можно проходить мягко и неспешно; оно доступно, но внутри есть уклоны и эффект дезориентации. В мемориальных местах лучше держать низкий голос и не превращать остановки в фототочку любой ценой. В районе правительственного квартала возможны временные ограничения прохода из-за мероприятий и мер безопасности.",
     "timing": "Лучше идти в первой половине дня или ближе к вечеру."
   },
@@ -1351,7 +1351,7 @@
       "walk": "5 мин",
       "hours": {
         "summary": "Площадь доступна снаружи; купол и терраса Рейхстага требуют предварительной регистрации и зависят от текущих закрытий/допуска Бундестага.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1365,7 +1365,7 @@
             "body": "Стеклянный купол важен не только как смотровая площадка. Он меняет старое здание власти через идею наблюдаемости: граждане поднимаются над залом заседаний, а парламентская архитектура вынуждена объяснять себя наружу. Поэтому даже внешний осмотр с площади работает как политический жест."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по German Bundestag: публичный доступ к куполу/террасе требует регистрации и зависит от текущих требований; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по German Bundestag: публичный доступ к куполу/террасе требует регистрации и зависит от текущих требований; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "bundestag-reichstag-dome-registration",
@@ -1380,7 +1380,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-1-square.jpg",
-        "alt": "Рейхстаг и площадь Республики",
+        "alt": "Здание Рейхстага и площадь Республики в правительственном квартале Берлина",
         "attribution": {
           "author": "Leonhard Lenz",
           "license": "CC0; cropped/resized for app",
@@ -1390,7 +1390,8 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-1",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 1
+      "order": 1,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-1"
     },
     {
       "entry": "снаружи",
@@ -1401,7 +1402,7 @@
       "walk": "5 мин",
       "hours": {
         "summary": "Открытое городское пространство; у Tourist Info в южном крыле свой режим, проверяйте visitBerlin при необходимости.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1415,7 +1416,7 @@
             "body": "Ворота построены как движение сквозь городскую границу, но во время разделения Берлина эта логика была перевёрнута: проход существовал как образ, а не как возможность. После открытия 22 декабря 1989 года символика изменилась не потому, что камень стал другим, а потому что вернулась сама функция прохода."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по visitBerlin и Berlin.de: строительство 1788–1791, Quadriga 1793, недоступность в зоне стены и открытие 22.12.1989; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по visitBerlin и Berlin.de: строительство 1788–1791, Quadriga 1793, недоступность в зоне стены и открытие 22.12.1989; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "visitberlin-brandenburg-gate",
@@ -1431,7 +1432,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-2-square.jpg",
-        "alt": "Бранденбургские ворота",
+        "alt": "Бранденбургские ворота ночью со стороны Паризер-Плац",
         "attribution": {
           "author": "Thomas Wolf, www.foto-tw.de",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1441,7 +1442,8 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-2",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 2
+      "order": 2,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-2"
     },
     {
       "entry": "снаружи",
@@ -1452,7 +1454,7 @@
       "walk": "5 мин",
       "hours": {
         "summary": "Поле стел доступно круглосуточно; Информационный центр под полем имеет отдельный режим и возможные временные закрытия, проверяйте сайт Stiftung перед визитом.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1466,7 +1468,7 @@
             "body": "Мемориал не ставит перед вами один фронтальный образ. Он заставляет идти внутрь сетки, где высота стел и перепад земли меняют ориентацию. В этом его отличие от ворот и парламентского фасада: память здесь не собирает перспективу, а сознательно её нарушает."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по Stiftung Denkmal и Berlin.de: центральный мемориал, открытие 10.05.2005, поле стел, бесплатный доступ и текущие caveats по Информационному центру; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по Stiftung Denkmal и Berlin.de: центральный мемориал, открытие 10.05.2005, поле стел, бесплатный доступ и текущие caveats по Информационному центру; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "stiftung-denkmal-holocaust-memorial",
@@ -1482,7 +1484,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-3-square.jpg",
-        "alt": "Мемориал убитым евреям Европы",
+        "alt": "Поле бетонных стел Мемориала убитым евреям Европы",
         "attribution": {
           "author": "Photograph by Mike Peel (www.mikepeel.net).",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1492,7 +1494,8 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-3",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 3
+      "order": 3,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-3"
     },
     {
       "entry": "снаружи",
@@ -1503,7 +1506,7 @@
       "walk": "5 мин",
       "hours": {
         "summary": "Открытое городское пространство; магазины, рестораны, кинотеатры и отдельные площадки работают по своим расписаниям.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1517,7 +1520,7 @@
             "body": "Потсдамер Плац полезно читать не как «новый квартал после стены», а как место, где пустота была застроена почти демонстративно быстро. След стены в покрытии не даёт забыть, что коммерческий центр вырос не на нейтральной площадке, а на бывшем разрыве городской ткани."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по visitBerlin и Berlin.de: бывшая пустошь у стены, новый квартал после 1989 года и металлическая маркировка линии стены; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по visitBerlin и Berlin.de: бывшая пустошь у стены, новый квартал после 1989 года и металлическая маркировка линии стены; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "visitberlin-potsdamer-platz",
@@ -1533,7 +1536,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-4-square.jpg",
-        "alt": "Потсдамер Плац",
+        "alt": "Современные здания Потсдамер Плац и городская площадь",
         "attribution": {
           "author": "Ansgar Koreng",
           "license": "CC BY-SA 3.0 de; cropped/resized for app; ShareAlike applies",
@@ -1543,7 +1546,8 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-4",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 4
+      "order": 4,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-4"
     },
     {
       "entry": "снаружи",
@@ -1554,7 +1558,7 @@
       "walk": "5 мин",
       "hours": {
         "summary": "Выставки Topographie des Terrors открыты ежедневно 10:00–20:00; наружные зоны — до наступления темноты, но не позже 20:00; вход свободный.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1568,7 +1572,7 @@
             "body": "Сила Niederkirchnerstraße в том, что здесь нельзя выбрать только одну эпоху. На одном краю города совпадают место управления нацистским террором, выставочный ров с документами и фрагмент Берлинской стены. Поэтому остановка работает не как музейный адрес, а как наложение разных систем контроля на одну городскую линию."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по Topographie des Terrors: исторический участок Gestapo/SS/RSHA, постоянная выставка, выставочный ров, часы 10:00–20:00 и свободный вход; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по Topographie des Terrors: исторический участок Gestapo/SS/RSHA, постоянная выставка, выставочный ров, часы 10:00–20:00 и свободный вход; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "topographie-historic-site",
@@ -1585,7 +1589,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-5-square.jpg",
-        "alt": "Niederkirchnerstraße, остаток стены и Topographie des Terrors",
+        "alt": "Остаток Берлинской стены у Topographie des Terrors на Niederkirchnerstraße",
         "attribution": {
           "author": "Ank Kumar",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1595,7 +1599,8 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-5",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 5
+      "order": 5,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-5"
     },
     {
       "entry": "снаружи",
@@ -1606,7 +1611,7 @@
       "walk": "-",
       "hours": {
         "summary": "Наружная точка на Friedrichstraße доступна как городское пространство; музейные и панорамные площадки вокруг имеют отдельные билеты и расписания.",
-        "checkedAt": "2026-06-26",
+        "checkedAt": "2026-06-28",
         "rules": []
       },
       "content": {
@@ -1620,7 +1625,7 @@
             "body": "Berlin.de прямо напоминает: нынешние turnpikes, watchtowers и будка заменены репликами. Но это не делает остановку пустой. Исторический смысл держится в самой процедуре допуска: кто имел право пройти, кто проверял документы и как быстро городской перекрёсток мог стать точкой глобального кризиса."
           }
         ],
-        "sourceNote": "Сверено 2026-06-26 по Berlin.de и visitBerlin: самый известный переход между Восточным и Западным Берлином, танковое противостояние октября 1961 года, реплика нынешней будки и свободный внешний доступ; фото — Wikimedia Commons."
+        "sourceNote": "Сверено 2026-06-28 по Berlin.de и visitBerlin: самый известный переход между Восточным и Западным Берлином, танковое противостояние октября 1961 года, реплика нынешней будки и свободный внешний доступ; фото — Wikimedia Commons."
       },
       "sourceIds": [
         "berlin-de-checkpoint-charlie",
@@ -1636,7 +1641,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/berlin/berlin-brandenburg-gate-memory-axis-stop-6-square.jpg",
-        "alt": "Checkpoint Charlie",
+        "alt": "Будка и уличный переход Checkpoint Charlie в Берлине",
         "attribution": {
           "author": "Gzen92",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1646,7 +1651,9 @@
       },
       "id": "berlin-brandenburg-gate-memory-axis-6",
       "guideId": "berlin-brandenburg-gate-memory-axis",
-      "order": 6
+      "order": 6,
+      "photoAssetId": "berlin-brandenburg-gate-memory-axis-stop-6"
     }
-  ]
+  ],
+  "coverAssetId": "berlin-brandenburg-gate-memory-axis-cover"
 }
