@@ -1336,7 +1336,7 @@
             "body": "Чамские мусульмане, которые живут здесь, прибыли в Бангкок после падения Аюттхаи. За участие в обороне города король Рама I дал им землю по обоим берегам канала. Позже семьи построили ткацкие мастерские и снабжали шёлком Джима Томпсона. До сих пор в квартале работают три мечети, а праздники проходят по исламскому календарю."
           }
         ],
-        "sourceNote": "Источники: Tourism Authority of Thailand о Ban Khrua Nuea, официальный Jim Thompson House Thai House page и обзор CPA Media о связи Бан Круа с шелком Джима Томпсона; проверено 26.06.2026."
+        "sourceNote": "Источники: Tourism Authority of Thailand о Ban Khrua Nuea, официальный Jim Thompson House Thai House page и обзор CPA Media о связи Бан Круа с шелком Джима Томпсона; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "บ้านครัว",
@@ -1347,19 +1347,20 @@
       "hours": {
         "rules": [],
         "summary": "Жилой квартал без билетного режима; приходите днём, идите тихо и уважайте частную жизнь жителей.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-ban-khrua-nuea",
         "src-jim-thompson-thai-house",
         "src-cpa-ban-krua-silk"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-1",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-1",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-1-square.jpg",
-        "alt": "Бан Круа: Ban Khrua Nuea moslem quarters",
+        "alt": "Квартал Бан Круа",
         "attribution": {
           "author": "Bjoertvedt",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1387,7 +1388,7 @@
             "body": "Современный лодочный сервис по каналу Saen Saep запустили в 1990 году: по данным Transit Bangkok, его обслуживают длинные узкие лодки компании Family Transport. Для туриста это не романтический круиз, а рабочий городской транспорт: посадка быстрая, проходы тесные, а тент и бортовые щиты защищают от брызг только частично."
           }
         ],
-        "sourceNote": "Источник: Transit Bangkok по Saen Saep Boat Service: история сервиса, пересадки, часы и тарифы; проверено 26.06.2026."
+        "sourceNote": "Источник: Transit Bangkok по Saen Saep Boat Service: история сервиса, пересадки, часы и тарифы; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "คลองแสนแสบ",
@@ -1398,17 +1399,18 @@
       "hours": {
         "rules": [],
         "summary": "Берег канала открыт как городское пространство; лодки обычно ходят пн–пт 06:00–20:00, сб 06:00–19:00, вс 07:00–18:00.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-transitbangkok-saen-saep"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-2",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-2",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-2-square.jpg",
-        "alt": "Клонг Саен Саеп: Khlong Saen Saep near Pratunam pier",
+        "alt": "Канал Клонг Саен Саеп у пирса Пратунам",
         "attribution": {
           "author": "Mark Fischer",
           "license": "CC BY-SA 2.0; cropped/resized for app; ShareAlike applies",
@@ -1436,7 +1438,7 @@
             "body": "В воскресенье 26 марта 1967 года Джим Томпсон отправился на прогулку в лес близ малайзийского высокогорного курорта Кэмерон‑Хайлендс и не вернулся. Его исчезновение породило множество версий – от несчастного случая до шпионского похищения. В доме у канала это ощущается особенно сильно: музей сохраняет не только коллекцию, но и сцену жизни, резко оборвавшейся за пределами Таиланда."
           }
         ],
-        "sourceNote": "Источники: официальные страницы Jim Thompson House для посетителей и о тайском доме; историческая связка с Бан Круа сверена по CPA Media; проверено 26.06.2026."
+        "sourceNote": "Источники: официальные страницы Jim Thompson House для посетителей и о тайском доме; историческая связка с Бан Круа сверена по CPA Media; проверено 2026-06-28."
       },
       "entry": "по билету",
       "nameLocal": "บ้าน จิม ทอมป์สัน",
@@ -1447,18 +1449,19 @@
       "hours": {
         "rules": [],
         "summary": "Открыт ежедневно 10:00–17:00; последняя экскурсия с гидом начинается в 17:00; главный дом только с гидом.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-jim-thompson-house",
         "src-jim-thompson-thai-house"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-3",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-3",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-3-square.jpg",
-        "alt": "Дом Джима Томпсона: Jim Thompson House courtyard",
+        "alt": "Двор Дома Джима Томпсона",
         "attribution": {
           "author": "BrokenSphere",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1486,7 +1489,7 @@
             "body": "Городские власти планировали построить на этом участке ещё один торговый центр, но инициативная группа художников и граждан отстояла идею публичного культурного пространства. Строительство шло медленно, бюджет пересматривали, и только в 2008 году BACC распахнул двери. Здание напоминает цилиндр с прорезями; внутри нет ступеней, поэтому оно удобно для людей с ограниченной мобильностью."
           }
         ],
-        "sourceNote": "Источники: официальный сайт BACC и раздел What's On: часы, бесплатный вход, BTS National Stadium и текущая выставочная программа; проверено 26.06.2026."
+        "sourceNote": "Источники: официальный сайт BACC и раздел What's On: часы, бесплатный вход, BTS National Stadium и текущая выставочная программа; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "ศูนย์ศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
@@ -1497,18 +1500,19 @@
       "hours": {
         "rules": [],
         "summary": "Открыт вт–вс 10:00–20:00; закрыт по понедельникам; вход свободный.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-bacc-official-home",
         "src-bacc-whats-on"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-4",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-4",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-4-square.jpg",
-        "alt": "Bangkok Art and Culture Centre: Bangkok Art and Culture Centre",
+        "alt": "Бангкокский центр искусства и культуры",
         "attribution": {
           "author": "Christophe95",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1536,7 +1540,7 @@
             "body": "MBK работает как город в городе: под одной крышей сходятся станции, переходы, фудкорты, сервисы, кинотеатры и маленькие торговые точки. В маршруте он нужен не как шопинг‑пауза, а как переходная камера между старым каналом, университетским Сиам‑сквэр и новой системой скайуоков над перекрёстком Патумван."
           }
         ],
-        "sourceNote": "Источники: официальный сайт и contact page MBK Center: часы 10:00–22:00, адрес, BTS National Stadium, Hua Chang pier и пешеходные связи; проверено 26.06.2026."
+        "sourceNote": "Источники: официальный сайт и contact page MBK Center: часы 10:00–22:00, адрес, BTS National Stadium, Hua Chang pier и пешеходные связи; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "ศูนย์การค้าเอ็มบีเค",
@@ -1547,18 +1551,19 @@
       "hours": {
         "rules": [],
         "summary": "Официально открыт ежедневно 10:00–22:00; отдельные арендаторы и сервисы могут работать иначе.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-mbk-official-home",
         "src-mbk-contact"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-5",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-5",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-5-square.jpg",
-        "alt": "MBK Center: MBK Center (Mahboonkrong)",
+        "alt": "Торговый центр MBK",
         "attribution": {
           "author": "Terence Ong",
           "license": "CC BY 2.5; cropped/resized for app",
@@ -1586,7 +1591,7 @@
             "body": "Официальная формула Chula/PMCU звучит прагматично: каждый квадратный метр должен служить не только коммерции. Поэтому в Сиам‑сквэр появляются временные рынки, культурные акции и инклюзивные уличные форматы. Для маршрута это важный поворот: после частного дома‑музея и торгового центра вы попадаете в пространство, где университет пробует управлять центральной улицей как общественной сценой."
           }
         ],
-        "sourceNote": "Источник: Chulalongkorn University / PMCU о запуске Siam Square Walking Street for All и стратегии публичных событий; проверено 26.06.2026."
+        "sourceNote": "Источник: Chulalongkorn University / PMCU о запуске Siam Square Walking Street for All и стратегии публичных событий; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "สยามสแควร์",
@@ -1597,17 +1602,18 @@
       "hours": {
         "rules": [],
         "summary": "Открытый городской квартал; часы магазинов, кинотеатров и событий различаются, отдельные улицы могут перекрывать для мероприятий.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-chula-siam-square-walking-street"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-6",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-6",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-6-square.jpg",
-        "alt": "Сиам-сквэр: Siam Square bird’s eye view",
+        "alt": "Сиам-сквер с высоты",
         "attribution": {
           "author": "Thanapas.som",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1635,7 +1641,7 @@
             "body": "Компания Siam Piwat реализовала этот проект, вдохновившись High Line в Нью‑Йорке. Дизайн напоминает листья лотоса – символ бывшего пруда Патумван. Создатели сделали упор на универсальный дизайн: ширина дорожек позволяет ходить вместе, а павильоны могут использоваться как площадка для концертов и выставок. Скайуок стал популярным местом для фотосъёмок и точкой обзора на переходный район."
           }
         ],
-        "sourceNote": "Источник: официальный пресс‑релиз Siam Piwat об ONESIAM skywalk: универсальный дизайн и связи BACC, National Stadium, MBK, Siam Square, Siam Discovery и BTS; проверено 26.06.2026."
+        "sourceNote": "Источник: официальный пресс‑релиз Siam Piwat об ONESIAM skywalk: универсальный дизайн и связи BACC, National Stadium, MBK, Siam Square, Siam Discovery и BTS; проверено 2026-06-28."
       },
       "entry": "свободно",
       "nameLocal": "สกายวอล์คปทุมวัน",
@@ -1646,17 +1652,18 @@
       "hours": {
         "rules": [],
         "summary": "Публичный пешеходный проход; точные часы не заявлены в официальном релизе, доступ может меняться из‑за обслуживания, событий и связей с моллами.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-siampiwat-onesiam-skywalk"
       ],
+      "photoAssetId": "bangkok-siam-ban-khrua-silk-modern-stop-7",
       "photo": {
         "id": "bangkok-siam-ban-khrua-silk-modern-stop-7",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-stop-7-square.jpg",
-        "alt": "Pathumwan skywalk: Pathumwan skywalk",
+        "alt": "Надземный переход Патумван",
         "attribution": {
           "author": "Chainwit.",
           "license": "CC BY 3.0; cropped/resized for app",
@@ -1671,7 +1678,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-cover-square.jpg",
-    "alt": "Коллаж: канал с лодками, ткацкие узоры, тиковый дом, современный музей и небоскрёбы под вечерним небом"
+    "alt": "Маршрутная обложка: Бан Круа, шёлк и современный Сиам"
   },
   "basemap": {
     "image": "https://rentery.github.io/images/v1/bangkok/bangkok-siam-ban-khrua-silk-modern-basemap.png",

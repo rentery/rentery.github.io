@@ -1717,7 +1717,7 @@
     "source": {
       "engine": "geoapify+manual-connector",
       "profile": "walk",
-      "generatedAt": "2026-06-26T19:56:46.354Z"
+      "generatedAt": "2026-06-28T19:56:46.354Z"
     }
   },
   "cityId": "bangkok",
@@ -1742,9 +1742,9 @@
   },
   "content": {
     "intro": "Эта прогулка ведёт через торговую кромку старого Бангкока: от Хуа Лампхонга и храма Золотого Будды к Китайским воротам, Яоварат-роуд, Ват Мангкон, Сампэнгу, дороге Сонг Ват и переулкам Талат Ноя. По пути вокзал, рабочие храмы, рынки, склады и семейный особняк показывают, как город рос вокруг миграции, торговли и речных связей.",
-    "routeLogic": "Маршрут идёт восточно-западной дугой от MRT/вокзала Хуа Лампхонг к воротам Чайна-тауна, затем сжимается в торговые переулки Сампэнга и спускается к Сонг Ват. Последний переход к So Heng Tai идёт по пешеходным переулкам Талат Ноя через Trok San Chao Rong Kueak / Soi Wanit 2, без старого router-обхода через западный берег реки.",
-    "bestFor": "тем, кто хочет читать Chinatown как город торговли, миграции и храмов\nтем, кому интересны рынки, shophouse-архитектура и старые речные кварталы\nтем, кто готов идти медленно по плотным улицам и переулкам",
-    "notFor": "тем, кому нужен тихий маршрут без толпы, мотоциклов и узких проходов",
+    "routeLogic": "Маршрут идёт восточно-западной дугой от MRT/вокзала Хуа Лампхонг к воротам Чайна-тауна, затем сжимается в торговые переулки Сампэнга и спускается к Сонг Ват. Последний переход к So Heng Tai идёт по пешеходным переулкам Талат Ноя через Trok San Chao Rong Kueak / Soi Wanit 2, без старого навигационного обхода через западный берег реки.",
+    "bestFor": "Для тех, кто хочет читать китайский квартал как город торговли, миграции и храмов; кому интересны рынки, архитектура торговых домов и старые речные кварталы; кто готов идти медленно по плотным улицам и переулкам.",
+    "notFor": "Не лучший выбор для тех, кому нужен тихий маршрут без толпы, мотоциклов и узких проходов.",
     "beforeYouGo": "Проверьте текущий режим Wat Traimit, Wat Mangkon и So Heng Tai в день визита. В храмах нужны закрытые плечи/колени, в Талат Ное уважайте частные и закрытые зоны, а на рынках держите маршрут гибким: проходы узкие и заняты тележками.",
     "timing": "Для храмов и Сампэнга лучше утро или ранний день; для уличной еды Яоварат оживает вечером, но часть храмов, музеев и частных домов к этому времени уже закрыта. Китайский Новый год и Vegetarian Festival резко меняют crowd flow."
   },
@@ -1761,7 +1761,7 @@
         "context": "Хуа Лампхонг уже не единственный главный вокзал столицы, но он не превратился в декорацию. В расписании SRT 2026 отсюда всё ещё видны обычные и пригородные рейсы, особенно восточного направления, а рядом работает MRT Hua Lamphong. Поэтому остановка хороша не как ностальгический музей, а как живой шов между железной дорогой, метро и старым торговым городом. Посмотрите на большой зал, фасад и поток людей: отсюда маршрут выходит не к парадным дворцам, а к кварталам, где Бангкок долго встречал товары, мигрантов и ежедневные поездки.",
         "lookFor": "Фасад и большой зал вокзала, указатели SRT и MRT, перронный край, где историческая архитектура встречается с обычным расписанием.",
         "practical": "Станция остаётся действующей транспортной точкой; не заходите в служебные зоны и проверяйте расписание SRT, если хотите связать прогулку с поездом.",
-        "sourceNote": "Хуа Лампхонг сверён по SRT timetable 2026 и TAT 2026-06-26: станция остаётся в расписании отдельных рейсов, поэтому app copy не называет её закрытым музеем.",
+        "sourceNote": "Хуа Лампхонг сверён по SRT timetable 2026 и TAT 2026-06-28: станция остаётся в расписании отдельных рейсов, поэтому пользовательский текст не называет её закрытым музеем.",
         "nextMove": "Выйдите из здания в направлении западного выхода, перейдите через дороги под эстакадой и сверните по улице Traimit к храму Золотого Будды.",
         "deepDive": [
           {
@@ -1772,12 +1772,13 @@
       },
       "nameLocal": "สถานีกรุงเทพ (หัวลำโพง)",
       "entry": "по месту",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-1",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-1",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-1-square.jpg",
-        "alt": "Hua Lamphong Railway Station",
+        "alt": "Вокзал Хуа Лампхонг",
         "attribution": {
           "author": "Cam Vilay",
           "license": "CC BY 3.0; cropped/resized for app",
@@ -1788,7 +1789,7 @@
       "hours": {
         "rules": [],
         "summary": "Действующая станция SRT/MRT; доступные зоны и рейсы сверяйте по текущему расписанию и указателям на месте.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-srt-hua-lamphong-timetable",
@@ -1811,7 +1812,7 @@
         "context": "Wat Traimit ставит золотого Будду не у входа, а на верхний уровень Phra Maha Mondop. По описанию TAT, статуя Phra Phuttha Maha Suwana Patimakon стоит на четвёртом этаже, а второй и третий этажи рассказывают о происхождении образа и истории Bangkok Chinatown. Поэтому это не просто быстрый храм перед воротами: внутри маршрут сначала поднимается через музейную рамку, а затем выводит к самому образу. В этом подъёме хорошо слышна тема всего Яоварата: ценность здесь часто спрятана за слоями торговли, переселения и городского шума.",
         "lookFor": "Phra Maha Mondop, музейные этажи о происхождении Золотого Будды и истории Chinatown, вид в сторону Odeon Circle после выхода.",
         "practical": "TAT указывает ежедневный режим 08:00–17:00; храм и экспозиции могут требовать отдельный билет или закрывать части здания по текущим правилам. Одевайтесь как для действующего храма.",
-        "sourceNote": "Wat Traimit сверён по TAT 2026-06-26: открыто ежедневно 08:00–17:00; Золотой Будда на четвёртом этаже, выставки о происхождении статуи и Chinatown на втором/третьем.",
+        "sourceNote": "Wat Traimit сверён по TAT 2026-06-28: открыто ежедневно 08:00–17:00; Золотой Будда на четвёртом этаже, выставки о происхождении статуи и Chinatown на втором/третьем.",
         "nextMove": "От храма идите вдоль улицы Traimit к круглой площади Одэон, где красные ворота отмечают вход в Чайна‑таун.",
         "deepDive": [
           {
@@ -1822,12 +1823,13 @@
       },
       "nameLocal": "วัดไตรมิตรวิทยารามวรวิหาร",
       "entry": "по билету",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-2",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-2",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-2-square.jpg",
-        "alt": "Wat Traimit Witthayaram in Bangkok",
+        "alt": "Ват Траймит Виттхаярам в Бангкоке",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1838,7 +1840,7 @@
       "hours": {
         "rules": [],
         "summary": "TAT: ежедневно 08:00–17:00; билет и доступ к музейным этажам проверяйте по кассе/указателям.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-wat-traimit",
@@ -1861,7 +1863,7 @@
         "context": "TAT предлагает начинать прогулку по Yaowarat от Hua Lamphong, Wat Traimit и nearby Chinatown Gate — и на месте понятно почему. Ворота не требуют длинной остановки: они работают как смена режима. Позади остаются вокзал и храмовый двор, впереди начинается район, где улица сразу становится плотнее, громче и торговее. Встаньте не посреди кругового движения, а с безопасного края: этот кадр нужен не для симметрии, а чтобы увидеть, как Chinatown объявляет себя прямо в транспортном узле.",
         "lookFor": "Красные ворота на Odeon Circle, поток машин между Yaowarat и Charoen Krung, переход от храмовой зоны к торговой улице.",
         "practical": "Это наружная остановка у кругового движения. Используйте пешеходные переходы и не задерживайтесь на проезжей части, особенно вечером и во время фестивалей.",
-        "sourceNote": "Chinatown Gate сверён по TAT Chinatown route framing 2026-06-26; неподтверждённые декоративные детали из старого текста убраны из app copy.",
+        "sourceNote": "Chinatown Gate сверён по TAT Chinatown route framing 2026-06-28; неподтверждённые декоративные детали из старого текста убраны из пользовательского текста.",
         "nextMove": "Сделав фото у ворот, поверните на улицу Yaowarat и следуйте по кривой ‘драконьей’ дороге вглубь Чайна‑тауна.",
         "deepDive": [
           {
@@ -1872,12 +1874,13 @@
       },
       "nameLocal": "ซุ้มประตูเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา / วงเวียนโอเดียน",
       "entry": "снаружи",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-3",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-3",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-3-square.jpg",
-        "alt": "Chinatown Gate in Bangkok",
+        "alt": "Ворота Чайнатауна в Бангкоке",
         "attribution": {
           "author": "Photogoddle",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1888,7 +1891,7 @@
       "hours": {
         "rules": [],
         "summary": "Наружный городской ориентир у Odeon Circle; доступ зависит от трафика, перекрытий и фестивальной толпы.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-chinatown-adventure"
@@ -1910,7 +1913,7 @@
         "context": "TAT описывает Chinatown как район, где днём посетителя легко утомляют толпа, машины и магазины, а после закрытия части дневного бизнеса улица становится ещё ярче: выходят продавцы еды, включаются вывески, и Yaowarat превращается в вечернюю сцену. Для этой прогулки важно поймать оба слоя. Днём видны золотые лавки, аптеки, торговые дома и логистика рынка; вечером та же улица звучит как гастрономический коридор. Не пытайтесь “закрыть” всю улицу списком точек. Лучше читайте её как нерв Chinatown, где торговля не исчезает, а меняет форму.",
         "lookFor": "Золотые магазины, аптеки традиционной медицины, плотные вывески, переход от дневной торговли к вечерним тележкам с едой.",
         "practical": "Это оживлённая public street: тротуары узкие, поток людей меняется к вечеру, а во время Chinese New Year и Vegetarian Festival возможны перекрытия и очень плотная толпа.",
-        "sourceNote": "Yaowarat сверён по TAT Chinatown article 2026-06-26: район описан как busy shopping district и street food destination, особенно оживающий после business hours.",
+        "sourceNote": "Yaowarat сверён по TAT Chinatown article 2026-06-28: район описан как busy shopping district и street food destination, особенно оживающий после business hours.",
         "nextMove": "На перекрёстке у старого баннера поверните в переулок Mangkon Alley, ведущий к самому крупному китайскому храму Бангкока — Ват Мангкон Камалават.",
         "deepDive": [
           {
@@ -1921,12 +1924,13 @@
       },
       "nameLocal": "ถนนเยาวราช",
       "entry": "снаружи",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-4",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-4",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-4-square.jpg",
-        "alt": "Yaowarat Road in Bangkok",
+        "alt": "Улица Яоварат в Бангкоке",
         "attribution": {
           "author": "Marcin Konsek",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1937,7 +1941,7 @@
       "hours": {
         "rules": [],
         "summary": "Публичная улица; магазины и еда работают по разным расписаниям, вечерний street-food rhythm начинается после дневного бизнеса.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-chinatown",
@@ -1960,7 +1964,7 @@
         "context": "Wat Mangkon Kamalawat стоит всего в нескольких шагах от торговой улицы, но внутри темп меняется: дым благовоний, красные фонари, алтарные залы и очередь посетителей заставляют идти медленнее. TAT называет его одним из китайских культурных ориентиров Chinatown, и это точное слово: храм не отделён от торговли, а встроен в неё. В дни больших китайских праздников он становится особенно плотным, но даже в обычный день видно, как Yaowarat держится не только на магазинах, а на ритуалах, календаре и семейной памяти.",
         "lookFor": "Красные фонари, драконьи детали, алтари и поток посетителей между торговыми рядами и храмовым двором.",
         "practical": "Это действующий храм: снимайте обувь там, где требуется, не мешайте молитве и сверяйте часы по текущим знакам. Вторичные текущие listings дают дневной режим около 08:00–16:00/17:00, но фестивали могут менять доступ.",
-        "sourceNote": "Wat Mangkon сверён по TAT Chinatown article и вторичному current-hours listing 2026-06-26; app copy не обещает точное закрытие без первичного официального расписания.",
+        "sourceNote": "Wat Mangkon сверён по TAT Chinatown article и вторичному current-hours listing 2026-06-28; пользовательский текст не обещает точное закрытие без первичного официального расписания.",
         "nextMove": "Пройдите обратно в переулок и следуйте по узкой полосе Сампэнг лейн, сердце старого рынка.",
         "deepDive": [
           {
@@ -1971,12 +1975,13 @@
       },
       "nameLocal": "วัดมังกรกมลาวาส",
       "entry": "по месту",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-5",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-5",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-5-square.jpg",
-        "alt": "Wat Mangkon Kamalawat in Bangkok",
+        "alt": "Храм Ват Мангкон Камалават",
         "attribution": {
           "author": "Christophe95",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1987,7 +1992,7 @@
       "hours": {
         "rules": [],
         "summary": "Дневной visitor access; вторичные текущие listings обычно дают около 08:00–16:00/17:00, но сверяйте знаки и фестивальные изменения на месте.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-chinatown-adventure",
@@ -2010,7 +2015,7 @@
         "context": "Сампэнг лучше не объяснять длинной датой: его нужно пройти. Узкая линия лавок, тканей, упаковки, украшений, фурнитуры и мелкого wholesale-товара показывает, почему Chinatown держится не только на главной улице. TAT в материале о Talat Noi называет район торговой зоной, которая тянется от большего Sampeng, и это хорошо видно на маршруте: после храмов улица снова превращается в инфраструктуру обмена. Здесь история города читается не табличками, а шириной прохода, скоростью продавцов и тем, как покупатели уступают место тележкам.",
         "lookFor": "Ткани, фурнитуру, бижутерию, упаковку, старые вывески и постоянные микропереговоры между пешеходами, продавцами и доставками.",
         "practical": "Магазины работают по разным расписаниям; практичнее идти утром или днём. Держите сумку ближе к себе, не останавливайтесь поперёк прохода и уступайте тележкам/мотоциклам.",
-        "sourceNote": "Sampeng сверён через TAT Talat Noi framing 2026-06-26: Талат Ной описан как commercial area extending from larger Sampeng; точные часы отдельных лавок не фиксируются.",
+        "sourceNote": "Sampeng сверён через TAT Talat Noi framing 2026-06-28: Талат Ной описан как commercial area extending from larger Sampeng; точные часы отдельных лавок не фиксируются.",
         "nextMove": "Пройдите по Сампэнг лейн до конца и поверните направо на дорогу Song Wat, которая тянется вдоль берега реки.",
         "deepDive": [
           {
@@ -2021,12 +2026,13 @@
       },
       "nameLocal": "สำเพ็ง / ซอยวานิช 1",
       "entry": "свободно",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-6",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-6",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-6-square.jpg",
-        "alt": "Sampeng Lane in Samphanthawong District, Bangkok",
+        "alt": "Переулок Сампенг в районе Сампхантхавонг",
         "attribution": {
           "author": "Globe-trotter",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -2037,7 +2043,7 @@
       "hours": {
         "rules": [],
         "summary": "Публичный рыночный проход; часы отдельных лавок различаются, практичнее утро/день, вечер и wholesale-ритм меняются по участкам.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-talat-noi",
@@ -2057,26 +2063,27 @@
       "time": "15 мин",
       "walk": "Продолжайте к следующей точке маршрута после остановки «Дорога Сонг Ват».",
       "content": {
-        "context": "Song Wat выводит рынок к реке. Time Out описывает его как историческую улицу, которая выросла вокруг бывшего коммерческого узла и распределительного центра импортных товаров у Chao Phraya; TAT отдельно связывает Talat Noi и Song Wat с современными прогулками, кафе и art/photo spots. Поэтому здесь хорошо видна смена экономики: старые shophouses и склады всё ещё говорят о грузах, специях и оптовой торговле, но между ними появляются кофейни, галереи и новые вывески. Это не “модный район вместо старого”, а наложение новой публичности на старую логистику.",
-        "lookFor": "Shophouse-фасады, складские проёмы, вывески старых компаний, новые кафе/галереи и редкие просветы к Chao Phraya.",
+        "context": "Song Wat выводит рынок к реке. Time Out описывает его как историческую улицу, которая выросла вокруг бывшего коммерческого узла и распределительного центра импортных товаров у Chao Phraya; TAT отдельно связывает Talat Noi и Song Wat с современными прогулками, кафе и art/фототочки. Поэтому здесь хорошо видна смена экономики: старые торговые дома и склады всё ещё говорят о грузах, специях и оптовой торговле, но между ними появляются кофейни, галереи и новые вывески. Это не “модный район вместо старого”, а наложение новой публичности на старую логистику.",
+        "lookFor": "фасады торговых домов, складские проёмы, вывески старых компаний, новые кафе/галереи и редкие просветы к Chao Phraya.",
         "practical": "Song Wat — публичная улица; кафе, галереи и события работают по разным расписаниям. Не рассчитывайте на единый режим района и следите за мотоциклами у кромки дороги.",
-        "sourceNote": "Song Wat сверён по Time Out Bangkok и TAT Talat Noi article 2026-06-26; маршрутный переход к So Heng Tai уточнён через TAT-упоминание Trok San Chao Rong Kueak / Soi Wanit 2.",
+        "sourceNote": "Song Wat сверён по Time Out Bangkok и TAT Talat Noi article 2026-06-28; маршрутный переход к So Heng Tai уточнён через TAT-упоминание Trok San Chao Rong Kueak / Soi Wanit 2.",
         "nextMove": "От Song Wat идите южнее в переулки Талат Ноя через Trok San Chao Rong Kueak / Soi Wanit 2; не уходите на западный берег — это старая ошибка роутера, а не пешеходная логика маршрута.",
         "deepDive": [
           {
             "title": "Склады и новая публичность",
-            "body": "Song Wat не нужно противопоставлять старому Chinatown: он показывает, как старый торговый район переиспользует собственную ткань. Речная логистика, shophouse-архитектура, склады и импортные товары дали улице масштаб. Новые кафе и галереи не стирают этот слой, а делают его видимым для другого типа прогулки. Остановка работает как мост между Сампэнгом и Талат Ноем: от плотного рынка к более медленным переулкам у реки."
+            "body": "Song Wat не нужно противопоставлять старому Chinatown: он показывает, как старый торговый район переиспользует собственную ткань. Речная логистика, архитектура торговых домов, склады и импортные товары дали улице масштаб. Новые кафе и галереи не стирают этот слой, а делают его видимым для другого типа прогулки. Остановка работает как мост между Сампэнгом и Талат Ноем: от плотного рынка к более медленным переулкам у реки."
           }
         ]
       },
       "nameLocal": "ถนนทรงวาด",
       "entry": "свободно",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-7",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-7",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-7-square.jpg",
-        "alt": "Song Wat Road in Bangkok",
+        "alt": "Улица Сонг Ват в Бангкоке",
         "attribution": {
           "author": "Phoebus 28",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -2087,7 +2094,7 @@
       "hours": {
         "rules": [],
         "summary": "Публичная улица; отдельные кафе, галереи, магазины и события имеют разные часы, проверяйте точечные места отдельно.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-timeout-song-wat",
@@ -2107,10 +2114,10 @@
       "time": "15 мин",
       "walk": "-",
       "content": {
-        "context": "TAT описывает Talat Noi как старую community atmosphere с кафе, photo spots и местами памяти, но финал лучше всего собирается во дворе So Heng Tai. Это U-shaped Chinese-style mansion, где сегодня есть кафе и бассейн для diving school; TAT отдельно просит ходить осторожно и не заходить в private или restricted areas. Такой финал меняет тон прогулки: после рынков и улиц вы входите в полупубличное семейное пространство. Здесь старый торговый город не выставлен за стеклом, а аккуратно делится с посетителями ровно настолько, насколько позволяет хозяин, режим и текущий день.",
-        "lookFor": "Переулки Trok San Chao Rong Kueak / Soi Wanit 2, старые мастерские, китайские святилища, двор So Heng Tai, бассейн diving school и границы private/restricted areas.",
+        "context": "TAT описывает Talat Noi как старую атмосферу старого сообщества с кафе, фототочки и местами памяти, но финал лучше всего собирается во дворе So Heng Tai. Это китайский особняк с П-образным двором, где сегодня есть кафе и бассейн для школы дайвинга; TAT отдельно просит ходить осторожно и не заходить в частные или закрытые зоны. Такой финал меняет тон прогулки: после рынков и улиц вы входите в полупубличное семейное пространство. Здесь старый торговый город не выставлен за стеклом, а аккуратно делится с посетителями ровно настолько, насколько позволяет хозяин, режим и текущий день.",
+        "lookFor": "Переулки Trok San Chao Rong Kueak / Soi Wanit 2, старые мастерские, китайские святилища, двор So Heng Tai, бассейн школы дайвинга и границы частных/закрытых зон.",
         "practical": "TAT указывает So Heng Tai Mansion 09:00–18:00, закрыто по понедельникам; Soul's Cafe открыт 10:00–18:30. Это частный дом с ограниченными зонами: не заходите за знаки, уточняйте доступ на месте и не мешайте занятиям/съёмкам.",
-        "sourceNote": "Talat Noi / So Heng Tai сверены по TAT 1 day in Talat Noi 2026-06-26: Trok San Chao Rong Kueak / Soi Wanit 2, So Heng Tai hours 09:00–18:00 closed Mondays, Soul's Cafe 10:00–18:30, private/restricted caveat.",
+        "sourceNote": "Talat Noi / So Heng Tai сверены по TAT 1 day in Talat Noi 2026-06-28: Trok San Chao Rong Kueak / Soi Wanit 2, So Heng Tai 09:00–18:00, закрыто по понедельникам, Soul's Cafe 10:00–18:30, оговорка о частных и закрытых зонах.",
         "nextMove": "Маршрут заканчивается во дворе So Heng Tai. Для выхода возвращайтесь к Charoen Krung / Hua Lamphong MRT или к ближайшему речному пирсу по текущей навигации.",
         "deepDive": [
           {
@@ -2121,12 +2128,13 @@
       },
       "nameLocal": "ตลาดน้อย / บ้านโซวเฮงไถ่",
       "entry": "по месту",
+      "photoAssetId": "bangkok-yaowarat-talat-noi-trade-stop-8",
       "photo": {
         "id": "bangkok-yaowarat-talat-noi-trade-stop-8",
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-stop-8-square.jpg",
-        "alt": "So Heng Tai Mansion in Talat Noi",
+        "alt": "Особняк Со Хенг Тай в Талат Ной",
         "attribution": {
           "author": "Phoebus 28",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -2137,7 +2145,7 @@
       "hours": {
         "rules": [],
         "summary": "TAT: So Heng Tai Mansion ежедневно 09:00–18:00, закрыто по понедельникам; Soul's Cafe 10:00–18:30; доступ частных зон ограничен.",
-        "checkedAt": "2026-06-26"
+        "checkedAt": "2026-06-28"
       },
       "sourceIds": [
         "src-tat-talat-noi",
@@ -2154,6 +2162,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/bangkok/bangkok-yaowarat-talat-noi-trade-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «bangkok-yaowarat-talat-noi-trade»"
-  }
+    "alt": "Маршрутная обложка: Яоварат и Талат Ной, торговый Бангкок"
+  },
+  "coverAssetId": "cover-bangkok-yaowarat-talat-noi-trade"
 }
