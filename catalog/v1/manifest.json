@@ -45,11 +45,11 @@
       "packPath": "cities/charleston-sc/offline-pack.json"
     },
     "chicago": {
-      "packHash": "9ea5e24b28b4",
+      "packHash": "1daf89e16d60",
       "packPath": "cities/chicago/offline-pack.json"
     },
     "granada": {
-      "packHash": "e4f6a54c36b1",
+      "packHash": "cd2cf8de823a",
       "packPath": "cities/granada/offline-pack.json"
     },
     "ghent": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-06-28T08:14:04.942Z",
+  "generatedAt": "2026-06-28T08:43:48.943Z",
   "locale": "ru",
   "schemaVersion": 1
 }

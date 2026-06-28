@@ -1130,11 +1130,11 @@
   },
   "content": {
     "intro": "Бронзвилл легко превратить в список важных адресов. Но сильнее он раскрывается иначе: как город внутри города, где в условиях расовых ограничений возникли собственные институты - деловые, культурные, политические, образовательные. Поэтому маршрут начинается у 35th-Bronzeville-IIT, проходит по State Street через здания Anthony Overton, Chicago Bee и Wabash Avenue YMCA, возвращается к публичной оси King Drive, а затем ведёт к дому Ida B. Wells-Barnett и The Forum. Это не прогулка “по памятникам”. Это история о том, как люди строили инфраструктуру достоинства.",
-    "routeLogic": "Маршрут перестроен из опубликованного порядка в последовательную пешую дугу: станция 35th-Bronzeville-IIT -> Overton Hygienic Building -> Chicago Bee Building -> Wabash Avenue YMCA -> Victory Monument -> Supreme Life Building -> Ida B. Wells-Barnett House -> The Forum. Так точки State/Wabash/King больше не заставляют ходить туда-сюда без причины, а единственный возврат к 35th/King становится осознанным переходом от внутренних институтов района к публичной памяти.",
-    "bestFor": "Тем, кто хочет читать Бронзвилл как систему: Great Migration, афроамериканское предпринимательство, пресса, социальная инфраструктура, гражданская борьба и музыка связаны здесь в одну городскую ткань.",
-    "notFor": "Тем, кто ждёт короткий downtown-маршрут или доступ внутрь каждого здания. Многие остановки важны именно как внешние адреса памяти.",
-    "beforeYouGo": "Маршрут point-to-point: удобно начать на Green Line 35th-Bronzeville-IIT и закончить ближе к 43rd Street. Проверяйте CTA alerts, расписание Chicago Bee Branch Library и любые события The Forum отдельно; частный дом Ida B. Wells-Barnett осматривается только с тротуара.",
-    "timing": "Заложите около 2,5-3 часов с остановками. Участок открытый и городской: летом берите воду, зимой учитывайте ветер, а вечером лучше не растягивать прогулку."
+    "routeLogic": "Маршрут идёт последовательной пешей дугой: станция 35th-Bronzeville-IIT, Overton Hygienic Building, Chicago Bee Building, Wabash Avenue YMCA, Victory Monument, Supreme Life Building, Ida B. Wells-Barnett House и The Forum. Так точки State/Wabash/King читаются без лишних возвратов, а переход к 35th/King становится осознанным движением от внутренних институтов района к публичной памяти.",
+    "bestFor": "Тем, кто хочет читать Bronzeville как систему Великого переселения (Great Migration), бизнеса, прессы, социальной инфраструктуры, гражданской борьбы и музыки\nТем, кому важны фасады-ориентиры и районная память, а не только музейные интерьеры\nТем, кто готов уважать частные адреса и действующие общественные здания",
+    "notFor": "Короткого маршрута по центру без переездов\nТем, кому нужен гарантированный вход внутрь каждого здания\nПозднего вечера: многие остановки лучше работают как дневное чтение фасадов и улиц",
+    "beforeYouGo": "Удобно начать на Green Line 35th-Bronzeville-IIT и закончить ближе к 43rd Street; проверяйте предупреждения CTA. Chicago Bee Branch Library имеет ограниченные часы, The Forum находится в процессе восстановления и открывается по событиям, а Ida B. Wells-Barnett House — частная резиденция, не открытая публике. Идите днём, с водой летом и запасом времени зимой.",
+    "timing": "Заложите около 2,5-3 часов с остановками и уличным чтением. Если заходите в Chicago Bee Branch или попадаете на событие The Forum, добавьте время отдельно."
   },
   "stopList": [
     {
@@ -1148,19 +1148,21 @@
       "content": {
         "context": "Начинайте не с монумента, а со станции. 35th-Bronzeville-IIT работает как порог: поезд привозит вас к State Street, рядом с IIT, но дальше маршрут уводит в другой Чикаго - в район, где в начале XX века афроамериканские жители строили свои банки, газеты, страховые компании, клубы и общественные залы, потому что большой город слишком часто закрывал перед ними двери.",
         "lookFor": "Посмотрите на соседство станции, кампуса, широких улиц и старых фасадов: это не музейный вход, а обычная городская сцена, из которой и начинается память.",
-        "practical": "Не задерживайтесь на платформе и не мешайте пассажирскому потоку. Историческую часть лучше читать уже на тротуаре State Street.",
+        "practical": "CTA 35th-Bronzeville-IIT — действующая станция Green Line: не задерживайтесь на платформе и проверяйте предупреждения CTA и лифты перед поездкой. Историческую часть лучше читать уже на тротуаре State Street.",
         "nextMove": "Идите на юг по State Street к Overton Hygienic Building: прогулка сначала показывает экономический позвоночник Black Metropolis.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Прибытие как начало истории",
             "body": "Станция важна как способ настроить взгляд. Great Migration часто рассказывают через большие числа и железнодорожные линии, но на месте она превращается в простое действие: человек выходит из транспорта и ищет работу, комнату, газету, банк, церковь, клуб, безопасность. Нынешняя станция не обязана быть старым экспонатом, чтобы быть правильным началом. Она возвращает маршруту живую механику прибытия: Бронзвилл был не декорацией для истории, а районом, куда люди приезжали с надеждой собрать город заново для себя."
           }
-        ]
+        ],
+        "sourceNote": "Стартовая транспортная логика сверена по контекст станции CTA и предупреждений; рамка Black Metropolis — по NPS Bronzeville-Black Metropolis NHA, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Действующая станция CTA; перед поездкой проверяйте Green Line alerts и доступность лифтов на сайте CTA."
+        "summary": "Действующая станция CTA; проверяйте предупреждения Green Line и статус лифтов.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-1",
       "sourceIds": [
@@ -1172,7 +1174,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-1-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-1-square.jpg",
-        "alt": "CTA Green Line @ 35th-Bronzeville-IIT",
+        "alt": "CTA Green Line у станции 35th-Bronzeville-IIT.",
         "attribution": {
           "author": "David Wilson",
           "license": "CC BY 2.0; cropped/resized for app",
@@ -1196,19 +1198,21 @@
       "content": {
         "context": "Anthony Overton построил это здание в 1922-1923 годах для Overton Hygienic Company, одного из заметных производителей косметики для афроамериканских клиентов. Но это был не только завод и офис. По данным Chicago Landmarks, здесь также работали Victory Life Insurance Company, Douglass National Bank и кабинеты профессионалов, которым центр города часто не давал равных возможностей.",
         "lookFor": "Смотрите на фасад как на инфраструктуру самостоятельности: за кирпичом и камнем стояли услуги, капитал и профессиональная сеть.",
-        "practical": "Здание лучше читать с противоположной стороны улицы, где видны масштаб и горизонтальные пояса фасада.",
+        "practical": "Overton Hygienic Building — наружная остановка. Смотрите фасад с противоположной стороны улицы, где видны масштаб и горизонтальные пояса; не заходите в закрытые помещения.",
         "nextMove": "Спускайтесь к Chicago Bee Building. Здесь история бизнеса превращается в историю печати и публичного голоса.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Бизнес как инфраструктура достоинства",
             "body": "Overton Hygienic Building - хороший антидот против романтической версии Бронзвилла, где остаются только джаз и красивые легенды. Black Metropolis держался на бухгалтерии, аренде офисов, страховании, кредитах, производстве, рекламе, врачах, юристах и клиентах. Это была деловая экосистема, созданная в ответ на расовые барьеры большого города. Поэтому фасад важен не как “старое здание”, а как след того, что район пытался сделать сам: обслуживать своих жителей, инвестировать в них и доказывать, что экономическая жизнь не обязана ждать разрешения извне."
           }
-        ]
+        ],
+        "sourceNote": "Адрес, даты 1922-1923, Anthony Overton и статус Chicago Landmark сверены по City of Chicago Landmarks Overton Hygienic Building, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Осмотр снаружи; это не свободная музейная площадка. Держитесь тротуара и не заходите в частные/закрытые помещения."
+        "summary": "Наружная landmark-остановка; свободного музейного входа нет.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-4",
       "sourceIds": [
@@ -1220,7 +1224,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-4-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-4-square.jpg",
-        "alt": "Overton Hygienic Building, Chicago IL",
+        "alt": "Overton Hygienic Building в Bronzeville.",
         "attribution": {
           "author": "Andrew Jameson",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1244,19 +1248,21 @@
       "content": {
         "context": "Chicago Bee Building построили в 1929-1931 годах по проекту Z. Erol Smith как штаб-квартиру газеты Chicago Bee, основанной Anthony Overton. Chicago Landmarks отмечает art deco-стиль, верхние жилые этажи, связь с Douglass National Bank и Overton Hygienic Company, а также позднее превращение здания в филиал публичной библиотеки.",
         "lookFor": "Ищите, как декоративность фасада спорит с представлением о “периферийном” районе: это не подсобное здание, а уверенное заявление.",
-        "practical": "Если библиотека открыта, входите как обычный посетитель и сверяйте правила на месте; если нет, фасада достаточно для маршрута.",
+        "practical": "Если Chicago Bee Branch Library открыта, входите как обычный посетитель и соблюдайте правила библиотеки. Актуальные часы CPL ограничены несколькими днями недели, поэтому не стройте маршрут вокруг гарантированного входа.",
         "nextMove": "Идите к Wabash Avenue YMCA. После газеты маршрут переходит к ежедневной социальной инфраструктуре Great Migration.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Газета, ставшая библиотечной памятью",
             "body": "Газета в таком районе была больше, чем хроника. Она объясняла, кто открыл бизнес, кто борется за права, где искать работу, какие события важны, как район видит сам себя. Поэтому Chicago Bee Building логично стоит сразу после Overton Hygienic: один предпринимательский мир порождает другой - фабрику, банк, страхование, печать, библиотечную память. Здесь становится ясно, что Black Metropolis был не только местом выживания. Он создавал язык собственного достоинства и распространял его по страницам, витринам и адресам."
           }
-        ]
+        ],
+        "sourceNote": "история Chicago Bee Building как landmark сверена по City of Chicago Landmarks; текущие часы библиотеки-филиала сверены по Chicago Public Library Chicago Bee page, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Снаружи доступно всегда; если хотите зайти в Chicago Bee Branch Library, проверяйте актуальное расписание Chicago Public Library."
+        "summary": "Chicago Bee Branch имеет ограниченные часы; проверяйте CPL перед входом.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-5",
       "sourceIds": [
@@ -1267,7 +1273,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-5-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-5-square.jpg",
-        "alt": "Chicago Bee Building",
+        "alt": "Chicago Bee Building, сегодня библиотека-филиал в Bronzeville.",
         "attribution": {
           "author": "TonyTheTiger",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1291,19 +1297,21 @@
       "content": {
         "context": "Wabash Avenue YMCA строили в 1911-1913 годах. Chicago Landmarks описывает его как важный центр общественной жизни: здесь давали жильё и профессиональную подготовку людям, прибывавшим с Юга во время Great Migration. В 1915 году именно здесь основали Association for the Study of Negro Life and History - одну из первых организаций, целиком посвящённых изучению афроамериканской истории.",
         "lookFor": "Представьте это здание не как общежитие, а как систему адаптации: койка, душ, курс, знакомство, работа, новая городская уверенность.",
-        "practical": "Фасад читается с Wabash Avenue; не заходите во двор и не блокируйте входы.",
+        "practical": "Wabash Avenue YMCA осматривается снаружи; внутрь не рассчитывайте попасть без отдельного события или разрешения. Фасад читается с Wabash Avenue, без захода во двор.",
         "nextMove": "Идите к Victory Monument на 35th Street and King Drive. Там частная работа институтов превращается в публичный монумент.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Механизм превращения приезжего в горожанина",
             "body": "YMCA добавляет к маршруту человеческую температуру. Банки и газеты показывают зрелые институты, но кто-то должен был помочь человеку пережить первые недели в новом городе. Great Migration была не абстрактным “потоком населения”, а миллионами бытовых решений: где спать, как получить навык, кого спросить о работе, как не потеряться. В этом смысле Wabash Avenue YMCA был не только зданием, а механизмом превращения приезжего в горожанина. Поэтому после него иначе читаются все остальные точки: за каждой организацией стоит чей-то первый день в Чикаго."
           }
-        ]
+        ],
+        "sourceNote": "Wabash Avenue YMCA как часть Black Metropolis-Bronzeville landmark district сверена по City/NPS landmark materials, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Осмотр снаружи; внутрь не рассчитывайте попасть без отдельного события или разрешения."
+        "summary": "Наружная landmark-остановка; внутренний доступ не является частью маршрута.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-6",
       "sourceIds": [
@@ -1315,7 +1323,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-6-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-6-square.jpg",
-        "alt": "Wabash Avenue YMCA, Chicago IL",
+        "alt": "Wabash Avenue YMCA в Bronzeville.",
         "attribution": {
           "author": "Andrew Jameson",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1339,19 +1347,21 @@
       "content": {
         "context": "Victory Monument стоит на 35th Street and King Drive. По данным Chicago Landmarks, его возвели в честь 8-го полка Национальной гвардии Иллинойса, афроамериканского подразделения, служившего во Франции в составе 370-го полка США во время Первой мировой войны. Памятник проектировали John A. Nyden и Leonard Crunelle; бронзовые панели и фигура солдата закрепили в камне публичную память района.",
         "lookFor": "Смотрите на бронзовые панели как на двойной жест: признание военной службы и напоминание, что дома признание всё ещё приходилось отвоёвывать.",
-        "practical": "Памятник стоит в транспортной среде. Не выходите на проезжую часть ради фотографии; лучше обойти его с безопасных переходов.",
+        "practical": "Victory Monument стоит в транспортной среде на King Drive. Не выходите на проезжую часть ради фотографии; обходите памятник только через безопасные переходы.",
         "nextMove": "Перейдите к Supreme Life Building. От памяти о службе маршрут снова возвращается к институтам Black Metropolis.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Военная служба и право быть видимым",
             "body": "Эта остановка не про героическую точку в вакууме. Она ставит неудобный вопрос: что значит служить стране, которая дома ограничивает твои права? Именно поэтому Victory Monument хорошо работает после YMCA. Сначала вы видите, как район помогал новым горожанам устроиться, затем - как он публично увековечивал вклад людей, чья доблесть не защищала их от сегрегации. В таком контексте монумент перестаёт быть просто “военным памятником”. Он становится частью городской борьбы за видимость."
           }
-        ]
+        ],
+        "sourceNote": "Victory Monument и связь с Black Metropolis district сверены по NPS teaching/NHA materials и City landmark context, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Открытый памятник на городской оси; переходите King Drive только по переходам и выбирайте безопасную точку обзора."
+        "summary": "Открытый городской памятник; смотрите с безопасных переходов.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-2",
       "sourceIds": [
@@ -1363,7 +1373,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-2-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-2-square.jpg",
-        "alt": "Victory Monument (Chicago)",
+        "alt": "Victory Monument на King Drive в Bronzeville.",
         "attribution": {
           "author": "TonyTheTiger",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1387,19 +1397,21 @@
       "content": {
         "context": "Supreme Life Building по адресу 3501 S. Dr. Martin Luther King Jr. Drive был построен в 1921 году. Chicago Landmarks связывает его с Liberty Life Insurance Company Фрэнка Л. Гиллеспи, первой афроамериканской страховой компанией жизни на севере США; в 1929 году после слияния она стала Supreme Life Insurance Company of America.",
         "lookFor": "Обратите внимание на модернизированный фасад: в 1950 году компания закрыла прежнюю классическую оболочку новыми панелями, показывая, что выживание тоже требует обновления.",
-        "practical": "Не рассчитывайте на гарантированный вход: даже если в здании работают общественные функции, расписание нужно проверять отдельно.",
+        "practical": "Supreme Life Building лучше читать снаружи. Даже если в здании работают общественные функции, вход и информация для посетителей зависят от текущего расписания и не должны быть обязательной частью маршрута.",
         "nextMove": "Идите к Ida B. Wells-Barnett House. После корпоративной истории будет частный дом, где политическая смелость становится личной.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Страхование как право на будущее",
             "body": "Страхование кажется сухой темой, пока не вспомнить, что речь идёт о праве семьи на будущее. Если белые институты не обслуживали афроамериканских клиентов на равных условиях, свои страховые компании становились не просто бизнесом, а способом защитить достоинство и имущество. Supreme Life пережила Depression-era удар лучше многих соседних предприятий, а затем изменила фасад, будто демонстрируя: Black Metropolis не был застывшим кварталом 1920-х. Он пытался адаптироваться, сохранять клиентов, говорить языком новой эпохи."
           }
-        ]
+        ],
+        "sourceNote": "Supreme Life Building как Black Metropolis landmark сверено по City/NPS landmark materials; обещания текущего входа убраны, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Осмотр снаружи; если Visitor Information Center открыт, заходите по актуальному расписанию и правилам на месте."
+        "summary": "Наружная landmark-остановка; текущий вход проверяйте отдельно.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-3",
       "sourceIds": [
@@ -1411,7 +1423,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-3-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-3-square.jpg",
-        "alt": "Supreme Life Building",
+        "alt": "Supreme Life Building в Bronzeville.",
         "attribution": {
           "author": "Legimet",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1435,19 +1447,21 @@
       "content": {
         "context": "Ida B. Wells-Barnett House - частный дом на King Drive и National Historic Landmark. NPS указывает, что Wells-Barnett и её муж купили дом в 1919 году и жили здесь до конца 1920-х; Chicago Landmarks называет его единственной прямой физической связью с её жизнью в Чикаго. Wells была журналисткой, организаторкой, борцом против линчевания и сегрегации.",
         "lookFor": "Не ищите музейных жестов: сила этой точки именно в масштабе жилого дома, который держит историю национальной смелости.",
-        "practical": "Это частный адрес. Не заходите на участок, не фотографируйте окна крупным планом и не задерживайтесь у входа.",
+        "practical": "Это частная резиденция. Не заходите на участок, не фотографируйте окна крупным планом и не задерживайтесь у входа; достаточно остановки с тротуара.",
         "nextMove": "Идите к The Forum на 43rd Street. Там маршрут заканчивается не тишиной частного дома, а общественной сценой.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Частный дом, публичная борьба",
             "body": "После Supreme Life этот дом меняет тон прогулки. Институты важны, но история прав не делается одними учреждениями. Она держится на людях, которые рискуют репутацией, безопасностью и бытом. Wells-Barnett писала о линчевании, спорила с сегрегацией, участвовала в женском избирательном движении и помогала строить организации, которые пережили её саму. Важно, что маршрут не превращает её в цитату на табличке. Вы стоите перед обычным домом и видите, что национальная история иногда начинается за частной дверью."
           }
-        ]
+        ],
+        "sourceNote": "Статус частного дома, рамка National Historic Landmark и биография Wells-Barnett сверены по NPS Ida B. Wells-Barnett House и NPS Ida B. Wells pages, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Частная резиденция, не открыта для публики; смотрите только с тротуара и не тревожьте жильцов."
+        "summary": "Частная резиденция; не открыта для публики.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-7",
       "sourceIds": [
@@ -1458,7 +1472,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-7-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-7-square.jpg",
-        "alt": "Ida B. Wells-Barnett House",
+        "alt": "Ida B. Wells-Barnett House в Bronzeville.",
         "attribution": {
           "author": "TonyTheTiger",
           "license": "CC BY-SA 3.0; cropped/resized for app; ShareAlike applies",
@@ -1482,19 +1496,21 @@
       "content": {
         "context": "The Forum построили в 1897 году. National Trust называет его старейшим community meeting and performance hall в Bronzeville и одним из главных мест собраний в годы Great Migration. Здесь сходились политика, торговля, музыка и повседневная жизнь 43rd Street; в памяти здания остаются Nat King Cole, Muddy Waters и Louis Armstrong.",
         "lookFor": "Смотрите на арки и длинный уличный фронт как на обещание возвращения: здание пережило пустоту, но всё ещё держит форму общественного центра.",
-        "practical": "Финал лучше делать днём. Если видите строительные ограждения или закрытые участки, не заходите за них.",
+        "practical": "The Forum лучше смотреть днём; не заходите за строительные ограждения и проверяйте события заранее. Если открыт Forum Cafe или событие open house, это бонус, а не обязательная часть маршрута.",
         "nextMove": "Маршрут завершён.",
         "deepDive": [
           {
-            "title": "Глубже",
+            "title": "Зал, где район снова получает голос",
             "body": "The Forum нужен как финал, потому что он собирает разрозненные темы маршрута в один зал. Экономика State Street, помощь новым горожанам, публичная память, страхование, журналистика и борьба за права - всё это должно было где-то встречаться лицом к лицу. Общественный зал делает город слышимым: здесь можно спорить, танцевать, слушать музыку, собирать деньги, строить планы. В конце прогулки Бронзвилл перестаёт быть “историческим районом” в прошедшем времени. Он становится вопросом о том, какие здания мы спасаем, чтобы община снова могла говорить полным голосом."
           }
-        ]
+        ],
+        "sourceNote": "Адрес, статус восстановления и планы культурной программы сверены по The Forum Bronzeville/Build Bronzeville; NRHP/social-hall history сверена по NPS Forum Hall, проверено 2026-06-28."
       },
       "entry": "снаружи",
       "hours": {
         "rules": [],
-        "summary": "Здание находится в процессе восстановления; не рассчитывайте на свободный вход, осматривайте снаружи и сверяйте актуальные события отдельно."
+        "summary": "Восстанавливаемое пространство событий и сообщества; вход только по событиям или актуальному режиму.",
+        "checkedAt": "2026-06-28"
       },
       "photoAssetId": "chicago-bronzeville-black-metropolis-stop-8",
       "sourceIds": [
@@ -1505,7 +1521,7 @@
         "kind": "photo",
         "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-8-wide.jpg",
         "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-stop-8-square.jpg",
-        "alt": "The Forum (Chicago, IL)",
+        "alt": "The Forum на 43rd Street в Bronzeville.",
         "attribution": {
           "author": "Jim Roberts",
           "license": "CC BY-SA 4.0; cropped/resized for app; ShareAlike applies",
@@ -1524,7 +1540,7 @@
     "kind": "generated",
     "wide": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-cover-wide.jpg",
     "square": "https://rentery.github.io/images/v1/chicago/chicago-bronzeville-black-metropolis-cover-square.jpg",
-    "alt": "Сгенерированная editorial-обложка маршрута «chicago-bronzeville-black-metropolis»"
+    "alt": "Сгенерированная обложка: Bronzeville, King Drive, Black Metropolis landmarks и городская память Great Migration."
   },
   "coverAssetId": "chicago-bronzeville-black-metropolis-cover"
 }
