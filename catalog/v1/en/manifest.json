@@ -9,7 +9,7 @@
       "packPath": "cities/seoul/offline-pack.json"
     },
     "belgrade": {
-      "packHash": "f5c235e0bc73",
+      "packHash": "dcef2312a20a",
       "packPath": "cities/belgrade/offline-pack.json"
     },
     "sarajevo": {
@@ -37,7 +37,7 @@
       "packPath": "cities/budapest/offline-pack.json"
     },
     "cape-town": {
-      "packHash": "0b1af0e961e9",
+      "packHash": "ca3e144b9578",
       "packPath": "cities/cape-town/offline-pack.json"
     },
     "charleston-sc": {
@@ -93,7 +93,7 @@
       "packPath": "cities/fes/offline-pack.json"
     },
     "george-town-malaysia": {
-      "packHash": "84bdb8198032",
+      "packHash": "d238f67e8495",
       "packPath": "cities/george-town-malaysia/offline-pack.json"
     },
     "athens": {
@@ -121,11 +121,11 @@
       "packPath": "cities/brussels/offline-pack.json"
     },
     "buenos-aires": {
-      "packHash": "98db55e74dca",
+      "packHash": "27cd24d002d0",
       "packPath": "cities/buenos-aires/offline-pack.json"
     },
     "busan": {
-      "packHash": "a2dd2659b5e4",
+      "packHash": "1a226f995966",
       "packPath": "cities/busan/offline-pack.json"
     },
     "cairo": {
@@ -133,7 +133,7 @@
       "packPath": "cities/cairo/offline-pack.json"
     },
     "cartagena-colombia": {
-      "packHash": "4bbf6e07742c",
+      "packHash": "c121f8ed19cd",
       "packPath": "cities/cartagena-colombia/offline-pack.json"
     },
     "chiang-mai": {
@@ -153,7 +153,7 @@
       "packPath": "cities/dubrovnik/offline-pack.json"
     },
     "hanoi": {
-      "packHash": "b72911c7ceca",
+      "packHash": "6110ec11c1f6",
       "packPath": "cities/hanoi/offline-pack.json"
     },
     "havana": {
@@ -233,7 +233,7 @@
       "packPath": "cities/quebec-city/offline-pack.json"
     },
     "quito": {
-      "packHash": "b253677c3e97",
+      "packHash": "431d62d619cb",
       "packPath": "cities/quito/offline-pack.json"
     },
     "riga": {
@@ -257,7 +257,7 @@
       "packPath": "cities/san-francisco/offline-pack.json"
     },
     "santiago-chile": {
-      "packHash": "02c6c1926d57",
+      "packHash": "00b25f0ddc4e",
       "packPath": "cities/santiago-chile/offline-pack.json"
     },
     "seville": {
@@ -265,7 +265,7 @@
       "packPath": "cities/seville/offline-pack.json"
     },
     "hong-kong": {
-      "packHash": "24ffd66799e7",
+      "packHash": "940af96bc7ed",
       "packPath": "cities/hong-kong/offline-pack.json"
     },
     "istanbul": {
@@ -297,7 +297,7 @@
       "packPath": "cities/kyoto/offline-pack.json"
     },
     "lima": {
-      "packHash": "7901cc67984f",
+      "packHash": "f92456128497",
       "packPath": "cities/lima/offline-pack.json"
     },
     "lisbon": {
@@ -329,15 +329,15 @@
       "packPath": "cities/marseille/offline-pack.json"
     },
     "melbourne": {
-      "packHash": "1242da1d2a42",
+      "packHash": "add17cfa5235",
       "packPath": "cities/melbourne/offline-pack.json"
     },
     "shanghai": {
-      "packHash": "3c69bcbc6e5f",
+      "packHash": "eb599b3d8957",
       "packPath": "cities/shanghai/offline-pack.json"
     },
     "singapore": {
-      "packHash": "a67760160186",
+      "packHash": "e449a361512b",
       "packPath": "cities/singapore/offline-pack.json"
     },
     "stockholm": {
@@ -349,11 +349,11 @@
       "packPath": "cities/sydney/offline-pack.json"
     },
     "taipei": {
-      "packHash": "35818f53b742",
+      "packHash": "446b902d4d99",
       "packPath": "cities/taipei/offline-pack.json"
     },
     "tallinn": {
-      "packHash": "0b0b7675f1a1",
+      "packHash": "3372dd2f22d0",
       "packPath": "cities/tallinn/offline-pack.json"
     },
     "tbilisi": {
@@ -393,7 +393,7 @@
       "packPath": "cities/warsaw/offline-pack.json"
     },
     "washington-dc": {
-      "packHash": "31deca1b0f11",
+      "packHash": "ba2546554fb3",
       "packPath": "cities/washington-dc/offline-pack.json"
     },
     "wellington": {
@@ -414,7 +414,7 @@
     }
   },
   "defaultLocale": "ru",
-  "generatedAt": "2026-07-01T09:33:44.952Z",
+  "generatedAt": "2026-07-01T19:44:51.338Z",
   "locale": "en",
   "schemaVersion": 1
 }
